@@ -1,0 +1,31 @@
+﻿<Window x:Class="HaruhiChokuretsuEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HaruhiChokuretsuEditor"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl x:Name="mainTabControl">
+            <TabItem Header="Events">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="99*"/>
+                        <ColumnDefinition Width="695*"/>
+                    </Grid.ColumnDefinitions>
+                    <ToolBar x:Name="scriptToolBar" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="1043" Grid.ColumnSpan="2">
+                        <Button x:Name="openEventsFileButton" Content="Open" HorizontalAlignment="Left" Click="OpenEventsFileButton_Click" />
+                        <Button x:Name="saveEventsFileButton" Content="Save" HorizontalAlignment="Left" Click="SaveEventsFileButton_Click" />
+                    </ToolBar>
+                    <TabControl x:Name="messageFileTabControl" Margin="0,35,277,0" Grid.ColumnSpan="2" />
+                    <ScrollViewer Grid.Column="1" Margin="423,30,0,0">
+                        <DockPanel>
+                            <StackPanel x:Name="editStackPanel" />
+                        </DockPanel>
+                    </ScrollViewer>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
