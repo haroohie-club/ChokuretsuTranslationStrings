@@ -1,0 +1,48 @@
+0x2026190 -- decompression subroutine
+
+021C46FC -- where the first line of haruhi dialogue gets written
+
+r0 = z
+r1 = a
+r2 = b
+r3 = c
+r4 = d
+r5 = e
+r6 = f
+r7 = g
+r8 = h
+r9 = i
+r10 = j
+r11 = k
+r12 = l
+
+r0 = [data]
+r1 = r2 = [output]
+
+Lxx_2026198
+c = data[z++]           // ldrb     r3,[r0],1h
+if (c == 0h)            // cmp      r3,0h
+    goto Lxx_20262A0    // beq      Lxx_20262A0h
+if (c & 0x80 == 0)      // tst      r3,80h
+    goto Lxx_2026224    // beq      Lxx_2026224h
+
+
+Lxx_2026224
+if (c & 0x40 == 0)      // tst      r3,40h
+    goto Lxx_2026268    // beq      Lxx_2026268h
+
+
+Lxx_2026268
+if (c & 0x20 == 0)      // tst      r3,20h
+    l = c & 0x1F        // andeq    r12,r3,1Fh
+    goto Lxx_2026280    // beq      Lxx_2026280h
+
+Lxx_2026280
+if  (l <= 0)            // cmp      r12,0h
+    goto Lxx_2026198    // ble      Lxx_2026198h
+while (l > 0)           // bgt      Lxx_2026288h (self)
+    c = data[z++]       // ldrb     r3,[r0],1h
+    l--                 // sub      r12,r12,1h
+    output[a++]         // strb     r3,[r1],1h
+goto Lxx_2026198h
+    

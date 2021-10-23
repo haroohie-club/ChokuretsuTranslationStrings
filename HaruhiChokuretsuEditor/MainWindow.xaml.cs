@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -28,7 +29,14 @@ namespace HaruhiChokuretsuEditor
 
         private void OpenEventsFileButton_Click(object sender, RoutedEventArgs e)
         {
+            OpenFileDialog openFileDialog = new OpenFileDialog
+            {
+                Filter = "EVT file|*.evt"
+            };
+            if (openFileDialog.ShowDialog() == true)
+            {
 
+            }
         }
 
         private void SaveEventsFileButton_Click(object sender, RoutedEventArgs e)
