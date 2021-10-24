@@ -10,7 +10,11 @@ namespace HaruhiChokuretsuEditor
     {
         public static byte[] DecompressData(byte[] compressedData)
         {
-            
+            List<byte> decompressedData = new();
+
+
+
+            return decompressedData.ToArray();
         }
     }
 }

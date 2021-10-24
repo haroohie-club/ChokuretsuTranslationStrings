@@ -15,6 +15,8 @@ r9 = i
 r10 = j
 r11 = k
 r12 = l
+r13 = m
+r14 = n
 
 r0 = [data]
 r1 = r2 = [output]
@@ -25,6 +27,18 @@ if (c == 0h)            // cmp      r3,0h
     goto Lxx_20262A0    // beq      Lxx_20262A0h
 if (c & 0x80 == 0)      // tst      r3,80h
     goto Lxx_2026224    // beq      Lxx_2026224h
+l = data[z++]           // ldrb     r12,[r0],1h
+n = c & 0x60            // and      r14,r3,60h
+c <<= 0x1B              // mov      r3,r3,lsl 1Bh
+n >>= 0x05              // mov      r14,r14,asr 5h
+c = l | (r3 >> 0x13)    // orr      r3,r12,r3,lsr 13h
+l = n + 0x04            // add      r12,r14,4h
+n = a - c               // sub      r14,r1,r3
+Lxx_20261C8
+while (l > 0)           // cmp      r12,0h
+    c = output[n++]     // ldrb     r3,[r14],1h
+    l--                 // sub      r12,r12,1h
+
 
 
 Lxx_2026224
