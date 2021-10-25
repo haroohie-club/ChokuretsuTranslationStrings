@@ -14,10 +14,67 @@ namespace HaruhiChokuretsuEditor
 
             for (int z = 0; z < compressedData.Length;)
             {
-                int val = compressedData[z++];
-                if (val > 0)
+                int blockByte = compressedData[z++];
+                if (blockByte == 0)
                 {
                     break;
+                }
+
+                if ((blockByte & 0x80) == 0)
+                {
+                    if ((blockByte & 0x40) == 0)
+                    {
+                        int numBytes;
+                        if ((blockByte & 0x20) == 0)
+                        {
+                            numBytes = blockByte & 0x1F;
+                        }
+                        else
+                        {
+                            numBytes = compressedData[z++] + ((blockByte & 0x0F) * 0x100);
+                        }
+                        for (int i = 0; i < numBytes; i++)
+                        {
+                            decompressedData.Add(compressedData[z++]);
+                        }
+                    }
+                    else
+                    {
+                        int numBytes;
+                        if ((blockByte & 0x10) == 0)
+                        {
+                            numBytes = (blockByte & 0x0F) + 4;
+                        }
+                        else
+                        {
+                            numBytes = compressedData[z++] + ((blockByte & 0x07) * 0x10) + 4;
+                        }
+                        byte repeatedByte = compressedData[z++];
+                        for (int i = 0; i < numBytes; i++)
+                        {
+                            decompressedData.Add(repeatedByte);
+                        }
+                    }
+                }
+                else
+                {
+                    int numBytes = ((blockByte & 0x60) >> 0x05) + 4;
+                    int backReferenceIndex = decompressedData.Count - (compressedData[z++] + ((blockByte & 0x0F) * 0x100));
+                    for (int i = backReferenceIndex; i < backReferenceIndex + numBytes; i++)
+                    {
+                        decompressedData.Add(decompressedData[i]);
+                    }
+                    while ((compressedData[z] & 0xE0) == 0x60)
+                    {
+                        int secondNumBytes = compressedData[z++] & 0x1F;
+                        if (secondNumBytes > 0)
+                        {
+                            for (int i = backReferenceIndex + numBytes; i < backReferenceIndex + numBytes + secondNumBytes; i++)
+                            {
+                                decompressedData.Add(decompressedData[i]);
+                            }
+                        }
+                    }
                 }
             }
 
