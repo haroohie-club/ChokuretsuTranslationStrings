@@ -43,11 +43,11 @@ namespace HaruhiChokuretsuEditor
                         int numBytes;
                         if ((blockByte & 0x10) == 0)
                         {
-                            numBytes = (blockByte & 0x0F) + 4;
+                            numBytes = (blockByte & 0x1F) + 4;
                         }
                         else
                         {
-                            numBytes = compressedData[z++] + ((blockByte & 0x07) * 0x10) + 4;
+                            numBytes = compressedData[z++] + ((blockByte & 0x0F) * 0x10) + 4;
                         }
                         byte repeatedByte = compressedData[z++];
                         for (int i = 0; i < numBytes; i++)
@@ -59,25 +59,30 @@ namespace HaruhiChokuretsuEditor
                 else
                 {
                     int numBytes = ((blockByte & 0x60) >> 0x05) + 4;
-                    int backReferenceIndex = decompressedData.Count - (compressedData[z++] + ((blockByte & 0x0F) * 0x100));
+                    int backReferenceIndex = decompressedData.Count - (compressedData[z++] + ((blockByte & 0x1F) * 0x100));
                     for (int i = backReferenceIndex; i < backReferenceIndex + numBytes; i++)
                     {
                         decompressedData.Add(decompressedData[i]);
                     }
                     while ((compressedData[z] & 0xE0) == 0x60)
                     {
-                        int secondNumBytes = compressedData[z++] & 0x1F;
-                        if (secondNumBytes > 0)
+                        int nextNumBytes = compressedData[z++] & 0x1F;
+                        if (nextNumBytes > 0)
                         {
-                            for (int i = backReferenceIndex + numBytes; i < backReferenceIndex + numBytes + secondNumBytes; i++)
+                            for (int i = backReferenceIndex + numBytes; i < backReferenceIndex + numBytes + nextNumBytes; i++)
                             {
                                 decompressedData.Add(decompressedData[i]);
                             }
                         }
+                        backReferenceIndex += nextNumBytes;
                     }
                 }
             }
 
+            while (decompressedData.Count % 0x10 != 0)
+            {
+                decompressedData.Add(0x00);
+            }
             return decompressedData.ToArray();
         }
     }
