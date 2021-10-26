@@ -8,10 +8,85 @@ namespace HaruhiChokuretsuEditor
 {
     public static class Helpers
     {
+        public static byte[] CompressData(byte[] decompressedData)
+        {
+            List<byte> compressedData = new();
+
+            int directBytesToWrite = 0;
+            for (int i = 0; i < decompressedData.Length;)
+            {
+                int numNext = Math.Min(decompressedData.Length - i - 1, 4);
+                if (numNext == 0)
+                {
+                    break;
+                }
+
+                List<byte> nextBytes = decompressedData.Skip(i).Take(numNext).ToList();
+                if (nextBytes.All(b => b == nextBytes[0]))
+                {
+                    if (directBytesToWrite > 0)
+                    {
+                        WriteDirectBytes(decompressedData, compressedData, i, directBytesToWrite);
+                        directBytesToWrite = 0;
+                    }
+
+                    List<byte> repeatedBytes = decompressedData.Skip(i).TakeWhile(b => b == nextBytes[0]).ToList();
+                    int numRepeatedBytes = Math.Min(0x1F3, repeatedBytes.Count);
+                    if (numRepeatedBytes <= 0x13)
+                    {
+                        compressedData.Add((byte)(0x40 | (numRepeatedBytes - 4))); // 0x40 -- repeated byte, 4-bit length
+                    }
+                    else
+                    {
+                        int numToEncode = numRepeatedBytes - 4;
+                        int msb = numToEncode & 0xF0;
+                        byte firstByte = (byte)(0x50 | (msb / 0x10));
+                        byte secondByte = (byte)(numToEncode - msb); // 0x50 -- repeated byte, 12-bit length
+                        compressedData.AddRange(new byte[] { firstByte, secondByte });
+                    }
+                    compressedData.Add(repeatedBytes[0]);
+                    i += numRepeatedBytes;
+                }
+                else
+                {
+                    if (directBytesToWrite + numNext > 0x1FFF)
+                    {
+                        WriteDirectBytes(decompressedData, compressedData, i, directBytesToWrite);
+                    }
+                    directBytesToWrite++;
+                    i++;
+                }
+            }
+
+            if (directBytesToWrite > 0)
+            {
+                WriteDirectBytes(decompressedData, compressedData, compressedData.Count, directBytesToWrite);
+            }
+
+            return compressedData.ToArray();
+        }
+
+        private static void WriteDirectBytes(byte[] writeFrom, List<byte> writeTo, int position, int numBytesToWrite)
+        {
+            if (numBytesToWrite < 0x20)
+            {
+                writeTo.Add((byte)numBytesToWrite);
+            }
+            else
+            {
+                int msb = 0x1F00 & numBytesToWrite;
+                byte firstByte = (byte)(0x20 | (msb / 0x100));
+                byte secondByte = (byte)(numBytesToWrite - msb);
+                writeTo.AddRange(new byte[] { firstByte, secondByte });
+            }
+            writeTo.AddRange(writeFrom.Skip(position - numBytesToWrite).Take(numBytesToWrite));
+        }
+
         public static byte[] DecompressData(byte[] compressedData)
         {
             List<byte> decompressedData = new();
 
+            // documentation note: bits 1234 5678 in a byte
             for (int z = 0; z < compressedData.Length;)
             {
                 int blockByte = compressedData[z++];
@@ -24,14 +99,16 @@ namespace HaruhiChokuretsuEditor
                 {
                     if ((blockByte & 0x40) == 0)
                     {
+                        // bits 1 & 2 == 0 --> direct data read
                         int numBytes;
                         if ((blockByte & 0x20) == 0)
                         {
-                            numBytes = blockByte & 0x1F;
+                            numBytes = blockByte; // the `& 0x1F` is unnecessary since we've already determined bits 1-3 to be 0
                         }
                         else
                         {
-                            numBytes = compressedData[z++] + ((blockByte & 0x0F) * 0x100);
+                            // bit 3 == 1 --> need two bytes to indicate how much data to read
+                            numBytes = compressedData[z++] + ((blockByte & 0x1F) * 0x100);
                         }
                         for (int i = 0; i < numBytes; i++)
                         {
@@ -40,10 +117,11 @@ namespace HaruhiChokuretsuEditor
                     }
                     else
                     {
+                        // bit 1 == 0 && bit 2 == 1 --> repeated byte
                         int numBytes;
                         if ((blockByte & 0x10) == 0)
                         {
-                            numBytes = (blockByte & 0x1F) + 4;
+                            numBytes = (blockByte & 0x0F) + 4;
                         }
                         else
                         {
@@ -58,6 +136,7 @@ namespace HaruhiChokuretsuEditor
                 }
                 else
                 {
+                    // bit 1 == 1 --> backreference
                     int numBytes = ((blockByte & 0x60) >> 0x05) + 4;
                     int backReferenceIndex = decompressedData.Count - (compressedData[z++] + ((blockByte & 0x1F) * 0x100));
                     for (int i = backReferenceIndex; i < backReferenceIndex + numBytes; i++)

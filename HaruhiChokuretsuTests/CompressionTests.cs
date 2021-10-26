@@ -28,5 +28,18 @@ namespace HaruhiChokuretsuTests
             byte[] decompressedDataOnDisk = File.ReadAllBytes(decompressedFile);
             Assert.AreEqual(decompressedDataOnDisk, decompressedDataInMemory);
         }
+
+        [Test]
+        [TestCase(TestVariables.EVT_000_DECOMPRESSED)]
+        public void CompressionMethodTest(string decompressedFile)
+        {
+            byte[] decompressedDataOnDisk = File.ReadAllBytes(decompressedFile);
+            byte[] compressedData = Helpers.CompressData(decompressedDataOnDisk);
+            File.WriteAllBytes(".\\inputs\\ev_000_prog_comp.bin", compressedData);
+            byte[] decompressedDataInMemory = Helpers.DecompressData(compressedData);
+            File.WriteAllBytes(".\\inputs\\ev_000_prog_decomp.bin", decompressedDataInMemory);
+
+            Assert.AreEqual(decompressedDataOnDisk, decompressedDataInMemory);
+        }
     }
 }
