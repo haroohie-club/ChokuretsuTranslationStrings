@@ -1,5 +1,6 @@
 using HaruhiChokuretsuEditor;
 using NUnit.Framework;
+using System.Collections.Generic;
 using System.IO;
 
 namespace HaruhiChokuretsuTests
@@ -16,7 +17,7 @@ namespace HaruhiChokuretsuTests
 
             byte[] decompressedDataOnDisk = File.ReadAllBytes(decompressedFile);
             File.WriteAllBytes($".\\inputs\\{filePrefix}_asm_decomp.bin", asm.Output);
-            Assert.AreEqual(decompressedDataOnDisk, asm.Output);
+            Assert.AreEqual(StripZeroes(decompressedDataOnDisk), StripZeroes(asm.Output));
         }
 
         [Test]
@@ -28,7 +29,7 @@ namespace HaruhiChokuretsuTests
             File.WriteAllBytes($".\\inputs\\{filePrefix}_prog_decomp.bin", decompressedDataInMemory);
 
             byte[] decompressedDataOnDisk = File.ReadAllBytes(decompressedFile);
-            Assert.AreEqual(decompressedDataOnDisk, decompressedDataInMemory);
+            Assert.AreEqual(StripZeroes(decompressedDataOnDisk), StripZeroes(decompressedDataInMemory));
         }
 
         [Test]
@@ -44,8 +45,20 @@ namespace HaruhiChokuretsuTests
             byte[] decompressedDataViaAsm = new AsmDecompressionSimulator(compressedData).Output;
             File.WriteAllBytes($".\\inputs\\{filePrefix}_asm_decomp.bin", decompressedDataViaAsm);
 
-            Assert.AreEqual(decompressedDataOnDisk, decompressedDataInMemory, message: "Failed in implementation.");
-            Assert.AreEqual(decompressedDataOnDisk, decompressedDataViaAsm, message: "Failed in assembly simulation.");
+            Assert.AreEqual(StripZeroes(decompressedDataOnDisk), StripZeroes(decompressedDataInMemory), message: "Failed in implementation.");
+            Assert.AreEqual(StripZeroes(decompressedDataOnDisk), StripZeroes(decompressedDataViaAsm), message: "Failed in assembly simulation.");
+        }
+
+        public static byte[] StripZeroes(byte[] array)
+        {
+            List<byte> strippedArray = new List<byte>(array);
+
+            for (int i = strippedArray.Count - 1; strippedArray[i] == 0; i--)
+            {
+                strippedArray.RemoveAt(i);
+            }
+
+            return strippedArray.ToArray();
         }
     }
 }

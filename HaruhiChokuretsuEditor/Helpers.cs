@@ -82,8 +82,8 @@ namespace HaruhiChokuretsuEditor
                     else
                     {
                         int numToEncode = numRepeatedBytes - 4;
-                        int msb = numToEncode & 0xF0;
-                        byte firstByte = (byte)(0x50 | (msb / 0x10));
+                        int msb = numToEncode & 0xF00;
+                        byte firstByte = (byte)(0x50 | (msb / 0x100));
                         byte secondByte = (byte)(numToEncode - msb); // 0x50 -- repeated byte, 12-bit length
                         compressedData.AddRange(new byte[] { firstByte, secondByte });
                     }
@@ -204,7 +204,7 @@ namespace HaruhiChokuretsuEditor
                         }
                         else
                         {
-                            numBytes = compressedData[z++] + ((blockByte & 0x0F) * 0x10) + 4;
+                            numBytes = compressedData[z++] + ((blockByte & 0x0F) * 0x100) + 4;
                         }
                         byte repeatedByte = compressedData[z++];
                         for (int i = 0; i < numBytes; i++)
