@@ -9,19 +9,20 @@ namespace HaruhiChokuretsuEditor
 {
     public class EventFile
     {
-        public string Text { get; set; }
+        public List<int> FrontPointers { get; set; } = new();
 
-        public EventFile FromCompressedFile(string fileName)
+        public static EventFile FromCompressedFile(string fileName)
         {
-            return FromDecompressedData(Helpers.DecompressData(File.ReadAllBytes(fileName)));
+            return new EventFile(Helpers.DecompressData(File.ReadAllBytes(fileName)));
         }
 
-        public EventFile FromDecompressedData(byte[] data)
+        public EventFile(byte[] decompressedData)
         {
-            return new EventFile
+            int numFrontPointers = BitConverter.ToInt32(decompressedData.Take(4).ToArray());
+            for (int i = 0; i < numFrontPointers; i++)
             {
-                Text = Encoding.GetEncoding(932).GetString(data) // SHIFT-JIS
-            };
+                FrontPointers.Add(BitConverter.ToInt32(decompressedData.Skip(0x0C + 0x08 * i).Take(4).ToArray()));
+            }
         }
     }
 

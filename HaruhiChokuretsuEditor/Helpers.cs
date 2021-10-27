@@ -13,6 +13,7 @@ namespace HaruhiChokuretsuEditor
             List<byte> compressedData = new();
 
             int directBytesToWrite = 0;
+            Dictionary<LookbackEntry, int> lookbackDictionary = new();
             for (int i = 0; i < decompressedData.Length;)
             {
                 int numNext = Math.Min(decompressedData.Length - i - 1, 4);
@@ -22,7 +23,49 @@ namespace HaruhiChokuretsuEditor
                 }
 
                 List<byte> nextBytes = decompressedData.Skip(i).Take(numNext).ToList();
-                if (nextBytes.All(b => b == nextBytes[0]))
+                LookbackEntry nextEntry = new(nextBytes, i);
+                if (lookbackDictionary.ContainsKey(nextEntry) && lookbackDictionary[nextEntry] <= 0x1FFF)
+                {
+                    if (directBytesToWrite > 0)
+                    {
+                        WriteDirectBytes(decompressedData, compressedData, i, directBytesToWrite);
+                        directBytesToWrite = 0;
+                    }
+
+                    int lookbackIndex = lookbackDictionary[nextEntry];
+                    lookbackDictionary[nextEntry] = i;
+
+                    List<byte> lookbackSequence = new();
+                    for (int j = 0; decompressedData[lookbackIndex + j] == decompressedData[i + j]; j++)
+                    {
+                        lookbackSequence.Add(decompressedData[lookbackIndex + j]);
+                    }
+
+                    int encodedLookbackIndex = i - lookbackIndex;
+                    int encodedLength = lookbackSequence.Count - 4;
+                    int remainingEncodedLength = 0;
+                    if (encodedLength > 3)
+                    {
+                        remainingEncodedLength = encodedLength - 3;
+                        encodedLength = 3;
+                    }
+                    byte firstByte = (byte)((encodedLookbackIndex / 0x100) | (encodedLength << 5) | 0x80);
+                    byte secondByte = (byte)(encodedLookbackIndex & 0xFF);
+                    compressedData.AddRange(new byte[] { firstByte, secondByte });
+                    if (remainingEncodedLength > 0)
+                    {
+                        while (remainingEncodedLength > 0)
+                        {
+                            int currentEncodedLength = Math.Min(remainingEncodedLength, 0x1F);
+                            remainingEncodedLength -= currentEncodedLength;
+
+                            compressedData.Add((byte)(0x60 | currentEncodedLength));
+                        }
+                    }
+
+                    i += lookbackSequence.Count;
+                }
+                else if (nextBytes.Count == 4 && nextBytes.All(b => b == nextBytes[0]))
                 {
                     if (directBytesToWrite > 0)
                     {
@@ -53,6 +96,7 @@ namespace HaruhiChokuretsuEditor
                     {
                         WriteDirectBytes(decompressedData, compressedData, i, directBytesToWrite);
                     }
+                    lookbackDictionary.Add(nextEntry, i);
                     directBytesToWrite++;
                     i++;
                 }
@@ -64,6 +108,41 @@ namespace HaruhiChokuretsuEditor
             }
 
             return compressedData.ToArray();
+        }
+
+        private class LookbackEntry
+        {
+            public byte[] Bytes { get; set; }
+
+            public LookbackEntry(List<byte> bytes, int index)
+            {
+                Bytes = bytes.ToArray();
+            }
+
+            public override bool Equals(object obj)
+            {
+                var other = (LookbackEntry)obj;
+                if (other.Bytes.Length != Bytes.Length)
+                {
+                    return false;
+                }
+                bool equals = true;
+                for (int i = 0; i < Bytes.Length; i++)
+                {
+                    equals = equals && (Bytes[i] == other.Bytes[i]);
+                }
+                return equals;
+            }
+
+            public override int GetHashCode()
+            {
+                string hash = "";
+                foreach (byte @byte in Bytes)
+                {
+                    hash += $"{@byte}";
+                }
+                return hash.GetHashCode();
+            }
         }
 
         private static void WriteDirectBytes(byte[] writeFrom, List<byte> writeTo, int position, int numBytesToWrite)

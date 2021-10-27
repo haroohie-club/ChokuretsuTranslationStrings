@@ -1,0 +1,7 @@
+0x2033FC4
+First int read -> check if less than 0
+Read 0x0C (pointers)
+Loop first int times, incrementing by 8 bytes each time, checking 0x0C from that byte, replace with pointer
+
+0x2051870
+[021C46FC..021C4E30]?
