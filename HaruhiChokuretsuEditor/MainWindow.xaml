@@ -17,6 +17,7 @@
                     <ToolBar x:Name="scriptToolBar" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="1043" Grid.ColumnSpan="2">
                         <Button x:Name="openEventsFileButton" Content="Open" HorizontalAlignment="Left" Click="OpenEventsFileButton_Click" />
                         <Button x:Name="saveEventsFileButton" Content="Save" HorizontalAlignment="Left" Click="SaveEventsFileButton_Click" />
+                        <Button x:Name="insertEv000Button" Content="Insert EV_000" HorizontalAlignment="Left" Click="InsertEv000Button_Click" />
                     </ToolBar>
                     <TabControl x:Name="messageFileTabControl" Margin="0,35,277,0" Grid.ColumnSpan="2" />
                     <ScrollViewer Grid.Column="1" Margin="423,30,0,0">

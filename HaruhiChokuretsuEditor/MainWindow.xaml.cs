@@ -1,6 +1,7 @@
 ﻿using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -42,6 +43,38 @@ namespace HaruhiChokuretsuEditor
         private void SaveEventsFileButton_Click(object sender, RoutedEventArgs e)
         {
 
+        }
+
+        private void InsertEv000Button_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog
+            {
+                Filter = "EVT file|*.bin"
+            };
+            if (openFileDialog.ShowDialog() == true)
+            {
+                byte[] binFileBytes = File.ReadAllBytes(openFileDialog.FileName);
+                OpenFileDialog evtFileDialog = new OpenFileDialog
+                {
+                    Filter = "EVT file|*.bin"
+                };
+                if (evtFileDialog.ShowDialog() == true)
+                {
+                    byte[] evtFileBytes = Helpers.CompressData(File.ReadAllBytes(evtFileDialog.FileName));
+                    for (int i = 0; i < 0xFF0; i++)
+                    {
+                        if (i < evtFileBytes.Length)
+                        {
+                            binFileBytes[i + 0x12F800] = evtFileBytes[i];
+                        }
+                        else
+                        {
+                            binFileBytes[i + 0x12F800] = 0x00;
+                        }
+                    }
+                    File.WriteAllBytes(openFileDialog.FileName, binFileBytes);
+                }
+            }
         }
     }
 }

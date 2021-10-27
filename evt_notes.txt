@@ -1,7 +1,18 @@
+[021C4284..021C4287]?
+02033ED4
+
 0x2033FC4
+0x2033FCC --- use breakpoint
 First int read -> check if less than 0
 Read 0x0C (pointers)
 Loop first int times, incrementing by 8 bytes each time, checking 0x0C from that byte, replace with pointer
 
 0x2051870
 [021C46FC..021C4E30]?
+
+
+
+
+
+$10 determines text speed
+#W20 is a wait command, causes the text to pause before continuing
