@@ -107,7 +107,7 @@ namespace HaruhiChokuretsuEditor
 
             if (directBytesToWrite > 0)
             {
-                WriteDirectBytes(decompressedData, compressedData, compressedData.Count, directBytesToWrite);
+                WriteDirectBytes(decompressedData, compressedData, decompressedData.Length - 1, directBytesToWrite);
             }
 
             return compressedData.ToArray();

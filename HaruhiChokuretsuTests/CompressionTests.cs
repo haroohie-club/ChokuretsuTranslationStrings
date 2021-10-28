@@ -22,6 +22,8 @@ namespace HaruhiChokuretsuTests
 
         [Test]
         [TestCase("evt_000", TestVariables.EVT_000_COMPRESSED, TestVariables.EVT_000_DECOMPRESSED)]
+        [TestCase("evt_test_orig", TestVariables.EVT_TEST_ORIG_COMP, TestVariables.EVT_TEST_DECOMPRESSED)]
+        [TestCase("evt_test_prog", TestVariables.EVT_TEST_PROG_COMP, TestVariables.EVT_TEST_DECOMPRESSED)]
         [TestCase("grp_test", TestVariables.GRP_TEST_COMPRESSED, TestVariables.GRP_TEST_DECOMPRESSED)]
         public void DecompressionMethodTest(string filePrefix, string compressedFile, string decompressedFile)
         {
@@ -34,6 +36,7 @@ namespace HaruhiChokuretsuTests
 
         [Test]
         [TestCase("evt_000", TestVariables.EVT_000_DECOMPRESSED)]
+        [TestCase("evt_test", TestVariables.EVT_TEST_DECOMPRESSED)]
         [TestCase("grp_test", TestVariables.GRP_TEST_COMPRESSED)]
         public void CompressionMethodTest(string filePrefix, string decompressedFile)
         {
