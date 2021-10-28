@@ -22,7 +22,7 @@ namespace HaruhiChokuretsuEditor
     /// </summary>
     public partial class MainWindow : Window
     {
-        private EventFile _event;
+        private EvtFile _evtFile;
         public MainWindow()
         {
             InitializeComponent();
@@ -32,48 +32,53 @@ namespace HaruhiChokuretsuEditor
         {
             OpenFileDialog openFileDialog = new OpenFileDialog
             {
-                Filter = "EVT file|*.evt"
+                Filter = "EVT file|evt*.bin"
             };
             if (openFileDialog.ShowDialog() == true)
             {
-
+                _evtFile = EvtFile.FromFile(openFileDialog.FileName, out string log);
+                eventsListBox.ItemsSource = _evtFile.EventFiles;
+                eventsListBox.Items.Refresh();
+                logTextBlock.Text = log;
             }
         }
 
         private void SaveEventsFileButton_Click(object sender, RoutedEventArgs e)
         {
+            SaveFileDialog saveFileDialog = new SaveFileDialog
+            {
+                Filter = "EVT file|evt*.bin"
+            };
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                File.WriteAllBytes(saveFileDialog.FileName, _evtFile.GetBytes());
+                MessageBox.Show("Save completed!");
+            }
+        }
+
+        private void ExportEventsFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            SaveFileDialog saveFileDialog = new SaveFileDialog
+            {
+                Filter = "Event file|*.evt"
+            };
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                
+            }
+        }
+
+        private void ImportEventsFileButton_Click(object sender, RoutedEventArgs e)
+        {
 
         }
 
-        private void InsertEv000Button_Click(object sender, RoutedEventArgs e)
+        private void EventsListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            OpenFileDialog openFileDialog = new OpenFileDialog
+            editStackPanel.Children.Clear();
+            foreach (DialogueLine dialogueLine in ((EventFile)eventsListBox.SelectedItem).DialogueLines)
             {
-                Filter = "EVT file|*.bin"
-            };
-            if (openFileDialog.ShowDialog() == true)
-            {
-                byte[] binFileBytes = File.ReadAllBytes(openFileDialog.FileName);
-                OpenFileDialog evtFileDialog = new OpenFileDialog
-                {
-                    Filter = "EVT file|*.bin"
-                };
-                if (evtFileDialog.ShowDialog() == true)
-                {
-                    byte[] evtFileBytes = Helpers.CompressData(File.ReadAllBytes(evtFileDialog.FileName));
-                    for (int i = 0; i < 0xFF0; i++)
-                    {
-                        if (i < evtFileBytes.Length)
-                        {
-                            binFileBytes[i + 0x12F800] = evtFileBytes[i];
-                        }
-                        else
-                        {
-                            binFileBytes[i + 0x12F800] = 0x00;
-                        }
-                    }
-                    File.WriteAllBytes(openFileDialog.FileName, binFileBytes);
-                }
+                editStackPanel.Children.Add(new TextBox { Text = dialogueLine.Text });
             }
         }
     }

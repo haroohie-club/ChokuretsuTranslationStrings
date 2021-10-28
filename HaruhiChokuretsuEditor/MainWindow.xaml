@@ -17,13 +17,25 @@
                     <ToolBar x:Name="scriptToolBar" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="1043" Grid.ColumnSpan="2">
                         <Button x:Name="openEventsFileButton" Content="Open" HorizontalAlignment="Left" Click="OpenEventsFileButton_Click" />
                         <Button x:Name="saveEventsFileButton" Content="Save" HorizontalAlignment="Left" Click="SaveEventsFileButton_Click" />
-                        <Button x:Name="insertEv000Button" Content="Insert EV_000" HorizontalAlignment="Left" Click="InsertEv000Button_Click" />
+                        <Button x:Name="exportEventsFileButton" Content="Export" HorizontalAlignment="Left" Click="ExportEventsFileButton_Click" />
+                        <Button x:Name="importEventsFileButton" Content="Import" HorizontalAlignment="Left" Click="ImportEventsFileButton_Click" />
                     </ToolBar>
-                    <TabControl x:Name="messageFileTabControl" Margin="0,35,277,0" Grid.ColumnSpan="2" />
-                    <ScrollViewer Grid.Column="1" Margin="423,30,0,0">
+                    <ListBox x:Name="eventsListBox" Margin="0,30,521,0" SelectionChanged="EventsListBox_SelectionChanged" Grid.ColumnSpan="2" />
+                    <ScrollViewer Grid.Column="1" Margin="175,30,0,0">
                         <DockPanel>
                             <StackPanel x:Name="editStackPanel" />
                         </DockPanel>
+                    </ScrollViewer>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Log">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="99*"/>
+                        <ColumnDefinition Width="695*"/>
+                    </Grid.ColumnDefinitions>
+                    <ScrollViewer Grid.ColumnSpan="2">
+                        <TextBlock x:Name="logTextBlock" Text="" />
                     </ScrollViewer>
                 </Grid>
             </TabItem>

@@ -36,7 +36,7 @@ namespace HaruhiChokuretsuEditor
                     lookbackDictionary[nextEntry] = i;
 
                     List<byte> lookbackSequence = new();
-                    for (int j = 0; decompressedData[lookbackIndex + j] == decompressedData[i + j]; j++)
+                    for (int j = 0; i + j < decompressedData.Length && decompressedData[lookbackIndex + j] == decompressedData[i + j]; j++)
                     {
                         lookbackSequence.Add(decompressedData[lookbackIndex + j]);
                     }
@@ -96,7 +96,10 @@ namespace HaruhiChokuretsuEditor
                     {
                         WriteDirectBytes(decompressedData, compressedData, i, directBytesToWrite);
                     }
-                    lookbackDictionary.Add(nextEntry, i);
+                    if (!lookbackDictionary.ContainsKey(nextEntry))
+                    {
+                        lookbackDictionary.Add(nextEntry, i);
+                    }
                     directBytesToWrite++;
                     i++;
                 }
