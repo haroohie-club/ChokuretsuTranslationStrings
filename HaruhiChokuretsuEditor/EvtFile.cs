@@ -13,8 +13,13 @@ namespace HaruhiChokuretsuEditor
         public const int FirstEventOffset = 0x2800;
 
         public byte[] Header { get; set; }
-        public int OffsetBitshift { get; set; }
-        public int OffsetMultiplier { get; set; }
+
+        public int NumItems { get; set; }
+        public int HeaderLength { get; set; }
+        public int OffsetMsbMultiplier { get; set; }
+        public int OffsetLsbMultiplier { get; set; }
+        public int OffsetLsbAnd { get; set; }
+        public int OffsetMsbShift { get; set; }
         public List<uint> HeaderPointers { get; set; } = new();
         public List<EventFile> EventFiles { get; set; } = new();
 
@@ -29,9 +34,17 @@ namespace HaruhiChokuretsuEditor
             log = "";
 
             Header = evtBytes.Take(FirstEventOffset).ToArray();
-            OffsetBitshift = BitConverter.ToInt32(evtBytes.Skip(0x0C).Take(4).ToArray());
-            OffsetMultiplier = BitConverter.ToInt32(evtBytes.Skip(0x04).Take(4).ToArray());
-            for (int i = FirstHeaderPointerOffset; i < Header.Length; i += 4)
+
+            NumItems = BitConverter.ToInt32(evtBytes.Take(4).ToArray());
+
+            OffsetMsbMultiplier = BitConverter.ToInt32(evtBytes.Skip(0x04).Take(4).ToArray());
+            OffsetLsbMultiplier = BitConverter.ToInt32(evtBytes.Skip(0x08).Take(4).ToArray());
+
+            OffsetLsbAnd = BitConverter.ToInt32(evtBytes.Skip(0x10).Take(4).ToArray());
+            OffsetMsbShift = BitConverter.ToInt32(evtBytes.Skip(0x0C).Take(4).ToArray());
+
+            HeaderLength = BitConverter.ToInt32(evtBytes.Skip(0x1C).Take(4).ToArray()) + (NumItems * 2 + 8) * 4;
+            for (int i = FirstHeaderPointerOffset; i < (NumItems * 4) + 0x20; i += 4)
             {
                 HeaderPointers.Add(BitConverter.ToUInt32(evtBytes.Skip(i).Take(4).ToArray()));
             }
@@ -62,7 +75,7 @@ namespace HaruhiChokuretsuEditor
 
         private int GetMagicIndex(int offset)
         {
-            uint msbToSearchFor = (uint)(offset / OffsetMultiplier) << OffsetBitshift;
+            uint msbToSearchFor = (uint)(offset / OffsetMsbMultiplier) << OffsetMsbShift;
             uint headerPointer = HeaderPointers.FirstOrDefault(p => (p & 0xFFFF0000) == msbToSearchFor);
             return HeaderPointers.IndexOf(headerPointer);
         }
@@ -73,7 +86,7 @@ namespace HaruhiChokuretsuEditor
             {
                 searchSet = Header;
             }
-            return (int)(BitConverter.ToUInt32(searchSet.Skip(FirstHeaderPointerOffset + (eventFile.Index * 4)).Take(4).ToArray()) >> OffsetBitshift) * OffsetMultiplier;
+            return (int)(BitConverter.ToUInt32(searchSet.Skip(FirstHeaderPointerOffset + (eventFile.Index * 4)).Take(4).ToArray()) >> OffsetMsbShift) * OffsetMsbMultiplier;
         }
 
         public byte[] GetBytes()
@@ -90,11 +103,11 @@ namespace HaruhiChokuretsuEditor
                     int pointerShift = 0;
                     if (bytes.Count > EventFiles[i + 1].Offset)
                     {
-                        pointerShift = ((bytes.Count - EventFiles[i + 1].Offset) / OffsetMultiplier) + 1;
+                        pointerShift = ((bytes.Count - EventFiles[i + 1].Offset) / OffsetMsbMultiplier) + 1;
                     }
                     if (pointerShift > 0)
                     {
-                        byte[] newPointer = BitConverter.GetBytes((uint)((EventFiles[i + 1].Offset / OffsetMultiplier) + pointerShift) << OffsetBitshift);
+                        byte[] newPointer = BitConverter.GetBytes((uint)((EventFiles[i + 1].Offset / OffsetMsbMultiplier) + pointerShift) << OffsetMsbShift);
                         int pointerOffset = FirstHeaderPointerOffset + (EventFiles[i + 1].Index * 4);
                         bytes[pointerOffset + 2] = newPointer[2];
                         bytes[pointerOffset + 3] = newPointer[3];
