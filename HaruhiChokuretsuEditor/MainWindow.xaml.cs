@@ -51,7 +51,7 @@ namespace HaruhiChokuretsuEditor
             };
             if (saveFileDialog.ShowDialog() == true)
             {
-                File.WriteAllBytes(saveFileDialog.FileName, _evtFile.GetBytes());
+                File.WriteAllBytes(saveFileDialog.FileName, _evtFile.GetBytes(compressedData: true));
                 MessageBox.Show("Save completed!");
             }
         }
@@ -64,13 +64,20 @@ namespace HaruhiChokuretsuEditor
             };
             if (saveFileDialog.ShowDialog() == true)
             {
-                
+                File.WriteAllBytes(saveFileDialog.FileName, ((EventFile)eventsListBox.SelectedItem).GetBytes());
             }
         }
 
         private void ImportEventsFileButton_Click(object sender, RoutedEventArgs e)
         {
-
+            SaveFileDialog saveFileDialog = new SaveFileDialog
+            {
+                Filter = "Event file|*.evt"
+            };
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                File.WriteAllBytes(saveFileDialog.FileName, ((EventFile)eventsListBox.SelectedItem).CompressedData);
+            }
         }
 
         private void EventsListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)

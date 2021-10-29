@@ -62,10 +62,10 @@ namespace HaruhiChokuretsuEditor
                 if (eventBytes.Count > 0)
                 {
                     eventBytes.AddRange(new byte[] { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 });
-                    
+
                     EventFile eventFile = EventFile.FromCompressedData(eventBytes.ToArray(), offset);
                     eventFile.Index = GetMagicIndex(eventFile.Offset);
-
+                    eventFile.CompressedData = eventBytes.ToArray();
                     EventFiles.Add(eventFile);
                 }
                 byte[] zeroes = evtBytes.Skip(i).TakeWhile(b => b == 0x00).ToArray();
@@ -89,18 +89,23 @@ namespace HaruhiChokuretsuEditor
             return (int)(BitConverter.ToUInt32(searchSet.Skip(FirstHeaderPointerOffset + (eventFile.Index * 4)).Take(4).ToArray()) >> OffsetMsbShift) * OffsetMsbMultiplier;
         }
 
-        public byte[] GetBytes()
+        public byte[] GetBytes(bool compressedData = false)
         {
             List<byte> bytes = new();
 
             bytes.AddRange(Header);
             for (int i = 0; i < EventFiles.Count; i++)
             {
-                byte[] compressedBytes = Helpers.CompressData(EventFiles[i].GetBytes());
+                byte[] compressedBytes;
+                compressedBytes = Helpers.CompressData(EventFiles[i].GetBytes());
                 bytes.AddRange(compressedBytes);
                 if (i < EventFiles.Count - 1)
                 {
                     int pointerShift = 0;
+                    while (bytes.Count % 0x10 != 0)
+                    {
+                        bytes.Add(0);
+                    }
                     if (bytes.Count > EventFiles[i + 1].Offset)
                     {
                         pointerShift = ((bytes.Count - EventFiles[i + 1].Offset) / OffsetMsbMultiplier) + 1;

@@ -5,6 +5,7 @@
 [020C19C8..020C19CB]? -- where evt.bin @ 0x18 is stored
 [020C1A14..020C1A17]? -- where start of confusing evt.bin section (0x1280) is stored
 [027E3AD4..027E3AD7]? -- where ((evt.bin @ 0x10) & magic pointer number) * (evt.bin @ 0x08) is stored
+[020F8050..020F9B39]? -- the weird evt.bin section
 
 pointer: from 0x1C in evt.bin
 a = [0x1C + (index << 2)]

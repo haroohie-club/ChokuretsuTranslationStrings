@@ -32,7 +32,9 @@ namespace HaruhiChokuretsuTests
             }
 
             byte[] newEvtBytes = evt.GetBytes();
-            EvtFile newEvtFile = EvtFile.FromFile(evtFile, out _);
+            Console.WriteLine($"Efficiency: {(double)newEvtBytes.Length / File.ReadAllBytes(evtFile).Length * 100}%");
+
+            EvtFile newEvtFile = new EvtFile(newEvtBytes, out _);
             Assert.AreEqual(newEvtBytes, newEvtFile.GetBytes());
         }
     }

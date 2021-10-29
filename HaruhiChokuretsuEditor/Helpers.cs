@@ -24,7 +24,7 @@ namespace HaruhiChokuretsuEditor
 
                 List<byte> nextBytes = decompressedData.Skip(i).Take(numNext).ToList();
                 LookbackEntry nextEntry = new(nextBytes, i);
-                if (lookbackDictionary.ContainsKey(nextEntry) && lookbackDictionary[nextEntry] <= 0x1FFF)
+                if (lookbackDictionary.ContainsKey(nextEntry) && (i - lookbackDictionary[nextEntry]) <= 0x1FFF)
                 {
                     if (directBytesToWrite > 0)
                     {
@@ -99,6 +99,10 @@ namespace HaruhiChokuretsuEditor
                     if (!lookbackDictionary.ContainsKey(nextEntry))
                     {
                         lookbackDictionary.Add(nextEntry, i);
+                    }
+                    else
+                    {
+                        lookbackDictionary[nextEntry] = i;
                     }
                     directBytesToWrite++;
                     i++;

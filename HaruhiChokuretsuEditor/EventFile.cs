@@ -11,6 +11,7 @@ namespace HaruhiChokuretsuEditor
     {
         public int Index { get; set; }
         public int Offset { get; set; }
+        public byte[] CompressedData { get; set; }
         public List<byte> Data { get; set; } = new();
         public List<int> FrontPointers { get; set; } = new();
         public List<int> EndPointers { get; set; } = new();
@@ -47,7 +48,7 @@ namespace HaruhiChokuretsuEditor
                 EndPointers.Add(BitConverter.ToInt32(decompressedData.Skip(pointerToNumEndPointers + (0x04 * (i + 1))).Take(4).ToArray()));
             }
 
-            EndPointerPointers = EndPointers.Select(p => BitConverter.ToInt32(decompressedData.Skip(p).Take(4).ToArray())).ToList();
+            EndPointerPointers = EndPointers.Select(p => { int x = offset; return BitConverter.ToInt32(decompressedData.Skip(p).Take(4).ToArray()); }).ToList();
 
             DialogueLines = EndPointerPointers.Select(p => new DialogueLine(p, decompressedData)).ToList();
 
