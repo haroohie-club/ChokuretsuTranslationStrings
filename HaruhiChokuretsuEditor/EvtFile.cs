@@ -89,7 +89,7 @@ namespace HaruhiChokuretsuEditor
             return (int)(BitConverter.ToUInt32(searchSet.Skip(FirstHeaderPointerOffset + (eventFile.Index * 4)).Take(4).ToArray()) >> OffsetMsbShift) * OffsetMsbMultiplier;
         }
 
-        public byte[] GetBytes(bool compressedData = false)
+        public byte[] GetBytes()
         {
             List<byte> bytes = new();
 

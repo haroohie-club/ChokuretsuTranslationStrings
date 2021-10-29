@@ -13,7 +13,7 @@ namespace HaruhiChokuretsuEditor
             List<byte> compressedData = new();
 
             int directBytesToWrite = 0;
-            Dictionary<LookbackEntry, int> lookbackDictionary = new();
+            Dictionary<LookbackEntry, List<int>> lookbackDictionary = new();
             for (int i = 0; i < decompressedData.Length;)
             {
                 int numNext = Math.Min(decompressedData.Length - i - 1, 4);
@@ -24,7 +24,7 @@ namespace HaruhiChokuretsuEditor
 
                 List<byte> nextBytes = decompressedData.Skip(i).Take(numNext).ToList();
                 LookbackEntry nextEntry = new(nextBytes, i);
-                if (lookbackDictionary.ContainsKey(nextEntry) && (i - lookbackDictionary[nextEntry]) <= 0x1FFF)
+                if (lookbackDictionary.ContainsKey(nextEntry) && (i - lookbackDictionary[nextEntry].Max()) <= 0x1FFF)
                 {
                     if (directBytesToWrite > 0)
                     {
@@ -32,17 +32,28 @@ namespace HaruhiChokuretsuEditor
                         directBytesToWrite = 0;
                     }
 
-                    int lookbackIndex = lookbackDictionary[nextEntry];
-                    lookbackDictionary[nextEntry] = i;
-
-                    List<byte> lookbackSequence = new();
-                    for (int j = 0; i + j < decompressedData.Length && decompressedData[lookbackIndex + j] == decompressedData[i + j]; j++)
+                    int lookbackIndex = 0;
+                    int longestSequenceLength = 0;
+                    foreach (int index in lookbackDictionary[nextEntry])
                     {
-                        lookbackSequence.Add(decompressedData[lookbackIndex + j]);
+                        if (i - index <= 0x1FFF)
+                        {
+                            List<byte> lookbackSequence = new();
+                            for (int j = 0; i + j < decompressedData.Length && decompressedData[index + j] == decompressedData[i + j]; j++)
+                            {
+                                lookbackSequence.Add(decompressedData[lookbackIndex + j]);
+                            }
+                            if (lookbackSequence.Count > longestSequenceLength)
+                            {
+                                longestSequenceLength = lookbackSequence.Count;
+                                lookbackIndex = index;
+                            }
+                        }
                     }
+                    lookbackDictionary[nextEntry].Add(i);
 
                     int encodedLookbackIndex = i - lookbackIndex;
-                    int encodedLength = lookbackSequence.Count - 4;
+                    int encodedLength = longestSequenceLength - 4;
                     int remainingEncodedLength = 0;
                     if (encodedLength > 3)
                     {
@@ -63,7 +74,7 @@ namespace HaruhiChokuretsuEditor
                         }
                     }
 
-                    i += lookbackSequence.Count;
+                    i += longestSequenceLength;
                 }
                 else if (nextBytes.Count == 4 && nextBytes.All(b => b == nextBytes[0]))
                 {
@@ -98,11 +109,11 @@ namespace HaruhiChokuretsuEditor
                     }
                     if (!lookbackDictionary.ContainsKey(nextEntry))
                     {
-                        lookbackDictionary.Add(nextEntry, i);
+                        lookbackDictionary.Add(nextEntry, new List<int> { i });
                     }
                     else
                     {
-                        lookbackDictionary[nextEntry] = i;
+                        lookbackDictionary[nextEntry].Add(i);
                     }
                     directBytesToWrite++;
                     i++;

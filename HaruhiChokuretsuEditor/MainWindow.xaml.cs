@@ -51,7 +51,7 @@ namespace HaruhiChokuretsuEditor
             };
             if (saveFileDialog.ShowDialog() == true)
             {
-                File.WriteAllBytes(saveFileDialog.FileName, _evtFile.GetBytes(compressedData: true));
+                File.WriteAllBytes(saveFileDialog.FileName, _evtFile.GetBytes());
                 MessageBox.Show("Save completed!");
             }
         }
