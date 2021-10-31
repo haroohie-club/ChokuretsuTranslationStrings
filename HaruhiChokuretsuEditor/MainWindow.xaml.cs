@@ -149,7 +149,7 @@ namespace HaruhiChokuretsuEditor
             {
                 foreach (EventFile eventFile in _evtFile.Files)
                 {
-                    eventFile.WriteResxFile(System.IO.Path.Combine(folderBrowser.SelectedFolder, $"{eventFile.Index}.resx"));
+                    eventFile.WriteResxFile(System.IO.Path.Combine(folderBrowser.SelectedFolder, $"{eventFile.Index:D3}.ja.resx"));
                 }
             }
         }
