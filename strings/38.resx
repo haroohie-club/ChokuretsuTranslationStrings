@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>そういや、あの恥ずかしいポンポン
+は、どこから持ってきたんだ？</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いきなり、なんの話？</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>ポンポンだ。チアリーダーが手に
+持ってるような、フワフワの</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなのは説明されなくてもわかる
+わよ</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>また、みくるちゃんにチアリー
+ダーのコスプレさせようと思って</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>部室のロッカーにしまっておいた
+のよ。服と一緒に</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>…………ハルヒよ</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、かしこまって</value>
+  </data>
+  <data name="8 KYON (キョン)" xml:space="preserve">
+    <value>その時は前もって知らせろ</value>
+  </data>
+  <data name="9 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その瞬間を見逃したくはないもんだ</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ鼻の下伸ばして
+このエロキョン！</value>
+  </data>
+  <data name="11 MIKURU (みくる)" xml:space="preserve">
+    <value>そういえば、キョンくんが持ってた
+あのフワフワの道具……</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>フワフワの道具？</value>
+  </data>
+  <data name="13 MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、応援のときにチアリーダー
+の人が両手に持ってたりする……</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、ポンポンのことね</value>
+  </data>
+  <data name="15 MIKURU (みくる)" xml:space="preserve">
+    <value>あ、それです。あれ、すごく可愛い
+ですね</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>気に入った？</value>
+  </data>
+  <data name="17 MIKURU (みくる)" xml:space="preserve">
+    <value>はい。お部屋に飾りたいくらいです</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちゃんと、みくるちゃんの分もある
+わよ。コスプレ用に用意したから</value>
+  </data>
+  <data name="19 MIKURU (みくる)" xml:space="preserve">
+    <value>え……？
+そ、そういうの困るんですけど……</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしも一緒にやるから恥ずかしく
+なんかないわ。楽しみにしてなさい</value>
+  </data>
+  <data name="21 MIKURU (みくる)" xml:space="preserve">
+    <value>え、えぇ～？</value>
+  </data>
+  <data name="22 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、立ち止まってないで、早く
+みんなのところへ合流するわよ</value>
+  </data>
+  <data name="24 NAGATO (長門)" xml:space="preserve">
+    <value>ポンポン……</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え？　ポンポン？</value>
+  </data>
+  <data name="26 NAGATO (長門)" xml:space="preserve">
+    <value>チアリーディングに用いる装飾
+部室に置いてあった</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、アレね。みくるちゃん用に
+用意してあるのよ</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今度、有希も持ってみる？</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>きっと可愛いわ。似合うわよ</value>
+  </data>
+  <data name="30 NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ああ、そういえば、グラウンドでの
+野球部での一件、お聞きしましたよ</value>
+  </data>
+  <data name="32 KOIZUMI (古泉)" xml:space="preserve">
+    <value>あやうく、ポンポンで応援させられ
+そうになった、と言ってましたよ</value>
+  </data>
+  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンね、それを言ったのは</value>
+  </data>
+  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ポンポンというのは、チアリーダー
+の方が手に持っている、</value>
+  </data>
+  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+    <value>フサフサのアレですよね</value>
+  </data>
+  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう。両手に持って、振ったりする
+フサフサのアレのことよ</value>
+  </data>
+  <data name="37 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんにも、今度、持たせてあげ
+るわ</value>
+  </data>
+  <data name="38 KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、僕は遠慮しておきましょう
+彼の職分を侵すのは気が引けます</value>
+  </data>
+</root>

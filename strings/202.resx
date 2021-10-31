@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>なあ、ハルヒ</value>
+  </data>
+  <data name="1 KYON (キョン)" xml:space="preserve">
+    <value>そんなに怪奇現象の謎解きがしたい
+なら、古泉に任せたらどうだ？</value>
+  </data>
+  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしてココで、古泉くんの名前が
+出るのよ？</value>
+  </data>
+  <data name="3 KYON (キョン)" xml:space="preserve">
+    <value>あいつ、見かけによらず推理マニア
+だからな。喜んで協力してくれるぞ</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>見かけによるじゃない。古泉くんは
+そういうの得意そうだわ</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どこかの誰かさんとは違ってね</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>ご察しの通り、俺は推理なんてのは
+苦手中の苦手でね</value>
+  </data>
+  <data name="7 KYON (キョン)" xml:space="preserve">
+    <value>面倒なことは、出来るやつに任せた
+方が早い。効率的だと思うぞ</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ただの怠けグセでしょーが</value>
+  </data>
+  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バカなこと言ってないで、早く
+音楽室に行くわよ！</value>
+  </data>
+  <data name="10 KYON (キョン)" xml:space="preserve">
+    <value>へいへい、仰せのままに団長どの</value>
+  </data>
+  <data name="11 MIKURU (みくる)" xml:space="preserve">
+    <value>あの、涼宮さんって、推理が上手
+ですよね？</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしが推理上手？　どうして？</value>
+  </data>
+  <data name="13 MIKURU (みくる)" xml:space="preserve">
+    <value>だって、人喰い教室の件も、涼宮
+さんの推理で解決したし……</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、上手ってほどじゃないけど
+得意な方ではあるわね</value>
+  </data>
+  <data name="15 MIKURU (みくる)" xml:space="preserve">
+    <value>実は、古泉くんも推理が上手だって
+キョンくんが言ってました</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは、この前も
+面白いシナリオ考えてくれたでしょ</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんな仕掛けを考えるくらいだし
+相当な推理マニアと見たわ</value>
+  </data>
+  <data name="18 MIKURU (みくる)" xml:space="preserve">
+    <value>ＳＯＳ団には、二人の名探偵が
+いることになりますね～</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>違うわ、みくるちゃん</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは、言わば名探偵をはるかに
+越えた超探偵だもの</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは、名探偵かもしれない
+けど</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、推理で謎を解き明かすよりも
+本当の怪奇現象に出会いたいわね</value>
+  </data>
+  <data name="23 MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですね……</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今度こそ期待してるわ。待ってなさ
+い、音楽室！</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あーもうっ、音楽室って遠いわね！
+もっと近くに作りなさいよ、ったく</value>
+  </data>
+  <data name="26 NAGATO (長門)" xml:space="preserve">
+    <value>……急用？</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急用って、決まってるじゃない
+怪奇現象を見逃さないためでしょ</value>
+  </data>
+  <data name="28 NAGATO (長門)" xml:space="preserve">
+    <value>またイタズラである可能性も否定
+できない</value>
+  </data>
+  <data name="29 NAGATO (長門)" xml:space="preserve">
+    <value>事実、古泉一樹の推理では今回も
+何者かのイタズラが疑われている</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、古泉くんはそんな風に推理し
+てるのね。面白いじゃない</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしもバカじゃないわ。その可能
+性も考えてるけど……</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、実際に怪奇現象だった方が
+何万倍も面白いじゃない。でしょ？</value>
+  </data>
+  <data name="33 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希には分からないかしらね</value>
+  </data>
+  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあいいわ、とにかく現場の確保と
+再調査が優先事項よ</value>
+  </data>
+  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どっちに転んでも、楽しむのが
+ＳＯＳ団なんだから</value>
+  </data>
+  <data name="37 KOIZUMI (古泉)" xml:space="preserve">
+    <value>どうやら、涼宮さんも僕と同じタイ
+プのようですね</value>
+  </data>
+  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>同じタイプ？　いきなり、なに？</value>
+  </data>
+  <data name="39 KOIZUMI (古泉)" xml:space="preserve">
+    <value>実は、アレコレと物事を推理して
+謎を追及するのが好きなんです</value>
+  </data>
+  <data name="40 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ！　そういうことね！</value>
+  </data>
+  <data name="41 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしも当然、そういうのは好きよ</value>
+  </data>
+  <data name="42 KOIZUMI (古泉)" xml:space="preserve">
+    <value>しかし驚きました。例の人喰い教室
+の一件では、見事な推理でしたね</value>
+  </data>
+  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ当然の結果ね。あれだけ証拠が
+そろっていたもの</value>
+  </data>
+  <data name="44 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしとしては、楽勝だったわ</value>
+  </data>
+  <data name="45 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>怪奇現象じゃなかったことだけは
+残念だったけど……</value>
+  </data>
+  <data name="46 KOIZUMI (古泉)" xml:space="preserve">
+    <value>もしかすると、今回のピアノ騒動も
+怪奇現象ではないかもしれませんね</value>
+  </data>
+  <data name="47 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だとしたら、また、あたしの名推理
+で謎を解き明かして見せるわ</value>
+  </data>
+  <data name="48 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんも、もう色々と推理を始め
+てるんでしょ？</value>
+  </data>
+  <data name="49 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、ひそかに。今度は涼宮さん
+よりも早く、披露したいものです</value>
+  </data>
+  <data name="50 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふっふーん、そうはいかないわ</value>
+  </data>
+  <data name="51 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、とにかく今は、くだらない
+イタズラじゃなくて……</value>
+  </data>
+  <data name="52 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>本当の怪奇現象であって欲しい
+わね。そのための合宿なんだし</value>
+  </data>
+  <data name="53 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですね……</value>
+  </data>
+  <data name="54 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんとしては、イタズラ説に
+傾いてるわけ？</value>
+  </data>
+  <data name="55 KOIZUMI (古泉)" xml:space="preserve">
+    <value>おっと、その手には乗りません
+ライバルに情報は与えませんよ</value>
+  </data>
+  <data name="56 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なかなか手厳しいわね。面白く
+なってきたわ！</value>
+  </data>
+  <data name="57 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どっちにしても、現場は音楽室だわ
+急いで行きましょう！</value>
+  </data>
+  <data name="58 KOIZUMI (古泉)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="59 KOIZUMI (古泉)" xml:space="preserve">
+    <value>……涼宮さん、申し訳ありませんが
+怪奇現象では、困るんですよ</value>
+  </data>
+  <data name="60 KOIZUMI (古泉)" xml:space="preserve">
+    <value>世界が壊れてしまいますから</value>
+  </data>
+</root>

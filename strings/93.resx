@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>おい、ハルヒ。俺はお前の行動に
+関して日頃から考えてることがある</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、どんなことよ？</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>ＳＯＳ団の他の連中と比べて、俺に
+対する扱いがひどくないか？</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何よキョン、おかしなこと言うわね</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしがいつ、アンタを軽んじた
+って言うのよ</value>
+  </data>
+  <data name="5 KYON (キョン)" xml:space="preserve">
+    <value>雑用その他諸々と、常にコキ使われ
+ている気がするんだが</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>いいや実際にコキ使われているぞ！</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはアンタに相応しい仕事が
+それだからに決まってるじゃない</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だいたい、雑用だって立派な仕事よ
+誰かがやらなきゃいけないんだから</value>
+  </data>
+  <data name="9 KYON (キョン)" xml:space="preserve">
+    <value>そりゃそうだが……
+なんで俺なんだ</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、まだ文句があるって言うの？</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だったら、もう少しＳＯＳ団、団員
+として</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>マシな働きをしてから言うことね</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そしたら聞いてあげなくもないわ
+聞くだけだけどね</value>
+  </data>
+  <data name="14 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そりゃ結局、聞く気なんてないって
+ことじゃねえか……</value>
+  </data>
+  <data name="15 MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんは、何だかんだ言っても</value>
+  </data>
+  <data name="16 MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんを結構頼りにしてます
+よね</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はぁ！？</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、なんでいきなり
+そういう話になるの！</value>
+  </data>
+  <data name="19 MIKURU (みくる)" xml:space="preserve">
+    <value>で、でも、いつも気にかけてるみ
+たいですし……</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、みくるちゃん。それは
+大きな間違いというものよ</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>確かに、キョンの動向には少なから
+ず注意を払っているのは認めるわ</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でもそれは、あくまで監視よ監視！</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あいつには、やる気とか根性とかの
+前向きな姿勢が足りていないのよ</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>せっかく栄えあるＳＯＳ団の一員に
+選ばれたっていうのに</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく情けないわ！</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、成り行きかも知れないけど</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＯＳ団にキョンも入っているわけ
+だしね</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>要するに、あたしは団長として</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンに対しての監督責任がある
+わけよ！</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>わかったかしら！？　みくるちゃん</value>
+  </data>
+  <data name="31 MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい。涼宮さんのキョンくんに
+対する思いはわかりましたぁ</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>むぅ～、何だかちょっと違うのよね</value>
+  </data>
+  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あのね、みくるちゃん
+そこに座って</value>
+  </data>
+  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう少し理解が必要ね</value>
+  </data>
+  <data name="35 MIKURU (みくる)" xml:space="preserve">
+    <value>ええっ！？　い、いまからですか</value>
+  </data>
+  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ、今じゃなくていつなのよ</value>
+  </data>
+  <data name="37 MIKURU (みくる)" xml:space="preserve">
+    <value>ふえぇぇんっ！　そんなぁぁっ！</value>
+  </data>
+  <data name="38 NAGATO (長門)" xml:space="preserve">
+    <value>あなたと彼との関係について考えた</value>
+  </data>
+  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はぁ？　関係ってなんなの、有希</value>
+  </data>
+  <data name="40 NAGATO (長門)" xml:space="preserve">
+    <value>あなたの彼に対する対応は全面的な
+友好関係にあるとは</value>
+  </data>
+  <data name="41 NAGATO (長門)" xml:space="preserve">
+    <value>言いがたい場合がある</value>
+  </data>
+  <data name="42 NAGATO (長門)" xml:space="preserve">
+    <value>しかし、状況によっては他の人間に
+はない信頼を感じる</value>
+  </data>
+  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、それはあなたの勘違いね</value>
+  </data>
+  <data name="44 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>言ってみれば、あたしはキョンの
+保護者みたいなものなのよ</value>
+  </data>
+  <data name="45 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにかにつけて楽をしようとしたり
+やる気がなかったりするアイツを</value>
+  </data>
+  <data name="46 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>このあたしが教育してあげている
+のよ</value>
+  </data>
+  <data name="47 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＯＳ団におけるキョンの立場は
+見習いや研修中ってところね</value>
+  </data>
+  <data name="48 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから指導よ指導が必要なのよ</value>
+  </data>
+  <data name="49 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希にキョンの扱いがぞんざいに見
+えたとしたら、きっとそのせいね</value>
+  </data>
+  <data name="50 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どう？　分かった</value>
+  </data>
+  <data name="51 NAGATO (長門)" xml:space="preserve">
+    <value>分かった</value>
+  </data>
+  <data name="52 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんは日頃から彼を重用して
+おられますね</value>
+  </data>
+  <data name="53 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンを？　別に重用なんてしてる
+つもりはないわね</value>
+  </data>
+  <data name="54 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あいつに任せられるのは、雑用が
+いいところだわ</value>
+  </data>
+  <data name="55 KOIZUMI (古泉)" xml:space="preserve">
+    <value>しかし雑用とはいえ、何かを任せる
+人物としているわけですから</value>
+  </data>
+  <data name="56 KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼はＳＯＳ団、ひいては涼宮さんに
+とって重要な方ではないかと</value>
+  </data>
+  <data name="57 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、そういう見方もできるってこ
+とはあるかもね</value>
+  </data>
+  <data name="58 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ただ、何かって言うと文句ばっかり
+だし</value>
+  </data>
+  <data name="59 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いつも面倒くさそうにしているし</value>
+  </data>
+  <data name="60 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしはアイツのその枯れた根性を
+矯正してあげてるんだから</value>
+  </data>
+  <data name="61 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>って感じね</value>
+  </data>
+  <data name="62 KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど。では、ある意味涼宮さん
+は彼の保護者ですね</value>
+  </data>
+  <data name="63 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう！　それよ！</value>
+  </data>
+  <data name="64 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしはキョンにとって保護者とか
+師匠とかコーチとか</value>
+  </data>
+  <data name="65 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>とにかくそんな存在なわけ！</value>
+  </data>
+  <data name="66 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さすが古泉くん、的を射ているわ</value>
+  </data>
+  <data name="67 KOIZUMI (古泉)" xml:space="preserve">
+    <value>お褒めにあずかり光栄です</value>
+  </data>
+</root>

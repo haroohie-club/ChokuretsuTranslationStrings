@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　そういえば、キョンの姿が
+見えないわね</value>
+  </data>
+  <data name="1 MIKURU (みくる)" xml:space="preserve">
+    <value>え……あ、ほんと</value>
+  </data>
+  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まさか！？</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あいつ、ひとりでサボってるんじゃ
+ないでしょうね！</value>
+  </data>
+  <data name="4 MIKURU (みくる)" xml:space="preserve">
+    <value>えーと、そんなことは……
+ないと思います。たぶん</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どっちにしろ、勝手にどっか行った
+ことにかわりはないわ！</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>行くわよ、みくるちゃん！</value>
+  </data>
+  <data name="7 MIKURU (みくる)" xml:space="preserve">
+    <value>え……い、行くって？</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もちろん、キョンを見つけ出して
+しかるべき制裁を加えるためによ！</value>
+  </data>
+  <data name="9 MIKURU (みくる)" xml:space="preserve">
+    <value>ええっ！？　せ、制裁ですかぁ</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どんなのがいいかしらねぇ……</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#xF;</value>
+  </data>
+  <data name="12 MIKURU (みくる)" xml:space="preserve">
+    <value>&#xF;</value>
+  </data>
+  <data name="13 NAGATO (長門)" xml:space="preserve">
+    <value>問題が発生した</value>
+  </data>
+  <data name="14 KYON (キョン)" xml:space="preserve">
+    <value>問題……？</value>
+  </data>
+  <data name="15 NAGATO (長門)" xml:space="preserve">
+    <value>涼宮ハルヒが進路を変え、こちらに
+接近している</value>
+  </data>
+  <data name="16 KYON (キョン)" xml:space="preserve">
+    <value>なに？　それで大丈夫なのか？</value>
+  </data>
+  <data name="17 NAGATO (長門)" xml:space="preserve">
+    <value>至急、対応が必要</value>
+  </data>
+  <data name="18 KYON (キョン)" xml:space="preserve">
+    <value>至急と言われてもな。慣れない作業
+で、こっちは悪戦苦闘中なんだぞ</value>
+  </data>
+  <data name="19 NAGATO (長門)" xml:space="preserve">
+    <value>涼宮ハルヒが、現状を目撃した場合
+発生する状況は予測不可能</value>
+  </data>
+  <data name="20 KYON (キョン)" xml:space="preserve">
+    <value>つまり、何が起こるか分かったもん
+じゃないってか</value>
+  </data>
+  <data name="21 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="22 KYON (キョン)" xml:space="preserve">
+    <value>くそっ、とにかく急ぐしかないか！</value>
+  </data>
+  <data name="23 NAGATO (長門)" xml:space="preserve">
+    <value>&#xF;</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン！　大人しく出てきなさい！</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>隠れれば、それだけ罪が重くなるん
+だから！</value>
+  </data>
+  <data name="26 MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さ～ん、待ってくださぁい</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、へばってる場合じゃ
+ないわよ！</value>
+  </data>
+  <data name="28 MIKURU (みくる)" xml:space="preserve">
+    <value>は、はいぃ～</value>
+  </data>
+</root>

@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>さっき妹が迷子になっただろう</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>無事に見つかって良かったわよ</value>
+  </data>
+  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>妹ちゃんは探検が中断されて
+つまらなさそうだったけど</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>本格的に迷子になってしまったら
+大変よね。この学校ムダに広いし</value>
+  </data>
+  <data name="4 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まったくだ</value>
+  </data>
+  <data name="5 KYON (キョン)" xml:space="preserve">
+    <value>あの後、古泉と朝比奈さんを捜しに
+行ったじゃないか</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ</value>
+  </data>
+  <data name="7 KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんが、ひとりで妹を捜して
+いて、人気のない学校に怯えてたぞ</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。人がいないと普段と違って
+見えるし、彼女恐がりだしね</value>
+  </data>
+  <data name="9 KYON (キョン)" xml:space="preserve">
+    <value>だから、ここいらで怪談捜しは
+止めて喫茶店にでも行かないか？</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンのおごりで？</value>
+  </data>
+  <data name="11 KYON (キョン)" xml:space="preserve">
+    <value>いたしかたないな</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、新七不思議を見つけたら
+打ち上げはキョンのおごりね！</value>
+  </data>
+  <data name="13 KYON (キョン)" xml:space="preserve">
+    <value>こら、待てよ</value>
+  </data>
+  <data name="14 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>新七不思議は諦めないのかよ</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>決定事項だからね！</value>
+  </data>
+  <data name="16 MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんはあたしと古泉くんを
+捜しに出てくれたんですよね？</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　それは妹ちゃんが迷子に
+なった時のこと？</value>
+  </data>
+  <data name="18 MIKURU (みくる)" xml:space="preserve">
+    <value>そうです。バタバタしていて、
+お礼を言ってなかったので</value>
+  </data>
+  <data name="19 MIKURU (みくる)" xml:space="preserve">
+    <value>ありがとうございました</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>お礼なんて別に言わなくていいわよ</value>
+  </data>
+  <data name="21 MIKURU (みくる)" xml:space="preserve">
+    <value>でも、心配してくれたんですよね</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>心配って言うか……まあ、待つのは
+嫌いだからあたし、それだけよ</value>
+  </data>
+  <data name="23 MIKURU (みくる)" xml:space="preserve">
+    <value>気を使ってくれてるんですか？</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあね、少しくらいはね</value>
+  </data>
+  <data name="25 MIKURU (みくる)" xml:space="preserve">
+    <value>ふふっ、涼宮さんて優しいです</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あのね、みくるちゃん
+団長なんだから、当然のことよ</value>
+  </data>
+  <data name="27 NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるが迷子になった</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんが？　どこで？</value>
+  </data>
+  <data name="29 NAGATO (長門)" xml:space="preserve">
+    <value>校内</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あー多分、それ違うわ。迷子に
+なったのは妹ちゃんよ</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんはそれ捜しに行って
+くれただけよ</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、結局キョンが、戻ってこない
+みくるちゃんと古泉くんを</value>
+  </data>
+  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>捜しに行ったんだけどね</value>
+  </data>
+  <data name="34 NAGATO (長門)" xml:space="preserve">
+    <value>それは迷子とは言わない？</value>
+  </data>
+  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうかしら、難しいところだけど
+迷子ではないでしょうね</value>
+  </data>
+  <data name="36 NAGATO (長門)" xml:space="preserve">
+    <value>了解した。認識を修正する</value>
+  </data>
+  <data name="37 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そう言えば、図書室に行く途中で
+妹さんが迷子になった時ですが</value>
+  </data>
+  <data name="38 KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕と朝比奈さんを、涼宮さんも
+捜しに出てくださったんですよね</value>
+  </data>
+  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ、待ってるのって性に合わ
+ないのよね、あたし</value>
+  </data>
+  <data name="40 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンには、なぜじっとしていら
+れないって怒鳴られたけど</value>
+  </data>
+  <data name="41 KOIZUMI (古泉)" xml:space="preserve">
+    <value>まあ、その場から動かないのが
+はぐれた時の合流の秘訣ですから</value>
+  </data>
+  <data name="42 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、そうよね</value>
+  </data>
+  <data name="43 KOIZUMI (古泉)" xml:space="preserve">
+    <value>迎えに出てきてくれたんですよね
+ありがとうございます</value>
+  </data>
+  <data name="44 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>団長なんだから、なにかあったら
+当然よね</value>
+  </data>
+</root>

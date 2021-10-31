@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>買出し班、と言うと聞こえはいいが
+構成員は俺一人だけのソロ活動だ</value>
+  </data>
+  <data name="1 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>身軽に動ける分、多少は気分転換に
+なるかもしれない</value>
+  </data>
+  <data name="2 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ま、ハルヒの方は長門や古泉が側に
+いるわけだし、心配ないだろう</value>
+  </data>
+  <data name="3 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>むしろ、朝比奈さんの身が心配だ
+何事も無ければいいんだが……</value>
+  </data>
+  <data name="4 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さて、ここに一枚のメモ用紙がある</value>
+  </data>
+  <data name="5 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>買出しで購入すべき品物のリストが
+びっしりと書き込まれている</value>
+  </data>
+  <data name="6 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>夜食、菓子、飲み物……</value>
+  </data>
+  <data name="7 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>アバウトに『夜食』とだけ書かれて
+も正直困るのだが</value>
+  </data>
+  <data name="8 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>サンドイッチとか、惣菜パンとか
+具体的に書いて欲しいもんだ</value>
+  </data>
+  <data name="9 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……それから、もう一つ</value>
+  </data>
+  <data name="10 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>わざわざ、赤い太ペンで記された
+一文が、やけに存在を主張している</value>
+  </data>
+  <data name="11 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>#P05眠気覚ましのドリンク剤を大量に！#P01</value>
+  </data>
+  <data name="12 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……これはハルヒの書いた文字だ</value>
+  </data>
+  <data name="13 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>つまり、アレだ。今夜は一睡もさせ
+ないぞって事か</value>
+  </data>
+  <data name="14 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒのやつ、どうやら、まだまだ
+学校に居座るつもりらしい</value>
+  </data>
+  <data name="15 KYON (キョン)" xml:space="preserve">
+    <value>勘弁してくれよ……</value>
+  </data>
+  <data name="16 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>実際に怪奇現象が起こっている様子
+を、ハルヒに目撃されたら終わりだ</value>
+  </data>
+  <data name="17 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いざとなったら、ハルヒを無理にで
+も校外に連れ出すしかない</value>
+  </data>
+  <data name="18 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とにかく今は、ハルヒが必要以上に
+不機嫌にならないよう注意して……</value>
+  </data>
+  <data name="19 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これ以上、事態が悪化しないように
+知恵を絞らなければならない</value>
+  </data>
+  <data name="20 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>後は、ハルヒの興味を怪奇現象以外
+のモノに向けさせなければ……</value>
+  </data>
+  <data name="21 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長い坂を下って、ようやくコンビニ
+に到着したとき、俺の携帯が鳴った</value>
+  </data>
+  <data name="22 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>液晶画面にはハルヒの名前が表示
+されている。イヤな予感がする</value>
+  </data>
+  <data name="23 KYON (キョン)" xml:space="preserve">
+    <value>もしもし？</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ついでに買ってきて欲しいものが
+あるの</value>
+  </data>
+  <data name="25 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>相変わらず挨拶抜きで用件を言って
+きやがる。こっちの状況も無視だし</value>
+  </data>
+  <data name="26 KYON (キョン)" xml:space="preserve">
+    <value>なんだ？　眠気覚ましの他に精力剤
+も買ってこい、とか。そんな話か？</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>違うわよ。あたしが頼みたいのは
+もっと別の品物よ</value>
+  </data>
+  <data name="28 KYON (キョン)" xml:space="preserve">
+    <value>だから、なんだ？</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何かスイカ的なモノが欲しいわ</value>
+  </data>
+  <data name="30 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>スイカ“的”なモノって……</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>夏といえば、スイカ割りでしょ
+外せないイベントよね</value>
+  </data>
+  <data name="32 KYON (キョン)" xml:space="preserve">
+    <value>そこは海でも川でもない、学校だぞ
+校内でスイカ割りするつもりか</value>
+  </data>
+  <data name="33 KYON (キョン)" xml:space="preserve">
+    <value>そもそも、コンビニにスイカ１玉
+丸ごと売ってるとは思えん</value>
+  </data>
+  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、その辺はアンタのセンスに
+任せるわよ</value>
+  </data>
+  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>無かったら……そうね、諦めるわ
+こんな時間だしね</value>
+  </data>
+  <data name="36 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>仕方なくだったら
+最初から諦めてくれ……</value>
+  </data>
+  <data name="37 KYON (キョン)" xml:space="preserve">
+    <value>……探すだけは、探しとく</value>
+  </data>
+  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>勘定は後でワリカンね。レシートを
+ちゃんともらって帰ってきなさい</value>
+  </data>
+  <data name="39 KYON (キョン)" xml:space="preserve">
+    <value>言われなくてもわかってる</value>
+  </data>
+  <data name="40 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、頼んだわよ</value>
+  </data>
+  <data name="41 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……また無茶なことを言い出した
+校内でスイカ割り？　正気か？</value>
+  </data>
+  <data name="42 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>頭を抱えながら、俺はコンビニの
+自動ドアをくぐった……</value>
+  </data>
+  <data name="43 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さて、菓子や飲み物は適当でもいい
+だろう</value>
+  </data>
+  <data name="44 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>出来るだけ、校内の自販機では買え
+ない種類の飲み物を選ぶとして……</value>
+  </data>
+  <data name="45 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>夜食は……カップ麺でもいいか</value>
+  </data>
+  <data name="46 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おにぎりと、サンドイッチも買うか</value>
+  </data>
+  <data name="47 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>んで、眠気覚ましのドリンク剤……
+一人一本もあれば十分だろう</value>
+  </data>
+  <data name="48 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>後は……</value>
+  </data>
+  <data name="49 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まあ、スイカ１玉なんて、置いてあ
+るはずが無いよな</value>
+  </data>
+  <data name="50 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>代わりに、ハルヒの気を引きそうな
+モノがあればいいんだが……</value>
+  </data>
+  <data name="51 KYON (キョン)" xml:space="preserve">
+    <value>……ん？</value>
+  </data>
+  <data name="52 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ふと、陳列棚の前で足が止まった</value>
+  </data>
+  <data name="53 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>スイカとは程遠いが、これならば
+ハルヒの気を引けるかもしれない</value>
+  </data>
+  <data name="54 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ビーチボール、か……</value>
+  </data>
+  <data name="55 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>運動なんて全力で遠慮したい気分だ
+が、この状況では仕方ない</value>
+  </data>
+  <data name="56 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ボール状のアイテムだし、一応は
+スイカの代用品と呼べなくもない</value>
+  </data>
+  <data name="57 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>よし、ビーチボールにしよう</value>
+  </data>
+  <data name="58 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒがどんな雑誌を読むのか
+知らんが、適当に選ぼう</value>
+  </data>
+  <data name="59 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>読んでる間くらいは、おとなしく
+部室で時間を潰してくれるだろう</value>
+  </data>
+  <data name="60 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は手を伸ばし、それを買い物カゴ
+へと突っ込んだ</value>
+  </data>
+  <data name="61 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これをハルヒが喜ぶかどうか、大い
+に疑問だが……値段も手ごろだしな</value>
+  </data>
+  <data name="62 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いざという時は、自腹で買い取ろう</value>
+  </data>
+  <data name="63 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>念のため、もう一つくらい、ハルヒ
+の興味を引きそうな物を選ぶか……</value>
+  </data>
+  <data name="64 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さて、どれにする？</value>
+  </data>
+  <data name="65 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>花火か……悪くないな</value>
+  </data>
+  <data name="66 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>例の、バーベキューをした場所なら
+花火で遊んでも怒られないだろう</value>
+  </data>
+  <data name="67 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一応、買っておくか……</value>
+  </data>
+  <data name="68 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>体力の有り余ってるハルヒには
+この手の運動グッズが一番だろう</value>
+  </data>
+  <data name="69 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし懐かしいなオイ、ビニール製
+のバットに、柔らかいボール</value>
+  </data>
+  <data name="70 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>最近のコンビニじゃ、こんな物まで
+売ってたりするんだな……</value>
+  </data>
+  <data name="71 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>アレコレと頭を悩ませつつ、買い物
+カゴに物を放り込み……</value>
+  </data>
+  <data name="72 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>気がつくと、カゴは結構な重さに
+なっていた</value>
+  </data>
+  <data name="73 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>菓子や夜食はともかく、飲み物が
+とてつもなく重たい</value>
+  </data>
+  <data name="74 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この大荷物を、俺一人で抱えて
+あの長い坂道を登るのか……</value>
+  </data>
+  <data name="75 KYON (キョン)" xml:space="preserve">
+    <value>やれやれ……</value>
+  </data>
+</root>

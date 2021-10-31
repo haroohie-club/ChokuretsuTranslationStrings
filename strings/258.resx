@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>チェス勝負の時の話なんだがな</value>
+  </data>
+  <data name="1 KYON (キョン)" xml:space="preserve">
+    <value>古泉に、おまえが真打ちだと
+言ったら、喜んでただろう</value>
+  </data>
+  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。嬉しそうにしてたわね</value>
+  </data>
+  <data name="3 KYON (キョン)" xml:space="preserve">
+    <value>なんで皮肉だって気づかないんだ？
+真打ちが下手くそなわけないだろ</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんたら、妙に素直なところが
+あるからじゃないの？</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>喜んでたんだからそっとしておけば
+いいじゃない</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>キッチリ現実ってものを分からせた
+方がいいかもな</value>
+  </data>
+  <data name="7 KYON (キョン)" xml:space="preserve">
+    <value>お前はゲーム下手だ、とな</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はぁ……もう少し寛容な性格に
+ならないとね、キョン</value>
+  </data>
+  <data name="9 KYON (キョン)" xml:space="preserve">
+    <value>寛容ねぇ……</value>
+  </data>
+  <data name="10 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんな単語がおまえの脳内辞書に
+あったとは知らなかったぞ</value>
+  </data>
+  <data name="11 MIKURU (みくる)" xml:space="preserve">
+    <value>そういえば、よく真打ち登場って
+言いますよね</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>言うわよね。みくるちゃんも
+真打ちになりたいの？</value>
+  </data>
+  <data name="13 MIKURU (みくる)" xml:space="preserve">
+    <value>ととと、とんでもないです
+あたしに真打ちは無理ですよぅ</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、堂々としてないと真打ちっ
+ぽくないかもね</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういう意味では、古泉くんか有希
+が、かなり真打ちっぽいわよね</value>
+  </data>
+  <data name="16 MIKURU (みくる)" xml:space="preserve">
+    <value>あたしもそう思います</value>
+  </data>
+  <data name="17 NAGATO (長門)" xml:space="preserve">
+    <value>真打ちと言われた、と古泉一樹が
+喜んでいた</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>真打ち？　ああ、チェス勝負の時の
+あれね。うん、キョンが言ってたわ</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん、そう、有希に言うほど嬉し
+かったとはね</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんって、案外可愛い所がある
+わねぇ</value>
+  </data>
+  <data name="21 NAGATO (長門)" xml:space="preserve">
+    <value>真打ちは、その場での最高実力者と
+いう意味と認識している</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その通りよ。有希</value>
+  </data>
+  <data name="23 NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹の実力にそぐわない評価</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>しーっ、それは言わないの</value>
+  </data>
+  <data name="25 KOIZUMI (古泉)" xml:space="preserve">
+    <value>真打ち登場なんて言葉がありますが
+ＳＯＳ団の真打ちは涼宮さんですね</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>真打ちって、あたしが主役だってこ
+と？</value>
+  </data>
+  <data name="27 KOIZUMI (古泉)" xml:space="preserve">
+    <value>落語の世界では、最後に出演して
+最高の芸を披露する人なのです</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>つまり、最後にいいところを持って
+いっちゃう人ってことねっ</value>
+  </data>
+  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+    <value>心を打つと書いて心打ちともいうの
+だそうですよ</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは初めて聞いたわ
+かなりの大役ってことね</value>
+  </data>
+  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+    <value>演劇の舞台などでは、ビラの最初に
+名が挙がる人のことです</value>
+  </data>
+  <data name="32 KOIZUMI (古泉)" xml:space="preserve">
+    <value>いずれの意味でも、涼宮さんは
+紛れもなくＳＯＳ団の真打ちです</value>
+  </data>
+  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今日の古泉くんはやけに持ち上げる
+わねえ</value>
+  </data>
+  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうでしょうか
+気に障ったのでしたら謝ります</value>
+  </data>
+  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう、わかったわ！
+キョンになにか頼まれたのね！</value>
+  </data>
+  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何かヘマをしたからフォローして
+くれとか</value>
+  </data>
+  <data name="37 KOIZUMI (古泉)" xml:space="preserve">
+    <value>……いえ、そういったことはありま
+せんので</value>
+  </data>
+</root>

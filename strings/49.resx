@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>なあ、ハルヒ</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>無駄話してる時じゃないでしょ
+なに？　くだらない話なら死刑よ</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>……くだらない話だ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう。でも一応、聞いてあげるわ</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんたちと、アイスを食う
+約束をしてるんだが</value>
+  </data>
+  <data name="5 KYON (キョン)" xml:space="preserve">
+    <value>おまえもくるか？</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それって、キョンのおごりよね？</value>
+  </data>
+  <data name="7 KYON (キョン)" xml:space="preserve">
+    <value>まあ、そうだな
+おごってやってもいい</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ行くわ。勝手に二人で行っ
+ちゃダメよ！　わかったわね！</value>
+  </data>
+  <data name="9 KYON (キョン)" xml:space="preserve">
+    <value>……はいはい</value>
+  </data>
+  <data name="10 MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんと、一緒にアイスを食べ
+ようって約束をしたんですけど……</value>
+  </data>
+  <data name="11 MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんは、どんなアイスが食べた
+いですか？</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みんなでアイスを食べようって話？</value>
+  </data>
+  <data name="13 MIKURU (みくる)" xml:space="preserve">
+    <value>はい。夜になっても、夏は暑いし
+アイスで涼もうってことになって</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、アイスよりカキ氷が食べた
+いわね。たっぷり蜜をかけて</value>
+  </data>
+  <data name="15 MIKURU (みくる)" xml:space="preserve">
+    <value>カキ氷もいいですねぇ</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、その相談は後でゆっくりね
+今はみんなと合流しなきゃ</value>
+  </data>
+  <data name="17 MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですね……</value>
+  </data>
+  <data name="18 NAGATO (長門)" xml:space="preserve">
+    <value>アイスを食べる約束をしてる</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰と？　キョン？　みくるちゃん？</value>
+  </data>
+  <data name="20 NAGATO (長門)" xml:space="preserve">
+    <value>二人とも</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいわね、アイス。暑い夏の夜には
+もってこいのデザートだわ</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>当然、あたしも一緒に食べるから
+ちゃんと二人に伝えておいてね</value>
+  </data>
+  <data name="23 NAGATO (長門)" xml:space="preserve">
+    <value>わかった</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何味にしようかしら。カキ氷っての
+もいいわね</value>
+  </data>
+  <data name="25 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さん、アイスはお好きですか？</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>唐突に……なに？　好きだけど？</value>
+  </data>
+  <data name="27 KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、朝比奈さんたちが、後でアイ
+スを食べようと相談していたので</value>
+  </data>
+  <data name="28 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんも、いかがですか？</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、まだまだ夜はこれからだし
+冷たい物でリフレッシュしましょう</value>
+  </data>
+  <data name="30 KOIZUMI (古泉)" xml:space="preserve">
+    <value>いいですね、そうしましょう</value>
+  </data>
+</root>

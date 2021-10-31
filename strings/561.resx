@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>結局、昇降口の鏡の件も外れ
+だったから</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これで証言は全部ガセ、全滅って
+わけね……</value>
+  </data>
+  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう！　こんなんじゃ、ぜんぜん
+気が収まらないわっ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今からでも、他に何かそれっぽい
+ものがないか探索しようかしら</value>
+  </data>
+  <data name="4 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それは勘弁してくれ</value>
+  </data>
+  <data name="5 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今や、校内のいたるところが
+異空間になってるんだ</value>
+  </data>
+  <data name="6 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>時間を稼ぐために、できるだけ遠く
+へハルヒを連れて行きたいが……</value>
+  </data>
+  <data name="7 KYON (キョン)" xml:space="preserve">
+    <value>そうだ、チェスの駒！
+あれが少し足りないみたいなんだ</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>チェスの駒？　もしかして肝試しの
+時に使ったやつ？</value>
+  </data>
+  <data name="9 KYON (キョン)" xml:space="preserve">
+    <value>そう、それだ</value>
+  </data>
+  <data name="10 KYON (キョン)" xml:space="preserve">
+    <value>ほら、ありゃ古泉の私物なわけだし
+無くすのはさすがに悪いだろう</value>
+  </data>
+  <data name="11 KYON (キョン)" xml:space="preserve">
+    <value>だから、念のためにちょっと踊り場
+まで行って探してきたいんだが</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、いいわ。そのくらいなら
+付き合って行ってあげる</value>
+  </data>
+  <data name="13 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やれやれ、これで時間を稼げるか</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x15;</value>
+  </data>
+  <data name="15 MIKURU (みくる)" xml:space="preserve">
+    <value>あの、踊り場の方から探索して
+いきませんか？</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>踊り場？
+何か心当たりでもあるの？</value>
+  </data>
+  <data name="17 MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんのチェスの駒、ナイトが
+ひとつ足りないみたいなんです</value>
+  </data>
+  <data name="18 MIKURU (みくる)" xml:space="preserve">
+    <value>たぶん、肝試しの時にどこかに
+行っちゃったんだと……</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほどね。あれって、古泉くんの
+私物だものね</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいわ、じゃあ先に踊り場の方から
+まわっていきましょ</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x15;</value>
+  </data>
+  <data name="22 NAGATO (長門)" xml:space="preserve">
+    <value>チェスの駒が足りない</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>チェスの駒？</value>
+  </data>
+  <data name="24 NAGATO (長門)" xml:space="preserve">
+    <value>肝試しの後から、チェスの駒が
+一つ欠けている</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうなの？　うーん、ちゃんと全部
+回収したはずなんだけどなあ</value>
+  </data>
+  <data name="26 NAGATO (長門)" xml:space="preserve">
+    <value>だから、探しに行く</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、そうしましょ</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんの私物を無くしたら
+可哀想だものね</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>一番疑わしいのはやっぱ踊り場よね</value>
+  </data>
+  <data name="30 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、さっそく踊り場へ行き
+ましょ</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x15;</value>
+  </data>
+  <data name="33 KOIZUMI (古泉)" xml:space="preserve">
+    <value>申し訳ありません。踊り場へ向かい
+たいのですがよろしいでしょうか？</value>
+  </data>
+  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>踊り場？　なんでまた、そんな
+ところに？</value>
+  </data>
+  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+    <value>実は、肝試しの直後から黒のナイト
+が行方不明なのです</value>
+  </data>
+  <data name="36 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ある意味、双子の片割れですので
+欠けるとどうも落ち着きません</value>
+  </data>
+  <data name="37 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよね。それに足りないままじゃ
+ゲームにならないものね</value>
+  </data>
+  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいわ、じゃ、探しに行きましょ</value>
+  </data>
+  <data name="39 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ありがとうございます</value>
+  </data>
+</root>

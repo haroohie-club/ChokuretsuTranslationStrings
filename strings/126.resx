@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ではこれからチェスのルールを
+説明して行きましょう</value>
+  </data>
+  <data name="1 INFO (インフォ)" xml:space="preserve">
+    <value>特殊ルール“キャスリング”の
+説明を行います</value>
+  </data>
+  <data name="2 INFO (インフォ)" xml:space="preserve">
+    <value>“キャスリング”とは、“キング”
+と“ルーク”を使用した</value>
+  </data>
+  <data name="3 INFO (インフォ)" xml:space="preserve">
+    <value>特殊な移動ルールです</value>
+  </data>
+  <data name="4 INFO (インフォ)" xml:space="preserve">
+    <value>“キャスリング”を行うには
+いくつかの条件が必要になります</value>
+  </data>
+  <data name="5 INFO (インフォ)" xml:space="preserve">
+    <value>１．『キングとルークが一度も移動
+していない』</value>
+  </data>
+  <data name="6 INFO (インフォ)" xml:space="preserve">
+    <value>“キング”と“ルーク”がゲーム
+開始後一度も移動していない必要が</value>
+  </data>
+  <data name="7 INFO (インフォ)" xml:space="preserve">
+    <value>あります。ルークは左右のどちらか
+移動していないほうを使用出来ます</value>
+  </data>
+  <data name="8 INFO (インフォ)" xml:space="preserve">
+    <value>２．『チェックされていない』</value>
+  </data>
+  <data name="9 INFO (インフォ)" xml:space="preserve">
+    <value>“キング”がチェックされていない
+状態である必要があります</value>
+  </data>
+  <data name="10 INFO (インフォ)" xml:space="preserve">
+    <value>つまり、チェックされた時の“緊急
+回避”としては使用できません</value>
+  </data>
+  <data name="11 INFO (インフォ)" xml:space="preserve">
+    <value>３．『“キング”の移動範囲が敵に
+攻撃されていない』</value>
+  </data>
+  <data name="12 INFO (インフォ)" xml:space="preserve">
+    <value>キャスリング時に“キング”が移動
+する範囲が敵の駒の攻撃範囲内に</value>
+  </data>
+  <data name="13 INFO (インフォ)" xml:space="preserve">
+    <value>入っていない必要があります</value>
+  </data>
+  <data name="14 INFO (インフォ)" xml:space="preserve">
+    <value>４．『“キング”と“ルーク”の
+間に別の駒が無い』</value>
+  </data>
+  <data name="15 INFO (インフォ)" xml:space="preserve">
+    <value>“キャスリング”を行う“キング”
+と“ルーク”の間に移動を邪魔する</value>
+  </data>
+  <data name="16 INFO (インフォ)" xml:space="preserve">
+    <value>駒が無く、空いている状態である
+必要があります</value>
+  </data>
+  <data name="17 INFO (インフォ)" xml:space="preserve">
+    <value>上記４つの条件を満たせば
+“キャスリング”が可能です</value>
+  </data>
+  <data name="18 INFO (インフォ)" xml:space="preserve">
+    <value>“キャスリング”とは、通常１マス
+のみ移動できる“キング”を</value>
+  </data>
+  <data name="19 INFO (インフォ)" xml:space="preserve">
+    <value>一気に２マス移動させ、同時にその
+隣に“ルーク”を移動させるという</value>
+  </data>
+  <data name="20 INFO (インフォ)" xml:space="preserve">
+    <value>特殊な移動ルールです</value>
+  </data>
+  <data name="21 INFO (インフォ)" xml:space="preserve">
+    <value>実際に駒を動かしてみます
+下画面をご覧ください</value>
+  </data>
+  <data name="22 INFO (インフォ)" xml:space="preserve">
+    <value>これが“キャスリング”です
+唯一１手で駒が２つ動くルールです</value>
+  </data>
+  <data name="23 INFO (インフォ)" xml:space="preserve">
+    <value>反対側にも“キャスリング”する事
+が可能です</value>
+  </data>
+  <data name="24 INFO (インフォ)" xml:space="preserve">
+    <value>右側の“キャスリング”に対して
+“ルーク”の移動距離が少し</value>
+  </data>
+  <data name="25 INFO (インフォ)" xml:space="preserve">
+    <value>違いますが、『キングが２マス移動
+してその隣にルークを移動』と</value>
+  </data>
+  <data name="26 INFO (インフォ)" xml:space="preserve">
+    <value>覚えてください</value>
+  </data>
+  <data name="27 INFO (インフォ)" xml:space="preserve">
+    <value>先ほどの“キャスリング”の条件
+でも説明しましたが</value>
+  </data>
+  <data name="28 INFO (インフォ)" xml:space="preserve">
+    <value>“キング”が移動する範囲が敵の駒
+に攻撃されている場合には</value>
+  </data>
+  <data name="29 INFO (インフォ)" xml:space="preserve">
+    <value>“キャスリング”出来ません</value>
+  </data>
+  <data name="30 INFO (インフォ)" xml:space="preserve">
+    <value>味方の駒で守るか、排除してから
+“キャスリング”してください</value>
+  </data>
+  <data name="31 INFO (インフォ)" xml:space="preserve">
+    <value>以上で“キャスリング”の説明を
+終了します</value>
+  </data>
+  <data name="32 KOIZUMI (古泉)" xml:space="preserve">
+    <value>１手で“ナイトを獲得”
+してください　（仮）</value>
+  </data>
+  <data name="33 KOIZUMI (古泉)" xml:space="preserve">
+    <value>正解です、さすがですね　（仮）</value>
+  </data>
+  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+    <value>次の問題も頑張ってください
+（仮）</value>
+  </data>
+  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+    <value>残念、違いましたね　（仮）</value>
+  </data>
+  <data name="36 KOIZUMI (古泉)" xml:space="preserve">
+    <value>もう一度挑戦してみてください
+（仮）</value>
+  </data>
+  <data name="37 KOIZUMI (古泉)" xml:space="preserve">
+    <value>“駒得”出来なかったようですね
+　（仮）</value>
+  </data>
+  <data name="38 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ポイントの高い駒を奪われない様に
+気をつけてください　（仮）</value>
+  </data>
+</root>

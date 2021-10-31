@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>実は、学校にもバーベキューの道具
+があったらしいな</value>
+  </data>
+  <data name="1 KYON (キョン)" xml:space="preserve">
+    <value>行事用に、教員が管理してるらしい</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>前もって、貸し出し申請しておけば
+スムーズに借りられたんだ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>突発的に決まった合宿なんだから事
+前申請なんか出来るわけないでしょ</value>
+  </data>
+  <data name="4 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いや、そんなに自信たっぷりに言わ
+れても困るんだが……</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それに、道具を用意するためにアレ
+コレ駆け回って、思い出になったし</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>……ちっとも嬉しくないのは、俺の
+感受性に問題があるのかね？</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>男なんだから、細かいことでネチネ
+チ言わない。過去は過去でしょ</value>
+  </data>
+  <data name="8 KYON (キョン)" xml:space="preserve">
+    <value>……やれやれ</value>
+  </data>
+  <data name="9 MIKURU (みくる)" xml:space="preserve">
+    <value>知りませんでした、学校にもバーベ
+キューの道具があったなんて</value>
+  </data>
+  <data name="10 MIKURU (みくる)" xml:space="preserve">
+    <value>借りるためには、前もって申請書を
+出さなくちゃいけないですけど</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ホント、面倒なシステムよね</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>生徒が使いたい時に、使わせなさい
+よ、まったく……</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、おかげで色々と面白い体験も
+できたし、結果オーライだわ</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>ですね。あたしも、そう思います</value>
+  </data>
+  <data name="15 NAGATO (長門)" xml:space="preserve">
+    <value>バーベキューの道具の借用は
+事前申請によって可能</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>仕方ないわ。今回についてはね</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急に決めたから、手順なんか踏んで
+る時間が無かったもの</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それに、みんなで知恵を絞って道具
+は確保できたし、結果オーライね</value>
+  </data>
+  <data name="19 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は、理解が早くて助かるわ</value>
+  </data>
+  <data name="21 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんは、ご存知でしたか？</value>
+  </data>
+  <data name="22 KOIZUMI (古泉)" xml:space="preserve">
+    <value>バーベキュー用の道具ですが、学校
+側が所有しているモノもあったとか</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうなの？</value>
+  </data>
+  <data name="24 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ。ですが貸し出しには、事前に
+申請を行う必要があるのだそうです</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、どのみち今回は使えない
+道具だった、ってことね</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう終わったことだわ、忘れましょ
+今は、それどころじゃないし</value>
+  </data>
+</root>

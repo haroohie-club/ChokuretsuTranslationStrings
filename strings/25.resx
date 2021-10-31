@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんはお茶くみに情熱を
+かたむけているらしいな</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。種類も豊富にそろえてるし
+気合い入ってるわよね</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>さっきは職員室で先生にお茶を
+入れてやってたぞ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さすがね、みくるちゃん。先生を
+籠絡できれば、色々融通が利くわ</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やっぱりＳＯＳ団の萌えキャラだけ
+あるわね</value>
+  </data>
+  <data name="5 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>何か間違った方向に誉めてるぞ</value>
+  </data>
+  <data name="6 MIKURU (みくる)" xml:space="preserve">
+    <value>あたしお茶くみが好きだなって
+思うんですよ</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、みくるちゃんたら
+すっかり板についちゃったわよね</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＯＳ団専属のメイドさんがね</value>
+  </data>
+  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>お茶くみの何が気に入ったの？</value>
+  </data>
+  <data name="10 MIKURU (みくる)" xml:space="preserve">
+    <value>一番は感謝して貰えることですね
+ありがとうって言ってくれるし</value>
+  </data>
+  <data name="11 MIKURU (みくる)" xml:space="preserve">
+    <value>それにお茶を飲んでみんながホッと
+緩む顔を見るのが好きです</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほどね</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それじゃあ、またお茶を入れて
+あたし達を和ませてちょうだい</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>はい！</value>
+  </data>
+  <data name="15 NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるはお茶くみに対して
+情熱を抱いているように見える</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。お茶の種類はどんどん
+増えていくし。楽しそうよね</value>
+  </data>
+  <data name="17 NAGATO (長門)" xml:space="preserve">
+    <value>情熱は趣味と言い換えられる？</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>趣味……趣味ねえ、うーん
+趣味とはちょっと違うかもね</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>職業意欲に近い気がするわ</value>
+  </data>
+  <data name="20 NAGATO (長門)" xml:space="preserve">
+    <value>職業意欲……？</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＯＳ団における、自分の役目は
+お茶を入れることだって</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>決めたんじゃないかしらね</value>
+  </data>
+  <data name="23 NAGATO (長門)" xml:space="preserve">
+    <value>ＳＯＳ団における役目……</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は？</value>
+  </data>
+  <data name="25 NAGATO (長門)" xml:space="preserve">
+    <value>読書</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……それは役目じゃなくて
+完全に趣味でしょ</value>
+  </data>
+  <data name="27 KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんはお茶くみがお好き
+なのでしょうね</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうみたいね。お茶の種類も増やし
+ているし好きでないと続かないわね</value>
+  </data>
+  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+    <value>職員室で先生にまでお茶を入れて
+いたらしいですよ</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>感謝して貰えるのが嬉しいって
+前にみくるちゃんが言ってたわ</value>
+  </data>
+  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど朝比奈さんらしいです</value>
+  </data>
+</root>

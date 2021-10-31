@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 137 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="1 11932 ()" xml:space="preserve">
+    <value>.&#x1;/&#x1;c&#x2;d&#x2;</value>
+  </data>
+  <data name="2 KOIZUMI ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="3 1128 ()" xml:space="preserve">
+    <value>1&#x1;c&#x2;</value>
+  </data>
+  <data name="4 MIKURU ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="5 1164 ()" xml:space="preserve">
+    <value>5&#x1;&#x1;c&#x2;</value>
+  </data>
+  <data name="6 NAGATO ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="7 1184 ()" xml:space="preserve">
+    <value>|</value>
+  </data>
+  <data name="8 TSURUYA ()" xml:space="preserve">
+    <value>ｸ.</value>
+  </data>
+  <data name="9 1212 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="10 MIKURU ()" xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="11 1240 ()" xml:space="preserve">
+    <value>&#x10;&#x6;</value>
+  </data>
+  <data name="12 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="13 2272 ()" xml:space="preserve">
+    <value>:&#x1;・・</value>
+  </data>
+  <data name="14 NAGATO ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="15 2292 ()" xml:space="preserve">
+    <value>&lt;&#x1;・・</value>
+  </data>
+  <data name="16 NAGATO ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="17 2328 ()" xml:space="preserve">
+    <value>&#x2;&#x2;・</value>
+  </data>
+  <data name="18 MIKURU ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="19 2348 ()" xml:space="preserve">
+    <value>｢&#x1;｣&#x1;､&#x1;ｦ&#x2;ｧ&#x2;ｨ&#x2;</value>
+  </data>
+  <data name="20 TSURUYA ()" xml:space="preserve">
+    <value>ｸ.</value>
+  </data>
+  <data name="21 2380 ()" xml:space="preserve">
+    <value>&#x6;&#x2;ｦ&#x2;</value>
+  </data>
+  <data name="22 MIKURU ()" xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="23 2412 ()" xml:space="preserve">
+    <value>E&#x1;F&#x1;ｫ&#x2;ｴ&#x2;</value>
+  </data>
+  <data name="24 KOIZUMI ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="25 2436 ()" xml:space="preserve">
+    <value>G&#x1;ｮ&#x2;ｱ&#x2;</value>
+  </data>
+  <data name="26 NAGATO ()" xml:space="preserve">
+    <value>&#x4;</value>
+  </data>
+  <data name="27 2476 ()" xml:space="preserve">
+    <value>G&#x1;&#xE;&#x2;ｫ&#x2;ｱ&#x2;</value>
+  </data>
+  <data name="28 KOIZUMI ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="29 2996 ()" xml:space="preserve">
+    <value>ﾈ&#xE;</value>
+  </data>
+  <data name="30 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="31 3996 ()" xml:space="preserve">
+    <value>ｾ&#x2;</value>
+  </data>
+  <data name="32 HARUHI ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="33 4024 ()" xml:space="preserve">
+    <value>O&#x1;&#x15;&#x2;ﾆ&#x2;ﾇ&#x2;</value>
+  </data>
+  <data name="34 KOIZUMI ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="35 4052 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="36 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="37 4068 ()" xml:space="preserve">
+    <value>&#x1A;&#x2;&#x1B;&#x2;&#x1C;&#x2;</value>
+  </data>
+  <data name="38 NAGATO ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="39 4092 ()" xml:space="preserve">
+    <value>ｻ&#x1;ｼ&#x1;&#x1F;&#x2; &#x2;ﾐ&#x2;ﾑ&#x2;</value>
+  </data>
+  <data name="40 TSURUYA ()" xml:space="preserve">
+    <value>ｸ.</value>
+  </data>
+  <data name="41 4124 ()" xml:space="preserve">
+    <value>P&#x13;</value>
+  </data>
+  <data name="42 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="43 5172 ()" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="44 NAGATO ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="45 5192 ()" xml:space="preserve">
+    <value>]&#x1;ﾘ&#x2;</value>
+  </data>
+  <data name="46 MIKURU ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="47 5220 ()" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="48 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="49 6120 ()" xml:space="preserve">
+    <value>ﾟ&#x2;</value>
+  </data>
+  <data name="50 HARUHI ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="51 6140 ()" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="52 KYON_SIS ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="53 6168 ()" xml:space="preserve">
+    <value>*&#x2;ﾅ&#x1;・</value>
+  </data>
+  <data name="54 NAGATO ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="55 6188 ()" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="56 HARUHI ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="57 6212 ()" xml:space="preserve">
+    <value>D&#x1B;</value>
+  </data>
+  <data name="58 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="59 7620 ()" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="60 KYON_SIS ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="61 7640 ()" xml:space="preserve">
+    <value>k&#x1;</value>
+  </data>
+  <data name="62 MIKURU ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="63 7660 ()" xml:space="preserve">
+    <value>・&#x3;&#x3;</value>
+  </data>
+  <data name="64 MIKURU ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="65 7676 ()" xml:space="preserve">
+    <value>ﾏ&#x1;</value>
+  </data>
+  <data name="66 HARUHI ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="67 7696 ()" xml:space="preserve">
+    <value>5&#x2;&#xE;&#x3;</value>
+  </data>
+  <data name="68 MIKURU ()" xml:space="preserve">
+    <value>ｸ.</value>
+  </data>
+  <data name="69 7716 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="70 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="71 7732 ()" xml:space="preserve">
+    <value>:&#x2;;&#x2;&#x16;&#x3;</value>
+  </data>
+  <data name="72 NAGATO ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="73 7760 ()" xml:space="preserve">
+    <value>ﾜ&#x1;ﾝ&#x1;?&#x2;@&#x2;&#x14;&#x3;&#x16;&#x3;</value>
+  </data>
+  <data name="74 TSURUYA ()" xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="75 7796 ()" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="76 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="77 9312 ()" xml:space="preserve">
+    <value>|&#x1;}&#x1;&#x1A;&#x3;&#x1B;&#x3;</value>
+  </data>
+  <data name="78 KOIZUMI ()" xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="79 9340 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="80 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="81 9372 ()" xml:space="preserve">
+    <value>F&#x2;$&#x3;%&#x3;</value>
+  </data>
+  <data name="82 NAGATO ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="83 9400 ()" xml:space="preserve">
+    <value>*&#x3;+&#x3;</value>
+  </data>
+  <data name="84 MIKURU ()" xml:space="preserve">
+    <value>ｸ.</value>
+  </data>
+  <data name="85 9432 ()" xml:space="preserve">
+    <value>・0&#x3;1&#x3;</value>
+  </data>
+  <data name="86 NAGATO ()" xml:space="preserve">
+    <value>ｸ.</value>
+  </data>
+  <data name="87 9464 ()" xml:space="preserve">
+    <value>,&amp;</value>
+  </data>
+  <data name="88 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="89 10368 ()" xml:space="preserve">
+    <value>l+</value>
+  </data>
+  <data name="90 KYON ()" xml:space="preserve">
+    <value>T&#x4;</value>
+  </data>
+  <data name="91 11420 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="92 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="93 40108643 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="94 32965110 ()" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="95 40042801 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="96 40043002 ()" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="97 40043004 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="98 611 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="99 26869884 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="100 0 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="101 40239516 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="102 0 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="103 0 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="104 617 ()" xml:space="preserve">
+    <value>詳しい情報を求めて
+コンピ研に再度聞き込み</value>
+  </data>
+  <data name="105 1608 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="106 UNKNOWN ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="107 UNKNOWN ()" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="108 HARUHI ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="109 1660 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="110 1112 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="111 67109229 ()" xml:space="preserve">
+    <value>長門と共に</value>
+  </data>
+  <data name="112 34 ()" xml:space="preserve">
+    <value>・・c&#x2;d&#x2;</value>
+  </data>
+  <data name="113 1700 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="114 1140 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="115 67305840 ()" xml:space="preserve">
+    <value>古泉の一計</value>
+  </data>
+  <data name="116 50 ()" xml:space="preserve">
+    <value>・c&#x2;</value>
+  </data>
+  <data name="117 1736 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="118 1172 ()" xml:space="preserve">
+    <value>・</value>
+  </data>
+</root>

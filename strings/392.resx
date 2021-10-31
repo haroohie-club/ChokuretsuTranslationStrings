@@ -1,0 +1,1247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと、なにのんびりしてたの？</value>
+  </data>
+  <data name="1 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部室を出ると、ハルヒが律儀にも
+俺たちを待ち構えていた</value>
+  </data>
+  <data name="2 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>別に待たなくていいのに</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにやってたのよ、キョン</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>団体行動くらいちゃんと守りなさい</value>
+  </data>
+  <data name="5 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>常に我が道を爆走しているおまえに
+諭されるのは釈然としないぞ</value>
+  </data>
+  <data name="6 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>毎度、派手にコースアウトしそうな
+おまえを誰がフォローしてるのかと</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしが指示しないと動けないよう
+じゃいつまでもヒラ団員のままよ</value>
+  </data>
+  <data name="8 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……いっそのこと面と向かって
+言ってやりたい</value>
+  </data>
+  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="10 KOIZUMI (古泉)" xml:space="preserve">
+    <value>音楽室へ向かう前に、もう一度
+コンピ研の方々に話を聞かれては？</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>む……そうね</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>考えてみたら、まださっきの文句を
+言ってなかったわ</value>
+  </data>
+  <data name="13 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>文句を言う、じゃない
+話を聞く、と言ったんだ</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、コンピ研に寄ってから
+音楽室に向かいましょ</value>
+  </data>
+  <data name="15 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>邪魔するわよ！</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="19 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>うわ！？</value>
+  </data>
+  <data name="20 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>ま、また来たのか！</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ずいぶんとご挨拶な対応ね</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>お客さんなんだから、丁重に
+もてなしたらどうなの？</value>
+  </data>
+  <data name="23 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いきなり押しかけて客として扱え
+とは、盗人猛々しいにも程がある</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まずはあんたたちに言っておくこと
+があるわ！</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今後一切、あたしに対してウソの
+証言はしないこと</value>
+  </data>
+  <data name="26 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>い、いったいなんのことだ！？</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>１年１０組なんてどこにも
+なかったわ</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>代わりに、あんたたちが間抜けって
+ことが証明されたってわけ</value>
+  </data>
+  <data name="29 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>ひどい言いがかりだ！</value>
+  </data>
+  <data name="30 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まったくもってその通りだ</value>
+  </data>
+  <data name="31 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だが、ハルヒに何を語って聞かせ
+たとしても無駄なのも事実だ</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういうわけだから、反省して
+今後はちゃんとしなさい</value>
+  </data>
+  <data name="33 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>うう……なんて理不尽な……</value>
+  </data>
+  <data name="34 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ああ、まったくだ</value>
+  </data>
+  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それで、音楽室で怪奇現象に
+あったっていう人は？</value>
+  </data>
+  <data name="36 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="37 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>ぼ、僕です……</value>
+  </data>
+  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう、じゃさっそく話して
+もらいましょうか</value>
+  </data>
+  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そもそもあなたは何をしに
+音楽室へ行ったの？</value>
+  </data>
+  <data name="40 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="41 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>今、ウチで密かに作成中のモノが
+あってね</value>
+  </data>
+  <data name="42 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>彼はその音楽担当なんだ</value>
+  </data>
+  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>密かに、ねえ……</value>
+  </data>
+  <data name="44 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>うっ……言っておくが、詳細は
+言えないからなっ</value>
+  </data>
+  <data name="45 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>別に、あんたたちが作ってるもの
+なんかに興味ないわ</value>
+  </data>
+  <data name="46 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、国家転覆を企てて作った
+地球破壊爆弾とかなら別だけど</value>
+  </data>
+  <data name="47 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いち高校の部活がそんなものを
+作れるわけがないだろう</value>
+  </data>
+  <data name="48 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だいたいなんだ、そのよく聞くと
+物騒きわまりない兵器は――</value>
+  </data>
+  <data name="49 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>などと心の中で激しくつっこんで
+いる間もハルヒの質問は続いた</value>
+  </data>
+  <data name="50 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>で、音楽を聞いたのはいつ？</value>
+  </data>
+  <data name="51 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>確か２時だったと思うが……</value>
+  </data>
+  <data name="52 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたには聞いてないわよ</value>
+  </data>
+  <data name="53 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>う……</value>
+  </data>
+  <data name="54 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="55 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>音楽室へ向かう途中、どこから
+ともなく音楽が聞こえてきて</value>
+  </data>
+  <data name="56 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="57 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="58 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>音楽室に誰かがいるのかと思って
+ドアを開けようとしたんですが</value>
+  </data>
+  <data name="59 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>カギがかかってたんです</value>
+  </data>
+  <data name="60 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>それで、慌ててカギをあけて
+中を覗いたら……</value>
+  </data>
+  <data name="61 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰もいなかったと</value>
+  </data>
+  <data name="62 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>はい</value>
+  </data>
+  <data name="63 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>演奏もそこでぱったり止まって
+しまいました</value>
+  </data>
+  <data name="64 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="65 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="66 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>聞き間違いってことはないの？</value>
+  </data>
+  <data name="67 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>そんなことはない！</value>
+  </data>
+  <data name="68 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>僕はここ数日、毎日同じ時間に
+音楽室へ行ってるんだ！</value>
+  </data>
+  <data name="69 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>その度にあの音楽が聞こえて
+きて……</value>
+  </data>
+  <data name="70 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>うわあああ！　まただ！
+あの曲が、あの曲がきこえてくる！</value>
+  </data>
+  <data name="71 KOIZUMI (古泉)" xml:space="preserve">
+    <value>かなり追いつめられていますね</value>
+  </data>
+  <data name="72 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ、これはウソをついてる
+って感じじゃないわ</value>
+  </data>
+  <data name="73 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まいったな……</value>
+  </data>
+  <data name="74 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>話だけ聞けば、非の打ち所のない
+まさに怪奇現象じゃないか</value>
+  </data>
+  <data name="75 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さっきの１年１０組の話とは違って
+見間違いじゃすませそうもないぞ</value>
+  </data>
+  <data name="76 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いま、ちょうど１時くらいね……</value>
+  </data>
+  <data name="77 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>２時までには少し早いけど
+音楽室に行ってみましょう</value>
+  </data>
+  <data name="78 KYON (キョン)" xml:space="preserve">
+    <value>おい、もう話は聞かなくて
+いいのか？</value>
+  </data>
+  <data name="79 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あとはキョン、あんたが詳しく
+聞いておいてちょうだい</value>
+  </data>
+  <data name="80 KYON (キョン)" xml:space="preserve">
+    <value>俺か！？</value>
+  </data>
+  <data name="81 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="82 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="83 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は残るの？</value>
+  </data>
+  <data name="84 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="85 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門はハルヒにほんの２センチ
+ばかりうなずいて答える</value>
+  </data>
+  <data name="86 NAGATO (長門)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="87 KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕も、少し話を聞いておきたいので</value>
+  </data>
+  <data name="88 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そ、じゃあ先に行ってるわね</value>
+  </data>
+  <data name="89 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>行くわよ、みくるちゃん</value>
+  </data>
+  <data name="90 MIKURU (みくる)" xml:space="preserve">
+    <value>は、はいっ</value>
+  </data>
+  <data name="91 KYON_SIS (妹)" xml:space="preserve">
+    <value>あたしもハルにゃんと一緒に
+行ってくるね！</value>
+  </data>
+  <data name="92 KYON (キョン)" xml:space="preserve">
+    <value>おい、古泉</value>
+  </data>
+  <data name="93 KOIZUMI (古泉)" xml:space="preserve">
+    <value>なんでしょう？</value>
+  </data>
+  <data name="94 KYON (キョン)" xml:space="preserve">
+    <value>何を企んでいる</value>
+  </data>
+  <data name="95 KOIZUMI (古泉)" xml:space="preserve">
+    <value>さて、なんのことでしょう</value>
+  </data>
+  <data name="96 KYON (キョン)" xml:space="preserve">
+    <value>とぼけるなよ</value>
+  </data>
+  <data name="97 KYON (キョン)" xml:space="preserve">
+    <value>おまえがなんの意味もなく
+ハルヒから目を離すわけないだろ</value>
+  </data>
+  <data name="98 KOIZUMI (古泉)" xml:space="preserve">
+    <value>これは、なかなか鋭いですね
+ええ、おっしゃる通りです</value>
+  </data>
+  <data name="99 KYON (キョン)" xml:space="preserve">
+    <value>何か気になることでもあったのか？</value>
+  </data>
+  <data name="100 KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕が気になったのは、長門さんです</value>
+  </data>
+  <data name="101 KYON (キョン)" xml:space="preserve">
+    <value>長門を？</value>
+  </data>
+  <data name="102 KOIZUMI (古泉)" xml:space="preserve">
+    <value>それこそ、長門さんがなんの意味も
+なく残るとは思えません</value>
+  </data>
+  <data name="103 KYON (キョン)" xml:space="preserve">
+    <value>確かに、そうかもしれんが……</value>
+  </data>
+  <data name="104 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="105 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="106 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だからって、あいつの考えてる
+ことが理解できるとも思えん</value>
+  </data>
+  <data name="107 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>で、残ったキミたちはまだ何か？</value>
+  </data>
+  <data name="108 KYON (キョン)" xml:space="preserve">
+    <value>いや……</value>
+  </data>
+  <data name="109 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒには話を聞いておけと言われ
+たが、正直何を聞けばいいのか……</value>
+  </data>
+  <data name="110 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>キミたちどうせこの後、音楽室へ
+行くんだろう？</value>
+  </data>
+  <data name="111 KYON (キョン)" xml:space="preserve">
+    <value>ええ、まあ</value>
+  </data>
+  <data name="112 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒが行くと言えば、俺たちに
+拒否権はないからな</value>
+  </data>
+  <data name="113 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>団長さんに言っておいてくれ
+２時までには必ず出て行ってくれと</value>
+  </data>
+  <data name="114 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>こちらの作業もおしていて、今は
+一分一秒が惜しいんだ</value>
+  </data>
+  <data name="115 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>あのぉ……部長</value>
+  </data>
+  <data name="116 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>ん？　なんだ</value>
+  </data>
+  <data name="117 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>言おうかどうか迷ったんですが……</value>
+  </data>
+  <data name="118 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>なんだ、いいから言いたまえ</value>
+  </data>
+  <data name="119 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>昨日、音楽室を使ったのは３時から
+のはずですが……</value>
+  </data>
+  <data name="120 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>え？　そ、そうだったか？</value>
+  </data>
+  <data name="121 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>音楽室を２時から使えるように
+なったのは今日からですよ</value>
+  </data>
+  <data name="122 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>昨日まで、午前中から軽音部が
+使ってたじゃないですか</value>
+  </data>
+  <data name="123 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>そ、そういえば……</value>
+  </data>
+  <data name="124 KYON (キョン)" xml:space="preserve">
+    <value>ちょっと待った</value>
+  </data>
+  <data name="125 KYON (キョン)" xml:space="preserve">
+    <value>じゃあ実際に昨日、音楽が聞こえて
+きた時間は３時が正しいのか？</value>
+  </data>
+  <data name="126 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>う、うむ。そうらしい</value>
+  </data>
+  <data name="127 KYON (キョン)" xml:space="preserve">
+    <value>しかも、事前に軽音部が使って
+いたと？</value>
+  </data>
+  <data name="128 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>そ、そうだ。すっかり言い忘れて
+いたが……</value>
+  </data>
+  <data name="129 KYON (キョン)" xml:space="preserve">
+    <value>だったら、ピアノを弾いていたのは
+軽音部じゃないのか？</value>
+  </data>
+  <data name="130 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="131 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="132 KOIZUMI (古泉)" xml:space="preserve">
+    <value>それはないでしょうね
+彼の話を信じるのならば</value>
+  </data>
+  <data name="133 KOIZUMI (古泉)" xml:space="preserve">
+    <value>音楽が聞こえた時、音楽室には
+カギがかかっていた</value>
+  </data>
+  <data name="134 KOIZUMI (古泉)" xml:space="preserve">
+    <value>さらに、彼は音楽室に入る直前
+までその曲を耳にしています</value>
+  </data>
+  <data name="135 KYON (キョン)" xml:space="preserve">
+    <value>そうか……</value>
+  </data>
+  <data name="136 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ですが、時間の件は幸運だったかも
+しれません</value>
+  </data>
+  <data name="137 KYON (キョン)" xml:space="preserve">
+    <value>どういうことだ？</value>
+  </data>
+  <data name="138 KOIZUMI (古泉)" xml:space="preserve">
+    <value>簡単です</value>
+  </data>
+  <data name="139 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんを怪異から遠ざける方法は
+場所だけに限らないということです</value>
+  </data>
+  <data name="140 KOIZUMI (古泉)" xml:space="preserve">
+    <value>実際に怪異が発生したのは午後３時</value>
+  </data>
+  <data name="141 KOIZUMI (古泉)" xml:space="preserve">
+    <value>しかし涼宮さんは午後２時だと
+思っている……</value>
+  </data>
+  <data name="142 KYON (キョン)" xml:space="preserve">
+    <value>……そうか、そういうことか</value>
+  </data>
+  <data name="143 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒは怪異が起こったと思って
+いる時間は午後２時</value>
+  </data>
+  <data name="144 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だが、実際に起こったのは午後３時</value>
+  </data>
+  <data name="145 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この１時間の時間差をうまく使えば</value>
+  </data>
+  <data name="146 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒに『怪異は起こらなかった』
+と認識させることができる</value>
+  </data>
+  <data name="147 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……かもしれない</value>
+  </data>
+  <data name="148 KOIZUMI (古泉)" xml:space="preserve">
+    <value>期せずして、涼宮さんを怪異から
+遠ざけることになりました</value>
+  </data>
+  <data name="149 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>確かに、１時間も調べればハルヒも
+飽きるなり満足するなりするだろう</value>
+  </data>
+  <data name="150 KOIZUMI (古泉)" xml:space="preserve">
+    <value>時間のことは、涼宮さんには黙って
+いた方がいいでしょう</value>
+  </data>
+  <data name="151 KYON (キョン)" xml:space="preserve">
+    <value>ん……なんだ、これ？</value>
+  </data>
+  <data name="152 KOIZUMI (古泉)" xml:space="preserve">
+    <value>何かのメロディのようですね</value>
+  </data>
+  <data name="153 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>またか……</value>
+  </data>
+  <data name="154 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>また？</value>
+  </data>
+  <data name="155 KOIZUMI (古泉)" xml:space="preserve">
+    <value>見てください</value>
+  </data>
+  <data name="156 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉にうながされて視線をむけると</value>
+  </data>
+  <data name="157 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="158 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="159 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>#SK0う、うう……書かないと……
+早く書き上げないと……</value>
+  </data>
+  <data name="160 KYON (キョン)" xml:space="preserve">
+    <value>なんだ……？</value>
+  </data>
+  <data name="161 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さっき話を聞いた部員が、何かを
+一心不乱に書き続けている</value>
+  </data>
+  <data name="162 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="163 KOIZUMI (古泉)" xml:space="preserve">
+    <value>あれは、どうやら楽譜を書いている
+ようです</value>
+  </data>
+  <data name="164 KYON (キョン)" xml:space="preserve">
+    <value>部長さん、あの人どうしたんです？</value>
+  </data>
+  <data name="165 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="166 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>いや、彼もだいぶ追い詰まって
+いてね</value>
+  </data>
+  <data name="167 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>昨日からあの調子なんだ</value>
+  </data>
+  <data name="168 KYON (キョン)" xml:space="preserve">
+    <value>この音楽は？</value>
+  </data>
+  <data name="169 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>これも彼だよ</value>
+  </data>
+  <data name="170 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>ピアノの音をサンプリングに行った
+はずなのに、こんなのを録ってきた</value>
+  </data>
+  <data name="171 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>しかも、部室で大音量で流すもんだ
+からみんな作業にならなくてね</value>
+  </data>
+  <data name="172 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>注意しても音楽を止めないし……</value>
+  </data>
+  <data name="173 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>昨日なんか仕方なくコンピューター
+室で作業をしたくらいだ</value>
+  </data>
+  <data name="174 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>だけど、僕らも頭ごなしに彼を責め
+られなくてね</value>
+  </data>
+  <data name="175 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>なにせ、ひとりで音楽すべてを担当
+させているから……</value>
+  </data>
+  <data name="176 KYON (キョン)" xml:space="preserve">
+    <value>そりゃまた……</value>
+  </data>
+  <data name="177 KYON (キョン)" xml:space="preserve">
+    <value>けど、こりゃなんの楽器です？
+単調だが、妙に聞き覚えが……</value>
+  </data>
+  <data name="178 KOIZUMI (古泉)" xml:space="preserve">
+    <value>おそらくオルゴールの音でしょう</value>
+  </data>
+  <data name="179 KOIZUMI (古泉)" xml:space="preserve">
+    <value>それを、音声ファイルとして録音し
+パソコンで再生しています</value>
+  </data>
+  <data name="180 KYON (キョン)" xml:space="preserve">
+    <value>ああ、なるほど</value>
+  </data>
+  <data name="181 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だから聞き覚えがあったのか</value>
+  </data>
+  <data name="182 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="183 CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="184 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="185 KYON (キョン)" xml:space="preserve">
+    <value>ん？　なんだ、長門</value>
+  </data>
+  <data name="186 NAGATO (長門)" xml:space="preserve">
+    <value>出た方がいい</value>
+  </data>
+  <data name="187 KYON (キョン)" xml:space="preserve">
+    <value>なに……？</value>
+  </data>
+  <data name="188 KYON (キョン)" xml:space="preserve">
+    <value>ど、どうしたんだ急に</value>
+  </data>
+  <data name="189 NAGATO (長門)" xml:space="preserve">
+    <value>急いで</value>
+  </data>
+  <data name="190 KOIZUMI (古泉)" xml:space="preserve">
+    <value>出ましょう</value>
+  </data>
+  <data name="191 KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんがこう言うからには
+ただ事ではないはずです</value>
+  </data>
+  <data name="192 KYON (キョン)" xml:space="preserve">
+    <value>わ、分かった</value>
+  </data>
+  <data name="193 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ただ事じゃない――
+嫌な予感がしやがる</value>
+  </data>
+  <data name="194 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="195 KYON (キョン)" xml:space="preserve">
+    <value>おい、どこまで行く気だ？</value>
+  </data>
+  <data name="196 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="197 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いつになく強引な長門に引きずられ
+るようにしてコンピ研を後にした</value>
+  </data>
+  <data name="198 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そうして、コンピ研から充分距離を
+とってから長門は急に立ち止まった</value>
+  </data>
+  <data name="199 NAGATO (長門)" xml:space="preserve">
+    <value>ここまで来れば安全</value>
+  </data>
+  <data name="200 KYON (キョン)" xml:space="preserve">
+    <value>そりゃ良かった
+で、何が安全なんだ？</value>
+  </data>
+  <data name="201 NAGATO (長門)" xml:space="preserve">
+    <value>あのまま、あの部屋にいては
+危険だった</value>
+  </data>
+  <data name="202 KYON (キョン)" xml:space="preserve">
+    <value>そりゃどういうことだ？
+あそこになにかあるってのか？</value>
+  </data>
+  <data name="203 NAGATO (長門)" xml:space="preserve">
+    <value>正確にはあの音楽</value>
+  </data>
+  <data name="204 KOIZUMI (古泉)" xml:space="preserve">
+    <value>やはりそうですか……</value>
+  </data>
+  <data name="205 KYON (キョン)" xml:space="preserve">
+    <value>おいおい、２人だけで勝手に
+納得しないでくれ</value>
+  </data>
+  <data name="206 KYON (キョン)" xml:space="preserve">
+    <value>あの音楽に何があるんだ？</value>
+  </data>
+  <data name="207 NAGATO (長門)" xml:space="preserve">
+    <value>聴覚から特定の行動をプログラム
+として脳に定着させる</value>
+  </data>
+  <data name="208 KOIZUMI (古泉)" xml:space="preserve">
+    <value>催眠術のようなものでしょうか？</value>
+  </data>
+  <data name="209 NAGATO (長門)" xml:space="preserve">
+    <value>結果は同じ</value>
+  </data>
+  <data name="210 KYON (キョン)" xml:space="preserve">
+    <value>おい、だったら俺たちも催眠術に
+かかってるんじゃないのか？</value>
+  </data>
+  <data name="211 NAGATO (長門)" xml:space="preserve">
+    <value>一定時間聴き続けなければ問題ない</value>
+  </data>
+  <data name="212 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とりあえずは安心ってことか</value>
+  </data>
+  <data name="213 KYON (キョン)" xml:space="preserve">
+    <value>って、ちょっと待ってくれ</value>
+  </data>
+  <data name="214 KYON (キョン)" xml:space="preserve">
+    <value>じゃあ、コンピ研の連中は……</value>
+  </data>
+  <data name="215 KOIZUMI (古泉)" xml:space="preserve">
+    <value>おそらく、手遅れでしょう</value>
+  </data>
+  <data name="216 KYON (キョン)" xml:space="preserve">
+    <value>そうか……</value>
+  </data>
+  <data name="217 KYON (キョン)" xml:space="preserve">
+    <value>で、どこのどいつの仕業なんだ？</value>
+  </data>
+  <data name="218 NAGATO (長門)" xml:space="preserve">
+    <value>……情報が不十分
+特定は、現時点では不可能</value>
+  </data>
+  <data name="219 KYON (キョン)" xml:space="preserve">
+    <value>よくわからんが、長門でもお手上げ
+ってことか</value>
+  </data>
+  <data name="220 NAGATO (長門)" xml:space="preserve">
+    <value>あの音楽は、行動プログラムとして
+完全には機能しない</value>
+  </data>
+  <data name="221 NAGATO (長門)" xml:space="preserve">
+    <value>ある一定の周波数帯における情報が
+意図的に削除されている</value>
+  </data>
+  <data name="222 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ある一定の周波数とは？</value>
+  </data>
+  <data name="223 NAGATO (長門)" xml:space="preserve">
+    <value>非可聴領域の音</value>
+  </data>
+  <data name="224 KOIZUMI (古泉)" xml:space="preserve">
+    <value>非可聴領域……そういうことですか</value>
+  </data>
+  <data name="225 KYON (キョン)" xml:space="preserve">
+    <value>すまん、俺にもわかるように
+説明してくれないか？</value>
+  </data>
+  <data name="226 KOIZUMI (古泉)" xml:space="preserve">
+    <value>つまりはデータになったせいですよ</value>
+  </data>
+  <data name="227 KYON (キョン)" xml:space="preserve">
+    <value>どういうことだ？</value>
+  </data>
+  <data name="228 KOIZUMI (古泉)" xml:space="preserve">
+    <value>あなたはパソコンで音楽を聴いたり
+しますか？</value>
+  </data>
+  <data name="229 KYON (キョン)" xml:space="preserve">
+    <value>いや、あまりしないが……</value>
+  </data>
+  <data name="230 KOIZUMI (古泉)" xml:space="preserve">
+    <value>でしたら、すぐには分からないかも
+しれませんね</value>
+  </data>
+  <data name="231 KOIZUMI (古泉)" xml:space="preserve">
+    <value>たとえば、ＣＤからパソコンなどに
+音楽を取り込む際</value>
+  </data>
+  <data name="232 KOIZUMI (古泉)" xml:space="preserve">
+    <value>実は、その音楽の中の様々な音を
+削除しているのです</value>
+  </data>
+  <data name="233 KOIZUMI (古泉)" xml:space="preserve">
+    <value>その削除した音とは通常、人間の耳
+では認識できない周波数のものです</value>
+  </data>
+  <data name="234 KOIZUMI (古泉)" xml:space="preserve">
+    <value>しかし、認識できないとはいえ
+本来、音は存在するのですよ</value>
+  </data>
+  <data name="235 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そういった音が削除されたせいで
+催眠効果が不完全になったのでは？</value>
+  </data>
+  <data name="236 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="237 KYON (キョン)" xml:space="preserve">
+    <value>てことは、逆に不完全じゃなけりゃ
+少し聴いただけでヤバイってことか</value>
+  </data>
+  <data name="238 KOIZUMI (古泉)" xml:space="preserve">
+    <value>おそらくは</value>
+  </data>
+  <data name="239 KYON (キョン)" xml:space="preserve">
+    <value>冗談じゃないぞ、あれは録音した
+ものなんだろ？</value>
+  </data>
+  <data name="240 KYON (キョン)" xml:space="preserve">
+    <value>てことは、元になったものがどこか
+にあるってことじゃないか</value>
+  </data>
+  <data name="241 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、その元になった音源がある
+場所とは……</value>
+  </data>
+  <data name="242 KYON (キョン)" xml:space="preserve">
+    <value>音楽室か</value>
+  </data>
+  <data name="243 KYON (キョン)" xml:space="preserve">
+    <value>って、いまハルヒがいる場所じゃ
+ないか！</value>
+  </data>
+  <data name="244 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、急いで合流しましょう</value>
+  </data>
+  <data name="245 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="246 NAGATO (長門)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="247 KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ！</value>
+  </data>
+  <data name="248 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……キョン、もう来たの？</value>
+  </data>
+  <data name="249 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちゃんと話は聞いてきたんで
+しょうね？</value>
+  </data>
+  <data name="250 KYON (キョン)" xml:space="preserve">
+    <value>あ、ああ</value>
+  </data>
+  <data name="251 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>よかった、ハルヒが音楽室の中を
+調べる前に合流できた</value>
+  </data>
+  <data name="252 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>で、何かわかったの？</value>
+  </data>
+  <data name="253 KYON (キョン)" xml:space="preserve">
+    <value>いや……</value>
+  </data>
+  <data name="254 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>時間が１時間早く伝わってる件は
+ふせておいた方が都合がいいか</value>
+  </data>
+  <data name="255 KYON (キョン)" xml:space="preserve">
+    <value>一個だけ</value>
+  </data>
+  <data name="256 KYON (キョン)" xml:space="preserve">
+    <value>コンピ研の前に、軽音部が音楽室を
+使ってたってことくらいか</value>
+  </data>
+  <data name="257 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それって何時くらいまで？</value>
+  </data>
+  <data name="258 KYON (キョン)" xml:space="preserve">
+    <value>確か、午前中だって言ってたが</value>
+  </data>
+  <data name="259 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう……だったら、今回の件とは
+関係ない可能性が高いわね</value>
+  </data>
+  <data name="260 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>他には？</value>
+  </data>
+  <data name="261 KYON (キョン)" xml:space="preserve">
+    <value>いや、他は特に新しい情報ってのは
+なかった</value>
+  </data>
+  <data name="262 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほんとに？</value>
+  </data>
+  <data name="263 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちゃんとマジメに聞いてきたんで
+しょうね？</value>
+  </data>
+  <data name="264 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そうやって毎度疑うが、そんなに
+俺はサボってそうに見えるのか</value>
+  </data>
+  <data name="265 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあいいわ</value>
+  </data>
+  <data name="266 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今ちょうど、原因について
+話してたところよ</value>
+  </data>
+  <data name="267 KYON (キョン)" xml:space="preserve">
+    <value>原因だと？</value>
+  </data>
+  <data name="268 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これは非業の死を遂げた音楽家の
+霊が起こした現象よ！</value>
+  </data>
+  <data name="269 KYON (キョン)" xml:space="preserve">
+    <value>言っておくが、ここは学校だぞ？</value>
+  </data>
+  <data name="270 KYON (キョン)" xml:space="preserve">
+    <value>なぜ音楽家の霊とやらが出没する？</value>
+  </data>
+  <data name="271 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、非業の死を遂げたピアニス
+ト志望の生徒ね</value>
+  </data>
+  <data name="272 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>多分、線の細い美少女だわ</value>
+  </data>
+  <data name="273 KYON (キョン)" xml:space="preserve">
+    <value>どうしてそういうことになるんだ</value>
+  </data>
+  <data name="274 KYON (キョン)" xml:space="preserve">
+    <value>そもそも、お前の言うその美少女
+ってのは、どっから湧いて出た</value>
+  </data>
+  <data name="275 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古今東西、非業の死を遂げるのは
+美少女か美少年って決まってるのよ</value>
+  </data>
+  <data name="276 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>誰が決めた、そんなローカルルール</value>
+  </data>
+  <data name="277 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、とにかく行ってみればはっきり
+するわよ</value>
+  </data>
+  <data name="278 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あいつはまたひとりでさっさと
+行きやがって……</value>
+  </data>
+  <data name="279 MIKURU (みくる)" xml:space="preserve">
+    <value>あの、キョンくん</value>
+  </data>
+  <data name="280 KYON (キョン)" xml:space="preserve">
+    <value>どうしました？　朝比奈さん</value>
+  </data>
+  <data name="281 MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、やっぱりあたしの本を
+読んだせいで……</value>
+  </data>
+  <data name="282 KYON (キョン)" xml:space="preserve">
+    <value>どうせただの思いつきですよ</value>
+  </data>
+  <data name="283 KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんは、気にしないで
+ください</value>
+  </data>
+  <data name="284 KOIZUMI (古泉)" xml:space="preserve">
+    <value>しかし、その思いつきが事態を
+少々面倒にする可能性がある</value>
+  </data>
+  <data name="285 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうは思いませんか？</value>
+  </data>
+  <data name="286 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺がせっかく朝比奈さんをフォロー
+したというのにコイツは……</value>
+  </data>
+  <data name="287 KOIZUMI (古泉)" xml:space="preserve">
+    <value>先ほども１年１０組と人喰い教室
+２つの話を結びつけてしまいました</value>
+  </data>
+  <data name="288 KOIZUMI (古泉)" xml:space="preserve">
+    <value>今回も同様のことが起らないとは
+限りません</value>
+  </data>
+  <data name="289 KYON (キョン)" xml:space="preserve">
+    <value>また、ハルヒのせいで余計に悪化
+するってことか</value>
+  </data>
+  <data name="290 KOIZUMI (古泉)" xml:space="preserve">
+    <value>悪化、という単語が正確とは
+言い切れませんが</value>
+  </data>
+  <data name="291 KOIZUMI (古泉)" xml:space="preserve">
+    <value>状況に大きな変化が起ることは
+間違いないでしょうね</value>
+  </data>
+  <data name="292 KYON (キョン)" xml:space="preserve">
+    <value>くそ……ほんとに厄介な</value>
+  </data>
+  <data name="293 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>などと、ぼやいていてもどうにも
+ならないのは分かっている</value>
+  </data>
+  <data name="294 KYON (キョン)" xml:space="preserve">
+    <value>とにかく、ハルヒを追いかける</value>
+  </data>
+  <data name="295 KYON (キョン)" xml:space="preserve">
+    <value>今はあいつから目を離さないこと
+くらいしかできないからな</value>
+  </data>
+  <data name="296 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="297 MIKURU (みくる)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="298 KYON (キョン)" xml:space="preserve">
+    <value>……ん？</value>
+  </data>
+  <data name="299 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>先に行ったはずのハルヒは音楽室の
+扉を睨み付けて立っていた</value>
+  </data>
+  <data name="300 KYON (キョン)" xml:space="preserve">
+    <value>どうした？　こんなとこで
+ボーっと突っ立って</value>
+  </data>
+  <data name="301 KYON (キョン)" xml:space="preserve">
+    <value>もしかして、中に入るのが怖い
+のか？</value>
+  </data>
+  <data name="302 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなわけないでしょ！</value>
+  </data>
+  <data name="303 KYON_SIS (妹)" xml:space="preserve">
+    <value>カギがかかってるのー</value>
+  </data>
+  <data name="304 KYON (キョン)" xml:space="preserve">
+    <value>……ああ、そりゃそうか</value>
+  </data>
+  <data name="305 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>コンピ研の部員も、カギをかけたと
+言っていたしな</value>
+  </data>
+  <data name="306 KYON (キョン)" xml:space="preserve">
+    <value>休みの間は出入り自由、というわけ
+にはいかないだろう</value>
+  </data>
+  <data name="307 KYON (キョン)" xml:space="preserve">
+    <value>それじゃあ仕方ないな</value>
+  </data>
+  <data name="308 KYON (キョン)" xml:space="preserve">
+    <value>まあ、あきらめて帰ろうぜ</value>
+  </data>
+  <data name="309 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何言ってるのよ、キョン？</value>
+  </data>
+  <data name="310 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ないなら、借りてくればいいだけ
+じゃない</value>
+  </data>
+  <data name="311 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そりゃまったくだ</value>
+  </data>
+  <data name="312 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰も入れないはずなのに、中から
+音楽が聞こえてきた……</value>
+  </data>
+  <data name="313 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これは密室事件だわ！</value>
+  </data>
+  <data name="314 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おいおい、いい加減にしてくれ</value>
+  </data>
+  <data name="315 KYON (キョン)" xml:space="preserve">
+    <value>どうしてそう話をでたらめに転がす
+んだ……お前というやつは</value>
+  </data>
+  <data name="316 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でたらめかどうかは、中を調べたら
+判るわよ</value>
+  </data>
+  <data name="317 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰か、カギを借りてきてちょうだい</value>
+  </data>
+  <data name="318 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんはどうされるのですか？</value>
+  </data>
+  <data name="319 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしはこの音楽室やピアノに
+まつわる事件がないか調べてみるわ</value>
+  </data>
+  <data name="320 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうだ、ここに残って張り込みをす
+るメンバーも必要ね</value>
+  </data>
+  <data name="321 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みんながいなくなってる間に
+ピアノが鳴り出すかもしれないし</value>
+  </data>
+  <data name="322 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>分担は……面倒だから、キョン！
+あんたが決めておいて</value>
+  </data>
+  <data name="323 KYON (キョン)" xml:space="preserve">
+    <value>俺がか？</value>
+  </data>
+  <data name="324 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは忙しいのよ</value>
+  </data>
+  <data name="325 KYON (キョン)" xml:space="preserve">
+    <value>へいへい、分かったよ</value>
+  </data>
+  <data name="326 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃ、あとよろしくね</value>
+  </data>
+  <data name="327 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>結局は、一刻も早く自分のやりたい
+ことに向かいたかっただけかよ……</value>
+  </data>
+  <data name="328 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まあいい、おかげでまた作戦を練る
+チャンスができた</value>
+  </data>
+  <data name="329 KOIZUMI (古泉)" xml:space="preserve">
+    <value>この隙に、少し状況を整理しては？</value>
+  </data>
+  <data name="330 KYON (キョン)" xml:space="preserve">
+    <value>ああ、そうだな</value>
+  </data>
+  <data name="331 KYON (キョン)" xml:space="preserve">
+    <value>まず、やらなきゃならんことは……
+音楽室のカギを借りてくること</value>
+  </data>
+  <data name="332 KYON (キョン)" xml:space="preserve">
+    <value>それから……</value>
+  </data>
+  <data name="333 KOIZUMI (古泉)" xml:space="preserve">
+    <value>例の、異常な行動をとっていた
+コンピ研部員も気になりますね</value>
+  </data>
+  <data name="334 KYON (キョン)" xml:space="preserve">
+    <value>確かに</value>
+  </data>
+  <data name="335 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門の話では異常行動に駆り立てる
+原因となった音源が存在するはずだ</value>
+  </data>
+  <data name="336 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それを見つけて処分するなりなんな
+りする必要があるか……</value>
+  </data>
+  <data name="337 KYON (キョン)" xml:space="preserve">
+    <value>くそ、やることは山積みってわけか</value>
+  </data>
+  <data name="338 KYON (キョン)" xml:space="preserve">
+    <value>とにかく、手分けしてなんとかする
+しかない</value>
+  </data>
+  <data name="339 KYON (キョン)" xml:space="preserve">
+    <value>みんなにも協力してもらうことに
+なると思います</value>
+  </data>
+  <data name="340 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="341 MIKURU (みくる)" xml:space="preserve">
+    <value>はい、がんばります</value>
+  </data>
+  <data name="342 NAGATO (長門)" xml:space="preserve">
+    <value>了解</value>
+  </data>
+  <data name="343 KOIZUMI (古泉)" xml:space="preserve">
+    <value>では、分担を決めましょう</value>
+  </data>
+</root>

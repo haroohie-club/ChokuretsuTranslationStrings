@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>お前、オレンジジュース好きか？</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>嫌いじゃないわよ</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>そりゃあ、良かった
+さっき夜食と一緒に買ったんだよ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あら、気が利くじゃないの</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>選んだのは朝比奈さんだけどな</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でしょうね。１００％のやつよね？</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>ああ、朝比奈さんがそう言ってたぞ</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>良かった。ハンパだと甘過ぎたり
+すんのよね</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>甘い物が欲しい時は悪くないんだ
+けど</value>
+  </data>
+  <data name="9 KYON (キョン)" xml:space="preserve">
+    <value>そんなに違いがあるのか？
+ラベルなんてろくに見ないからな</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>男ってそういうとこダメよねぇ
+みくるちゃんが選んだなら大丈夫ね</value>
+  </data>
+  <data name="11 KYON (キョン)" xml:space="preserve">
+    <value>……そうだな</value>
+  </data>
+  <data name="12 MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、涼宮さん、そろそろノドが
+乾いてませんか？</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、言われてみればそうね
+乾いたような気がするわ</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>じゃあ、これをどうぞ
+オレンジジュースです</value>
+  </data>
+  <data name="15 MIKURU (みくる)" xml:space="preserve">
+    <value>果汁１００％だから、美味しい……</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ごきゅっ、ごきゅっ……ぷはーっ！</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うん、たしかに美味しかったわ
+ごちそうさま！</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃ、ノドもうるおったし、
+張り切って行くわよ！</value>
+  </data>
+  <data name="19 MIKURU (みくる)" xml:space="preserve">
+    <value>い、一瞬でジュースが……
+ああっ、そんなぁ</value>
+  </data>
+  <data name="20 NAGATO (長門)" xml:space="preserve">
+    <value>……これ</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ペットボトルのジュース？
+これくれるの？</value>
+  </data>
+  <data name="22 NAGATO (長門)" xml:space="preserve">
+    <value>飲んで</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ありがと。ちょうど喉が渇いてた
+のよ</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ごく、ごく……</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……オレンジジュースは冷えてない
+とおいしさ半減ね……</value>
+  </data>
+  <data name="26 NAGATO (長門)" xml:space="preserve">
+    <value>栄養素は変わらない</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはそうかもしれないけど……</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、できるだけおいしく飲みたい
+じゃない？</value>
+  </data>
+  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんは、オレンジジュースは
+お好きですか？</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>別に嫌いじゃないけど、どうして？</value>
+  </data>
+  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんの提案で、買ってきた
+そうです。夜食にあう飲み物として</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>サンドイッチとオレンジジュースね
+いいんじゃないかしら</value>
+  </data>
+  <data name="33 KOIZUMI (古泉)" xml:space="preserve">
+    <value>欧米の朝食、といった雰囲気ですね
+もっとも我々にとっては夜食ですが</value>
+  </data>
+</root>

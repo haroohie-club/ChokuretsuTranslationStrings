@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>ハルヒはキレイな花と道ばたに咲く
+花のどちらが好きだ？</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>唐突に何よ、それ？</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>さっき鶴屋さんに聞かれたんだが</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>心理テストとかなのかしら？</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>さあ？</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>解答はなかったの？</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>キレイは可憐で、道ばたは健気だと
+か言ってたかな？</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>単なる花の好みなのかしらね？</value>
+  </data>
+  <data name="8 KYON (キョン)" xml:space="preserve">
+    <value>さあな</value>
+  </data>
+  <data name="9 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺に聞かれても、鶴屋さんのする
+ことはハルヒ並みによくわからん</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしはどっちも好きだけど、
+キョンは？</value>
+  </data>
+  <data name="11 KYON (キョン)" xml:space="preserve">
+    <value>俺は花のことはさっぱりだ</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、そんなところでしょうね</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんなら、花言葉とかまで
+知っていそうだけど</value>
+  </data>
+  <data name="14 KYON (キョン)" xml:space="preserve">
+    <value>男は知らないのが普通だろ？</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だからキョンはモテないのよ</value>
+  </data>
+  <data name="16 KYON (キョン)" xml:space="preserve">
+    <value>ほっとけ</value>
+  </data>
+  <data name="17 MIKURU (みくる)" xml:space="preserve">
+    <value>音楽室の鍵を借りに行った帰りに
+鶴屋さんと会ったんですよ</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふぅん</value>
+  </data>
+  <data name="19 MIKURU (みくる)" xml:space="preserve">
+    <value>それで鶴屋さんがキョンくんに
+質問していたんですけど</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>質問ってどんな？</value>
+  </data>
+  <data name="21 MIKURU (みくる)" xml:space="preserve">
+    <value>キレイな花と道ばたに咲く花の
+どちらが好きかって</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何なのかしら？　心理テスト？</value>
+  </data>
+  <data name="23 MIKURU (みくる)" xml:space="preserve">
+    <value>そうかもしれませんね。ヒントも
+ありましたし</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ヒントってどんなのだったの？</value>
+  </data>
+  <data name="25 MIKURU (みくる)" xml:space="preserve">
+    <value>ええと、確か、キレイな花は思わず
+世話をしたくなるような可憐な花</value>
+  </data>
+  <data name="26 MIKURU (みくる)" xml:space="preserve">
+    <value>道ばたの花は、小さくて目立たない
+けれど健気な花、だったと思います</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……意味深ねぇ。心理テストに
+しても何を表しているのか疑問だわ</value>
+  </data>
+  <data name="28 MIKURU (みくる)" xml:space="preserve">
+    <value>鶴屋さんですからねぇ。真意は
+あたしには良くわかりません</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんの友達なのに？</value>
+  </data>
+  <data name="30 MIKURU (みくる)" xml:space="preserve">
+    <value>友達でもです。何というか鶴屋さん
+スケールが大きすぎて……</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、そんな感じねー。わかるわ</value>
+  </data>
+  <data name="32 MIKURU (みくる)" xml:space="preserve">
+    <value>#P06涼宮さんに少し似てるかも……</value>
+  </data>
+  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え？　何か言った？</value>
+  </data>
+  <data name="34 MIKURU (みくる)" xml:space="preserve">
+    <value>い、いえっ、何でもありませんっ</value>
+  </data>
+  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>で、キョンはどちらを選んだの？</value>
+  </data>
+  <data name="36 MIKURU (みくる)" xml:space="preserve">
+    <value>ええと、部屋に飾るならキレイな
+花がいいと言いました</value>
+  </data>
+  <data name="37 MIKURU (みくる)" xml:space="preserve">
+    <value>それであたし、今度花を持っていく
+約束をしたんですが</value>
+  </data>
+  <data name="38 MIKURU (みくる)" xml:space="preserve">
+    <value>心理テストにしては結果を教えて
+くれなかったんですよね</value>
+  </data>
+  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="40 MIKURU (みくる)" xml:space="preserve">
+    <value>単にお花の趣味を聞いてたんで
+しょうか？</value>
+  </data>
+  <data name="41 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと待って、みくるちゃん
+深読みし過ぎたかもしれないわ</value>
+  </data>
+  <data name="42 MIKURU (みくる)" xml:space="preserve">
+    <value>そうなんですか？</value>
+  </data>
+  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もっと単純な意味なのかも</value>
+  </data>
+  <data name="44 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>一緒にいたの、キョンと有希よね？</value>
+  </data>
+  <data name="45 MIKURU (みくる)" xml:space="preserve">
+    <value>はい、そうです</value>
+  </data>
+  <data name="46 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは意味がわからない？</value>
+  </data>
+  <data name="47 MIKURU (みくる)" xml:space="preserve">
+    <value>はぁ……わかりません</value>
+  </data>
+  <data name="48 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>…………ま、みくるちゃんだものね
+どうせ、有希もわからないだろうし</value>
+  </data>
+  <data name="49 MIKURU (みくる)" xml:space="preserve">
+    <value>あのぉ……？</value>
+  </data>
+  <data name="50 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうせキョンも理解できたとは
+思えないしね</value>
+  </data>
+  <data name="51 MIKURU (みくる)" xml:space="preserve">
+    <value>あの……涼宮さん……？</value>
+  </data>
+  <data name="52 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そおぉ、キレイな花が好きねぇ……</value>
+  </data>
+  <data name="53 MIKURU (みくる)" xml:space="preserve">
+    <value>……よくわからないけど、時間は
+だいぶ稼げましたね</value>
+  </data>
+  <data name="54 NAGATO (長門)" xml:space="preserve">
+    <value>キレイな花と道ばたに咲く花の
+どちらが好みかと聞かれていた</value>
+  </data>
+  <data name="55 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰に誰が？</value>
+  </data>
+  <data name="56 NAGATO (長門)" xml:space="preserve">
+    <value>鶴屋さんに彼が</value>
+  </data>
+  <data name="57 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん、鶴屋さんにキョンがね
+何の意味があるのかしら？</value>
+  </data>
+  <data name="58 NAGATO (長門)" xml:space="preserve">
+    <value>キレイは可憐、道ばたは健気</value>
+  </data>
+  <data name="59 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ヒント？　それヒントなの？</value>
+  </data>
+  <data name="60 NAGATO (長門)" xml:space="preserve">
+    <value>彼女がそう言った</value>
+  </data>
+  <data name="61 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>で、キョンはどっちだって？</value>
+  </data>
+  <data name="62 NAGATO (長門)" xml:space="preserve">
+    <value>可憐な花が好きだと</value>
+  </data>
+  <data name="63 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、有希。その時、あなたと
+みくるちゃんがキョンといたのね？</value>
+  </data>
+  <data name="64 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="65 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふ～ん、そうなんだ……</value>
+  </data>
+  <data name="66 NAGATO (長門)" xml:space="preserve">
+    <value>なぜ、不機嫌？</value>
+  </data>
+  <data name="67 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいこと、有希。あなたは賢くて
+とってもいい娘よ</value>
+  </data>
+  <data name="68 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>少しだけ無口だけどね</value>
+  </data>
+  <data name="69 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしが断言してあげる！</value>
+  </data>
+  <data name="70 NAGATO (長門)" xml:space="preserve">
+    <value>……？</value>
+  </data>
+  <data name="71 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんは、可憐な花と健気な花の
+どちらがお好みでしょう？</value>
+  </data>
+  <data name="72 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにそれ？　どんな意味で聞いて
+いるの？</value>
+  </data>
+  <data name="73 KOIZUMI (古泉)" xml:space="preserve">
+    <value>鶴屋さんが彼に訊ねた
+ことなのですが</value>
+  </data>
+  <data name="74 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>鶴屋さんが、キョンに？
+……意味深ね</value>
+  </data>
+  <data name="75 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、ご本人達は気づいてなさそう
+ですが、比喩的意味ではないかと</value>
+  </data>
+  <data name="76 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>可憐な花がみくるちゃん？</value>
+  </data>
+  <data name="77 KOIZUMI (古泉)" xml:space="preserve">
+    <value>健気な花が長門さんでは
+ないでしょうか</value>
+  </data>
+  <data name="78 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あの子たち、目の前で言われて
+気づいてないの？</value>
+  </data>
+  <data name="79 KOIZUMI (古泉)" xml:space="preserve">
+    <value>多分</value>
+  </data>
+  <data name="80 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>鈍感なんだから</value>
+  </data>
+</root>

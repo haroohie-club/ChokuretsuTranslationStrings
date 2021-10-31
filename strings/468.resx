@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 MIKURU (みくる)" xml:space="preserve">
+    <value>じゃあ、行ってきますね</value>
+  </data>
+  <data name="1 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんと買い物とは、なんとも
+うれしいことだ</value>
+  </data>
+  <data name="2 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とはいえ、喜んでいる場合でもない</value>
+  </data>
+  <data name="3 KYON (キョン)" xml:space="preserve">
+    <value>買い物をしながら、ハルヒの
+気をそらす作戦を考えましょう</value>
+  </data>
+  <data name="4 MIKURU (みくる)" xml:space="preserve">
+    <value>そうですね。たくさんアイデアが
+あった方がいいでしょうし</value>
+  </data>
+  <data name="5 MIKURU (みくる)" xml:space="preserve">
+    <value>買う物もたくさんありますから
+考える時間もありそうですよ</value>
+  </data>
+  <data name="6 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんと２人きりでいられる
+時間なら、永遠でも問題ない</value>
+  </data>
+  <data name="7 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし残念ながら居心地の悪い合宿
+にさっさとケリをつける方が重要だ</value>
+  </data>
+  <data name="8 MIKURU (みくる)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="9 MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんはドリンク剤でしたね</value>
+  </data>
+  <data name="10 KYON (キョン)" xml:space="preserve">
+    <value>あれ以上元気になってもらうのも
+なんとも困りものですが</value>
+  </data>
+  <data name="11 MIKURU (みくる)" xml:space="preserve">
+    <value>なんでも眠気覚ましに
+使うらしいですよ</value>
+  </data>
+  <data name="12 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は朝比奈さんの笑顔だけで
+何日でも起きていられそうです</value>
+  </data>
+  <data name="13 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そうだ。朝比奈さんはドリンク剤は
+必要ないのだろうか？</value>
+  </data>
+  <data name="14 KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんは眠気覚ましを飲まな
+いんですか？</value>
+  </data>
+  <data name="15 MIKURU (みくる)" xml:space="preserve">
+    <value>ドリンク剤は、あんまり飲んだこと
+がないです</value>
+  </data>
+  <data name="16 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>たしかに、朝比奈さんがドリンク剤
+をあおっている姿は想像がつかない</value>
+  </data>
+  <data name="17 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんにはおやつでもあれば
+いいのかな……</value>
+  </data>
+  <data name="18 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>#P05“わらびもち”#P01でも買っておくか</value>
+  </data>
+  <data name="19 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんが食べなくても誰かが
+食べるだろう</value>
+  </data>
+  <data name="20 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いや待て、朝比奈さんにドリンク剤
+というのは似合わない気がする</value>
+  </data>
+  <data name="21 MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんのドリンク剤は、目覚まし
+だけでいいと思いますか？</value>
+  </data>
+  <data name="22 KYON (キョン)" xml:space="preserve">
+    <value>そうですね……他にもなにかあれば
+いいかも知れませんね</value>
+  </data>
+  <data name="23 MIKURU (みくる)" xml:space="preserve">
+    <value>ブルーベリーの#P05“ドリンク”#P00なんて
+どうでしょう。目に優しいですから</value>
+  </data>
+  <data name="24 KYON (キョン)" xml:space="preserve">
+    <value>それはいいですね、#P05“ドリンク”#P00で
+ムダに元気になられても困りますし</value>
+  </data>
+  <data name="25 MIKURU (みくる)" xml:space="preserve">
+    <value>あと、古泉くんの工具ですけど
+何を買えばいいのでしょう？</value>
+  </data>
+  <data name="26 KYON (キョン)" xml:space="preserve">
+    <value>ニセ怪談の仕掛けを作るためなので
+材料も含めて俺が見つくろいますよ</value>
+  </data>
+  <data name="27 MIKURU (みくる)" xml:space="preserve">
+    <value>じゃあ、あたしは長門さんの雑誌を
+買いますね</value>
+  </data>
+  <data name="28 KYON (キョン)" xml:space="preserve">
+    <value>小道具作りの工具が案外重いな</value>
+  </data>
+  <data name="29 MIKURU (みくる)" xml:space="preserve">
+    <value>雑誌もかさばりますね</value>
+  </data>
+  <data name="30 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>手分けして買い物をしたけれど
+思ったより大変な量になりそうだ</value>
+  </data>
+  <data name="31 MIKURU (みくる)" xml:space="preserve">
+    <value>おやつや夜食だけでもかなりの量で
+両手いっぱいになりますね</value>
+  </data>
+  <data name="32 KYON (キョン)" xml:space="preserve">
+    <value>そうですね、人数がいますから</value>
+  </data>
+  <data name="33 MIKURU (みくる)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="34 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>控えめにしても荷物は増える一方だ</value>
+  </data>
+  <data name="35 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの目をそらす作戦どころじゃ
+なくなってきたが、どうしようか</value>
+  </data>
+  <data name="36 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……適当に買っておくか</value>
+  </data>
+  <data name="37 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>気が乗らないまま色々と物色してい
+ると発光するおもちゃを見つけた</value>
+  </data>
+  <data name="38 KYON (キョン)" xml:space="preserve">
+    <value>#P05“蛍光スティック”#P00か……
+ニセの怪談とかに使えるかもな</value>
+  </data>
+  <data name="39 MIKURU (みくる)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="40 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>相談しておいた方がよさそうだな</value>
+  </data>
+  <data name="41 KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん、ハルヒの目をそらす
+ようなものは、なにがいいです？</value>
+  </data>
+  <data name="42 MIKURU (みくる)" xml:space="preserve">
+    <value>むずかしいですねえ……なにが
+興味を引くのかわかりませんし</value>
+  </data>
+  <data name="43 KYON (キョン)" xml:space="preserve">
+    <value>意外なものを無視したり、どうでも
+いいようなものに引かれますからね</value>
+  </data>
+  <data name="44 MIKURU (みくる)" xml:space="preserve">
+    <value>あの、これなんてどうでしょう？</value>
+  </data>
+  <data name="45 MIKURU (みくる)" xml:space="preserve">
+    <value>おもちゃの携帯電話ですけど
+ぱっとみると本物みたいですよ</value>
+  </data>
+  <data name="46 KYON (キョン)" xml:space="preserve">
+    <value>本当だ。よく出来ているが、これは
+オモチャの携帯電話だ</value>
+  </data>
+  <data name="47 MIKURU (みくる)" xml:space="preserve">
+    <value>着信音だけで使えない携帯ですから
+面白がるかも知れません</value>
+  </data>
+  <data name="48 KYON (キョン)" xml:space="preserve">
+    <value>なるほど……</value>
+  </data>
+  <data name="49 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>効果的に使えば、ハルヒの気を引く
+ことが出来るかも知れないな</value>
+  </data>
+  <data name="50 KYON (キョン)" xml:space="preserve">
+    <value>ありがとう、朝比奈さん。相談して
+よかったですよ</value>
+  </data>
+  <data name="51 MIKURU (みくる)" xml:space="preserve">
+    <value>ほかにもなにか涼宮さんの気を引く
+ものを買っておいた方がいいですね</value>
+  </data>
+  <data name="52 KYON (キョン)" xml:space="preserve">
+    <value>そうですね。しかし、なにがいい
+ものやら……</value>
+  </data>
+  <data name="53 MIKURU (みくる)" xml:space="preserve">
+    <value>あの、花火なんてどうでしょう</value>
+  </data>
+  <data name="54 KYON (キョン)" xml:space="preserve">
+    <value>花火ですか……</value>
+  </data>
+  <data name="55 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>世界の危機かも知れない状況で花火
+ってのはどうなんだろう？</value>
+  </data>
+  <data name="56 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いくら朝比奈さんの提案とはいえ
+のんびり花火って場合じゃないよな</value>
+  </data>
+  <data name="57 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とはいえハルヒの興味がそれるかも
+知れないし……</value>
+  </data>
+  <data name="58 KYON (キョン)" xml:space="preserve">
+    <value>買いましょう。ハルヒの気が花火に
+向いてくれたらラッキーですから</value>
+  </data>
+  <data name="59 MIKURU (みくる)" xml:space="preserve">
+    <value>はい、じゃあ#P05“花火”#P00をカゴに入れ
+ますね</value>
+  </data>
+  <data name="60 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>#P05“花火”#P01みたいにハルヒの意欲が
+パッと散ってくれるとありがたいね</value>
+  </data>
+  <data name="61 KYON (キョン)" xml:space="preserve">
+    <value>花火は場所の問題もありますし
+ほかのものにしませんか？</value>
+  </data>
+  <data name="62 MIKURU (みくる)" xml:space="preserve">
+    <value>そうですね……じゃあ#P05“漫画雑誌”#P00
+を買っていきましょうか</value>
+  </data>
+  <data name="63 KYON (キョン)" xml:space="preserve">
+    <value>面白おかしいマンガがいいですね
+この#P05“漫画雑誌”#P00がいいかも</value>
+  </data>
+  <data name="64 MIKURU (みくる)" xml:space="preserve">
+    <value>これなら涼宮さんの気持ちが怪談話
+からそれそうですね</value>
+  </data>
+  <data name="65 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒが手に取ったとたん、座り
+込んで読みふけりそうな気がする</value>
+  </data>
+  <data name="66 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それはそれで安泰ってことか</value>
+  </data>
+  <data name="67 MIKURU (みくる)" xml:space="preserve">
+    <value>お買い物、これで終わりでしょう
+か？</value>
+  </data>
+  <data name="68 KYON (キョン)" xml:space="preserve">
+    <value>一通り必要なものは揃いましたね
+清算を済ませて戻りましょう</value>
+  </data>
+  <data name="69 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>せっかく朝比奈さんと２人きりで
+ただ戻るのも面白くないな……</value>
+  </data>
+  <data name="70 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どこかに立ち寄る余裕なんていまは
+ないけど、せめて一服の清涼剤を</value>
+  </data>
+  <data name="71 KYON (キョン)" xml:space="preserve">
+    <value>暑いからアイスでも買いましょうか</value>
+  </data>
+  <data name="72 MIKURU (みくる)" xml:space="preserve">
+    <value>それは名案ですねっ</value>
+  </data>
+  <data name="73 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんが喜ぶ顔をみるだけでも
+一服した気分になるね</value>
+  </data>
+  <data name="74 KYON (キョン)" xml:space="preserve">
+    <value>じゃ、アイスを２つ買いましょう</value>
+  </data>
+  <data name="75 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>買い出しにきたごほうびってことで
+これぐらいは許されるだろう</value>
+  </data>
+  <data name="76 KYON (キョン)" xml:space="preserve">
+    <value>はい、朝比奈さんの分です</value>
+  </data>
+  <data name="77 MIKURU (みくる)" xml:space="preserve">
+    <value>ありがとう、キョン君</value>
+  </data>
+  <data name="78 MIKURU (みくる)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="79 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんとアイスを食べながら
+学校へと向かう</value>
+  </data>
+  <data name="80 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>このまま時間が止まって欲しいね</value>
+  </data>
+  <data name="81 MIKURU (みくる)" xml:space="preserve">
+    <value>この時間になっても外は暑いですね</value>
+  </data>
+  <data name="82 KYON (キョン)" xml:space="preserve">
+    <value>毎年暑くなっている気がしますね</value>
+  </data>
+  <data name="83 KYON (キョン)" xml:space="preserve">
+    <value>やっぱり温暖化の影響ですかね
+未来はもっと暑くなってますか？</value>
+  </data>
+  <data name="84 MIKURU (みくる)" xml:space="preserve">
+    <value>それはっ、き、禁則事項でふっ</value>
+  </data>
+  <data name="85 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>アイスをくわえて禁則事項か……
+何をやっても朝比奈さんは可愛いね</value>
+  </data>
+  <data name="86 KYON (キョン)" xml:space="preserve">
+    <value>合宿が無事に終わるとありがたい
+ですね、朝比奈さん</value>
+  </data>
+  <data name="87 MIKURU (みくる)" xml:space="preserve">
+    <value>そうですね、おばけとか出ないで
+無事に終わって欲しいです</value>
+  </data>
+  <data name="88 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの願いが実現するよりも
+おばけの方が怖いのか……</value>
+  </data>
+  <data name="89 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それが朝比奈さんの本音なのかを
+聞いてみたい気がするな</value>
+  </data>
+  <data name="90 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……聞いてみるか</value>
+  </data>
+  <data name="91 KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんの本音としてはおばけが
+ハルヒより怖いと？</value>
+  </data>
+  <data name="92 MIKURU (みくる)" xml:space="preserve">
+    <value>あ、いえ、そうじゃなくって……</value>
+  </data>
+  <data name="93 MIKURU (みくる)" xml:space="preserve">
+    <value>ちょっと怖い思いをして以来ずっと
+おばけが怖いんですぅ</value>
+  </data>
+  <data name="94 KYON (キョン)" xml:space="preserve">
+    <value>え？　朝比奈さんが怪奇現象に？</value>
+  </data>
+  <data name="95 MIKURU (みくる)" xml:space="preserve">
+    <value>えっ、あのっ、たぶん見間違いだと
+思うんですけど……</value>
+  </data>
+  <data name="96 KYON (キョン)" xml:space="preserve">
+    <value>ふむふむ</value>
+  </data>
+  <data name="97 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんの#P05“体験談”#P01を聞いたが
+意味がよく分からなかった</value>
+  </data>
+  <data name="98 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>話しながらも怖くなったらしく
+内容は支離滅裂だったのだ</value>
+  </data>
+  <data name="99 KYON (キョン)" xml:space="preserve">
+    <value>それはきっと見間違いということで</value>
+  </data>
+  <data name="100 MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい、見間違いです、きっと</value>
+  </data>
+  <data name="101 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いつかしっかりと内容を聞いて
+みたいところだね</value>
+  </data>
+  <data name="102 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もっとも、生理的にダメなものって
+のもあるだろうからな</value>
+  </data>
+  <data name="103 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>聞かない方がいいかも知れない</value>
+  </data>
+  <data name="104 MIKURU (みくる)" xml:space="preserve">
+    <value>あの、こんな本があったので買って
+おきましたけど、使えますか？</value>
+  </data>
+  <data name="105 KYON (キョン)" xml:space="preserve">
+    <value>#P05“占星術の本”#P00ですか。もしかする
+とハルヒが喜ぶかもしれませんね</value>
+  </data>
+  <data name="106 MIKURU (みくる)" xml:space="preserve">
+    <value>買っておいてよかったです</value>
+  </data>
+  <data name="107 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ポケットサイズだしなにかの時に
+使えるかも知れない</value>
+  </data>
+  <data name="108 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>役に立たなければ長門にあげれば
+いいよな</value>
+  </data>
+  <data name="109 MIKURU (みくる)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="110 MIKURU (みくる)" xml:space="preserve">
+    <value>うまく涼宮さんの興味をそらすこと
+が出来るといいですね</value>
+  </data>
+  <data name="111 KYON (キョン)" xml:space="preserve">
+    <value>ええ、そうでないと大変なことに
+なりそうですから</value>
+  </data>
+  <data name="112 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんとアイスを食べながら
+こうして歩く平和な時間か</value>
+  </data>
+  <data name="113 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この平和が続いてくれるとうれしい
+が、そうもいかないのが恨めしい</value>
+  </data>
+  <data name="114 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ドリンク剤で気合いを入れる団長殿
+のことを考えると気が重いね</value>
+  </data>
+</root>

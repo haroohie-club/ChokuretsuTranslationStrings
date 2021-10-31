@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>俺がさっき話した怪談のことだけど</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あのくだらない怪談に、新しいオチ
+でも考えたのなら聞いてもいいわ</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>オチつけてどうするんだよ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>怪談ってのはオチがあるから怖いの
+よ。オチのない怪談はただの体験談</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>じゃあ怪談ってのは作り話か？</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>全部が全部じゃないけど、多くは
+怖がるように創作した作り話よ</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>作り話や錯覚を暴いて、残った話が
+真の怪談たるものとなるのよ</value>
+  </data>
+  <data name="7 KYON (キョン)" xml:space="preserve">
+    <value>そんなもんかね</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アンタの怪談は有希にユニークって
+言われたんだから良かったじゃない</value>
+  </data>
+  <data name="9 KYON (キョン)" xml:space="preserve">
+    <value>良かったのかねえ……</value>
+  </data>
+  <data name="10 MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんってじーっと観察する
+みたいに見てくるじゃないですか</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに？　みくるちゃんはそれが
+気になるの？</value>
+  </data>
+  <data name="12 MIKURU (みくる)" xml:space="preserve">
+    <value>……正直、ちょっと気になります</value>
+  </data>
+  <data name="13 MIKURU (みくる)" xml:space="preserve">
+    <value>あたしは長門さんにどんな風に
+評価をされてるのかなって</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは気にならないわよ？</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それに有希は別にあたし達に点数
+つけてるわけじゃないんだしね</value>
+  </data>
+  <data name="16 MIKURU (みくる)" xml:space="preserve">
+    <value>ええ、判ってます。長門さんには
+他意はないだろうし……</value>
+  </data>
+  <data name="17 MIKURU (みくる)" xml:space="preserve">
+    <value>気になるのは、自分に自信がない
+からなんです……</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大丈夫よ！
+胸を張りなさい、みくるちゃん！</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あなたは栄誉あるＳＯＳ団の団員
+なのよ。自信を持ちなさい！</value>
+  </data>
+  <data name="20 MIKURU (みくる)" xml:space="preserve">
+    <value>は、はいっ。がんばります</value>
+  </data>
+  <data name="21 NAGATO (長門)" xml:space="preserve">
+    <value>彼の発想は、時折ユニーク</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンのこと？　まあ、そうかもね
+でも大抵の場合は凡庸だわ</value>
+  </data>
+  <data name="23 NAGATO (長門)" xml:space="preserve">
+    <value>凡庸なことの方が多い
+恐らく、凡庸たろうとしている</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにを考えてるのかしらね
+普通なんて、つまんないのに</value>
+  </data>
+  <data name="25 KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんは、なかなか厳正な批評を
+行う方ですね</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希が？　厳正な批評？</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あー、もしかしてキョンの下らない
+怪談モドキのこと？</value>
+  </data>
+  <data name="28 KOIZUMI (古泉)" xml:space="preserve">
+    <value>まさしく、その話です</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>普通、の一言でバッサリ切って捨て
+たわね。見事だったわ</value>
+  </data>
+  <data name="30 KOIZUMI (古泉)" xml:space="preserve">
+    <value>一応、ユニークだったとフォローも
+入れてらっしゃったようですが……</value>
+  </data>
+</root>

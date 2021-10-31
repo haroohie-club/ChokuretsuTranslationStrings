@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 MIKURU (みくる)" xml:space="preserve">
+    <value>&#x10;</value>
+  </data>
+  <data name="1 MIKURU (みくる)" xml:space="preserve">
+    <value>それじゃ始めましょうか</value>
+  </data>
+  <data name="2 INFO (インフォ)" xml:space="preserve">
+    <value>ここでは“詰めチェス”を行いなが
+ら“チェス”の基本的なテクニック</value>
+  </data>
+  <data name="3 INFO (インフォ)" xml:space="preserve">
+    <value>を説明して行きたいと思います</value>
+  </data>
+  <data name="4 INFO (インフォ)" xml:space="preserve">
+    <value>“チェス”の基本的なルールや説明
+は『古泉一樹』の問題を参照して</value>
+  </data>
+  <data name="5 INFO (インフォ)" xml:space="preserve">
+    <value>ください、これ以降では駒の動かし
+方や“チェス”の概要は理解してい</value>
+  </data>
+  <data name="6 INFO (インフォ)" xml:space="preserve">
+    <value>る事を前提にしています</value>
+  </data>
+  <data name="7 INFO (インフォ)" xml:space="preserve">
+    <value>ではまずテクニックを学ぶ前に、
+“駒得”について説明します</value>
+  </data>
+  <data name="8 INFO (インフォ)" xml:space="preserve">
+    <value>チェスの駒は全部で６種類ですが
+各々動き方＝攻撃範囲が違います</value>
+  </data>
+  <data name="9 INFO (インフォ)" xml:space="preserve">
+    <value>同じ１駒でも、“ポーン”を取られ
+るのと、“クイーン”を取られるの</value>
+  </data>
+  <data name="10 INFO (インフォ)" xml:space="preserve">
+    <value>では戦力に大きな差があります</value>
+  </data>
+  <data name="11 INFO (インフォ)" xml:space="preserve">
+    <value>チェスでは各駒に【戦力ポイント】
+を設定し、駒を取ったり取られたり</value>
+  </data>
+  <data name="12 INFO (インフォ)" xml:space="preserve">
+    <value>した際、この【戦力ポイント】を
+計算することで大まかな有利不利が</value>
+  </data>
+  <data name="13 INFO (インフォ)" xml:space="preserve">
+    <value>判別できるようになっています</value>
+  </data>
+  <data name="14 INFO (インフォ)" xml:space="preserve">
+    <value>つまり、駒を取ったり取られたりし
+た際に【戦力ポイント】が相手より</value>
+  </data>
+  <data name="15 INFO (インフォ)" xml:space="preserve">
+    <value>上回っていれば【有利になった】と
+いえるということです</value>
+  </data>
+  <data name="16 INFO (インフォ)" xml:space="preserve">
+    <value>なるべく少ないポイントロスで
+高いポイントを奪う事が出来るよう</value>
+  </data>
+  <data name="17 INFO (インフォ)" xml:space="preserve">
+    <value>に戦術を組み立てる事が重要です</value>
+  </data>
+  <data name="18 INFO (インフォ)" xml:space="preserve">
+    <value>ただし、チェスの勝敗は『相手の駒
+をいくつ取ったか？』ではなく</value>
+  </data>
+  <data name="19 INFO (インフォ)" xml:space="preserve">
+    <value>あくまで“チェックメイト”するこ
+とですので、あまりこだわりすぎる</value>
+  </data>
+  <data name="20 INFO (インフォ)" xml:space="preserve">
+    <value>と足をすくわれてしまいますので
+注意してください</value>
+  </data>
+  <data name="21 INFO (インフォ)" xml:space="preserve">
+    <value>“ポーン”に“クイーン”を取られ
+ても、結果“チェックメイト”出来</value>
+  </data>
+  <data name="22 INFO (インフォ)" xml:space="preserve">
+    <value>れば“勝ち”になるのです！</value>
+  </data>
+  <data name="23 INFO (インフォ)" xml:space="preserve">
+    <value>各駒の戦力ポイントを確認してくだ
+さい</value>
+  </data>
+  <data name="24 MIKURU (みくる)" xml:space="preserve">
+    <value>&#x10;</value>
+  </data>
+  <data name="25 INFO (インフォ)" xml:space="preserve">
+    <value>図のように“キング”は取られる事
+がない為、無限となっていますが</value>
+  </data>
+  <data name="26 INFO (インフォ)" xml:space="preserve">
+    <value>“クイーン”“ルーク”“ビショッ
+プ”＆“ナイト”“ポーン”の順に</value>
+  </data>
+  <data name="27 INFO (インフォ)" xml:space="preserve">
+    <value>ポイントが低下していきます</value>
+  </data>
+  <data name="28 INFO (インフォ)" xml:space="preserve">
+    <value>具体的な例を下画面で説明します</value>
+  </data>
+  <data name="29 INFO (インフォ)" xml:space="preserve">
+    <value>“ナイト”で“クイーン”を取った
+後に、“ナイト”が取り返された</value>
+  </data>
+  <data name="30 INFO (インフォ)" xml:space="preserve">
+    <value>場合、相手の戦力『－９点』自分の
+戦力『－３点』となるため差し引き</value>
+  </data>
+  <data name="31 INFO (インフォ)" xml:space="preserve">
+    <value>『６点』分“駒得”したということ
+になります</value>
+  </data>
+  <data name="32 INFO (インフォ)" xml:space="preserve">
+    <value>では実際にやってみましょう
+駒の得点を良く考えてください</value>
+  </data>
+  <data name="33 INFO (インフォ)" xml:space="preserve">
+    <value>最も高得点で駒得するように
+相手の駒を取ってください</value>
+  </data>
+  <data name="34 MIKURU (みくる)" xml:space="preserve">
+    <value>正解です、キョンくん</value>
+  </data>
+  <data name="35 INFO (インフォ)" xml:space="preserve">
+    <value>取り合いになる場合には“駒得”を
+考えて損をしない様にしましょう</value>
+  </data>
+  <data name="36 INFO (インフォ)" xml:space="preserve">
+    <value>以上で“駒得”についての説明を
+終了します</value>
+  </data>
+  <data name="37 MIKURU (みくる)" xml:space="preserve">
+    <value>残念です、違ったみたいですね
+もう一度挑戦してみてください</value>
+  </data>
+  <data name="38 INFO (インフォ)" xml:space="preserve">
+    <value>最も点の高い駒を取るにはどうすれ
+ば良いのか、考えましょう</value>
+  </data>
+  <data name="39 MIKURU (みくる)" xml:space="preserve">
+    <value>“駒得”出来なかったみたいです</value>
+  </data>
+  <data name="40 MIKURU (みくる)" xml:space="preserve">
+    <value>駒同士の得点に気をつけてみて
+くださいね</value>
+  </data>
+</root>

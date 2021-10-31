@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>なあ、今いる場所って部室からどれ
+くらい離れてるんだろうな？</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによそれ？</value>
+  </data>
+  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね……どれくらいかしら
+１００メートル？　２００？</value>
+  </data>
+  <data name="3 KYON (キョン)" xml:space="preserve">
+    <value>意外と想像が付かないんだよな、
+そういう距離って</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうねえ。大体、直線距離なのか
+道のりなのかにもよるでしょうし</value>
+  </data>
+  <data name="5 KYON (キョン)" xml:space="preserve">
+    <value>そう言えば大回りしてるから、直線
+距離だとさほど離れてないのかもな</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういうこと。それにしても、体育
+館と部室なんてすぐそこなのに、</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こんなに遠回りしなくちゃいけない
+なんて腹が立つわね！</value>
+  </data>
+  <data name="8 KYON (キョン)" xml:space="preserve">
+    <value>仕方ないだろ</value>
+  </data>
+  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなことないわ、学校は合宿をす
+る生徒のために便宜を図るべきよ！</value>
+  </data>
+  <data name="10 KYON (キョン)" xml:space="preserve">
+    <value>そんな少人数のために便宜を図れ
+とか、お前はなにを言ってるんだ</value>
+  </data>
+  <data name="11 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>学校に認められてもいない、同好会
+以下の存在である我等が団を、</value>
+  </data>
+  <data name="12 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>正式に認めた上で便宜を図れとは、
+こいつはどこまで図々しいのだ</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>当然の権利だわ</value>
+  </data>
+  <data name="14 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>胸を張っていうハルヒを見て、俺は
+ため息をつくのであった</value>
+  </data>
+  <data name="15 MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、えっとえっと……</value>
+  </data>
+  <data name="16 MIKURU (みくる)" xml:space="preserve">
+    <value>い、今のこの場所って、位置座標
+で言うとどうなるんでしょう？</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>変なことを聞くのね
+それって夏休みの課題か何か？</value>
+  </data>
+  <data name="18 MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そそそうなんですぅ
+どうしてもわからなくって</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、そういうのは人に
+頼らないで、自分でやらないとね</value>
+  </data>
+  <data name="20 MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あうあう……
+す、すみませぇん</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、学校内を位置座標で考えるの
+って、めんどくさいけどザンシンね</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ウチの教師にしては、ちょっとは
+ひねった課題を出すじゃない</value>
+  </data>
+  <data name="23 MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうなんですよ～</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>体育館までって結構距離があるわね</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>普段部室から体育館に直接行かない
+から気付かなかったけど</value>
+  </data>
+  <data name="26 NAGATO (長門)" xml:space="preserve">
+    <value>体育館まで直線距離で最短は３０
+メートル</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、結構近いのね</value>
+  </data>
+  <data name="28 NAGATO (長門)" xml:space="preserve">
+    <value>文芸部部室から体育館入り口までの
+道のりだと、およそ１２２メートル</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うそっ、そんなにあるの！？</value>
+  </data>
+  <data name="30 NAGATO (長門)" xml:space="preserve">
+    <value>渡り廊下を使い中館校舎を通った
+場合はそう</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんてこと……どっと疲れてきたわ
+……</value>
+  </data>
+  <data name="32 KOIZUMI (古泉)" xml:space="preserve">
+    <value>歩いていてふと思ったのですが</value>
+  </data>
+  <data name="33 KOIZUMI (古泉)" xml:space="preserve">
+    <value>位置座標は便利ですが混乱すること
+もあると思いませんか、涼宮さん</value>
+  </data>
+  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>おおまかな位置を確認するには便利
+だと思うけど、混乱するものかしら</value>
+  </data>
+  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+    <value>たとえば学校の敷地を正門から見て
+縦横を英数字で区切るとすると……</value>
+  </data>
+  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなことしなくたって、新館の
+何階とかでわかるじゃない</value>
+  </data>
+  <data name="37 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、ですから位置座標が混乱する
+ケースがあると申し上げたのです</value>
+  </data>
+  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>聞いてもムダな情報ってことかしら</value>
+  </data>
+  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いわれてみると、そんなムダな情報
+がたくさんあったら混乱するわね</value>
+  </data>
+  <data name="40 KOIZUMI (古泉)" xml:space="preserve">
+    <value>位置座標の方が分かりやすい人も
+いるのでしょうね</value>
+  </data>
+  <data name="41 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>兵隊さんとかはそうかもね</value>
+  </data>
+  <data name="42 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、おしゃべりはやめて早く
+いかないとっ！</value>
+  </data>
+</root>

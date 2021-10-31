@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>買い物に行った時なんだが、長門が
+サブカル雑誌を買ってたんだ</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は本や雑誌なら何でも読んでる
+みたいだから、不思議じゃないわよ</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>それはそうなんだが、文芸部って
+のはサブカル雑誌も読むものなのか</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ハイカルチャーばっかりってのは
+不公平だし面白くないわよ</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＯＳ団のメンバーとしては研究
+熱心でいいと思うわ</value>
+  </data>
+  <data name="5 KYON (キョン)" xml:space="preserve">
+    <value>サブカル雑誌を読むことが研究ねえ</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>サブカル雑誌やタブロイド雑誌に
+こそ真実が隠れているのよ</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>理想論や大人の事情が絡んでくる
+ハイカルより信頼性が高いのよ</value>
+  </data>
+  <data name="8 KYON (キョン)" xml:space="preserve">
+    <value>サブカル雑誌が怪しいと思うのは
+俺だけじゃあるまい</value>
+  </data>
+  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンの洞察力が足りないからよっ</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>たくさんの本を読んで情報の取捨
+選択ってのを身につけなさい！</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だいたいねえ、キョンは研究しよう
+って心がけや努力が見えないのよ！</value>
+  </data>
+  <data name="12 KYON (キョン)" xml:space="preserve">
+    <value>俺が叱られるようなことかよ</value>
+  </data>
+  <data name="13 MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんがコンビニで本のコーナー
+から動かなくなったんだそうですよ</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>それでキョンくん、仕方なくその本
+買ってあげたそうです</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希らしいエピソードねぇ</value>
+  </data>
+  <data name="16 MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんって本当に読書好きです
+よね。感心してしまいます</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、興味のジャンルも幅広いし
+その時の本は何だったのかしらね</value>
+  </data>
+  <data name="18 MIKURU (みくる)" xml:space="preserve">
+    <value>良くわかりませんけど、サブカル
+チャーっていうジャンルみたいです</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>サブカル……そう。有希は今度は
+何に興味を持ったのかしら</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは後でじっくり詳しく話を聞く
+必要がありそうね</value>
+  </data>
+  <data name="21 MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうなんですか……？</value>
+  </data>
+  <data name="22 NAGATO (長門)" xml:space="preserve">
+    <value>&#x13;</value>
+  </data>
+  <data name="23 NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、歩きながら本なんか読んで
+たら危ないわよ</value>
+  </data>
+  <data name="25 NAGATO (長門)" xml:space="preserve">
+    <value>大丈夫</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……っていうか、よくこんなに暗い
+のに読めるわね</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんの本？</value>
+  </data>
+  <data name="28 NAGATO (長門)" xml:space="preserve">
+    <value>サブカルチャーと呼称されている
+一般的ではない知識分野の雑誌</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、有希ってそんなのも読むんだ
+で、面白い？</value>
+  </data>
+  <data name="30 NAGATO (長門)" xml:space="preserve">
+    <value>興味深い</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう。なんでもいいけど、暗いんだ
+から気をつけてよね……</value>
+  </data>
+  <data name="32 KOIZUMI (古泉)" xml:space="preserve">
+    <value>買出しの際、長門さんがコンビニで
+雑誌の立ち読みをしていたとか</value>
+  </data>
+  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希はホント、どこ行っても本を
+読もうとするのね</value>
+  </data>
+  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+    <value>手に取っていた雑誌は、いわゆる
+サブカル系の週刊誌だったそうです</value>
+  </data>
+  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>サブカル系？</value>
+  </data>
+  <data name="36 KOIZUMI (古泉)" xml:space="preserve">
+    <value>抽象的に説明すると、娯楽を目的と
+した、マイナーで趣味的な文化です</value>
+  </data>
+  <data name="37 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>よくわからないけど……マニアック
+ってこと？</value>
+  </data>
+  <data name="38 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですね、感覚的には近いかも
+しれません</value>
+  </data>
+  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん……ま、どうでもいいわ</value>
+  </data>
+  <data name="40 KOIZUMI (古泉)" xml:space="preserve">
+    <value>コスプレもサブカルチャーの一種
+だそうですよ</value>
+  </data>
+  <data name="41 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう言われると親近感が湧いてくる
+わね</value>
+  </data>
+</root>

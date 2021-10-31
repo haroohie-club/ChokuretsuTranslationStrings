@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>イメージトレーニングは有効だと
+思うぞ。やってみないか？</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はあ？　唐突に何よ、それ</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>これから起こる出来事をちょっと
+目をつぶってイメージしてみろ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何の為によ？</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>起きるかもしれない様々な事に
+冷静に対処するためだ</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたじゃあるまいし。あたしは
+いつだってなんだって対応可能よ</value>
+  </data>
+  <data name="6 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ほんと、その自信はどこからくるん
+だろうね</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さー、張り切って行きましょ！</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>早く鏡から自分の分身が出てくる
+ところを見たいわっ</value>
+  </data>
+  <data name="9 MIKURU (みくる)" xml:space="preserve">
+    <value>ええっ、あ、あのぅ……
+そ、その前に</value>
+  </data>
+  <data name="10 MIKURU (みくる)" xml:space="preserve">
+    <value>ここでイメージトレーニングを
+少しして行きませんか？</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんでよ？</value>
+  </data>
+  <data name="12 MIKURU (みくる)" xml:space="preserve">
+    <value>まだ時間もありますし。あと、いい
+結果が出そうな気がしませんか？</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。でもあたしはもうイメージ
+トレーニングは済んでるから準備は</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>万端よ！　さあ行きましょ</value>
+  </data>
+  <data name="15 MIKURU (みくる)" xml:space="preserve">
+    <value>ああっ、待って下さぁい</value>
+  </data>
+  <data name="16 NAGATO (長門)" xml:space="preserve">
+    <value>イメージトレーニングは有効である</value>
+  </data>
+  <data name="17 NAGATO (長門)" xml:space="preserve">
+    <value>と証明されていると古泉一樹が
+語っていた</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。でも、あたしは意識して
+することはないけど</value>
+  </data>
+  <data name="19 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何ごとも決めつけずに、柔軟な対応
+ができれば問題ないでしょ</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>イメージトレーニングだって、所詮
+自分の望みのパターンなんだから</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ある種の決めつけよ。臨機応変とは
+言えないと思うのよね</value>
+  </data>
+  <data name="23 NAGATO (長門)" xml:space="preserve">
+    <value>了解した</value>
+  </data>
+  <data name="24 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんはイメージトレーニングを
+されることはありますか？</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんまり意識してしたことはない
+わね</value>
+  </data>
+  <data name="26 KOIZUMI (古泉)" xml:space="preserve">
+    <value>なにかに備えて考えるようなことは
+ありませんか？</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>想定って意味でならしてるわよ</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>宇宙人とか怪奇現象に遭遇した時に
+どうするかは、常日頃考えてるもの</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>出たとこ勝負は、キョンだけにして
+ほしいものよね</value>
+  </data>
+  <data name="30 KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼は彼なりに考えておられるよう
+ですよ</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>下手の考え休むに似たりよ！</value>
+  </data>
+  <data name="32 KOIZUMI (古泉)" xml:space="preserve">
+    <value>あはは、それは手厳しいですね</value>
+  </data>
+  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>的確な情報があれば、想定による
+トレーニングも意味があるけど</value>
+  </data>
+  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>情報がない場合に備えて、いざって
+時に慌てない心構えも必要だわ</value>
+  </data>
+  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+    <value>臨機応変に対処すべく、ですね</value>
+  </data>
+  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンはそれも出たとこ勝負だと
+言うでしょうけどね</value>
+  </data>
+</root>

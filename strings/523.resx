@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x18;</value>
+  </data>
+  <data name="1 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>特異点をすべて起動することに成功
+し、ハルヒを連れ出すことが出来た</value>
+  </data>
+  <data name="2 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あとは正常化するのを待つだけ……</value>
+  </data>
+  <data name="3 KYON (キョン)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="4 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だったはずなのだが</value>
+  </data>
+  <data name="5 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一緒にいたはずの長門や古泉、それ
+に朝比奈さんの姿が見えない</value>
+  </data>
+  <data name="6 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかもこの霧はなんだ？</value>
+  </data>
+  <data name="7 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝靄にしちゃ、ちょっとやりすぎ
+だろうが</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、ちょっと待ちなさい</value>
+  </data>
+  <data name="9 KYON (キョン)" xml:space="preserve">
+    <value>なんだよ？</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、あんた何でそんなもの持ち
+歩いてるわけ？</value>
+  </data>
+  <data name="11 KYON (キョン)" xml:space="preserve">
+    <value>何でって……</value>
+  </data>
+  <data name="12 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>特異点を消滅させるためのモップで
+ございます、とは言えないよな</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そのモップはなんなのかと聞いて
+るのよ</value>
+  </data>
+  <data name="14 KYON (キョン)" xml:space="preserve">
+    <value>いや、合宿であちこち汚したんで
+掃除しながら歩いてるんだ</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふ～ん
+キョンにしては立派な心構えね</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>しっかり掃除しなさいよ</value>
+  </data>
+  <data name="17 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>えらくあっさりと納得しやがったな</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さっきまでみくるちゃんたちと一緒
+だったんでしょ？</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>一体どこに行ったのかしら？</value>
+  </data>
+  <data name="20 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いくらモヤが濃いっていったって、
+そりゃあおかしいって気付くよな</value>
+  </data>
+  <data name="21 KYON (キョン)" xml:space="preserve">
+    <value>このモヤで見失ったんじゃないのか</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃーん！　有希ーっ！</value>
+  </data>
+  <data name="23 KYON (キョン)" xml:space="preserve">
+    <value>古泉ーっ</value>
+  </data>
+  <data name="24 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>呼んでみたものの、誰からも返事が
+ない</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>霧が濃くなってきたわね</value>
+  </data>
+  <data name="26 KYON (キョン)" xml:space="preserve">
+    <value>ああ、朝もやってより濃霧だな</value>
+  </data>
+  <data name="27 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>みんなともはぐれてしまったし
+ちょっとイヤな予感がする</value>
+  </data>
+  <data name="28 KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、いったん外に出た方が
+よさそうな気がするんだ</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>学校の外に出ちゃったら、みくる
+ちゃんたちと合流出来ないじゃない</value>
+  </data>
+  <data name="30 KYON (キョン)" xml:space="preserve">
+    <value>この霧じゃあ、どこにいても同じ
+だろうけどな……</value>
+  </data>
+  <data name="31 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ここにいるより学校の外の方が
+ずっと安全なはずだ</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x18;</value>
+  </data>
+  <data name="33 KYON (キョン)" xml:space="preserve">
+    <value>……ん？</value>
+  </data>
+  <data name="34 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>すりガラスを張り巡らせたような
+濃霧の中にうっすらと人影が見えた</value>
+  </data>
+  <data name="35 KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さ……</value>
+  </data>
+  <data name="36 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いや、違う。あれは朝比奈さんじゃ
+ない……</value>
+  </data>
+  <data name="37 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>自分の手もまともに見えない濃霧で
+人が見えるわけがない……</value>
+  </data>
+  <data name="38 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしや……長い髪の少女か！？</value>
+  </data>
+  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう、みんなどこに行っちゃったの
+かしら……</value>
+  </data>
+  <data name="40 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒは長い髪の少女に気付いて
+いないらしい</value>
+  </data>
+  <data name="41 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どんどん霧が濃くなるわね</value>
+  </data>
+  <data name="42 KYON (キョン)" xml:space="preserve">
+    <value>ああ、なんか尋常じゃないな</value>
+  </data>
+  <data name="43 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>霧に紛れてあの少女が現れるとはな</value>
+  </data>
+  <data name="44 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>グラウンドでこの霧だ。学校外に出
+ても安全とも言い切れない</value>
+  </data>
+  <data name="45 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……どうすればいいんだ？</value>
+  </data>
+  <data name="46 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>おかしいわね。ケータイに連絡が
+つかないわ</value>
+  </data>
+  <data name="47 KYON (キョン)" xml:space="preserve">
+    <value>圏外にいるとか？</value>
+  </data>
+  <data name="48 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>コールはしてるからそれはないわ
+みくるちゃんも有希も出ないのよ</value>
+  </data>
+  <data name="49 KYON (キョン)" xml:space="preserve">
+    <value>……そうか</value>
+  </data>
+  <data name="50 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やっぱりこの霧は異常だ
+どこか絶対に安全な場所は……</value>
+  </data>
+  <data name="51 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もうっ、古泉くんも電話に出ない
+じゃない</value>
+  </data>
+  <data name="52 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉……か</value>
+  </data>
+  <data name="53 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……そうだ！</value>
+  </data>
+  <data name="54 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>前に古泉が、部室はすでに異空間化
+していると言っていたな</value>
+  </data>
+  <data name="55 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>様々な力がせめぎ合って飽和状態で
+だから特になにも起こらないって</value>
+  </data>
+  <data name="56 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>つまり、一番安全なのは部室だ</value>
+  </data>
+  <data name="57 KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ。行くぞ</value>
+  </data>
+  <data name="58 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと、何よキョン、いきなり
+人の手を引っ張らないでよっ！</value>
+  </data>
+  <data name="59 KYON (キョン)" xml:space="preserve">
+    <value>いいから、俺についてこい</value>
+  </data>
+  <data name="60 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによっ、キョンのくせにっ！</value>
+  </data>
+  <data name="61 KYON (キョン)" xml:space="preserve">
+    <value>なんとでも言え</value>
+  </data>
+  <data name="62 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく……いきなりレディの手を
+握るなんて……</value>
+  </data>
+  <data name="63 KYON (キョン)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="64 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="65 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ブツブツと文句を言っていたハルヒ
+だが、やがて黙ってついてくる</value>
+  </data>
+  <data name="66 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は片手にモップ、片手にハルヒを
+引いて壁伝いに歩いた</value>
+  </data>
+  <data name="67 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こういうのも、両手になんとかって
+言うのかね……</value>
+  </data>
+</root>

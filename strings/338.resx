@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、おまえ長門の得意そうな顔
+って見たことあるか？</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうねえ、見たことないかも
+有希は謙虚だものね</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>いや、しかし誰でも得意気な気分に
+なることがあるだろ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは子供の反応よ、大人がする
+反応じゃないわ</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>そういうおまえも、しょっちゅう
+得意気な顔をするけどな</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うっさい、さっさと歩く！</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>なんだ、自覚があるのか？</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>つべこべ言わないで急ぐのよっ！</value>
+  </data>
+  <data name="8 KYON (キョン)" xml:space="preserve">
+    <value>はいはい</value>
+  </data>
+  <data name="9 MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんが長門さんを誉めたら</value>
+  </data>
+  <data name="10 MIKURU (みくる)" xml:space="preserve">
+    <value>得意顔になったような気がしたん
+だそうですよ</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、有希でもそんな顔するのね</value>
+  </data>
+  <data name="12 MIKURU (みくる)" xml:space="preserve">
+    <value>見てみたいと思いません？　長門
+さんの得意顔。ふふっ</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>むむー。想像できないわね。うん
+それはぜひ見てみたいわ</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>今度、長門さんを誉めてみましょう</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。思い切り誉め倒して
+その顔を写真に撮るのよ！</value>
+  </data>
+  <data name="16 MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんにも参加して貰いましょう
+よ。誉めるの得意そうだし</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……３人で囲んで誉めるの？
+得意顔より、困惑顔が見れそうだわ</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>部室で探した荷物もすぐに見つかっ
+たし、有希と一緒だと心強いわ</value>
+  </data>
+  <data name="19 NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしがＳＯＳ団の絶対神だと
+したら、有希は守護神ね</value>
+  </data>
+  <data name="21 NAGATO (長門)" xml:space="preserve">
+    <value>守護神？</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>神話や伝説とかで出てるようなの
+ヘルメスやヴェスタや</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>インドラとかランドールとかカーン
+とか藤川とか、そんな感じ</value>
+  </data>
+  <data name="24 NAGATO (長門)" xml:space="preserve">
+    <value>理解した</value>
+  </data>
+  <data name="25 KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんは表情の読みにくい方だと
+思うのですが……</value>
+  </data>
+  <data name="26 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうでもない、とおっしゃる方が
+一人、いらっしゃいまして</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もしかして、キョン？</value>
+  </data>
+  <data name="28 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ご存知でしたか</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんか、そんなことをチラっと前に
+言ってたような気がしたのよ</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンに読めて、あたしに読めない
+ってことは無いと思うんだけど</value>
+  </data>
+</root>

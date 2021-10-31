@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>プールまであと少しね</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>一気に行くわよ</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>なあ、ハルヒ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>せっかく夜の学校にいるんだ
+校庭で花火でもしないか？</value>
+  </data>
+  <data name="5 KYON (キョン)" xml:space="preserve">
+    <value>さっき買い出しに行った時
+買っておいたんだ</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アンタ、バカじゃないの</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなことしたら見つかっちゃう
+じゃない</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>見回りがいるってこと忘れたの？</value>
+  </data>
+  <data name="9 KYON (キョン)" xml:space="preserve">
+    <value>そ、そうか、そうだったな</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう、しっかりしてよね</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x14;</value>
+  </data>
+  <data name="12 MIKURU (みくる)" xml:space="preserve">
+    <value>あの、涼宮さん、この後で花火を
+しませんか？</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>花火？</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい。さっき買い出しの時に
+買っておいたんです</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはいいけど……
+場所が問題よね</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>学校の敷地内だと、見回りの教師に
+見つかっちゃうかもしれないし</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>下手したら、近所の人に通報され
+ちゃうかも</value>
+  </data>
+  <data name="18 MIKURU (みくる)" xml:space="preserve">
+    <value>つ、通報ですか</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バカなことする一部の人間のせいで
+気軽に花火もできないんだから</value>
+  </data>
+  <data name="21 MIKURU (みくる)" xml:space="preserve">
+    <value>そう、ですか……</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、みくるちゃんがそこまで言う
+なら、場所を探しておくわ</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さすがに今日すぐってワケにはいか
+ないけど</value>
+  </data>
+  <data name="24 MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい。ありがとうございます</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x14;</value>
+  </data>
+  <data name="26 NAGATO (長門)" xml:space="preserve">
+    <value>花火を買っておいた</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あら、有希が何かをやりたいなんて
+珍しいわね</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>この間やったのがよっぽど
+気に入ったの？</value>
+  </data>
+  <data name="29 NAGATO (長門)" xml:space="preserve">
+    <value>……わりと</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、今晩花火をするのはちょっと
+難しいわね</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>最近じゃ、どんなに広い場所でも
+火を使うだけで問題になるんだから</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく、一部のバカのせいで
+とんだとばっちりだわ</value>
+  </data>
+  <data name="33 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、もしかして、ショックだった？</value>
+  </data>
+  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>しょうがないわね、どこか花火の
+出来る場所を探しておくわ</value>
+  </data>
+  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さすがに今日すぐとはいかないけど</value>
+  </data>
+  <data name="37 NAGATO (長門)" xml:space="preserve">
+    <value>分かった</value>
+  </data>
+  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x14;</value>
+  </data>
+  <data name="39 KOIZUMI (古泉)" xml:space="preserve">
+    <value>実は、先ほどの買い出しの時に
+花火を見つけたのですが</value>
+  </data>
+  <data name="40 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>花火？</value>
+  </data>
+  <data name="41 KOIZUMI (古泉)" xml:space="preserve">
+    <value>いかがでしょう、空き地を借りて
+やってみるのは</value>
+  </data>
+  <data name="42 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、学校でやるわけにはいか
+ないし</value>
+  </data>
+  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……でもやっぱり、今晩は止めて
+おきましょ</value>
+  </data>
+  <data name="44 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あまり時間もないことだし
+それに花火は前にもやったわ</value>
+  </data>
+  <data name="45 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですか</value>
+  </data>
+  <data name="46 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、夏はまだこれからなんだし
+もう一回くらいやってもいいわね</value>
+  </data>
+  <data name="47 KOIZUMI (古泉)" xml:space="preserve">
+    <value>では、その際の場所確保はお任せ
+ください</value>
+  </data>
+  <data name="48 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>期待してるわ、古泉くん</value>
+  </data>
+</root>

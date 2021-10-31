@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんの笑顔は慈愛にあふれて
+いると思うのだが</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんの笑顔はいいわよね
+本当に嬉しそうに笑うし</value>
+  </data>
+  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でもちょっと困ったような笑顔も
+捨てがたいわ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>助けてあげなきゃって気分になる
+もの。で、それがどうかしたの？</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>いや、さっき妹が迷子になった時に
+笑顔に癒されたもんで</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>妹ちゃん無事に見つかって良かった
+わよね</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>……おまえもな</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは迷子になんてなってないし</value>
+  </data>
+  <data name="8 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>作用は迷子と同様だったがな</value>
+  </data>
+  <data name="9 MIKURU (みくる)" xml:space="preserve">
+    <value>笑顔って色んな種類がありますよね</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。種類はたくさんあるわね</value>
+  </data>
+  <data name="11 MIKURU (みくる)" xml:space="preserve">
+    <value>慈愛の笑顔ってどんなでしょう？</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>慈愛って言ったら、いつくしみ
+だから、母親的な笑顔かしらね</value>
+  </data>
+  <data name="13 MIKURU (みくる)" xml:space="preserve">
+    <value>母親的……</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>聖母の笑顔が良くそう言われてるし</value>
+  </data>
+  <data name="15 MIKURU (みくる)" xml:space="preserve">
+    <value>なるほど、わかりました</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何がわかったの、みくるちゃん？</value>
+  </data>
+  <data name="17 MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんてマザコンだったん
+ですねぇ</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええっ？　キョンがマザコンって</value>
+  </data>
+  <data name="19 MIKURU (みくる)" xml:space="preserve">
+    <value>慈愛の笑顔が好きなんだそうです</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンが？</value>
+  </data>
+  <data name="21 MIKURU (みくる)" xml:space="preserve">
+    <value>はい</value>
+  </data>
+  <data name="22 MIKURU (みくる)" xml:space="preserve">
+    <value>男の子は大半がマザコンだと
+言いますもんね</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええと……みくるちゃん、あのね</value>
+  </data>
+  <data name="24 MIKURU (みくる)" xml:space="preserve">
+    <value>なんでしょう？</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……ちょっとだけキョンに同情
+しちゃったわ</value>
+  </data>
+  <data name="26 NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるの笑顔は慈愛に
+満ちているらしい</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はあ、どうせそういうことを
+言ったのは、キョンでしょ？</value>
+  </data>
+  <data name="28 NAGATO (長門)" xml:space="preserve">
+    <value>そう。しかし、慈愛に満ちた笑顔が
+その他とどう違うのか</value>
+  </data>
+  <data name="29 NAGATO (長門)" xml:space="preserve">
+    <value>不確定要素が多く、分析が困難</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>慈愛……慈愛ね。たとえて言うなら
+お母さんが子供に微笑みかける笑顔</value>
+  </data>
+  <data name="31 NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるは未婚女性</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、たとえなのよ</value>
+  </data>
+  <data name="33 NAGATO (長門)" xml:space="preserve">
+    <value>……覚えておく</value>
+  </data>
+  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうなさい</value>
+  </data>
+  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんの笑顔は、慈愛にあふれ
+れていると彼が言ってました</value>
+  </data>
+  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンが？</value>
+  </data>
+  <data name="37 KOIZUMI (古泉)" xml:space="preserve">
+    <value>どうやら妹さんが迷子になった時の
+ことらしいのですが</value>
+  </data>
+  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、あの時……そうね
+みくるちゃんの笑顔はいいわよね</value>
+  </data>
+  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしでも時々、優しい顔で笑う
+なって癒される気がするわ</value>
+  </data>
+  <data name="40 KOIZUMI (古泉)" xml:space="preserve">
+    <value>確かに朝比奈さんは癒し系ですね</value>
+  </data>
+</root>

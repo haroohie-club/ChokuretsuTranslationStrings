@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>まあ、なんだ。古泉が有能だって
+ことは俺も認めてはいるんだが……</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、急に？</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>今回の合宿では、何かと役に立って
+るからな、古泉のやつ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。その反面、あんたはダメね
+何かといえば帰ろうとか疲れたとか</value>
+  </data>
+  <data name="4 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こっちには、こっちの事情があるん
+だ。世界の危機とやらのせいでな</value>
+  </data>
+  <data name="5 MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あのっ、古泉くんってすごい
+ですよね、物知りだし……</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、彼の有能さにはたまに舌を
+巻くわ。さすがは謎の転校生よね</value>
+  </data>
+  <data name="7 MIKURU (みくる)" xml:space="preserve">
+    <value>な、謎の転校生だから……なんです
+か？</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ。決まってるじゃない</value>
+  </data>
+  <data name="9 MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、そうなんでしょか……</value>
+  </data>
+  <data name="10 NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹は有能</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もちろんよ！　何しろあたしの眼鏡
+にかなうだけの人材だもの</value>
+  </data>
+  <data name="12 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、もちろん有希もみくるちゃんも
+有能だと思ってるわよ</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうでないのはキョンくらいよね</value>
+  </data>
+  <data name="15 KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕は有能であるべく努力をしてきた
+つもりなのですが</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは有能よ。あたしがそう
+認めてるじゃないの</value>
+  </data>
+  <data name="17 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ありがとうございます。涼宮さん</value>
+  </data>
+  <data name="18 KOIZUMI (古泉)" xml:space="preserve">
+    <value>どうやら彼も多少認めてくださった
+感触があったのですよ</value>
+  </data>
+  <data name="19 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ですがその時、とても微妙な表情を
+しておられたのです</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>否応なしに認めざるをえないって
+いう感じが気に入らなかったのかも</value>
+  </data>
+  <data name="21 KOIZUMI (古泉)" xml:space="preserve">
+    <value>複雑ですね、あんな顔で誉められる
+というのも……</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>しょうがないわね、キョンってば</value>
+  </data>
+</root>

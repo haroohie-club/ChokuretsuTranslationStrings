@@ -1,4 +1,5 @@
-﻿using Microsoft.Win32;
+﻿using FolderBrowserEx;
+using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -22,7 +23,7 @@ namespace HaruhiChokuretsuEditor
     /// </summary>
     public partial class MainWindow : Window
     {
-        private EvtFile _evtFile;
+        private FileSystemFile<EventFile> _evtFile;
         public MainWindow()
         {
             InitializeComponent();
@@ -30,22 +31,21 @@ namespace HaruhiChokuretsuEditor
 
         private void OpenEventsFileButton_Click(object sender, RoutedEventArgs e)
         {
-            OpenFileDialog openFileDialog = new OpenFileDialog
+            OpenFileDialog openFileDialog = new()
             {
                 Filter = "EVT file|evt*.bin"
             };
             if (openFileDialog.ShowDialog() == true)
             {
-                _evtFile = EvtFile.FromFile(openFileDialog.FileName, out string log);
-                eventsListBox.ItemsSource = _evtFile.EventFiles;
+                _evtFile = FileSystemFile<EventFile>.FromFile(openFileDialog.FileName);
+                eventsListBox.ItemsSource = _evtFile.Files;
                 eventsListBox.Items.Refresh();
-                logTextBlock.Text = log;
             }
         }
 
         private void SaveEventsFileButton_Click(object sender, RoutedEventArgs e)
         {
-            SaveFileDialog saveFileDialog = new SaveFileDialog
+            SaveFileDialog saveFileDialog = new()
             {
                 Filter = "EVT file|evt*.bin"
             };
@@ -58,9 +58,9 @@ namespace HaruhiChokuretsuEditor
 
         private void ExportEventsFileButton_Click(object sender, RoutedEventArgs e)
         {
-            SaveFileDialog saveFileDialog = new SaveFileDialog
+            SaveFileDialog saveFileDialog = new()
             {
-                Filter = "Event file|*.evt"
+                Filter = "BIN file|*.bin"
             };
             if (saveFileDialog.ShowDialog() == true)
             {
@@ -70,22 +70,131 @@ namespace HaruhiChokuretsuEditor
 
         private void ImportEventsFileButton_Click(object sender, RoutedEventArgs e)
         {
-            SaveFileDialog saveFileDialog = new SaveFileDialog
+            OpenFileDialog openFileDialog = new()
             {
-                Filter = "Event file|*.evt"
+                Filter = "BIN file|*.bin"
             };
-            if (saveFileDialog.ShowDialog() == true)
+            if (openFileDialog.ShowDialog() == true)
             {
-                File.WriteAllBytes(saveFileDialog.FileName, ((EventFile)eventsListBox.SelectedItem).CompressedData);
+                EventFile newEventFile = new();
+                newEventFile.Initialize(File.ReadAllBytes(openFileDialog.FileName), _evtFile.Files[eventsListBox.SelectedIndex].Offset);
+                _evtFile.Files[eventsListBox.SelectedIndex] = newEventFile;
+                eventsListBox.Items.Refresh();
             }
         }
 
         private void EventsListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             editStackPanel.Children.Clear();
-            foreach (DialogueLine dialogueLine in ((EventFile)eventsListBox.SelectedItem).DialogueLines)
+            frontPointersStackPanel.Children.Clear();
+            endPointersStackPanel.Children.Clear();
+            if (eventsListBox.SelectedIndex > 0)
             {
-                editStackPanel.Children.Add(new TextBox { Text = dialogueLine.Text });
+                EventFile selectedFile = (EventFile)eventsListBox.SelectedItem;
+                foreach (DialogueLine dialogueLine in selectedFile.DialogueLines)
+                {
+                    StackPanel dialogueStackPanel = new StackPanel { Orientation = Orientation.Horizontal };
+                    dialogueStackPanel.Children.Add(new TextBlock { Text = $"{dialogueLine.Speaker} ({dialogueLine.SpeakerName}):\t" });
+                    dialogueStackPanel.Children.Add(new TextBox { Text = dialogueLine.Text });
+                    editStackPanel.Children.Add(dialogueStackPanel);
+                }
+                foreach (int frontPointer in selectedFile.FrontPointers)
+                {
+                    StackPanel fpStackPanel = new StackPanel { Orientation = Orientation.Horizontal };
+                    fpStackPanel.Children.Add(new TextBlock { Text = $"0x{frontPointer:X8}\t\t" });
+                    fpStackPanel.Children.Add(new TextBox { Text = $"{BitConverter.ToInt32(selectedFile.Data.Skip(frontPointer).Take(4).ToArray()):X8}" });
+                    frontPointersStackPanel.Children.Add(fpStackPanel);
+                }
+                foreach (int endPointer in selectedFile.EndPointers)
+                {
+                    StackPanel epStackPanel = new StackPanel { Orientation = Orientation.Horizontal };
+                    epStackPanel.Children.Add(new TextBlock { Text = $"0x{endPointer:X8}\t\t" });
+                    epStackPanel.Children.Add(new TextBox { Text = $"{BitConverter.ToInt32(selectedFile.Data.Skip(endPointer).Take(4).ToArray()):X8}" });
+                    endPointersStackPanel.Children.Add(epStackPanel);
+                }
+            }
+        }
+
+        private void ExportStringsEventsFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (eventsListBox.SelectedIndex > 0)
+            {
+                EventFile selectedFile = (EventFile)eventsListBox.SelectedItem;
+                SaveFileDialog saveFileDialog = new()
+                {
+                    Filter = "RESX files|*.resx"
+                };
+                if (saveFileDialog.ShowDialog() == true)
+                {
+                    selectedFile.WriteResxFile(saveFileDialog.FileName);
+                }
+            }
+        }
+
+        private void ImportStringsEventsFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (eventsListBox.SelectedIndex > 0)
+            {
+                EventFile selectedFile = (EventFile)eventsListBox.SelectedItem;
+            }
+        }
+
+        private void ExportAllStringsEventsFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            FolderBrowserDialog folderBrowser = new()
+            {
+                AllowMultiSelect = false
+            };
+            if (folderBrowser.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+                foreach (EventFile eventFile in _evtFile.Files)
+                {
+                    eventFile.WriteResxFile(System.IO.Path.Combine(folderBrowser.SelectedFolder, $"{eventFile.Index}.resx"));
+                }
+            }
+        }
+
+        private void CompressFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openFileDialog = new()
+            {
+                Filter = "All files|*"
+            };
+            if (openFileDialog.ShowDialog() == true)
+            {
+                byte[] decompressedBytes = File.ReadAllBytes(openFileDialog.FileName);
+                byte[] compressedBytes = Helpers.CompressData(decompressedBytes);
+
+                SaveFileDialog saveFileDialog = new()
+                {
+                    Filter = "All files|*"
+                };
+                if (saveFileDialog.ShowDialog() == true)
+                {
+                    File.WriteAllBytes(saveFileDialog.FileName, compressedBytes);
+                }
+            }
+        }
+
+        private void DecompressFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openFileDialog = new()
+            {
+                Filter = "All files|*"
+            };
+            if (openFileDialog.ShowDialog() == true)
+            {
+                byte[] compressedBytes = File.ReadAllBytes(openFileDialog.FileName);
+                byte[] decompressedBytes = Helpers.DecompressData(compressedBytes);
+
+                SaveFileDialog saveFileDialog = new()
+                {
+                    Filter = "All files|*"
+                };
+                if (saveFileDialog.ShowDialog() == true)
+                {
+                    File.WriteAllBytes(saveFileDialog.FileName, decompressedBytes);
+                }
             }
         }
     }

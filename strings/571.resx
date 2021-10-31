@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん……？</value>
+  </data>
+  <data name="1 MIKURU (みくる)" xml:space="preserve">
+    <value>どうしたんですか？</value>
+  </data>
+  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あそこにいるの、コンピ研の連中
+じゃない？</value>
+  </data>
+  <data name="3 MIKURU (みくる)" xml:space="preserve">
+    <value>あ、ほんとだ</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっとあんたたち！</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなところでコソコソと
+なにやってるの！？</value>
+  </data>
+  <data name="6 MIKURU (みくる)" xml:space="preserve">
+    <value>&#xE;</value>
+  </data>
+  <data name="7 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>し、しまった見られた！？</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>怪しいわね、今隠したものを
+差し出しなさい！</value>
+  </data>
+  <data name="9 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>う……</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、早く！</value>
+  </data>
+  <data name="11 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>こ、これだよ……</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにこれ？</value>
+  </data>
+  <data name="13 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>節水を呼びかける貼り紙さ</value>
+  </data>
+  <data name="14 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>うちが生徒会から委託をうけたんだ</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん……
+で、なんで貼り替えてるの？</value>
+  </data>
+  <data name="16 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>それは、ちょっとミスが……</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ミスってこれね？</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにこれ、字が思いっきり横に伸び
+ちゃってるじゃない</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>しかも普通に水って書けばいいのに
+わざわざ『Ｈ２Ｏ』なんて書いて</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういうの、やる気が空回りしてる
+って言うのよね</value>
+  </data>
+  <data name="21 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>う、うわーん！</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、泣いちゃった</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく、だらしないわね</value>
+  </data>
+</root>

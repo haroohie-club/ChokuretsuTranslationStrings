@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 INFO (インフォ)" xml:space="preserve">
+    <value>制限時間が０になってしまいました
+“タイムオーバー”です</value>
+  </data>
+  <data name="1 INFO (インフォ)" xml:space="preserve">
+    <value>本来ならば、ここでメニューが表示
+され“リトライ”して解決パートを</value>
+  </data>
+  <data name="2 INFO (インフォ)" xml:space="preserve">
+    <value>やり直すか、データを“ロード”す
+るか、“タイトルへ戻る”か選択</value>
+  </data>
+  <data name="3 INFO (インフォ)" xml:space="preserve">
+    <value>することになりますが、今回だけは
+特別に先へ進む事ができます</value>
+  </data>
+  <data name="4 INFO (インフォ)" xml:space="preserve">
+    <value>本編の解決パートでは実際にゲーム
+オーバーになりますので</value>
+  </data>
+  <data name="5 INFO (インフォ)" xml:space="preserve">
+    <value>十分注意してください</value>
+  </data>
+  <data name="6 INFO (インフォ)" xml:space="preserve">
+    <value>今回は制限時間が足りなくなってし
+まいましたが、この後の探索パート</value>
+  </data>
+  <data name="7 INFO (インフォ)" xml:space="preserve">
+    <value>に向けて“攻略のヒント”を
+お知らせします</value>
+  </data>
+  <data name="8 INFO (インフォ)" xml:space="preserve">
+    <value>１　なるべく“ハルヒメーター”を
+右に寄せましょう</value>
+  </data>
+  <data name="9 INFO (インフォ)" xml:space="preserve">
+    <value>ハルヒメーターを右に寄せる事で
+直接的に制限時間ボーナスを</value>
+  </data>
+  <data name="10 INFO (インフォ)" xml:space="preserve">
+    <value>増やす事が可能ですが、それ以外に
+も、上画面の“ハルヒルート”に</value>
+  </data>
+  <data name="11 INFO (インフォ)" xml:space="preserve">
+    <value>影響を与えています</value>
+  </data>
+  <data name="12 INFO (インフォ)" xml:space="preserve">
+    <value>ハルヒメーターが多いほど足止め
+可能な“イベントポイント”の数や</value>
+  </data>
+  <data name="13 INFO (インフォ)" xml:space="preserve">
+    <value>配置位置が有利に変化しています
+探索パートでは可能な限り</value>
+  </data>
+  <data name="14 INFO (インフォ)" xml:space="preserve">
+    <value>ハルヒメーターを右に寄せる事を
+念頭に行動してみてください</value>
+  </data>
+  <data name="15 INFO (インフォ)" xml:space="preserve">
+    <value>２　なるべく多くの“トピック”を
+入手しておきましょう</value>
+  </data>
+  <data name="16 INFO (インフォ)" xml:space="preserve">
+    <value>特に“キャラトピック”と呼ばれる
+朝比奈みくる、長門有希、古泉一樹</value>
+  </data>
+  <data name="17 INFO (インフォ)" xml:space="preserve">
+    <value>のトピックを入手する事で
+操作キャラクターのパワーアップと</value>
+  </data>
+  <data name="18 INFO (インフォ)" xml:space="preserve">
+    <value>トピック使用による足止め効果が
+２重に取得できます</value>
+  </data>
+  <data name="19 INFO (インフォ)" xml:space="preserve">
+    <value>キャラトピックは足止めとして使用
+してしまうと、パワーアップ効果も</value>
+  </data>
+  <data name="20 INFO (インフォ)" xml:space="preserve">
+    <value>失われてしまいますが、解決パート
+の状況にあわせて“誰のトピックを</value>
+  </data>
+  <data name="21 INFO (インフォ)" xml:space="preserve">
+    <value>使用するか”戦略を練って使用する
+事で効果を最大限に発揮する事が</value>
+  </data>
+  <data name="22 INFO (インフォ)" xml:space="preserve">
+    <value>できるようになります</value>
+  </data>
+  <data name="23 INFO (インフォ)" xml:space="preserve">
+    <value>３　効率の良い“調査”を心がけ
+ましょう</value>
+  </data>
+  <data name="24 INFO (インフォ)" xml:space="preserve">
+    <value>同じところを何度も“調査”したり
+ポイント調査で１マスづつ調査を</value>
+  </data>
+  <data name="25 INFO (インフォ)" xml:space="preserve">
+    <value>していては時間のロスになってしま
+います</value>
+  </data>
+  <data name="26 INFO (インフォ)" xml:space="preserve">
+    <value>慣れるまでは一回範囲調査する度に
+“Ｙボタン”でポーズして</value>
+  </data>
+  <data name="27 INFO (インフォ)" xml:space="preserve">
+    <value>全体ＭＡＰを確認して次の行動を
+考えると良いでしょう</value>
+  </data>
+  <data name="28 INFO (インフォ)" xml:space="preserve">
+    <value>４　“メイントピックを入手”
+しましょう</value>
+  </data>
+  <data name="29 INFO (インフォ)" xml:space="preserve">
+    <value>アクシデントが発生してしまうと
+大幅に制限時間が減少します</value>
+  </data>
+  <data name="30 INFO (インフォ)" xml:space="preserve">
+    <value>メイントピックを入手しておく事で
+根本的なペナルティを回避出来ます</value>
+  </data>
+  <data name="31 INFO (インフォ)" xml:space="preserve">
+    <value>“目的配分”の際、『キョンを１人
+で行動』させると</value>
+  </data>
+  <data name="32 INFO (インフォ)" xml:space="preserve">
+    <value>“その目的ルートで入手可能なメイ
+ントピックを全て入手”できます</value>
+  </data>
+  <data name="33 INFO (インフォ)" xml:space="preserve">
+    <value>一通り各“目的ルート”で入手可能
+なメイントピックを確認しておくと</value>
+  </data>
+  <data name="34 INFO (インフォ)" xml:space="preserve">
+    <value>良いでしょう</value>
+  </data>
+  <data name="35 INFO (インフォ)" xml:space="preserve">
+    <value>『どうしてもクリアできない！』
+『速く先に進みたい！』という人は</value>
+  </data>
+  <data name="36 INFO (インフォ)" xml:space="preserve">
+    <value>“ＣＯＮＦＩＧ”メニューから“シ
+ステム～解決パート”を選択して</value>
+  </data>
+  <data name="37 INFO (インフォ)" xml:space="preserve">
+    <value>“トピックストックモード”を
+“ＯＮ”に変更してみてください</value>
+  </data>
+  <data name="38 INFO (インフォ)" xml:space="preserve">
+    <value>各解決パートで使用可能なトピック
+から“入手したことのある全て”を</value>
+  </data>
+  <data name="39 INFO (インフォ)" xml:space="preserve">
+    <value>もって行く事が出来ます</value>
+  </data>
+  <data name="40 INFO (インフォ)" xml:space="preserve">
+    <value>探索パートを何度かプレイしてデー
+タを保存すれば十分な量のトピック</value>
+  </data>
+  <data name="41 INFO (インフォ)" xml:space="preserve">
+    <value>を持って解決パートをプレイする事
+ができます</value>
+  </data>
+  <data name="42 INFO (インフォ)" xml:space="preserve">
+    <value>“トピックストックモード”を
+“ＯＮ”に変更しても</value>
+  </data>
+  <data name="43 INFO (インフォ)" xml:space="preserve">
+    <value>ゲーム内容には特に影響は
+ありません</value>
+  </data>
+</root>

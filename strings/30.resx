@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>今日のバーベキュー、レシピは
+朝比奈さんが考案したんだが</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だからなによ？</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>お前も、少しはそういった女性らし
+い一面を見せたらどうだ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>料理イコール女性らしさ、っていう
+その概念が理解できないわ</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたの言う通りなら、コックや
+シェフは女性ばかりのはずでしょ</value>
+  </data>
+  <data name="5 KYON (キョン)" xml:space="preserve">
+    <value>う……それは、まあ、そうだが</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バカなこと言ってないで、早く行く
+わよ</value>
+  </data>
+  <data name="7 MIKURU (みくる)" xml:space="preserve">
+    <value>あのっ、お夕食のバーベキュー
+いかがでしたかっ？</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ、存分に楽しんだわ！
+また今度やりたいわね</value>
+  </data>
+  <data name="9 MIKURU (みくる)" xml:space="preserve">
+    <value>お食事はどうでした？　何か嫌いな
+ものとか無かったですか？</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どれも美味しかったけど……
+どうして？</value>
+  </data>
+  <data name="11 MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、食材を選んだの、あたし
+なんです。トウモロコシとか</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>トウモロコシも良かったわ。焼くと
+香ばしいし。大正解ね</value>
+  </data>
+  <data name="13 MIKURU (みくる)" xml:space="preserve">
+    <value>よかったぁ……</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、みくるちゃんにはバーベ
+キュー功労賞をあげるわ</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あとで腕章を進呈するわね
+おもいっきり、威張ってもいいわよ</value>
+  </data>
+  <data name="16 MIKURU (みくる)" xml:space="preserve">
+    <value>あ、ありがとうございますぅ……</value>
+  </data>
+  <data name="17 NAGATO (長門)" xml:space="preserve">
+    <value>レシピ</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　なに？　どうしたの？</value>
+  </data>
+  <data name="19 NAGATO (長門)" xml:space="preserve">
+    <value>夕食の食材と構成は、朝比奈みくる
+の考案に基づくレシピ</value>
+  </data>
+  <data name="20 NAGATO (長門)" xml:space="preserve">
+    <value>栄養のバランスを重視、カロリーの
+適量摂取を目的とした献立</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほどね。そういえば、野菜も
+しっかり食べたような気がするわ</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バーベキューだし、レシピと呼べる
+かどうかは疑問だけど</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも突然、どうしたのよ？</value>
+  </data>
+  <data name="24 NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるの功績</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふむ、そうね。ご飯がおいしかった
+のは、みくるちゃんのお手柄ね</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、バーベキューが楽しかった
+のは、団員みんなの功績よ</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、もちろんあたなもねっ！</value>
+  </data>
+  <data name="28 NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そういえば、涼宮さんはご存知
+ですか？</value>
+  </data>
+  <data name="30 KOIZUMI (古泉)" xml:space="preserve">
+    <value>今日のバーベキュー、素材の選択は
+朝比奈さんが考案したそうですよ</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんな話は、後で聞くわ！</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今はとにかく、急いでるの！</value>
+  </data>
+  <data name="33 KOIZUMI (古泉)" xml:space="preserve">
+    <value>これはどうも、話の振り方を間違え
+てしまったようですね……</value>
+  </data>
+</root>

@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>カセットテープは拝借してきたし
+これで準備万端ね</value>
+  </data>
+  <data name="1 KYON (キョン)" xml:space="preserve">
+    <value>そんなもの、何に使うんだ？</value>
+  </data>
+  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはこれからわかるわよ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>準備は山ほどあるし、早く体育館へ
+行きましょ</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>なんのテープか知らないが
+音楽ならこれを使ったらどうだ？</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＣＤ？　どうしたのこれ</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>昼間買い物した時にもらったヤツだ</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん……あ、入ってるじゃない</value>
+  </data>
+  <data name="8 KYON (キョン)" xml:space="preserve">
+    <value>ん？　何が入ってるんだ？</value>
+  </data>
+  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうせならＣＤの方がいいわよね
+音もいいしリピートも楽だし……</value>
+  </data>
+  <data name="10 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>よくわからんが、思いもよらず
+時間が稼げたみたいだな</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x15;</value>
+  </data>
+  <data name="12 MIKURU (みくる)" xml:space="preserve">
+    <value>あの、それなんですか？</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ないしょ。後でわかるわよ</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それより、急ぐわよみくるちゃん
+準備は山ほどあるんだから！</value>
+  </data>
+  <data name="15 MIKURU (みくる)" xml:space="preserve">
+    <value>あの、これ使えませんか？</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは？</value>
+  </data>
+  <data name="17 MIKURU (みくる)" xml:space="preserve">
+    <value>お昼に、青果店のおじさんに貰った
+んです</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ……あ、入ってるじゃない</value>
+  </data>
+  <data name="19 MIKURU (みくる)" xml:space="preserve">
+    <value>え？　なにがですか？</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうせならこっちを使った方がいい
+わよね……</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、わざわざ戻って取ってくるの
+も面倒だし……うーん</value>
+  </data>
+  <data name="22 MIKURU (みくる)" xml:space="preserve">
+    <value>え、えっと、よくわからないです
+けど、ゆっくり考えてください</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さあ、準備は山ほど残ってるし
+急ぐわよ、有希</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x15;</value>
+  </data>
+  <data name="25 NAGATO (長門)" xml:space="preserve">
+    <value>待って</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　どうしたの</value>
+  </data>
+  <data name="27 NAGATO (長門)" xml:space="preserve">
+    <value>これを</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＢＧＭ集？　どうしたの？</value>
+  </data>
+  <data name="29 NAGATO (長門)" xml:space="preserve">
+    <value>もらった</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん……あっ、これにも入ってる</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん、どうせならカセットより
+ＣＤの方がいいわよね……</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、戻って取り替えるのも面倒
+だし……</value>
+  </data>
+  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x15;</value>
+  </data>
+  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ずいぶん古いラジカセですが
+それで何か音楽をかけるのですか？</value>
+  </data>
+  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ。詳しいことは体育館に
+着いてから説明するわ</value>
+  </data>
+  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>とにかく急ぎましょ</value>
+  </data>
+  <data name="37 KOIZUMI (古泉)" xml:space="preserve">
+    <value>でしたら、これなどは使えないで
+しょうか？</value>
+  </data>
+  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、ＢＧＭ集？
+どうしたの、これ？</value>
+  </data>
+  <data name="39 KOIZUMI (古泉)" xml:space="preserve">
+    <value>昼間、買い出しの際にいただいた
+そうです</value>
+  </data>
+  <data name="40 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん……あ、これにも入ってるわ</value>
+  </data>
+  <data name="41 KOIZUMI (古泉)" xml:space="preserve">
+    <value>お気に召しましたか？</value>
+  </data>
+  <data name="42 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くん、お手柄よ</value>
+  </data>
+  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これで面倒なラジカセを使わなくて
+すみそうだわ</value>
+  </data>
+</root>

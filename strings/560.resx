@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、部室棟の方が騒がしくない？
+早く行ってみましょう</value>
+  </data>
+  <data name="1 KYON (キョン)" xml:space="preserve">
+    <value>気のせいじゃないか？</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>それより、さっきから時々落ちてる
+花びらが気にならないか？</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、ほんとね
+言われるまで気づかなかったわ</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>歩く木と、花びら、何か関係がある
+と思うのは自然な流れだろ</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やっぱり校舎内のどこかを
+歩き回ってるのかしら？</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>その可能性はないとは言えないな</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>決めたわ。もう少し、本館の方を
+調べてみましょ</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x14;</value>
+  </data>
+  <data name="9 MIKURU (みくる)" xml:space="preserve">
+    <value>あの……涼宮さん</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに？</value>
+  </data>
+  <data name="11 MIKURU (みくる)" xml:space="preserve">
+    <value>この花びらなんですけど……</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>花びら？</value>
+  </data>
+  <data name="13 MIKURU (みくる)" xml:space="preserve">
+    <value>時々落ちてるんです
+ほら、あそことか</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほんとだわ、全然気づかなかった</value>
+  </data>
+  <data name="15 MIKURU (みくる)" xml:space="preserve">
+    <value>これってなんなんでしょうか</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もしかすると、校舎内を歩いた木が
+落として行ったのかも</value>
+  </data>
+  <data name="17 MIKURU (みくる)" xml:space="preserve">
+    <value>ええ！？</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>気になるわね、戻って本館の方を
+調べてきましょう</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x14;</value>
+  </data>
+  <data name="20 NAGATO (長門)" xml:space="preserve">
+    <value>待って</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの有希？</value>
+  </data>
+  <data name="22 NAGATO (長門)" xml:space="preserve">
+    <value>これ……</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それ……花びらかしら？</value>
+  </data>
+  <data name="24 NAGATO (長門)" xml:space="preserve">
+    <value>落ちていた</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>落ちてたって、どこに</value>
+  </data>
+  <data name="26 NAGATO (長門)" xml:space="preserve">
+    <value>校舎の中
+複数の場所に点在している</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……それは気になるわね</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もしかして、花びらを落とすような
+何かが、校舎にいるってことかしら</value>
+  </data>
+  <data name="29 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと、戻って見てきましょ</value>
+  </data>
+  <data name="31 NAGATO (長門)" xml:space="preserve">
+    <value>……分かった</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x14;</value>
+  </data>
+  <data name="33 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さん</value>
+  </data>
+  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに？　今、部室棟の方から……</value>
+  </data>
+  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+    <value>これを見てください</value>
+  </data>
+  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにこれ、花びら？</value>
+  </data>
+  <data name="37 KOIZUMI (古泉)" xml:space="preserve">
+    <value>はい。実は、校舎を歩いている間も
+時折落ちているのを見かけました</value>
+  </data>
+  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういえば、どこかで見かけた
+ような気もするわね…………</value>
+  </data>
+  <data name="39 KOIZUMI (古泉)" xml:space="preserve">
+    <value>一見、なんの変哲もない物ですが
+なぜこんな場所に？</value>
+  </data>
+  <data name="40 KOIZUMI (古泉)" xml:space="preserve">
+    <value>という疑問がふと浮かんできた
+のですが</value>
+  </data>
+  <data name="41 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>確かにその通りね</value>
+  </data>
+  <data name="42 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もしかして、こんな物を落とした
+何かが校舎内を徘徊してるのかしら</value>
+  </data>
+  <data name="43 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうかもしれません</value>
+  </data>
+  <data name="44 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……決めたわ</value>
+  </data>
+  <data name="45 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>少し戻って調べてみましょう</value>
+  </data>
+  <data name="46 KOIZUMI (古泉)" xml:space="preserve">
+    <value>分かりました
+では行きましょう</value>
+  </data>
+</root>

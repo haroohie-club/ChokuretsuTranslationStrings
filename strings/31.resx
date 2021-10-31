@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>そういえば、今日は便利なものを
+見たぞ</value>
+  </data>
+  <data name="1 KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんが持っていた、キーホル
+ダーが実は小さな電卓だった</value>
+  </data>
+  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……それで？</value>
+  </data>
+  <data name="3 KYON (キョン)" xml:space="preserve">
+    <value>買い物の計算に役立ったんだ。ま
+さかあの小ささで電卓だったとはな</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あのねキョン。携帯電話に電卓機能
+くらい、ついてるでしょ</value>
+  </data>
+  <data name="5 KYON (キョン)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>そういえば、そうだったよな</value>
+  </data>
+  <data name="7 MIKURU (みくる)" xml:space="preserve">
+    <value>あ、そうだ
+こんなのがあるんですよ</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにそれ？　キーホルダー？</value>
+  </data>
+  <data name="9 MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、これ、こんなに小さいのに
+実は電卓なんです</value>
+  </data>
+  <data name="10 MIKURU (みくる)" xml:space="preserve">
+    <value>今日、買出しの計算をするときにも
+役に立ったんですよ～</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へーえ。逆に小さすぎて使い難そう
+な感じもするけど……</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>携帯電話の電卓機能じゃ、ダメだっ
+たの？</value>
+  </data>
+  <data name="13 MIKURU (みくる)" xml:space="preserve">
+    <value>えっと……</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>機能があるのは知ってるんですけど
+どうやって呼び出すのか知らなくて</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほどね。なんかみくるちゃん
+らしいわよね</value>
+  </data>
+  <data name="16 NAGATO (長門)" xml:space="preserve">
+    <value>これは、朝比奈みくるの所有する
+小型電子計算機</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どれ？　これが計算機？　ふうん
+ずいぶんと小さいのね</value>
+  </data>
+  <data name="18 NAGATO (長門)" xml:space="preserve">
+    <value>機能は四則演算に限定されている</value>
+  </data>
+  <data name="19 NAGATO (長門)" xml:space="preserve">
+    <value>でも、朝比奈みくるは便利と言って
+いた</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もしもの時には、あると役に立つ
+かもしれないわね</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>けど今時、携帯電話にも電卓機能は
+ついてると思うけど</value>
+  </data>
+  <data name="22 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="23 KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんのキーホルダーは、もう
+ご覧になりましたか？</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんのキーホルダー？</value>
+  </data>
+  <data name="25 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、小さな電卓になっているそう
+ですよ。買出しで活躍したそうです</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん……</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>買い物の計算くらいなら、暗算でも
+問題ないと思うけど</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でもま、みくるちゃんらしいと言え
+ばみくるちゃんらしいわね</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあいいわ。さあ、急ぎましょ</value>
+  </data>
+</root>

@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やだ、もうこんな時間じゃない
+ちょっとグズグズしすぎたわ</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はいキョン、あんた荷物持って</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>おい、なんなんだよ。こんなもの
+何に使うんだ？</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいから、ダッシュよダッシュ
+体育館へ急ぐわよ</value>
+  </data>
+  <data name="4 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>にゃ～～</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに？　今の……</value>
+  </data>
+  <data name="6 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>にゃぁ</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やだ、猫じゃない</value>
+  </data>
+  <data name="8 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あれは、昼間商店街で見かけた猫か
+もしかしてここまで着いて来た？</value>
+  </data>
+  <data name="9 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>にゃぁ</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>この子、すごく人なつっこいわ
+よしよし……お腹空いてるのかしら</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、キョン
+何か食べ物持ってない？</value>
+  </data>
+  <data name="12 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>運が良く時間稼ぎができたな
+のら猫の恩返しってところか</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、走るわよ</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>ええっ！？</value>
+  </data>
+  <data name="15 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>にゃあ</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え……？</value>
+  </data>
+  <data name="17 MIKURU (みくる)" xml:space="preserve">
+    <value>あ、涼宮さん、猫ですよ猫！</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほんとだわ、どこから迷い込んで
+来たのかしら</value>
+  </data>
+  <data name="19 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>にゃぁあ</value>
+  </data>
+  <data name="20 MIKURU (みくる)" xml:space="preserve">
+    <value>ひゃっ、ふふふ……そんなに舐め
+ないでください</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、ずいぶん気に入られ
+たみたいね</value>
+  </data>
+  <data name="22 MIKURU (みくる)" xml:space="preserve">
+    <value>はい。すごく可愛いです</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何か食べ物でもあればよかったん
+だけどね</value>
+  </data>
+  <data name="24 MIKURU (みくる)" xml:space="preserve">
+    <value>ごめんね、猫さん</value>
+  </data>
+  <data name="25 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>にゃあ～</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、どこ行くのよ！</value>
+  </data>
+  <data name="27 MIKURU (みくる)" xml:space="preserve">
+    <value>ああ……行っちゃいました</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、時間が勿体ないわ
+走りましょう</value>
+  </data>
+  <data name="29 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　どうしたの？</value>
+  </data>
+  <data name="31 NAGATO (長門)" xml:space="preserve">
+    <value>あれ</value>
+  </data>
+  <data name="32 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>にゃあ</value>
+  </data>
+  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>猫じゃない、どこから
+入り込んだのかしら</value>
+  </data>
+  <data name="34 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>にゃあ</value>
+  </data>
+  <data name="35 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの、有希？　頭でも撫で
+たいの？　いいわよちょっとくらい</value>
+  </data>
+  <data name="37 NAGATO (長門)" xml:space="preserve">
+    <value>……分かった</value>
+  </data>
+  <data name="38 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>にゃあ</value>
+  </data>
+  <data name="39 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="40 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>うにゃにゃぁ……</value>
+  </data>
+  <data name="41 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="42 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>にゃあ～</value>
+  </data>
+  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと、いつまで撫でてるの</value>
+  </data>
+  <data name="44 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="45 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……はぁ、仕方ないわね
+もうちょっとだけよ</value>
+  </data>
+  <data name="46 NAGATO (長門)" xml:space="preserve">
+    <value>分かった</value>
+  </data>
+  <data name="47 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くん、荷物持って</value>
+  </data>
+  <data name="48 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、お任せください</value>
+  </data>
+  <data name="49 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みんな待ってるだろうし
+少し急ぎましょ</value>
+  </data>
+  <data name="50 KOIZUMI (古泉)" xml:space="preserve">
+    <value>……おや？</value>
+  </data>
+  <data name="51 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの？</value>
+  </data>
+  <data name="52 KOIZUMI (古泉)" xml:space="preserve">
+    <value>今、何か動いたような</value>
+  </data>
+  <data name="53 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え！？　もしかして、霊とか</value>
+  </data>
+  <data name="54 KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、どうでしょうか……</value>
+  </data>
+  <data name="55 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>にゃあ</value>
+  </data>
+  <data name="56 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ……</value>
+  </data>
+  <data name="57 KOIZUMI (古泉)" xml:space="preserve">
+    <value>どうやら正体はこの猫だった
+ようですね</value>
+  </data>
+  <data name="58 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう、紛らわしいわねえ</value>
+  </data>
+  <data name="59 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>にゃあ</value>
+  </data>
+  <data name="60 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんに甘えているようですね</value>
+  </data>
+  <data name="61 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>悪いけど、あたしは食べ物なんか
+持ってないわよ</value>
+  </data>
+  <data name="62 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>うにゃぁ</value>
+  </data>
+  <data name="63 KOIZUMI (古泉)" xml:space="preserve">
+    <value>お腹が空いているわけでもなさそう
+ですね</value>
+  </data>
+  <data name="64 KOIZUMI (古泉)" xml:space="preserve">
+    <value>どちらかと言うと、涼宮さんの事を
+気に入ったのでは？</value>
+  </data>
+  <data name="65 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>にゃあ</value>
+  </data>
+  <data name="66 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう、しょがないわねえ</value>
+  </data>
+  <data name="67 STRAY_CAT (野良猫)" xml:space="preserve">
+    <value>にゃあ～</value>
+  </data>
+  <data name="68 KOIZUMI (古泉)" xml:space="preserve">
+    <value>これは、少しは時間稼ぎになったで
+しょうか</value>
+  </data>
+</root>

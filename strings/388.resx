@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>$8ともかく、#W20ハルヒもこれで満足した
+だろう</value>
+  </data>
+  <data name="1 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$9残念ながら、#W30そう上手くいくとは
+思えませんね</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>$10なんだと、#W20古泉……？</value>
+  </data>
+  <data name="3 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$10まあ、#W40$8考えてもみてください</value>
+  </data>
+  <data name="4 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$8コンピ研の方々が遭遇したという
+怪現象は、#W50あと３つあります</value>
+  </data>
+  <data name="5 KYON (キョン)" xml:space="preserve">
+    <value>$10あ#W20…#W10…</value>
+  </data>
+  <data name="6 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$10涼宮さんのことです、#W50このまま何事
+もなく…#W10…#W10$8とはいかないでしょう</value>
+  </data>
+  <data name="7 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$11なんてこった、#W30$9古泉の言うことには#W20
+なんら異論の余地がない</value>
+  </data>
+  <data name="8 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10それどころか#W10俺の経験からくるカン
+ってやつが#W10激しく警告を発している</value>
+  </data>
+  <data name="9 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$9“こんなものはまだ序の口だ”#W20と</value>
+  </data>
+  <data name="10 KYON (キョン)" xml:space="preserve">
+    <value>$10……長門、#W30ひとつ確認したいんだが</value>
+  </data>
+  <data name="11 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="12 NAGATO (長門)" xml:space="preserve">
+    <value>$10なに？</value>
+  </data>
+  <data name="13 KYON (キョン)" xml:space="preserve">
+    <value>$10その情報生命体とやらは#W30
+まだ他にもいるのか？</value>
+  </data>
+  <data name="14 NAGATO (長門)" xml:space="preserve">
+    <value>$10存在する</value>
+  </data>
+  <data name="15 NAGATO (長門)" xml:space="preserve">
+    <value>$10現在#W20確認可能な個体数は――</value>
+  </data>
+  <data name="16 KYON (キョン)" xml:space="preserve">
+    <value>$10い、いや！　#W20$7言わなくていい！</value>
+  </data>
+  <data name="17 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10危うく、#W30$8聞きたくもない答えが
+返ってくるところだった</value>
+  </data>
+  <data name="18 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$8これは#W20個人的な意見なのですが#W70
+３回で済めば、#W30まだマシな方かと</value>
+  </data>
+  <data name="19 KYON (キョン)" xml:space="preserve">
+    <value>$10なっ#W20…#W10…#W20！？</value>
+  </data>
+  <data name="20 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="21 NAGATO (長門)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$6いつまで待たせるのよ！　#W10キョン！</value>
+  </data>
+  <data name="23 KYON (キョン)" xml:space="preserve">
+    <value>$10ハルヒ#W20…#W10…</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8言っておくけど、#W20$7あたしは
+これっぽっちも満足してないわ！</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8だいたい、#W10あたしがほしいのは#W10
+新七不思議に相応しい怪談なの</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8こんな三流ミステリーみたいな結末
+だったらいっそ、ない方がマシよ</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8分かった？　#W20$7分かったらさっさと
+行くわよ！</value>
+  </data>
+  <data name="28 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$12なんてこった#W20…#W10…</value>
+  </data>
+  <data name="29 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10ハルヒのやつ、#W30$9満足するどころか#W10
+余計に火がついちまってるときた</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9古泉くん、次は？</value>
+  </data>
+  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$9はい、#W20涼宮さん</value>
+  </data>
+  <data name="32 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$8時間的に#W30音楽室のピアノの件が#W20
+ちょうど良いかと</value>
+  </data>
+  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10じゃあ、それに決定ね！</value>
+  </data>
+  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10今度こそ、#W20ばっちりこの目で#W10
+$9本物の怪奇現象を拝んでやるわ！</value>
+  </data>
+</root>

@@ -19,24 +19,48 @@
                         <Button x:Name="saveEventsFileButton" Content="Save" HorizontalAlignment="Left" Click="SaveEventsFileButton_Click" />
                         <Button x:Name="exportEventsFileButton" Content="Export" HorizontalAlignment="Left" Click="ExportEventsFileButton_Click" />
                         <Button x:Name="importEventsFileButton" Content="Import" HorizontalAlignment="Left" Click="ImportEventsFileButton_Click" />
+                        <Button x:Name="exportStringsEventsFileButton" Content="Export Strings" HorizontalAlignment="Left" Click="ExportStringsEventsFileButton_Click" />
+                        <Button x:Name="importStringsEventsFileButton" Content="Import Strings" HorizontalAlignment="Left" Click="ImportStringsEventsFileButton_Click" />
+                        <Button x:Name="exportAllStringsEventsFileButton" Content="Export All Strings" HorizontalAlignment="Left" Click="ExportAllStringsEventsFileButton_Click" />
                     </ToolBar>
                     <ListBox x:Name="eventsListBox" Margin="0,30,521,0" SelectionChanged="EventsListBox_SelectionChanged" Grid.ColumnSpan="2" />
-                    <ScrollViewer Grid.Column="1" Margin="175,30,0,0">
-                        <DockPanel>
-                            <StackPanel x:Name="editStackPanel" />
-                        </DockPanel>
-                    </ScrollViewer>
+                    <StackPanel Grid.Column="1" Margin="175,30,0,0">
+                        <TabControl>
+                            <TabItem Header="Dialogue">
+                                <ScrollViewer Grid.Column="1" Height="350" >
+                                    <DockPanel>
+                                        <StackPanel x:Name="editStackPanel"/>
+                                    </DockPanel>
+                                </ScrollViewer>
+                            </TabItem>
+                            <TabItem Header="Front Pointers">
+                                <ScrollViewer Grid.Column="1" Height="350" >
+                                    <DockPanel>
+                                        <StackPanel x:Name="frontPointersStackPanel"/>
+                                    </DockPanel>
+                                </ScrollViewer>
+                            </TabItem>
+                            <TabItem Header="End Pointers">
+                                <ScrollViewer Grid.Column="1" Height="350" >
+                                    <DockPanel>
+                                        <StackPanel x:Name="endPointersStackPanel"/>
+                                    </DockPanel>
+                                </ScrollViewer>
+                            </TabItem>
+                        </TabControl>
+                    </StackPanel>
                 </Grid>
             </TabItem>
-            <TabItem Header="Log">
+            <TabItem Header="Compression">
                 <Grid>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="99*"/>
                         <ColumnDefinition Width="695*"/>
                     </Grid.ColumnDefinitions>
-                    <ScrollViewer Grid.ColumnSpan="2">
-                        <TextBlock x:Name="logTextBlock" Text="" />
-                    </ScrollViewer>
+                    <ToolBar x:Name="compressionToolBar" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="1043" Grid.ColumnSpan="2">
+                        <Button x:Name="compressFileButton" Content="Compress File" HorizontalAlignment="Left" Click="CompressFileButton_Click" />
+                        <Button x:Name="decompressFileButton" Content="Decompress File" HorizontalAlignment="Left" Click="DecompressFileButton_Click"/>
+                    </ToolBar>
                 </Grid>
             </TabItem>
         </TabControl>

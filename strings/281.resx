@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 MIKURU (みくる)" xml:space="preserve">
+    <value>さっきは、本当にごめんなさい
+紛らわしいことしてしまって……</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>紛らわしいこと？　なんの話？</value>
+  </data>
+  <data name="2 MIKURU (みくる)" xml:space="preserve">
+    <value>コンピ研の部室で泣いちゃった
+せいで、皆にヘンな誤解を……</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あー、そのこと。別に気にして
+ないわよ。過ぎたことだし</value>
+  </data>
+  <data name="4 MIKURU (みくる)" xml:space="preserve">
+    <value>でも、そのせいで涼宮さんを
+怒らせちゃいましたし……</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>違うわよ。怒ったのはコンピ研に
+対してよ。みくるちゃんは無罪</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、コンピ研の連中も別に
+悪くなかったみたいだけど</value>
+  </data>
+  <data name="7 MIKURU (みくる)" xml:space="preserve">
+    <value>あの後、データが消えちゃった件も
+含めて、おわびしたって聞きました</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>おわび？　誰が？</value>
+  </data>
+  <data name="9 MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんと、長門さんが……</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと待って、その話、初耳だわ</value>
+  </data>
+  <data name="11 MIKURU (みくる)" xml:space="preserve">
+    <value>ええと、あたしのせいで涼宮さんが
+怒って、そのせいでコンセントが</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いきさつはいいから。その先を
+聞かせてちょうだい</value>
+  </data>
+  <data name="13 MIKURU (みくる)" xml:space="preserve">
+    <value>それで……その、データが消えた
+おわびに、二人が頭を下げたって</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>二人っていうのは、キョンと有希
+なのね？</value>
+  </data>
+  <data name="15 MIKURU (みくる)" xml:space="preserve">
+    <value>はい。そう聞いてます</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希が自発的に動くとは思えない
+から、キョンの仕業ね……？</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>団長に断りもなしに、勝手に謝りに
+行くなんて、問題だわ！</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンには後で、みっちり説教を
+かましておかなきゃ</value>
+  </data>
+  <data name="19 MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そんな。キョンくんはただ
+迷惑をかけたおわびのつもりで……</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、それは間違ってるわ</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>コンピ研が最初から、はっきりと
+誤解だって言えばよかったのよ</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>紛らわしかったコンピ研にも問題が
+あったわ。ケンカ両成敗ってやつね</value>
+  </data>
+  <data name="23 MIKURU (みくる)" xml:space="preserve">
+    <value>#P06一方的に、あたしたちが悪かった
+ような気が……</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに？　みくるちゃん</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>声が小さくて
+聞き取れなかったんだけど</value>
+  </data>
+  <data name="26 MIKURU (みくる)" xml:space="preserve">
+    <value>な、なんでもないですぅ</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希まで巻き込んじゃうなんて
+キョンは何を考えてるのかしら</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあいいわ。それもこれも全部
+合宿後の反省会で話しましょう</value>
+  </data>
+  <data name="29 MIKURU (みくる)" xml:space="preserve">
+    <value>は、反省会を、やるんですか……？</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その時の気分次第ね。今はとにかく
+キョンたちと合流しましょう</value>
+  </data>
+  <data name="31 MIKURU (みくる)" xml:space="preserve">
+    <value>ちょっとだけ、時間が稼げたかな</value>
+  </data>
+  <data name="32 MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくん、今のうちにがんばって</value>
+  </data>
+</root>

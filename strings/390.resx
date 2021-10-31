@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9誰もいない音楽室から#W30ピアノの音が
+聞こえてきた？</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10定番もいいとこだけど、#W20$9そういう
+話こそ、#W10新七不思議に相応しいわ</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>$8なあ、ハルヒ。#W40これくらいにして
+さっさと引き上げないか？</value>
+  </data>
+  <data name="3 KYON (キョン)" xml:space="preserve">
+    <value>$7どうせ、さっきみたいにコンピ研の
+連中の勘違いに決まってるよな</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9そうはいかないわ！#W20
+$8まだあと３つも残ってるんだから！</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9全部きちんと確認するまで#W10$8終われる
+わけがないでしょ！</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="7 TSURUYA (鶴屋)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="8 TSURUYA (鶴屋)" xml:space="preserve">
+    <value>$7やっほー！　#W10元気かね、みくるっ
+ハルにゃん、その他諸君！</value>
+  </data>
+  <data name="9 MIKURU (朝比奈)" xml:space="preserve">
+    <value>$10鶴屋さん#W10…#W10…#W20$8どうしたんですか？</value>
+  </data>
+  <data name="10 TSURUYA (鶴屋)" xml:space="preserve">
+    <value>$8ちょいと近くまで出てきたからさ</value>
+  </data>
+  <data name="11 TSURUYA (鶴屋)" xml:space="preserve">
+    <value>$8みくるが学校にいるって聞いてたし#W20
+$7ついでに覗いてみようかと思ってね</value>
+  </data>
+  <data name="12 TSURUYA (鶴屋)" xml:space="preserve">
+    <value>$8ま、#W20陣中見舞いってやつだよっ</value>
+  </data>
+  <data name="13 TSURUYA (鶴屋)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="14 MIKURU (朝比奈)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="16 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="17 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$8証言によれば、#W50ピアノの音は#W30毎日#W20ほ
+ぼ同じ時間に聞こえてくるそうです</value>
+  </data>
+  <data name="18 KOIZUMI (古泉)" xml:space="preserve">
+    <value>#DP</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10ふ～ん#W20…#W10…#W20$8分かったわ！</value>
+  </data>
+  <data name="20 KYON (キョン)" xml:space="preserve">
+    <value>$10何がだ</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8きっと#W20無念のまま亡くなった
+天才美少女ピアニストの霊よ！</value>
+  </data>
+  <data name="22 KYON (キョン)" xml:space="preserve">
+    <value>$9天才だの美少女だの、#W40なぜおまえが
+勝手に決めるんだ</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10そんなの#W20…#W10…</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$7そっちの方がおもしろいからに
+決まってるじゃない！</value>
+  </data>
+  <data name="25 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="27 MIKURU (朝比奈)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="28 MIKURU (朝比奈)" xml:space="preserve">
+    <value>$9なんだか不思議なメロディですね</value>
+  </data>
+  <data name="29 MIKURU (朝比奈)" xml:space="preserve">
+    <value>$10まるで、#W50何かを訴えかけてるみたい</value>
+  </data>
+  <data name="30 MIKURU (朝比奈)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="31 NAGATO (長門)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="32 NAGATO (長門)" xml:space="preserve">
+    <value>$10情報生命体は#W30$8カタチを必要と
+していない</value>
+  </data>
+  <data name="33 NAGATO (長門)" xml:space="preserve">
+    <value>$10自ら観測する対象さえいれば#W20
+存在確率を高めることができる</value>
+  </data>
+  <data name="34 KYON (キョン)" xml:space="preserve">
+    <value>$10観測#W20…#W10…#W10？</value>
+  </data>
+  <data name="35 NAGATO (長門)" xml:space="preserve">
+    <value>$10音楽は#W30$8そのための手段にすぎない</value>
+  </data>
+  <data name="36 KYON (キョン)" xml:space="preserve">
+    <value>$10おい、#W40$7どういう意味だ#W10長門！</value>
+  </data>
+  <data name="37 NAGATO (長門)" xml:space="preserve">
+    <value>$10現状では#W30情報の収集がわたしの役割</value>
+  </data>
+  <data name="38 NAGATO (長門)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="39 MIKURU (朝比奈)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="40 MIKURU (朝比奈)" xml:space="preserve">
+    <value>$8合宿を止めさせる#W20…#W10…#W20？</value>
+  </data>
+  <data name="41 KYON (キョン)" xml:space="preserve">
+    <value>$8そうです。#W20$7学校が危険な状態だって
+いうなら</value>
+  </data>
+  <data name="42 KYON (キョン)" xml:space="preserve">
+    <value>$7さっさと連れ出した方がいいはず
+です</value>
+  </data>
+  <data name="43 MIKURU (朝比奈)" xml:space="preserve">
+    <value>$10それは#W20…#W20…#W30禁則事項です</value>
+  </data>
+  <data name="44 KYON (キョン)" xml:space="preserve">
+    <value>$10え#W20…#W10…</value>
+  </data>
+  <data name="45 MIKURU (朝比奈)" xml:space="preserve">
+    <value>$10涼宮さんの行動に大きく干渉する
+には#W20許可が必要なんです</value>
+  </data>
+  <data name="46 MIKURU (朝比奈)" xml:space="preserve">
+    <value>$7……ごめんなさい、#W20$9キョンくん</value>
+  </data>
+  <data name="47 MIKURU (朝比奈)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="48 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x1B;</value>
+  </data>
+  <data name="49 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$9まずいですね、#W70$8涼宮さんが#W10
+もうそこまで来ています</value>
+  </data>
+  <data name="50 KYON (キョン)" xml:space="preserve">
+    <value>$10くそ、#W40$8こうなったら
+誰かが、ピアノを――</value>
+  </data>
+</root>

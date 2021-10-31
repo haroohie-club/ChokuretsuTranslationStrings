@@ -1,0 +1,855 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒは、朝比奈さんが部室に
+足止めしてくれている</value>
+  </data>
+  <data name="1 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その間に、俺と古泉と長門の三人で
+空間の正常化の準備をしなければ</value>
+  </data>
+  <data name="2 KOIZUMI (古泉)" xml:space="preserve">
+    <value>お話は、長門さんに伺ったとおり
+です</value>
+  </data>
+  <data name="3 KYON (キョン)" xml:space="preserve">
+    <value>……空間情報のなんとか変数を
+どうとかって話か？</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>伺うは伺ったが、さっぱり意味が
+わからなかったんだが</value>
+  </data>
+  <data name="5 KOIZUMI (古泉)" xml:space="preserve">
+    <value>行為としては、それほど難しい
+話ではありませんよ</value>
+  </data>
+  <data name="6 KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さん、例の特異点をここで
+いただけますか？</value>
+  </data>
+  <data name="7 NAGATO (長門)" xml:space="preserve">
+    <value>これ</value>
+  </data>
+  <data name="8 KYON (キョン)" xml:space="preserve">
+    <value>……これって、さっきのチェスの駒
+だよな？</value>
+  </data>
+  <data name="9 KOIZUMI (古泉)" xml:space="preserve">
+    <value>物理的な形状は何でも良いのですよ
+おそらくね</value>
+  </data>
+  <data name="10 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="11 NAGATO (長門)" xml:space="preserve">
+    <value>これまで破壊してきた特異点と同じ
+空間を固定する</value>
+  </data>
+  <data name="12 NAGATO (長門)" xml:space="preserve">
+    <value>それらを特定の位置に設置すれば
+いい</value>
+  </data>
+  <data name="13 KYON (キョン)" xml:space="preserve">
+    <value>特定の位置？</value>
+  </data>
+  <data name="14 NAGATO (長門)" xml:space="preserve">
+    <value>空間情報の歪曲率が、もっとも激し
+い地点。座標は現在地から……</value>
+  </data>
+  <data name="15 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そういえば、さっき古泉が具体的に
+言っていたような……</value>
+  </data>
+  <data name="16 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="17 NAGATO (長門)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="18 KYON (キョン)" xml:space="preserve">
+    <value>長門、具体的な場所で言ってくれ
+ないか？</value>
+  </data>
+  <data name="19 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="20 NAGATO (長門)" xml:space="preserve">
+    <value>音楽室、体育館、プール
+コンピューター研究会の部室……</value>
+  </data>
+  <data name="21 NAGATO (長門)" xml:space="preserve">
+    <value>最後の地点は、具体的な場所の名前
+が存在しない</value>
+  </data>
+  <data name="22 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そこまでヒントをもらえれば
+俺だってわかる</value>
+  </data>
+  <data name="23 KYON (キョン)" xml:space="preserve">
+    <value>最後は『１年１０組』があった場所
+だろう？</value>
+  </data>
+  <data name="24 NAGATO (長門)" xml:space="preserve">
+    <value>そう
+以上の、計５箇所</value>
+  </data>
+  <data name="25 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>つまり、今まで怪奇現象が起きた
+場所、ということだ</value>
+  </data>
+  <data name="26 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なるほど、『空間情報歪曲率がもっ
+とも激しい地点』というのも納得だ</value>
+  </data>
+  <data name="27 KYON (キョン)" xml:space="preserve">
+    <value>丁寧に説明してくれて助かったよ
+すまなかったな、長門</value>
+  </data>
+  <data name="28 NAGATO (長門)" xml:space="preserve">
+    <value>問題ない</value>
+  </data>
+  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="30 NAGATO (長門)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+    <value>分かりませんか？</value>
+  </data>
+  <data name="32 KYON (キョン)" xml:space="preserve">
+    <value>おまえは分かるのか？</value>
+  </data>
+  <data name="33 KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕の予想にすぎませんが
+恐らく……</value>
+  </data>
+  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+    <value>音楽室、体育館、プール、コンピ研
+の部室、１年１０組があった場所</value>
+  </data>
+  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+    <value>といった辺りではないでしょうか</value>
+  </data>
+  <data name="36 NAGATO (長門)" xml:space="preserve">
+    <value>それでいい</value>
+  </data>
+  <data name="37 KYON (キョン)" xml:space="preserve">
+    <value>なるほど、今まで怪奇現象が起きた
+場所か……</value>
+  </data>
+  <data name="38 KYON (キョン)" xml:space="preserve">
+    <value>しかし古泉
+おまえ、よく分かったな</value>
+  </data>
+  <data name="39 KOIZUMI (古泉)" xml:space="preserve">
+    <value>簡単な推理ですよ。長門さんが用意
+して下さったチェスの駒の数</value>
+  </data>
+  <data name="40 KOIZUMI (古泉)" xml:space="preserve">
+    <value>説明の端々にもヒントはありました
+から</value>
+  </data>
+  <data name="41 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おまえは、普段人と話してるときも
+そんな風に考えてるのか？</value>
+  </data>
+  <data name="42 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>と聞くのはやめておいた
+そうですが何か、とか言いそうだ</value>
+  </data>
+  <data name="43 KOIZUMI (古泉)" xml:space="preserve">
+    <value>つまり、それらの場所にチェスの駒
+を置いてくればいいんです</value>
+  </data>
+  <data name="44 KYON (キョン)" xml:space="preserve">
+    <value>それだけなら、すぐに出来そうだな</value>
+  </data>
+  <data name="45 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ただひとつだけ、最後の地点
+１年１０組があった場所なのですが</value>
+  </data>
+  <data name="46 KOIZUMI (古泉)" xml:space="preserve">
+    <value>あの場所は、今は存在していない
+のではないですか？</value>
+  </data>
+  <data name="47 NAGATO (長門)" xml:space="preserve">
+    <value>この空間とは連続していない位相に
+存在する</value>
+  </data>
+  <data name="48 NAGATO (長門)" xml:space="preserve">
+    <value>通常の手段では行くことが出来ない</value>
+  </data>
+  <data name="49 KOIZUMI (古泉)" xml:space="preserve">
+    <value>やはり、そうですか……</value>
+  </data>
+  <data name="50 KYON (キョン)" xml:space="preserve">
+    <value>おいおい</value>
+  </data>
+  <data name="51 KYON (キョン)" xml:space="preserve">
+    <value>行けない場所に、どうやってこいつ
+を置いてくるって言うんだ？</value>
+  </data>
+  <data name="52 NAGATO (長門)" xml:space="preserve">
+    <value>その点については問題ない
+わたしが行く</value>
+  </data>
+  <data name="53 KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんなら、『通常でない手段』
+で行くことが可能</value>
+  </data>
+  <data name="54 KOIZUMI (古泉)" xml:space="preserve">
+    <value>というわけですか</value>
+  </data>
+  <data name="55 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="56 NAGATO (長門)" xml:space="preserve">
+    <value>あなたたちには、他の地点への設置
+を分担してほしい</value>
+  </data>
+  <data name="57 KYON (キョン)" xml:space="preserve">
+    <value>わかった
+任せておけ</value>
+  </data>
+  <data name="58 NAGATO (長門)" xml:space="preserve">
+    <value>それと、これを</value>
+  </data>
+  <data name="59 KYON (キョン)" xml:space="preserve">
+    <value>なんだ？　カギか？</value>
+  </data>
+  <data name="60 NAGATO (長門)" xml:space="preserve">
+    <value>マスターキー</value>
+  </data>
+  <data name="61 KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど、音楽室のカギは、既に返
+却してしまいましたからね</value>
+  </data>
+  <data name="62 KOIZUMI (古泉)" xml:space="preserve">
+    <value>プールも、これがあれば柵を乗り越
+える必要もなさそうです</value>
+  </data>
+  <data name="63 KYON (キョン)" xml:space="preserve">
+    <value>すまんな、長門
+ありがたく使わせてもらう</value>
+  </data>
+  <data name="64 NAGATO (長門)" xml:space="preserve">
+    <value>問題ない
+……行ってくる</value>
+  </data>
+  <data name="65 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門はいつもの無表情でそう呟くと
+行ってしまった</value>
+  </data>
+  <data name="66 KYON (キョン)" xml:space="preserve">
+    <value>俺たちも、チェスの駒を置きに
+行くぞ</value>
+  </data>
+  <data name="67 KOIZUMI (古泉)" xml:space="preserve">
+    <value>待って下さい</value>
+  </data>
+  <data name="68 KYON (キョン)" xml:space="preserve">
+    <value>なんだ？</value>
+  </data>
+  <data name="69 KOIZUMI (古泉)" xml:space="preserve">
+    <value>午前２時２２分２２秒まで
+まだ若干の余裕があります</value>
+  </data>
+  <data name="70 KYON (キョン)" xml:space="preserve">
+    <value>まあ、そりゃそうだが……</value>
+  </data>
+  <data name="71 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そこで提案があるのですが</value>
+  </data>
+  <data name="72 KOIZUMI (古泉)" xml:space="preserve">
+    <value>保険を掛けておく、というのは
+いかがでしょうか？</value>
+  </data>
+  <data name="73 KYON (キョン)" xml:space="preserve">
+    <value>保険？　もったいぶった言い方は
+よせ。何を思いついた？</value>
+  </data>
+  <data name="74 KOIZUMI (古泉)" xml:space="preserve">
+    <value>要は、その時刻に涼宮さんが鏡の
+前にいなければ済むわけです</value>
+  </data>
+  <data name="75 KYON (キョン)" xml:space="preserve">
+    <value>言うだけなら簡単だ</value>
+  </data>
+  <data name="76 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、最小限の労力で、それを
+回避できそうな方法があるのです</value>
+  </data>
+  <data name="77 KYON (キョン)" xml:space="preserve">
+    <value>いいから早く言え
+時間がもったいない</value>
+  </data>
+  <data name="78 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんの時計を、少し遅らせて
+おくというのは、どうでしょう？</value>
+  </data>
+  <data name="79 KYON (キョン)" xml:space="preserve">
+    <value>時計？　ああ、あいつの携帯電話
+の時計のことか</value>
+  </data>
+  <data name="80 KOIZUMI (古泉)" xml:space="preserve">
+    <value>あらかじめ時計を遅らせておけば</value>
+  </data>
+  <data name="81 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんは当然、時刻に間に合い
+ません</value>
+  </data>
+  <data name="82 KYON (キョン)" xml:space="preserve">
+    <value>その後に気付いて大騒ぎするぞ</value>
+  </data>
+  <data name="83 KOIZUMI (古泉)" xml:space="preserve">
+    <value>今日の午前２時２２分２２秒を
+やり過ごせればいいのです</value>
+  </data>
+  <data name="84 KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕たちには『秘密兵器』があるの
+ですから</value>
+  </data>
+  <data name="85 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉は、そう言ってチェスの駒を
+振って見せた</value>
+  </data>
+  <data name="86 KYON (キョン)" xml:space="preserve">
+    <value>ああ、そのあとには空間が正常化
+されるんだったな</value>
+  </data>
+  <data name="87 KYON (キョン)" xml:space="preserve">
+    <value>……よし、その作戦、乗った</value>
+  </data>
+  <data name="88 KOIZUMI (古泉)" xml:space="preserve">
+    <value>では、一度文芸部の部室へ
+戻りましょう</value>
+  </data>
+  <data name="89 KYON (キョン)" xml:space="preserve">
+    <value>分かった</value>
+  </data>
+  <data name="90 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="91 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの？　二人とも</value>
+  </data>
+  <data name="92 MIKURU (みくる)" xml:space="preserve">
+    <value>な、何か起きたんですか！？</value>
+  </data>
+  <data name="93 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんが驚いていらっしゃる</value>
+  </data>
+  <data name="94 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>無理もない、俺たちが部室に戻っ
+てくる予定はなかったからな</value>
+  </data>
+  <data name="95 KYON (キョン)" xml:space="preserve">
+    <value>ああ、ちょっと忘れ物をしたんで
+大したことはありませんよ</value>
+  </data>
+  <data name="96 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは？</value>
+  </data>
+  <data name="97 MIKURU (みくる)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="98 KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼が一人で戻るのは怖いと
+言うので、ついてきたんです</value>
+  </data>
+  <data name="99 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おい！　俺がいつ怖いだなんて
+言ったんだ！</value>
+  </data>
+  <data name="100 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とは言え、今文句を言うわけにも
+いかない。後で覚えとけ、古泉め</value>
+  </data>
+  <data name="101 KOIZUMI (古泉)" xml:space="preserve">
+    <value>鏡の見張りなら、長門さんが
+してくれています</value>
+  </data>
+  <data name="102 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それならいいけど
+キョンったら、だらしないのね</value>
+  </data>
+  <data name="103 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ここは我慢、我慢のしどころだ</value>
+  </data>
+  <data name="104 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえキョン
+あんたが持ってるの、それ何？</value>
+  </data>
+  <data name="105 KYON (キョン)" xml:space="preserve">
+    <value>あん？　これは……</value>
+  </data>
+  <data name="106 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それ、チェスの駒じゃない？
+やっぱりそうだわ！</value>
+  </data>
+  <data name="107 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>返しなさい、今から使うんだから</value>
+  </data>
+  <data name="108 KYON (キョン)" xml:space="preserve">
+    <value>なに？　それは困る！</value>
+  </data>
+  <data name="109 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>困ってるのはこっちよ！</value>
+  </data>
+  <data name="110 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんとチェスでもしようと
+思ったら、駒が足りないんだもの</value>
+  </data>
+  <data name="111 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それも５つもよ！？
+信じられる？</value>
+  </data>
+  <data name="112 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、謎は全て解けたわ！
+あんたが持ち出してたってわけね</value>
+  </data>
+  <data name="113 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="114 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おい、古泉！
+なんとかしろ！</value>
+  </data>
+  <data name="115 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この駒をハルヒに取られたら
+保険どころの話じゃなくなっちまう</value>
+  </data>
+  <data name="116 KYON (キョン)" xml:space="preserve">
+    <value>これは……ダメだ！</value>
+  </data>
+  <data name="117 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしてよ？</value>
+  </data>
+  <data name="118 KYON (キョン)" xml:space="preserve">
+    <value>そ、それはだな</value>
+  </data>
+  <data name="119 KYON (キョン)" xml:space="preserve">
+    <value>古泉のものだからだ</value>
+  </data>
+  <data name="120 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなの分かってるわよ
+駒を返しなさいって言ってるの！</value>
+  </data>
+  <data name="121 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="122 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="123 KYON (キョン)" xml:space="preserve">
+    <value>これは、長門のものなんだ</value>
+  </data>
+  <data name="124 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>このチェスの駒じゃないの？</value>
+  </data>
+  <data name="125 KYON (キョン)" xml:space="preserve">
+    <value>そうだ</value>
+  </data>
+  <data name="126 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ああ、すみません
+駒は先ほどなくしてしまったんです</value>
+  </data>
+  <data name="127 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうなの？
+困ったわね</value>
+  </data>
+  <data name="128 KOIZUMI (古泉)" xml:space="preserve">
+    <value>今遊ぶのでしたら、他のもので
+代用できるでしょう</value>
+  </data>
+  <data name="129 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ポーンなら、将棋の歩で代用
+してはどうでしょう</value>
+  </data>
+  <data name="130 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、それでも遊べなくはないけど</value>
+  </data>
+  <data name="131 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="132 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="133 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうせだったら、他のゲームの駒
+も混ぜてみない？</value>
+  </data>
+  <data name="134 KOIZUMI (古泉)" xml:space="preserve">
+    <value>どういうことでしょうか</value>
+  </data>
+  <data name="135 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>角は、将棋の角の動きをするって
+ことよ</value>
+  </data>
+  <data name="136 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>オセロの駒で歩を挟むと、裏返って
+と金になるってわけ！</value>
+  </data>
+  <data name="137 KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど、これは斬新ですね</value>
+  </data>
+  <data name="138 KYON (キョン)" xml:space="preserve">
+    <value>斬新って……イギリス人が聞いたら
+怒りかねんぞ</value>
+  </data>
+  <data name="139 KOIZUMI (古泉)" xml:space="preserve">
+    <value>他にも使えそうな駒を探しましょう</value>
+  </data>
+  <data name="140 KYON (キョン)" xml:space="preserve">
+    <value>って、無視かよ……</value>
+  </data>
+  <data name="141 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>よくわからんが、まったく新しい
+ゲームができあがりつつあるな……</value>
+  </data>
+  <data name="142 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="143 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉が目で俺に合図を送っている</value>
+  </data>
+  <data name="144 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そうか、今の内にハルヒの携帯の
+時計を遅れさせろってことか！</value>
+  </data>
+  <data name="145 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="146 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は机の上に置いてあったハルヒの
+携帯を、そっと拝借した</value>
+  </data>
+  <data name="147 MIKURU (みくる)" xml:space="preserve">
+    <value>#P06な、なにしてるんですか？</value>
+  </data>
+  <data name="148 KYON (キョン)" xml:space="preserve">
+    <value>#P06説明はあとです！
+今は俺を信じて下さい！</value>
+  </data>
+  <data name="149 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんのスカートの影で
+時計を１０分ほど遅らせる</value>
+  </data>
+  <data name="150 MIKURU (みくる)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="151 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>よし、これでいいだろう</value>
+  </data>
+  <data name="152 KOIZUMI (古泉)" xml:space="preserve">
+    <value>……というわけで、このチェスは
+駒がひとつずつ足りないのです</value>
+  </data>
+  <data name="153 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、よくわかんないけど
+そういうものなのね、これ</value>
+  </data>
+  <data name="154 KYON (キョン)" xml:space="preserve">
+    <value>古泉！　忘れ物は見つかったぞ！</value>
+  </data>
+  <data name="155 KOIZUMI (古泉)" xml:space="preserve">
+    <value>それは良かった。急いで長門さんの
+元へと戻りましょう</value>
+  </data>
+  <data name="156 KYON (キョン)" xml:space="preserve">
+    <value>よし、行くぞ！
+後でな、ハルヒ！</value>
+  </data>
+  <data name="157 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="158 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="159 KYON (キョン)" xml:space="preserve">
+    <value>ぶはっ、神経がすり減った</value>
+  </data>
+  <data name="160 KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕も寿命が縮む思いでしたよ</value>
+  </data>
+  <data name="161 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>保険は掛け終えたが、俺たちには
+まだ重要な仕事が残っている</value>
+  </data>
+  <data name="162 KYON (キョン)" xml:space="preserve">
+    <value>けっこう時間を食っちまったぞ</value>
+  </data>
+  <data name="163 KOIZUMI (古泉)" xml:space="preserve">
+    <value>急げば、まだ間に合うでしょう</value>
+  </data>
+  <data name="164 KYON (キョン)" xml:space="preserve">
+    <value>まずはお隣から済ますとするか</value>
+  </data>
+  <data name="165 KOIZUMI (古泉)" xml:space="preserve">
+    <value>了解です</value>
+  </data>
+  <data name="166 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="167 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>コンピ研の部室に設置した後
+音楽室にも設置をすませた</value>
+  </data>
+  <data name="168 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>例のマスターキーのおかげで
+どこもすんなり侵入できた</value>
+  </data>
+  <data name="169 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さすが長門、と言ったところか
+そしてこの体育館も……</value>
+  </data>
+  <data name="170 KOIZUMI (古泉)" xml:space="preserve">
+    <value>我々以外、誰もいないと仕事もしや
+すいですね</value>
+  </data>
+  <data name="171 KYON (キョン)" xml:space="preserve">
+    <value>ああ……</value>
+  </data>
+  <data name="172 KYON (キョン)" xml:space="preserve">
+    <value>そういえばコンピ研の連中はどう
+やって家に帰したんだ？</value>
+  </data>
+  <data name="173 KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼ら、操られていた間の記憶がない
+ようでした</value>
+  </data>
+  <data name="174 KOIZUMI (古泉)" xml:space="preserve">
+    <value>しかも洗脳の影響が残っているらし
+く……</value>
+  </data>
+  <data name="175 KOIZUMI (古泉)" xml:space="preserve">
+    <value>あっさりと指示に従っていただけ
+ました</value>
+  </data>
+  <data name="176 KYON (キョン)" xml:space="preserve">
+    <value>影響が残ってるって……
+大丈夫なのか？</value>
+  </data>
+  <data name="177 KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんが言うには、すぐ元に戻る
+そうです</value>
+  </data>
+  <data name="178 KOIZUMI (古泉)" xml:space="preserve">
+    <value>まさに、不幸中の幸いです</value>
+  </data>
+  <data name="179 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なるほど……</value>
+  </data>
+  <data name="180 KYON (キョン)" xml:space="preserve">
+    <value>よし、ここもさっさと終わらせ
+ちまおう</value>
+  </data>
+  <data name="181 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですね
+ここに置けばいいでしょう</value>
+  </data>
+  <data name="182 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だだっ広い体育館の真ん中に
+古泉がチェスの駒を置いた</value>
+  </data>
+  <data name="183 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんと言うか、シュールな光景だ</value>
+  </data>
+  <data name="184 KYON (キョン)" xml:space="preserve">
+    <value>『真夜中の体育館にチェスの駒が
+現れる』なんて噂にならないか？</value>
+  </data>
+  <data name="185 KYON (キョン)" xml:space="preserve">
+    <value>これが更に新しい七不思議の元に
+なったら笑えないぞ</value>
+  </data>
+  <data name="186 KOIZUMI (古泉)" xml:space="preserve">
+    <value>あなたなら、その噂に興味を
+覚えますか？</value>
+  </data>
+  <data name="187 KYON (キョン)" xml:space="preserve">
+    <value>……どうでもいいな。インパクト
+がないし、少しも面白くもない</value>
+  </data>
+  <data name="188 KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕も同意見です</value>
+  </data>
+  <data name="189 KYON (キョン)" xml:space="preserve">
+    <value>問題はなさそう、ってことか</value>
+  </data>
+  <data name="190 KOIZUMI (古泉)" xml:space="preserve">
+    <value>さあ、残りはプールです</value>
+  </data>
+  <data name="191 KYON (キョン)" xml:space="preserve">
+    <value>走るぞ、古泉！</value>
+  </data>
+  <data name="192 KOIZUMI (古泉)" xml:space="preserve">
+    <value>$</value>
+  </data>
+  <data name="193 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>最後の駒をここに設置すれば
+俺たちの仕事は完了だ</value>
+  </data>
+  <data name="194 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>完了なんだが、さて……</value>
+  </data>
+  <data name="195 KOIZUMI (古泉)" xml:space="preserve">
+    <value>この場合、どこに置くのが
+いいのでしょうね？</value>
+  </data>
+  <data name="196 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ちっ、同じ事を考えていたんだが
+先に聞かれてしまった</value>
+  </data>
+  <data name="197 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どこへチェスの駒を置くべき
+だろう？</value>
+  </data>
+  <data name="198 KYON (キョン)" xml:space="preserve">
+    <value>プールサイドでいいんじゃないか？</value>
+  </data>
+  <data name="199 KOIZUMI (古泉)" xml:space="preserve">
+    <value>では、そこに置きましょう
+お願いします</value>
+  </data>
+  <data name="200 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は言われるままに、チェスの駒を
+プールサイドに置いた</value>
+  </data>
+  <data name="201 KYON (キョン)" xml:space="preserve">
+    <value>ここから例の鏡まで、結構距離が
+あるな</value>
+  </data>
+  <data name="202 KYON (キョン)" xml:space="preserve">
+    <value>どうして、昇降口の鏡なんだ？</value>
+  </data>
+  <data name="203 KOIZUMI (古泉)" xml:space="preserve">
+    <value>あの鏡のすぐ近くに時計がある
+でしょう</value>
+  </data>
+  <data name="204 KOIZUMI (古泉)" xml:space="preserve">
+    <value>恐らくは、場所と時刻が限定される
+状況が揃っているからなのでしょう</value>
+  </data>
+  <data name="205 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんの無意識下で、そうした
+辻褄が大事なのかも知れません</value>
+  </data>
+  <data name="206 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>普段は大雑把なくせに、妙なところ
+で細かい奴だな</value>
+  </data>
+  <data name="207 KYON (キョン)" xml:space="preserve">
+    <value>やっぱりプールの中、じゃない
+のか</value>
+  </data>
+  <data name="208 KOIZUMI (古泉)" xml:space="preserve">
+    <value>やはり、あなたもそう思われますか</value>
+  </data>
+  <data name="209 KOIZUMI (古泉)" xml:space="preserve">
+    <value>では、お願いします</value>
+  </data>
+  <data name="210 KYON (キョン)" xml:space="preserve">
+    <value>俺がやるのか？</value>
+  </data>
+  <data name="211 KOIZUMI (古泉)" xml:space="preserve">
+    <value>チェスの駒は、あなたが持って
+いますからね</value>
+  </data>
+  <data name="212 KYON (キョン)" xml:space="preserve">
+    <value>そうか、そうだったな</value>
+  </data>
+  <data name="213 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>チェスの駒を沈めようとして
+プールの水面を覗き込む</value>
+  </data>
+  <data name="214 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そこには、当たり前だが俺の姿が
+ゆらゆらと映し出されていた</value>
+  </data>
+  <data name="215 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こんなにふやけた分身なら
+出てきてもあまり怖くなさそうだ</value>
+  </data>
+  <data name="216 KYON (キョン)" xml:space="preserve">
+    <value>あとは頼んだぜ</value>
+  </data>
+  <data name="217 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺はそう呟いて、チェスの駒を
+プールへと沈めた</value>
+  </data>
+  <data name="218 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そろそろ午前２時２２分です</value>
+  </data>
+  <data name="219 KOIZUMI (古泉)" xml:space="preserve">
+    <value>既に涼宮さんは、昇降口の鏡へと
+向かっているはずです</value>
+  </data>
+  <data name="220 KYON (キョン)" xml:space="preserve">
+    <value>休憩するヒマもないのか！</value>
+  </data>
+  <data name="221 KOIZUMI (古泉)" xml:space="preserve">
+    <value>何が起きるか、予断を許さない
+状況です。急ぎましょう！</value>
+  </data>
+</root>

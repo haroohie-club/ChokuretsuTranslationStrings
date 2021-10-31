@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんって、霊感の強い方
+なんでしょうか？</value>
+  </data>
+  <data name="1 MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんが、そんなことを言ってた
+って、キョンくんから聞きました</value>
+  </data>
+  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>実際、どうなのかはわからないけど
+なんとなく、そんな感じがするのよ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>他の人には無い、不思議な力とか
+ありそうじゃない？</value>
+  </data>
+  <data name="4 MIKURU (みくる)" xml:space="preserve">
+    <value>ど、どうなんでしょう？　ごく普通
+の方だと思いますけど……</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは違うわ、みくるちゃん</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＯＳ団に入ったからには、必ず
+普通とは違ったモノを持ってるのよ</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ぜひ、そうであって欲しいわ！</value>
+  </data>
+  <data name="8 MIKURU (みくる)" xml:space="preserve">
+    <value>え、ええと……</value>
+  </data>
+  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、霊感に興味あるの？</value>
+  </data>
+  <data name="10 MIKURU (みくる)" xml:space="preserve">
+    <value>な、ないですっ！　興味ないです！</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ……みくるちゃん、肩のところに
+ぼんやり光る手首が……</value>
+  </data>
+  <data name="12 MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0ふぇぇぇぇぇぇっ！？</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やだ、冗談よ冗談！
+可愛いんだから、みくるちゃんは～</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>お、おどかさないでくださいよぉ～</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これがもし有希だったら、きっと
+ノーリアクションね</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>知ってた？　霊とかオバケって
+怖がらない人には弱いんだって</value>
+  </data>
+  <data name="17 MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうなんですかぁ？</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>度胸のある人や、根性のすわった人
+には、下手に出るらしいの</value>
+  </data>
+  <data name="19 MIKURU (みくる)" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="20 KYON_SIS (妹)" xml:space="preserve">
+    <value>みくるちゃんは、怖がってばかり
+だよね～</value>
+  </data>
+  <data name="21 MIKURU (みくる)" xml:space="preserve">
+    <value>うぅぅ、そうですかぁ……</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だからって、霊感とは関係のない話
+だけど、それだけでも頼りになるわ</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いざという時、腰が抜けてたんじゃ
+怪奇現象を楽しめないもの</value>
+  </data>
+  <data name="24 MIKURU (みくる)" xml:space="preserve">
+    <value>た、楽しまなくてもいいと思います</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうはいかないわ。ＳＯＳ団たる者
+怪奇現象くらい、平然としてなきゃ</value>
+  </data>
+  <data name="26 MIKURU (みくる)" xml:space="preserve">
+    <value>そんなの、絶対ムリですぅ……</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今度、オバケ屋敷か何かで特訓
+しましょー</value>
+  </data>
+  <data name="28 MIKURU (みくる)" xml:space="preserve">
+    <value>ふえぇぇぇっ！？　と、特訓！？</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うん、我ながら良いアイデアね！
+ヘタレのキョンも一緒に特訓よ！</value>
+  </data>
+  <data name="30 MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そんなぁぁ！？</value>
+  </data>
+  <data name="31 MIKURU (みくる)" xml:space="preserve">
+    <value>#P06時間は少し稼げたけど……なんだか
+複雑な気持ちです、キョンくん</value>
+  </data>
+</root>

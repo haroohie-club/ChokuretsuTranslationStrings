@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 TSURUYA ()" xml:space="preserve">
+    <value>{</value>
+  </data>
+  <data name="1 68 ()" xml:space="preserve">
+    <value>&#x5;</value>
+  </data>
+  <data name="2 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="3 1144 ()" xml:space="preserve">
+    <value>&#x4;</value>
+  </data>
+  <data name="4 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="5 3068 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="6 8257661 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="7 8650883 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="8 9044105 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="9 9437327 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="10 10879125 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="11 11272363 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="12 11665585 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="13 9961623 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="14 10354845 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="15 10748067 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="16 7274606 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="17 7667828 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="18 122 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="19 428 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="20 0 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="21 0 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="22 0 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="23 0 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="24 0 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="25 0 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="26 0 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="27 0 ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="28 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="29 KYON ()" xml:space="preserve">
+    <value />
+  </data>
+  <data name="30 0 ()" xml:space="preserve">
+    <value>&#x7;</value>
+  </data>
+</root>

@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さあ、始めるわよ！</value>
+  </data>
+  <data name="1 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>目の前には、図書室から運び込んだ
+山のような資料が積まれている</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>これを、全部調べるのか？</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>当ったり前でしょ
+何のために運び込んだのよ？</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>そりゃそうだが……</value>
+  </data>
+  <data name="5 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こりゃ一朝一夕で終わる量じゃ
+ないぞ？</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほらほら、喋ってばかりいないで
+手を動かしなさい！</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いくらキョンでも、何を調べるかは
+判ってるわよね？</value>
+  </data>
+  <data name="8 KYON (キョン)" xml:space="preserve">
+    <value>……この学校の記録だろ</value>
+  </data>
+  <data name="9 KYON (キョン)" xml:space="preserve">
+    <value>過去に音楽で賞を取った生徒がいる
+かどうか、探せばいいんだよな</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>判ってるなら、さっさと取りかかり
+なさい！</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは向こうを調べるから、キョ
+ンはこっちの山を調べるのよ</value>
+  </data>
+  <data name="12 KYON (キョン)" xml:space="preserve">
+    <value>へいへい</value>
+  </data>
+  <data name="13 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>気の抜けた返事をする俺をにらんで
+から、ハルヒは向こうに行った</value>
+  </data>
+  <data name="14 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さて、俺はどうするかな
+真面目にやるか、それとも？</value>
+  </data>
+  <data name="15 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>仕方ない、とりあえずハルヒに
+付き合ってやるとするか</value>
+  </data>
+  <data name="16 KYON (キョン)" xml:space="preserve">
+    <value>えーと、まずはこの辺から調べて
+みるとするか……</value>
+  </data>
+  <data name="17 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とりあえず目の前にあった、北高の
+歴史に関する資料を俺は手に取った</value>
+  </data>
+  <data name="18 KYON (キョン)" xml:space="preserve">
+    <value>どれどれ……うわ、字が小さくて
+読みづらいな、こりゃ</value>
+  </data>
+  <data name="19 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="20 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>小一時間も資料を読みふけっていた
+ワケなのだが……</value>
+  </data>
+  <data name="21 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>良く考えると、そもそもの話が
+ハルヒの妄想なわけで</value>
+  </data>
+  <data name="22 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その証拠なんか探しても、出てくる
+ワケがないんじゃないか？</value>
+  </data>
+  <data name="23 KYON (キョン)" xml:space="preserve">
+    <value>……時間を無駄につぶしたような
+気がするんだが……</value>
+  </data>
+  <data name="24 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒに付き合って本腰を入れる
+必要もないよな</value>
+  </data>
+  <data name="25 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>適当に手を抜きつつ、探すフリでも
+しておこう</value>
+  </data>
+  <data name="26 KYON (キョン)" xml:space="preserve">
+    <value>逆に、ハルヒの思いこみを打ち消す
+ようなネタが見つからないかね</value>
+  </data>
+  <data name="27 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そうすれば、この肝試し大会も
+すぐに終了になるんじゃないか？</value>
+  </data>
+  <data name="28 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は意気込んで、オカルトを否定
+するようなテーマの本を探し始めた</value>
+  </data>
+  <data name="29 KYON (キョン)" xml:space="preserve">
+    <value>うむ、なかなか勉強になったかも
+しれん</value>
+  </data>
+  <data name="30 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>“心霊現象は全てプラズマで解説で
+きる！”というようなテーマの本を</value>
+  </data>
+  <data name="31 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>読み終えて、俺はすっかり満足した</value>
+  </data>
+  <data name="32 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これはこれで偏っているような気も
+するのだが</value>
+  </data>
+  <data name="33 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒを説得する材料としては充分
+すぎる内容だろう</value>
+  </data>
+  <data name="34 KYON (キョン)" xml:space="preserve">
+    <value>ここに書かれていることが本当か
+どうかじゃなくて</value>
+  </data>
+  <data name="35 KYON (キョン)" xml:space="preserve">
+    <value>ハルヒを諦めさせる材料になれば
+それでいいんだからな</value>
+  </data>
+  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、終わった？</value>
+  </data>
+  <data name="37 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>担当部分の調査があらかた終わった
+らしいハルヒが、俺に尋ねた</value>
+  </data>
+  <data name="38 KYON (キョン)" xml:space="preserve">
+    <value>ああ、めぼしいところは大体調べた
+ぜ</value>
+  </data>
+  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>収穫はあった？</value>
+  </data>
+  <data name="40 KYON (キョン)" xml:space="preserve">
+    <value>うーむ、微妙って感じだな</value>
+  </data>
+  <data name="41 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は調べていた内容を微妙にぼかし
+ながら、ハルヒに答える</value>
+  </data>
+  <data name="42 KYON (キョン)" xml:space="preserve">
+    <value>そっちこそ、なにか役に立つ情報は
+あったのか？</value>
+  </data>
+  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあね、結構面白かったわ。学校の
+蔵書も捨てたもんじゃないわね</value>
+  </data>
+  <data name="44 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒは意外と上機嫌だ</value>
+  </data>
+  <data name="45 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なにかハルヒ的に面白いものでも
+見付けた、ということだろうか</value>
+  </data>
+  <data name="46 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはみんなで集まってから話すわ
+とりあえず、集合場所に戻りましょ</value>
+  </data>
+  <data name="47 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒはそう言って、後ろも振り返
+らずに行ってしまう</value>
+  </data>
+  <data name="48 KYON (キョン)" xml:space="preserve">
+    <value>おい、待てよハルヒ！</value>
+  </data>
+  <data name="49 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あいつが面倒を起こす前に
+あとを追いかけなければ</value>
+  </data>
+</root>

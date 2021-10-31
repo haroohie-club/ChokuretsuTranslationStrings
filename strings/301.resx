@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>しかし、長門の肉に掛ける情熱は
+意外だったな</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あの子、ちっちゃいのに、何でも
+よく食べるわよね</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>いや、何でもってわけじゃない
+だろう</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうかしら、雑食性って感じがする
+けど</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>雑食性って、長門はケモノか</value>
+  </data>
+  <data name="5 MIKURU (みくる)" xml:space="preserve">
+    <value>買い出しの時、長門さんがお肉を
+選んだんですよ</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう、有希に任せておいたら安心ね</value>
+  </data>
+  <data name="7 MIKURU (みくる)" xml:space="preserve">
+    <value>量を重視って言ってました。お腹が
+減ってたのかなあ？</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうかも、なかなかの食べっぷり
+だったものね</value>
+  </data>
+  <data name="9 MIKURU (みくる)" xml:space="preserve">
+    <value>ほんとに、びっくりしちゃいました</value>
+  </data>
+  <data name="10 NAGATO (長門)" xml:space="preserve">
+    <value>バーベキュー</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え、バーベキューがどうかした？</value>
+  </data>
+  <data name="12 NAGATO (長門)" xml:space="preserve">
+    <value>お肉、おいしかった</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え、ああ、そうね。おいしかったわ</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれって有希が選んでくれたんで
+しょう？</value>
+  </data>
+  <data name="15 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="16 NAGATO (長門)" xml:space="preserve">
+    <value>セール品の切り落とし肉</value>
+  </data>
+  <data name="17 NAGATO (長門)" xml:space="preserve">
+    <value>限られた資金を最大限有効に
+利用した</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なかなかの選別眼だったわ
+さすが有希ね</value>
+  </data>
+  <data name="19 KOIZUMI (古泉)" xml:space="preserve">
+    <value>バーベキューの肉はずいぶんと
+食べでがありましたね</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、有希に任せたらなかなか
+いい買い物をしてくれたわ</value>
+  </data>
+  <data name="21 KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼女の観察眼はたいしたもののよう
+ですね</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、きっと目端がきくのね</value>
+  </data>
+</root>

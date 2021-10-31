@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>そういやさっき、長門に速読術を
+教わったんだ</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、まあ、確かに有希の読む早さ
+は並みじゃないわね</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>これで長門みたいに本を読みまくっ
+てやるぜ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>速さが身に付いても、読んだものを
+理解できる頭がなくちゃ</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>無意味でしょ？</value>
+  </data>
+  <data name="5 KYON (キョン)" xml:space="preserve">
+    <value>う、痛いところを突くな</value>
+  </data>
+  <data name="6 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>実は、速読術自体も難しすぎて
+俺にはできそうにないのだが</value>
+  </data>
+  <data name="7 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それはさすがに黙っておこう</value>
+  </data>
+  <data name="8 MIKURU (みくる)" xml:space="preserve">
+    <value>いつも思うんですけど、長門さんは
+本を読むのがすごく速いですよねえ</value>
+  </data>
+  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、なにか速読術みたいなのを
+身につけてるのかしらね</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういえばキョンが、部室で有希
+から速読術を教わろうとしてたわ</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、速読の本を渡されて、それを
+ゆっくり読んでたみたい</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほんともう、使えないったら！</value>
+  </data>
+  <data name="13 MIKURU (みくる)" xml:space="preserve">
+    <value>うふふ、でも、キョンくんらしいと
+思います</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……ま、それは否定しないけど
+間が抜けてるって意味よね</value>
+  </data>
+  <data name="15 NAGATO (長門)" xml:space="preserve">
+    <value>部室で言っていた、サブリミナル
+速読法</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、あれがどうかした？</value>
+  </data>
+  <data name="17 NAGATO (長門)" xml:space="preserve">
+    <value>考え方は、正解</value>
+  </data>
+  <data name="18 NAGATO (長門)" xml:space="preserve">
+    <value>多くの瞬間記憶術は、ページを画像
+として記憶することで処理している</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、さすが有希ね
+……さすがあたしと言うべきかしら</value>
+  </data>
+  <data name="20 NAGATO (長門)" xml:space="preserve">
+    <value>恐らく、後者</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やっぱり？　ふふん、あとでキョン
+に自慢してやるわ</value>
+  </data>
+  <data name="22 KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんの速読術には、何か秘訣が
+あるのでしょうかね</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうねえ</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でもまあ、速読なんてコツさえ
+掴んだら誰でもできるはずよ</value>
+  </data>
+  <data name="25 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうなんですか？</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ。速読って要は文字を一つずつ
+追いかけるんじゃなくて</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ページ全体を絵として見ることで
+一気に記憶する技術だからね</value>
+  </data>
+  <data name="28 KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど、勉強になります</value>
+  </data>
+</root>

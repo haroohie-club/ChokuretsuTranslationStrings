@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それは、とある放課後</value>
+  </data>
+  <data name="1 KYON (キョン)" xml:space="preserve">
+    <value>うぃーっす</value>
+  </data>
+  <data name="2 KOIZUMI (古泉)" xml:space="preserve">
+    <value>やあ、こんにちは</value>
+  </data>
+  <data name="3 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部室の扉を開けた俺を出迎えたのは
+無意味に爽やかな笑顔だった</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>なんだ、おまえだけか</value>
+  </data>
+  <data name="5 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ。僕が来た時には、まだ誰も
+いませんでしたね</value>
+  </data>
+  <data name="6 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そのまま踵を返すわけにもいかず
+俺は手近な位置に腰掛けた</value>
+  </data>
+  <data name="7 KOIZUMI (古泉)" xml:space="preserve">
+    <value>&#x18;</value>
+  </data>
+  <data name="8 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>見れば古泉は、これ見よがしに
+チェスの駒を並べはじめている</value>
+  </data>
+  <data name="9 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ところで、よろしければチェスの
+お相手など願えませんか？</value>
+  </data>
+  <data name="10 KYON (キョン)" xml:space="preserve">
+    <value>はぁ？　チェスだと</value>
+  </data>
+  <data name="11 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ルールはお分かりだと思いますが</value>
+  </data>
+  <data name="12 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>未だ、他のメンバーが現れる様子
+などさっぱりわからず</value>
+  </data>
+  <data name="13 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そしてついでに、これといってやる
+ことの予定も予約もあいにくない</value>
+  </data>
+  <data name="14 KYON (キョン)" xml:space="preserve">
+    <value>……ああ、わかった
+つきあってやるよ</value>
+  </data>
+  <data name="15 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺はそう言って、古泉の正面の席に
+移動する</value>
+  </data>
+  <data name="16 KOIZUMI (古泉)" xml:space="preserve">
+    <value>よろしいのですか？
+では、先攻をどうぞ</value>
+  </data>
+  <data name="17 KYON (キョン)" xml:space="preserve">
+    <value>いいのか？　古泉
+そんなの譲って</value>
+  </data>
+  <data name="18 KOIZUMI (古泉)" xml:space="preserve">
+    <value>お気遣いは無用です
+僕も、あれから腕をあげましたから</value>
+  </data>
+  <data name="19 KYON (キョン)" xml:space="preserve">
+    <value>……なら、遠慮無く</value>
+  </data>
+  <data name="20 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は、最初のポーンを動かした</value>
+  </data>
+  <data name="21 KOIZUMI (古泉)" xml:space="preserve">
+    <value>これを見ると、合宿のことを思い出
+しますね</value>
+  </data>
+  <data name="22 KYON (キョン)" xml:space="preserve">
+    <value>……ああ、確かに</value>
+  </data>
+  <data name="23 KYON (キョン)" xml:space="preserve">
+    <value>何かにつけて、重要な役割をしめた
+代物だからな</value>
+  </data>
+  <data name="24 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかしその思い出は楽しくも甘酸っ
+ぱくもない唯々疲れただけの記憶だ</value>
+  </data>
+  <data name="25 KOIZUMI (古泉)" xml:space="preserve">
+    <value>あれはなかなかスリリングな
+一夜でした</value>
+  </data>
+  <data name="26 KYON (キョン)" xml:space="preserve">
+    <value>スリリングねえ、俺は絶体絶命とか
+そっちの方が似合いだと思うが</value>
+  </data>
+  <data name="27 KOIZUMI (古泉)" xml:space="preserve">
+    <value>とはいえ、我々はこうして無事に
+日々を過ごしているわけですし</value>
+  </data>
+  <data name="28 KOIZUMI (古泉)" xml:space="preserve">
+    <value>過ぎ去りし過去に思いをはせるなら
+多少の美化も必要かと</value>
+  </data>
+  <data name="29 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あの合宿をどれだけ美化すりゃ
+楽しい思い出になるのやら</value>
+  </data>
+  <data name="30 KYON (キョン)" xml:space="preserve">
+    <value>よっし、いただき</value>
+  </data>
+  <data name="31 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺のナイトが古泉のポーンを一つ
+盤上から叩き出す</value>
+  </data>
+  <data name="32 KOIZUMI (古泉)" xml:space="preserve">
+    <value>うーん、やられましたね</value>
+  </data>
+  <data name="33 KYON (キョン)" xml:space="preserve">
+    <value>どこが腕をあげたんだ、どこが</value>
+  </data>
+  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ここから本気でいきますよ</value>
+  </data>
+  <data name="35 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まるで信憑性のないことをほざいて
+古泉もナイトを進める</value>
+  </data>
+  <data name="36 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部室には未だに誰もやってこない</value>
+  </data>
+  <data name="37 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いつの間にか俺は古泉とのチェスに
+熱中していた</value>
+  </data>
+  <data name="38 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やっぱり古泉は弱くて、多少張り
+合いがないのだが……</value>
+  </data>
+  <data name="39 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まあ、ほんの少しは腕をあげたかも
+しれない</value>
+  </data>
+  <data name="40 KYON (キョン)" xml:space="preserve">
+    <value>……たまにはこういうのも悪くない</value>
+  </data>
+  <data name="41 KOIZUMI (古泉)" xml:space="preserve">
+    <value>何か言いましたか？</value>
+  </data>
+  <data name="42 KYON (キョン)" xml:space="preserve">
+    <value>なんでもないさ。ほら、チェックだ</value>
+  </data>
+  <data name="43 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こうして何気ない放課後が
+過ぎていく</value>
+  </data>
+</root>

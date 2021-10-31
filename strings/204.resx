@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>そういや、古泉から新説の説明は
+もう受けたのか？</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>新説の説明？　なにそれ？</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>例の怪奇現象について、なにやら
+ＳＦ的な解釈がどうとか言ってたぞ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんでここにＳＦが出てくるのよ</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>俺に聞かれても知らん</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんのことだから、それなりに
+説得力のある情報なんだろうけど</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>学校の怪奇現象にＳＦは似合わない
+わね。風流に欠けるわ</value>
+  </data>
+  <data name="7 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>風流て。ハルヒよ、お前は怪奇現象
+に一体なにを求めてるんだ？</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>夏にオバケ、冬に雪女、廃墟に怪談
+学校には怪奇現象と決まってるのよ</value>
+  </data>
+  <data name="9 KYON (キョン)" xml:space="preserve">
+    <value>どこの誰が決めたのか聞きたいね</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしに決まってるじゃない</value>
+  </data>
+  <data name="11 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だろうとは思ったけどな</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＦはちょっと場違いね
+あたし的には、残念だわ</value>
+  </data>
+  <data name="13 KYON (キョン)" xml:space="preserve">
+    <value>……やれやれ</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>そういえば、キョンくんが言って
+ました。古泉くんの話……</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんが、どうかしたの？</value>
+  </data>
+  <data name="16 MIKURU (みくる)" xml:space="preserve">
+    <value>今回のピアノ騒動も、何かのトリッ
+クで起こってるんじゃないかって</value>
+  </data>
+  <data name="17 MIKURU (みくる)" xml:space="preserve">
+    <value>ＳＦ的な観点から、推理してみる
+って言ってたとか……</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＦ的な観点っていうのが謎ね</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>宇宙人の仕業、とか言い出すんじゃ
+ないでしょうね</value>
+  </data>
+  <data name="20 MIKURU (みくる)" xml:space="preserve">
+    <value>ど、どうでしょう？</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ古泉くんに限って、そんな妙な
+ことを言い出すとは思えないけど</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンはときどき、意味不明なこと
+を言ったりするから要注意ね</value>
+  </data>
+  <data name="23 MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくん……信用ないんですね</value>
+  </data>
+  <data name="24 MIKURU (みくる)" xml:space="preserve">
+    <value>がんばれ、キョンくん……！</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今度という今度こそ、間違いなく
+怪奇現象だわ</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希も、そう思うでしょ？</value>
+  </data>
+  <data name="27 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="28 NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹は、ＳＦ的観点から今回の
+現象を分析しようとしている</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＦ的観点？　なにそれ？</value>
+  </data>
+  <data name="30 NAGATO (長門)" xml:space="preserve">
+    <value>サイエンスフィクション</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>意味は知ってるわよ</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あのね、有希。そうじゃなく
+どんな分析なのかって話</value>
+  </data>
+  <data name="33 NAGATO (長門)" xml:space="preserve">
+    <value>そこまでは聞いていない</value>
+  </data>
+  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＦ的に怪奇現象を解き明かす？
+そんなこと出来るのかしら？</value>
+  </data>
+  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと興味深いけど……やっぱり
+一番面白いのは、霊の仕業よね</value>
+  </data>
+  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんのＳＦ的解釈は、また今度
+じっくり聞くことにしましょう</value>
+  </data>
+  <data name="37 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="38 KOIZUMI (古泉)" xml:space="preserve">
+    <value>今回の一件、僕なりに少し考えてみ
+たことがあるのですが……</value>
+  </data>
+  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんなりの考察ね、拝聴するわ</value>
+  </data>
+  <data name="40 KOIZUMI (古泉)" xml:space="preserve">
+    <value>実は、ややＳＦ的な解釈になってし
+まうのですが、かまいませんか？</value>
+  </data>
+  <data name="41 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＦ的な解釈？　例えばどんな？</value>
+  </data>
+  <data name="42 KOIZUMI (古泉)" xml:space="preserve">
+    <value>例えば、時間軸のズレによって発生
+した現象である……とか</value>
+  </data>
+  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="44 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くん、さすがに突拍子もない
+解釈は成り立たないわ</value>
+  </data>
+  <data name="45 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですね。無理がありますね</value>
+  </data>
+  <data name="46 KOIZUMI (古泉)" xml:space="preserve">
+    <value>時空を越えてメッセージが届く、と
+いうのはＳＦのロマンなのですが</value>
+  </data>
+  <data name="47 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ロマンはわかるけど、説得力がない
+と意味を成さないわね</value>
+  </data>
+  <data name="48 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>次に期待してるわ</value>
+  </data>
+  <data name="49 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ご期待に沿えるよう、もう少し考え
+てみます</value>
+  </data>
+</root>

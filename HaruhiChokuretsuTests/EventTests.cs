@@ -14,7 +14,8 @@ namespace HaruhiChokuretsuTests
         public void EventFileParserTest(string eventFile)
         {
             byte[] eventFileOnDisk = File.ReadAllBytes(eventFile);
-            EventFile @event = new(eventFileOnDisk);
+            EventFile @event = new();
+            @event.Initialize(eventFileOnDisk);
 
             Assert.AreEqual(eventFileOnDisk, @event.GetBytes());
         }
@@ -24,9 +25,9 @@ namespace HaruhiChokuretsuTests
         [TestCase(".\\inputs\\evt.bin")]
         public void EvtFileParserTest(string evtFile)
         {
-            EvtFile evt = EvtFile.FromFile(evtFile, out _);;
+            FileSystemFile<EventFile> evt = FileSystemFile<EventFile>.FromFile(evtFile);
 
-            foreach (EventFile eventFile in evt.EventFiles)
+            foreach (EventFile eventFile in evt.Files)
             {
                 Assert.AreEqual(eventFile.Offset, evt.RecalculateEventOffset(eventFile));
             }
@@ -34,7 +35,7 @@ namespace HaruhiChokuretsuTests
             byte[] newEvtBytes = evt.GetBytes();
             Console.WriteLine($"Efficiency: {(double)newEvtBytes.Length / File.ReadAllBytes(evtFile).Length * 100}%");
 
-            EvtFile newEvtFile = new EvtFile(newEvtBytes, out _);
+            FileSystemFile<EventFile> newEvtFile = new FileSystemFile<EventFile>(newEvtBytes);
             Assert.AreEqual(newEvtBytes, newEvtFile.GetBytes());
         }
     }

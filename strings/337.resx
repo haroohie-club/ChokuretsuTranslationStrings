@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>はあ……</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、ため息なんかついちゃって</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>色々あったから疲れてるんだよ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなのは気の持ちようでなんとか
+なるのよ。気合い入れなさい！</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>あー、そういえば長門にやる気を
+注入してもらったんだ</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希も可愛いことをするじゃない
+あたしにもして欲しいわね</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>いやいや、おまえがこれ以上やる気
+を出したら、正直たまらん</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによそれ、あたしが災いの元凶
+みたいな言い方ね！</value>
+  </data>
+  <data name="8 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まさにその通りなんだがな</value>
+  </data>
+  <data name="9 MIKURU (みくる)" xml:space="preserve">
+    <value>聞いてください、涼宮さん</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにかしら、みくるちゃん</value>
+  </data>
+  <data name="11 MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんが、長門さんにやる気を
+注入されたって言ってました</value>
+  </data>
+  <data name="12 MIKURU (みくる)" xml:space="preserve">
+    <value>肩を叩かれただけらしいんですけど
+なんだか微笑ましいですよね？</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>つまり、キョンはやる気がなかった
+のね？　肝試しの時よね？</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>え、ええ。そう、肝試しの時です</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あいつ、やっぱり途中でサボって
+たのね。　もうキョンったら！</value>
+  </data>
+  <data name="16 MIKURU (みくる)" xml:space="preserve">
+    <value>サボってたって……その、別に……</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいのよ、みくるちゃん。キョンを
+庇おうなんてしなくて</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>後で締め上げて、あたしが自ら
+やる気を注入してあげるわ！</value>
+  </data>
+  <data name="19 MIKURU (みくる)" xml:space="preserve">
+    <value>……キョンくん、ごめんなさい～</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x14;</value>
+  </data>
+  <data name="21 NAGATO (長門)" xml:space="preserve">
+    <value>&#x14;</value>
+  </data>
+  <data name="22 NAGATO (長門)" xml:space="preserve">
+    <value>注入</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>&#x14;</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　どうしたの？　背中になんか
+ついてた？</value>
+  </data>
+  <data name="25 NAGATO (長門)" xml:space="preserve">
+    <value>こうやると、やる気が注入できる</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、そうなんだ？</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、あたしなら心配無用よ
+いつでもやる気まんまんだもの</value>
+  </data>
+  <data name="28 NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんは、人をやる気にさせる
+テクニックもお持ちのようですね</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希が？　やる気にさせるって？</value>
+  </data>
+  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ポンと背中を叩くだけで、やる気が
+満ち溢れてくるのだとか</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だったら、キョンの背中を百発くら
+い叩かせましょう</value>
+  </data>
+  <data name="33 KOIZUMI (古泉)" xml:space="preserve">
+    <value>その彼から聞いた話なんですよ</value>
+  </data>
+  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンから？　ふうん……
+そのわりにはやる気なさそうね</value>
+  </data>
+</root>

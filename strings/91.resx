@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>あのな、ハルヒ。仮定の話なんだが</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>しゃべってないで歩きなさいよっ！</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>まあ待てって。おまえが２人いたと
+仮定して、だ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>鏡の話ね</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>ああ、おまえが２人になったとして
+おまえは自分の分身をどう思う？</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大歓迎よ、２人して一緒に大いに
+世界を盛り上げるわっ！</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>自分の分身に対抗意識を抱いたり
+しないのか？</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>利害が一致していたら、そんな意識
+必要ないわよ</value>
+  </data>
+  <data name="8 KYON (キョン)" xml:space="preserve">
+    <value>それって女心なのか？</value>
+  </data>
+  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はぁ……あのね、利害の一致って
+言ったわよね</value>
+  </data>
+  <data name="10 KYON (キョン)" xml:space="preserve">
+    <value>ああ、それは聞いた</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それ以上でも以下でもないわよ
+だから対抗意識なんてないのよっ</value>
+  </data>
+  <data name="12 KYON (キョン)" xml:space="preserve">
+    <value>そういうもんか？</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もしあたしの分身があたしの敵なら
+それはもう徹底抗戦よっ！</value>
+  </data>
+  <data name="14 KYON (キョン)" xml:space="preserve">
+    <value>なるほどな……</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにがなるほどなのよ</value>
+  </data>
+  <data name="16 KYON (キョン)" xml:space="preserve">
+    <value>おまえって、仮定でも真剣なのかと
+思ってな</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしはいつだって真剣よっ</value>
+  </data>
+  <data name="18 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それに振り回される者の身にも
+少しは真剣になって欲しいね</value>
+  </data>
+  <data name="19 MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、正直に言います</value>
+  </data>
+  <data name="20 MIKURU (みくる)" xml:space="preserve">
+    <value>もうひとりのあたしに対して
+冷静でいられる自信がありません</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは当然ね。でも安心しなさい</value>
+  </data>
+  <data name="22 MIKURU (みくる)" xml:space="preserve">
+    <value>わ、わかってもらえます？</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんな状況でみくるちゃんが冷静に
+対応するなんて期待してないから</value>
+  </data>
+  <data name="24 MIKURU (みくる)" xml:space="preserve">
+    <value>……えーっと</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>派手に動転して悲鳴を上げて
+場を大いに盛り上げてちょうだい！</value>
+  </data>
+  <data name="26 MIKURU (みくる)" xml:space="preserve">
+    <value>あのぅ、それは言ってる意図と
+違うというか……そのぉ</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにかしら、みくるちゃん？
+ほら、早くいくわよっ</value>
+  </data>
+  <data name="28 MIKURU (みくる)" xml:space="preserve">
+    <value>……もういいです</value>
+  </data>
+  <data name="29 NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるが、対抗心を
+燃やしていた</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へー、みくるちゃんがねぇ
+珍しいじゃない</value>
+  </data>
+  <data name="31 NAGATO (長門)" xml:space="preserve">
+    <value>そう思う</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>で、何に対抗心を燃やしてた
+わけ？</value>
+  </data>
+  <data name="33 NAGATO (長門)" xml:space="preserve">
+    <value>……自分の分身</value>
+  </data>
+  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>鏡の分身の謎を解き明かすために、
+そんなにやる気を出してたなんて！</value>
+  </data>
+  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いい心がけだわ、みくるちゃん！</value>
+  </data>
+  <data name="36 KOIZUMI (古泉)" xml:space="preserve">
+    <value>自分がふたりになった場合、もう
+ひとりに対しどんな感情を持つのか</value>
+  </data>
+  <data name="37 KOIZUMI (古泉)" xml:space="preserve">
+    <value>興味深くはありますね</value>
+  </data>
+  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>鏡の分身に遭遇したらの話？</value>
+  </data>
+  <data name="39 KOIZUMI (古泉)" xml:space="preserve">
+    <value>はい。朝比奈さんは自分がふたりに
+なるのが不満のようでした</value>
+  </data>
+  <data name="40 KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕も同族嫌悪を感じそうですよ
+涼宮さんはいかがですか？</value>
+  </data>
+  <data name="41 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしはそうねぇ。そういう事は
+あまり考えない方かな</value>
+  </data>
+  <data name="42 KOIZUMI (古泉)" xml:space="preserve">
+    <value>考えないのですか</value>
+  </data>
+  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>分身が現れるって現象に、そんな
+細かいこと気にしてられないわよ</value>
+  </data>
+  <data name="44 KOIZUMI (古泉)" xml:space="preserve">
+    <value>あなたには瑣事に過ぎないですか
+相変わらず大物ですね、涼宮さん</value>
+  </data>
+  <data name="45 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>当然でしょ</value>
+  </data>
+</root>

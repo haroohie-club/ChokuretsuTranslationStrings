@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>おい、ハルヒ。さっきセミの抜け殻
+を見つけたんだ</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……驚いたわ</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>おまえ、セミの抜け殻を見たことが
+ないのか？</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>抜け殻なんてあちこちに落っこちて
+いるから、珍しくもないわよ</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>じゃあ、なにに驚いたんだ？</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンがそんなものを大事そうに
+持っていることに驚いたのよっ</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まさか、そこまで子供じみている
+とはね</value>
+  </data>
+  <data name="7 KYON (キョン)" xml:space="preserve">
+    <value>子供で悪うございましたねぇ</value>
+  </data>
+  <data name="8 MIKURU (みくる)" xml:space="preserve">
+    <value>買い出しの道で長門さんが
+セミの抜け殻を見つけたそうです</value>
+  </data>
+  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>夏だものね。山に行ったらもっと
+ゴロゴロしてるわよ</value>
+  </data>
+  <data name="10 MIKURU (みくる)" xml:space="preserve">
+    <value>季節の風物詩ですか？</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ。俳句にでもなりそうじゃ
+ない？　で、それがどうしたの？</value>
+  </data>
+  <data name="12 MIKURU (みくる)" xml:space="preserve">
+    <value>珍しい種類のセミでキョンくんが
+貰ったんだそうですよ</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>セミの抜け殻貰ってどうするんだか</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>どうするんでしょうね？　お墓を
+作ってあげるんでしょうか？</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、抜け殻は死骸じゃ
+ないから、お墓はいらないわ</value>
+  </data>
+  <data name="16 MIKURU (みくる)" xml:space="preserve">
+    <value>あっ、そ、そうですね、すみません</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういえば、子供の頃に抜け殻集め
+て見せびらかしてる男の子がいたわ</value>
+  </data>
+  <data name="18 MIKURU (みくる)" xml:space="preserve">
+    <value>……どこがいいんでしょうね？</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>男って謎の生きものなのよ</value>
+  </data>
+  <data name="20 MIKURU (みくる)" xml:space="preserve">
+    <value>うーん、そうかもしれませんね</value>
+  </data>
+  <data name="21 NAGATO (長門)" xml:space="preserve">
+    <value>さっき校門前で、セミの抜け殻を
+見かけた</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん、夏だものねえ。でも、それ
+くらいどこでも見つかるでしょ</value>
+  </data>
+  <data name="23 NAGATO (長門)" xml:space="preserve">
+    <value>本州ではあまり見かけない品種</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へぇ、そうなの？　じゃあ、抜け殻
+じゃなくて本体のセミを</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうにかして捕まえたいわね</value>
+  </data>
+  <data name="26 NAGATO (長門)" xml:space="preserve">
+    <value>採集には道具が必要</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>決めたわっ、夏休みの間に昆虫採集
+をしましょう</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その珍しいセミを見つけるわよ！</value>
+  </data>
+  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんが、セミの抜け殻を拾って
+お持ちだったこと、ご存知ですか？</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>また懐かしいアイテムを拾ったわね</value>
+  </data>
+  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+    <value>懐かしいですか？</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>子供の頃は、あたしも拾ったわ</value>
+  </data>
+  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>飴色で軽くて、不思議とそんなに
+気持ち悪くないのよね、アレって</value>
+  </data>
+  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+    <value>童心に帰る、というやつですね</value>
+  </data>
+</root>

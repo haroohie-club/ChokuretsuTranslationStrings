@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>しかし、マシュマロって焼いて食べ
+るもんだったんだな</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、あんた知らなかったの？</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>お前は知ってたのかよ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そりゃそうよ。えっと……どこの
+地方の郷土料理かは知らないけど</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>なんだ、お前だってそんなに詳しく
+はないんじゃないか</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>っさいわねー、ほら、さっさと行く
+わよ！</value>
+  </data>
+  <data name="6 MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、焼いたマシュマロ
+とっても美味しかったですね</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、バーベキューの時に
+食べたやつね？</value>
+  </data>
+  <data name="8 MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですっ
+長門さんが選んだものなんですよ</value>
+  </data>
+  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へぇ、有希が選んだんだ</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>たき火にマシュマロは付き物だもの
+有希ってば、本当に気が利くわ</value>
+  </data>
+  <data name="11 MIKURU (みくる)" xml:space="preserve">
+    <value>そうですね、焼くとトロッとして
+すごく楽しかったです</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれって、１つ１つ焼かないと
+いけないのがめんどくさいのよね</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんとか一気に焼けないかしら
+って思ってたわ</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>す、涼宮さんそんなことをしたら
+全部溶けちゃいますよぅ</value>
+  </data>
+  <data name="15 NAGATO (長門)" xml:space="preserve">
+    <value>マシュマロ、おいしかった</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。ああやって焼いて食べるの
+も、なかなかオツね</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、熱くて溶けてるから、口を
+ヤケドするかと思ったわ</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたし、熱いお茶とかは平気なんだ
+けど、マシュマロは結構むずいわね</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は平気だった？</value>
+  </data>
+  <data name="20 NAGATO (長門)" xml:space="preserve">
+    <value>平気</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれが平気だったら、どんな熱い
+ものでも大丈夫そうね</value>
+  </data>
+  <data name="22 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="23 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さん、マシュマロを焼くという
+調理法はどこが起源かご存知ですか</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キャンプやバーベキュー大好きな国
+に決まってるじゃない</value>
+  </data>
+  <data name="25 KOIZUMI (古泉)" xml:space="preserve">
+    <value>さすがは涼宮さん、よくご存知で</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなのは想像力と推理力でなんと
+でもなるわよっ</value>
+  </data>
+  <data name="27 KOIZUMI (古泉)" xml:space="preserve">
+    <value>いやいや、恐れ入りました</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それで、どこの国が起源なの</value>
+  </data>
+  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+    <value>アメリカのガールスカウトが、募金
+活動の一環で始めたそうです</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん。古泉君の豆知識もなかなか
+大したものだわ</value>
+  </data>
+  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ありがとうございます</value>
+  </data>
+</root>

@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 INFO (インフォ)" xml:space="preserve">
+    <value>#P04以上で解決パートチュートリアルを
+終了します</value>
+  </data>
+  <data name="1 INFO (インフォ)" xml:space="preserve">
+    <value>#P04本編の解決パートに向けて、以降の
+探索パート中の行動へのヒントを</value>
+  </data>
+  <data name="2 INFO (インフォ)" xml:space="preserve">
+    <value>#P04お伝えします</value>
+  </data>
+  <data name="3 INFO (インフォ)" xml:space="preserve">
+    <value>#P04１：“ハルヒメーター”について</value>
+  </data>
+  <data name="4 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="5 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="6 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="7 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="8 INFO (インフォ)" xml:space="preserve">
+    <value>#P04探索パート中の行動で“ハルヒ
+メーター”を増加させておくと</value>
+  </data>
+  <data name="9 INFO (インフォ)" xml:space="preserve">
+    <value>#P04解決パートの基本制限時間に
+ボーナスが追加されます</value>
+  </data>
+  <data name="10 INFO (インフォ)" xml:space="preserve">
+    <value>#P04“ハルヒメーター”は新・七不思議
+の怪奇現象に対する</value>
+  </data>
+  <data name="11 INFO (インフォ)" xml:space="preserve">
+    <value>#P04“涼宮ハルヒの集中度”をどれだけ
+拡散させたかを表しています。</value>
+  </data>
+  <data name="12 INFO (インフォ)" xml:space="preserve">
+    <value>#P04メーターが減少するほど怪奇現象
+に対する興味が高い状態を表し</value>
+  </data>
+  <data name="13 INFO (インフォ)" xml:space="preserve">
+    <value>#P04目的地に早く移動しようとします
+（制限時間ボーナスが減少します）</value>
+  </data>
+  <data name="14 INFO (インフォ)" xml:space="preserve">
+    <value>#P04メーターが増加すると、他の情報に
+興味を奪われている状態を表し</value>
+  </data>
+  <data name="15 INFO (インフォ)" xml:space="preserve">
+    <value>#P04寄り道しやすくなります
+（制限時間ボーナスが増加します）</value>
+  </data>
+  <data name="16 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="17 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="18 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="19 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="20 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="21 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="22 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="23 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="24 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="25 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="26 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="27 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="28 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="29 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="30 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="31 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="32 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="33 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="34 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="35 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+  <data name="36 INFO (インフォ)" xml:space="preserve">
+    <value>&#xB;</value>
+  </data>
+</root>

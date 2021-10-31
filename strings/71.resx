@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>この合宿中に、朝比奈さんは
+いかほど涙ぐんだであろうか？</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、唐突にそれは</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>そろそろ涙で池ができるぞ</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大げさね！　みくるちゃんは
+涙ぐんでるだけでしょ</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まだ泣き出したりしてないわ</value>
+  </data>
+  <data name="5 KYON (キョン)" xml:space="preserve">
+    <value>涙ぐむだけで十分気の毒だろ
+ずーっと怖がってるんだぞ</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うん、実はちょっとだけ可哀想だと
+は思ってるのよ</value>
+  </data>
+  <data name="7 KYON (キョン)" xml:space="preserve">
+    <value>ほお</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、怪談話検証してるのに怯え役
+いなかったらしまらないじゃない？</value>
+  </data>
+  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんしか、適任がいない
+団員構成がまずいんだわ！</value>
+  </data>
+  <data name="10 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そもそも怪談話の検証なんかするな
+おかげでここはオカルト学校だ</value>
+  </data>
+  <data name="11 MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、あたしの目って、
+ちょっと赤くなってませんか？</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あら、言われてみるとそうね
+ゴミでも入ったの？</value>
+  </data>
+  <data name="13 MIKURU (みくる)" xml:space="preserve">
+    <value>いえ、肝試しの時にちょっと
+怖い思いをしちゃって……</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>涙目になっちゃったんです</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>えっ、まさかキョンに何かされたん
+じゃないでしょうね！</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>許せないわ。速攻で締め上げて、
+公開処刑にしてやるわよ！</value>
+  </data>
+  <data name="17 MIKURU (みくる)" xml:space="preserve">
+    <value>ちちちち、ちがいますぅっ！</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え、キョンじゃないの？</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、まさかとは思うけど、
+古泉くんが犯人？</value>
+  </data>
+  <data name="20 MIKURU (みくる)" xml:space="preserve">
+    <value>ふ、ふたりとも何もしてませんよぅ</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、どうして涙目になったのよ</value>
+  </data>
+  <data name="22 MIKURU (みくる)" xml:space="preserve">
+    <value>怖い物を見たんですよぅ。それで
+ビックリして泣いただけですからっ</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、その辺の何かを見た
+程度でビビッていたらダメよ</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これから行くところには、もっと
+スゴイものがあるかもしれないから</value>
+  </data>
+  <data name="25 MIKURU (みくる)" xml:space="preserve">
+    <value>えぇぇっ</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>楽しみだわねっ、みくるちゃんも
+今から心の準備をしておきなさい！</value>
+  </data>
+  <data name="27 NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるの目が充血していた
+よくない状態</value>
+  </data>
+  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれ、みくるちゃんってコンタクト
+してたりしたっけ？</value>
+  </data>
+  <data name="29 NAGATO (長門)" xml:space="preserve">
+    <value>そうではない。恐怖からくる緊張に
+よる目の充血。涙の分泌も増加</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ずいぶん怖がってたものね。でも、
+みくるちゃんっていつも涙目よねえ</value>
+  </data>
+  <data name="31 NAGATO (長門)" xml:space="preserve">
+    <value>……感情が高ぶった時も涙の分泌
+量が増える</value>
+  </data>
+  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんの場合、そっちの方が
+全然多い感じよね</value>
+  </data>
+  <data name="33 KOIZUMI (古泉)" xml:space="preserve">
+    <value>余計な一言を漏らしてしまうこと
+が多いようです。僕は</value>
+  </data>
+  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう？　あたしは別に、そうは思わ
+ないけど……</value>
+  </data>
+  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+    <value>不用意な発言で、先程も、朝比奈さ
+んを怖がらせてしまいました</value>
+  </data>
+  <data name="36 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涙目になってらっしゃいましたよ</value>
+  </data>
+  <data name="37 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんはちょっと、過敏なの
+よね。もっとズボラじゃないと</value>
+  </data>
+  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンはズボラすぎるけどね</value>
+  </data>
+</root>

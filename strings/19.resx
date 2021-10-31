@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんは物忘れが多かったか？</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんが？　そんなことは
+ないと思うけど？</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>だよな</value>
+  </data>
+  <data name="3 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だとすると、やはりあれは認めたく
+ない現実からの逃避というヤツだな</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それがどうしたのよ</value>
+  </data>
+  <data name="5 KYON (キョン)" xml:space="preserve">
+    <value>可哀想な朝比奈さんは、七不思議
+探索が怖くてしょうがないらしい</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どこがどう繋がるのかわからない
+んだけど？</value>
+  </data>
+  <data name="7 KYON (キョン)" xml:space="preserve">
+    <value>つまりだな。朝比奈さんは怪談話の
+ことを忘れ去っていたんだ</value>
+  </data>
+  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん、それで？</value>
+  </data>
+  <data name="9 KYON (キョン)" xml:space="preserve">
+    <value>怖いことは考えないようにしよう
+という本能だろうな</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>かもしれないわね</value>
+  </data>
+  <data name="11 KYON (キョン)" xml:space="preserve">
+    <value>少しは同情してやれよ</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>同情しても物事は解決しないわ
+それより前向きに生きるべきよ</value>
+  </data>
+  <data name="13 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>恐るべしハルヒの自分勝手理論</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>怖いものには自分から対峙しないと
+いつまでも怖いままってことよ</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんのためにも、怪談捜し
+を続けなくちゃ！</value>
+  </data>
+  <data name="16 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やれやれ、図にのせてしまったか</value>
+  </data>
+  <data name="17 MIKURU (みくる)" xml:space="preserve">
+    <value>あたしって忘れっぽいところが
+あるんです</value>
+  </data>
+  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんはドジっ娘キャラ認定
+だから、それで問題ないと思うけど</value>
+  </data>
+  <data name="19 MIKURU (みくる)" xml:space="preserve">
+    <value>ううっ、あんまり嬉しくありません</value>
+  </data>
+  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>贅沢ねえ。で、みくるちゃんは
+どうしたいわけ？</value>
+  </data>
+  <data name="21 MIKURU (みくる)" xml:space="preserve">
+    <value>直せるものなら直したいと……</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>欠点を克服しようという意欲は
+大切だわ</value>
+  </data>
+  <data name="23 MIKURU (みくる)" xml:space="preserve">
+    <value>そうですよね</value>
+  </data>
+  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも意欲だけじゃダメよ。解決に
+向かうための手段は考えたわけ？</value>
+  </data>
+  <data name="25 MIKURU (みくる)" xml:space="preserve">
+    <value>手段って……？</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>たとえば、一定時間ごとに確認して
+みるとか、必ずメモをするとか</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>忘れやすいことに対する対応手段を
+考えてみたのかしら？</value>
+  </data>
+  <data name="28 MIKURU (みくる)" xml:space="preserve">
+    <value>ええと……考えてませんでした</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それじゃ、くよくよしてるだけ？
+無意味じゃないの</value>
+  </data>
+  <data name="30 MIKURU (みくる)" xml:space="preserve">
+    <value>はあ……そうですね</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいわ。あたしに任せなさい</value>
+  </data>
+  <data name="32 MIKURU (みくる)" xml:space="preserve">
+    <value>あ、ありがとうございます</value>
+  </data>
+  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょうど良いわ。忘れっぽいより先
+に怖がりを克服することにしましょ</value>
+  </data>
+  <data name="34 MIKURU (みくる)" xml:space="preserve">
+    <value>え？</value>
+  </data>
+  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしとトコトン怪談調査すれば、
+慣れて怖がりを克服できるはずよ！</value>
+  </data>
+  <data name="36 MIKURU (みくる)" xml:space="preserve">
+    <value>ええっ！？
+そ、そんなぁ……</value>
+  </data>
+  <data name="37 NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるは健忘的症状を示し
+ているらしい</value>
+  </data>
+  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>健忘的症状？　忘れっぽいとか？</value>
+  </data>
+  <data name="39 NAGATO (長門)" xml:space="preserve">
+    <value>そう、それ
+本人が嘆いていた</value>
+  </data>
+  <data name="40 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん、何か大切なことでも忘れ
+ちゃったのかしら？</value>
+  </data>
+  <data name="41 NAGATO (長門)" xml:space="preserve">
+    <value>詳細は不明</value>
+  </data>
+  <data name="42 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんはドジっ娘萌えキャラ
+だから、欠点は長所と変わらないわ</value>
+  </data>
+  <data name="43 NAGATO (長門)" xml:space="preserve">
+    <value>では、そう伝えておく</value>
+  </data>
+  <data name="44 KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんが大切なことを忘れて
+いたと落ち込んでいました</value>
+  </data>
+  <data name="45 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大切なことを忘れたねぇ。誰だって
+物忘れくらいするんじゃない？</value>
+  </data>
+  <data name="46 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは真面目だから、落ち
+込んじゃうのよね</value>
+  </data>
+  <data name="47 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンだったら、忘れてることも
+忘れて能天気にしてると思うわ</value>
+  </data>
+  <data name="48 KOIZUMI (古泉)" xml:space="preserve">
+    <value>それは……ありそうな気がしますね</value>
+  </data>
+  <data name="49 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは落ち込みそうね</value>
+  </data>
+  <data name="50 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうですね、大切なことを忘れて
+いたら自責の念に駆られるでしょう</value>
+  </data>
+  <data name="51 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>少しはキョンを見習ってもいい
+かもね</value>
+  </data>
+  <data name="52 KOIZUMI (古泉)" xml:space="preserve">
+    <value>考えておきましょう</value>
+  </data>
+</root>

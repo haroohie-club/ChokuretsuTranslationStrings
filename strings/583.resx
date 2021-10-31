@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 INFO (インフォ)" xml:space="preserve">
+    <value>#P04“ポイント調査”によって出現した
+“ピン”の様な物が“特異点”です</value>
+  </data>
+  <data name="1 INFO (インフォ)" xml:space="preserve">
+    <value>#P04“特異点”とは、情報結合が不安定
+になった空間に</value>
+  </data>
+  <data name="2 INFO (インフォ)" xml:space="preserve">
+    <value>#P04涼宮ハルヒの願望や妄想が取りこま
+れて異空間を補強している物です</value>
+  </data>
+  <data name="3 INFO (インフォ)" xml:space="preserve">
+    <value>#P04このため、“特異点”の形状は
+様々な物があります</value>
+  </data>
+  <data name="4 INFO (インフォ)" xml:space="preserve">
+    <value>#P04“特異点”は長門有希がブースト
+した“モップ”で擦ることにより</value>
+  </data>
+  <data name="5 INFO (インフォ)" xml:space="preserve">
+    <value>#P04その存在自体を消してしまうことが
+出来ます</value>
+  </data>
+  <data name="6 INFO (インフォ)" xml:space="preserve">
+    <value>#P04“特異点”を“タッチペン”で擦る
+と、自動的に団員が隣接マスへ</value>
+  </data>
+  <data name="7 INFO (インフォ)" xml:space="preserve">
+    <value>#P04移動してモップを取り出し
+擦り始めます</value>
+  </data>
+  <data name="8 INFO (インフォ)" xml:space="preserve">
+    <value>#P04“特異点”が完全に消えるまで
+“タッチペン”で擦り続けて下さい</value>
+  </data>
+  <data name="9 INFO (インフォ)" xml:space="preserve">
+    <value>#P04完全に消えてしまう前に擦るのを
+止めてしまうと</value>
+  </data>
+  <data name="10 INFO (インフォ)" xml:space="preserve">
+    <value>#P04“特異点”は時間と共に“自動的に
+回復”して行きます</value>
+  </data>
+  <data name="11 INFO (インフォ)" xml:space="preserve">
+    <value>#P04この“自動回復”はあらゆる状況で
+発生します</value>
+  </data>
+  <data name="12 INFO (インフォ)" xml:space="preserve">
+    <value>#P04“足止めイベント”や“アクシデン
+ト”の最中でも回復しますので</value>
+  </data>
+  <data name="13 INFO (インフォ)" xml:space="preserve">
+    <value>擦る前に上画面を確認して、タイミ
+ングには十分注意してください</value>
+  </data>
+  <data name="14 INFO (インフォ)" xml:space="preserve">
+    <value>“特異点”を擦る際“気持ち広め”
+に“回すように”擦ると効率よく</value>
+  </data>
+  <data name="15 INFO (インフォ)" xml:space="preserve">
+    <value>“特異点”を消去させることが
+出来ます</value>
+  </data>
+</root>

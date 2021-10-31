@@ -1,0 +1,617 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門と２人で音楽室の
+カギを借りに行くことにした</value>
+  </data>
+  <data name="1 KYON (キョン)" xml:space="preserve">
+    <value>スムーズに借りられるといいのだが</value>
+  </data>
+  <data name="2 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>教師達から見れば、校内唯一の
+文芸部員と</value>
+  </data>
+  <data name="3 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>プラスアルファ（俺）だからな</value>
+  </data>
+  <data name="4 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>うさん臭がられてあれこれ
+聞かれると面倒だ</value>
+  </data>
+  <data name="5 NAGATO (長門)" xml:space="preserve">
+    <value>問題ない。簡単に借りる方法はある</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>ん？　そうなのか？</value>
+  </data>
+  <data name="7 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ミリ単位で頭を動かす
+長門流の肯定のサインだ</value>
+  </data>
+  <data name="8 KYON (キョン)" xml:space="preserve">
+    <value>長門、どうすればいいんだ？</value>
+  </data>
+  <data name="9 NAGATO (長門)" xml:space="preserve">
+    <value>簡単</value>
+  </data>
+  <data name="10 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それだけ告げ、長門は重力を無視
+したかのような軽い足取りで</value>
+  </data>
+  <data name="11 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>職員室に入っていった</value>
+  </data>
+  <data name="12 NAGATO (長門)" xml:space="preserve">
+    <value>&#x1E;</value>
+  </data>
+  <data name="13 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しばらく後、職員室の扉を開けて
+長門がゆっくりと姿を現す</value>
+  </data>
+  <data name="14 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>戻ってくるなり、長門は
+１枚の用紙を俺に差し出してきた</value>
+  </data>
+  <data name="15 NAGATO (長門)" xml:space="preserve">
+    <value>これ</value>
+  </data>
+  <data name="16 KYON (キョン)" xml:space="preserve">
+    <value>ん？　なんだこの紙は</value>
+  </data>
+  <data name="17 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なになに……
+校内施設利用の申請書？</value>
+  </data>
+  <data name="18 KYON (キョン)" xml:space="preserve">
+    <value>えっと、これを書けばいいのか？</value>
+  </data>
+  <data name="19 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="20 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なるほど、部屋を利用するには
+申請書が必要だったのか</value>
+  </data>
+  <data name="21 KYON (キョン)" xml:space="preserve">
+    <value>長門にしては、正攻法だな</value>
+  </data>
+  <data name="22 NAGATO (長門)" xml:space="preserve">
+    <value>正規の手続きで借りられるのなら
+何ら問題はない</value>
+  </data>
+  <data name="23 KYON (キョン)" xml:space="preserve">
+    <value>そりゃそうだ</value>
+  </data>
+  <data name="24 KYON (キョン)" xml:space="preserve">
+    <value>じゃあ、怪しまれないように
+適当に理由をでっち上げて……と</value>
+  </data>
+  <data name="25 KYON (キョン)" xml:space="preserve">
+    <value>長門、これを当番の教師に
+渡せばいいんだな？</value>
+  </data>
+  <data name="26 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>またもやわずかに頭を動かす長門
+だったが</value>
+  </data>
+  <data name="27 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="28 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>他に何かあるのだろうか？</value>
+  </data>
+  <data name="29 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>無機質の様な長門の瞳が気になる</value>
+  </data>
+  <data name="30 KYON (キョン)" xml:space="preserve">
+    <value>長門、どうかしたのか？</value>
+  </data>
+  <data name="31 NAGATO (長門)" xml:space="preserve">
+    <value>……もう１枚いる？</value>
+  </data>
+  <data name="32 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門の手には、予備分らしき
+申請書が握られている</value>
+  </data>
+  <data name="33 KYON (キョン)" xml:space="preserve">
+    <value>ああ、じゃあ一応もらっておくよ</value>
+  </data>
+  <data name="34 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="35 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門が俺に申請書を差し出してきた</value>
+  </data>
+  <data name="36 KYON (キョン)" xml:space="preserve">
+    <value>予備の申請書か……</value>
+  </data>
+  <data name="37 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>また必要になるかもしれないしな</value>
+  </data>
+  <data name="38 KYON (キョン)" xml:space="preserve">
+    <value>いや、いらない
+使うのは今回だけだしな</value>
+  </data>
+  <data name="39 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="40 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門は用が済んだとばかりに
+申請書を元に戻した</value>
+  </data>
+  <data name="41 KYON (キョン)" xml:space="preserve">
+    <value>さて、書類も書き終わったし
+俺はカギを借りてくるよ</value>
+  </data>
+  <data name="42 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="43 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門に見送られながら
+教師の元へ行った</value>
+  </data>
+  <data name="44 NAGATO (長門)" xml:space="preserve">
+    <value>&#x1E;</value>
+  </data>
+  <data name="45 KYON (キョン)" xml:space="preserve">
+    <value>カギを借りられたのはいいけど
+ずいぶん時間が余っちまったな</value>
+  </data>
+  <data name="46 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門のアドバイスで申請書を
+出して教師に頼んだら</value>
+  </data>
+  <data name="47 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あっさりと音楽室の使用許可が
+下りてしまった</value>
+  </data>
+  <data name="48 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こうも簡単に許可が下りるとは
+思ってなかったんで拍子抜けだ</value>
+  </data>
+  <data name="49 KYON (キョン)" xml:space="preserve">
+    <value>うーん、合流するまでには
+まだ時間があるし</value>
+  </data>
+  <data name="50 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>せっかく長門と２人だけだし</value>
+  </data>
+  <data name="51 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの前じゃ言えないことを
+聞くチャンスかもな</value>
+  </data>
+  <data name="52 KYON (キョン)" xml:space="preserve">
+    <value>長門、北高内に特異点が出来ている
+と言っていたが</value>
+  </data>
+  <data name="53 KYON (キョン)" xml:space="preserve">
+    <value>それはこの周りにどれくらい
+あるんだ？</value>
+  </data>
+  <data name="54 NAGATO (長門)" xml:space="preserve">
+    <value>正確な数値は計測不能
+時間が経つ毎にその数を増している</value>
+  </data>
+  <data name="55 KYON (キョン)" xml:space="preserve">
+    <value>げっ、増えてるのかよ
+あまりそうは見えないんだがなぁ</value>
+  </data>
+  <data name="56 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あたりを見ても、普通に見えるし</value>
+  </data>
+  <data name="57 NAGATO (長門)" xml:space="preserve">
+    <value>特異点が表に現われた時のみ
+目視することが可能</value>
+  </data>
+  <data name="58 NAGATO (長門)" xml:space="preserve">
+    <value>あなたの目に見えないだけで
+情報結合の歪みは拡大している</value>
+  </data>
+  <data name="59 KYON (キョン)" xml:space="preserve">
+    <value>そんなに広がっているのか
+俺にも見られたらなぁ</value>
+  </data>
+  <data name="60 NAGATO (長門)" xml:space="preserve">
+    <value>……それは、あなたの要望？</value>
+  </data>
+  <data name="61 KYON (キョン)" xml:space="preserve">
+    <value>あ、ああそうだ</value>
+  </data>
+  <data name="62 KYON (キョン)" xml:space="preserve">
+    <value>見られるのならこの目で
+確認してみたい</value>
+  </data>
+  <data name="63 NAGATO (長門)" xml:space="preserve">
+    <value>それがあなたにとって必要なこと
+なら、わたしがサポートする</value>
+  </data>
+  <data name="64 KYON (キョン)" xml:space="preserve">
+    <value>本当か？　じゃあ、ぜひとも頼む</value>
+  </data>
+  <data name="65 NAGATO (長門)" xml:space="preserve">
+    <value>了承した
+……着いてきて</value>
+  </data>
+  <data name="66 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺を先導するように、長門が
+歩き始める</value>
+  </data>
+  <data name="67 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その様は、宇宙人というよりも
+幽界の案内人のような雰囲気だった</value>
+  </data>
+  <data name="68 NAGATO (長門)" xml:space="preserve">
+    <value>&#x1E;</value>
+  </data>
+  <data name="69 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>階段の前までやってくると
+長門がぴたりと足を止めた</value>
+  </data>
+  <data name="70 KYON (キョン)" xml:space="preserve">
+    <value>ん？　何か見つけたのか？</value>
+  </data>
+  <data name="71 NAGATO (長門)" xml:space="preserve">
+    <value>そこ</value>
+  </data>
+  <data name="72 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門がゆるりと指した先には……</value>
+  </data>
+  <data name="73 KYON (キョン)" xml:space="preserve">
+    <value>げっ！</value>
+  </data>
+  <data name="74 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>目の前を身長２０センチくらいの
+ラグビー部員たちが駆け抜けた</value>
+  </data>
+  <data name="75 KYON (キョン)" xml:space="preserve">
+    <value>な、なんだ今のは？
+どこから出てきたんだ？</value>
+  </data>
+  <data name="76 NAGATO (長門)" xml:space="preserve">
+    <value>情報結合の歪みから出現している
+イメージを具現化したもの</value>
+  </data>
+  <data name="77 KYON (キョン)" xml:space="preserve">
+    <value>そ、そうか……
+というかどこから来たイメージだよ</value>
+  </data>
+  <data name="78 NAGATO (長門)" xml:space="preserve">
+    <value>涼宮ハルヒが、思い浮かべたことが
+立体映像として出現したもの</value>
+  </data>
+  <data name="79 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒが考えていたのかよ
+よりによってこんな暑苦しいものを</value>
+  </data>
+  <data name="80 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかも見事にパスを決めて
+駆け抜けていきやがった</value>
+  </data>
+  <data name="81 KYON (キョン)" xml:space="preserve">
+    <value>こんなのが他にもあるのか？</value>
+  </data>
+  <data name="82 NAGATO (長門)" xml:space="preserve">
+    <value>たくさん、ある
+そこの教室にも……</value>
+  </data>
+  <data name="83 KYON (キョン)" xml:space="preserve">
+    <value>ここか？</value>
+  </data>
+  <data name="84 NAGATO (長門)" xml:space="preserve">
+    <value>&#x1E;</value>
+  </data>
+  <data name="85 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門が指した近くの教室の
+ドアを開けると</value>
+  </data>
+  <data name="86 KYON (キョン)" xml:space="preserve">
+    <value>うわっ！</value>
+  </data>
+  <data name="87 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>教室の床一面に、なぜかスイカ畑
+が出現していた</value>
+  </data>
+  <data name="88 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかもよく熟れて美味そうだ</value>
+  </data>
+  <data name="89 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……って、なんで教室に
+スイカの山があるんだよ！</value>
+  </data>
+  <data name="90 NAGATO (長門)" xml:space="preserve">
+    <value>これも、涼宮ハルヒのイメージが
+具現化されたもの</value>
+  </data>
+  <data name="91 KYON (キョン)" xml:space="preserve">
+    <value>なるほどな</value>
+  </data>
+  <data name="92 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒがなにげにスイカを死ぬほど
+食いたいとか考えたってことか</value>
+  </data>
+  <data name="93 KYON (キョン)" xml:space="preserve">
+    <value>……これは、本物か？</value>
+  </data>
+  <data name="94 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>試しにスイカに触ってみたが</value>
+  </data>
+  <data name="95 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おなじみのあのつるりとした
+皮の感触が伝わってきた</value>
+  </data>
+  <data name="96 NAGATO (長門)" xml:space="preserve">
+    <value>本物ではないが、それに限りなく
+近いもの</value>
+  </data>
+  <data name="97 NAGATO (長門)" xml:space="preserve">
+    <value>実体化しているから、接触も可能</value>
+  </data>
+  <data name="98 KYON (キョン)" xml:space="preserve">
+    <value>……ってことは</value>
+  </data>
+  <data name="99 KYON (キョン)" xml:space="preserve">
+    <value>つまり、こんなのが校内の
+あちこちに出没してるのか？</value>
+  </data>
+  <data name="100 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さっきのミニラグビー部員といい
+まるでどこぞの百鬼夜行だな</value>
+  </data>
+  <data name="101 NAGATO (長門)" xml:space="preserve">
+    <value>&#x1E;</value>
+  </data>
+  <data name="102 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>他にも長門と共に校舎内を回ったが</value>
+  </data>
+  <data name="103 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>足が生えて走り回る黒板消しだとか
+自動ドア状態になった窓とか</value>
+  </data>
+  <data name="104 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とにかくありえないものばかりを
+目にすることになった</value>
+  </data>
+  <data name="105 KYON (キョン)" xml:space="preserve">
+    <value>最初に見たいと言ったのは俺だが
+さすがにお腹一杯だ</value>
+  </data>
+  <data name="106 KYON (キョン)" xml:space="preserve">
+    <value>まさか、他のやつもうっかり
+こんなのを見たりしているのか？</value>
+  </data>
+  <data name="107 NAGATO (長門)" xml:space="preserve">
+    <value>通常の人間には目視出来ない</value>
+  </data>
+  <data name="108 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……良かった</value>
+  </data>
+  <data name="109 NAGATO (長門)" xml:space="preserve">
+    <value>でもそれも時間の問題</value>
+  </data>
+  <data name="110 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>時間の問題かよ！</value>
+  </data>
+  <data name="111 KYON (キョン)" xml:space="preserve">
+    <value>いずれハルヒの目にも留まるように
+なるってことか？</value>
+  </data>
+  <data name="112 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="113 KYON (キョン)" xml:space="preserve">
+    <value>それはマズイ。非常にマズイ</value>
+  </data>
+  <data name="114 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これがまだ平和的なものならいいが</value>
+  </data>
+  <data name="115 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒが平和をおびやかすような
+想像を始めたら、ヤバすぎるぞ！</value>
+  </data>
+  <data name="116 KYON (キョン)" xml:space="preserve">
+    <value>つまり、ハルヒが怪談妄想をすれば
+それが現実になるってわけか？</value>
+  </data>
+  <data name="117 NAGATO (長門)" xml:space="preserve">
+    <value>そう
+いずれそうなる可能性が高い</value>
+  </data>
+  <data name="118 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門も冷静に解説している
+場合じゃないぞ！</value>
+  </data>
+  <data name="119 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺もそこまで北高内が危険地帯に
+なっているとは思わなかったな</value>
+  </data>
+  <data name="120 NAGATO (長門)" xml:space="preserve">
+    <value>今、あなたの横にまた出現した</value>
+  </data>
+  <data name="121 KYON (キョン)" xml:space="preserve">
+    <value>な、なにっ？</value>
+  </data>
+  <data name="122 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>言われた方を見ると、消しゴムが
+勝手にぴょんぴょんと跳ねていた</value>
+  </data>
+  <data name="123 KYON (キョン)" xml:space="preserve">
+    <value>……やけに活きのいい消しゴムだな</value>
+  </data>
+  <data name="124 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>呆れる俺をよそに、長門は
+気軽にそいつをつまみ上げる</value>
+  </data>
+  <data name="125 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門の指から逃れようと、そいつは
+ジタバタともがいている</value>
+  </data>
+  <data name="126 NAGATO (長門)" xml:space="preserve">
+    <value>お座り</value>
+  </data>
+  <data name="127 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>暴れ回る消しゴムにむかって
+長門は身も蓋もない命令を下す</value>
+  </data>
+  <data name="128 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>すると消しゴムはピタリとその動き
+止めて大人しくなる</value>
+  </data>
+  <data name="129 NAGATO (長門)" xml:space="preserve">
+    <value>……いる？</value>
+  </data>
+  <data name="130 KYON (キョン)" xml:space="preserve">
+    <value>お、おい、大丈夫なのかよ</value>
+  </data>
+  <data name="131 NAGATO (長門)" xml:space="preserve">
+    <value>情報結合は解除した
+今はただの消しゴムに戻っている</value>
+  </data>
+  <data name="132 KYON (キョン)" xml:space="preserve">
+    <value>そういうことなら、安心か</value>
+  </data>
+  <data name="133 KYON (キョン)" xml:space="preserve">
+    <value>しかし、なんで#P05“お座り”#P00なんだ？</value>
+  </data>
+  <data name="134 NAGATO (長門)" xml:space="preserve">
+    <value>こうすれば、動物は大人しくなると
+聞いた</value>
+  </data>
+  <data name="135 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それは主に犬限定のしつけだと
+思うが</value>
+  </data>
+  <data name="136 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>実際、長門なら猛獣の類ですら
+その一言で従わせるだろう</value>
+  </data>
+  <data name="137 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>無数の獣を従える長門――</value>
+  </data>
+  <data name="138 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんとも言えない光景だ</value>
+  </data>
+  <data name="139 KYON (キョン)" xml:space="preserve">
+    <value>い、いや、いい</value>
+  </data>
+  <data name="140 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>うかつに見て恐ろしいものだったら
+困るしな</value>
+  </data>
+  <data name="141 NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="142 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門がちょっぴり残念そうに
+見えたのは気のせいだろうか</value>
+  </data>
+  <data name="143 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そうしているうちに、俺の横を
+何かが通り過ぎて去っていった</value>
+  </data>
+  <data name="144 KYON (キョン)" xml:space="preserve">
+    <value>俺たちには見えてないってだけで
+校内中どこもこんな状態なのか？</value>
+  </data>
+  <data name="145 NAGATO (長門)" xml:space="preserve">
+    <value>場所によってレベルに差はある</value>
+  </data>
+  <data name="146 NAGATO (長門)" xml:space="preserve">
+    <value>あなたを案内した場所は
+比較的問題ないところだけ</value>
+  </data>
+  <data name="147 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>このレベルで比較的問題ないだと？</value>
+  </data>
+  <data name="148 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ひどい場所っていうのは
+想像もしたくないね</value>
+  </data>
+  <data name="149 KYON (キョン)" xml:space="preserve">
+    <value>ちなみに、今一番マズイのは
+どこなんだ？</value>
+  </data>
+  <data name="150 NAGATO (長門)" xml:space="preserve">
+    <value>音楽室
+現在、そこに歪みが集中しつつある</value>
+  </data>
+  <data name="151 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>よりによってそこかよ！
+洒落にならないだろうが</value>
+  </data>
+  <data name="152 KYON (キョン)" xml:space="preserve">
+    <value>……やっぱ、放置するわけには
+いかないだろうな</value>
+  </data>
+  <data name="153 NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="154 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門の表情は変わらないが</value>
+  </data>
+  <data name="155 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんとなくそうだと言っている
+ようにも見えた</value>
+  </data>
+  <data name="156 KYON (キョン)" xml:space="preserve">
+    <value>ハルヒのところに戻るとするか
+……やれやれ</value>
+  </data>
+</root>

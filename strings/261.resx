@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>考えてみると口車って変な単語
+だと思わないか？</value>
+  </data>
+  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>脈絡のないことを言い出すわねぇ</value>
+  </data>
+  <data name="2 KYON (キョン)" xml:space="preserve">
+    <value>だが口と車のどこに共通点があるか
+興味ないか？</value>
+  </data>
+  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>“舌が回る”っていう言葉からきて
+るんじゃないの？</value>
+  </data>
+  <data name="4 KYON (キョン)" xml:space="preserve">
+    <value>回る、回るのは車輪って流れか</value>
+  </data>
+  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう。思いつきだけどね</value>
+  </data>
+  <data name="6 KYON (キョン)" xml:space="preserve">
+    <value>正しいような気がしてきた</value>
+  </data>
+  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、口車に乗りやすいタイプ
+だわね。気をつけた方がいいわよ</value>
+  </data>
+  <data name="8 MIKURU (みくる)" xml:space="preserve">
+    <value>えぇっと……その……</value>
+  </data>
+  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによみくるちゃん、
+急に口ごもったりして</value>
+  </data>
+  <data name="10 MIKURU (みくる)" xml:space="preserve">
+    <value>い、いえ、何でもないです</value>
+  </data>
+  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう言われると余計に気になる
+じゃない</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、ハッキリ言いなさい！</value>
+  </data>
+  <data name="13 MIKURU (みくる)" xml:space="preserve">
+    <value>ひゃぅぅんっ、くすぐらないで
+くださぁいっ</value>
+  </data>
+  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほらほら、早く言う！　じゃないと
+腰抜かすまでくすぐるわよ！</value>
+  </data>
+  <data name="15 MIKURU (みくる)" xml:space="preserve">
+    <value>ひ、ひぃぃん、やめて下さぁいっ</value>
+  </data>
+  <data name="16 NAGATO (長門)" xml:space="preserve">
+    <value>口車に乗るとは、内実の伴わない
+言葉にだまされるということ</value>
+  </data>
+  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。それがどうしたの？</value>
+  </data>
+  <data name="18 NAGATO (長門)" xml:space="preserve">
+    <value>彼は、古泉一樹の口車に乗ったと
+発言した</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンが？</value>
+  </data>
+  <data name="20 NAGATO (長門)" xml:space="preserve">
+    <value>この場合、古泉一樹は彼を騙す意志
+がある上で行動をとった</value>
+  </data>
+  <data name="21 NAGATO (長門)" xml:space="preserve">
+    <value>という解釈で妥当なのか確認したい</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンったら、いつも古泉くんに
+対して辛辣なんだから</value>
+  </data>
+  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、キョンの発言はそのまま
+受け取らなくていいからね</value>
+  </data>
+  <data name="24 NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="25 KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんは、口車に乗せられたと言
+う言葉を聞いたことはありますか？</value>
+  </data>
+  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>乗せられる？
+何か違和感があるわね</value>
+  </data>
+  <data name="27 KOIZUMI (古泉)" xml:space="preserve">
+    <value>人に騙されるというイメージから
+口車に乗ると言わず、</value>
+  </data>
+  <data name="28 KOIZUMI (古泉)" xml:space="preserve">
+    <value>乗せられると言うのが定着してし
+まったみたいですね</value>
+  </data>
+  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>正しくは乗る、でいいのよね？</value>
+  </data>
+  <data name="30 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、そこを勘違いしている人が
+多いなと思いまして</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>言葉は時代に応じて変化するものよ
+口車に乗せられたで通じるしね</value>
+  </data>
+  <data name="32 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、意味は通じますから</value>
+  </data>
+  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そのうちＳＯＳ団の名前が、すごく
+盛り上がるって意味になるかも！</value>
+  </data>
+  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですね。そうなることを祈りま
+しょう</value>
+  </data>
+  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>後世にＳＯＳ団の名を残すべく
+頑張るのよ！</value>
+  </data>
+  <data name="36 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、精進します</value>
+  </data>
+</root>

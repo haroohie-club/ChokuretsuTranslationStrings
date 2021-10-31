@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0 KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんに、バットの持ち方を
+教えてる時に思ったんだが……</value>
+  </data>
+  <data name="1 KYON (キョン)" xml:space="preserve">
+    <value>あまり、朝比奈さんを荒事に巻き込
+まない方がいいんじゃないか？</value>
+  </data>
+  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんで？</value>
+  </data>
+  <data name="3 KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんの手は、スポーツや重労
+働とは無縁の、華奢で小さな手だ</value>
+  </data>
+  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それじゃ、あたしの手はゴツくて
+荒事向きって言いたいワケ？</value>
+  </data>
+  <data name="5 KYON (キョン)" xml:space="preserve">
+    <value>……まあ、見た目は朝比奈さんと
+そう変わらないように見えるが</value>
+  </data>
+  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんに足りないのは、勇気
+とガッツと根性だわ</value>
+  </data>
+  <data name="7 MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……強引さと横暴さと無神経の
+間違いじゃないのか</value>
+  </data>
+  <data name="8 MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんに言われたんですけど</value>
+  </data>
+  <data name="9 MIKURU (みくる)" xml:space="preserve">
+    <value>あたしの手……スポーツとかには
+向いてないんでしょうか？</value>
+  </data>
+  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何を言われたの？</value>
+  </data>
+  <data name="11 MIKURU (みくる)" xml:space="preserve">
+    <value>ええと、華奢で小さな手だから
+荒事には不向きだって……</value>
+  </data>
+  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなことないわ。みくるちゃん</value>
+  </data>
+  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>気合と根性があれば、たいていの
+ことは、なんとかなるものよ</value>
+  </data>
+  <data name="14 MIKURU (みくる)" xml:space="preserve">
+    <value>気合と……根性ですかぁ</value>
+  </data>
+  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いずれ、あたしが猛特訓してあげ
+るから、期待して待ってなさい</value>
+  </data>
+  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうだ、今度バッティングセンター
+に行きましょう。そこで特訓よ！</value>
+  </data>
+  <data name="17 MIKURU (みくる)" xml:space="preserve">
+    <value>が、がんばりますぅ……</value>
+  </data>
+  <data name="18 NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるの手は、一般的な手と
+比較して、ナイーブで繊細と聞いた</value>
+  </data>
+  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>またキョンね、そんなことを有希に
+吹き込んだのは</value>
+  </data>
+  <data name="20 NAGATO (長門)" xml:space="preserve">
+    <value>魚に例える場合もある。白魚</value>
+  </data>
+  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、確かに荒事には向いてないわ
+よね。手じゃないわ。性格的に</value>
+  </data>
+  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>とりあえず野球はまるでダメだった
+わ。断言してもいいけど</value>
+  </data>
+  <data name="23 NAGATO (長門)" xml:space="preserve">
+    <value>そう……</value>
+  </data>
+  <data name="24 KOIZUMI (古泉)" xml:space="preserve">
+    <value>どうも、朝比奈さんはスポーツが
+得意な方ではないようですね</value>
+  </data>
+  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうなのよ。でも、それを補って
+余っちゃうほど、可愛いわ</value>
+  </data>
+  <data name="26 KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕も同感ですね</value>
+  </data>
+  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今日も、バットの構え方をキョンが
+みくるちゃんに教えてたわ</value>
+  </data>
+  <data name="28 KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、彼にも聞きました</value>
+  </data>
+  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんは、そういった事には
+向いていない繊細な手だとか……</value>
+  </data>
+  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>野球は、手じゃなくて心とか気合で
+やる勝負事なのよ</value>
+  </data>
+  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんな甘い認識じゃ、キョンもまだ
+まだ、わかってないわ</value>
+  </data>
+  <data name="32 KOIZUMI (古泉)" xml:space="preserve">
+    <value>色々と難しいんですね。勝負事は</value>
+  </data>
+</root>
