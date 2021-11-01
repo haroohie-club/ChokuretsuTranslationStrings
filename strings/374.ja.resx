@@ -58,336 +58,336 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0000 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉と共にハルヒと合流し、現場に
 向かうことにした</value>
   </data>
-  <data name="1 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……のはいいんだが</value>
   </data>
-  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0002 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……で、もしかしたらコンピ研が見
 たのは、そんな感じの現象で……</value>
   </data>
-  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……ほら、そういうの聞いたことが
 あるじゃない？　よく噂に……</value>
   </data>
-  <data name="4 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0004 KOIZUMI (古泉)" xml:space="preserve">
     <value>さすがです、涼宮さん
 よくご存知ですね</value>
   </data>
-  <data name="5 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0005 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さっきからずいぶんと盛り上がって
 いるようだが</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>……二人して何の話をしてるんだ？</value>
   </data>
-  <data name="7 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0007 KOIZUMI (古泉)" xml:space="preserve">
     <value>コンピ研の部員が見たという、他の現
 象について話し合っていたんですよ</value>
   </data>
-  <data name="8 KYON (キョン)" xml:space="preserve">
+  <data name="0008 KYON (キョン)" xml:space="preserve">
     <value>１年１０組の話じゃないのか？</value>
   </data>
-  <data name="9 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0009 KOIZUMI (古泉)" xml:space="preserve">
     <value>ええ。彼らは他にも色々と、不思議
 な話を聞かせてくれましたからね</value>
   </data>
-  <data name="10 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0010 KOIZUMI (古泉)" xml:space="preserve">
     <value>他にも、隠している話があるのでは
 ないか……と涼宮さんが仰るので</value>
   </data>
-  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>目の当たりにする前に予想を立てて
 おいた方が対処しやすいじゃない？</value>
   </data>
-  <data name="12 KYON (キョン)" xml:space="preserve">
+  <data name="0012 KYON (キョン)" xml:space="preserve">
     <value>まあ、それはそうかもしれんが</value>
   </data>
-  <data name="13 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0013 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あまりハルヒを刺激するような現象
 でないことを切に願いたい</value>
   </data>
-  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
     <value>で、古泉くんとしては、他にどんな
 怪奇現象が起きて欲しいと思う？</value>
   </data>
-  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
     <value>やっぱ、ありきたりの七不思議とか
 じゃつまらないわよね</value>
   </data>
-  <data name="16 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0016 KOIZUMI (古泉)" xml:space="preserve">
     <value>そうですね、乗り物だけを残して
 乗員が忽然と消えてしまった、とか</value>
   </data>
-  <data name="17 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0017 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……古泉、物騒な話をするな
 ハルヒが無駄に張り切るだろう</value>
   </data>
-  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あ、それってアメリカの船の話よね</value>
   </data>
-  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0019 HARUHI (ハルヒ)" xml:space="preserve">
     <value>たしかまだ暖かい食事とかが
 そのまま残ってたんでしょ</value>
   </data>
-  <data name="20 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0020 KOIZUMI (古泉)" xml:space="preserve">
     <value>ええ、大変興味深い事象です
 ですが、あれには裏話がありまして</value>
   </data>
-  <data name="21 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0021 KOIZUMI (古泉)" xml:space="preserve">
     <value>急な事故で、慌てて船を脱出した
 というのが有力な説だそうですよ</value>
   </data>
-  <data name="22 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0022 KOIZUMI (古泉)" xml:space="preserve">
     <value>発見された時も、私物は残された
 ままでしたが……</value>
   </data>
-  <data name="23 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
     <value>まだ食事が暖かかった、というのは
 脚色のようです</value>
   </data>
-  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ふぅん、そうなんだ</value>
   </data>
-  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
     <value>是非、そんな船に乗り合わせて
 みたいわね</value>
   </data>
-  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
     <value>やっぱり夏なら海、海なら豪華に
 幽霊船でクルージングよね！</value>
   </data>
-  <data name="27 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0027 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>おいハルヒ、いったいおまえの思考
 ってのは、どうなってるんだ？</value>
   </data>
-  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0028 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あと、海から怪物が現われて
 人間たちをさらったのかも</value>
   </data>
-  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0029 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なんて思ってたわ</value>
   </data>
-  <data name="30 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0030 KOIZUMI (古泉)" xml:space="preserve">
     <value>ええ、怪物が現われる話も
 世界のあちこちにありますね</value>
   </data>
-  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0031 KOIZUMI (古泉)" xml:space="preserve">
     <value>有名なところではヒマラヤの
 イエティでしょうか</value>
   </data>
-  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
     <value>王道的なＵＭＡね！</value>
   </data>
-  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0033 HARUHI (ハルヒ)" xml:space="preserve">
     <value>未知の巨大類人猿かもって
 言われてたんでしょ</value>
   </data>
-  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0034 KOIZUMI (古泉)" xml:space="preserve">
     <value>ですが、後の研究によるとイエティ
 は地元の言葉でヒグマを指すとか</value>
   </data>
-  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0035 KOIZUMI (古泉)" xml:space="preserve">
     <value>その毛皮と言われていた物も
 実際にはヒグマの物だったようです</value>
   </data>
-  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0036 HARUHI (ハルヒ)" xml:space="preserve">
     <value>探検家たちが吹雪の中で見間違え
 てたってわけね</value>
   </data>
-  <data name="37 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0037 HARUHI (ハルヒ)" xml:space="preserve">
     <value>もっとよく見てから発表しなさい
 って言いたくなるわ</value>
   </data>
-  <data name="38 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0038 KOIZUMI (古泉)" xml:space="preserve">
     <value>まさに仰るとおりです</value>
   </data>
-  <data name="39 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0039 KOIZUMI (古泉)" xml:space="preserve">
     <value>似たようなところで、北アメリカに
 ビッグフットがいますが……</value>
   </data>
-  <data name="40 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0040 HARUHI (ハルヒ)" xml:space="preserve">
     <value>別名サスカッチでしょ。イエティ
 よりも猿っぽいイメージだけど</value>
   </data>
-  <data name="41 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0041 KOIZUMI (古泉)" xml:space="preserve">
     <value>そうです
 巨大な猿人のイメージですが……</value>
   </data>
-  <data name="42 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0042 KOIZUMI (古泉)" xml:space="preserve">
     <value>じつは彼らも、現地に生息する
 灰色ヒグマの誤認であるという説が</value>
   </data>
-  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0043 HARUHI (ハルヒ)" xml:space="preserve">
     <value>えーっ、残念だわ
 なんでそれと間違えたのかしら</value>
   </data>
-  <data name="44 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0044 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>伝説だのＵＭＡだの、古泉は次々
 と怪奇現象ネタをハルヒに振る</value>
   </data>
-  <data name="45 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0045 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>待てよ？　さっきから古泉は怪しい
 ネタを振っては、否定してばかりだ</value>
   </data>
-  <data name="46 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0046 KOIZUMI (古泉)" xml:space="preserve">
     <value>……と、まあどれも蓋を開けて
 みれば違う物だったようですよ</value>
   </data>
-  <data name="47 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0047 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ふぅん、どんな話にも結構
 オチがあったりするのね</value>
   </data>
-  <data name="48 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0048 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……そういうことか、古泉</value>
   </data>
-  <data name="49 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0049 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>話をハルヒに合わせてながらも
 必要以上に、好奇心を刺激しない</value>
   </data>
-  <data name="50 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0050 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そうやって、ハルヒの妄想に釘を
 刺してるんだな……</value>
   </data>
-  <data name="51 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0051 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>よし、ここは俺も念のためにハルヒ
 に釘の一本でもさしておこう</value>
   </data>
-  <data name="52 KYON (キョン)" xml:space="preserve">
+  <data name="0052 KYON (キョン)" xml:space="preserve">
     <value>要するにその手の怪奇ものは見間違
 いや、妄想から来てるってことだな</value>
   </data>
-  <data name="53 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0053 KOIZUMI (古泉)" xml:space="preserve">
     <value>ええ、あなたが仰る通りです</value>
   </data>
-  <data name="54 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0054 KOIZUMI (古泉)" xml:space="preserve">
     <value>古より日本でも#P05“幽霊の正体見たり
 #P05枯れ尾花”#P00と言いましたからね</value>
   </data>
-  <data name="55 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0055 KOIZUMI (古泉)" xml:space="preserve">
     <value>検証をしてみると、案外そのような
 オチが多いのかもしれません</value>
   </data>
-  <data name="56 KYON (キョン)" xml:space="preserve">
+  <data name="0056 KYON (キョン)" xml:space="preserve">
     <value>そうだな、まさに
 古泉の言う通りだ</value>
   </data>
-  <data name="57 KYON (キョン)" xml:space="preserve">
+  <data name="0057 KYON (キョン)" xml:space="preserve">
     <value>だから、くれぐれも暗がりでススキ
 を見て幽霊と勘違いするなよ</value>
   </data>
-  <data name="58 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0058 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたしはそんな、うっかり屋じゃ
 ないわよ。目はいいんだからね</value>
   </data>
-  <data name="59 KYON (キョン)" xml:space="preserve">
+  <data name="0059 KYON (キョン)" xml:space="preserve">
     <value>そうじゃない。何にでも飛びつくな
 と俺は言いたいんだ</value>
   </data>
-  <data name="60 KYON (キョン)" xml:space="preserve">
+  <data name="0060 KYON (キョン)" xml:space="preserve">
     <value>どれも夢のある話じゃないか
 想像の産物ってことだろう？</value>
   </data>
-  <data name="61 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0061 KOIZUMI (古泉)" xml:space="preserve">
     <value>そうですね古人の#P05“想像力”#P00から
 生み出された物も多いですよ</value>
   </data>
-  <data name="62 KYON (キョン)" xml:space="preserve">
+  <data name="0062 KYON (キョン)" xml:space="preserve">
     <value>想像力ってのはすごいな</value>
   </data>
-  <data name="63 KYON (キョン)" xml:space="preserve">
+  <data name="0063 KYON (キョン)" xml:space="preserve">
     <value>実際は大したものじゃなくても凄
 いものに感じるんだからな</value>
   </data>
-  <data name="64 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0064 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そういうキョンはどうなのよ？</value>
   </data>
-  <data name="65 KYON (キョン)" xml:space="preserve">
+  <data name="0065 KYON (キョン)" xml:space="preserve">
     <value>あん？　何がだ？</value>
   </data>
-  <data name="66 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0066 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたしをワクワクさせるような
 面白い伝説とか知らないの？</value>
   </data>
-  <data name="67 KYON (キョン)" xml:space="preserve">
+  <data name="0067 KYON (キョン)" xml:space="preserve">
     <value>う……
 そこで俺に話を振るな</value>
   </data>
-  <data name="68 KYON (キョン)" xml:space="preserve">
+  <data name="0068 KYON (キョン)" xml:space="preserve">
     <value>おまえらの怪奇ネタはワールドワイ
 ドかつマニアックで、ついていけん</value>
   </data>
-  <data name="69 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0069 KOIZUMI (古泉)" xml:space="preserve">
     <value>それは失礼しました。もっと
 一般的な話題にすべきでしたね</value>
   </data>
-  <data name="70 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0070 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>苦笑しながら謝まるんじゃない
 ああもう、余計に腹が立つ</value>
   </data>
-  <data name="71 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0071 HARUHI (ハルヒ)" xml:space="preserve">
     <value>無いなら無理に絞り出さなくて
 もいいわよ</value>
   </data>
-  <data name="72 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0072 HARUHI (ハルヒ)" xml:space="preserve">
     <value>やっぱり副団長の古泉くんと、ヒラ
 団員のキョンとじゃ差があるわね</value>
   </data>
-  <data name="73 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0073 HARUHI (ハルヒ)" xml:space="preserve">
     <value>超えられない壁って感じだわ</value>
   </data>
-  <data name="74 KYON (キョン)" xml:space="preserve">
+  <data name="0074 KYON (キョン)" xml:space="preserve">
     <value>ああ、そうかい</value>
   </data>
-  <data name="75 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0075 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>こいつらと楽しく怪奇ネタで
 談笑する気などさらさらないが……</value>
   </data>
-  <data name="76 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0076 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そこまで言われると釈然と
 しないものを感じるな</value>
   </data>
-  <data name="77 KYON (キョン)" xml:space="preserve">
+  <data name="0077 KYON (キョン)" xml:space="preserve">
     <value>まあ、確かに博識だしな
 古泉は#P05“優秀な副団長”#P00だな</value>
   </data>
-  <data name="78 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0078 KOIZUMI (古泉)" xml:space="preserve">
     <value>ははは、恐れ入ります</value>
   </data>
-  <data name="79 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0079 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>若干の嫌味をこめて言ったんだぞ</value>
   </data>
-  <data name="80 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0080 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ちっとも恐れ入ってないような
 爽やかな笑いはよせ、気持ち悪い</value>
   </data>
-  <data name="81 KYON (キョン)" xml:space="preserve">
+  <data name="0081 KYON (キョン)" xml:space="preserve">
     <value>俺だって少しくらいなら怪奇話
 もできるさ</value>
   </data>
-  <data name="82 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0082 HARUHI (ハルヒ)" xml:space="preserve">
     <value>できるのなら、今すぐに
 話してみなさいよ、ほら</value>
   </data>
-  <data name="83 KYON (キョン)" xml:space="preserve">
+  <data name="0083 KYON (キョン)" xml:space="preserve">
     <value>うぐっ、そ、それは……</value>
   </data>
-  <data name="84 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0084 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ああっ、急に言われると
 頭の中でまとまらなくなるっ</value>
   </data>
-  <data name="85 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0085 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ほらみなさい。すぐに出ない
 からダメだって言ってるのよ</value>
   </data>
-  <data name="86 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0086 HARUHI (ハルヒ)" xml:space="preserve">
     <value>古泉くんの爪のアカでも
 飲んでから反論することね！</value>
   </data>
-  <data name="87 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0087 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>うう、なんて言いぐさだ
 #P05“横暴団長”#P01め</value>
   </data>

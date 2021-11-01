@@ -58,142 +58,142 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>長門は浮世離れしてるっていうか、
 どうも常識が通じない時があるなあ</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あら、それも有希の魅力じゃないの</value>
   </data>
-  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0002 HARUHI (ハルヒ)" xml:space="preserve">
     <value>いつも無口な文学少女にはそれくら
 いの個性があって丁度いいのよ</value>
   </data>
-  <data name="3 KYON (キョン)" xml:space="preserve">
+  <data name="0003 KYON (キョン)" xml:space="preserve">
     <value>……そ、そうか</value>
   </data>
-  <data name="4 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0004 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒの中ではそれで構わないらし
 い……やれやれ</value>
   </data>
-  <data name="5 MIKURU (みくる)" xml:space="preserve">
+  <data name="0005 MIKURU (みくる)" xml:space="preserve">
     <value>浮世ばなれって、あまり聞かない
 言葉ですよね</value>
   </data>
-  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0006 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね。誰かに言われたの？</value>
   </data>
-  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
     <value>君のそのミリョクは、浮世ばなれ
 してる</value>
   </data>
-  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
     <value>とか真顔で言うヤツが居たら、
 遠慮無く殴ってもいいわよ</value>
   </data>
-  <data name="9 MIKURU (みくる)" xml:space="preserve">
+  <data name="0009 MIKURU (みくる)" xml:space="preserve">
     <value>そ、そんなことは言われたこと
 ないですよぅ</value>
   </data>
-  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そう？　でも、みくるちゃんって
 食べちゃいたいくらい可愛いから</value>
   </data>
-  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>こうやって、あーん、って感じで</value>
   </data>
-  <data name="12 MIKURU (みくる)" xml:space="preserve">
+  <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>ひゃあん、たっ、食べないで
 くださいぃぃ</value>
   </data>
-  <data name="13 NAGATO (長門)" xml:space="preserve">
+  <data name="0013 NAGATO (長門)" xml:space="preserve">
     <value>バナナマシュマロ串焼きは栄養価
 については問題がない</value>
   </data>
-  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
     <value>でも、おいしいかどうかは微妙よね</value>
   </data>
-  <data name="15 NAGATO (長門)" xml:space="preserve">
+  <data name="0015 NAGATO (長門)" xml:space="preserve">
     <value>味覚は個人の感覚に依存する
 数値のみで表現することは困難</value>
   </data>
-  <data name="16 NAGATO (長門)" xml:space="preserve">
+  <data name="0016 NAGATO (長門)" xml:space="preserve">
     <value>しかし、栄養価は高い
 数値で比較することも可能</value>
   </data>
-  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>栄養価ねえ……</value>
   </data>
-  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ねえ有希
 ちょっと聞きたいんだけど</value>
   </data>
-  <data name="19 NAGATO (長門)" xml:space="preserve">
+  <data name="0019 NAGATO (長門)" xml:space="preserve">
     <value>なに</value>
   </data>
-  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>食べ物を選ぶときの基準って、普通
 おいしさとかじゃない？</value>
   </data>
-  <data name="21 NAGATO (長門)" xml:space="preserve">
+  <data name="0021 NAGATO (長門)" xml:space="preserve">
     <value>一般的には、そうかもしれない</value>
   </data>
-  <data name="22 NAGATO (長門)" xml:space="preserve">
+  <data name="0022 NAGATO (長門)" xml:space="preserve">
     <value>栄養が過不足なく、効率的に摂取
 できる食物が理想的</value>
   </data>
-  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0023 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……そんなんじゃ、ご飯食べても
 楽しくないんじゃないの？</value>
   </data>
-  <data name="24 NAGATO (長門)" xml:space="preserve">
+  <data name="0024 NAGATO (長門)" xml:space="preserve">
     <value>食事に楽しむ必要性を
 あまり認めない</value>
   </data>
-  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そんなことないわよ</value>
   </data>
-  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
     <value>いいわ、今度みんなでまた、何か
 食べに行きましょう</value>
   </data>
-  <data name="27 NAGATO (長門)" xml:space="preserve">
+  <data name="0027 NAGATO (長門)" xml:space="preserve">
     <value>……みんなで</value>
   </data>
-  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0028 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうよ、悪くないアイディアでしょ</value>
   </data>
-  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0029 KOIZUMI (古泉)" xml:space="preserve">
     <value>長門さんは時々浮き世ばなれした
 風に見えることがありますね</value>
   </data>
-  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0030 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そう？　本をたくさん読んでるから
 世の中に興味がないワケじゃないわ</value>
   </data>
-  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0031 KOIZUMI (古泉)" xml:space="preserve">
     <value>ええ、僕もそう思うのですが、ふと
 そんな風に思いまして</value>
   </data>
-  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
     <value>浮き世ばなれしていたら、ＳＯＳ団
 に興味もたないでしょ</value>
   </data>
-  <data name="33 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0033 KOIZUMI (古泉)" xml:space="preserve">
     <value>たしかに、その通りです</value>
   </data>
-  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0034 HARUHI (ハルヒ)" xml:space="preserve">
     <value>無口だし、積極的には見えないけど
 あの子なりに興味はあると思うわ</value>
   </data>
-  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0035 KOIZUMI (古泉)" xml:space="preserve">
     <value>ええ。僕の思い違いかも知れません</value>
   </data>
-  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0036 HARUHI (ハルヒ)" xml:space="preserve">
     <value>古泉くん、人を見た目で判断する
 なんて、あなたらしくないわね</value>
   </data>
-  <data name="37 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0037 KOIZUMI (古泉)" xml:space="preserve">
     <value>まったくです、気をつけます</value>
   </data>
 </root>

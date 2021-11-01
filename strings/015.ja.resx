@@ -58,159 +58,159 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>なあ、ハルヒ
 朝比奈さんはたいそう恐がりだ</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>知ってるわよ。そこもみくるちゃん
 の可愛いところだもの</value>
   </data>
-  <data name="2 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0002 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>それは大いに賛同するところだ</value>
   </data>
-  <data name="3 KYON (キョン)" xml:space="preserve">
+  <data name="0003 KYON (キョン)" xml:space="preserve">
     <value>そんな朝比奈さんに、新七不思議
 探索なんて、もはやイジメだろう</value>
   </data>
-  <data name="4 KYON (キョン)" xml:space="preserve">
+  <data name="0004 KYON (キョン)" xml:space="preserve">
     <value>おまえは弱い者イジメはしないヤツ
 だと思っていたのにな</value>
   </data>
-  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>弱い者イジメなんてしないわ
 相手は強くないとつまらないもの</value>
   </data>
-  <data name="6 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0006 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒより強い相手がいるかという
 問題はあるのだが</value>
   </data>
-  <data name="7 KYON (キョン)" xml:space="preserve">
+  <data name="0007 KYON (キョン)" xml:space="preserve">
     <value>気の毒に、朝比奈さんは我が妹の
 出現にさえ怯えて失神したんだぞ</value>
   </data>
-  <data name="8 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0008 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>このぐらい言えば怪談捜しを諦めて
 くれたりはしないだろうか</value>
   </data>
-  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
     <value>これはみくるちゃんの成長のために
 必要な試練と言えるわね！</value>
   </data>
-  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃんの努力を温かく
 見守りましょう！</value>
   </data>
-  <data name="11 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0011 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>やはりこいつはまだやる気満々か</value>
   </data>
-  <data name="12 MIKURU (みくる)" xml:space="preserve">
+  <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>あたしってダメですよねえ</value>
   </data>
-  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
     <value>何がダメなの、みくるちゃん？</value>
   </data>
-  <data name="14 MIKURU (みくる)" xml:space="preserve">
+  <data name="0014 MIKURU (みくる)" xml:space="preserve">
     <value>怖い話が苦手で……恐がりで</value>
   </data>
-  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それはそうねえ</value>
   </data>
-  <data name="16 MIKURU (みくる)" xml:space="preserve">
+  <data name="0016 MIKURU (みくる)" xml:space="preserve">
     <value>泣いたり、気絶したりしてしまって</value>
   </data>
-  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そんなことしたの？</value>
   </data>
-  <data name="18 MIKURU (みくる)" xml:space="preserve">
+  <data name="0018 MIKURU (みくる)" xml:space="preserve">
     <value>はい……くすん</value>
   </data>
-  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0019 HARUHI (ハルヒ)" xml:space="preserve">
     <value>今回はいいチャンスよ、みくる
 ちゃん。欠点を克服するのよ！</value>
   </data>
-  <data name="20 MIKURU (みくる)" xml:space="preserve">
+  <data name="0020 MIKURU (みくる)" xml:space="preserve">
     <value>克服って、恐がりをですか？</value>
   </data>
-  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃんには慣れが必要よ</value>
   </data>
-  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
     <value>たくさん怖い思いをすれば、慣れて
 多少のことには怯えなくなるわよ</value>
   </data>
-  <data name="23 MIKURU (みくる)" xml:space="preserve">
+  <data name="0023 MIKURU (みくる)" xml:space="preserve">
     <value>そ、そうでしょうか？</value>
   </data>
-  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>怖い目にいっぱい遭いましょう！</value>
   </data>
-  <data name="25 MIKURU (みくる)" xml:space="preserve">
+  <data name="0025 MIKURU (みくる)" xml:space="preserve">
     <value>#SK0い、いやですぅ～～</value>
   </data>
-  <data name="26 NAGATO (長門)" xml:space="preserve">
+  <data name="0026 NAGATO (長門)" xml:space="preserve">
     <value>朝比奈みくるは恐がり？</value>
   </data>
-  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうよ、すごい恐がりだけど
 それがどうかしたの、有希？</value>
   </data>
-  <data name="28 NAGATO (長門)" xml:space="preserve">
+  <data name="0028 NAGATO (長門)" xml:space="preserve">
     <value>なぜ怖がるのかを、理解できない</value>
   </data>
-  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0029 HARUHI (ハルヒ)" xml:space="preserve">
     <value>きっと想像力が発達しているのよ</value>
   </data>
-  <data name="30 NAGATO (長門)" xml:space="preserve">
+  <data name="0030 NAGATO (長門)" xml:space="preserve">
     <value>想像力？</value>
   </data>
-  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0031 HARUHI (ハルヒ)" xml:space="preserve">
     <value>見えない物、理解できない物に
 対する想像が恐怖心を作るのよ</value>
   </data>
-  <data name="32 NAGATO (長門)" xml:space="preserve">
+  <data name="0032 NAGATO (長門)" xml:space="preserve">
     <value>理解できなければ観察して分析する</value>
   </data>
-  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0033 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希ならそうするでしょうね</value>
   </data>
-  <data name="34 NAGATO (長門)" xml:space="preserve">
+  <data name="0034 NAGATO (長門)" xml:space="preserve">
     <value>朝比奈みくるはしない？</value>
   </data>
-  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0035 HARUHI (ハルヒ)" xml:space="preserve">
     <value>しないんじゃないかしら
 恐怖が先に立っちゃうのね</value>
   </data>
-  <data name="36 NAGATO (長門)" xml:space="preserve">
+  <data name="0036 NAGATO (長門)" xml:space="preserve">
     <value>想像力は奥深い。わたしが
 読む本の大半は想像力の成果物</value>
   </data>
-  <data name="37 NAGATO (長門)" xml:space="preserve">
+  <data name="0037 NAGATO (長門)" xml:space="preserve">
     <value>朝比奈みくるの観察を検討してみる</value>
   </data>
-  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0038 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それはおもしろそうね
 あとで結果を教えてちょうだい</value>
   </data>
-  <data name="39 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0039 KOIZUMI (古泉)" xml:space="preserve">
     <value>朝比奈さんは大変恐がりな方ですね
 音楽室に怯えていたそうですが</value>
   </data>
-  <data name="40 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0040 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃんには気の毒だけど</value>
   </data>
-  <data name="41 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0041 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたしとしては怯えるようなことが
 ぜひ、起きて欲しいと思うわ</value>
   </data>
-  <data name="42 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0042 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そろそろ新七不思議のひとつくらい
 確定したいのよね</value>
   </data>
-  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0043 HARUHI (ハルヒ)" xml:space="preserve">
     <value>古泉くんもそう思うでしょ？</value>
   </data>
-  <data name="44 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0044 KOIZUMI (古泉)" xml:space="preserve">
     <value>僕ですか？　僕の意見は述べないで
 おきますよ</value>
   </data>

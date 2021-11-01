@@ -58,38 +58,38 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 MIKURU (みくる)" xml:space="preserve">
+  <data name="0000 MIKURU (みくる)" xml:space="preserve">
     <value>あの、さっきハンカチを踏んづけて
 転んじゃったんですけど……</value>
   </data>
-  <data name="1 MIKURU (みくる)" xml:space="preserve">
+  <data name="0001 MIKURU (みくる)" xml:space="preserve">
     <value>これ、涼宮さんのですか？</value>
   </data>
-  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0002 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ん？　いいえ、違うわ</value>
   </data>
-  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたし、そんな地味で野暮ったい
 ハンカチ持ってないわ</value>
   </data>
-  <data name="4 MIKURU (みくる)" xml:space="preserve">
+  <data name="0004 MIKURU (みくる)" xml:space="preserve">
     <value>じゃあ、これ誰のでしょうか……</value>
   </data>
-  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さあ？　でも、男ものって感じよね</value>
   </data>
-  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0006 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョンって感じじゃないし
 古泉くんかしら？</value>
   </data>
-  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
     <value>でも、古泉くんならもっと
 オシャレなやつな気がするけど</value>
   </data>
-  <data name="8 MIKURU (みくる)" xml:space="preserve">
+  <data name="0008 MIKURU (みくる)" xml:space="preserve">
     <value>うーん……</value>
   </data>
-  <data name="9 MIKURU (みくる)" xml:space="preserve">
+  <data name="0009 MIKURU (みくる)" xml:space="preserve">
     <value>あとで職員室に届けておきますね</value>
   </data>
 </root>

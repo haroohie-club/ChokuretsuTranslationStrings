@@ -58,140 +58,140 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あら、なにかしらこのポスター</value>
   </data>
-  <data name="1 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>案の定、ハルヒは貼り替えておいた
 ポスターに気づいて立ち止まった</value>
   </data>
-  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0002 HARUHI (ハルヒ)" xml:space="preserve">
     <value>作曲コンテスト……？</value>
   </data>
-  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
     <value>こんなのが貼ってあったなんて
 今の今まで気づかなかったわ</value>
   </data>
-  <data name="4 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0004 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そりゃそうだ
 ついさっき貼り替えたんだからな</value>
   </data>
-  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ねえ、キョン
 作曲コンテストですって</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>ああ、確か軽音部はそれを目指して
 練習してたらしいぞ</value>
   </data>
-  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
     <value>へえ、軽音部が？
 それは興味深い情報ね……</value>
   </data>
-  <data name="8 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0008 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>少しは時間稼ぎになったか？</value>
   </data>
-  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ねえ、みくるちゃん</value>
   </data>
-  <data name="10 MIKURU (みくる)" xml:space="preserve">
+  <data name="0010 MIKURU (みくる)" xml:space="preserve">
     <value>はい、なんでしょう</value>
   </data>
-  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>こんなポスター貼ってあった？</value>
   </data>
-  <data name="12 MIKURU (みくる)" xml:space="preserve">
+  <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>えっと、その……すみません
 覚えてないです</value>
   </data>
-  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
     <value>うーん……作曲コンテストねぇ
 軽音部もこれに応募するのよね</value>
   </data>
-  <data name="14 MIKURU (みくる)" xml:space="preserve">
+  <data name="0014 MIKURU (みくる)" xml:space="preserve">
     <value>はい、そう言ってました</value>
   </data>
-  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
     <value>これは、もしかして……</value>
   </data>
-  <data name="16 MIKURU (みくる)" xml:space="preserve">
+  <data name="0016 MIKURU (みくる)" xml:space="preserve">
     <value>あの、涼宮さん？</value>
   </data>
-  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>うーん……</value>
   </data>
-  <data name="18 MIKURU (みくる)" xml:space="preserve">
+  <data name="0018 MIKURU (みくる)" xml:space="preserve">
     <value>涼宮さん、聞こえてますか？
 涼宮さーん！</value>
   </data>
-  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0019 HARUHI (ハルヒ)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="20 MIKURU (みくる)" xml:space="preserve">
+  <data name="0020 MIKURU (みくる)" xml:space="preserve">
     <value>ダメだ、聞こえてないみたい</value>
   </data>
-  <data name="21 MIKURU (みくる)" xml:space="preserve">
+  <data name="0021 MIKURU (みくる)" xml:space="preserve">
     <value>でも、これで涼宮さんをしっかり
 足止めできた……よね？</value>
   </data>
-  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あら……なにかしら、このポスター
 ふーん、作曲コンテストねぇ</value>
   </data>
-  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0023 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希、こんなの貼ってあるのに
 気づいてた？</value>
   </data>
-  <data name="24 NAGATO (長門)" xml:space="preserve">
+  <data name="0024 NAGATO (長門)" xml:space="preserve">
     <value>……いいえ</value>
   </data>
-  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうよね、ついさっきまで
 なかったわよね</value>
   </data>
-  <data name="26 NAGATO (長門)" xml:space="preserve">
+  <data name="0026 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
     <value>気になるわね、作曲コンテスト……</value>
   </data>
-  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0028 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ねえ、古泉くん、こんなポスター
 ここにあったかしら？</value>
   </data>
-  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0029 KOIZUMI (古泉)" xml:space="preserve">
     <value>ずっとそこに貼ってあったと
 記憶していますが</value>
   </data>
-  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0030 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そう、じゃあ見逃してたのね
 あたしとしたことが失態だわ</value>
   </data>
-  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0031 KOIZUMI (古泉)" xml:space="preserve">
     <value>どうかされましたか？</value>
   </data>
-  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
     <value>これ、作曲コンテストって書いて
 あるじゃない？</value>
   </data>
-  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0033 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それに確かコンピ研の前に音楽室を
 軽音部が使ってたって</value>
   </data>
-  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0034 KOIZUMI (古泉)" xml:space="preserve">
     <value>そのようですね</value>
   </data>
-  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0035 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なるほど、てことはもしかして……</value>
   </data>
-  <data name="36 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0036 KOIZUMI (古泉)" xml:space="preserve">
     <value>なにかお気づきになりましたか</value>
   </data>
-  <data name="37 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0037 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ちょっと待ってちょうだい
 もう少しで考えがまとまりそうなの</value>
   </data>
-  <data name="38 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0038 KOIZUMI (古泉)" xml:space="preserve">
     <value>ええ、もちろん、お待ちしますよ
 いつまででも、ね</value>
   </data>

@@ -58,28 +58,28 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 MIKURU (みくる)" xml:space="preserve">
+  <data name="0000 MIKURU (みくる)" xml:space="preserve">
     <value>あ、あの、涼宮さん！
 お茶にしませんか！</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>急にどうしたの？　みくるちゃん</value>
   </data>
-  <data name="2 MIKURU (みくる)" xml:space="preserve">
+  <data name="0002 MIKURU (みくる)" xml:space="preserve">
     <value>えっと、だから、その……
 そろそろノドが乾いたかなぁって</value>
   </data>
-  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さっき部室でお茶したばかりだし</value>
   </data>
-  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それに、こんな廊下の真ん中で
 どうやってお茶にするっていうのよ</value>
   </data>
-  <data name="5 MIKURU (みくる)" xml:space="preserve">
+  <data name="0005 MIKURU (みくる)" xml:space="preserve">
     <value>そ、それもそうですよね……</value>
   </data>
-  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0006 HARUHI (ハルヒ)" xml:space="preserve">
     <value>もう、しっかりしてよね
 みくるちゃん</value>
   </data>

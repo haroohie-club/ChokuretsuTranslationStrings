@@ -58,179 +58,179 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0000 KOIZUMI (古泉)" xml:space="preserve">
     <value>ではこれからチェスのルールを
 説明して行きましょう</value>
   </data>
-  <data name="1 INFO (インフォ)" xml:space="preserve">
+  <data name="0001 INFO (インフォ)" xml:space="preserve">
     <value>“チェス”の勝利＆敗北条件に
 ついて説明します</value>
   </data>
-  <data name="2 INFO (インフォ)" xml:space="preserve">
+  <data name="0002 INFO (インフォ)" xml:space="preserve">
     <value>チェスにおける“勝利条件”は
 ２つあります</value>
   </data>
-  <data name="3 INFO (インフォ)" xml:space="preserve">
+  <data name="0003 INFO (インフォ)" xml:space="preserve">
     <value>１つは相手の“キング”を
 『チェックメイト』した場合です</value>
   </data>
-  <data name="4 INFO (インフォ)" xml:space="preserve">
+  <data name="0004 INFO (インフォ)" xml:space="preserve">
     <value>もう一つは『相手が投了』した場合
 になります</value>
   </data>
-  <data name="5 INFO (インフォ)" xml:space="preserve">
+  <data name="0005 INFO (インフォ)" xml:space="preserve">
     <value>敗北条件は、これの逆で同じく２つ
 あります</value>
   </data>
-  <data name="6 INFO (インフォ)" xml:space="preserve">
+  <data name="0006 INFO (インフォ)" xml:space="preserve">
     <value>１つは自分の“キング”が
 『チェックメイト』された場合</value>
   </data>
-  <data name="7 INFO (インフォ)" xml:space="preserve">
+  <data name="0007 INFO (インフォ)" xml:space="preserve">
     <value>もう一つは『自分が投了』した場合
 です</value>
   </data>
-  <data name="8 INFO (インフォ)" xml:space="preserve">
+  <data name="0008 INFO (インフォ)" xml:space="preserve">
     <value>『チェックメイト』とは、“キン
 グ”が『チェック』された状態</value>
   </data>
-  <data name="9 INFO (インフォ)" xml:space="preserve">
+  <data name="0009 INFO (インフォ)" xml:space="preserve">
     <value>（敵の駒の移動可能マス上にキング
 　がある状態＝将棋で言えば王手）</value>
   </data>
-  <data name="10 INFO (インフォ)" xml:space="preserve">
+  <data name="0010 INFO (インフォ)" xml:space="preserve">
     <value>にあり、かつ『チェックを回避する
 手段が無い』状態を指します</value>
   </data>
-  <data name="11 INFO (インフォ)" xml:space="preserve">
+  <data name="0011 INFO (インフォ)" xml:space="preserve">
     <value>また、“チェス”には“引分”が
 存在します</value>
   </data>
-  <data name="12 INFO (インフォ)" xml:space="preserve">
+  <data name="0012 INFO (インフォ)" xml:space="preserve">
     <value>“引分”の条件は少し多く４つ
 あります</value>
   </data>
-  <data name="13 INFO (インフォ)" xml:space="preserve">
+  <data name="0013 INFO (インフォ)" xml:space="preserve">
     <value>１つは『ステールメイト』と言う
 局面になった場合</value>
   </data>
-  <data name="14 INFO (インフォ)" xml:space="preserve">
+  <data name="0014 INFO (インフォ)" xml:space="preserve">
     <value>２つ目は『同じ局面が３回続いた』
 場合</value>
   </data>
-  <data name="15 INFO (インフォ)" xml:space="preserve">
+  <data name="0015 INFO (インフォ)" xml:space="preserve">
     <value>３つ目は『５０手の間ポーンが動か
 ず駒の取り合いが無い』場合</value>
   </data>
-  <data name="16 INFO (インフォ)" xml:space="preserve">
+  <data name="0016 INFO (インフォ)" xml:space="preserve">
     <value>４つ目は『お互い合意』した場合
 です</value>
   </data>
-  <data name="17 INFO (インフォ)" xml:space="preserve">
+  <data name="0017 INFO (インフォ)" xml:space="preserve">
     <value>４つ目は主にチェックメイト出来る
 駒が無くなった場合など、お互いに</value>
   </data>
-  <data name="18 INFO (インフォ)" xml:space="preserve">
+  <data name="0018 INFO (インフォ)" xml:space="preserve">
     <value>勝負が付かないと判断した時に
 発生します</value>
   </data>
-  <data name="19 INFO (インフォ)" xml:space="preserve">
+  <data name="0019 INFO (インフォ)" xml:space="preserve">
     <value>１つ目の『ステールメイト』とは
 以下の条件で発生します</value>
   </data>
-  <data name="20 INFO (インフォ)" xml:space="preserve">
+  <data name="0020 INFO (インフォ)" xml:space="preserve">
     <value>『相手のキングがチェックされて
 いない』</value>
   </data>
-  <data name="21 INFO (インフォ)" xml:space="preserve">
+  <data name="0021 INFO (インフォ)" xml:space="preserve">
     <value>『相手に動かせる駒が無い』</value>
   </data>
-  <data name="22 INFO (インフォ)" xml:space="preserve">
+  <data name="0022 INFO (インフォ)" xml:space="preserve">
     <value>以上２つの条件を満たした場合に
 『ステールメイト』と判定され</value>
   </data>
-  <data name="23 INFO (インフォ)" xml:space="preserve">
+  <data name="0023 INFO (インフォ)" xml:space="preserve">
     <value>“引分”になります</value>
   </data>
-  <data name="24 INFO (インフォ)" xml:space="preserve">
+  <data name="0024 INFO (インフォ)" xml:space="preserve">
     <value>下画面が『ステールメイト』の一例
 です</value>
   </data>
-  <data name="25 INFO (インフォ)" xml:space="preserve">
+  <data name="0025 INFO (インフォ)" xml:space="preserve">
     <value>黒側に動かせる駒がありません</value>
   </data>
-  <data name="26 INFO (インフォ)" xml:space="preserve">
+  <data name="0026 INFO (インフォ)" xml:space="preserve">
     <value>“キング”の移動場所は
 “クイーン”に押えられています</value>
   </data>
-  <data name="27 INFO (インフォ)" xml:space="preserve">
+  <data name="0027 INFO (インフォ)" xml:space="preserve">
     <value>同じく“ポーン”は白の“ポーン”
 に進路を塞がれてしまっています</value>
   </data>
-  <data name="28 INFO (インフォ)" xml:space="preserve">
+  <data name="0028 INFO (インフォ)" xml:space="preserve">
     <value>しかし、黒の“キング”は
 『チェック』されていません</value>
   </data>
-  <data name="29 INFO (インフォ)" xml:space="preserve">
+  <data name="0029 INFO (インフォ)" xml:space="preserve">
     <value>この局面を『ステールメイト』
 と言い“引分”となります</value>
   </data>
-  <data name="30 INFO (インフォ)" xml:space="preserve">
+  <data name="0030 INFO (インフォ)" xml:space="preserve">
     <value>少し局面を変更してみました</value>
   </data>
-  <data name="31 INFO (インフォ)" xml:space="preserve">
+  <data name="0031 INFO (インフォ)" xml:space="preserve">
     <value>この局面では黒の“ポーン”は動く
 事が出来ます</value>
   </data>
-  <data name="32 INFO (インフォ)" xml:space="preserve">
+  <data name="0032 INFO (インフォ)" xml:space="preserve">
     <value>この場合『ステールメイト』には
 ならず、黒は“ポーン”を動かさね</value>
   </data>
-  <data name="33 INFO (インフォ)" xml:space="preserve">
+  <data name="0033 INFO (インフォ)" xml:space="preserve">
     <value>ばなりません</value>
   </data>
-  <data name="34 INFO (インフォ)" xml:space="preserve">
+  <data name="0034 INFO (インフォ)" xml:space="preserve">
     <value>これで『チェックメイト』です</value>
   </data>
-  <data name="35 INFO (インフォ)" xml:space="preserve">
+  <data name="0035 INFO (インフォ)" xml:space="preserve">
     <value>このように、勝ち目がなくなっても
 『ステールメイト』に持込む事で</value>
   </data>
-  <data name="36 INFO (インフォ)" xml:space="preserve">
+  <data name="0036 INFO (インフォ)" xml:space="preserve">
     <value>“引分”にしてしまうことが
 出来ます</value>
   </data>
-  <data name="37 INFO (インフォ)" xml:space="preserve">
+  <data name="0037 INFO (インフォ)" xml:space="preserve">
     <value>逆に勝ちが見えても気を抜かず
 相手を追い詰める必要があります</value>
   </data>
-  <data name="38 INFO (インフォ)" xml:space="preserve">
+  <data name="0038 INFO (インフォ)" xml:space="preserve">
     <value>以上で勝利＆敗北条件の説明を
 終わります</value>
   </data>
-  <data name="39 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0039 KOIZUMI (古泉)" xml:space="preserve">
     <value>１手で“ポーンを獲得”
 してください　（仮）</value>
   </data>
-  <data name="40 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0040 KOIZUMI (古泉)" xml:space="preserve">
     <value>正解です、さすがですね　（仮）</value>
   </data>
-  <data name="41 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0041 KOIZUMI (古泉)" xml:space="preserve">
     <value>次の問題も頑張ってください
 （仮）</value>
   </data>
-  <data name="42 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0042 KOIZUMI (古泉)" xml:space="preserve">
     <value>残念、違いましたね　（仮）</value>
   </data>
-  <data name="43 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0043 KOIZUMI (古泉)" xml:space="preserve">
     <value>もう一度挑戦してみてください
 （仮）</value>
   </data>
-  <data name="44 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0044 KOIZUMI (古泉)" xml:space="preserve">
     <value>“駒得”出来なかったようですね
 　（仮）</value>
   </data>
-  <data name="45 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0045 KOIZUMI (古泉)" xml:space="preserve">
     <value>ポイントの高い駒を奪われない様に
 気をつけてください　（仮）</value>
   </data>

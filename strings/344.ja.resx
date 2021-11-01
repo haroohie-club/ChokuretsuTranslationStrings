@@ -58,116 +58,116 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>ハルヒ、急ぐのはわかるが後先考え
 ての行動か？</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>もちろんよっ！　当然じゃない</value>
   </data>
-  <data name="2 KYON (キョン)" xml:space="preserve">
+  <data name="0002 KYON (キョン)" xml:space="preserve">
     <value>えらくあっさり言い切るなあ</value>
   </data>
-  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
     <value>怪奇現象が本物の怪奇ならそれで
 よしなのよ</value>
   </data>
-  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なにかの錯覚なら錯覚で、それを
 証明出来ればいいの</value>
   </data>
-  <data name="5 KYON (キョン)" xml:space="preserve">
+  <data name="0005 KYON (キョン)" xml:space="preserve">
     <value>……結局出たとこ勝負じゃないか
 成功する確率とか考えてるのか？</value>
   </data>
-  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0006 HARUHI (ハルヒ)" xml:space="preserve">
     <value>５分５分ってところかしら</value>
   </data>
-  <data name="7 KYON (キョン)" xml:space="preserve">
+  <data name="0007 KYON (キョン)" xml:space="preserve">
     <value>俺から見るとイチかバチかだな</value>
   </data>
-  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
     <value>無駄口叩いてるヒマがあったら
 成功するように努力しなさいっ！</value>
   </data>
-  <data name="9 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0009 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>具体的にどういう努力が必要なのか
 聞いてみたいところだな</value>
   </data>
-  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>まずはさっさと歩くことよ！</value>
   </data>
-  <data name="11 KYON (キョン)" xml:space="preserve">
+  <data name="0011 KYON (キョン)" xml:space="preserve">
     <value>……そんなことだろうと思ったよ</value>
   </data>
-  <data name="12 MIKURU (みくる)" xml:space="preserve">
+  <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>成功確率の割り出し方って
 どうするんでしょうか？</value>
   </data>
-  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
     <value>成功確率ねぇ。それは状況を分析
 して、成功を阻害する要素を並べて</value>
   </data>
-  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
     <value>引いてみるしかないんじゃない？</value>
   </data>
-  <data name="15 MIKURU (みくる)" xml:space="preserve">
+  <data name="0015 MIKURU (みくる)" xml:space="preserve">
     <value>阻害要素がどれだけあるかなんて
 あたしにはわかりませんけど……</value>
   </data>
-  <data name="16 MIKURU (みくる)" xml:space="preserve">
+  <data name="0016 MIKURU (みくる)" xml:space="preserve">
     <value>長門さんってすごいですね</value>
   </data>
-  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希が言ったの？</value>
   </data>
-  <data name="18 MIKURU (みくる)" xml:space="preserve">
+  <data name="0018 MIKURU (みくる)" xml:space="preserve">
     <value>はい、キョンくんから聞いた話
 なんですけどね</value>
   </data>
-  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0019 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたしなら、１００％だと信じて
 確率なんて考えたりしないわね！</value>
   </data>
-  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それに、阻害要素があっても、全部
 取り除けばいいのよ！</value>
   </data>
-  <data name="21 MIKURU (みくる)" xml:space="preserve">
+  <data name="0021 MIKURU (みくる)" xml:space="preserve">
     <value>涼宮さんは長門さんと違う意味で
 すごいです……</value>
   </data>
-  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
     <value>こそこそ進むのまどろっこしいわね</value>
   </data>
-  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0023 HARUHI (ハルヒ)" xml:space="preserve">
     <value>見つかっても構わないからだーっと
 走って突っ切るってのはどうかしら</value>
   </data>
-  <data name="24 NAGATO (長門)" xml:space="preserve">
+  <data name="0024 NAGATO (長門)" xml:space="preserve">
     <value>成功確率は低いと思われる
 推奨はできない</value>
   </data>
-  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
     <value>やっぱり有希もそう？
 仕方ない、今まで通り行きましょ</value>
   </data>
-  <data name="26 NAGATO (長門)" xml:space="preserve">
+  <data name="0026 NAGATO (長門)" xml:space="preserve">
     <value>そちらを推奨する</value>
   </data>
-  <data name="27 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0027 KOIZUMI (古泉)" xml:space="preserve">
     <value>一般的に、人間は行動の直前に
 無意識下で成功確率を計算するとか</value>
   </data>
-  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0028 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そう？　あたしはそんな覚え
 なんてないわよ</value>
   </data>
-  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0029 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それに、想像のつく結果が待ってる
 としたら、退屈じゃない？</value>
   </data>
-  <data name="30 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0030 KOIZUMI (古泉)" xml:space="preserve">
     <value>……なかなか、普通の人はそうは
 思えないものですよ</value>
   </data>

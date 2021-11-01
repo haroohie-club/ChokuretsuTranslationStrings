@@ -58,615 +58,615 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>ふう……</value>
   </data>
-  <data name="1 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>濃霧のグラウンドから、壁伝いに
 歩いてなんとか部室に辿り着いた</value>
   </data>
-  <data name="2 KYON (キョン)" xml:space="preserve">
+  <data name="0002 KYON (キョン)" xml:space="preserve">
     <value>ハルヒ、俺はみんなを探しに行く
 おまえは……</value>
   </data>
-  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたしも行くわっ</value>
   </data>
-  <data name="4 KYON (キョン)" xml:space="preserve">
+  <data name="0004 KYON (キョン)" xml:space="preserve">
     <value>いや、俺ひとりで行く。おまえと
 はぐれると余計に面倒だからな</value>
   </data>
-  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>何よ、えらそうにっ！</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>それに、誰かがここに戻ってきた
 時に、お前が居た方が安心だろ</value>
   </data>
-  <data name="7 KYON (キョン)" xml:space="preserve">
+  <data name="0007 KYON (キョン)" xml:space="preserve">
     <value>だからいいか、ここから一歩も動く
 んじゃないぞ</value>
   </data>
-  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さっきから何真剣な顔してるのよ！</value>
   </data>
-  <data name="9 KYON (キョン)" xml:space="preserve">
+  <data name="0009 KYON (キョン)" xml:space="preserve">
     <value>何かあってからじゃ遅いんだよ
 だから、絶対に部室から動くな</value>
   </data>
-  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……</value>
   </data>
-  <data name="11 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0011 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒは唇を尖らせておし黙って
 しまった</value>
   </data>
-  <data name="12 KYON (キョン)" xml:space="preserve">
+  <data name="0012 KYON (キョン)" xml:space="preserve">
     <value>分かったのか、分からないのか
 どっちだよ？</value>
   </data>
-  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……わかったわよ！</value>
   </data>
-  <data name="14 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0014 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>相変わらず不満そうではあるが
 いちおうは聞き分けてくれたらしい</value>
   </data>
-  <data name="15 KYON (キョン)" xml:space="preserve">
+  <data name="0015 KYON (キョン)" xml:space="preserve">
     <value>じゃあ、俺が戻るまで部室にいろよ</value>
   </data>
-  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
     <value>念を押さなくてもいいわよっ</value>
   </data>
-  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうと決まったら、さっさとみんな
 を探してきなさい！</value>
   </data>
-  <data name="18 KYON (キョン)" xml:space="preserve">
+  <data name="0018 KYON (キョン)" xml:space="preserve">
     <value>へいへい</value>
   </data>
-  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0019 HARUHI (ハルヒ)" xml:space="preserve">
     <value>&#x1E;</value>
   </data>
-  <data name="20 KYON (キョン)" xml:space="preserve">
+  <data name="0020 KYON (キョン)" xml:space="preserve">
     <value>濃霧以外におかしいところは見あた
 らないようだが……</value>
   </data>
-  <data name="21 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0021 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いや、ハルヒがケータイを試して
 ダメだったな</value>
   </data>
-  <data name="22 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0022 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>やっぱり何かが妨害しているのかも
 知れない</value>
   </data>
-  <data name="23 KYON (キョン)" xml:space="preserve">
+  <data name="0023 KYON (キョン)" xml:space="preserve">
     <value>一通り学校内を探すしかないな</value>
   </data>
-  <data name="24 KYON (キョン)" xml:space="preserve">
+  <data name="0024 KYON (キョン)" xml:space="preserve">
     <value>ここも特に異常はないみたいだな
 朝比奈さん達はどこに行ったんだ？</value>
   </data>
-  <data name="25 KYON (キョン)" xml:space="preserve">
+  <data name="0025 KYON (キョン)" xml:space="preserve">
     <value>音楽室にも誰もいない……</value>
   </data>
-  <data name="26 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0026 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あいつら、部室に戻ってみるとか
 考えていないのか？</value>
   </data>
-  <data name="27 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0027 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>それとも、部室に戻れない理由が
 ある……？</value>
   </data>
-  <data name="28 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0028 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>とにかく徹底的に探すしかないな</value>
   </data>
-  <data name="29 KYON (キョン)" xml:space="preserve">
+  <data name="0029 KYON (キョン)" xml:space="preserve">
     <value>……鏡もなにも、そのまんまか</value>
   </data>
-  <data name="30 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0030 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>人影は全く見あたらないし
 本当にみんなはどこに行ったんだ？</value>
   </data>
-  <data name="31 KYON (キョン)" xml:space="preserve">
+  <data name="0031 KYON (キョン)" xml:space="preserve">
     <value>戻ったぜ</value>
   </data>
-  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
     <value>どう？　みんなは見つかったの？</value>
   </data>
-  <data name="33 KYON (キョン)" xml:space="preserve">
+  <data name="0033 KYON (キョン)" xml:space="preserve">
     <value>見ての通り、誰も見つからなかった</value>
   </data>
-  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0034 HARUHI (ハルヒ)" xml:space="preserve">
     <value>えらそうに言って出て行ったわりに
 役に立たないんだからっ！</value>
   </data>
-  <data name="35 KYON (キョン)" xml:space="preserve">
+  <data name="0035 KYON (キョン)" xml:space="preserve">
     <value>しょうがないだろ、向こうも俺たち
 を探して歩いてるかも知れないしな</value>
   </data>
-  <data name="36 KYON (キョン)" xml:space="preserve">
+  <data name="0036 KYON (キョン)" xml:space="preserve">
     <value>すれ違った可能性だってあるって</value>
   </data>
-  <data name="37 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0037 HARUHI (ハルヒ)" xml:space="preserve">
     <value>だったら部室に戻ってきていても
 おかしくないじゃないのよっ</value>
   </data>
-  <data name="38 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0038 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>その通りだ。だけど戻って来ない
 ってところも異常だよな</value>
   </data>
-  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0039 HARUHI (ハルヒ)" xml:space="preserve">
     <value>どこにいっちゃったのよ、みんな</value>
   </data>
-  <data name="40 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0040 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺も焦ってるが、ハルヒも焦りを
 感じているらしい</value>
   </data>
-  <data name="41 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0041 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>とはいえ、ハルヒに詳細を告げる
 わけにはいかない</value>
   </data>
-  <data name="42 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0042 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……また霧が濃くなったわね
 灯りも見えないぐらいだわ</value>
   </data>
-  <data name="43 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0043 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>窓の外を見て、ハルヒが不安げに
 しているが……</value>
   </data>
-  <data name="44 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0044 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ちょっとキョン！　あんた、もう
 一度探してきなさいよっ！</value>
   </data>
-  <data name="45 KYON (キョン)" xml:space="preserve">
+  <data name="0045 KYON (キョン)" xml:space="preserve">
     <value>はいはい</value>
   </data>
-  <data name="46 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0046 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>探しに行くと言わないだけましか</value>
   </data>
-  <data name="47 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0047 HARUHI (ハルヒ)" xml:space="preserve">
     <value>&#x1E;</value>
   </data>
-  <data name="48 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0048 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒなりに焦ってるんだろうが
 もう一度回っても同じだろう</value>
   </data>
-  <data name="49 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0049 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なにかいい方法はないものか……</value>
   </data>
-  <data name="50 KYON (キョン)" xml:space="preserve">
+  <data name="0050 KYON (キョン)" xml:space="preserve">
     <value>あれ？　ケータイが繋がったのか？</value>
   </data>
-  <data name="51 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0051 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>慌ててケータイの液晶を見ると、
 朝比奈さんからのメールだった</value>
   </data>
-  <data name="52 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0052 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>メール下さい待ってますキョンくん
 ……か</value>
   </data>
-  <data name="53 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0053 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>一人ではぐれて怯えておいでなのか
 どことなく変な文面だ</value>
   </data>
-  <data name="54 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0054 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>早いとこ、返信しておこう</value>
   </data>
-  <data name="55 KYON (キョン)" xml:space="preserve">
+  <data name="0055 KYON (キョン)" xml:space="preserve">
     <value>『部室のそばです、朝比奈さんは
 どこにいますか』</value>
   </data>
-  <data name="56 KYON (キョン)" xml:space="preserve">
+  <data name="0056 KYON (キョン)" xml:space="preserve">
     <value>……送信っと</value>
   </data>
-  <data name="57 KYON (キョン)" xml:space="preserve">
+  <data name="0057 KYON (キョン)" xml:space="preserve">
     <value>おおっ！？</value>
   </data>
-  <data name="58 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0058 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>びっくりするぐらい早い返信だ</value>
   </data>
-  <data name="59 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0059 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>こんなに早く返してくるとは……</value>
   </data>
-  <data name="60 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0060 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんは案外ケータイの入力が
 得意だったりするのだろうか</value>
   </data>
-  <data name="61 KYON (キョン)" xml:space="preserve">
+  <data name="0061 KYON (キョン)" xml:space="preserve">
     <value>なになに……</value>
   </data>
-  <data name="62 KYON (キョン)" xml:space="preserve">
+  <data name="0062 KYON (キョン)" xml:space="preserve">
     <value>
 『部室の場所が分かりません』</value>
   </data>
-  <data name="63 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0063 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>やっぱり焦ってるのか迷子にでもな
 って心細いのだろう。迎えにいくか</value>
   </data>
-  <data name="64 KYON (キョン)" xml:space="preserve">
+  <data name="0064 KYON (キョン)" xml:space="preserve">
     <value>現在位置を教えて下さい……と</value>
   </data>
-  <data name="65 KYON (キョン)" xml:space="preserve">
+  <data name="0065 KYON (キョン)" xml:space="preserve">
     <value>異常なまでに速い返信だな……</value>
   </data>
-  <data name="66 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0066 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なになに……</value>
   </data>
-  <data name="67 MAIL (メール)" xml:space="preserve">
+  <data name="0067 MAIL (メール)" xml:space="preserve">
     <value>キョンくんは今どこにいますか</value>
   </data>
-  <data name="68 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0068 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……って、部室のそばにいると
 さっき送ったはずだけど……</value>
   </data>
-  <data name="69 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0069 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>よっぽど慌ててるのか、どこかで
 怯えてるのかも知れないな</value>
   </data>
-  <data name="70 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0070 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>きっと、それで要領を得ないんだな</value>
   </data>
-  <data name="71 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0071 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>はやく合流して安心させてあげない
 とまずいな、こりゃ</value>
   </data>
-  <data name="72 KYON (キョン)" xml:space="preserve">
+  <data name="0072 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さん、落ち着いて。今の場所
 を教えて下さい……っと</value>
   </data>
-  <data name="73 MAIL (メール)" xml:space="preserve">
+  <data name="0073 MAIL (メール)" xml:space="preserve">
     <value>１年９組の教室前で合流したい</value>
   </data>
-  <data name="74 KYON (キョン)" xml:space="preserve">
+  <data name="0074 KYON (キョン)" xml:space="preserve">
     <value>むぅ……</value>
   </data>
-  <data name="75 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0075 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>しかし、なんだこの感じは……</value>
   </data>
-  <data name="76 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0076 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>漠然としているが、妙な違和感を
 感じてならない</value>
   </data>
-  <data name="77 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0077 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いくら慌てているとしても、いまい
 ち要領を得ないメール……</value>
   </data>
-  <data name="78 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0078 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>返信も異常に速すぎる</value>
   </data>
-  <data name="79 KYON (キョン)" xml:space="preserve">
+  <data name="0079 KYON (キョン)" xml:space="preserve">
     <value>一度、電話して詳しく状況を確認し
 てみるか……</value>
   </data>
-  <data name="80 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0080 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>#P03この電話は現在電波の届かない場所
 にあるか電源が入っていないため</value>
   </data>
-  <data name="81 KYON (キョン)" xml:space="preserve">
+  <data name="0081 KYON (キョン)" xml:space="preserve">
     <value>なに……</value>
   </data>
-  <data name="82 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0082 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>慌てて液晶の表示を確認すると
 そこには『圏外』の文字があった</value>
   </data>
-  <data name="83 KYON (キョン)" xml:space="preserve">
+  <data name="0083 KYON (キョン)" xml:space="preserve">
     <value>どういう……ことだ……？</value>
   </data>
-  <data name="84 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0084 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いつから、圏外になっていたんだ？</value>
   </data>
-  <data name="85 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0085 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そもそも、学校内で圏外になること
 なんてあるのか？</value>
   </data>
-  <data name="86 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0086 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なにより、さっきまで俺がメールで
 やりとりしていた相手は誰だ？</value>
   </data>
-  <data name="87 KYON (キョン)" xml:space="preserve">
+  <data name="0087 KYON (キョン)" xml:space="preserve">
     <value>なっ！？</value>
   </data>
-  <data name="88 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0088 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>また、メールの着信だ
 相変わらず表示は圏外のまま</value>
   </data>
-  <data name="89 KYON (キョン)" xml:space="preserve">
+  <data name="0089 KYON (キョン)" xml:space="preserve">
     <value>みんなで待っています……か</value>
   </data>
-  <data name="90 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0090 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いったい、誰が待っているってんだ</value>
   </data>
-  <data name="91 KYON (キョン)" xml:space="preserve">
+  <data name="0091 KYON (キョン)" xml:space="preserve">
     <value>ま、またか</value>
   </data>
-  <data name="92 MAIL (メール)" xml:space="preserve">
+  <data name="0092 MAIL (メール)" xml:space="preserve">
     <value>キョンくん、どこにいるんですか？</value>
   </data>
-  <data name="93 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0093 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>口調は朝比奈さんっぽいが
 何かが決定的におかしい</value>
   </data>
-  <data name="94 MAIL (メール)" xml:space="preserve">
+  <data name="0094 MAIL (メール)" xml:space="preserve">
     <value>はやくきてください</value>
   </data>
-  <data name="95 MAIL (メール)" xml:space="preserve">
+  <data name="0095 MAIL (メール)" xml:space="preserve">
     <value>キョンくん、急いで</value>
   </data>
-  <data name="96 MAIL (メール)" xml:space="preserve">
+  <data name="0096 MAIL (メール)" xml:space="preserve">
     <value>まだ来ないんですか？</value>
   </data>
-  <data name="97 KYON (キョン)" xml:space="preserve">
+  <data name="0097 KYON (キョン)" xml:space="preserve">
     <value>くそっ！　またか！</value>
   </data>
-  <data name="98 MAIL (メール)" xml:space="preserve">
+  <data name="0098 MAIL (メール)" xml:space="preserve">
     <value>はやく</value>
   </data>
-  <data name="99 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0099 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>やっぱりおかしい、おかしすぎる</value>
   </data>
-  <data name="100 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0100 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>確信した。俺が今、メールをして
 いる相手は朝比奈さんじゃない</value>
   </data>
-  <data name="101 KYON (キョン)" xml:space="preserve">
+  <data name="0101 KYON (キョン)" xml:space="preserve">
     <value>いいだろう、こっちからも聞いて
 やろうじゃねぇか</value>
   </data>
-  <data name="102 KYON (キョン)" xml:space="preserve">
+  <data name="0102 KYON (キョン)" xml:space="preserve">
     <value>『おまえは、誰だ？』</value>
   </data>
-  <data name="103 KYON (キョン)" xml:space="preserve">
+  <data name="0103 KYON (キョン)" xml:space="preserve">
     <value>……送信</value>
   </data>
-  <data name="104 MAIL (メール)" xml:space="preserve">
+  <data name="0104 MAIL (メール)" xml:space="preserve">
     <value>どうして？</value>
   </data>
-  <data name="105 KYON (キョン)" xml:space="preserve">
+  <data name="0105 KYON (キョン)" xml:space="preserve">
     <value>どうして……だと？</value>
   </data>
-  <data name="106 KYON (キョン)" xml:space="preserve">
+  <data name="0106 KYON (キョン)" xml:space="preserve">
     <value>いい加減にしやがれ！</value>
   </data>
-  <data name="107 KYON (キョン)" xml:space="preserve">
+  <data name="0107 KYON (キョン)" xml:space="preserve">
     <value>いつまでもこんなことやってないで
 姿を現せ！</value>
   </data>
-  <data name="108 MAIL (メール)" xml:space="preserve">
+  <data name="0108 MAIL (メール)" xml:space="preserve">
     <value>$5#P05はやくはやくはやくはやくはやく
 はやくはやくはやくはやくはやく</value>
   </data>
-  <data name="109 KYON (キョン)" xml:space="preserve">
+  <data name="0109 KYON (キョン)" xml:space="preserve">
     <value>くそっ！　なんなんだこれは！</value>
   </data>
-  <data name="110 KYON (キョン)" xml:space="preserve">
+  <data name="0110 KYON (キョン)" xml:space="preserve">
     <value>なにっ！？</value>
   </data>
-  <data name="111 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0111 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>目眩のような感覚とともに、まわり
 の風景が一瞬で変わった</value>
   </data>
-  <data name="112 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0112 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>グラウンドの霧も半端なかったが、
 ここはもっと異質な感じがする</value>
   </data>
-  <data name="113 KYON (キョン)" xml:space="preserve">
+  <data name="0113 KYON (キョン)" xml:space="preserve">
     <value>まさか……異空間か？</value>
   </data>
-  <data name="114 KYON (キョン)" xml:space="preserve">
+  <data name="0114 KYON (キョン)" xml:space="preserve">
     <value>ってことはさっきのはやっぱり……</value>
   </data>
-  <data name="115 KYON (キョン)" xml:space="preserve">
+  <data name="0115 KYON (キョン)" xml:space="preserve">
     <value>うわ！</value>
   </data>
-  <data name="116 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0116 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>今度は電話か……</value>
   </data>
-  <data name="117 KYON (キョン)" xml:space="preserve">
+  <data name="0117 KYON (キョン)" xml:space="preserve">
     <value>……ん？</value>
   </data>
-  <data name="118 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0118 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いつの間にか圏外表示が消えている</value>
   </data>
-  <data name="119 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0119 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>発信者の表示を見ると
 朝比奈さんからだ</value>
   </data>
-  <data name="120 KYON (キョン)" xml:space="preserve">
+  <data name="0120 KYON (キョン)" xml:space="preserve">
     <value>……今度こそ本物だろうな</value>
   </data>
-  <data name="121 KYON (キョン)" xml:space="preserve">
+  <data name="0121 KYON (キョン)" xml:space="preserve">
     <value>……もしもし</value>
   </data>
-  <data name="122 MIKURU (みくる)" xml:space="preserve">
+  <data name="0122 MIKURU (みくる)" xml:space="preserve">
     <value>大丈夫ですか！　キョンくん！</value>
   </data>
-  <data name="123 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0123 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ケータイを通して朝比奈さんの声が
 聞こえてきた</value>
   </data>
-  <data name="124 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0124 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>それだけで、ホッとする
 だが、安心するのはまだ早い</value>
   </data>
-  <data name="125 KYON (キョン)" xml:space="preserve">
+  <data name="0125 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さん、あなた、本物ですか？</value>
   </data>
-  <data name="126 MIKURU (みくる)" xml:space="preserve">
+  <data name="0126 MIKURU (みくる)" xml:space="preserve">
     <value>へ？　え、えと、どういうこと？</value>
   </data>
-  <data name="127 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0127 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>この反応は間違いなく朝比奈さんだ</value>
   </data>
-  <data name="128 KYON (キョン)" xml:space="preserve">
+  <data name="0128 KYON (キョン)" xml:space="preserve">
     <value>すみません、ちょっとした冗談です</value>
   </data>
-  <data name="129 MIKURU (みくる)" xml:space="preserve">
+  <data name="0129 MIKURU (みくる)" xml:space="preserve">
     <value>あの、キョンくんはいまどこに？</value>
   </data>
-  <data name="130 KYON (キョン)" xml:space="preserve">
+  <data name="0130 KYON (キョン)" xml:space="preserve">
     <value>なにやら異空間っぽいところに
 飛ばされて来たみたいです</value>
   </data>
-  <data name="131 MIKURU (みくる)" xml:space="preserve">
+  <data name="0131 MIKURU (みくる)" xml:space="preserve">
     <value>体は大丈夫なんですか？
 ケガとかしてない？</value>
   </data>
-  <data name="132 KYON (キョン)" xml:space="preserve">
+  <data name="0132 KYON (キョン)" xml:space="preserve">
     <value>ええ、何ともないですよ</value>
   </data>
-  <data name="133 MIKURU (みくる)" xml:space="preserve">
+  <data name="0133 MIKURU (みくる)" xml:space="preserve">
     <value>よかった……</value>
   </data>
-  <data name="134 MIKURU (みくる)" xml:space="preserve">
+  <data name="0134 MIKURU (みくる)" xml:space="preserve">
     <value>あ、そうだ。長門さんが話があるそ
 うですから、代わりますね</value>
   </data>
-  <data name="135 KYON (キョン)" xml:space="preserve">
+  <data name="0135 KYON (キョン)" xml:space="preserve">
     <value>ええ、お願いします</value>
   </data>
-  <data name="136 NAGATO (長門)" xml:space="preserve">
+  <data name="0136 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="137 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0137 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>相変わらずの無言だが、気配で長門
 が出たことがわかる</value>
   </data>
-  <data name="138 KYON (キョン)" xml:space="preserve">
+  <data name="0138 KYON (キョン)" xml:space="preserve">
     <value>ああ、長門か。どうなってるんだ？</value>
   </data>
-  <data name="139 NAGATO (長門)" xml:space="preserve">
+  <data name="0139 NAGATO (長門)" xml:space="preserve">
     <value>これまでにない大規模な異空間が
 発生している</value>
   </data>
-  <data name="140 NAGATO (長門)" xml:space="preserve">
+  <data name="0140 NAGATO (長門)" xml:space="preserve">
     <value>あなただけがその異空間に閉じこめ
 られている</value>
   </data>
-  <data name="141 NAGATO (長門)" xml:space="preserve">
+  <data name="0141 NAGATO (長門)" xml:space="preserve">
     <value>現状では、通信手段を確保すること
 しかできない</value>
   </data>
-  <data name="142 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0142 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>圏外から立ち直ったのは、長門が
 何かしてくれたからか……</value>
   </data>
-  <data name="143 KYON (キョン)" xml:space="preserve">
+  <data name="0143 KYON (キョン)" xml:space="preserve">
     <value>ハルヒやみんなは大丈夫なのか？</value>
   </data>
-  <data name="144 NAGATO (長門)" xml:space="preserve">
+  <data name="0144 NAGATO (長門)" xml:space="preserve">
     <value>大丈夫</value>
   </data>
-  <data name="145 KYON (キョン)" xml:space="preserve">
+  <data name="0145 KYON (キョン)" xml:space="preserve">
     <value>そうか……</value>
   </data>
-  <data name="146 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0146 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>みんなが無事と聞いてホッとしたね</value>
   </data>
-  <data name="147 NAGATO (長門)" xml:space="preserve">
+  <data name="0147 NAGATO (長門)" xml:space="preserve">
     <value>今、異空間の正常化に対応中
 しかし解除には時間が掛かる</value>
   </data>
-  <data name="148 KYON (キョン)" xml:space="preserve">
+  <data name="0148 KYON (キョン)" xml:space="preserve">
     <value>そうか……早いところ解除して欲し
 いところなんだがな</value>
   </data>
-  <data name="149 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0149 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>また巨大なカマドウマなんかが
 出てきたら、俺じゃなんともできん</value>
   </data>
-  <data name="150 NAGATO (長門)" xml:space="preserve">
+  <data name="0150 NAGATO (長門)" xml:space="preserve">
     <value>一刻も早く解除するために、あなた
 にも手伝ってもらいたい</value>
   </data>
-  <data name="151 KYON (キョン)" xml:space="preserve">
+  <data name="0151 KYON (キョン)" xml:space="preserve">
     <value>俺に出来ることがあるのか？</value>
   </data>
-  <data name="152 NAGATO (長門)" xml:space="preserve">
+  <data name="0152 NAGATO (長門)" xml:space="preserve">
     <value>……待って。問題が発生</value>
   </data>
-  <data name="153 KYON (キョン)" xml:space="preserve">
+  <data name="0153 KYON (キョン)" xml:space="preserve">
     <value>なんだ、問題って</value>
   </data>
-  <data name="154 NAGATO (長門)" xml:space="preserve">
+  <data name="0154 NAGATO (長門)" xml:space="preserve">
     <value>涼宮ハルヒがあなたを探して部室
 から出ていった</value>
   </data>
-  <data name="155 KYON (キョン)" xml:space="preserve">
+  <data name="0155 KYON (キョン)" xml:space="preserve">
     <value>……あのやろう</value>
   </data>
-  <data name="156 NAGATO (長門)" xml:space="preserve">
+  <data name="0156 NAGATO (長門)" xml:space="preserve">
     <value>涼宮ハルヒは特異点に向かっている</value>
   </data>
-  <data name="157 KYON (キョン)" xml:space="preserve">
+  <data name="0157 KYON (キョン)" xml:space="preserve">
     <value>……どういうことだ？　ハルヒに
 特異点の場所が分かるのか？</value>
   </data>
-  <data name="158 NAGATO (長門)" xml:space="preserve">
+  <data name="0158 NAGATO (長門)" xml:space="preserve">
     <value>あなたを見つけたいという願望が
 無意識に涼宮ハルヒを動かしている</value>
   </data>
-  <data name="159 KYON (キョン)" xml:space="preserve">
+  <data name="0159 KYON (キョン)" xml:space="preserve">
     <value>それで、無意識に特異点へ向かって
 いるってことか</value>
   </data>
-  <data name="160 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0160 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>やっかいなことになっちまった</value>
   </data>
-  <data name="161 NAGATO (長門)" xml:space="preserve">
+  <data name="0161 NAGATO (長門)" xml:space="preserve">
     <value>さらに問題が発生している</value>
   </data>
-  <data name="162 KYON (キョン)" xml:space="preserve">
+  <data name="0162 KYON (キョン)" xml:space="preserve">
     <value>まだあるのかよ！？</value>
   </data>
-  <data name="163 NAGATO (長門)" xml:space="preserve">
+  <data name="0163 NAGATO (長門)" xml:space="preserve">
     <value>涼宮ハルヒに接近する存在がいる</value>
   </data>
-  <data name="164 KYON (キョン)" xml:space="preserve">
+  <data name="0164 KYON (キョン)" xml:space="preserve">
     <value>いったい、何が……？</value>
   </data>
-  <data name="165 NAGATO (長門)" xml:space="preserve">
+  <data name="0165 NAGATO (長門)" xml:space="preserve">
     <value>あなたをその空間に閉じこめた者</value>
   </data>
-  <data name="166 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0166 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まさか、それって……
 あの“長い髪の少女”のことか？</value>
   </data>
-  <data name="167 NAGATO (長門)" xml:space="preserve">
+  <data name="0167 NAGATO (長門)" xml:space="preserve">
     <value>涼宮ハルヒが特異点と接触する前に
 特異点を消滅させる必要がある</value>
   </data>
-  <data name="168 KYON (キョン)" xml:space="preserve">
+  <data name="0168 KYON (キョン)" xml:space="preserve">
     <value>……このモップがまた役に立つって
 わけか</value>
   </data>
-  <data name="169 NAGATO (長門)" xml:space="preserve">
+  <data name="0169 NAGATO (長門)" xml:space="preserve">
     <value>そう</value>
   </data>
-  <data name="170 NAGATO (長門)" xml:space="preserve">
+  <data name="0170 NAGATO (長門)" xml:space="preserve">
     <value>特異点の処理はあなたに任せるしか
 ない</value>
   </data>
-  <data name="171 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0171 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>人ごとみたいに簡単に言ってくれた
 もんだが……</value>
   </data>
-  <data name="172 KYON (キョン)" xml:space="preserve">
+  <data name="0172 KYON (キョン)" xml:space="preserve">
     <value>分かった、こっちは任せろ</value>
   </data>
-  <data name="173 NAGATO (長門)" xml:space="preserve">
+  <data name="0173 NAGATO (長門)" xml:space="preserve">
     <value>これから必要な情報をあなたに送る</value>
   </data>
-  <data name="174 KYON (キョン)" xml:space="preserve">
+  <data name="0174 KYON (キョン)" xml:space="preserve">
     <value>頼むぞ、長門</value>
   </data>
-  <data name="175 NAGATO (長門)" xml:space="preserve">
+  <data name="0175 NAGATO (長門)" xml:space="preserve">
     <value>……気をつけて</value>
   </data>
-  <data name="176 KYON (キョン)" xml:space="preserve">
+  <data name="0176 KYON (キョン)" xml:space="preserve">
     <value>ああ</value>
   </data>
-  <data name="177 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0177 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……やるしかないか</value>
   </data>
 </root>

@@ -58,172 +58,172 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>なあ、ハルヒ</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョン、ものすごーくつまらない
 こと言う気じゃないでしょうね？</value>
   </data>
-  <data name="2 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0002 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>話をする前から、いきなり牽制して
 きやがった</value>
   </data>
-  <data name="3 KYON (キョン)" xml:space="preserve">
+  <data name="0003 KYON (キョン)" xml:space="preserve">
     <value>古泉の本音って聞いたことあるか？</value>
   </data>
-  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
     <value>本音なんて言うけど、それじゃ
 いつも言ってることは、</value>
   </data>
-  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>建前ってことになるじゃないのよ</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>建前だろ？</value>
   </data>
-  <data name="7 KYON (キョン)" xml:space="preserve">
+  <data name="0007 KYON (キョン)" xml:space="preserve">
     <value>いつも笑顔を浮かべて調子のいい
 発言ったら、建前に決まってる</value>
   </data>
-  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョン……確かに古泉くんはあんた
 と違って優秀で有能で人格者だわ</value>
   </data>
-  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
     <value>でもね、だからって嫉妬して揶揄
 するのはどうかと思うわよ</value>
   </data>
-  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>人として、それはダメでしょ</value>
   </data>
-  <data name="11 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0011 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なんで俺はハルヒに可哀想な人を
 見る目で見られないとならんのだ？</value>
   </data>
-  <data name="12 MIKURU (みくる)" xml:space="preserve">
+  <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>あのー、涼宮さん</value>
   </data>
-  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なに、みくるちゃん</value>
   </data>
-  <data name="14 MIKURU (みくる)" xml:space="preserve">
+  <data name="0014 MIKURU (みくる)" xml:space="preserve">
     <value>あのですねぇ、古泉くんのこと
 なんですけど……</value>
   </data>
-  <data name="15 MIKURU (みくる)" xml:space="preserve">
+  <data name="0015 MIKURU (みくる)" xml:space="preserve">
     <value>古泉くんっていつも微笑んでいて
 穏やかですよねぇ</value>
   </data>
-  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね。いつもしかめっ面のキョン
 とは大違いだわ</value>
   </data>
-  <data name="17 MIKURU (みくる)" xml:space="preserve">
+  <data name="0017 MIKURU (みくる)" xml:space="preserve">
     <value>古泉くんでも、本音ってあるんで
 しょうかね？</value>
   </data>
-  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
     <value>古泉くんの本音ねぇ</value>
   </data>
-  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0019 HARUHI (ハルヒ)" xml:space="preserve">
     <value>もしあるとして
 それ知りたいの、みくるちゃん？</value>
   </data>
-  <data name="20 MIKURU (みくる)" xml:space="preserve">
+  <data name="0020 MIKURU (みくる)" xml:space="preserve">
     <value>ううーん……どうでしょう？</value>
   </data>
-  <data name="21 MIKURU (みくる)" xml:space="preserve">
+  <data name="0021 MIKURU (みくる)" xml:space="preserve">
     <value>知りたいような、知りたくない
 ような……</value>
   </data>
-  <data name="22 MIKURU (みくる)" xml:space="preserve">
+  <data name="0022 MIKURU (みくる)" xml:space="preserve">
     <value>穏やかに笑ってくれてる方が
 いいかなぁ……</value>
   </data>
-  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0023 HARUHI (ハルヒ)" xml:space="preserve">
     <value>言いたくなったら言うんじゃないの
 みんな好きにすればいいと思うわ</value>
   </data>
-  <data name="24 MIKURU (みくる)" xml:space="preserve">
+  <data name="0024 MIKURU (みくる)" xml:space="preserve">
     <value>そうですねぇ</value>
   </data>
-  <data name="25 NAGATO (長門)" xml:space="preserve">
+  <data name="0025 NAGATO (長門)" xml:space="preserve">
     <value>古泉一樹の本音</value>
   </data>
-  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
     <value>古泉くんの本音？</value>
   </data>
-  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そりゃあるでしょ、人間だもの</value>
   </data>
-  <data name="28 NAGATO (長門)" xml:space="preserve">
+  <data name="0028 NAGATO (長門)" xml:space="preserve">
     <value>建前は</value>
   </data>
-  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0029 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あるんじゃないの</value>
   </data>
-  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0030 HARUHI (ハルヒ)" xml:space="preserve">
     <value>見栄張りたい時だってあるでしょう
 し、我慢だってするでしょ</value>
   </data>
-  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0031 HARUHI (ハルヒ)" xml:space="preserve">
     <value>建前が嘘で本音が真実とも限らない
 こともあるし、複雑なのよ、色々ね</value>
   </data>
-  <data name="32 NAGATO (長門)" xml:space="preserve">
+  <data name="0032 NAGATO (長門)" xml:space="preserve">
     <value>興味深い</value>
   </data>
-  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0033 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それは良かったわ、有希</value>
   </data>
-  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0034 KOIZUMI (古泉)" xml:space="preserve">
     <value>彼に僕の本音が聞きたい
 と言われてしまいましたが</value>
   </data>
-  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0035 KOIZUMI (古泉)" xml:space="preserve">
     <value>僕はそんなに裏表があるように
 見えるのでしょうか</value>
   </data>
-  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0036 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョンが？　あいつったら失礼な
 ヤツね、まったく</value>
   </data>
-  <data name="37 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0037 KOIZUMI (古泉)" xml:space="preserve">
     <value>いえ、今に始まったことでは
 ありませんので</value>
   </data>
-  <data name="38 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0038 KOIZUMI (古泉)" xml:space="preserve">
     <value>ぼくの笑顔はうさんくさいと
 ことあるごとに言われてますからね</value>
   </data>
-  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0039 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョンの代わりに謝っておくわ
 キョンは古泉くんに嫉妬してるのよ</value>
   </data>
-  <data name="40 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0040 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ＳＯＳ団の男子団員はふたりきりで
 何かと比べられちゃうからでしょ</value>
   </data>
-  <data name="41 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0041 HARUHI (ハルヒ)" xml:space="preserve">
     <value>悪いわね、古泉くん。許してやって</value>
   </data>
-  <data name="42 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0042 KOIZUMI (古泉)" xml:space="preserve">
     <value>僕の方が彼を羨ましく思っているの
 が本音と言えるかもしれまんね</value>
   </data>
-  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0043 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ええっ！？　古泉くんがキョンを
 羨ましく思う箇所なんてあるの？</value>
   </data>
-  <data name="44 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0044 KOIZUMI (古泉)" xml:space="preserve">
     <value>ええ、ありますよ</value>
   </data>
-  <data name="45 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0045 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ふーん、そうなんだ
 信じられないわ</value>
   </data>
-  <data name="46 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0046 KOIZUMI (古泉)" xml:space="preserve">
     <value>でもどこが羨ましいかは
 秘密ですがね</value>
   </data>

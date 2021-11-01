@@ -58,732 +58,732 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0000 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まずは下見ということで空き地に
 移動したが、</value>
   </data>
-  <data name="1 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>一目で立地条件に満足したのか、
 ハルヒは早々に道具の調達へと戻り</value>
   </data>
-  <data name="2 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0002 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そして俺は、長門と古泉の三人で、
 バーベキューの買い出しへ行くこと</value>
   </data>
-  <data name="3 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0003 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>となったのである</value>
   </data>
-  <data name="4 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0004 KYON_SIS (妹)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="5 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0005 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒ対策についていろいろと相談
 出来そうだと思っていたのだが</value>
   </data>
-  <data name="6 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0006 KYON_SIS (妹)" xml:space="preserve">
     <value>キョンくん、お買い物、お買い物</value>
   </data>
-  <data name="7 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0007 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なぜか妹も一緒についてくることに
 なってしまい先行きは不安だ</value>
   </data>
-  <data name="8 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0008 KYON_SIS (妹)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="9 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0009 KOIZUMI (古泉)" xml:space="preserve">
     <value>買い物しがてら、話し合えると
 よかったのですが</value>
   </data>
-  <data name="10 KYON (キョン)" xml:space="preserve">
+  <data name="0010 KYON (キョン)" xml:space="preserve">
     <value>俺もそう思っていたんだけどな</value>
   </data>
-  <data name="11 NAGATO (長門)" xml:space="preserve">
+  <data name="0011 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
-  <data name="12 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0012 KOIZUMI (古泉)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="13 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0013 KYON_SIS (妹)" xml:space="preserve">
     <value>キョンくん、なんのおはなし？</value>
   </data>
-  <data name="14 KYON (キョン)" xml:space="preserve">
+  <data name="0014 KYON (キョン)" xml:space="preserve">
     <value>ああ、なんでもない
 買い物を手伝ってくれ</value>
   </data>
-  <data name="15 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0015 KYON_SIS (妹)" xml:space="preserve">
     <value>うんっ、てつだうー！</value>
   </data>
-  <data name="16 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0016 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>我が妹ながら純真な笑顔だ</value>
   </data>
-  <data name="17 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0017 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>どこかの誰かにも、こんな時期が
 あったのだろうか</value>
   </data>
-  <data name="18 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0018 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>どこでどう変わるのかわからない
 もんだな、人間ってのは</value>
   </data>
-  <data name="19 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0019 KYON_SIS (妹)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="20 GROCER (八百屋)" xml:space="preserve">
+  <data name="0020 GROCER (八百屋)" xml:space="preserve">
     <value>いらっしゃい。何にするね</value>
   </data>
-  <data name="21 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0021 KOIZUMI (古泉)" xml:space="preserve">
     <value>いえ、まだ何を買うかは決めてない
 んですよ。いろいろと見せて下さい</value>
   </data>
-  <data name="22 GROCER (八百屋)" xml:space="preserve">
+  <data name="0022 GROCER (八百屋)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="23 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0023 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>空調がダダ漏れの店先ではあるが、
 道中歩きづめの俺にとっては</value>
   </data>
-  <data name="24 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0024 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>その微妙な気温差であっても涼しく
 て気持ちいい</value>
   </data>
-  <data name="25 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0025 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さて、買い物しながら話を進めると
 するか</value>
   </data>
-  <data name="26 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0026 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そのまえに、だ</value>
   </data>
-  <data name="27 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0027 KYON_SIS (妹)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="28 KYON (キョン)" xml:space="preserve">
+  <data name="0028 KYON (キョン)" xml:space="preserve">
     <value>おい、これを買ってきてくれないか</value>
   </data>
-  <data name="29 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0029 KYON_SIS (妹)" xml:space="preserve">
     <value>なぁに、お買い物のメモ？</value>
   </data>
-  <data name="30 KYON (キョン)" xml:space="preserve">
+  <data name="0030 KYON (キョン)" xml:space="preserve">
     <value>ああ、ちゃんと読めるだろ？</value>
   </data>
-  <data name="31 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0031 KYON_SIS (妹)" xml:space="preserve">
     <value>うん！　かってくるね</value>
   </data>
-  <data name="32 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0032 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>道中に取ったメモを妹に渡す
 これで少しは時間が稼げるだろう</value>
   </data>
-  <data name="33 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0033 KYON_SIS (妹)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="34 KYON (キョン)" xml:space="preserve">
+  <data name="0034 KYON (キョン)" xml:space="preserve">
     <value>長門、今の段階で学校の危険性は
 どの程度なんだ？</value>
   </data>
-  <data name="35 NAGATO (長門)" xml:space="preserve">
+  <data name="0035 NAGATO (長門)" xml:space="preserve">
     <value>涼宮ハルヒが望めば、それが具現化
 する確率が通常状態よりも</value>
   </data>
-  <data name="36 NAGATO (長門)" xml:space="preserve">
+  <data name="0036 NAGATO (長門)" xml:space="preserve">
     <value>極めて高い</value>
   </data>
-  <data name="37 KYON (キョン)" xml:space="preserve">
+  <data name="0037 KYON (キョン)" xml:space="preserve">
     <value>長門、つまり学校の危険性は
 どのぐらいになっているんだ？</value>
   </data>
-  <data name="38 NAGATO (長門)" xml:space="preserve">
+  <data name="0038 NAGATO (長門)" xml:space="preserve">
     <value>現時点で、６４９２８……</value>
   </data>
-  <data name="39 KYON (キョン)" xml:space="preserve">
+  <data name="0039 KYON (キョン)" xml:space="preserve">
     <value>あー、正確でなくていいから</value>
   </data>
-  <data name="40 NAGATO (長門)" xml:space="preserve">
+  <data name="0040 NAGATO (長門)" xml:space="preserve">
     <value>無量大数ある要素のうち、ひとつの
 変動で全体が大きく変化する</value>
   </data>
-  <data name="41 KYON (キョン)" xml:space="preserve">
+  <data name="0041 KYON (キョン)" xml:space="preserve">
     <value>#P05“無量大数”#P00って数字の単位だっけ</value>
   </data>
-  <data name="42 NAGATO (長門)" xml:space="preserve">
+  <data name="0042 NAGATO (長門)" xml:space="preserve">
     <value>そう</value>
   </data>
-  <data name="43 KYON (キョン)" xml:space="preserve">
+  <data name="0043 KYON (キョン)" xml:space="preserve">
     <value>あー、やっぱり説明はいい</value>
   </data>
-  <data name="44 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0044 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>相変わらず聞いても理解不能な説明
 になりそうだからな</value>
   </data>
-  <data name="45 NAGATO (長門)" xml:space="preserve">
+  <data name="0045 NAGATO (長門)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="46 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0046 KOIZUMI (古泉)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="47 KYON (キョン)" xml:space="preserve">
+  <data name="0047 KYON (キョン)" xml:space="preserve">
     <value>つまりはどれくらいヤバイって事
 なんだ、古泉</value>
   </data>
-  <data name="48 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0048 KOIZUMI (古泉)" xml:space="preserve">
     <value>今の説明では、それなりに危険だ
 ということしか僕にも分かりません</value>
   </data>
-  <data name="49 KYON (キョン)" xml:space="preserve">
+  <data name="0049 KYON (キョン)" xml:space="preserve">
     <value>おまえにしてはあいまいな返事だな</value>
   </data>
-  <data name="50 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0050 KOIZUMI (古泉)" xml:space="preserve">
     <value>時には#P05“虎の巻”#P00のような物が
 欲しいと思うこともありますよ</value>
   </data>
-  <data name="51 KYON (キョン)" xml:space="preserve">
+  <data name="0051 KYON (キョン)" xml:space="preserve">
     <value>長門の解説用の#P05“虎の巻”#P00ねぇ……</value>
   </data>
-  <data name="52 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0052 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あると便利そうだが、そりゃ図書館
 何個分かって量になりそうだな</value>
   </data>
-  <data name="53 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0053 KOIZUMI (古泉)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="54 NAGATO (長門)" xml:space="preserve">
+  <data name="0054 NAGATO (長門)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="55 NAGATO (長門)" xml:space="preserve">
+  <data name="0055 NAGATO (長門)" xml:space="preserve">
     <value>危険を表す係数は時間の経過に伴い
 上昇中</value>
   </data>
-  <data name="56 NAGATO (長門)" xml:space="preserve">
+  <data name="0056 NAGATO (長門)" xml:space="preserve">
     <value>涼宮ハルヒの好奇心が満たされない
 場合、さらに係数が増加</value>
   </data>
-  <data name="57 KYON (キョン)" xml:space="preserve">
+  <data name="0057 KYON (キョン)" xml:space="preserve">
     <value>すまん俺は数学が苦手なんだ</value>
   </data>
-  <data name="58 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0058 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>係数だの時間経過だのという単語を
 聞いただけで</value>
   </data>
-  <data name="59 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0059 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>拒絶反応が出るくらいにな</value>
   </data>
-  <data name="60 NAGATO (長門)" xml:space="preserve">
+  <data name="0060 NAGATO (長門)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="61 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0061 KOIZUMI (古泉)" xml:space="preserve">
     <value>……なるほど、そういうことですか</value>
   </data>
-  <data name="62 KYON (キョン)" xml:space="preserve">
+  <data name="0062 KYON (キョン)" xml:space="preserve">
     <value>わかったのか、古泉？</value>
   </data>
-  <data name="63 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0063 KOIZUMI (古泉)" xml:space="preserve">
     <value>ええ、だいたいの察しがつきました</value>
   </data>
-  <data name="64 KYON (キョン)" xml:space="preserve">
+  <data name="0064 KYON (キョン)" xml:space="preserve">
     <value>どういうことなのかまとめてくれ</value>
   </data>
-  <data name="65 NAGATO (長門)" xml:space="preserve">
+  <data name="0065 NAGATO (長門)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="66 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0066 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さんの意識が七不思議に向いて
 いる状態のままでは危険なんですよ</value>
   </data>
-  <data name="67 KYON (キョン)" xml:space="preserve">
+  <data name="0067 KYON (キョン)" xml:space="preserve">
     <value>そりゃわかってることだ。だから
 他に意識を向けるって話だろ</value>
   </data>
-  <data name="68 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0068 KOIZUMI (古泉)" xml:space="preserve">
     <value>意識というか、興味ですね</value>
   </data>
-  <data name="69 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0069 KOIZUMI (古泉)" xml:space="preserve">
     <value>七不思議から完全に興味をなくす
 よう仕向けるか</value>
   </data>
-  <data name="70 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0070 KOIZUMI (古泉)" xml:space="preserve">
     <value>もしくは、そんなものはなかった
 と思わせるか</value>
   </data>
-  <data name="71 KYON (キョン)" xml:space="preserve">
+  <data name="0071 KYON (キョン)" xml:space="preserve">
     <value>それもわかっていることだって</value>
   </data>
-  <data name="72 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0072 KOIZUMI (古泉)" xml:space="preserve">
     <value>問題は、時間経過で涼宮さんの
 ストレスが増大するということです</value>
   </data>
-  <data name="73 KYON (キョン)" xml:space="preserve">
+  <data name="0073 KYON (キョン)" xml:space="preserve">
     <value>さっき長門が言っていた、危険係数
 の増加ってやつか？</value>
   </data>
-  <data name="74 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0074 KOIZUMI (古泉)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="75 NAGATO (長門)" xml:space="preserve">
+  <data name="0075 NAGATO (長門)" xml:space="preserve">
     <value>そう</value>
   </data>
-  <data name="76 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0076 KOIZUMI (古泉)" xml:space="preserve">
     <value>ある一定のところまではストレスも
 興味の対象として認識されます</value>
   </data>
-  <data name="77 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0077 KOIZUMI (古泉)" xml:space="preserve">
     <value>ただし、ストレスがその一定の値を
 越えた途端</value>
   </data>
-  <data name="78 KYON (キョン)" xml:space="preserve">
+  <data name="0078 KYON (キョン)" xml:space="preserve">
     <value>どうなるってんだ？</value>
   </data>
-  <data name="79 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0079 KOIZUMI (古泉)" xml:space="preserve">
     <value>おそらく、爆発的加速で異空間の
 出現、</value>
   </data>
-  <data name="80 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0080 KOIZUMI (古泉)" xml:space="preserve">
     <value>もしくは空間の崩壊、という事態に
 なる可能性が</value>
   </data>
-  <data name="81 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0081 KOIZUMI (古泉)" xml:space="preserve">
     <value>高いのではないかと思われます</value>
   </data>
-  <data name="82 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0082 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>えらくピーキーな状態だな</value>
   </data>
-  <data name="83 KYON (キョン)" xml:space="preserve">
+  <data name="0083 KYON (キョン)" xml:space="preserve">
     <value>ようは、ハルヒの堪忍袋が破れない
 ようになんとかしろってことか</value>
   </data>
-  <data name="84 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0084 KOIZUMI (古泉)" xml:space="preserve">
     <value>そのようです。一定ラインをこえる
 前に、手を打たなければなりません</value>
   </data>
-  <data name="85 KYON (キョン)" xml:space="preserve">
+  <data name="0085 KYON (キョン)" xml:space="preserve">
     <value>地雷を踏まないように気をつけない
 といけない上に、</value>
   </data>
-  <data name="86 KYON (キョン)" xml:space="preserve">
+  <data name="0086 KYON (キョン)" xml:space="preserve">
     <value>厄介なことにそいつは時限装置つき
 ってことか</value>
   </data>
-  <data name="87 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0087 KOIZUMI (古泉)" xml:space="preserve">
     <value>その例になぞらえるならば、</value>
   </data>
-  <data name="88 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0088 KOIZUMI (古泉)" xml:space="preserve">
     <value>我々はすでに地雷を踏んでしまって
 いるのかもしれません</value>
   </data>
-  <data name="89 KYON (キョン)" xml:space="preserve">
+  <data name="0089 KYON (キョン)" xml:space="preserve">
     <value>踏んでるって、だったらとっくに
 爆発してるんじゃないのか？</value>
   </data>
-  <data name="90 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0090 KOIZUMI (古泉)" xml:space="preserve">
     <value>地雷は足をはなした時点で爆発する
 ようになっているのですよ</value>
   </data>
-  <data name="91 KYON (キョン)" xml:space="preserve">
+  <data name="0091 KYON (キョン)" xml:space="preserve">
     <value>……そりゃ厄介だ</value>
   </data>
-  <data name="92 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0092 KOIZUMI (古泉)" xml:space="preserve">
     <value>足を離す前に、爆発させないように
 処理する必要があるということです</value>
   </data>
-  <data name="93 KYON (キョン)" xml:space="preserve">
+  <data name="0093 KYON (キョン)" xml:space="preserve">
     <value>ゾッとするね。ヘタな怪談よりも
 よっぽど恐ろしいぜ</value>
   </data>
-  <data name="94 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0094 KOIZUMI (古泉)" xml:space="preserve">
     <value>急いで七不思議や怪談話から涼宮
 さんを遠ざけないといけません</value>
   </data>
-  <data name="95 KYON (キョン)" xml:space="preserve">
+  <data name="0095 KYON (キョン)" xml:space="preserve">
     <value>ああ、そうだな</value>
   </data>
-  <data name="96 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0096 KOIZUMI (古泉)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="97 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0097 KYON_SIS (妹)" xml:space="preserve">
     <value>かいだんばなしって、おばけ？</value>
   </data>
-  <data name="98 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0098 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>とつぜん口を挟んだのは我が妹だ</value>
   </data>
-  <data name="99 KYON (キョン)" xml:space="preserve">
+  <data name="0099 KYON (キョン)" xml:space="preserve">
     <value>おい、買い物は終わったのか？</value>
   </data>
-  <data name="100 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0100 KYON_SIS (妹)" xml:space="preserve">
     <value>重くてぜんぶ買えないよー</value>
   </data>
-  <data name="101 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0101 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>すまん、妹。しかしこれも世界平和
 のためと思ってくれ</value>
   </data>
-  <data name="102 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0102 KYON_SIS (妹)" xml:space="preserve">
     <value>でね、おばけのはなしを聞きたいん
 だもん</value>
   </data>
-  <data name="103 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0103 KOIZUMI (古泉)" xml:space="preserve">
     <value>まずいですね、どうしましょうか</value>
   </data>
-  <data name="104 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0104 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ええいっ、俺に顔を近づけるな</value>
   </data>
-  <data name="105 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0105 KOIZUMI (古泉)" xml:space="preserve">
     <value>もしも妹さんが涼宮さんに話したら</value>
   </data>
-  <data name="106 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0106 KOIZUMI (古泉)" xml:space="preserve">
     <value>暴走を加速させることになるかも
 しれません</value>
   </data>
-  <data name="107 KYON (キョン)" xml:space="preserve">
+  <data name="0107 KYON (キョン)" xml:space="preserve">
     <value>うーむ……
 それはじゅうぶんに考えられるな</value>
   </data>
-  <data name="108 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0108 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒは妙なところで素直だから
 妹と波長が合いそうだしな</value>
   </data>
-  <data name="109 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0109 KYON_SIS (妹)" xml:space="preserve">
     <value>ないしょはいけないんだよー</value>
   </data>
-  <data name="110 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0110 KOIZUMI (古泉)" xml:space="preserve">
     <value>いえいえ、内緒ではありませんよ</value>
   </data>
-  <data name="111 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0111 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いたいけな子供にまで笑顔攻撃かよ</value>
   </data>
-  <data name="112 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0112 KYON_SIS (妹)" xml:space="preserve">
     <value>じゃあ、かいだんばなしって？
 おばけのはなしじゃないの？</value>
   </data>
-  <data name="113 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0113 KOIZUMI (古泉)" xml:space="preserve">
     <value>怪談話じゃなく、階段の話ですよ
 ２階へ行ったりする、あの階段です</value>
   </data>
-  <data name="114 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0114 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>にこやかに話をすり替えているが
 無理やりな気がしないでもない</value>
   </data>
-  <data name="115 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0115 KYON_SIS (妹)" xml:space="preserve">
     <value>でも、キョンくんがゾッとするって
 いってたよ</value>
   </data>
-  <data name="116 KYON (キョン)" xml:space="preserve">
+  <data name="0116 KYON (キョン)" xml:space="preserve">
     <value>高い階段を、てっぺんから見たら
 おまえもちょっとは怖いだろ？</value>
   </data>
-  <data name="117 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0117 KYON_SIS (妹)" xml:space="preserve">
     <value>えー、こわくないよー</value>
   </data>
-  <data name="118 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0118 KYON_SIS (妹)" xml:space="preserve">
     <value>それに、ななふしぎとかばくはつ
 って聞こえたよ</value>
   </data>
-  <data name="119 KYON (キョン)" xml:space="preserve">
+  <data name="0119 KYON (キョン)" xml:space="preserve">
     <value>七不思議じゃない
 ナナフシって名前の虫の話だ</value>
   </data>
-  <data name="120 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0120 KYON_SIS (妹)" xml:space="preserve">
     <value>そんな虫がいるんだー</value>
   </data>
-  <data name="121 KYON (キョン)" xml:space="preserve">
+  <data name="0121 KYON (キョン)" xml:space="preserve">
     <value>いるよ。おまえ、アイス食うか？</value>
   </data>
-  <data name="122 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0122 KYON_SIS (妹)" xml:space="preserve">
     <value>うんっ、アイス食べる！</value>
   </data>
-  <data name="123 KYON (キョン)" xml:space="preserve">
+  <data name="0123 KYON (キョン)" xml:space="preserve">
     <value>じゃあ、好きなのを選んでこい</value>
   </data>
-  <data name="124 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0124 KYON_SIS (妹)" xml:space="preserve">
     <value>わーい！</value>
   </data>
-  <data name="125 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0125 KOIZUMI (古泉)" xml:space="preserve">
     <value>ふう……アイスに気持ちが移った
 ようですね</value>
   </data>
-  <data name="126 KYON (キョン)" xml:space="preserve">
+  <data name="0126 KYON (キョン)" xml:space="preserve">
     <value>ああ。気が気じゃなかったな</value>
   </data>
-  <data name="127 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0127 KOIZUMI (古泉)" xml:space="preserve">
     <value>しかし、七不思議をナナフシとは
 さすがですね</value>
   </data>
-  <data name="128 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0128 KOIZUMI (古泉)" xml:space="preserve">
     <value>おかげで助かりましたよ</value>
   </data>
-  <data name="129 KYON (キョン)" xml:space="preserve">
+  <data name="0129 KYON (キョン)" xml:space="preserve">
     <value>俺だって、ヤバイと思ってるんだ</value>
   </data>
-  <data name="130 KYON (キョン)" xml:space="preserve">
+  <data name="0130 KYON (キョン)" xml:space="preserve">
     <value>妹からハルヒを刺激する言葉が出た
 ら、事態が悪化しただろうからな</value>
   </data>
-  <data name="131 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0131 KOIZUMI (古泉)" xml:space="preserve">
     <value>しかし、妹さんの意識が他に向いて
 ほっとしました</value>
   </data>
-  <data name="132 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0132 KOIZUMI (古泉)" xml:space="preserve">
     <value>はからずも、いい練習になりました
 しね</value>
   </data>
-  <data name="133 KYON (キョン)" xml:space="preserve">
+  <data name="0133 KYON (キョン)" xml:space="preserve">
     <value>練習って、なんのだ？</value>
   </data>
-  <data name="134 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0134 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さんの意識を他に向ける訓練に
 妹さんが一役買ってくれました</value>
   </data>
-  <data name="135 KYON (キョン)" xml:space="preserve">
+  <data name="0135 KYON (キョン)" xml:space="preserve">
     <value>あいつは妹ほど単純じゃないけどな</value>
   </data>
-  <data name="136 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0136 KOIZUMI (古泉)" xml:space="preserve">
     <value>そうでしょうか。時と場合
 あと相手によりけりだと思います</value>
   </data>
-  <data name="137 KYON (キョン)" xml:space="preserve">
+  <data name="0137 KYON (キョン)" xml:space="preserve">
     <value>そんなもんかね</value>
   </data>
-  <data name="138 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0138 KOIZUMI (古泉)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="139 NAGATO (長門)" xml:space="preserve">
+  <data name="0139 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="140 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0140 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門が液体ヘリウムみたいな瞳で
 俺をジッと見つめている</value>
   </data>
-  <data name="141 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0141 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なにか言いたいことでも
 あるのだろうか</value>
   </data>
-  <data name="142 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0142 KOIZUMI (古泉)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="143 NAGATO (長門)" xml:space="preserve">
+  <data name="0143 NAGATO (長門)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="144 KYON (キョン)" xml:space="preserve">
+  <data name="0144 KYON (キョン)" xml:space="preserve">
     <value>なにか言いたいことでもあるのか？</value>
   </data>
-  <data name="145 NAGATO (長門)" xml:space="preserve">
+  <data name="0145 NAGATO (長門)" xml:space="preserve">
     <value>ない</value>
   </data>
-  <data name="146 KYON (キョン)" xml:space="preserve">
+  <data name="0146 KYON (キョン)" xml:space="preserve">
     <value>そうか……</value>
   </data>
-  <data name="147 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0147 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺の気のせいだろうか
 長門が#P05“ため息”#P01をついた気がする</value>
   </data>
-  <data name="148 NAGATO (長門)" xml:space="preserve">
+  <data name="0148 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
-  <data name="149 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0149 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……気のせいだよな？</value>
   </data>
-  <data name="150 NAGATO (長門)" xml:space="preserve">
+  <data name="0150 NAGATO (長門)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="151 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0151 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まあ、聞いても仕方がないか</value>
   </data>
-  <data name="152 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0152 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>言いたいことがあるなら言ってくる
 だろうしな</value>
   </data>
-  <data name="153 NAGATO (長門)" xml:space="preserve">
+  <data name="0153 NAGATO (長門)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="154 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0154 KOIZUMI (古泉)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="155 KYON (キョン)" xml:space="preserve">
+  <data name="0155 KYON (キョン)" xml:space="preserve">
     <value>古泉もなにか言いたそうだな？</value>
   </data>
-  <data name="156 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0156 KOIZUMI (古泉)" xml:space="preserve">
     <value>いえ、特にお話しするようなことは
 ありませんよ</value>
   </data>
-  <data name="157 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0157 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>口ではそう言いつつ#P05“苦笑”#P01かよ</value>
   </data>
-  <data name="158 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0158 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>こいつのこの反応は、なにか思う
 ところがあるんだろうな</value>
   </data>
-  <data name="159 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0159 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>だったら言えばいいだろうに</value>
   </data>
-  <data name="160 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0160 KOIZUMI (古泉)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="161 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0161 KYON_SIS (妹)" xml:space="preserve">
     <value>キョンくん、アイス買ってきた</value>
   </data>
-  <data name="162 KYON (キョン)" xml:space="preserve">
+  <data name="0162 KYON (キョン)" xml:space="preserve">
     <value>自分の小遣いで買ったのか？</value>
   </data>
-  <data name="163 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0163 KYON_SIS (妹)" xml:space="preserve">
     <value>うん！</value>
   </data>
-  <data name="164 GROCER (八百屋)" xml:space="preserve">
+  <data name="0164 GROCER (八百屋)" xml:space="preserve">
     <value>偉いねぇ、お嬢ちゃんは</value>
   </data>
-  <data name="165 KYON (キョン)" xml:space="preserve">
+  <data name="0165 KYON (キョン)" xml:space="preserve">
     <value>あ、どうも</value>
   </data>
-  <data name="166 GROCER (八百屋)" xml:space="preserve">
+  <data name="0166 GROCER (八百屋)" xml:space="preserve">
     <value>小さいのに、１人でお買い物ができ
 るんだねぇ</value>
   </data>
-  <data name="167 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0167 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>小さいと言っても、小学生なんだが</value>
   </data>
-  <data name="168 GROCER (八百屋)" xml:space="preserve">
+  <data name="0168 GROCER (八百屋)" xml:space="preserve">
     <value>はい、これはお嬢ちゃんに特別の
 サービスだよ</value>
   </data>
-  <data name="169 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0169 KYON_SIS (妹)" xml:space="preserve">
     <value>わあい、お菓子だあ！
 おじさん、ありがとう！</value>
   </data>
-  <data name="170 KYON (キョン)" xml:space="preserve">
+  <data name="0170 KYON (キョン)" xml:space="preserve">
     <value>すみません、こんなにいただいて</value>
   </data>
-  <data name="171 GROCER (八百屋)" xml:space="preserve">
+  <data name="0171 GROCER (八百屋)" xml:space="preserve">
     <value>お兄さんかい？　本当によくできた
 いいお嬢ちゃんだね</value>
   </data>
-  <data name="172 KYON (キョン)" xml:space="preserve">
+  <data name="0172 KYON (キョン)" xml:space="preserve">
     <value>ありがとうございます</value>
   </data>
-  <data name="173 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0173 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺のことじゃないにしろ、身内が
 そう言われるとくすぐったいもんだ</value>
   </data>
-  <data name="174 GROCER (八百屋)" xml:space="preserve">
+  <data name="0174 GROCER (八百屋)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="175 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0175 KYON_SIS (妹)" xml:space="preserve">
     <value>わあ、これ、きれい</value>
   </data>
-  <data name="176 NAGATO (長門)" xml:space="preserve">
+  <data name="0176 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
-  <data name="177 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0177 KOIZUMI (古泉)" xml:space="preserve">
     <value>それはＣＤですね
 何故こんなところに？</value>
   </data>
-  <data name="178 KYON (キョン)" xml:space="preserve">
+  <data name="0178 KYON (キョン)" xml:space="preserve">
     <value>さあな</value>
   </data>
-  <data name="179 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0179 KOIZUMI (古泉)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="180 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0180 KYON_SIS (妹)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="181 GROCER (八百屋)" xml:space="preserve">
+  <data name="0181 GROCER (八百屋)" xml:space="preserve">
     <value>そりゃ景品でもらったもんだよ
 置きっぱなしにしてて忘れてたよ</value>
   </data>
-  <data name="182 GROCER (八百屋)" xml:space="preserve">
+  <data name="0182 GROCER (八百屋)" xml:space="preserve">
     <value>いろいろなＢＧＭが入ってるらしい
 んだがね、うちじゃ使いやしないし</value>
   </data>
-  <data name="183 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0183 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>つまり店内放送用か何かに使う
 ようなシロモンのようだ</value>
   </data>
-  <data name="184 GROCER (八百屋)" xml:space="preserve">
+  <data name="0184 GROCER (八百屋)" xml:space="preserve">
     <value>気に入ったんなら持ってっていいよ
 円盤遊びにでも使っておくれ</value>
   </data>
-  <data name="185 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0185 KYON_SIS (妹)" xml:space="preserve">
     <value>わーい、ありがとう！</value>
   </data>
-  <data name="186 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0186 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>妹は光る物が好きなのか、ＣＤを
 もらって喜んでいるようだ</value>
   </data>
-  <data name="187 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0187 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……どんな曲が入っているのか
 ちょっと気になるな</value>
   </data>
-  <data name="188 GROCER (八百屋)" xml:space="preserve">
+  <data name="0188 GROCER (八百屋)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="189 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0189 KYON_SIS (妹)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="190 KYON (キョン)" xml:space="preserve">
+  <data name="0190 KYON (キョン)" xml:space="preserve">
     <value>そのＣＤ、ちょっと見せてくれ</value>
   </data>
-  <data name="191 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0191 KYON_SIS (妹)" xml:space="preserve">
     <value>うん、いいよ
 ちゃんとあとで返してくれるなら</value>
   </data>
-  <data name="192 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0192 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>一言多いヤツだな。こんなところで
 ハルヒの影響が出てきてないか？</value>
   </data>
-  <data name="193 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0193 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>妹から#P05“ＢＧＭ集”#P01を受け取った</value>
   </data>
-  <data name="194 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0194 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>合宿中になにかで使えるかもしれ
 ないから預かっておくとするか</value>
   </data>
-  <data name="195 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0195 KYON_SIS (妹)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="196 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0196 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>妹が喜んでいるからそれでいいか</value>
   </data>
-  <data name="197 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0197 KYON_SIS (妹)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="198 GROCER (八百屋)" xml:space="preserve">
+  <data name="0198 GROCER (八百屋)" xml:space="preserve">
     <value>お兄さんにはこれをあげよう</value>
   </data>
-  <data name="199 KYON (キョン)" xml:space="preserve">
+  <data name="0199 KYON (キョン)" xml:space="preserve">
     <value>あ、どうも</value>
   </data>
-  <data name="200 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0200 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺はよほど物欲しそうな顔をして
 いたらしい</value>
   </data>
-  <data name="201 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0201 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>店主からまた別のＣＤをもらって
 しまった</value>
   </data>
-  <data name="202 KYON (キョン)" xml:space="preserve">
+  <data name="0202 KYON (キョン)" xml:space="preserve">
     <value>#P05“納涼ＣＤ”#P00……？</value>
   </data>
-  <data name="203 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0203 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あやしげな効果音だったりすると
 ハルヒが面白がるかもな</value>
   </data>
-  <data name="204 GROCER (八百屋)" xml:space="preserve">
+  <data name="0204 GROCER (八百屋)" xml:space="preserve">
     <value>$</value>
   </data>
-  <data name="205 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0205 KOIZUMI (古泉)" xml:space="preserve">
     <value>買い物も済んだことですし、
 そろそろ戻りましょうか</value>
   </data>
-  <data name="206 NAGATO (長門)" xml:space="preserve">
+  <data name="0206 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
-  <data name="207 KYON_SIS (妹)" xml:space="preserve">
+  <data name="0207 KYON_SIS (妹)" xml:space="preserve">
     <value>アイス食べながら歩いてもいい？</value>
   </data>
-  <data name="208 KYON (キョン)" xml:space="preserve">
+  <data name="0208 KYON (キョン)" xml:space="preserve">
     <value>ああ、溶けないうちに食べておけ</value>
   </data>
-  <data name="209 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0209 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>みんなで荷物を分担して、日が傾い
 た中をゾロゾロ歩くのも悪くはない</value>
   </data>
-  <data name="210 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0210 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>問題なのは、行き先が天国か
 それとも地獄なのか……</value>
   </data>
-  <data name="211 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0211 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いや、天国ってことはたぶんないな
 ハルヒがらみでそんなわけがない</value>
   </data>

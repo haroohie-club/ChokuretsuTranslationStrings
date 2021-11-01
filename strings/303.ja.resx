@@ -58,105 +58,105 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>なあハルヒ。無量大数って知ってる
 か？</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なによいきなり。それくらい知って
 るわ。数字の単位でしょ</value>
   </data>
-  <data name="2 KYON (キョン)" xml:space="preserve">
+  <data name="0002 KYON (キョン)" xml:space="preserve">
     <value>それくらいは俺も知ってる。どれく
 らいのでかさなんだろうと思ってな</value>
   </data>
-  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あんたってほんと、モノ知らずねえ</value>
   </data>
-  <data name="4 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0004 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒは呆れた顔をしつつ、俺に
 数字の位について講義した</value>
   </data>
-  <data name="5 KYON (キョン)" xml:space="preserve">
+  <data name="0005 KYON (キョン)" xml:space="preserve">
     <value>良く判らんが、とにかく大きいと
 いうことは理解できた</value>
   </data>
-  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0006 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なに、よくわからないんだったら
 今度みっちり教えてあげるわよ</value>
   </data>
-  <data name="7 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0007 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いや、それは遠慮しておく</value>
   </data>
-  <data name="8 MIKURU (みくる)" xml:space="preserve">
+  <data name="0008 MIKURU (みくる)" xml:space="preserve">
     <value>す、涼宮さん。無量大数って
 単位はどんな大きさなんですか？</value>
   </data>
-  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
     <value>不可思議の上の位……つまり
 数字で言うと１０の６８乗よ</value>
   </data>
-  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>一説では８８乗ってのもあるらしい
 けど、どっちにしろすごい数だわ</value>
   </data>
-  <data name="11 MIKURU (みくる)" xml:space="preserve">
+  <data name="0011 MIKURU (みくる)" xml:space="preserve">
     <value>ふぇぇ、途方もない単位なんですね
 そ、想像もつきません</value>
   </data>
-  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0012 HARUHI (ハルヒ)" xml:space="preserve">
     <value>まあ、少なくとも高校生レベルの
 数学で使う単位じゃないし</value>
   </data>
-  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ぶっちゃけて言うと、
 縁がない単位よね</value>
   </data>
-  <data name="14 NAGATO (長門)" xml:space="preserve">
+  <data name="0014 NAGATO (長門)" xml:space="preserve">
     <value>無量大数</value>
   </data>
-  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
     <value>日本語の数字の位の、一番最後の
 呼び方ね</value>
   </data>
-  <data name="16 NAGATO (長門)" xml:space="preserve">
+  <data name="0016 NAGATO (長門)" xml:space="preserve">
     <value>そう。１０の６８乗</value>
   </data>
-  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたしはもう一つ前の方がスキだわ</value>
   </data>
-  <data name="18 NAGATO (長門)" xml:space="preserve">
+  <data name="0018 NAGATO (長門)" xml:space="preserve">
     <value>不可思議
 １０の６４乗</value>
   </data>
-  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0019 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なんたって名前がいいわ
 不可思議よ、不可思議！</value>
   </data>
-  <data name="20 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0020 KOIZUMI (古泉)" xml:space="preserve">
     <value>突然ですが、無量大数という数値を
 涼宮さんはご存知でしょうか？</value>
   </data>
-  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
     <value>不可思議の上の位で、無限とは違う
 って教わったわね</value>
   </data>
-  <data name="22 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0022 KOIZUMI (古泉)" xml:space="preserve">
     <value>感覚的には無限に近い印象だと思う
 のですが、どう思われますか？</value>
   </data>
-  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0023 HARUHI (ハルヒ)" xml:space="preserve">
     <value>中途半端に無量大数じゃなく超不可
 思議でいいじゃないって思うわ</value>
   </data>
-  <data name="24 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0024 KOIZUMI (古泉)" xml:space="preserve">
     <value>その方がわかりやすいですね</value>
   </data>
-  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なんでも小難しくすればいいって
 ものじゃないと思うのよねっ</value>
   </data>
-  <data name="26 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0026 KOIZUMI (古泉)" xml:space="preserve">
     <value>おっしゃる通りです</value>
   </data>
 </root>

@@ -58,160 +58,160 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9わかったわ！#W20
 $8きっとこれは#W10$9宇宙人の仕業よ！</value>
   </data>
-  <data name="1 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>$10思い描いた#W20新七不思議完成には#W20
 ほど遠い結末ばかり――</value>
   </data>
-  <data name="2 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0002 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>$8けっきょくのところ、#W10ハルヒには
 不満が溜まっていたのだ</value>
   </data>
-  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
     <value>&#x1D;</value>
   </data>
-  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9みくるちゃん、#W10もっと腰を入れて！</value>
   </data>
-  <data name="5 MIKURU (みくる)" xml:space="preserve">
+  <data name="0005 MIKURU (みくる)" xml:space="preserve">
     <value>$14ええっと、#W20こ、#W20こうですかぁ</value>
   </data>
-  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0006 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$10ああ、もう！
 そうじゃないってば！</value>
   </data>
-  <data name="7 MIKURU (みくる)" xml:space="preserve">
+  <data name="0007 MIKURU (みくる)" xml:space="preserve">
     <value>$16はうう～</value>
   </data>
-  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9さあ、みくるちゃん#W10
 しっかりと唱えなさい！</value>
   </data>
-  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$7宇宙人とのファーストコンタクトは#W10
 みくるちゃんにかかってるのよ！</value>
   </data>
-  <data name="10 MIKURU (みくる)" xml:space="preserve">
+  <data name="0010 MIKURU (みくる)" xml:space="preserve">
     <value>$16ひえええっ</value>
   </data>
-  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>&#x1D;</value>
   </data>
-  <data name="12 MIKURU (みくる)" xml:space="preserve">
+  <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>&#x1D;</value>
   </data>
-  <data name="13 KYON (キョン)" xml:space="preserve">
+  <data name="0013 KYON (キョン)" xml:space="preserve">
     <value>$8プールが光るとは聞いていたが#W10
 こんなのが出るとは聞いてないぞ！</value>
   </data>
-  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9一度、#W10夜中に学校のプールで泳いで
 みたかったのよね</value>
   </data>
-  <data name="15 KYON (キョン)" xml:space="preserve">
+  <data name="0015 KYON (キョン)" xml:space="preserve">
     <value>$10まったく、#W40$8見つかったらただじゃ
 すまないぞ#W20…#W10…</value>
   </data>
-  <data name="16 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0016 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>$10でも、#W40$9こういうモラトリアムも
 悪くないか</value>
   </data>
-  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>&#x1D;</value>
   </data>
-  <data name="18 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0018 KOIZUMI (古泉)" xml:space="preserve">
     <value>$10ひとつ、#W40$8気になることがあります</value>
   </data>
-  <data name="19 KYON (キョン)" xml:space="preserve">
+  <data name="0019 KYON (キョン)" xml:space="preserve">
     <value>$8なんだ？　古泉</value>
   </data>
-  <data name="20 KYON (キョン)" xml:space="preserve">
+  <data name="0020 KYON (キョン)" xml:space="preserve">
     <value>$8この際、#W30ひとつと言わず#W20全部聞かせ
 てもらいたい気分だけどな</value>
   </data>
-  <data name="21 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0021 KOIZUMI (古泉)" xml:space="preserve">
     <value>$10今回のこの事態、#W80$8涼宮さんのチカラ
 だけでは#W30どうしても説明しきれない</value>
   </data>
-  <data name="22 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0022 KOIZUMI (古泉)" xml:space="preserve">
     <value>$8何か、#W50別の存在が関与している
 ような気がするのです</value>
   </data>
-  <data name="23 KYON (キョン)" xml:space="preserve">
+  <data name="0023 KYON (キョン)" xml:space="preserve">
     <value>$14別の存在……だって？</value>
   </data>
-  <data name="24 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0024 KOIZUMI (古泉)" xml:space="preserve">
     <value>&#x1D;</value>
   </data>
-  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9そうだ、#W20肝試しをしましょう！</value>
   </data>
-  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9本館の踊り場に、#W10この駒を置い
 てあるわ</value>
   </data>
-  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9一人ずつ、#W20そうね#W10…#W10…#W10１５分くらい
 間隔を空けてスタートして</value>
   </data>
-  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0028 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9この駒を持って帰ってくるの</value>
   </data>
-  <data name="29 MIKURU (みくる)" xml:space="preserve">
+  <data name="0029 MIKURU (みくる)" xml:space="preserve">
     <value>$9ひ、#W20ひとりで校舎の中を#W20歩いていく
 んですかぁ</value>
   </data>
-  <data name="30 KYON (キョン)" xml:space="preserve">
+  <data name="0030 KYON (キョン)" xml:space="preserve">
     <value>$8せめて、ペアとかにしないか？</value>
   </data>
-  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0031 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$16ダメよ</value>
   </data>
-  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9暗いのをいいことに妙な気をおこす
 バカが出るかもしれないじゃない</value>
   </data>
-  <data name="33 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0033 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>$8ちょっと待て、#W20なぜそこで俺を睨む</value>
   </data>
-  <data name="34 MIKURU (みくる)" xml:space="preserve">
+  <data name="0034 MIKURU (みくる)" xml:space="preserve">
     <value>&#x1D;</value>
   </data>
-  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0035 HARUHI (ハルヒ)" xml:space="preserve">
     <value>&#x1D;</value>
   </data>
-  <data name="36 TANIGUCHI (谷口)" xml:space="preserve">
+  <data name="0036 TANIGUCHI (谷口)" xml:space="preserve">
     <value>&#x1D;</value>
   </data>
-  <data name="37 9 (国木田)" xml:space="preserve">
+  <data name="0037 9 (国木田)" xml:space="preserve">
     <value>&#x1D;</value>
   </data>
-  <data name="38 KYON (キョン)" xml:space="preserve">
+  <data name="0038 KYON (キョン)" xml:space="preserve">
     <value>$10おい、谷口！　俺だ！</value>
   </data>
-  <data name="39 9 (国木田)" xml:space="preserve">
+  <data name="0039 9 (国木田)" xml:space="preserve">
     <value>&#x1D;</value>
   </data>
-  <data name="40 TANIGUCHI (谷口)" xml:space="preserve">
+  <data name="0040 TANIGUCHI (谷口)" xml:space="preserve">
     <value>$24うううう～</value>
   </data>
-  <data name="41 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0041 KOIZUMI (古泉)" xml:space="preserve">
     <value>$8無駄ですね。#W80彼らには#W20我々の言葉は
 届いていないようです</value>
   </data>
-  <data name="42 KYON (キョン)" xml:space="preserve">
+  <data name="0042 KYON (キョン)" xml:space="preserve">
     <value>$8くそっ、#W30どうしてこんなことに！</value>
   </data>
-  <data name="43 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0043 KOIZUMI (古泉)" xml:space="preserve">
     <value>&#x1D;</value>
   </data>
-  <data name="44 MIKURU (みくる)" xml:space="preserve">
+  <data name="0044 MIKURU (みくる)" xml:space="preserve">
     <value>$10ひぁぁっ！　た、助けてくださいー</value>
   </data>
-  <data name="45 KYON (キョン)" xml:space="preserve">
+  <data name="0045 KYON (キョン)" xml:space="preserve">
     <value>$10朝比奈さーん！？</value>
   </data>
 </root>

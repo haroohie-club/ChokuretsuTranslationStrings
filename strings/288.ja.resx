@@ -58,135 +58,135 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>おいハルヒ、部室でお前が俺に
 言った“夢がない”ってやつだがな</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なに、細かいこと覚えてるわね
 そんなのとっくに忘れたわよ</value>
   </data>
-  <data name="2 KYON (キョン)" xml:space="preserve">
+  <data name="0002 KYON (キョン)" xml:space="preserve">
     <value>俺は執念深いんだ</value>
   </data>
-  <data name="3 KYON (キョン)" xml:space="preserve">
+  <data name="0003 KYON (キョン)" xml:space="preserve">
     <value>それでな、俺は確かに夢が無いかも
 しれないが、逆に言えば現実的って</value>
   </data>
-  <data name="4 KYON (キョン)" xml:space="preserve">
+  <data name="0004 KYON (キョン)" xml:space="preserve">
     <value>ことだ。夢だか妄想だかばかり追い
 かけてるお前と違ってな</value>
   </data>
-  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あんたみたいに夢も無いやつばかり
 だから、世の中がつまらないのよ！</value>
   </data>
-  <data name="6 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0006 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希にはあたしの考えがちゃんと
 通じてたのに、あんたって言ったら</value>
   </data>
-  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ぼーっとして、何も伝わらないんだ
 から！</value>
   </data>
-  <data name="8 KYON (キョン)" xml:space="preserve">
+  <data name="0008 KYON (キョン)" xml:space="preserve">
     <value>……お前だって、俺の言ったこと覚
 えてるじゃないか</value>
   </data>
-  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョンが言ったから思いだしたの！
 ああもう、腹が立つわ！</value>
   </data>
-  <data name="10 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0010 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>怒りながら、ハルヒはずかずかと
 進む</value>
   </data>
-  <data name="11 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0011 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>怒らせて気を散らそうと思ったのだ
 が……効果はなかったようだ</value>
   </data>
-  <data name="12 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0012 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ということは、怒らせ損だな……</value>
   </data>
-  <data name="13 KYON (キョン)" xml:space="preserve">
+  <data name="0013 KYON (キョン)" xml:space="preserve">
     <value>やれやれ</value>
   </data>
-  <data name="14 MIKURU (みくる)" xml:space="preserve">
+  <data name="0014 MIKURU (みくる)" xml:space="preserve">
     <value>長門さんって、時々なぞなぞみたい
 なことを言いますよね</value>
   </data>
-  <data name="15 MIKURU (みくる)" xml:space="preserve">
+  <data name="0015 MIKURU (みくる)" xml:space="preserve">
     <value>その、答が判ってるけど内緒にして
 るみたいな……</value>
   </data>
-  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希は頭の回転の速い娘だから、そ
 ういう感じに聞こえるんでしょうね</value>
   </data>
-  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョンなんか、有希の言葉の半分も
 理解できてないと思うわ</value>
   </data>
-  <data name="18 MIKURU (みくる)" xml:space="preserve">
+  <data name="0018 MIKURU (みくる)" xml:space="preserve">
     <value>そ、そうですか……？</value>
   </data>
-  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0019 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうよ。絶対そう！</value>
   </data>
-  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さ、早く戻ってキョンをコケにしま
 しょうか</value>
   </data>
-  <data name="21 MIKURU (みくる)" xml:space="preserve">
+  <data name="0021 MIKURU (みくる)" xml:space="preserve">
     <value>あ、待ってください～！</value>
   </data>
-  <data name="22 NAGATO (長門)" xml:space="preserve">
+  <data name="0022 NAGATO (長門)" xml:space="preserve">
     <value>あなたが言うことが理解できないと
 彼が言うから、ヒントを与えた</value>
   </data>
-  <data name="23 NAGATO (長門)" xml:space="preserve">
+  <data name="0023 NAGATO (長門)" xml:space="preserve">
     <value>でも、まだ判らない様子</value>
   </data>
-  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さっきの部室での話？</value>
   </data>
-  <data name="25 NAGATO (長門)" xml:space="preserve">
+  <data name="0025 NAGATO (長門)" xml:space="preserve">
     <value>そう</value>
   </data>
-  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
     <value>仕方ないわよ、キョンはほんとうに
 頭の回転が鈍いからね</value>
   </data>
-  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ヒントじゃなくて、そのものずばり
 言ったって理解できるかどうか……</value>
   </data>
-  <data name="28 NAGATO (長門)" xml:space="preserve">
+  <data name="0028 NAGATO (長門)" xml:space="preserve">
     <value>次からはそうする</value>
   </data>
-  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0029 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あ、ちょ、ちょっと待って</value>
   </data>
-  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0030 HARUHI (ハルヒ)" xml:space="preserve">
     <value>別に、あたしの言葉を解説しなくて
 も、いいのよ？</value>
   </data>
-  <data name="31 NAGATO (長門)" xml:space="preserve">
+  <data name="0031 NAGATO (長門)" xml:space="preserve">
     <value>……判った</value>
   </data>
-  <data name="32 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0032 KOIZUMI (古泉)" xml:space="preserve">
     <value>長門さんは時折、謎めいた言い方を
 しますね</value>
   </data>
-  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0033 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そう？　そりゃ元々無口な有希だか
 ら、言葉が足りないこともあるけど</value>
   </data>
-  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0034 HARUHI (ハルヒ)" xml:space="preserve">
     <value>言ってる内容はいつだって判りやす
 いと思うわよ</value>
   </data>
-  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0035 KOIZUMI (古泉)" xml:space="preserve">
     <value>成る程、そういうものですか</value>
   </data>
 </root>

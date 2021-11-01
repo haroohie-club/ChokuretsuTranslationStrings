@@ -58,150 +58,150 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
     <value>今、プールの方が光らなかった！？</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ここからじゃよく見えないわね
 とにかく急ぎましょ！</value>
   </data>
-  <data name="2 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0002 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>今、ハルヒの気をそらさないと
 もう一度見られたら完全にアウトだ</value>
   </data>
-  <data name="3 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0003 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……そうだ！　確か、コンビニで
 買ったビーチボールが……</value>
   </data>
-  <data name="4 KYON (キョン)" xml:space="preserve">
+  <data name="0004 KYON (キョン)" xml:space="preserve">
     <value>おい、ハルヒ！</value>
   </data>
-  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あれ……今、何か跳ねて
 いかなかった？</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>あ、ああ、俺も見たぞ</value>
   </data>
-  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
     <value>何かしら……？</value>
   </data>
-  <data name="8 KYON (キョン)" xml:space="preserve">
+  <data name="0008 KYON (キョン)" xml:space="preserve">
     <value>怪奇現象かもしれないな</value>
   </data>
-  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
     <value>気になるわね。ちょっと調べる
 わよ</value>
   </data>
-  <data name="10 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0010 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>よし、プールの光を見られなくて
 すんだぞ</value>
   </data>
-  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>&#x15;</value>
   </data>
-  <data name="12 MIKURU (みくる)" xml:space="preserve">
+  <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>#P06えと、えと……ど、どうしたら……
 あっ！？　そ、そうだ</value>
   </data>
-  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ちょっとみくるちゃんも見なさいよ
 今、確かにプールが……</value>
   </data>
-  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……みくるちゃん？</value>
   </data>
-  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
     <value>いきなりビーチボールを投げつける
 なんて、どうしたの？</value>
   </data>
-  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ドッヂボールでも始めるつもり
 なの？</value>
   </data>
-  <data name="17 MIKURU (みくる)" xml:space="preserve">
+  <data name="0017 MIKURU (みくる)" xml:space="preserve">
     <value>#SK0えっと、そ、その……</value>
   </data>
-  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
     <value>これは宣戦布告と見ていいわね？
 なら、容赦しないわ！　いくわよ！</value>
   </data>
-  <data name="19 MIKURU (みくる)" xml:space="preserve">
+  <data name="0019 MIKURU (みくる)" xml:space="preserve">
     <value>#SK0ひ、ひぇぇぇっ！？
 ち、違いますうぅ……</value>
   </data>
-  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ちょっと、有希もこっち来て
 見てみなさいよ</value>
   </data>
-  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さっき、確かにプールが光って
 たんだから</value>
   </data>
-  <data name="22 NAGATO (長門)" xml:space="preserve">
+  <data name="0022 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
-  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0023 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……なに？　なんでビーチボール
 を投げつけてくるの？</value>
   </data>
-  <data name="24 NAGATO (長門)" xml:space="preserve">
+  <data name="0024 NAGATO (長門)" xml:space="preserve">
     <value>プールで使う予定</value>
   </data>
-  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それ、答えになってないわよ</value>
   </data>
-  <data name="26 NAGATO (長門)" xml:space="preserve">
+  <data name="0026 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
     <value>まあ、とにかくどっかに転がって
 行ったから拾いに行かなきゃ</value>
   </data>
-  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0028 HARUHI (ハルヒ)" xml:space="preserve">
     <value>その辺に転がしておくわけにも
 いかないわ</value>
   </data>
-  <data name="29 NAGATO (長門)" xml:space="preserve">
+  <data name="0029 NAGATO (長門)" xml:space="preserve">
     <value>分かった</value>
   </data>
-  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0030 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さっき、確かに光ったような
 気がするのよ</value>
   </data>
-  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0031 HARUHI (ハルヒ)" xml:space="preserve">
     <value>うーん、ここからじゃよく
 見えないわね</value>
   </data>
-  <data name="32 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0032 KOIZUMI (古泉)" xml:space="preserve">
     <value>仕方ありませんね……</value>
   </data>
-  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0033 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あれ？　今、何か飛んで
 行かなかった？</value>
   </data>
-  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0034 KOIZUMI (古泉)" xml:space="preserve">
     <value>おや、そうですか？</value>
   </data>
-  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0035 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうよ、なんか軽いものがポーン
 ポーンって跳ねてったわ</value>
   </data>
-  <data name="36 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0036 KOIZUMI (古泉)" xml:space="preserve">
     <value>僕は気づきませんでしたが</value>
   </data>
-  <data name="37 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0037 HARUHI (ハルヒ)" xml:space="preserve">
     <value>おかしいわねえ……</value>
   </data>
-  <data name="38 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0038 KOIZUMI (古泉)" xml:space="preserve">
     <value>それでは、そちらの方を調べてみま
 しょうか</value>
   </data>
-  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0039 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね、気になるから見てみま
 しょう</value>
   </data>
-  <data name="40 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0040 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06……やれやれ、なんとか誤魔化せた
 ようですね</value>
   </data>

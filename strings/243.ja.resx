@@ -58,103 +58,103 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0000 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……いや、現在進行中の怪奇現象を
 ハルヒに語るのはマズイだろう</value>
   </data>
-  <data name="1 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ここは一つ、別の話で足止めを――</value>
   </data>
-  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0002 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョン、ペースが落ちてるわ</value>
   </data>
-  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ダラダラ歩くのなら、ここに置いて
 先に行っちゃうわよ！？</value>
   </data>
-  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
     <value>&#x14;</value>
   </data>
-  <data name="5 KYON (キョン)" xml:space="preserve">
+  <data name="0005 KYON (キョン)" xml:space="preserve">
     <value>あ……おいっ、待てハルヒ！</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>……ったく、自由奔放だなアイツは</value>
   </data>
-  <data name="7 MIKURU (みくる)" xml:space="preserve">
+  <data name="0007 MIKURU (みくる)" xml:space="preserve">
     <value>古泉くんって、観察した物から仮説
 を立てるのが上手ですよね</value>
   </data>
-  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね。発想力が優れてるんだと思
 うわ</value>
   </data>
-  <data name="9 MIKURU (みくる)" xml:space="preserve">
+  <data name="0009 MIKURU (みくる)" xml:space="preserve">
     <value>あたし、察しが悪いとか良く言われ
 るから、うらやましくて……</value>
   </data>
-  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたしは、みくるちゃんはそれでも
 いいと思うけど。でもそうね、</value>
   </data>
-  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃんも色々と注意して観察
 すれば古泉くんみたいになれるかも</value>
   </data>
-  <data name="12 MIKURU (みくる)" xml:space="preserve">
+  <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>は、はいっ</value>
   </data>
-  <data name="13 NAGATO (長門)" xml:space="preserve">
+  <data name="0013 NAGATO (長門)" xml:space="preserve">
     <value>古泉一樹は仮説を立てる事が得意</value>
   </data>
-  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
     <value>古泉くんって、頭がいいものね
 じつに探偵向きだわ</value>
   </data>
-  <data name="15 NAGATO (長門)" xml:space="preserve">
+  <data name="0015 NAGATO (長門)" xml:space="preserve">
     <value>そう</value>
   </data>
-  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうよ。有希も頭はいいけど、</value>
   </data>
-  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>大人しいから、探偵には向いてるか
 どうかわからないわね</value>
   </data>
-  <data name="18 NAGATO (長門)" xml:space="preserve">
+  <data name="0018 NAGATO (長門)" xml:space="preserve">
     <value>……そう</value>
   </data>
-  <data name="19 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0019 KOIZUMI (古泉)" xml:space="preserve">
     <value>何かを推理する時には、とりあえず
 仮説を立てますよね</value>
   </data>
-  <data name="20 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0020 KOIZUMI (古泉)" xml:space="preserve">
     <value>僕の仮説は信憑性がない
 のでしょうか？</value>
   </data>
-  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
     <value>え？　そんなことはないでしょ</value>
   </data>
-  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
     <value>古泉くんは現実と違う突拍子もない
 こととか言い出したりしないもの</value>
   </data>
-  <data name="23 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
     <value>そうでしょうか？　何か信用されて
 いない気がします</value>
   </data>
-  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それ、キョンに信用されてないって
 ことかしら？</value>
   </data>
-  <data name="25 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0025 KOIZUMI (古泉)" xml:space="preserve">
     <value>認めたくはありませんが</value>
   </data>
-  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
     <value>うーん、あれは信用されてないって
 いうより反発してるだけに見えるわ</value>
   </data>
-  <data name="27 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0027 KOIZUMI (古泉)" xml:space="preserve">
     <value>反発、ですか。それもそれで考え
 ものなのですが……</value>
   </data>

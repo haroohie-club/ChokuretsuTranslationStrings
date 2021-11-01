@@ -58,126 +58,126 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さんは、時々自信がなさそう
 にすることがあるよな</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃんはそれでいいのよ</value>
   </data>
-  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0002 HARUHI (ハルヒ)" xml:space="preserve">
     <value>自信満々なみくるちゃんって……
 それはそれで可愛いけどね</value>
   </data>
-  <data name="3 KYON (キョン)" xml:space="preserve">
+  <data name="0003 KYON (キョン)" xml:space="preserve">
     <value>自信満々な朝比奈さんは、ちょっと
 想像しにくいな</value>
   </data>
-  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ちょっぴり自信がなさそうで、少し
 ドジっ娘なのがチャーミングなのよ</value>
   </data>
-  <data name="5 KYON (キョン)" xml:space="preserve">
+  <data name="0005 KYON (キョン)" xml:space="preserve">
     <value>ああ、たしかにハルヒの言う通りだ</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>しかしな、その理屈で言うとハルヒ
 はチャーミングじゃないことになる</value>
   </data>
-  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたしの魅力はあたしにしか出せな
 い独自のものなのよっ！</value>
   </data>
-  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃんはあの子なりの魅力で
 全然別物なのよっ！</value>
   </data>
-  <data name="9 KYON (キョン)" xml:space="preserve">
+  <data name="0009 KYON (キョン)" xml:space="preserve">
     <value>わかったわかった、おまえには
 おまえの魅力とやらがあるわけだ</value>
   </data>
-  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたしの魅力がわからないのは
 キョンに見る目がない証拠ねっ！</value>
   </data>
-  <data name="11 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0011 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺に見る目があったら、最初から
 近寄らなかっただろうよ</value>
   </data>
-  <data name="12 MIKURU (みくる)" xml:space="preserve">
+  <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>涼宮さんって人に教えるのが上手
 ですよね</value>
   </data>
-  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
     <value>え？　チェスのことかしら？</value>
   </data>
-  <data name="14 MIKURU (みくる)" xml:space="preserve">
+  <data name="0014 MIKURU (みくる)" xml:space="preserve">
     <value>そうです。チェスってすごく難しい
 ってイメージだったんですけど</value>
   </data>
-  <data name="15 MIKURU (みくる)" xml:space="preserve">
+  <data name="0015 MIKURU (みくる)" xml:space="preserve">
     <value>涼宮さんのおかげで、初心者でも
 自信喪失せずにやれましたから</value>
   </data>
-  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
     <value>複雑なゲームだから、全部一度に
 覚えようとしても無理なのよ</value>
   </data>
-  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>最初はゲームを楽しむ方法だけ
 わかればいいってことよ</value>
   </data>
-  <data name="18 MIKURU (みくる)" xml:space="preserve">
+  <data name="0018 MIKURU (みくる)" xml:space="preserve">
     <value>はい、楽しかったです</value>
   </data>
-  <data name="19 NAGATO (長門)" xml:space="preserve">
+  <data name="0019 NAGATO (長門)" xml:space="preserve">
     <value>過去に自信喪失の経験は</value>
   </data>
-  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたし？　そんなものないわよ</value>
   </data>
-  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃんやキョンは、結構
 ありそうよね</value>
   </data>
-  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
     <value>揺るぎないものを持っている
 人間には自信喪失はないのよ！</value>
   </data>
-  <data name="23 NAGATO (長門)" xml:space="preserve">
+  <data name="0023 NAGATO (長門)" xml:space="preserve">
     <value>揺るぎないもの？</value>
   </data>
-  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それは、人それぞれ違うでしょ
 それより、早く行きましょ！</value>
   </data>
-  <data name="25 NAGATO (長門)" xml:space="preserve">
+  <data name="0025 NAGATO (長門)" xml:space="preserve">
     <value>わかった</value>
   </data>
-  <data name="26 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0026 KOIZUMI (古泉)" xml:space="preserve">
     <value>何事も、初手が大切なのかもしれま
 せんね</value>
   </data>
-  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
     <value>何のことかしら？</value>
   </data>
-  <data name="28 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0028 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さんが行った、朝比奈さんへの
 チェス指導のことですよ</value>
   </data>
-  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0029 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さんは朝比奈さんを誉めて
 誘導なさっていました</value>
   </data>
-  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0030 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ああ、あれねぇ。ほら、苦手意識を
 持たせちゃったら伸びないもの</value>
   </data>
-  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0031 KOIZUMI (古泉)" xml:space="preserve">
     <value>早い段階で自信を喪失してしまい
 ますからね</value>
   </data>
-  <data name="32 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0032 KOIZUMI (古泉)" xml:space="preserve">
     <value>しまったな。僕も初心者の時に
 涼宮さんから習うべきでした</value>
   </data>

@@ -58,16 +58,16 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ダミートピック</value>
   </data>
-  <data name="1 MIKURU (みくる)" xml:space="preserve">
+  <data name="0001 MIKURU (みくる)" xml:space="preserve">
     <value>ダミートピック</value>
   </data>
-  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0002 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ダミートピック</value>
   </data>
-  <data name="3 MIKURU (みくる)" xml:space="preserve">
+  <data name="0003 MIKURU (みくる)" xml:space="preserve">
     <value>ダミートピック</value>
   </data>
 </root>

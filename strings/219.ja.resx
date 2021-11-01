@@ -58,160 +58,160 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>針金を２本、こう折ってさ
 ダウジングしろとか言うんだよ</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>唐突になんの話よ？</value>
   </data>
-  <data name="2 KYON (キョン)" xml:space="preserve">
+  <data name="0002 KYON (キョン)" xml:space="preserve">
     <value>バーベキューの、道具を探しに
 行った時のことだよ</value>
   </data>
-  <data name="3 KYON (キョン)" xml:space="preserve">
+  <data name="0003 KYON (キョン)" xml:space="preserve">
     <value>古泉も変なヤツだよな。針金持ち
 歩いてるのも変だが、発想が変だ</value>
   </data>
-  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
     <value>いいじゃないの、ダウジング
 ＳＯＳ団らしい感覚だわ</value>
   </data>
-  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さすが古泉くんね</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>おまえ、古泉に甘すぎないか？</value>
   </data>
-  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
     <value>男の嫉妬は見苦しいわよ
 キョン！</value>
   </data>
-  <data name="8 KYON (キョン)" xml:space="preserve">
+  <data name="0008 KYON (キョン)" xml:space="preserve">
     <value>断じて違うぞ</value>
   </data>
-  <data name="9 MIKURU (みくる)" xml:space="preserve">
+  <data name="0009 MIKURU (みくる)" xml:space="preserve">
     <value>涼宮さん、ダウジングってあります
 よね</value>
   </data>
-  <data name="10 MIKURU (みくる)" xml:space="preserve">
+  <data name="0010 MIKURU (みくる)" xml:space="preserve">
     <value>あれって信憑性あるんでしょうか？</value>
   </data>
-  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あるんじゃないかしら？　水脈や
 鉱脈を見つけたって話は聞くしね</value>
   </data>
-  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0012 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それにダウジングには４千年の歴史
 があるそうよ</value>
   </data>
-  <data name="13 MIKURU (みくる)" xml:space="preserve">
+  <data name="0013 MIKURU (みくる)" xml:space="preserve">
     <value>４千年前って文化ってあったん
 ですか？</value>
   </data>
-  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ちょうど中国が成り立った辺りよ</value>
   </data>
-  <data name="15 MIKURU (みくる)" xml:space="preserve">
+  <data name="0015 MIKURU (みくる)" xml:space="preserve">
     <value>あ、そうか。中国４千年の歴史って
 言いますもんね。そっかぁ</value>
   </data>
-  <data name="16 MIKURU (みくる)" xml:space="preserve">
+  <data name="0016 MIKURU (みくる)" xml:space="preserve">
     <value>ふえー、じゃあ、古泉くんの探知機
 は冗談じゃなかったのかなぁ？</value>
   </data>
-  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>古泉くんの探知機って？</value>
   </data>
-  <data name="18 MIKURU (みくる)" xml:space="preserve">
+  <data name="0018 MIKURU (みくる)" xml:space="preserve">
     <value>キョンくんが古泉くんに針金を
 渡されたそうなんですよ</value>
   </data>
-  <data name="19 MIKURU (みくる)" xml:space="preserve">
+  <data name="0019 MIKURU (みくる)" xml:space="preserve">
     <value>ボルト探し用ダウジングだそうです</value>
   </data>
-  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それは古泉くんの冗談だと思うわ
 キョン、本気にしたのかしら？</value>
   </data>
-  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
     <value>針金持って歩き回ったとか……ぷっ
 ふ～ん、バカ丸出しね！</value>
   </data>
-  <data name="22 MIKURU (みくる)" xml:space="preserve">
+  <data name="0022 MIKURU (みくる)" xml:space="preserve">
     <value>……楽しそうですね</value>
   </data>
-  <data name="23 NAGATO (長門)" xml:space="preserve">
+  <data name="0023 NAGATO (長門)" xml:space="preserve">
     <value>古泉一樹が針金でダウジングロッド
 を作成して、渡したらしい</value>
   </data>
-  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>バーベキューの道具を探してた時
 かしら。二人で何してるんだか……</value>
   </data>
-  <data name="25 NAGATO (長門)" xml:space="preserve">
+  <data name="0025 NAGATO (長門)" xml:space="preserve">
     <value>古泉一樹の探知機と命名された</value>
   </data>
-  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
     <value>まんまねぇ。なんのひねりも無い
 じゃない</value>
   </data>
-  <data name="27 NAGATO (長門)" xml:space="preserve">
+  <data name="0027 NAGATO (長門)" xml:space="preserve">
     <value>彼は効果を信じていないようだった</value>
   </data>
-  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0028 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョンは信じないでしょうよ</value>
   </data>
-  <data name="29 NAGATO (長門)" xml:space="preserve">
+  <data name="0029 NAGATO (長門)" xml:space="preserve">
     <value>ダウジングは不覚筋動における
 意識外の知覚</value>
   </data>
-  <data name="30 NAGATO (長門)" xml:space="preserve">
+  <data name="0030 NAGATO (長門)" xml:space="preserve">
     <value>だが地中に埋まっている金属や
 水脈を探しているわけではない</value>
   </data>
-  <data name="31 NAGATO (長門)" xml:space="preserve">
+  <data name="0031 NAGATO (長門)" xml:space="preserve">
     <value>今回の目的には、ダウジングは
 不適切といえる</value>
   </data>
-  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
     <value>古泉くんの冗談だったんじゃ
 ないのかしら？</value>
   </data>
-  <data name="33 NAGATO (長門)" xml:space="preserve">
+  <data name="0033 NAGATO (長門)" xml:space="preserve">
     <value>……そう</value>
   </data>
-  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0034 KOIZUMI (古泉)" xml:space="preserve">
     <value>たまたま針金を見つけていたもので
 ダウジングでもしてみたらどうかと</value>
   </data>
-  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0035 KOIZUMI (古泉)" xml:space="preserve">
     <value>彼に言ったのですが</value>
   </data>
-  <data name="36 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0036 KOIZUMI (古泉)" xml:space="preserve">
     <value>それはもう、大層呆れられて
 しまったようです</value>
   </data>
-  <data name="37 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0037 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ああ、道具探しの時ね。針金で
 何してるかと思っちゃったわ</value>
   </data>
-  <data name="38 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0038 KOIZUMI (古泉)" xml:space="preserve">
     <value>ダウジングですよ</value>
   </data>
-  <data name="39 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0039 KOIZUMI (古泉)" xml:space="preserve">
     <value>水脈を調べるのに効果があることが
 解明されています</value>
   </data>
-  <data name="40 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0040 HARUHI (ハルヒ)" xml:space="preserve">
     <value>んー、探してたのはバーベキューの
 道具だったわよね？</value>
   </data>
-  <data name="41 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0041 KOIZUMI (古泉)" xml:space="preserve">
     <value>ええ、ですから冗談だったのですが
 判っていただけなくて残念でした</value>
   </data>
-  <data name="42 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0042 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さすがにその冗談はわかりにくい
 と思うわ、あたしでも</value>
   </data>

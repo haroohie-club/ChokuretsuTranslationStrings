@@ -58,122 +58,122 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>しかし、朝比奈さんは優しい人
 だとこの合宿でしみじみ思ったね</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ふーん、どんなことで？</value>
   </data>
-  <data name="2 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0002 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>谷口を捕まえるのに、モップで殴る
 ことさえ嫌がったなんて言えないな</value>
   </data>
-  <data name="3 KYON (キョン)" xml:space="preserve">
+  <data name="0003 KYON (キョン)" xml:space="preserve">
     <value>こーんな怖い目に遭わされても、
 ちっともハルヒを恨んでないからさ</value>
   </data>
-  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃんがあたしを恨むわけ
 ないじゃない！</value>
   </data>
-  <data name="5 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0005 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なぜそこで断言できるのかが謎だ
 ハルヒ。自分の行状を考えてみろ</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>確かに、恨んでない。だから朝比奈
 さんは優しい人なんだよ</value>
   </data>
-  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なにそれ、理屈になってないわよ</value>
   </data>
-  <data name="8 MIKURU (みくる)" xml:space="preserve">
+  <data name="0008 MIKURU (みくる)" xml:space="preserve">
     <value>えぇと、あのあの……</value>
   </data>
-  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
     <value>もう、今度は何があったの？
 なかなか先に進まないじゃないの</value>
   </data>
-  <data name="10 MIKURU (みくる)" xml:space="preserve">
+  <data name="0010 MIKURU (みくる)" xml:space="preserve">
     <value>す、すみませんっ
 えっと、えっと……</value>
   </data>
-  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>言わないのなら、先に行くわよ</value>
   </data>
-  <data name="12 MIKURU (みくる)" xml:space="preserve">
+  <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>い、いえっ！　あの、あたしって
 優しいんでしょうか？</value>
   </data>
-  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
     <value>もちろん、みくるちゃんは優しいわ
 それはあたしが保証してあげる</value>
   </data>
-  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
     <value>でも、優しくするとつけあがる
 バカがいるかもしれないから</value>
   </data>
-  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
     <value>くれぐれも、甘い顔はしちゃダメよ</value>
   </data>
-  <data name="16 MIKURU (みくる)" xml:space="preserve">
+  <data name="0016 MIKURU (みくる)" xml:space="preserve">
     <value>わ、わかりましたぁ</value>
   </data>
-  <data name="17 NAGATO (長門)" xml:space="preserve">
+  <data name="0017 NAGATO (長門)" xml:space="preserve">
     <value>朝比奈みくるが人々に好かれる理由
 は、その優しさにある</value>
   </data>
-  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね、あの子って底抜けに優しい
 もんね</value>
   </data>
-  <data name="19 NAGATO (長門)" xml:space="preserve">
+  <data name="0019 NAGATO (長門)" xml:space="preserve">
     <value>万人に好かれるには、朝比奈みくる
 のように行動する必要がある</value>
   </data>
-  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>うーん、あいにくだけど、</value>
   </data>
-  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
     <value>別にあたしは関係ない人に好かれ
 ようとか思ったことないのよね</value>
   </data>
-  <data name="22 NAGATO (長門)" xml:space="preserve">
+  <data name="0022 NAGATO (長門)" xml:space="preserve">
     <value>……そう</value>
   </data>
-  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0023 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希こそ、やってみたら？</value>
   </data>
-  <data name="24 NAGATO (長門)" xml:space="preserve">
+  <data name="0024 NAGATO (長門)" xml:space="preserve">
     <value>……難易度的に不可能に近い</value>
   </data>
-  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
     <value>でしょ</value>
   </data>
-  <data name="26 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0026 KOIZUMI (古泉)" xml:space="preserve">
     <value>朝比奈さんは、どんなときでも他者
 への気配りを忘れない方ですね</value>
   </data>
-  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね。って何かあったの？</value>
   </data>
-  <data name="28 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0028 KOIZUMI (古泉)" xml:space="preserve">
     <value>いえ、特に何か……というわけでは
 ないのですが</value>
   </data>
-  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0029 KOIZUMI (古泉)" xml:space="preserve">
     <value>今回の合宿でも、そんな性格が顕著
 に表れていて、感心しましてね</value>
   </data>
-  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0030 HARUHI (ハルヒ)" xml:space="preserve">
     <value>逆にキョンは、自分のことばかり
 考えてるような気がするわ</value>
   </data>
-  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0031 KOIZUMI (古泉)" xml:space="preserve">
     <value>……どうでしょう？</value>
   </data>
-  <data name="32 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0032 KOIZUMI (古泉)" xml:space="preserve">
     <value>僕が思うに、もしかすると彼が一番
 気配りの達人かもしれません</value>
   </data>

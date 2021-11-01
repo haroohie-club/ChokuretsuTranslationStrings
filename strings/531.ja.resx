@@ -58,462 +58,462 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0000 KOIZUMI (古泉)" xml:space="preserve">
     <value>お見事、正解です</value>
   </data>
-  <data name="1 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0001 KOIZUMI (古泉)" xml:space="preserve">
     <value>残念ですが不正解です</value>
   </data>
-  <data name="2 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0002 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06……それにしても</value>
   </data>
-  <data name="3 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0003 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06朝比奈さんが涼宮さんの相手をして
 下さって助かりましたよ</value>
   </data>
-  <data name="4 KYON (キョン)" xml:space="preserve">
+  <data name="0004 KYON (キョン)" xml:space="preserve">
     <value>#P06ん？　どういう意味だ？</value>
   </data>
-  <data name="5 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0005 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06これです。細工をするには、
 絶好のチャンスというわけで</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>#P06ハルヒの携帯か。なるほど、こいつ
 の時間を遅らせておくわけだな</value>
   </data>
-  <data name="7 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0007 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06ええ、１０分ほど時間を
 遅らさせて頂きました</value>
   </data>
-  <data name="8 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0008 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06それに、お忘れですか？
 チェスの駒が足りないはずでしょう</value>
   </data>
-  <data name="9 KYON (キョン)" xml:space="preserve">
+  <data name="0009 KYON (キョン)" xml:space="preserve">
     <value>#P06……ああ、長門が持ち出した分か！</value>
   </data>
-  <data name="10 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0010 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>すっかり忘れていた</value>
   </data>
-  <data name="11 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0011 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06それもきちんと補充しておきました
 今のところ万事うまくいっています</value>
   </data>
-  <data name="12 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0012 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そう言っていつもの善人スマイルを
 浮かべた古泉は</value>
   </data>
-  <data name="13 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0013 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>携帯を元の位置に戻した</value>
   </data>
-  <data name="14 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0014 KOIZUMI (古泉)" xml:space="preserve">
     <value>#DP</value>
   </data>
-  <data name="15 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0015 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>後はハルヒを足止めすることに
 集中すればいいわけだな</value>
   </data>
-  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……って感じで動かせばいいのよ
 みくるちゃん、わかった？</value>
   </data>
-  <data name="17 MIKURU (みくる)" xml:space="preserve">
+  <data name="0017 MIKURU (みくる)" xml:space="preserve">
     <value>あ、はい。なんとか覚えられました
 ありがとうございます</value>
   </data>
-  <data name="18 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0018 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そうこうしている間に、ハルヒの
 レクチャーも終了したようだ</value>
   </data>
-  <data name="19 MIKURU (みくる)" xml:space="preserve">
+  <data name="0019 MIKURU (みくる)" xml:space="preserve">
     <value>&#x1F;</value>
   </data>
-  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さあさあ、始めましょ！</value>
   </data>
-  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
     <value>トーナメントでＳＯＳ団の最強
 チェス王者を決めるわよ！</value>
   </data>
-  <data name="22 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0022 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いつもなら迷惑に感じる申し出だが
 今回だけは妙にありがたく感じるな</value>
   </data>
-  <data name="23 KYON (キョン)" xml:space="preserve">
+  <data name="0023 KYON (キョン)" xml:space="preserve">
     <value>もちろんだ。始めようぜ</value>
   </data>
-  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョンにしてはノリがいいわね
 じゃ、くじ引きで順番決めましょ！</value>
   </data>
-  <data name="25 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0025 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>こうして、長門を除いたＳＯＳ団
 最強チェス王者決定戦が始まった</value>
   </data>
-  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
     <value>&#x1F;</value>
   </data>
-  <data name="27 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0027 KOIZUMI (古泉)" xml:space="preserve">
     <value>&#x1F;</value>
   </data>
-  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0028 HARUHI (ハルヒ)" xml:space="preserve">
     <value>うん、これでチェックメイトね！
 あたしの勝ち……っと！</value>
   </data>
-  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0029 KOIZUMI (古泉)" xml:space="preserve">
     <value>さすが涼宮さん。教え方が上手い
 だけあってお強いですね</value>
   </data>
-  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0030 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そう？　まあちょっとは自信が
 あったんだけどね</value>
   </data>
-  <data name="31 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0031 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉とハルヒが対戦したのだが……</value>
   </data>
-  <data name="32 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0032 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺より弱い古泉が勝てるはずもなく
 あっさりと負けやがった</value>
   </data>
-  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0033 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それよりも、古泉くんの方が
 得意そうに見えるのに</value>
   </data>
-  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0034 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あまり強くないのね</value>
   </data>
-  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0035 KOIZUMI (古泉)" xml:space="preserve">
     <value>ははは、よく言われます</value>
   </data>
-  <data name="36 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0036 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉は駒の置き方だけは
 絵になるほど様になるんだが</value>
   </data>
-  <data name="37 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0037 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ルールも覚えているくせに、なんで
 こんなに弱いのか不思議なくらいだ</value>
   </data>
-  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0038 HARUHI (ハルヒ)" xml:space="preserve">
     <value>じゃあ、次はキョン……じゃなくて
 みくるちゃんと古泉くんが対戦ね</value>
   </data>
-  <data name="39 KYON (キョン)" xml:space="preserve">
+  <data name="0039 KYON (キョン)" xml:space="preserve">
     <value>なにっ？　トーナメント表では
 俺の番じゃないのか？</value>
   </data>
-  <data name="40 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0040 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃんは初心者でしょ</value>
   </data>
-  <data name="41 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0041 HARUHI (ハルヒ)" xml:space="preserve">
     <value>だから、練習代わりにまずは古泉
 くんと対戦した方がいいわ</value>
   </data>
-  <data name="42 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0042 HARUHI (ハルヒ)" xml:space="preserve">
     <value>いきなりあたしや、まあかなり格下
 だけどキョンが相手だと、荷が</value>
   </data>
-  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0043 HARUHI (ハルヒ)" xml:space="preserve">
     <value>重すぎると思うのよね</value>
   </data>
-  <data name="44 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0044 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>くそっ、せっかく朝比奈さんと
 対戦出来ると思ったのに</value>
   </data>
-  <data name="45 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0045 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ここに来て、余計な気回しを
 するんじゃない</value>
   </data>
-  <data name="46 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0046 KOIZUMI (古泉)" xml:space="preserve">
     <value>僕の方でしたら、連続でも一向に
 構いませんよ</value>
   </data>
-  <data name="47 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0047 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>お前は黙っていろ</value>
   </data>
-  <data name="48 KYON (キョン)" xml:space="preserve">
+  <data name="0048 KYON (キョン)" xml:space="preserve">
     <value>おいハルヒ、それじゃトーナメント
 の意味がないだろ</value>
   </data>
-  <data name="49 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0049 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>と、思わず言ってしまった</value>
   </data>
-  <data name="50 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0050 HARUHI (ハルヒ)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="51 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0051 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒはしばらく俺を睨み付けて
 いたが</value>
   </data>
-  <data name="52 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0052 KOIZUMI (古泉)" xml:space="preserve">
     <value>&#x1F;</value>
   </data>
-  <data name="53 MIKURU (みくる)" xml:space="preserve">
+  <data name="0053 MIKURU (みくる)" xml:space="preserve">
     <value>あのぅ……キョンくんすみません</value>
   </data>
-  <data name="54 MIKURU (みくる)" xml:space="preserve">
+  <data name="0054 MIKURU (みくる)" xml:space="preserve">
     <value>あたしも、いきなり対戦するよりも
 練習が出来ると助かります</value>
   </data>
-  <data name="55 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0055 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんも#P05“自信がない”#P01らしく
 すまなそうに告げてきた</value>
   </data>
-  <data name="56 KYON (キョン)" xml:space="preserve">
+  <data name="0056 KYON (キョン)" xml:space="preserve">
     <value>ええ、朝比奈さんがそう仰るのなら
 まずは古泉と練習試合をして下さい</value>
   </data>
-  <data name="57 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0057 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あのね、初めから素直にそう言い
 なさいよ</value>
   </data>
-  <data name="58 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0058 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ワガママな男は嫌われるわよ</value>
   </data>
-  <data name="59 KYON (キョン)" xml:space="preserve">
+  <data name="0059 KYON (キョン)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="60 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0060 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒにだけは言われたくない
 セリフだな</value>
   </data>
-  <data name="61 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0061 HARUHI (ハルヒ)" xml:space="preserve">
     <value>&#x1F;</value>
   </data>
-  <data name="62 MIKURU (みくる)" xml:space="preserve">
+  <data name="0062 MIKURU (みくる)" xml:space="preserve">
     <value>&#x1F;</value>
   </data>
-  <data name="63 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0063 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まあよく考えたら、この方が時間
 稼ぎは出来るだろうし</value>
   </data>
-  <data name="64 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0064 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんもそれを知ってて
 練習と言いだしたのかもしれないな</value>
   </data>
-  <data name="65 KYON (キョン)" xml:space="preserve">
+  <data name="0065 KYON (キョン)" xml:space="preserve">
     <value>……そうだな。お前の言うように
 練習は必要かもしれない</value>
   </data>
-  <data name="66 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0066 HARUHI (ハルヒ)" xml:space="preserve">
     <value>でしょ？
 みくるちゃんもそれがいいわよね！</value>
   </data>
-  <data name="67 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0067 KOIZUMI (古泉)" xml:space="preserve">
     <value>&#x1F;</value>
   </data>
-  <data name="68 MIKURU (みくる)" xml:space="preserve">
+  <data name="0068 MIKURU (みくる)" xml:space="preserve">
     <value>あ、はい。先に練習が出来ると
 助かりますぅ</value>
   </data>
-  <data name="69 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0069 HARUHI (ハルヒ)" xml:space="preserve">
     <value>&#x1F;</value>
   </data>
-  <data name="70 MIKURU (みくる)" xml:space="preserve">
+  <data name="0070 MIKURU (みくる)" xml:space="preserve">
     <value>&#x1F;</value>
   </data>
-  <data name="71 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0071 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>喜ぶ朝比奈さんを横目で見ながら
 俺が複雑な気持ちになっていると</value>
   </data>
-  <data name="72 MIKURU (みくる)" xml:space="preserve">
+  <data name="0072 MIKURU (みくる)" xml:space="preserve">
     <value>&#x1F;</value>
   </data>
-  <data name="73 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0073 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06……僕に考えがあります</value>
   </data>
-  <data name="74 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0074 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉が耳打ちしてきた</value>
   </data>
-  <data name="75 KYON (キョン)" xml:space="preserve">
+  <data name="0075 KYON (キョン)" xml:space="preserve">
     <value>#P06なんだ？</value>
   </data>
-  <data name="76 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0076 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06朝比奈さんとの試合を長引かせれば
 かなり時間が稼げると思いますよ</value>
   </data>
-  <data name="77 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0077 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06それに、涼宮さんがこちらに注目
 して下されば尚のこと好都合です</value>
   </data>
-  <data name="78 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0078 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……それもそうだな</value>
   </data>
-  <data name="79 KYON (キョン)" xml:space="preserve">
+  <data name="0079 KYON (キョン)" xml:space="preserve">
     <value>#P06よし、おまえに任せる</value>
   </data>
-  <data name="80 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0080 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06はい、承りました</value>
   </data>
-  <data name="81 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0081 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>たまには#P05“古泉の口車”#P01にでも
 乗ってみるとしよう</value>
   </data>
-  <data name="82 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0082 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>時間稼ぎのために、朝比奈さんと
 古泉による練習試合が始まった</value>
   </data>
-  <data name="83 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0083 KOIZUMI (古泉)" xml:space="preserve">
     <value>では、始めましょうか</value>
   </data>
-  <data name="84 MIKURU (みくる)" xml:space="preserve">
+  <data name="0084 MIKURU (みくる)" xml:space="preserve">
     <value>お、お手柔らかにお願いしますっ</value>
   </data>
-  <data name="85 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0085 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>練習試合だというのに、朝比奈さん
 はかなり緊張してらっしゃる</value>
   </data>
-  <data name="86 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0086 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まあ、このふたりに任せておけば
 かなり時間が潰せそうだな</value>
   </data>
-  <data name="87 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0087 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……などという俺達のもくろみは
 約１名によって崩れようとしていた</value>
   </data>
-  <data name="88 MIKURU (みくる)" xml:space="preserve">
+  <data name="0088 MIKURU (みくる)" xml:space="preserve">
     <value>&#x1F;</value>
   </data>
-  <data name="89 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0089 KOIZUMI (古泉)" xml:space="preserve">
     <value>&#x1F;</value>
   </data>
-  <data name="90 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0090 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃん、そこにナイトを
 進めるのよ！</value>
   </data>
-  <data name="91 MIKURU (みくる)" xml:space="preserve">
+  <data name="0091 MIKURU (みくる)" xml:space="preserve">
     <value>えっ？　えっと……ここですか？</value>
   </data>
-  <data name="92 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0092 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そこじゃなくて、もう１マス上よ
 駒の動きは覚えてるでしょ？</value>
   </data>
-  <data name="93 MIKURU (みくる)" xml:space="preserve">
+  <data name="0093 MIKURU (みくる)" xml:space="preserve">
     <value>は、はい、すみませぇん</value>
   </data>
-  <data name="94 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0094 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なぜかハルヒがふたりの横に陣取り
 指示を出していた</value>
   </data>
-  <data name="95 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0095 KOIZUMI (古泉)" xml:space="preserve">
     <value>えぇと、では僕の番ですね
 次は……と</value>
   </data>
-  <data name="96 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0096 HARUHI (ハルヒ)" xml:space="preserve">
     <value>古泉くんは、そこのポーンでみくる
 ちゃんの駒を取って！</value>
   </data>
-  <data name="97 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0097 HARUHI (ハルヒ)" xml:space="preserve">
     <value>斜め右にある方よ！</value>
   </data>
-  <data name="98 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0098 KOIZUMI (古泉)" xml:space="preserve">
     <value>……了解しました</value>
   </data>
-  <data name="99 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0099 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒに言われるまま、古泉も
 駒を進めてゆく</value>
   </data>
-  <data name="100 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0100 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……おい、確か練習試合とか
 言ってなかったか？</value>
   </data>
-  <data name="101 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0101 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>これじゃあハルヒのペースで
 進められちまうぞ</value>
   </data>
-  <data name="102 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0102 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうそう！　で、みくるちゃんは
 そっちの……</value>
   </data>
-  <data name="103 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0103 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>予定外でどうなるかと思ったが
 これはラッキーかもしれない</value>
   </data>
-  <data name="104 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0104 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>すっかりチェスに入り込んで
 さっきから時計も見ていない</value>
   </data>
-  <data name="105 KYON (キョン)" xml:space="preserve">
+  <data name="0105 KYON (キョン)" xml:space="preserve">
     <value>……よし</value>
   </data>
-  <data name="106 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0106 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉との練習試合が終わり、
 俺と朝比奈さんが対戦する頃</value>
   </data>
-  <data name="107 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0107 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒの頭からは、鏡の事が
 すっぽ抜けてしまっていた</value>
   </data>
-  <data name="108 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0108 HARUHI (ハルヒ)" xml:space="preserve">
     <value>&#x1F;</value>
   </data>
-  <data name="109 KYON (キョン)" xml:space="preserve">
+  <data name="0109 KYON (キョン)" xml:space="preserve">
     <value>よし、次は俺とハルヒの勝負だな</value>
   </data>
-  <data name="110 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0110 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんに勝った後で、俺は
 ハルヒと最終決戦を迎えていた</value>
   </data>
-  <data name="111 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0111 HARUHI (ハルヒ)" xml:space="preserve">
     <value>初心者のみくるちゃんに勝った
 からって、いい気にならないでよ</value>
   </data>
-  <data name="112 KYON (キョン)" xml:space="preserve">
+  <data name="0112 KYON (キョン)" xml:space="preserve">
     <value>別にいい気になんてなっていないぞ</value>
   </data>
-  <data name="113 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0113 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そう？</value>
   </data>
-  <data name="114 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0114 HARUHI (ハルヒ)" xml:space="preserve">
     <value>まあ、そんな自信はあたしがすぐに
 メタメタに打ち砕いてあげるわ</value>
   </data>
-  <data name="115 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0115 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョンと有希に勝ったら、あたしが
 チェスでもトップってことね！</value>
   </data>
-  <data name="116 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0116 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そう胸を張って告げた後、
 ハルヒは急に目を見開いた</value>
   </data>
-  <data name="117 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0117 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……あっ、有希！　そうよ有希の事
 を忘れてたわ！</value>
   </data>
-  <data name="118 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0118 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>くそっ、せっかく忘れさせてたって
 いうのに、急に思い出しやがった</value>
   </data>
-  <data name="119 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0119 HARUHI (ハルヒ)" xml:space="preserve">
     <value>今何時よ？　こうしていられないわ
 鏡の所に行かなくちゃ！</value>
   </data>
-  <data name="120 KYON (キョン)" xml:space="preserve">
+  <data name="0120 KYON (キョン)" xml:space="preserve">
     <value>あっ、こら！　まだ俺との勝負がっ</value>
   </data>
-  <data name="121 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0121 HARUHI (ハルヒ)" xml:space="preserve">
     <value>&#x1F;</value>
   </data>
-  <data name="122 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0122 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さん、落ち着いて下さい
 まだ時間は残っていますよ</value>
   </data>
-  <data name="123 MIKURU (みくる)" xml:space="preserve">
+  <data name="0123 MIKURU (みくる)" xml:space="preserve">
     <value>そ、そうですよっ、キョンくんと
 対戦してからでも……</value>
   </data>
-  <data name="124 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0124 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そんなの後よ、後！
 今はこっちの方が重要でしょ！</value>
   </data>
-  <data name="125 KYON (キョン)" xml:space="preserve">
+  <data name="0125 KYON (キョン)" xml:space="preserve">
     <value>お、おい、待てよハルヒ！</value>
   </data>
-  <data name="126 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0126 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>思い出したとたん、弾丸のように
 部室を飛び出して行きやがった</value>
   </data>
-  <data name="127 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0127 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>時間は相当稼げたとは思うが……
 頼む、どうか間に合ってくれっ</value>
   </data>

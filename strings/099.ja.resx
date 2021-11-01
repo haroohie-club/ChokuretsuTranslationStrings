@@ -58,286 +58,286 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョン、今思いついたんだけど</value>
   </data>
-  <data name="1 KYON (キョン)" xml:space="preserve">
+  <data name="0001 KYON (キョン)" xml:space="preserve">
     <value>なんだ</value>
   </data>
-  <data name="2 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0002 HARUHI (ハルヒ)" xml:space="preserve">
     <value>怪奇現象に遭遇できないまま
 朝になった場合のこと</value>
   </data>
-  <data name="3 KYON (キョン)" xml:space="preserve">
+  <data name="0003 KYON (キョン)" xml:space="preserve">
     <value>それならいい案がある。朝になる
 前にさっさと帰っちまうのはどうだ</value>
   </data>
-  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
     <value>却下</value>
   </data>
-  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>とりあえず、一旦自宅に戻って
 休む方がいいと思うのよ</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>一旦って言葉が気になるが
 まあ、妥当だろうな</value>
   </data>
-  <data name="7 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0007 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いっそ、そのままエスケープして
 しまうってのも手か</value>
   </data>
-  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それで鋭気を養った後、また学校に
 きて調査を再開するの</value>
   </data>
-  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
     <value>その間なんだけど、キョンは残って
 見張りをしといて</value>
   </data>
-  <data name="10 KYON (キョン)" xml:space="preserve">
+  <data name="0010 KYON (キョン)" xml:space="preserve">
     <value>ちょっと待て。なんで俺だけ残る
 んだよ</value>
   </data>
-  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>だって、あたしたちがいない間に
 何か起こったら大変じゃない</value>
   </data>
-  <data name="12 KYON (キョン)" xml:space="preserve">
+  <data name="0012 KYON (キョン)" xml:space="preserve">
     <value>だからって、なんで俺なんだ？
 そういうのは言いだしっぺがだな</value>
   </data>
-  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あんた、女の子にそんなことさせる
 つもりなの？</value>
   </data>
-  <data name="14 KYON (キョン)" xml:space="preserve">
+  <data name="0014 KYON (キョン)" xml:space="preserve">
     <value>男だったら古泉だっているだろうが</value>
   </data>
-  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ともかく、アンタ以外ありえないの</value>
   </data>
-  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そのかわり、あたしが食べ物を調達
 してきてあげるわ。おごりよおごり</value>
   </data>
-  <data name="17 KYON (キョン)" xml:space="preserve">
+  <data name="0017 KYON (キョン)" xml:space="preserve">
     <value>そりゃまた、お優しいことで……</value>
   </data>
-  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
     <value>思ったんだけど……</value>
   </data>
-  <data name="19 MIKURU (みくる)" xml:space="preserve">
+  <data name="0019 MIKURU (みくる)" xml:space="preserve">
     <value>はい？</value>
   </data>
-  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>このまま何も起こらなかったとして
 明日はどうしようかしらね</value>
   </data>
-  <data name="21 MIKURU (みくる)" xml:space="preserve">
+  <data name="0021 MIKURU (みくる)" xml:space="preserve">
     <value>えっと、解散して終わり……、
 じゃないんですか？</value>
   </data>
-  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
     <value>目的を達成してないのに？
 そんなのダメに決まってるじゃない</value>
   </data>
-  <data name="23 MIKURU (みくる)" xml:space="preserve">
+  <data name="0023 MIKURU (みくる)" xml:space="preserve">
     <value>はうぅ……</value>
   </data>
-  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうだわ！
 キョンに残ってもらいましょ</value>
   </data>
-  <data name="25 MIKURU (みくる)" xml:space="preserve">
+  <data name="0025 MIKURU (みくる)" xml:space="preserve">
     <value>え……？</value>
   </data>
-  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョンに残って見張ってもらって</value>
   </data>
-  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
     <value>その間にあたしたちは家に帰って
 休んでくるの。どう、名案でしょ</value>
   </data>
-  <data name="28 MIKURU (みくる)" xml:space="preserve">
+  <data name="0028 MIKURU (みくる)" xml:space="preserve">
     <value>そ、それはあんまりじゃ……</value>
   </data>
-  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0029 HARUHI (ハルヒ)" xml:space="preserve">
     <value>大丈夫よ、みくるちゃんが手料理の
 ひとつでも食べさせてあげれば</value>
   </data>
-  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0030 HARUHI (ハルヒ)" xml:space="preserve">
     <value>きっと喜んで見張りでもなんでも
 するわよ。微妙に納得いかないけど</value>
   </data>
-  <data name="31 MIKURU (みくる)" xml:space="preserve">
+  <data name="0031 MIKURU (みくる)" xml:space="preserve">
     <value>え、あたしのですか？</value>
   </data>
-  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
     <value>まあ、なんだったら……
 あたしも手伝うわね</value>
   </data>
-  <data name="33 MIKURU (みくる)" xml:space="preserve">
+  <data name="0033 MIKURU (みくる)" xml:space="preserve">
     <value>えと、その……</value>
   </data>
-  <data name="34 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0034 HARUHI (ハルヒ)" xml:space="preserve">
     <value>うん。それがいいわ</value>
   </data>
-  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0035 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ご褒美にあたしとみくるちゃんの
 手料理だなんて、格別の配慮よね</value>
   </data>
-  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0036 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたしったらなんて優しいのかしら</value>
   </data>
-  <data name="37 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0037 HARUHI (ハルヒ)" xml:space="preserve">
     <value>このまま幽霊とか怪奇現象に遭遇で
 きなかったらどうしようかしら</value>
   </data>
-  <data name="38 NAGATO (長門)" xml:space="preserve">
+  <data name="0038 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0039 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希はどうしたらいいと思う？</value>
   </data>
-  <data name="40 NAGATO (長門)" xml:space="preserve">
+  <data name="0040 NAGATO (長門)" xml:space="preserve">
     <value>このまま朝を迎えた場合、体力の
 消耗による判断ミスが懸念される</value>
   </data>
-  <data name="41 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0041 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうよね、さすがに２日連続で
 徹夜は厳しいわよねえ</value>
   </data>
-  <data name="42 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0042 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうだわ、一旦家に帰って休んで
 から、再度集まるのはどうかしら</value>
   </data>
-  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0043 HARUHI (ハルヒ)" xml:space="preserve">
     <value>でも、そうなると、あたしたちが
 いない間が問題よね……</value>
   </data>
-  <data name="44 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0044 HARUHI (ハルヒ)" xml:space="preserve">
     <value>やっぱり、誰かに残ってもらって
 見張りをしてもらうべきよね</value>
   </data>
-  <data name="45 NAGATO (長門)" xml:space="preserve">
+  <data name="0045 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
-  <data name="46 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0046 HARUHI (ハルヒ)" xml:space="preserve">
     <value>うーん……キョンよね。この場合</value>
   </data>
-  <data name="47 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0047 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ま、その代わり何かフォローして
 あげなきゃな</value>
   </data>
-  <data name="48 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0048 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうだわ、食事を作って持っていく
 っていうのはどうかしら？</value>
   </data>
-  <data name="49 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0049 HARUHI (ハルヒ)" xml:space="preserve">
     <value>もちろん、あたしたち女子が作るの
 よ！</value>
   </data>
-  <data name="50 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0050 HARUHI (ハルヒ)" xml:space="preserve">
     <value>美少女３人の手料理なんて、キョン
 には勿体ないくらいのご褒美よね</value>
   </data>
-  <data name="51 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0051 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そう思わない？</value>
   </data>
-  <data name="52 NAGATO (長門)" xml:space="preserve">
+  <data name="0052 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
-  <data name="53 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0053 HARUHI (ハルヒ)" xml:space="preserve">
     <value>とにかく、キョンも大喜び間違い
 ないわ</value>
   </data>
-  <data name="54 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0054 HARUHI (ハルヒ)" xml:space="preserve">
     <value>うーん、我ながらなんて素晴らしい
 配慮かしら</value>
   </data>
-  <data name="55 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0055 KOIZUMI (古泉)" xml:space="preserve">
     <value>このまま朝になってしまうという
 可能性も考えられますが</value>
   </data>
-  <data name="56 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0056 KOIZUMI (古泉)" xml:space="preserve">
     <value>その後はどうしましょう？</value>
   </data>
-  <data name="57 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0057 KOIZUMI (古泉)" xml:space="preserve">
     <value>さすがに２日連続は体力的にも精神
 的にも厳しいかと</value>
   </data>
-  <data name="58 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0058 KOIZUMI (古泉)" xml:space="preserve">
     <value>もちろん、涼宮さんなら団長として
 その辺りのフォローはお考えかと</value>
   </data>
-  <data name="59 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0059 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうねえ……</value>
   </data>
-  <data name="60 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0060 HARUHI (ハルヒ)" xml:space="preserve">
     <value>一旦帰って、休んでくるのがベスト
 かしら？</value>
   </data>
-  <data name="61 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0061 HARUHI (ハルヒ)" xml:space="preserve">
     <value>でも、あたしたちがいない間が問題
 なのよね</value>
   </data>
-  <data name="62 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0062 HARUHI (ハルヒ)" xml:space="preserve">
     <value>怪奇現象はこっちの都合で動いてく
 れるわけじゃないし</value>
   </data>
-  <data name="63 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0063 KOIZUMI (古泉)" xml:space="preserve">
     <value>確かにそうですね</value>
   </data>
-  <data name="64 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0064 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうだわ、誰かに残ってもらいま
 しょう</value>
   </data>
-  <data name="65 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0065 KOIZUMI (古泉)" xml:space="preserve">
     <value>誰かとは？</value>
   </data>
-  <data name="66 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0066 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたしは論外だし、みくるちゃんは
 一人じゃ怯えて可哀想だし……</value>
   </data>
-  <data name="67 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0067 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希は見るからに体力なさそうよね
 古泉くんを使うのも勿体ないし……</value>
   </data>
-  <data name="68 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0068 HARUHI (ハルヒ)" xml:space="preserve">
     <value>うん、そうするとキョンしかいない
 わね</value>
   </data>
-  <data name="69 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0069 KOIZUMI (古泉)" xml:space="preserve">
     <value>さすがにそれは彼に申し訳ないの
 ではありませんか？</value>
   </data>
-  <data name="70 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0070 HARUHI (ハルヒ)" xml:space="preserve">
     <value>大丈夫よ。あとでフォローすれば</value>
   </data>
-  <data name="71 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0071 HARUHI (ハルヒ)" xml:space="preserve">
     <value>夜に差し入れを持っていくとかね
 なんだったら手料理でもいいわ</value>
   </data>
-  <data name="72 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0072 KOIZUMI (古泉)" xml:space="preserve">
     <value>それは、涼宮さんがお作りになる
 のですか？</value>
   </data>
-  <data name="73 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0073 HARUHI (ハルヒ)" xml:space="preserve">
     <value>んー……ま、それでもいいけど</value>
   </data>
-  <data name="74 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0074 KOIZUMI (古泉)" xml:space="preserve">
     <value>なるほど。それは良い案では
 ないでしょうか</value>
   </data>
-  <data name="75 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0075 HARUHI (ハルヒ)" xml:space="preserve">
     <value>団長自ら作った料理なんて、キョン
 には勿体ないくらいだわ</value>
   </data>
-  <data name="76 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0076 KOIZUMI (古泉)" xml:space="preserve">
     <value>さすが涼宮さん、お優しい</value>
   </data>
-  <data name="77 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0077 HARUHI (ハルヒ)" xml:space="preserve">
     <value>たまにはキョンにも良い思いをさせ
 てあげないとね</value>
   </data>

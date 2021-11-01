@@ -58,102 +58,102 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>しかしこう蒸し暑いとかき氷でも
 食いたくなるな</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あんたにしちゃいいこと言うわね
 あとで買ってきてよ</value>
   </data>
-  <data name="2 KYON (キョン)" xml:space="preserve">
+  <data name="0002 KYON (キョン)" xml:space="preserve">
     <value>俺がか！？</value>
   </data>
-  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
     <value>当然でしょ、言い出しっぺだし</value>
   </data>
-  <data name="4 KYON (キョン)" xml:space="preserve">
+  <data name="0004 KYON (キョン)" xml:space="preserve">
     <value>とほほ……やぶ蛇だったか……</value>
   </data>
-  <data name="5 MIKURU (みくる)" xml:space="preserve">
+  <data name="0005 MIKURU (みくる)" xml:space="preserve">
     <value>そういえば、夜食の買い出しの時に
 キョンくんと長門さんが</value>
   </data>
-  <data name="6 MIKURU (みくる)" xml:space="preserve">
+  <data name="0006 MIKURU (みくる)" xml:space="preserve">
     <value>かき氷を食べに行くって話を
 してたんですよ</value>
   </data>
-  <data name="7 MIKURU (みくる)" xml:space="preserve">
+  <data name="0007 MIKURU (みくる)" xml:space="preserve">
     <value>美味しそうですよねぇ</value>
   </data>
-  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョンったら、団長の許可なく勝手
 にそんな約束をしてたの？</value>
   </data>
-  <data name="9 MIKURU (みくる)" xml:space="preserve">
+  <data name="0009 MIKURU (みくる)" xml:space="preserve">
     <value>えっ、で、でも長門さんへの
 お礼か何かかもしれないですし……</value>
   </data>
-  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>だったら、全員におごるべきだわ！
 みんなの世話になってるわけだし</value>
   </data>
-  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃん、あとでキョンに
 おごらせましょ</value>
   </data>
-  <data name="12 MIKURU (みくる)" xml:space="preserve">
+  <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>ああっ、キョンくんごめんなさいっ</value>
   </data>
-  <data name="13 NAGATO (長門)" xml:space="preserve">
+  <data name="0013 NAGATO (長門)" xml:space="preserve">
     <value>かき氷
 あとで食べる約束がある</value>
   </data>
-  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なに、キョンと？</value>
   </data>
-  <data name="15 NAGATO (長門)" xml:space="preserve">
+  <data name="0015 NAGATO (長門)" xml:space="preserve">
     <value>そう</value>
   </data>
-  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
     <value>いいわね、あとで買い出しに行かせ
 ましょう。当然あいつのオゴリで</value>
   </data>
-  <data name="17 NAGATO (長門)" xml:space="preserve">
+  <data name="0017 NAGATO (長門)" xml:space="preserve">
     <value>イチゴ味</value>
   </data>
-  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね、基本よね</value>
   </data>
-  <data name="19 NAGATO (長門)" xml:space="preserve">
+  <data name="0019 NAGATO (長門)" xml:space="preserve">
     <value>基本</value>
   </data>
-  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>うん、がぜんやる気が出てきたわ！
 行きましょう、有希！</value>
   </data>
-  <data name="21 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0021 KOIZUMI (古泉)" xml:space="preserve">
     <value>この合宿が終わったら、長門さんは
 かき氷を御馳走してもらうとか</value>
   </data>
-  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
     <value>誰が御馳走するのよ。まさかキョン
 じゃないわよね？</value>
   </data>
-  <data name="23 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
     <value>そのまさかですよ、涼宮さん</value>
   </data>
-  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ふーん、わかったわ</value>
   </data>
-  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希にいろいろとちょっかいかけた
 おわびのつもりなんだわ！</value>
   </data>
-  <data name="26 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0026 KOIZUMI (古泉)" xml:space="preserve">
     <value>そうなのでしょうか？</value>
   </data>
-  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうに決まってるわよ
 それならあたしにも奢るべきよ！</value>
   </data>

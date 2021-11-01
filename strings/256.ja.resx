@@ -58,125 +58,125 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>さっき、古泉に肩を叩かれたんだが</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>肩を叩かれた？　どっちの意味？</value>
   </data>
-  <data name="2 KYON (キョン)" xml:space="preserve">
+  <data name="0002 KYON (キョン)" xml:space="preserve">
     <value>あー、そうか。マッサージの方だ
 挨拶代わりに叩かれたわけじゃない</value>
   </data>
-  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ふうん、優しいじゃない古泉くん</value>
   </data>
-  <data name="4 KYON (キョン)" xml:space="preserve">
+  <data name="0004 KYON (キョン)" xml:space="preserve">
     <value>どうだかな。俺は逆に不気味だった
 が……</value>
   </data>
-  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたしも、後でみくるちゃんの肩を
 叩いてあげることにするわ</value>
   </data>
-  <data name="6 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0006 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……別に、その役目は俺が代わって
 やってもいいぞ。無料で</value>
   </data>
-  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
     <value>その後で、アンタはあたしの肩を
 たたきなさい</value>
   </data>
-  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃんは有希で、有希は古泉
 くんね。そしたらちょうど一周よ</value>
   </data>
-  <data name="9 MIKURU (みくる)" xml:space="preserve">
+  <data name="0009 MIKURU (みくる)" xml:space="preserve">
     <value>とん、とん、とん……ふぅ</value>
   </data>
-  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ん、どうしたの？
 自分の肩なんて叩いて</value>
   </data>
-  <data name="11 MIKURU (みくる)" xml:space="preserve">
+  <data name="0011 MIKURU (みくる)" xml:space="preserve">
     <value>あ、いえ……なんだか、肩がこって
 るみたいで</value>
   </data>
-  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0012 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あー、それだけ大きいんだから、
 そりゃ凝るわよねえ</value>
   </data>
-  <data name="13 MIKURU (みくる)" xml:space="preserve">
+  <data name="0013 MIKURU (みくる)" xml:space="preserve">
     <value>そ、そういう話なんですか……？</value>
   </data>
-  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そういう話じゃなかったの？</value>
   </data>
-  <data name="15 MIKURU (みくる)" xml:space="preserve">
+  <data name="0015 MIKURU (みくる)" xml:space="preserve">
     <value>あうう……ど、どうなんでしょう</value>
   </data>
-  <data name="16 NAGATO (長門)" xml:space="preserve">
+  <data name="0016 NAGATO (長門)" xml:space="preserve">
     <value>肩たたきという言葉について疑問に
 思うことがある</value>
   </data>
-  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>母さんお肩を叩きましょうって
 肩たたきのことでしょ</value>
   </data>
-  <data name="18 NAGATO (長門)" xml:space="preserve">
+  <data name="0018 NAGATO (長門)" xml:space="preserve">
     <value>肩の筋肉をほぐす意味と、上司が
 部下に退社をほのめかす意味がある</value>
   </data>
-  <data name="19 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0019 HARUHI (ハルヒ)" xml:space="preserve">
     <value>たしかに、そんな意味もあるわね</value>
   </data>
-  <data name="20 NAGATO (長門)" xml:space="preserve">
+  <data name="0020 NAGATO (長門)" xml:space="preserve">
     <value>彼が古泉一樹に肩を叩かれたのは
 どちらの意味なのか疑問</value>
   </data>
-  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
     <value>古泉くんがキョンに退部を勧めたと
 は考えにくいでしょ？</value>
   </data>
-  <data name="22 NAGATO (長門)" xml:space="preserve">
+  <data name="0022 NAGATO (長門)" xml:space="preserve">
     <value>しかし、彼の肩はそれほどこって
 いない</value>
   </data>
-  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0023 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それはキョンがなにかヘマをやって
 古泉くんがなぐさめたんじゃない</value>
   </data>
-  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>頑張れよって意味ね</value>
   </data>
-  <data name="25 NAGATO (長門)" xml:space="preserve">
+  <data name="0025 NAGATO (長門)" xml:space="preserve">
     <value>わかった</value>
   </data>
-  <data name="26 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0026 KOIZUMI (古泉)" xml:space="preserve">
     <value>苦労を労おうと彼の肩を叩いてみた
 のですが、何故かイヤがられました</value>
   </data>
-  <data name="27 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョンの？　古泉くんも苦労してる
 わねぇ</value>
   </data>
-  <data name="28 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0028 KOIZUMI (古泉)" xml:space="preserve">
     <value>あの手この手で信頼を勝ち取ろうと
 努力してみているのですよ</value>
   </data>
-  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0029 KOIZUMI (古泉)" xml:space="preserve">
     <value>ＳＯＳ団で男子は彼と僕だけですか
 ら。仲良くしたいじゃないですか</value>
   </data>
-  <data name="30 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0030 HARUHI (ハルヒ)" xml:space="preserve">
     <value>今でも十分仲は良いと思うけど
 キョンが認めようとしないだけ</value>
   </data>
-  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0031 KOIZUMI (古泉)" xml:space="preserve">
     <value>それが本当だと信じられれば
 気が楽なのですが……</value>
   </data>
-  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
     <value>大丈夫よ、あたしを信じなさいっ！</value>
   </data>
 </root>

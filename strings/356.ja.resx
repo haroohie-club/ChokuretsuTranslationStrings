@@ -58,210 +58,210 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0000 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>それはまだ、残暑厳しい日のこと</value>
   </data>
-  <data name="1 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ＨＲが終わると、誰よりも早く
 ハルヒは教室からいなくなり</value>
   </data>
-  <data name="2 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0002 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そして俺も、甘酸っぱい放課後の呼
 び出しや</value>
   </data>
-  <data name="3 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0003 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>白球とグラウンドに汗くさい青春を
 捧げるでもなく</value>
   </data>
-  <data name="4 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0004 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いつものように、そそくさと部室へ
 足を運んだ</value>
   </data>
-  <data name="5 NAGATO (長門)" xml:space="preserve">
+  <data name="0005 NAGATO (長門)" xml:space="preserve">
     <value>&#x18;</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>ちーっす</value>
   </data>
-  <data name="7 NAGATO (長門)" xml:space="preserve">
+  <data name="0007 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="8 KYON (キョン)" xml:space="preserve">
+  <data name="0008 KYON (キョン)" xml:space="preserve">
     <value>よう、長門</value>
   </data>
-  <data name="9 NAGATO (長門)" xml:space="preserve">
+  <data name="0009 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="10 NAGATO (長門)" xml:space="preserve">
+  <data name="0010 NAGATO (長門)" xml:space="preserve">
     <value>&#x18;</value>
   </data>
-  <data name="11 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0011 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門は、数秒だけ俺と視線を合わせ
 たかと思うと</value>
   </data>
-  <data name="12 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0012 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>すぐまた手元の本に視線を落とす</value>
   </data>
-  <data name="13 KYON (キョン)" xml:space="preserve">
+  <data name="0013 KYON (キョン)" xml:space="preserve">
     <value>今日は長門だけか</value>
   </data>
-  <data name="14 NAGATO (長門)" xml:space="preserve">
+  <data name="0014 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="15 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0015 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>返事はない。まあ、もともと期待
 しちゃいないが</value>
   </data>
-  <data name="16 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0016 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さて、どうするか……</value>
   </data>
-  <data name="17 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0017 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>お茶を飲もうにも、朝比奈さんは
 未だやってこず</value>
   </data>
-  <data name="18 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0018 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>もちろん、自分で淹れてしまうと
 いう方法もあるが</value>
   </data>
-  <data name="19 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0019 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なんというか、それは朝比奈さんの
 お株を奪うようで心苦しい</value>
   </data>
-  <data name="20 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0020 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>となれば、どうやって時間を潰すか
 だが……</value>
   </data>
-  <data name="21 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0021 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ゲームをしようにも相手がいない</value>
   </data>
-  <data name="22 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0022 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いや、長門を誘えばいいのだが
 長門相手では正直勝負にならん</value>
   </data>
-  <data name="23 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0023 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>となると、本でも読んでみるかと
 思うが……</value>
   </data>
-  <data name="24 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0024 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>若い男女が同じ部屋に２人きりで
 黙々と本を読むのもいかがなものか</value>
   </data>
-  <data name="25 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0025 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>もっと健全な高校生らしく、会話に
 花を咲かせてみるべきじゃないか</value>
   </data>
-  <data name="26 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0026 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>よし、そうと決まれば挑戦して
 みるか</value>
   </data>
-  <data name="27 KYON (キョン)" xml:space="preserve">
+  <data name="0027 KYON (キョン)" xml:space="preserve">
     <value>なあ、長門</value>
   </data>
-  <data name="28 NAGATO (長門)" xml:space="preserve">
+  <data name="0028 NAGATO (長門)" xml:space="preserve">
     <value>なに</value>
   </data>
-  <data name="29 KYON (キョン)" xml:space="preserve">
+  <data name="0029 KYON (キョン)" xml:space="preserve">
     <value>夏休みはどうだった？</value>
   </data>
-  <data name="30 NAGATO (長門)" xml:space="preserve">
+  <data name="0030 NAGATO (長門)" xml:space="preserve">
     <value>……どう、とは？</value>
   </data>
-  <data name="31 KYON (キョン)" xml:space="preserve">
+  <data name="0031 KYON (キョン)" xml:space="preserve">
     <value>いや、いろいろあるだろう
 思い出に残ったこととか</value>
   </data>
-  <data name="32 NAGATO (長門)" xml:space="preserve">
+  <data name="0032 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="33 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0033 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>これは、考えているのだろうか</value>
   </data>
-  <data name="34 NAGATO (長門)" xml:space="preserve">
+  <data name="0034 NAGATO (長門)" xml:space="preserve">
     <value>……とくにない</value>
   </data>
-  <data name="35 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0035 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>たっぷり十数秒熟考したすえの
 答えだった</value>
   </data>
-  <data name="36 KYON (キョン)" xml:space="preserve">
+  <data name="0036 KYON (キョン)" xml:space="preserve">
     <value>ま、まあ、思い出はひとそれぞれだ</value>
   </data>
-  <data name="37 NAGATO (長門)" xml:space="preserve">
+  <data name="0037 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="38 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0038 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>相変わらず打てども響かないやつだ</value>
   </data>
-  <data name="39 KYON (キョン)" xml:space="preserve">
+  <data name="0039 KYON (キョン)" xml:space="preserve">
     <value>合宿ではずいぶん世話になったな</value>
   </data>
-  <data name="40 KYON (キョン)" xml:space="preserve">
+  <data name="0040 KYON (キョン)" xml:space="preserve">
     <value>長門がいなけりゃ、今頃、世界は
 大変なことになってたな</value>
   </data>
-  <data name="41 NAGATO (長門)" xml:space="preserve">
+  <data name="0041 NAGATO (長門)" xml:space="preserve">
     <value>必要なことをしただけ</value>
   </data>
-  <data name="42 KYON (キョン)" xml:space="preserve">
+  <data name="0042 KYON (キョン)" xml:space="preserve">
     <value>そう言うが、俺たちはみんな感謝
 してるんだ</value>
   </data>
-  <data name="43 NAGATO (長門)" xml:space="preserve">
+  <data name="0043 NAGATO (長門)" xml:space="preserve">
     <value>……そう</value>
   </data>
-  <data name="44 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0044 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>大変な目にもあったが、なかなか
 充実した夏休みだった</value>
   </data>
-  <data name="45 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0045 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>正直、楽しかったと言えなくもない</value>
   </data>
-  <data name="46 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0046 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>こんな無茶苦茶な夏を過ごすのは
 生まれて初めてだったからな</value>
   </data>
-  <data name="47 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0047 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……長門はどうなのだろう？</value>
   </data>
-  <data name="48 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0048 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>この世界に存在してから</value>
   </data>
-  <data name="49 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0049 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そのほとんどをマンションの一室で
 過ごしてきたこの宇宙人は</value>
   </data>
-  <data name="50 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0050 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>人間の、高校１年の夏休みという
 ものをどう感じたのか……</value>
   </data>
-  <data name="51 KYON (キョン)" xml:space="preserve">
+  <data name="0051 KYON (キョン)" xml:space="preserve">
     <value>なあ、長門</value>
   </data>
-  <data name="52 NAGATO (長門)" xml:space="preserve">
+  <data name="0052 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="53 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0053 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>相変わらず長門の視線は本に向け
 られたまま</value>
   </data>
-  <data name="54 KYON (キョン)" xml:space="preserve">
+  <data name="0054 KYON (キョン)" xml:space="preserve">
     <value>夏休み、楽しかったか？</value>
   </data>
-  <data name="55 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0055 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺の質問に、初めて長門はこちらを
 振り返った</value>
   </data>
-  <data name="56 NAGATO (長門)" xml:space="preserve">
+  <data name="0056 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="57 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0057 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そうしてしばらく俺の顔をジーッと
 見つめた後――</value>
   </data>
-  <data name="58 NAGATO (長門)" xml:space="preserve">
+  <data name="0058 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="59 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0059 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>小さくうなずいてみせた</value>
   </data>
 </root>

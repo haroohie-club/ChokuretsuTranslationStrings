@@ -58,94 +58,94 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>ハルヒ、おまえってしょっちゅう
 証拠を求めてくるよな？</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>論より証拠って言葉があるしキョン
 の言ってることっていい加減だもの</value>
   </data>
-  <data name="2 KYON (キョン)" xml:space="preserve">
+  <data name="0002 KYON (キョン)" xml:space="preserve">
     <value>おいおい、ひどい言いようだな</value>
   </data>
-  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
     <value>信用出来る相手だったら、あたしも
 そんなこと言わないわよ</value>
   </data>
-  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
     <value>だって有希やみくるちゃんには
 証拠を出せって言わないでしょ</value>
   </data>
-  <data name="5 KYON (キョン)" xml:space="preserve">
+  <data name="0005 KYON (キョン)" xml:space="preserve">
     <value>そこはかとなくムカつくな、おい</value>
   </data>
-  <data name="6 MIKURU (みくる)" xml:space="preserve">
+  <data name="0006 MIKURU (みくる)" xml:space="preserve">
     <value>証拠って中々集まりませんね</value>
   </data>
-  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
     <value>七不思議の証拠のこと？</value>
   </data>
-  <data name="8 MIKURU (みくる)" xml:space="preserve">
+  <data name="0008 MIKURU (みくる)" xml:space="preserve">
     <value>え……ええ、そうです、怪談話の
 検証の証拠です。もちろん！</value>
   </data>
-  <data name="9 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そんなことはないわ。ちゃんと証拠
 集まってるわよ</value>
   </data>
-  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>デマばっかりってのは気に入らない
 けどね</value>
   </data>
-  <data name="11 MIKURU (みくる)" xml:space="preserve">
+  <data name="0011 MIKURU (みくる)" xml:space="preserve">
     <value>デマ、ですか</value>
   </data>
-  <data name="12 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0012 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうよ。少なくともデマだって解明
 されたわけだし、立派な証拠よ</value>
   </data>
-  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
     <value>でもいい加減、そろそろ本物に巡り
 会いたいわね</value>
   </data>
-  <data name="14 MIKURU (みくる)" xml:space="preserve">
+  <data name="0014 MIKURU (みくる)" xml:space="preserve">
     <value>あたしは本物はイヤですぅぅっ</value>
   </data>
-  <data name="15 NAGATO (長門)" xml:space="preserve">
+  <data name="0015 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
-  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ん？　なにやってんの？</value>
   </data>
-  <data name="17 NAGATO (長門)" xml:space="preserve">
+  <data name="0017 NAGATO (長門)" xml:space="preserve">
     <value>……これ</value>
   </data>
-  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なに、これ？　雑草じゃない</value>
   </data>
-  <data name="19 NAGATO (長門)" xml:space="preserve">
+  <data name="0019 NAGATO (長門)" xml:space="preserve">
     <value>食用には適さない</value>
   </data>
-  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……まあ、あんまり雑草は食べない
 わね。有希も食べちゃだめよ</value>
   </data>
-  <data name="21 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0021 KOIZUMI (古泉)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
     <value>どうしたの？　急に考え込んじゃっ
 て……何かあった？</value>
   </data>
-  <data name="23 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
     <value>いえ、なんでもありません</value>
   </data>
-  <data name="24 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0024 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06……コンピ研の方々に起こった現象
 を、涼宮さんには語れませんね……</value>
   </data>
-  <data name="25 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
     <value>行くわよ、古泉くん。急がなきゃ</value>
   </data>
 </root>

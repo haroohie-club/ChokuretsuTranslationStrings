@@ -58,97 +58,97 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>最近は、ペットボトルにも色々な形
 があるんだな</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ペットボトル？　なによいきなり？</value>
   </data>
-  <data name="2 KYON (キョン)" xml:space="preserve">
+  <data name="0002 KYON (キョン)" xml:space="preserve">
     <value>さっき、買出しに行っただろう？</value>
   </data>
-  <data name="3 KYON (キョン)" xml:space="preserve">
+  <data name="0003 KYON (キョン)" xml:space="preserve">
     <value>コンビニで飲み物の陳列棚を見たん
 だが、角ばってるのやら丸いのやら</value>
   </data>
-  <data name="4 KYON (キョン)" xml:space="preserve">
+  <data name="0004 KYON (キョン)" xml:space="preserve">
     <value>一昔前に比べると、バリエーション
 が増えてきたな、と思ったのさ</value>
   </data>
-  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ペットボトルでさえ進化してるんだ
 から、あんたも頑張りなさい</value>
   </data>
-  <data name="6 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0006 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……まさかペットボトルと比較され
 る日がくるとは思わなかったな</value>
   </data>
-  <data name="7 MIKURU (みくる)" xml:space="preserve">
+  <data name="0007 MIKURU (みくる)" xml:space="preserve">
     <value>ペットボトルのフタって、かたくて
 なかなか開けられませんよね？</value>
   </data>
-  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……そうかしら？
 みくるちゃんだけじゃないの？</value>
   </data>
-  <data name="9 MIKURU (みくる)" xml:space="preserve">
+  <data name="0009 MIKURU (みくる)" xml:space="preserve">
     <value>そ、そうですかぁ？</value>
   </data>
-  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃんらしいといえば、らし
 いけど</value>
   </data>
-  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>一人で生きていくためには、もっと
 たくましくならなきゃだめよ</value>
   </data>
-  <data name="12 MIKURU (みくる)" xml:space="preserve">
+  <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>れ、練習してみますぅ……</value>
   </data>
-  <data name="13 NAGATO (長門)" xml:space="preserve">
+  <data name="0013 NAGATO (長門)" xml:space="preserve">
     <value>ペットボトルの有効活用について
 アイデアを募集していた</value>
   </data>
-  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
     <value>夏休みの工作にでも使うの？　って
 小学生じゃないし、違うわよね</value>
   </data>
-  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有効活用ね……なんか、ロケットに
 して飛ばしたりするらしいけど</value>
   </data>
-  <data name="16 NAGATO (長門)" xml:space="preserve">
+  <data name="0016 NAGATO (長門)" xml:space="preserve">
     <value>圧縮ガスによる噴射飛行</value>
   </data>
-  <data name="17 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>詳しいことは、調べて見なきゃ
 わからないけど、そんな感じのよ</value>
   </data>
-  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね、面白そうだから、今度
 いっしょに、やってみましょう</value>
   </data>
-  <data name="19 NAGATO (長門)" xml:space="preserve">
+  <data name="0019 NAGATO (長門)" xml:space="preserve">
     <value>そう……</value>
   </data>
-  <data name="20 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0020 KOIZUMI (古泉)" xml:space="preserve">
     <value>近頃は、ペットボトルにも色々な
 形のバリエーションがありますね</value>
   </data>
-  <data name="21 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0021 KOIZUMI (古泉)" xml:space="preserve">
     <value>くびれた形のモノや、奇抜なデザイ
 ンのペットボトルを目にします</value>
   </data>
-  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
     <value>別に、ペットボトルに限っての話
 じゃないと思うけど。缶もそうよ</value>
   </data>
-  <data name="23 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0023 HARUHI (ハルヒ)" xml:space="preserve">
     <value>美味しく飲めるのなら、どんな形
 でも文句ないわ</value>
   </data>
-  <data name="24 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0024 KOIZUMI (古泉)" xml:space="preserve">
     <value>そうですね。一番大切なのは、味
 ですからね</value>
   </data>

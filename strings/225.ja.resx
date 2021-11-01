@@ -58,194 +58,194 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>なあ、ウソも方便って言うだろ</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>まあ、言うわね</value>
   </data>
-  <data name="2 KYON (キョン)" xml:space="preserve">
+  <data name="0002 KYON (キョン)" xml:space="preserve">
     <value>ハルヒ、おまえはそれをどう思う？</value>
   </data>
-  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね、悪意からではなくウソを
 つくこと？</value>
   </data>
-  <data name="4 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
     <value>問題ないんじゃないの？</value>
   </data>
-  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>善意のウソだから、ウソついてる
 ことにはならないとか言わないなら</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>そうなのか？</value>
   </data>
-  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
     <value>善意だろうが悪意だろうが、ウソは
 ウソだと思うわ</value>
   </data>
-  <data name="8 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それだったら、バレたら責任取る気
 で正々堂々、ウソつけばいいのよ！</value>
   </data>
-  <data name="9 KYON (キョン)" xml:space="preserve">
+  <data name="0009 KYON (キョン)" xml:space="preserve">
     <value>ウソつくのに正々堂々はないだろう</value>
   </data>
-  <data name="10 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたしハンパは嫌いなの！　ウソ
 つく時は力一杯ついてみせるわよ！</value>
   </data>
-  <data name="11 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0011 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なんでこうキッパリしてるかな</value>
   </data>
-  <data name="12 MIKURU (みくる)" xml:space="preserve">
+  <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>涼宮さん、嘘も方便って言います
 よね？</value>
   </data>
-  <data name="13 MIKURU (みくる)" xml:space="preserve">
+  <data name="0013 MIKURU (みくる)" xml:space="preserve">
     <value>仕方なければ嘘ついてもいいと
 思いますか？</value>
   </data>
-  <data name="14 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
     <value>んー、みくるちゃんは嘘つかない
 方がいいと思うわ</value>
   </data>
-  <data name="15 MIKURU (みくる)" xml:space="preserve">
+  <data name="0015 MIKURU (みくる)" xml:space="preserve">
     <value>ええっ、やっぱり嘘はダメですか？</value>
   </data>
-  <data name="16 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
     <value>違うわ。みくるちゃんはって限定よ</value>
   </data>
-  <data name="17 MIKURU (みくる)" xml:space="preserve">
+  <data name="0017 MIKURU (みくる)" xml:space="preserve">
     <value>あたし限定ですか？</value>
   </data>
-  <data name="18 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
     <value>だって顔に出るでしょ。不審な行動
 も取りそうだしね</value>
   </data>
-  <data name="19 MIKURU (みくる)" xml:space="preserve">
+  <data name="0019 MIKURU (みくる)" xml:space="preserve">
     <value>はぅぅ、そうですね</value>
   </data>
-  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>嘘つくなら大胆に、力一杯相手の
 目を見て堂々と言い切るのよ！</value>
   </data>
-  <data name="21 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
     <value>コツは自分すらだますつもりで、
 真実を言ってると思いこむことね</value>
   </data>
-  <data name="22 MIKURU (みくる)" xml:space="preserve">
+  <data name="0022 MIKURU (みくる)" xml:space="preserve">
     <value>ああっ、いつの間にか嘘の付き方
 講座になってますぅ～</value>
   </data>
-  <data name="23 NAGATO (長門)" xml:space="preserve">
+  <data name="0023 NAGATO (長門)" xml:space="preserve">
     <value>ウソも方便という言葉を聞いた</value>
   </data>
-  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ええ、そうね。真実がいつも正解
 とは限らないもの</value>
   </data>
-  <data name="25 NAGATO (長門)" xml:space="preserve">
+  <data name="0025 NAGATO (長門)" xml:space="preserve">
     <value>正解ではない？</value>
   </data>
-  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
     <value>難しいのよ、人の気持ちって
 思いやりの嘘もあるってことね</value>
   </data>
-  <data name="27 NAGATO (長門)" xml:space="preserve">
+  <data name="0027 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
-  <data name="28 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0028 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希は、ちゃんと嘘がつけなさ
 そうだもの。それにね</value>
   </data>
-  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0029 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そんな人がひとりくらいは
 いなくちゃ面白くないでしょ</value>
   </data>
-  <data name="30 NAGATO (長門)" xml:space="preserve">
+  <data name="0030 NAGATO (長門)" xml:space="preserve">
     <value>……そう</value>
   </data>
-  <data name="31 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0031 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さんはウソをつく人間を
 どう思われますか？</value>
   </data>
-  <data name="32 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
     <value>え？　嘘つきだと思うわよ</value>
   </data>
-  <data name="33 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0033 KOIZUMI (古泉)" xml:space="preserve">
     <value>それは、そのままですね。嘘つきは
 軽蔑なさいますか？</value>
   </data>
-  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0034 KOIZUMI (古泉)" xml:space="preserve">
     <value>たとえばウソも方便と言いますが</value>
   </data>
-  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0035 KOIZUMI (古泉)" xml:space="preserve">
     <value>状況により悪感情は変化するもの
 でしょうか？</value>
   </data>
-  <data name="36 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0036 HARUHI (ハルヒ)" xml:space="preserve">
     <value>何が聞きたいのか判らないけど、</value>
   </data>
-  <data name="37 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0037 HARUHI (ハルヒ)" xml:space="preserve">
     <value>嘘をついたら嘘つきだけど、だから
 って必ずしも軽蔑したりしないわよ</value>
   </data>
-  <data name="38 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0038 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ああ、この人は嘘つきなんだなって
 思うだけ</value>
   </data>
-  <data name="39 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0039 KOIZUMI (古泉)" xml:space="preserve">
     <value>それは、どう考えたらいいの
 でしょう</value>
   </data>
-  <data name="40 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0040 HARUHI (ハルヒ)" xml:space="preserve">
     <value>嘘つきは事実、軽蔑は感情
 ってところよね</value>
   </data>
-  <data name="41 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0041 KOIZUMI (古泉)" xml:space="preserve">
     <value>その通りですね</value>
   </data>
-  <data name="42 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0042 HARUHI (ハルヒ)" xml:space="preserve">
     <value>まあ、その嘘が最低な品性下劣
 なら軽蔑する場合もあるかもね</value>
   </data>
-  <data name="43 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0043 KOIZUMI (古泉)" xml:space="preserve">
     <value>……信頼を傷つける訳ですからね</value>
   </data>
-  <data name="44 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0044 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あのね、古泉くん。人間は嘘つく
 生きものだと思うのよ</value>
   </data>
-  <data name="45 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0045 HARUHI (ハルヒ)" xml:space="preserve">
     <value>古泉くんも、キョンも</value>
   </data>
-  <data name="46 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0046 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希は、んー、嘘つくより話さない
 方を選ぶのかしら</value>
   </data>
-  <data name="47 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0047 HARUHI (ハルヒ)" xml:space="preserve">
     <value>毎日とは言わないけど、ちょっと
 ずつ嘘言いながら暮らしてるはずよ</value>
   </data>
-  <data name="48 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0048 HARUHI (ハルヒ)" xml:space="preserve">
     <value>嘘つきに天から怒りの雷が落ちるん
 なら</value>
   </data>
-  <data name="49 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0049 HARUHI (ハルヒ)" xml:space="preserve">
     <value>いつでもそこら中で雷雨に
 なっちゃうわ</value>
   </data>
-  <data name="50 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0050 KOIZUMI (古泉)" xml:space="preserve">
     <value>はは、そうですね。天罰は受けた
 ことはないですがね</value>
   </data>
-  <data name="51 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0051 HARUHI (ハルヒ)" xml:space="preserve">
     <value>仕方ないのかもね。嘘までついて
 懸命に毎日生きてるのよ</value>
   </data>
-  <data name="52 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0052 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さんには、かないませんね……</value>
   </data>
 </root>

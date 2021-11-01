@@ -58,125 +58,125 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 INFO (インフォ)" xml:space="preserve">
+  <data name="0000 INFO (インフォ)" xml:space="preserve">
     <value>#P04以上で解決パートチュートリアルを
 終了します</value>
   </data>
-  <data name="1 INFO (インフォ)" xml:space="preserve">
+  <data name="0001 INFO (インフォ)" xml:space="preserve">
     <value>#P04本編の解決パートに向けて、以降の
 探索パート中の行動へのヒントを</value>
   </data>
-  <data name="2 INFO (インフォ)" xml:space="preserve">
+  <data name="0002 INFO (インフォ)" xml:space="preserve">
     <value>#P04お伝えします</value>
   </data>
-  <data name="3 INFO (インフォ)" xml:space="preserve">
+  <data name="0003 INFO (インフォ)" xml:space="preserve">
     <value>#P04１：“ハルヒメーター”について</value>
   </data>
-  <data name="4 INFO (インフォ)" xml:space="preserve">
+  <data name="0004 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="5 INFO (インフォ)" xml:space="preserve">
+  <data name="0005 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="6 INFO (インフォ)" xml:space="preserve">
+  <data name="0006 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="7 INFO (インフォ)" xml:space="preserve">
+  <data name="0007 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="8 INFO (インフォ)" xml:space="preserve">
+  <data name="0008 INFO (インフォ)" xml:space="preserve">
     <value>#P04探索パート中の行動で“ハルヒ
 メーター”を増加させておくと</value>
   </data>
-  <data name="9 INFO (インフォ)" xml:space="preserve">
+  <data name="0009 INFO (インフォ)" xml:space="preserve">
     <value>#P04解決パートの基本制限時間に
 ボーナスが追加されます</value>
   </data>
-  <data name="10 INFO (インフォ)" xml:space="preserve">
+  <data name="0010 INFO (インフォ)" xml:space="preserve">
     <value>#P04“ハルヒメーター”は新・七不思議
 の怪奇現象に対する</value>
   </data>
-  <data name="11 INFO (インフォ)" xml:space="preserve">
+  <data name="0011 INFO (インフォ)" xml:space="preserve">
     <value>#P04“涼宮ハルヒの集中度”をどれだけ
 拡散させたかを表しています。</value>
   </data>
-  <data name="12 INFO (インフォ)" xml:space="preserve">
+  <data name="0012 INFO (インフォ)" xml:space="preserve">
     <value>#P04メーターが減少するほど怪奇現象
 に対する興味が高い状態を表し</value>
   </data>
-  <data name="13 INFO (インフォ)" xml:space="preserve">
+  <data name="0013 INFO (インフォ)" xml:space="preserve">
     <value>#P04目的地に早く移動しようとします
 （制限時間ボーナスが減少します）</value>
   </data>
-  <data name="14 INFO (インフォ)" xml:space="preserve">
+  <data name="0014 INFO (インフォ)" xml:space="preserve">
     <value>#P04メーターが増加すると、他の情報に
 興味を奪われている状態を表し</value>
   </data>
-  <data name="15 INFO (インフォ)" xml:space="preserve">
+  <data name="0015 INFO (インフォ)" xml:space="preserve">
     <value>#P04寄り道しやすくなります
 （制限時間ボーナスが増加します）</value>
   </data>
-  <data name="16 INFO (インフォ)" xml:space="preserve">
+  <data name="0016 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="17 INFO (インフォ)" xml:space="preserve">
+  <data name="0017 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="18 INFO (インフォ)" xml:space="preserve">
+  <data name="0018 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="19 INFO (インフォ)" xml:space="preserve">
+  <data name="0019 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="20 INFO (インフォ)" xml:space="preserve">
+  <data name="0020 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="21 INFO (インフォ)" xml:space="preserve">
+  <data name="0021 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="22 INFO (インフォ)" xml:space="preserve">
+  <data name="0022 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="23 INFO (インフォ)" xml:space="preserve">
+  <data name="0023 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="24 INFO (インフォ)" xml:space="preserve">
+  <data name="0024 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="25 INFO (インフォ)" xml:space="preserve">
+  <data name="0025 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="26 INFO (インフォ)" xml:space="preserve">
+  <data name="0026 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="27 INFO (インフォ)" xml:space="preserve">
+  <data name="0027 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="28 INFO (インフォ)" xml:space="preserve">
+  <data name="0028 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="29 INFO (インフォ)" xml:space="preserve">
+  <data name="0029 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="30 INFO (インフォ)" xml:space="preserve">
+  <data name="0030 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="31 INFO (インフォ)" xml:space="preserve">
+  <data name="0031 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="32 INFO (インフォ)" xml:space="preserve">
+  <data name="0032 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="33 INFO (インフォ)" xml:space="preserve">
+  <data name="0033 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="34 INFO (インフォ)" xml:space="preserve">
+  <data name="0034 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="35 INFO (インフォ)" xml:space="preserve">
+  <data name="0035 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
-  <data name="36 INFO (インフォ)" xml:space="preserve">
+  <data name="0036 INFO (インフォ)" xml:space="preserve">
     <value>&#xB;</value>
   </data>
 </root>

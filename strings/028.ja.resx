@@ -58,215 +58,215 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さんの面白話をしてやろう</value>
   </data>
-  <data name="1 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ん、どうぞ</value>
   </data>
-  <data name="2 KYON (キョン)" xml:space="preserve">
+  <data name="0002 KYON (キョン)" xml:space="preserve">
     <value>音楽室の鍵を借りに職員室へ行った
 じゃないか</value>
   </data>
-  <data name="3 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね。古泉くんも一緒だっけ？</value>
   </data>
-  <data name="4 KYON (キョン)" xml:space="preserve">
+  <data name="0004 KYON (キョン)" xml:space="preserve">
     <value>で朝比奈さんが鍵を借りてくれた
 んだが、転んでしまってな</value>
   </data>
-  <data name="5 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あらら、痛そうね</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>ああ、痛そうにしてた、気の毒にな</value>
   </data>
-  <data name="7 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それでどうしたの？　まさかそれ
 だけだなんて言わないわよね？</value>
   </data>
-  <data name="8 KYON (キョン)" xml:space="preserve">
+  <data name="0008 KYON (キョン)" xml:space="preserve">
     <value>大丈夫だ</value>
   </data>
-  <data name="9 KYON (キョン)" xml:space="preserve">
+  <data name="0009 KYON (キョン)" xml:space="preserve">
     <value>凄まなくても、言わないって
 それで、借りた鍵を落としたんだよ</value>
   </data>
-  <data name="10 KYON (キョン)" xml:space="preserve">
+  <data name="0010 KYON (キョン)" xml:space="preserve">
     <value>で、まあ俺と古泉と朝比奈さんで
 探したんだけど、見つからなくて</value>
   </data>
-  <data name="11 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……あ、なーんか、オチが見えて
 きた気がするわ</value>
   </data>
-  <data name="12 KYON (キョン)" xml:space="preserve">
+  <data name="0012 KYON (キョン)" xml:space="preserve">
     <value>結局は……</value>
   </data>
-  <data name="13 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃんが持ってた？</value>
   </data>
-  <data name="14 KYON (キョン)" xml:space="preserve">
+  <data name="0014 KYON (キョン)" xml:space="preserve">
     <value>正解だ。朝比奈さんのポケットに
 入ってたよ</value>
   </data>
-  <data name="15 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あはははっ、さーすがみくるちゃん
 ハズさないわー！</value>
   </data>
-  <data name="16 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0016 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒは立ち止まって笑っている</value>
   </data>
-  <data name="17 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0017 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>中々効果のある足止めだったな</value>
   </data>
-  <data name="18 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0018 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>申し訳ないが、朝比奈さんの
 うっかりに感謝したい</value>
   </data>
-  <data name="19 MIKURU (みくる)" xml:space="preserve">
+  <data name="0019 MIKURU (みくる)" xml:space="preserve">
     <value>あたしまた失敗してしまいました</value>
   </data>
-  <data name="20 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ふーん、みくるちゃん
 今度はどんなドジ？</value>
   </data>
-  <data name="21 MIKURU (みくる)" xml:space="preserve">
+  <data name="0021 MIKURU (みくる)" xml:space="preserve">
     <value>涼宮さん、なんでそんなに楽しそう
 なんですか？</value>
   </data>
-  <data name="22 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
     <value>期待してるから。さあ、話してよ</value>
   </data>
-  <data name="23 MIKURU (みくる)" xml:space="preserve">
+  <data name="0023 MIKURU (みくる)" xml:space="preserve">
     <value>はうっ、ええとですね、音楽室の
 鍵を借りにいったじゃないですかぁ</value>
   </data>
-  <data name="24 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョンと古泉くんと一緒だったわね</value>
   </data>
-  <data name="25 MIKURU (みくる)" xml:space="preserve">
+  <data name="0025 MIKURU (みくる)" xml:space="preserve">
     <value>はい、それであたしが手に持ってて
 廊下で転んでしまったんです</value>
   </data>
-  <data name="26 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それで鍵がなくなったのね？</value>
   </data>
-  <data name="27 MIKURU (みくる)" xml:space="preserve">
+  <data name="0027 MIKURU (みくる)" xml:space="preserve">
     <value>そうなんです</value>
   </data>
-  <data name="28 MIKURU (みくる)" xml:space="preserve">
+  <data name="0028 MIKURU (みくる)" xml:space="preserve">
     <value>どこにいったのかわからなくて
 廊下を全部探したんです</value>
   </data>
-  <data name="29 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0029 HARUHI (ハルヒ)" xml:space="preserve">
     <value>３人がかりで</value>
   </data>
-  <data name="30 MIKURU (みくる)" xml:space="preserve">
+  <data name="0030 MIKURU (みくる)" xml:space="preserve">
     <value>はい、転んでぶつけたお尻は痛いし</value>
   </data>
-  <data name="31 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0031 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それは大変ね。大丈夫なの？</value>
   </data>
-  <data name="32 MIKURU (みくる)" xml:space="preserve">
+  <data name="0032 MIKURU (みくる)" xml:space="preserve">
     <value>あ、さすがにもう痛くないです</value>
   </data>
-  <data name="33 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0033 HARUHI (ハルヒ)" xml:space="preserve">
     <value>んじゃ続きをどうぞ</value>
   </data>
-  <data name="34 MIKURU (みくる)" xml:space="preserve">
+  <data name="0034 MIKURU (みくる)" xml:space="preserve">
     <value>廊下のどこにも鍵が落ちてなくて
 ですね……そうしたら</value>
   </data>
-  <data name="35 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0035 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうしたら？</value>
   </data>
-  <data name="36 MIKURU (みくる)" xml:space="preserve">
+  <data name="0036 MIKURU (みくる)" xml:space="preserve">
     <value>スカートから音が……うううっ</value>
   </data>
-  <data name="37 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0037 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なんと、いつのまにかスカートの
 ポケットに入っていたのね！？</value>
   </data>
-  <data name="38 MIKURU (みくる)" xml:space="preserve">
+  <data name="0038 MIKURU (みくる)" xml:space="preserve">
     <value>はぅぅ……その通りです</value>
   </data>
-  <data name="39 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0039 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あはははっ、みくるちゃんらしくて
 いい感じのお話だったわー</value>
   </data>
-  <data name="40 MIKURU (みくる)" xml:space="preserve">
+  <data name="0040 MIKURU (みくる)" xml:space="preserve">
     <value>ぐすん……あたしらしい……ですか</value>
   </data>
-  <data name="41 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0041 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ごめん、ごめん。涙ぐまないで、ね</value>
   </data>
-  <data name="42 NAGATO (長門)" xml:space="preserve">
+  <data name="0042 NAGATO (長門)" xml:space="preserve">
     <value>朝比奈みくるが失敗した話</value>
   </data>
-  <data name="43 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0043 HARUHI (ハルヒ)" xml:space="preserve">
     <value>へえ、それは興味深いわね</value>
   </data>
-  <data name="44 NAGATO (長門)" xml:space="preserve">
+  <data name="0044 NAGATO (長門)" xml:space="preserve">
     <value>朝比奈みくるは廊下で転んだ</value>
   </data>
-  <data name="45 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0045 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ふんふん、それで？</value>
   </data>
-  <data name="46 NAGATO (長門)" xml:space="preserve">
+  <data name="0046 NAGATO (長門)" xml:space="preserve">
     <value>鍵を落とした。廊下を探したが
 見つからない</value>
   </data>
-  <data name="47 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0047 HARUHI (ハルヒ)" xml:space="preserve">
     <value>はいはい、みくるちゃんらしいわ</value>
   </data>
-  <data name="48 NAGATO (長門)" xml:space="preserve">
+  <data name="0048 NAGATO (長門)" xml:space="preserve">
     <value>鍵は、朝比奈みくるのポケットから
 発見された。落としてはいなかった</value>
   </data>
-  <data name="49 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0049 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……有希はもう少し話す量を増やし
 て</value>
   </data>
-  <data name="50 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0050 HARUHI (ハルヒ)" xml:space="preserve">
     <value>話し方を練習した方がいいかもね</value>
   </data>
-  <data name="51 NAGATO (長門)" xml:space="preserve">
+  <data name="0051 NAGATO (長門)" xml:space="preserve">
     <value>努力する</value>
   </data>
-  <data name="52 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0052 KOIZUMI (古泉)" xml:space="preserve">
     <value>いかにも朝比奈さんらしい
 エピソードがあったのですが</value>
   </data>
-  <data name="53 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0053 HARUHI (ハルヒ)" xml:space="preserve">
     <value>聞かせてちょうだい、古泉くん</value>
   </data>
-  <data name="54 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0054 KOIZUMI (古泉)" xml:space="preserve">
     <value>音楽室の鍵を借りた後に、彼女は
 転んでしまったんです</value>
   </data>
-  <data name="55 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0055 KOIZUMI (古泉)" xml:space="preserve">
     <value>で、鍵を見失ってしまったのですね</value>
   </data>
-  <data name="56 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0056 KOIZUMI (古泉)" xml:space="preserve">
     <value>廊下を探したのですが、どこにも
 見つからない</value>
   </data>
-  <data name="57 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0057 KOIZUMI (古泉)" xml:space="preserve">
     <value>さて、鍵はどこにいったでしょう？</value>
   </data>
-  <data name="58 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0058 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃんの……
 ポケットでしょ？</value>
   </data>
-  <data name="59 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0059 KOIZUMI (古泉)" xml:space="preserve">
     <value>さすがは涼宮さん
 正解です</value>
   </data>
-  <data name="60 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0060 HARUHI (ハルヒ)" xml:space="preserve">
     <value>簡単な推理ね。ヒントはあったもの</value>
   </data>
-  <data name="61 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0061 KOIZUMI (古泉)" xml:space="preserve">
     <value>そうですね。いかにも朝比奈さん
 らしいがヒントでした</value>
   </data>

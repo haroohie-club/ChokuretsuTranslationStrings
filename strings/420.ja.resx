@@ -58,277 +58,277 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KYON (キョン)" xml:space="preserve">
+  <data name="0000 KYON (キョン)" xml:space="preserve">
     <value>なあ、長門</value>
   </data>
-  <data name="1 KYON (キョン)" xml:space="preserve">
+  <data name="0001 KYON (キョン)" xml:space="preserve">
     <value>異空間が発生した原因は
 情報生命体とやらなんだよな？</value>
   </data>
-  <data name="2 NAGATO (長門)" xml:space="preserve">
+  <data name="0002 NAGATO (長門)" xml:space="preserve">
     <value>そう</value>
   </data>
-  <data name="3 KYON (キョン)" xml:space="preserve">
+  <data name="0003 KYON (キョン)" xml:space="preserve">
     <value>前の時は、部長氏のメモリーカード
 の中に潜んでたが……</value>
   </data>
-  <data name="4 KYON (キョン)" xml:space="preserve">
+  <data name="0004 KYON (キョン)" xml:space="preserve">
     <value>だが、今回はそんなのどこにも
 いなかったんじゃないのか？</value>
   </data>
-  <data name="5 NAGATO (長門)" xml:space="preserve">
+  <data name="0005 NAGATO (長門)" xml:space="preserve">
     <value>情報生命体は存在していた</value>
   </data>
-  <data name="6 KYON (キョン)" xml:space="preserve">
+  <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>いた？　どこに？</value>
   </data>
-  <data name="7 KYON (キョン)" xml:space="preserve">
+  <data name="0007 KYON (キョン)" xml:space="preserve">
     <value>もしかしてまたどこかに隠れて
 いるとかか？</value>
   </data>
-  <data name="8 NAGATO (長門)" xml:space="preserve">
+  <data name="0008 NAGATO (長門)" xml:space="preserve">
     <value>この情報生命体は常に
 わたしたちの前にいた</value>
   </data>
-  <data name="9 KYON (キョン)" xml:space="preserve">
+  <data name="0009 KYON (キョン)" xml:space="preserve">
     <value>俺たちの前にいた……？</value>
   </data>
-  <data name="10 NAGATO (長門)" xml:space="preserve">
+  <data name="0010 NAGATO (長門)" xml:space="preserve">
     <value>そもそも、情報生命体とは特定の
 カタチを持つとは限らない</value>
   </data>
-  <data name="11 NAGATO (長門)" xml:space="preserve">
+  <data name="0011 NAGATO (長門)" xml:space="preserve">
     <value>必要なのは、本体の構成情報を
 保存できるだけの記憶領域</value>
   </data>
-  <data name="12 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0012 KOIZUMI (古泉)" xml:space="preserve">
     <value>例えばそれが、人間の脳だったり
 メモリカードなわけですね</value>
   </data>
-  <data name="13 NAGATO (長門)" xml:space="preserve">
+  <data name="0013 NAGATO (長門)" xml:space="preserve">
     <value>自己情報を保存しうる記憶領域を
 確保できなかった場合</value>
   </data>
-  <data name="14 NAGATO (長門)" xml:space="preserve">
+  <data name="0014 NAGATO (長門)" xml:space="preserve">
     <value>例えば、保存可能な容量にまで
 自らの情報を圧縮したり</value>
   </data>
-  <data name="15 NAGATO (長門)" xml:space="preserve">
+  <data name="0015 NAGATO (長門)" xml:space="preserve">
     <value>情報を分割して各所に保存し
 消滅を回避する行為が必要</value>
   </data>
-  <data name="16 NAGATO (長門)" xml:space="preserve">
+  <data name="0016 NAGATO (長門)" xml:space="preserve">
     <value>今回の場合は後者のケース</value>
   </data>
-  <data name="17 KYON (キョン)" xml:space="preserve">
+  <data name="0017 KYON (キョン)" xml:space="preserve">
     <value>つまり、バラバラになっていろんな
 とこにいたってわけか？</value>
   </data>
-  <data name="18 NAGATO (長門)" xml:space="preserve">
+  <data name="0018 NAGATO (長門)" xml:space="preserve">
     <value>正確には、分割し少しずつこちら側
 に侵入しようとしていた</value>
   </data>
-  <data name="19 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0019 KOIZUMI (古泉)" xml:space="preserve">
     <value>こちら側に侵入……？</value>
   </data>
-  <data name="20 NAGATO (長門)" xml:space="preserve">
+  <data name="0020 NAGATO (長門)" xml:space="preserve">
     <value>これ</value>
   </data>
-  <data name="21 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0021 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門が取り出したのは
 どこかで見たオルゴールだった</value>
   </data>
-  <data name="22 KYON (キョン)" xml:space="preserve">
+  <data name="0022 KYON (キョン)" xml:space="preserve">
     <value>それが？</value>
   </data>
-  <data name="23 NAGATO (長門)" xml:space="preserve">
+  <data name="0023 NAGATO (長門)" xml:space="preserve">
     <value>このオルゴールには情報生命体の
 断片情報が刻まれていた</value>
   </data>
-  <data name="24 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0024 KOIZUMI (古泉)" xml:space="preserve">
     <value>つまり、このオルゴールの音こそが
 情報生命体なのですね</value>
   </data>
-  <data name="25 KYON (キョン)" xml:space="preserve">
+  <data name="0025 KYON (キョン)" xml:space="preserve">
     <value>音が……生き物だと？</value>
   </data>
-  <data name="26 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0026 KOIZUMI (古泉)" xml:space="preserve">
     <value>確かに驚くべきことですが
 決して荒唐無稽ではありませんよ</value>
   </data>
-  <data name="27 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0027 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺からすれば、おまえたちの存在
 自体が荒唐無稽なんだがな</value>
   </data>
-  <data name="28 NAGATO (長門)" xml:space="preserve">
+  <data name="0028 NAGATO (長門)" xml:space="preserve">
     <value>情報生命体は音を聞いた者の脳に
 特定の行動を書き込み増殖する</value>
   </data>
-  <data name="29 KYON (キョン)" xml:space="preserve">
+  <data name="0029 KYON (キョン)" xml:space="preserve">
     <value>その行動ってのは……</value>
   </data>
-  <data name="30 NAGATO (長門)" xml:space="preserve">
+  <data name="0030 NAGATO (長門)" xml:space="preserve">
     <value>情報生命体をこの世界に顕在化
 させるための記憶領域の確保</value>
   </data>
-  <data name="31 KYON (キョン)" xml:space="preserve">
+  <data name="0031 KYON (キョン)" xml:space="preserve">
     <value>具体的に、何をさせられるんだ？</value>
   </data>
-  <data name="32 NAGATO (長門)" xml:space="preserve">
+  <data name="0032 NAGATO (長門)" xml:space="preserve">
     <value>楽譜を書く</value>
   </data>
-  <data name="33 KYON (キョン)" xml:space="preserve">
+  <data name="0033 KYON (キョン)" xml:space="preserve">
     <value>楽譜だ……？</value>
   </data>
-  <data name="34 KYON (キョン)" xml:space="preserve">
+  <data name="0034 KYON (キョン)" xml:space="preserve">
     <value>また、えらく地味でアナクロな
 作業だな</value>
   </data>
-  <data name="35 KYON (キョン)" xml:space="preserve">
+  <data name="0035 KYON (キョン)" xml:space="preserve">
     <value>情報生命体とやらは、とんでもなく
 データが大きいんだろ？</value>
   </data>
-  <data name="36 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0036 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>こちらの世界ではまともに動けない
 から圧縮して小さくなったりしてる</value>
   </data>
-  <data name="37 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0037 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そう言ったのは長門だ</value>
   </data>
-  <data name="38 NAGATO (長門)" xml:space="preserve">
+  <data name="0038 NAGATO (長門)" xml:space="preserve">
     <value>楽譜は手段でしかない
 本当の目的はピアノ</value>
   </data>
-  <data name="39 KYON (キョン)" xml:space="preserve">
+  <data name="0039 KYON (キョン)" xml:space="preserve">
     <value>ピアノ？</value>
   </data>
-  <data name="40 NAGATO (長門)" xml:space="preserve">
+  <data name="0040 NAGATO (長門)" xml:space="preserve">
     <value>この世界に来た情報生命体は
 自己保存の手段を探していた</value>
   </data>
-  <data name="41 NAGATO (長門)" xml:space="preserve">
+  <data name="0041 NAGATO (長門)" xml:space="preserve">
     <value>その時、見つけたのが音楽であり
 中でもピアノのメロディだった</value>
   </data>
-  <data name="42 NAGATO (長門)" xml:space="preserve">
+  <data name="0042 NAGATO (長門)" xml:space="preserve">
     <value>８８の鍵盤をインターフェースと
 して音情報を出力するピアノは</value>
   </data>
-  <data name="43 NAGATO (長門)" xml:space="preserve">
+  <data name="0043 NAGATO (長門)" xml:space="preserve">
     <value>情報生命体の性質に適合していた</value>
   </data>
-  <data name="44 KYON (キョン)" xml:space="preserve">
+  <data name="0044 KYON (キョン)" xml:space="preserve">
     <value>よくわからんが、ピアノを演奏して
 情報生命体を呼び出すために</value>
   </data>
-  <data name="45 KYON (キョン)" xml:space="preserve">
+  <data name="0045 KYON (キョン)" xml:space="preserve">
     <value>コンピ研の部員は楽譜を書かされ
 てたってわけか</value>
   </data>
-  <data name="46 NAGATO (長門)" xml:space="preserve">
+  <data name="0046 NAGATO (長門)" xml:space="preserve">
     <value>そう</value>
   </data>
-  <data name="47 KYON (キョン)" xml:space="preserve">
+  <data name="0047 KYON (キョン)" xml:space="preserve">
     <value>じゃあ、楽譜が完成してたら……</value>
   </data>
-  <data name="48 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0048 KOIZUMI (古泉)" xml:space="preserve">
     <value>後は演奏するだけで情報生命体は
 この世界に顕在化するはず</value>
   </data>
-  <data name="49 KYON (キョン)" xml:space="preserve">
+  <data name="0049 KYON (キョン)" xml:space="preserve">
     <value>なんてこった……</value>
   </data>
-  <data name="50 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0050 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>今になって、とんでもないことに
 なっていたことが分かった</value>
   </data>
-  <data name="51 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0051 KOIZUMI (古泉)" xml:space="preserve">
     <value>ただ、ひとつ気になったのですが</value>
   </data>
-  <data name="52 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0052 KOIZUMI (古泉)" xml:space="preserve">
     <value>もしかして、演奏する際、一音たり
 とも間違えてはいけないのでは？</value>
   </data>
-  <data name="53 NAGATO (長門)" xml:space="preserve">
+  <data name="0053 NAGATO (長門)" xml:space="preserve">
     <value>そう</value>
   </data>
-  <data name="54 KYON (キョン)" xml:space="preserve">
+  <data name="0054 KYON (キョン)" xml:space="preserve">
     <value>あの分厚い楽譜を、一音も間違えず
 演奏し続ける？</value>
   </data>
-  <data name="55 KYON (キョン)" xml:space="preserve">
+  <data name="0055 KYON (キョン)" xml:space="preserve">
     <value>そんなの無理に決まってるだろ</value>
   </data>
-  <data name="56 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0056 KOIZUMI (古泉)" xml:space="preserve">
     <value>人間には……ですね</value>
   </data>
-  <data name="57 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0057 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>人間には無理ってどういうことだ？</value>
   </data>
-  <data name="58 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0058 KOIZUMI (古泉)" xml:space="preserve">
     <value>そこで涼宮さんです</value>
   </data>
-  <data name="59 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0059 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さんは、ピアノがひとりでに
 鳴り出すことを望んでいた</value>
   </data>
-  <data name="60 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0060 KOIZUMI (古泉)" xml:space="preserve">
     <value>その願望が、ピアノを擬似的な
 生物にしてしまったのでしょう</value>
   </data>
-  <data name="61 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0061 KOIZUMI (古泉)" xml:space="preserve">
     <value>自ら演奏するピアノ</value>
   </data>
-  <data name="62 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0062 KOIZUMI (古泉)" xml:space="preserve">
     <value>演奏されることで顕在化できる
 音の情報生命体</value>
   </data>
-  <data name="63 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0063 KOIZUMI (古泉)" xml:space="preserve">
     <value>こう条件が揃えば、起ることは
 ひとつしかありませんよ</value>
   </data>
-  <data name="64 KYON (キョン)" xml:space="preserve">
+  <data name="0064 KYON (キョン)" xml:space="preserve">
     <value>なるほど……な</value>
   </data>
-  <data name="65 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0065 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>真相は分かったが、音だけに
 なんともつかみ所のない話だ</value>
   </data>
-  <data name="66 KYON (キョン)" xml:space="preserve">
+  <data name="0066 KYON (キョン)" xml:space="preserve">
     <value>って、ちょっと待った</value>
   </data>
-  <data name="67 KYON (キョン)" xml:space="preserve">
+  <data name="0067 KYON (キョン)" xml:space="preserve">
     <value>メロディを聴いた人間は
 他にもいるんじゃないか？</value>
   </data>
-  <data name="68 NAGATO (長門)" xml:space="preserve">
+  <data name="0068 NAGATO (長門)" xml:space="preserve">
     <value>いる</value>
   </data>
-  <data name="69 KYON (キョン)" xml:space="preserve">
+  <data name="0069 KYON (キョン)" xml:space="preserve">
     <value>何人くらいだ？</value>
   </data>
-  <data name="70 NAGATO (長門)" xml:space="preserve">
+  <data name="0070 NAGATO (長門)" xml:space="preserve">
     <value>現時点では６名</value>
   </data>
-  <data name="71 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0071 KOIZUMI (古泉)" xml:space="preserve">
     <value>そのうち何人かは軽音部の方々
 でしょうね</value>
   </data>
-  <data name="72 KYON (キョン)" xml:space="preserve">
+  <data name="0072 KYON (キョン)" xml:space="preserve">
     <value>もしかして、そいつらのとこへも
 行かないといけないのか？</value>
   </data>
-  <data name="73 NAGATO (長門)" xml:space="preserve">
+  <data name="0073 NAGATO (長門)" xml:space="preserve">
     <value>大丈夫</value>
   </data>
-  <data name="74 NAGATO (長門)" xml:space="preserve">
+  <data name="0074 NAGATO (長門)" xml:space="preserve">
     <value>情報生命体の行動プログラムは
 数日で効力を失う</value>
   </data>
-  <data name="75 KYON (キョン)" xml:space="preserve">
+  <data name="0075 KYON (キョン)" xml:space="preserve">
     <value>放っておいても平気ってことか</value>
   </data>
-  <data name="76 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0076 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>それを聞いて少し安心したよ</value>
   </data>
 </root>

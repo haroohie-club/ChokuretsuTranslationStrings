@@ -58,66 +58,66 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 MIKURU (みくる)" xml:space="preserve">
+  <data name="0000 MIKURU (みくる)" xml:space="preserve">
     <value>&#x10;</value>
   </data>
-  <data name="1 MIKURU (みくる)" xml:space="preserve">
+  <data name="0001 MIKURU (みくる)" xml:space="preserve">
     <value>それじゃ始めましょうか</value>
   </data>
-  <data name="2 INFO (インフォ)" xml:space="preserve">
+  <data name="0002 INFO (インフォ)" xml:space="preserve">
     <value>ここからは“コンビネーション”の
 テクニックを説明していきます</value>
   </data>
-  <data name="3 INFO (インフォ)" xml:space="preserve">
+  <data name="0003 INFO (インフォ)" xml:space="preserve">
     <value>まずは“フォーク”についてです</value>
   </data>
-  <data name="4 INFO (インフォ)" xml:space="preserve">
+  <data name="0004 INFO (インフォ)" xml:space="preserve">
     <value>“フォーク”とは『１つの駒で２つ
 以上の駒を同時に攻撃』する</value>
   </data>
-  <data name="5 INFO (インフォ)" xml:space="preserve">
+  <data name="0005 INFO (インフォ)" xml:space="preserve">
     <value>テクニックです</value>
   </data>
-  <data name="6 INFO (インフォ)" xml:space="preserve">
+  <data name="0006 INFO (インフォ)" xml:space="preserve">
     <value>下画面では“ナイト”１駒で
 “キング”と“クイーン”の</value>
   </data>
-  <data name="7 INFO (インフォ)" xml:space="preserve">
+  <data name="0007 INFO (インフォ)" xml:space="preserve">
     <value>両方を攻撃しています</value>
   </data>
-  <data name="8 INFO (インフォ)" xml:space="preserve">
+  <data name="0008 INFO (インフォ)" xml:space="preserve">
     <value>チェスでは基本的に一度に１つの駒
 しか動かせませんので、どちらか</value>
   </data>
-  <data name="9 INFO (インフォ)" xml:space="preserve">
+  <data name="0009 INFO (インフォ)" xml:space="preserve">
     <value>片方は確実に取る事が出来ます</value>
   </data>
-  <data name="10 INFO (インフォ)" xml:space="preserve">
+  <data name="0010 INFO (インフォ)" xml:space="preserve">
     <value>“フォーク”はどの駒でも行う事が
 可能ですが、良く使われるのは</value>
   </data>
-  <data name="11 INFO (インフォ)" xml:space="preserve">
+  <data name="0011 INFO (インフォ)" xml:space="preserve">
     <value>“ナイト”や“ポーン”
 “クイーン”です</value>
   </data>
-  <data name="12 INFO (インフォ)" xml:space="preserve">
+  <data name="0012 INFO (インフォ)" xml:space="preserve">
     <value>では実際にやってみましょう</value>
   </data>
-  <data name="13 INFO (インフォ)" xml:space="preserve">
+  <data name="0013 INFO (インフォ)" xml:space="preserve">
     <value>“フォーク”で“ルーク”を
 取ってください</value>
   </data>
-  <data name="14 MIKURU (みくる)" xml:space="preserve">
+  <data name="0014 MIKURU (みくる)" xml:space="preserve">
     <value>正解です、キョンくん</value>
   </data>
-  <data name="15 MIKURU (みくる)" xml:space="preserve">
+  <data name="0015 MIKURU (みくる)" xml:space="preserve">
     <value>残念です、違ったみたいですね
 もう一度挑戦してみてください</value>
   </data>
-  <data name="16 MIKURU (みくる)" xml:space="preserve">
+  <data name="0016 MIKURU (みくる)" xml:space="preserve">
     <value>“駒得”出来なかったみたいです</value>
   </data>
-  <data name="17 MIKURU (みくる)" xml:space="preserve">
+  <data name="0017 MIKURU (みくる)" xml:space="preserve">
     <value>駒同士の得点に気をつけてみて
 くださいね</value>
   </data>

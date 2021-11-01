@@ -58,159 +58,159 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0000 KOIZUMI (古泉)" xml:space="preserve">
     <value>&#x1A;</value>
   </data>
-  <data name="1 KYON (キョン)" xml:space="preserve">
+  <data name="0001 KYON (キョン)" xml:space="preserve">
     <value>……それで？　話の続きは？</value>
   </data>
-  <data name="2 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0002 KOIZUMI (古泉)" xml:space="preserve">
     <value>続き、といいますと？</value>
   </data>
-  <data name="3 KYON (キョン)" xml:space="preserve">
+  <data name="0003 KYON (キョン)" xml:space="preserve">
     <value>とぼけるな。さっきは、どうして
 俺を止めたんだ</value>
   </data>
-  <data name="4 KYON (キョン)" xml:space="preserve">
+  <data name="0004 KYON (キョン)" xml:space="preserve">
     <value>理由をまだ、最後まで聞いてないぞ</value>
   </data>
-  <data name="5 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0005 KOIZUMI (古泉)" xml:space="preserve">
     <value>ああ、そうでした。これは失礼</value>
   </data>
-  <data name="6 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0006 KOIZUMI (古泉)" xml:space="preserve">
     <value>僕はただ、こう思っただけなんです</value>
   </data>
-  <data name="7 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0007 KOIZUMI (古泉)" xml:space="preserve">
     <value>果たして、涼宮さんが他人の言葉に
 説得されるような方だろうか……と</value>
   </data>
-  <data name="8 KYON (キョン)" xml:space="preserve">
+  <data name="0008 KYON (キョン)" xml:space="preserve">
     <value>……どういうことだ？</value>
   </data>
-  <data name="9 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0009 KOIZUMI (古泉)" xml:space="preserve">
     <value>まだ短いお付き合いではありますが
 僕なりに、涼宮さんを分析しました</value>
   </data>
-  <data name="10 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0010 KOIZUMI (古泉)" xml:space="preserve">
     <value>彼女は、どちらかと言えば、自身で
 物事を解決したいタイプかと</value>
   </data>
-  <data name="11 KYON (キョン)" xml:space="preserve">
+  <data name="0011 KYON (キョン)" xml:space="preserve">
     <value>まあ、そうかもな</value>
   </data>
-  <data name="12 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0012 KOIZUMI (古泉)" xml:space="preserve">
     <value>だとすれば、こちらから結論を押し
 つけても逆効果ではありませんか？</value>
   </data>
-  <data name="13 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0013 KOIZUMI (古泉)" xml:space="preserve">
     <value>彼女自身が判断材料を見つけ、推理
 を組み立て、結論を導く……</value>
   </data>
-  <data name="14 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0014 KOIZUMI (古泉)" xml:space="preserve">
     <value>そうすることで、初めて涼宮さんは
 納得するのではないでしょうか？</value>
   </data>
-  <data name="15 KYON (キョン)" xml:space="preserve">
+  <data name="0015 KYON (キョン)" xml:space="preserve">
     <value>長ったらしく言うな。要するに自分
 の結論以外は却下だってコトだろう</value>
   </data>
-  <data name="16 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0016 KOIZUMI (古泉)" xml:space="preserve">
     <value>そこまで言い切る度胸は、僕には
 ありません</value>
   </data>
-  <data name="17 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0017 KOIZUMI (古泉)" xml:space="preserve">
     <value>なにせ、小心者なのでね</value>
   </data>
-  <data name="18 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0018 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>心にもないことを言いやがる</value>
   </data>
-  <data name="19 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0019 KOIZUMI (古泉)" xml:space="preserve">
     <value>&#x1A;</value>
   </data>
-  <data name="20 MIKURU (みくる)" xml:space="preserve">
+  <data name="0020 MIKURU (みくる)" xml:space="preserve">
     <value>あのう……それって、逆も成り立ち
 ませんか？</value>
   </data>
-  <data name="21 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0021 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>不意に、朝比奈さんが手を挙げた
 逆が成り立つ？　どういうことだ？</value>
   </data>
-  <data name="22 MIKURU (みくる)" xml:space="preserve">
+  <data name="0022 MIKURU (みくる)" xml:space="preserve">
     <value>えっと、例えば涼宮さんが納得でき
 るように、こちらから誘導するとか</value>
   </data>
-  <data name="23 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
     <value>同じことを、僕も考えていました</value>
   </data>
-  <data name="24 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0024 KOIZUMI (古泉)" xml:space="preserve">
     <value>例え、我々が用意した“インチキ”
 であっても、彼女が納得すればいい</value>
   </data>
-  <data name="25 KYON (キョン)" xml:space="preserve">
+  <data name="0025 KYON (キョン)" xml:space="preserve">
     <value>……それらしい“証拠”を、ハルヒ
 の前にチラつかせるってことか？</value>
   </data>
-  <data name="26 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0026 KOIZUMI (古泉)" xml:space="preserve">
     <value>それも一つの手段かと思います</value>
   </data>
-  <data name="27 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0027 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>一つの手段、ね……</value>
   </data>
-  <data name="28 KYON (キョン)" xml:space="preserve">
+  <data name="0028 KYON (キョン)" xml:space="preserve">
     <value>長門、オマエはどう思う？</value>
   </data>
-  <data name="29 MIKURU (みくる)" xml:space="preserve">
+  <data name="0029 MIKURU (みくる)" xml:space="preserve">
     <value>&#x1A;</value>
   </data>
-  <data name="30 NAGATO (長門)" xml:space="preserve">
+  <data name="0030 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
-  <data name="31 KYON (キョン)" xml:space="preserve">
+  <data name="0031 KYON (キョン)" xml:space="preserve">
     <value>意見の一つくらい、あるだろう？</value>
   </data>
-  <data name="32 NAGATO (長門)" xml:space="preserve">
+  <data name="0032 NAGATO (長門)" xml:space="preserve">
     <value>涼宮ハルヒの決定が結論になる
 その過程は問題にならない</value>
   </data>
-  <data name="33 NAGATO (長門)" xml:space="preserve">
+  <data name="0033 NAGATO (長門)" xml:space="preserve">
     <value>……だから、誘導は効果的</value>
   </data>
-  <data name="34 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0034 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>つまり、長門は古泉や朝比奈さん
 と同じ意見だってことだな</value>
   </data>
-  <data name="35 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0035 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さんの推理を誘導するために
 随所に、手がかりを配置する……</value>
   </data>
-  <data name="36 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0036 KOIZUMI (古泉)" xml:space="preserve">
     <value>おそらく、高度なチームプレイが
 要求されるでしょうね</value>
   </data>
-  <data name="37 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0037 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>だろうな。個人で出来ることなんて
 たかが知れてる。協力が必要だ</value>
   </data>
-  <data name="38 KYON (キョン)" xml:space="preserve">
+  <data name="0038 KYON (キョン)" xml:space="preserve">
     <value>よし、じゃあそのセンで行くとして
 まずは……どうする？</value>
   </data>
-  <data name="39 NAGATO (長門)" xml:space="preserve">
+  <data name="0039 NAGATO (長門)" xml:space="preserve">
     <value>情報の共有が最優先</value>
   </data>
-  <data name="40 NAGATO (長門)" xml:space="preserve">
+  <data name="0040 NAGATO (長門)" xml:space="preserve">
     <value>対応策を全員が知っておくことが
 必要</value>
   </data>
-  <data name="41 KYON (キョン)" xml:space="preserve">
+  <data name="0041 KYON (キョン)" xml:space="preserve">
     <value>そうだな。さっきの調査で手に入れ
 た“手がかり”を共有しておこう</value>
   </data>
-  <data name="42 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0042 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺の知らない何かを、他の誰かが
 知っているかもしれない</value>
   </data>
-  <data name="43 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0043 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺たちは、互いに知りえた情報を
 速やかに交換しあった……</value>
   </data>

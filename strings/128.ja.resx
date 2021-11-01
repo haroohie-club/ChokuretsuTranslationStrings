@@ -58,133 +58,133 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0000 KOIZUMI (古泉)" xml:space="preserve">
     <value>&#x10;</value>
   </data>
-  <data name="1 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0001 KOIZUMI (古泉)" xml:space="preserve">
     <value>ではこれからチェスのルールを
 説明して行きましょう</value>
   </data>
-  <data name="2 INFO (インフォ)" xml:space="preserve">
+  <data name="0002 INFO (インフォ)" xml:space="preserve">
     <value>“チェスモード”の遊び方に関して
 説明をします</value>
   </data>
-  <data name="3 INFO (インフォ)" xml:space="preserve">
+  <data name="0003 INFO (インフォ)" xml:space="preserve">
     <value>このモードでは各キャラクターの
 提示する“詰めチェス"問題を</value>
   </data>
-  <data name="4 INFO (インフォ)" xml:space="preserve">
+  <data name="0004 INFO (インフォ)" xml:space="preserve">
     <value>解いていく事が目的になります</value>
   </data>
-  <data name="5 INFO (インフォ)" xml:space="preserve">
+  <data name="0005 INFO (インフォ)" xml:space="preserve">
     <value>問題を提示するのは、古泉一樹、朝
 比奈みくる、鶴屋さん、長門有希</value>
   </data>
-  <data name="6 INFO (インフォ)" xml:space="preserve">
+  <data name="0006 INFO (インフォ)" xml:space="preserve">
     <value>涼宮ハルヒの５名です
 古泉一樹と朝比奈みくるは最初から</value>
   </data>
-  <data name="7 INFO (インフォ)" xml:space="preserve">
+  <data name="0007 INFO (インフォ)" xml:space="preserve">
     <value>選択できますが、鶴屋さん以降の
 ３名は他のキャラクターが提示する</value>
   </data>
-  <data name="8 INFO (インフォ)" xml:space="preserve">
+  <data name="0008 INFO (インフォ)" xml:space="preserve">
     <value>問題を一定以上解かないと選択出来
 ません</value>
   </data>
-  <data name="9 INFO (インフォ)" xml:space="preserve">
+  <data name="0009 INFO (インフォ)" xml:space="preserve">
     <value>朝比奈みくるの問題を解くと鶴屋さ
 んが選択可能になり、鶴屋さんの</value>
   </data>
-  <data name="10 INFO (インフォ)" xml:space="preserve">
+  <data name="0010 INFO (インフォ)" xml:space="preserve">
     <value>問題を解くと長門有希が、長門有希
 の問題を解くと涼宮ハルヒが</value>
   </data>
-  <data name="11 INFO (インフォ)" xml:space="preserve">
+  <data name="0011 INFO (インフォ)" xml:space="preserve">
     <value>それぞれ選択可能になります</value>
   </data>
-  <data name="12 INFO (インフォ)" xml:space="preserve">
+  <data name="0012 INFO (インフォ)" xml:space="preserve">
     <value>全キャラクターの問題を全て解くと
 専用イベント絵が入手出来ますので</value>
   </data>
-  <data name="13 INFO (インフォ)" xml:space="preserve">
+  <data name="0013 INFO (インフォ)" xml:space="preserve">
     <value>頑張ってください</value>
   </data>
-  <data name="14 INFO (インフォ)" xml:space="preserve">
+  <data name="0014 INFO (インフォ)" xml:space="preserve">
     <value>“詰めチェス”の内容は、大きく
 分けて２種類あります</value>
   </data>
-  <data name="15 INFO (インフォ)" xml:space="preserve">
+  <data name="0015 INFO (インフォ)" xml:space="preserve">
     <value>１つは『指定された手数で黒の“キ
 ング”を“チェックメイト”するの</value>
   </data>
-  <data name="16 INFO (インフォ)" xml:space="preserve">
+  <data name="0016 INFO (インフォ)" xml:space="preserve">
     <value>が目的です。盤面の状況をよく観察
 して指定手数でチェックメイトする</value>
   </data>
-  <data name="17 INFO (インフォ)" xml:space="preserve">
+  <data name="0017 INFO (インフォ)" xml:space="preserve">
     <value>ように駒を動かしてください。中に
 は制限時間がある問題もあります</value>
   </data>
-  <data name="18 INFO (インフォ)" xml:space="preserve">
+  <data name="0018 INFO (インフォ)" xml:space="preserve">
     <value>２つ目は『黒の“キング”を“チェ
 ックメイト”されている所に置く』</value>
   </data>
-  <data name="19 INFO (インフォ)" xml:space="preserve">
+  <data name="0019 INFO (インフォ)" xml:space="preserve">
     <value>という内容です。</value>
   </data>
-  <data name="20 INFO (インフォ)" xml:space="preserve">
+  <data name="0020 INFO (インフォ)" xml:space="preserve">
     <value>盤面を良く観察して、ここだと思う
 マスをタッチします</value>
   </data>
-  <data name="21 INFO (インフォ)" xml:space="preserve">
+  <data name="0021 INFO (インフォ)" xml:space="preserve">
     <value>そのマスに黒の“キング”が置かれ
 “チェックメイト”されていたら</value>
   </data>
-  <data name="22 INFO (インフォ)" xml:space="preserve">
+  <data name="0022 INFO (インフォ)" xml:space="preserve">
     <value>正解です、そうでない場合には失敗
 となります</value>
   </data>
-  <data name="23 INFO (インフォ)" xml:space="preserve">
+  <data name="0023 INFO (インフォ)" xml:space="preserve">
     <value>こちらも制限時間のある問題がある
 場合があります</value>
   </data>
-  <data name="24 INFO (インフォ)" xml:space="preserve">
+  <data name="0024 INFO (インフォ)" xml:space="preserve">
     <value>では実際に“詰めチェス”を何問か
 解いてみてください</value>
   </data>
-  <data name="25 INFO (インフォ)" xml:space="preserve">
+  <data name="0025 INFO (インフォ)" xml:space="preserve">
     <value>簡単な問題を用意しましたので、今
 までの説明を思い出して気楽に挑戦</value>
   </data>
-  <data name="26 INFO (インフォ)" xml:space="preserve">
+  <data name="0026 INFO (インフォ)" xml:space="preserve">
     <value>してみてください</value>
   </data>
-  <data name="27 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0027 KOIZUMI (古泉)" xml:space="preserve">
     <value>では始めましょう</value>
   </data>
-  <data name="28 INFO (インフォ)" xml:space="preserve">
+  <data name="0028 INFO (インフォ)" xml:space="preserve">
     <value>１手で“チェックメイト”
 してください</value>
   </data>
-  <data name="29 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0029 KOIZUMI (古泉)" xml:space="preserve">
     <value>正解です、さすがですね</value>
   </data>
-  <data name="30 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0030 KOIZUMI (古泉)" xml:space="preserve">
     <value>残念、違いましたね
 もう一度挑戦してみてください</value>
   </data>
-  <data name="31 INFO (インフォ)" xml:space="preserve">
+  <data name="0031 INFO (インフォ)" xml:space="preserve">
     <value>チェスのルールが判らなくなってし
 まった場合はもう一度１問目から</value>
   </data>
-  <data name="32 INFO (インフォ)" xml:space="preserve">
+  <data name="0032 INFO (インフォ)" xml:space="preserve">
     <value>説明を読み返してみてください</value>
   </data>
-  <data name="33 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0033 KOIZUMI (古泉)" xml:space="preserve">
     <value>&#x10;</value>
   </data>
-  <data name="34 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0034 KOIZUMI (古泉)" xml:space="preserve">
     <value>&#x10;</value>
   </data>
 </root>

@@ -58,48 +58,48 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0000 TSURUYA (鶴屋)" xml:space="preserve">
     <value>&#xF;</value>
   </data>
-  <data name="1 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0001 TSURUYA (鶴屋)" xml:space="preserve">
     <value>おめでとう、キョンくん！
 なかなかやるねぇ</value>
   </data>
-  <data name="2 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0002 TSURUYA (鶴屋)" xml:space="preserve">
     <value>こんなに簡単にクリアされるとは
 思ってもみなかったよ</value>
   </data>
-  <data name="3 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0003 TSURUYA (鶴屋)" xml:space="preserve">
     <value>それではチェスの説明を
 開始しましょう　（仮）</value>
   </data>
-  <data name="4 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0004 TSURUYA (鶴屋)" xml:space="preserve">
     <value>では問題です</value>
   </data>
-  <data name="5 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0005 TSURUYA (鶴屋)" xml:space="preserve">
     <value>ルークを動かしてみてください
 （仮）</value>
   </data>
-  <data name="6 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0006 TSURUYA (鶴屋)" xml:space="preserve">
     <value>ルークの動き方は判りましたか？
 （仮）</value>
   </data>
-  <data name="7 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0007 TSURUYA (鶴屋)" xml:space="preserve">
     <value>次の問題に行きましょう
 （仮）</value>
   </data>
-  <data name="8 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0008 TSURUYA (鶴屋)" xml:space="preserve">
     <value>残念、違いましたね　（仮）</value>
   </data>
-  <data name="9 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0009 TSURUYA (鶴屋)" xml:space="preserve">
     <value>もう一度挑戦してみてください
 （仮）</value>
   </data>
-  <data name="10 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0010 TSURUYA (鶴屋)" xml:space="preserve">
     <value>“駒得”出来なかったようですね
 　（仮）</value>
   </data>
-  <data name="11 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0011 TSURUYA (鶴屋)" xml:space="preserve">
     <value>ポイントの高い駒を奪われない様に
 気をつけてください　（仮）</value>
   </data>

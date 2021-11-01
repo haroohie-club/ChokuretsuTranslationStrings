@@ -58,91 +58,91 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0 MIKURU (みくる)" xml:space="preserve">
+  <data name="0000 MIKURU (みくる)" xml:space="preserve">
     <value>&#x10;</value>
   </data>
-  <data name="1 MIKURU (みくる)" xml:space="preserve">
+  <data name="0001 MIKURU (みくる)" xml:space="preserve">
     <value>それじゃ始めましょうか</value>
   </data>
-  <data name="2 INFO (インフォ)" xml:space="preserve">
+  <data name="0002 INFO (インフォ)" xml:space="preserve">
     <value>次は“ピン”について説明します</value>
   </data>
-  <data name="3 INFO (インフォ)" xml:space="preserve">
+  <data name="0003 INFO (インフォ)" xml:space="preserve">
     <value>“ピン”とは“クイーン”や“ビ
 ショップ”“ルーク”の</value>
   </data>
-  <data name="4 INFO (インフォ)" xml:space="preserve">
+  <data name="0004 INFO (インフォ)" xml:space="preserve">
     <value>直線上に移動可能な駒が使用できる
 テクニックです</value>
   </data>
-  <data name="5 INFO (インフォ)" xml:space="preserve">
+  <data name="0005 INFO (インフォ)" xml:space="preserve">
     <value>具体的には『縦横斜めの直線上に
 相手の１駒を挟んで“キング”や</value>
   </data>
-  <data name="6 INFO (インフォ)" xml:space="preserve">
+  <data name="0006 INFO (インフォ)" xml:space="preserve">
     <value>“クイーン”、“ルーク”を捕らえ
 ている状態』を指します</value>
   </data>
-  <data name="7 INFO (インフォ)" xml:space="preserve">
+  <data name="0007 INFO (インフォ)" xml:space="preserve">
     <value>つまり、挟まれている駒が動くと
 “キング”“クイーン”“ルーク”</value>
   </data>
-  <data name="8 INFO (インフォ)" xml:space="preserve">
+  <data name="0008 INFO (インフォ)" xml:space="preserve">
     <value>が取られてしまうために『動くこと
 が出来ない』状態を作り出すテク</value>
   </data>
-  <data name="9 INFO (インフォ)" xml:space="preserve">
+  <data name="0009 INFO (インフォ)" xml:space="preserve">
     <value>ニックです
 下画面で説明しましょう</value>
   </data>
-  <data name="10 INFO (インフォ)" xml:space="preserve">
+  <data name="0010 INFO (インフォ)" xml:space="preserve">
     <value>白の“ルーク”の直線上に“ビ
 ショップ”を挟んで“キング”が</value>
   </data>
-  <data name="11 INFO (インフォ)" xml:space="preserve">
+  <data name="0011 INFO (インフォ)" xml:space="preserve">
     <value>いるため、“ビショップ”は動く
 ことが出来ません</value>
   </data>
-  <data name="12 INFO (インフォ)" xml:space="preserve">
+  <data name="0012 INFO (インフォ)" xml:space="preserve">
     <value>少し局面を変えてみます</value>
   </data>
-  <data name="13 INFO (インフォ)" xml:space="preserve">
+  <data name="0013 INFO (インフォ)" xml:space="preserve">
     <value>今度も“ビショップ”は動けません
 が、“ポーン”がいる為“ルーク”</value>
   </data>
-  <data name="14 INFO (インフォ)" xml:space="preserve">
+  <data name="0014 INFO (インフォ)" xml:space="preserve">
     <value>で取る事が出来ません</value>
   </data>
-  <data name="15 INFO (インフォ)" xml:space="preserve">
+  <data name="0015 INFO (インフォ)" xml:space="preserve">
     <value>白の“ビショップ”で同じように
 “ポーン”を“ピン”することで</value>
   </data>
-  <data name="16 INFO (インフォ)" xml:space="preserve">
+  <data name="0016 INFO (インフォ)" xml:space="preserve">
     <value>“ルーク”が黒の“ビショップ”
 を取ることが出来るようになります</value>
   </data>
-  <data name="17 INFO (インフォ)" xml:space="preserve">
+  <data name="0017 INFO (インフォ)" xml:space="preserve">
     <value>このように『敵の駒を動けなくす
 る』有効なテクニックです</value>
   </data>
-  <data name="18 INFO (インフォ)" xml:space="preserve">
+  <data name="0018 INFO (インフォ)" xml:space="preserve">
     <value>では実際にやってみましょう</value>
   </data>
-  <data name="19 INFO (インフォ)" xml:space="preserve">
+  <data name="0019 INFO (インフォ)" xml:space="preserve">
     <value>２手で“ビショップ”を取って
 ください</value>
   </data>
-  <data name="20 MIKURU (みくる)" xml:space="preserve">
+  <data name="0020 MIKURU (みくる)" xml:space="preserve">
     <value>正解です、キョンくん</value>
   </data>
-  <data name="21 MIKURU (みくる)" xml:space="preserve">
+  <data name="0021 MIKURU (みくる)" xml:space="preserve">
     <value>残念です、違ったみたいですね
 もう一度挑戦してみてください</value>
   </data>
-  <data name="22 MIKURU (みくる)" xml:space="preserve">
+  <data name="0022 MIKURU (みくる)" xml:space="preserve">
     <value>“駒得”出来なかったみたいです</value>
   </data>
-  <data name="23 MIKURU (みくる)" xml:space="preserve">
+  <data name="0023 MIKURU (みくる)" xml:space="preserve">
     <value>駒同士の得点に気をつけてみて
 くださいね</value>
   </data>
