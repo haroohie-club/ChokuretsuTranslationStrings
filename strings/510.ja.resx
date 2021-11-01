@@ -97,9 +97,6 @@
   <data name="0010 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>とりあえず昇降口に向かおう</value>
   </data>
-  <data name="0011 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0012 KYON (キョン)" xml:space="preserve">
     <value>早いな、古泉</value>
   </data>
@@ -312,12 +309,6 @@
   <data name="0070 KYON (キョン)" xml:space="preserve">
     <value>現に、ここにいるじゃないか</value>
   </data>
-  <data name="0071 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0072 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0073 HARUHI (ハルヒ)" xml:space="preserve">
     <value>古泉くん、あたしが来るとなにか
 困るようなことをしてるの？</value>
@@ -346,12 +337,6 @@
     <value>こういう時は古泉にサインを送って
 ハルヒをごまかしてもらうか</value>
   </data>
-  <data name="0081 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0082 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0083 KYON (キョン)" xml:space="preserve">
     <value>……</value>
   </data>
@@ -369,12 +354,6 @@
   <data name="0087 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺がなんとかするしかないんだろう</value>
   </data>
-  <data name="0088 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0089 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0090 KOIZUMI (古泉)" xml:space="preserve">
     <value>……</value>
   </data>
@@ -385,12 +364,6 @@
   <data name="0092 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉なりの#P05“流儀”#P01でなんとかする
 つもりらしい</value>
-  </data>
-  <data name="0093 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0094 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0095 KOIZUMI (古泉)" xml:space="preserve">
     <value>おや？</value>
@@ -504,12 +477,6 @@
   </data>
   <data name="0125 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>今がチャンスだな</value>
-  </data>
-  <data name="0126 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0127 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0128 KYON (キョン)" xml:space="preserve">
     <value>……あったあった</value>

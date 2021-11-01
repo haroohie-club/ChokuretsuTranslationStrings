@@ -138,9 +138,6 @@
     <value>その話は、ここでは置いておこう
 ハルヒを引き留める方が先決だ</value>
   </data>
-  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0022 KYON (キョン)" xml:space="preserve">
     <value>ああ、俺の分身なら、遅刻もする
 かも知れないが</value>
@@ -240,9 +237,6 @@
   <data name="0048 KYON (キョン)" xml:space="preserve">
     <value>いただきます</value>
   </data>
-  <data name="0049 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0050 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それじゃ、キョンの意見とやらを
 聞かせてもらおうかしら</value>
@@ -298,9 +292,6 @@
   <data name="0064 KYON (キョン)" xml:space="preserve">
     <value>ですよね？　朝比奈さん？</value>
   </data>
-  <data name="0065 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0066 MIKURU (みくる)" xml:space="preserve">
     <value>へっ？　そ、そうです！
 ゆっくり落ち着いて欲しいなって</value>
@@ -308,12 +299,6 @@
   <data name="0067 HARUHI (ハルヒ)" xml:space="preserve">
     <value>言われなくたって、ちゃんと味わう
 わよ</value>
-  </data>
-  <data name="0068 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0069 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0070 KYON (キョン)" xml:space="preserve">
     <value>何もない</value>
@@ -373,17 +358,8 @@
     <value>とにかく、古泉たちから連絡が
 来るまで、休憩ってことでいいな？</value>
   </data>
-  <data name="0086 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0087 MIKURU (みくる)" xml:space="preserve">
     <value>じゃあ、お茶菓子を出しますね</value>
-  </data>
-  <data name="0088 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0089 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0090 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……ヒマね
@@ -399,9 +375,6 @@
   </data>
   <data name="0093 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……鋭いことで</value>
-  </data>
-  <data name="0094 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0095 MIKURU (みくる)" xml:space="preserve">
     <value>ゲ、ゲームでもしませんか！？</value>
@@ -424,12 +397,6 @@
   <data name="0100 HARUHI (ハルヒ)" xml:space="preserve">
     <value>じゃあ総当たり戦にしましょ
 対戦表を作らなくちゃ</value>
-  </data>
-  <data name="0101 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0102 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0103 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒはそう言うと、ノートの

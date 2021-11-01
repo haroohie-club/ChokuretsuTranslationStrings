@@ -116,12 +116,6 @@
     <value>そうですね、涼宮さんが怪奇現象を
 見てしまう前に、戻らなきゃ</value>
   </data>
-  <data name="0016 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0017 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0018 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長い坂道を下って学校から一番近い
 コンビニへとやってきた</value>
@@ -135,9 +129,6 @@
   </data>
   <data name="0021 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんは、ちょっと嬉しそうだ</value>
-  </data>
-  <data name="0022 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0023 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>一方、長門は……</value>
@@ -169,9 +160,6 @@
     <value>朝比奈さんを伴って、俺たちも店内
 へと足を踏み入れた</value>
   </data>
-  <data name="0032 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0033 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>夏だというのに、おでんの匂いが
 する……</value>
@@ -189,9 +177,6 @@
   <data name="0037 KYON (キョン)" xml:space="preserve">
     <value>夜食の方は、お任せします。俺は
 飲み物の方を選んできますから</value>
-  </data>
-  <data name="0038 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0039 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>きっと朝比奈さんのことだ。素敵な
@@ -238,15 +223,9 @@
   <data name="0051 NAGATO (長門)" xml:space="preserve">
     <value>わかった</value>
   </data>
-  <data name="0052 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0053 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>かすかに頷いた長門が、きっちり
 人数分のドリンク剤を持ってくる</value>
-  </data>
-  <data name="0054 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0055 MIKURU (みくる)" xml:space="preserve">
     <value>キョンくん。サンドイッチにしよう
@@ -267,12 +246,6 @@
   <data name="0059 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>飲み物は、長門か朝比奈さんに選ん
 でもらうことにするか……</value>
-  </data>
-  <data name="0060 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0061 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0062 KYON (キョン)" xml:space="preserve">
     <value>長門、飲み物を選んでくれ</value>
@@ -320,15 +293,6 @@
     <value>せっかく長門が選んだわけだし……
 あとは適当に俺が選ぶとしよう</value>
   </data>
-  <data name="0075 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0076 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0077 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0078 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さん、選んで頂けますか？</value>
   </data>
@@ -372,9 +336,6 @@
     <value>せっかくだし、二本くらい買っとき
 ましょう</value>
   </data>
-  <data name="0091 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0092 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>飲み物、夜食、その他諸々……</value>
   </data>
@@ -406,9 +367,6 @@
     <value>そうですね、例えばボードゲームや
 カードゲームとか……</value>
   </data>
-  <data name="0100 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0101 NAGATO (長門)" xml:space="preserve">
     <value>部室にも存在する</value>
   </data>
@@ -423,9 +381,6 @@
     <value>まあ、時間が時間だし、この辺に
 他にめぼしい店はないしな……</value>
   </data>
-  <data name="0105 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0106 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ぼーっと、店内を見回してみる</value>
   </data>
@@ -439,9 +394,6 @@
   <data name="0109 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>と、長門が手に取ったのは、大きな
 花火セットだった</value>
-  </data>
-  <data name="0110 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0111 MIKURU (みくる)" xml:space="preserve">
     <value>花火、ですか？</value>
@@ -463,12 +415,6 @@
   </data>
   <data name="0116 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>どうする？　花火を買っておくか？</value>
-  </data>
-  <data name="0117 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0118 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0119 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>よし、花火を買っておこう</value>
@@ -506,12 +452,6 @@
   <data name="0128 KYON (キョン)" xml:space="preserve">
     <value>何か部室にある適当な物で、ハルヒ
 の気を引いてみよう</value>
-  </data>
-  <data name="0129 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0130 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0131 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>山盛りになった買い物カゴを持って
@@ -552,9 +492,6 @@
   <data name="0141 KYON (キョン)" xml:space="preserve">
     <value>なんのなんの、この程度の荷物なら
 軽いもんですよ</value>
-  </data>
-  <data name="0142 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0143 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>もちろん、大嘘である</value>

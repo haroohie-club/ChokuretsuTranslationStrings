@@ -119,9 +119,6 @@
     <value>取りあえず、音楽室のカギを
 ハルヒに届けに行きましょうか</value>
   </data>
-  <data name="0017 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0018 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
@@ -134,9 +131,6 @@
   </data>
   <data name="0021 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>じっと見上げている</value>
-  </data>
-  <data name="0022 NAGATO (長門)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0023 MIKURU (みくる)" xml:space="preserve">
     <value>へえ、こんなコンテストが
@@ -238,12 +232,6 @@
     <value>目をつけられない内に、さっさと
 退散することにしよう</value>
   </data>
-  <data name="0051 NAGATO (長門)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0052 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0053 KYON_SIS (妹)" xml:space="preserve">
     <value>あ、キョンくん、おかえりー</value>
   </data>
@@ -260,9 +248,6 @@
   <data name="0057 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>くそう、どの先生だ？
 がんばりなさいたぁどういう意味だ</value>
-  </data>
-  <data name="0058 KYON_SIS (妹)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0059 MIKURU (みくる)" xml:space="preserve">
     <value>涼宮さんは、図書室にいるはず
@@ -282,9 +267,6 @@
   </data>
   <data name="0063 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>機会も、何気に貴重だと言える</value>
-  </data>
-  <data name="0064 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0065 TSURUYA (鶴屋)" xml:space="preserve">
     <value>やあやあ、みくるにキョンくん</value>
@@ -333,24 +315,12 @@
     <value>なるほどなるほど、その自然体が
 花をひきつけるのかな？</value>
   </data>
-  <data name="0078 KYON_SIS (妹)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0079 MIKURU (みくる)" xml:space="preserve">
     <value>つ、鶴屋さんっ！
 あたしは別にそんなんじゃなくてっ</value>
   </data>
-  <data name="0080 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0081 MIKURU (みくる)" xml:space="preserve">
     <value>きゃっ</value>
-  </data>
-  <data name="0082 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0083 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0084 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なにを思ったか、鶴屋さんは
@@ -384,15 +354,6 @@
   <data name="0092 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>この隙に心ゆくまで拝んでおこう</value>
   </data>
-  <data name="0093 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0094 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0095 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0096 MIKURU (みくる)" xml:space="preserve">
     <value>もうっ……</value>
   </data>
@@ -406,9 +367,6 @@
   <data name="0099 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>もうしばらく眺めていたかったが
 ……少々残念だ</value>
-  </data>
-  <data name="0100 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0101 TSURUYA (鶴屋)" xml:space="preserve">
     <value>キョンくんは、見るからにキレイな
@@ -458,9 +416,6 @@
   <data name="0114 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>一体全体、何の話なんだ？</value>
   </data>
-  <data name="0115 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0116 KYON (キョン)" xml:space="preserve">
     <value>道ばたに咲く花ってのも
 風情があっていいですね</value>
@@ -481,9 +436,6 @@
   <data name="0121 KYON (キョン)" xml:space="preserve">
     <value>あ、ああ。ありがとう</value>
   </data>
-  <data name="0122 NAGATO (長門)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0123 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>今の話の流れで、どうして長門が
 俺に押し花をくれるんだ？</value>
@@ -491,9 +443,6 @@
   <data name="0124 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>女の子の会話という奴は、宇宙語
 並によくわからんな……</value>
-  </data>
-  <data name="0125 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0126 TSURUYA (鶴屋)" xml:space="preserve">
     <value>でもキョンくん、両手に花にしちゃ

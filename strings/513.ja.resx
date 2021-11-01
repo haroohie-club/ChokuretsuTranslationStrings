@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
-  </data>
   <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉とふたりで、問題の鏡の対処を
 することにしたんだが</value>
@@ -92,9 +89,6 @@
   </data>
   <data name="0009 KOIZUMI (古泉)" xml:space="preserve">
     <value>では、昇降口に向かいましょうか</value>
-  </data>
-  <data name="0010 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0011 KYON (キョン)" xml:space="preserve">
     <value>古泉、肝心のこいつをどうする？
@@ -133,9 +127,6 @@
   <data name="0021 KYON (キョン)" xml:space="preserve">
     <value>まさか壁に接着してあるのか？
 それはないと思うが</value>
-  </data>
-  <data name="0022 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
     <value>……妙ですね
@@ -193,9 +184,6 @@
   <data name="0038 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>やりにくくて仕方がない</value>
   </data>
-  <data name="0039 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
-  </data>
   <data name="0040 KYON (キョン)" xml:space="preserve">
     <value>ふんっ！</value>
   </data>
@@ -231,9 +219,6 @@
   <data name="0050 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>とんだ#P05“とばっちり”#P01を喰らう
 ところだった</value>
-  </data>
-  <data name="0051 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0052 KYON (キョン)" xml:space="preserve">
     <value>……やっぱり傷ひとつついて
@@ -281,12 +266,6 @@
   <data name="0064 KOIZUMI (古泉)" xml:space="preserve">
     <value>ええ、では時間も無いことですし
 急いで彼女を探しましょう</value>
-  </data>
-  <data name="0065 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
-  </data>
-  <data name="0066 NAGATO (長門)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0067 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門は屋上で呪文を唱えていた</value>
@@ -360,12 +339,6 @@
   <data name="0087 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門に礼を言って、俺たちは急いで
 昇降口に戻った</value>
-  </data>
-  <data name="0088 NAGATO (長門)" xml:space="preserve">
-    <value>'</value>
-  </data>
-  <data name="0089 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0090 KYON (キョン)" xml:space="preserve">
     <value>くそっ、これならなんとかなると
@@ -496,9 +469,6 @@
     <value>わかった、時計を遅らせるのは
 古泉に任せた</value>
   </data>
-  <data name="0125 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
-  </data>
   <data name="0126 KYON (キョン)" xml:space="preserve">
     <value>時計を遅らせるのは任せる
 俺はハルヒの足止めに向かう</value>
@@ -520,9 +490,6 @@
   <data name="0131 KYON (キョン)" xml:space="preserve">
     <value>じゃあ頼む</value>
   </data>
-  <data name="0132 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
-  </data>
   <data name="0133 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉に時計を任せて、俺は
 部室に戻ることにした</value>
@@ -530,12 +497,6 @@
   <data name="0134 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>部室にある物を使って、あいつの
 気を逸らせればいいんだが</value>
-  </data>
-  <data name="0135 MIKURU (みくる)" xml:space="preserve">
-    <value>'</value>
-  </data>
-  <data name="0136 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0137 MIKURU (みくる)" xml:space="preserve">
     <value>す、涼宮さぁん、もう一杯だけ
@@ -668,12 +629,6 @@
   </data>
   <data name="0171 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そんなことをやっていたのかよ</value>
-  </data>
-  <data name="0172 MIKURU (みくる)" xml:space="preserve">
-    <value>'</value>
-  </data>
-  <data name="0173 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0174 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まあ、ハルヒが花火の話題で盛り

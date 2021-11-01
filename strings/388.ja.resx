@@ -97,9 +97,6 @@
   <data name="0010 KYON (キョン)" xml:space="preserve">
     <value>$10……長門、#W30ひとつ確認したいんだが</value>
   </data>
-  <data name="0011 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0012 NAGATO (長門)" xml:space="preserve">
     <value>$10なに？</value>
   </data>
@@ -126,12 +123,6 @@
   </data>
   <data name="0019 KYON (キョン)" xml:space="preserve">
     <value>$10なっ#W20…#W10…#W20！？</value>
-  </data>
-  <data name="0020 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0021 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$6いつまで待たせるのよ！　#W10キョン！</value>

@@ -84,9 +84,6 @@ $8ＳＯＳ団が調査をするわ！</value>
     <value>$10だが、#W12この時はまだ#W20事態の深刻さを
 誰も理解できてはいなかった</value>
   </data>
-  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0008 KYON (キョン)" xml:space="preserve">
     <value>$10おいおい、#W60冗談#W10…#W10…#W10だろ#W10…#W10…</value>
   </data>
@@ -104,15 +101,6 @@ $8ＳＯＳ団が調査をするわ！</value>
   </data>
   <data name="0012 NAGATO (長門)" xml:space="preserve">
     <value>$10あの時と同じ</value>
-  </data>
-  <data name="0013 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0015 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9まずは現場を調査するのが先決ね#W12
@@ -136,15 +124,6 @@ $8っていうのが#W10$10ホラーの定番よね</value>
   <data name="0021 MIKURU (みくる)" xml:space="preserve">
     <value>$10ふええええっ！？</value>
   </data>
-  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0023 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0024 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0025 KOIZUMI (古泉)" xml:space="preserve">
     <value>$11涼宮さんの言動が#W40現実のこの世界に#W20
 $8影響を及ぼしはじめています</value>
@@ -159,9 +138,6 @@ $8影響を及ぼしはじめています</value>
     <value>$11目の前に幽霊が現れたり、$8#W40本物の
 怪奇現象が起こることをです</value>
   </data>
-  <data name="0029 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0030 MIKURU (みくる)" xml:space="preserve">
     <value>$10ひぁぁぁっ、怖いですぅぅっ！</value>
   </data>
@@ -171,12 +147,6 @@ $8影響を及ぼしはじめています</value>
   <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$12ＳＯＳ団の活動記録にばっちり
 残しておくわ！</value>
-  </data>
-  <data name="0033 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0034 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0035 KOIZUMI (古泉)" xml:space="preserve">
     <value>$10涼宮さんの意識を、#W20可能なかぎり#W20
@@ -192,9 +162,6 @@ $8事態が悪化することもないはずです</value>
   </data>
   <data name="0038 KOIZUMI (古泉)" xml:space="preserve">
     <value>$10まあ、#W20$8いつも通りというわけですね</value>
-  </data>
-  <data name="0039 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0040 KYON (キョン)" xml:space="preserve">
     <value>$10な、#W50なんだこりゃ！？#W20

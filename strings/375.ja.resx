@@ -74,9 +74,6 @@
     <value>いつも行き当たりバッタリなハルヒ
 のセリフとは思えん</value>
   </data>
-  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0005 MIKURU (みくる)" xml:space="preserve">
     <value>あのぅ、下準備ってどういうこと
 をすればいいんでしょう？</value>
@@ -121,9 +118,6 @@
     <value>むしろそれはこっちのセリフだが
 ちゃんと戻ってくるのかねアイツは</value>
   </data>
-  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0018 MIKURU (みくる)" xml:space="preserve">
     <value>涼宮さん、一人で大丈夫でしょうか</value>
   </data>
@@ -148,9 +142,6 @@
   <data name="0024 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんの淹れる甘露が飲める
 なら、何時間だって待てますとも</value>
-  </data>
-  <data name="0025 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0026 MIKURU (みくる)" xml:space="preserve">
     <value>いかがですか？</value>
@@ -291,9 +282,6 @@
     <value>全然本題とは関係ない話ばかりに
 食いついているな</value>
   </data>
-  <data name="0063 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0064 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
@@ -345,12 +333,6 @@
   </data>
   <data name="0077 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さてどう切り抜けようか</value>
-  </data>
-  <data name="0078 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0079 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0080 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さんは、いかがですか？</value>
@@ -415,9 +397,6 @@
     <value>下手にその辺に捨てるよりも、俺が
 預かっていた方が安全だな</value>
   </data>
-  <data name="0098 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0099 KYON (キョン)" xml:space="preserve">
     <value>すまん長門。何か面白そうな記事は
 載ってなかったか？</value>
@@ -457,9 +436,6 @@
     <value>いや、ある意味違わないんだが
 根本から違っているというか</value>
   </data>
-  <data name="0110 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0111 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョン、有希に頼らないで
 自分で探しなさいよ！</value>
@@ -470,9 +446,6 @@
   <data name="0113 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さっき見せてくれた#P05“長門のデザイ
 ン画”#P01は一応覚えておこう</value>
-  </data>
-  <data name="0114 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0115 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>結局助けを求めてもダメだったので
@@ -510,9 +483,6 @@
   </data>
   <data name="0124 KYON (キョン)" xml:space="preserve">
     <value>だからなんでそういう話になるんだ</value>
-  </data>
-  <data name="0125 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0126 MIKURU (みくる)" xml:space="preserve">
     <value>あのぅ、のどが乾いているのなら
@@ -561,12 +531,6 @@
     <value>氷でも買ってきて投げつけてやりた
 くなるな、まったく</value>
   </data>
-  <data name="0138 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0139 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0140 KOIZUMI (古泉)" xml:space="preserve">
     <value>おや、ちょうどいいところで
 お会いしましたね</value>
@@ -596,9 +560,6 @@
   </data>
   <data name="0147 KOIZUMI (古泉)" xml:space="preserve">
     <value>ではこちらに……</value>
-  </data>
-  <data name="0148 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0149 KYON (キョン)" xml:space="preserve">
     <value>で、ここで何をすればいいんだ？</value>

@@ -95,9 +95,6 @@
   <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>行ってみましょ！</value>
   </data>
-  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
   <data name="0012 HARUHI (ハルヒ)" xml:space="preserve">
     <value>これは……</value>
   </data>
@@ -114,9 +111,6 @@
   <data name="0016 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>どうやら、教室から持ってきた
 カーテンが役に立ったみたいだな</value>
-  </data>
-  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
   </data>
   <data name="0018 MIKURU (みくる)" xml:space="preserve">
     <value>夏だからしょうがないんじゃ……</value>
@@ -154,12 +148,6 @@
   </data>
   <data name="0028 HARUHI (ハルヒ)" xml:space="preserve">
     <value>追いかけるわよ！　みくるちゃん</value>
-  </data>
-  <data name="0029 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
-  <data name="0030 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x15;</value>
   </data>
   <data name="0031 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ちょっと、なによこれ</value>
@@ -202,12 +190,6 @@
   <data name="0042 HARUHI (ハルヒ)" xml:space="preserve">
     <value>追いかけるわよ！</value>
   </data>
-  <data name="0043 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
-  <data name="0044 NAGATO (長門)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
   <data name="0045 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なによこれ……</value>
   </data>
@@ -223,9 +205,6 @@
   </data>
   <data name="0049 HARUHI (ハルヒ)" xml:space="preserve">
     <value>まったく、余計な時間を食ったわ！</value>
-  </data>
-  <data name="0050 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
   </data>
   <data name="0051 KOIZUMI (古泉)" xml:space="preserve">
     <value>昼間閉めきっていたせいで熱が
@@ -266,12 +245,6 @@
   </data>
   <data name="0062 HARUHI (ハルヒ)" xml:space="preserve">
     <value>とにかく追いかけましょ！</value>
-  </data>
-  <data name="0063 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
-  <data name="0064 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x15;</value>
   </data>
   <data name="0065 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なによこれ……カーテンじゃない</value>

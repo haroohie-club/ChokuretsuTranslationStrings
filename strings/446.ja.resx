@@ -69,9 +69,6 @@
   <data name="0002 KOIZUMI (古泉)" xml:space="preserve">
     <value>団長として、指示をお願いします</value>
   </data>
-  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0004 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉のヨイショに満足げに頷くと
 ハルヒが前に進み出てきた</value>
@@ -94,21 +91,6 @@
   <data name="0009 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>聞けって、誰にだよ
 まあ、とりあえず身近にいる……</value>
-  </data>
-  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0011 NAGATO (長門)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0012 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0013 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0014 NAGATO (長門)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0015 KYON (キョン)" xml:space="preserve">
     <value>長門、他に洗ってくるものは
@@ -135,12 +117,6 @@
     <value>野菜と、長門から預かった器を
 持って水場へ移動することにした</value>
   </data>
-  <data name="0022 NAGATO (長門)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0024 KYON (キョン)" xml:space="preserve">
     <value>古泉、一応聞くが……</value>
   </data>
@@ -164,20 +140,11 @@
     <value>聞くだけムダだったと、野菜だけ
 を持って移動することにした</value>
   </data>
-  <data name="0030 NAGATO (長門)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0031 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0032 KYON_SIS (妹)" xml:space="preserve">
     <value>たっだいまー！</value>
   </data>
   <data name="0033 KYON (キョン)" xml:space="preserve">
     <value>洗ってきてやったぞ</value>
-  </data>
-  <data name="0034 KYON_SIS (妹)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0035 HARUHI (ハルヒ)" xml:space="preserve">
     <value>手抜きせずにちゃんと洗って
@@ -193,9 +160,6 @@
   <data name="0038 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>その言葉、そっくりそのままお前に
 返してやるよ</value>
-  </data>
-  <data name="0039 KYON_SIS (妹)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0040 HARUHI (ハルヒ)" xml:space="preserve">
     <value>じゃあたしと有希が切るから、野菜
@@ -263,12 +227,6 @@
   <data name="0057 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>せっかくのバーベキューで、肉が
 食えなくなるのは切ないからな</value>
-  </data>
-  <data name="0058 NAGATO (長門)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0059 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0060 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>で、手伝いに来てみりゃあ
@@ -403,12 +361,6 @@
   <data name="0094 9 (国木田)" xml:space="preserve">
     <value>うん、わかったよキョン</value>
   </data>
-  <data name="0095 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0096 9 (国木田)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0097 TANIGUCHI (谷口)" xml:space="preserve">
     <value>おい、なんで俺をのけ者にするんだ</value>
   </data>
@@ -465,12 +417,6 @@
   <data name="0111 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まあ、何はともあれ
 これでグリルは完成するだろう</value>
-  </data>
-  <data name="0112 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0113 9 (国木田)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0114 TANIGUCHI (谷口)" xml:space="preserve">
     <value>ラ、ララライター♪　ライターっと

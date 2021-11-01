@@ -75,9 +75,6 @@
   <data name="0004 KYON_SIS (妹)" xml:space="preserve">
     <value>キョンくん、おかわりの資料だよー</value>
   </data>
-  <data name="0005 KYON_SIS (妹)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>げっ、まだあるのかよ！</value>
   </data>
@@ -88,9 +85,6 @@
   <data name="0008 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>読む端から新しい資料が届くので
 さっきから少しも減っていない</value>
-  </data>
-  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0010 KYON (キョン)" xml:space="preserve">
     <value>これで終わりなんだろうな？</value>
@@ -486,9 +480,6 @@
   <data name="0118 KYON (キョン)" xml:space="preserve">
     <value>そう言うのは、俺のいないところで
 計画してくれ</value>
-  </data>
-  <data name="0119 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0120 KYON_SIS (妹)" xml:space="preserve">
     <value>はーい、キョンくん

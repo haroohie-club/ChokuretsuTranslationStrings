@@ -85,9 +85,6 @@
   <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>そうなのか？</value>
   </data>
-  <data name="0007 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0008 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
@@ -243,12 +240,6 @@
     <value>よし、進路変更だ
 コンピ研の部室へ行こう</value>
   </data>
-  <data name="0052 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0053 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0054 KYON (キョン)" xml:space="preserve">
     <value>ありゃ、誰もいないのか
 行き違いになったみたいだな</value>
@@ -307,12 +298,6 @@
     <value>取りあえず当初の予定通り、音楽室
 へ向かいましょう</value>
   </data>
-  <data name="0069 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0070 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0071 KYON (キョン)" xml:space="preserve">
     <value>おい、あんたコンピ研の……</value>
   </data>
@@ -365,9 +350,6 @@
   <data name="0085 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>あ……</value>
   </data>
-  <data name="0086 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0087 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>襲いかかったコンピ研の部員の
 額に長門が手をかざした瞬間</value>
@@ -402,9 +384,6 @@
   <data name="0096 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>部長からＳＯＳ団には関わるなって
 いえその、忙しいので失礼します！</value>
-  </data>
-  <data name="0097 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0098 KYON (キョン)" xml:space="preserve">
     <value>なんだありゃ</value>

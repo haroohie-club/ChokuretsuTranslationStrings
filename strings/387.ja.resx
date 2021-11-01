@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>とりあえず、景気づけにコンピ研に
 苦情を言ってくるわ！</value>
@@ -162,9 +159,6 @@
     <value>そういって笑顔を見せる朝比奈さん
 一仕事の後のお茶はまた格別だろう</value>
   </data>
-  <data name="0028 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0029 NAGATO (長門)" xml:space="preserve">
     <value>待って</value>
   </data>
@@ -262,9 +256,6 @@
   <data name="0056 KYON (キョン)" xml:space="preserve">
     <value>これは、部長のメモリーカード？</value>
   </data>
-  <data name="0057 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0058 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺はメモリーカードを指でつまみ
 目の前にかざしてみる</value>
@@ -293,9 +284,6 @@
   </data>
   <data name="0065 NAGATO (長門)" xml:space="preserve">
     <value>そう</value>
-  </data>
-  <data name="0066 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0067 KOIZUMI (古泉)" xml:space="preserve">
     <value>それで、その分離した機能とは？</value>
@@ -345,9 +333,6 @@
     <value>世界中に広がっていたかも知れま
 せんね</value>
   </data>
-  <data name="0080 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0081 MIKURU (みくる)" xml:space="preserve">
     <value>そ、そんなことになったら大変
 です！？</value>
@@ -355,9 +340,6 @@
   <data name="0082 KYON (キョン)" xml:space="preserve">
     <value>まったくだ。放置してたらいずれ
 ハルヒの目にとまることになる</value>
-  </data>
-  <data name="0083 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0084 KOIZUMI (古泉)" xml:space="preserve">
     <value>そうなると、本当に世界の危機です</value>
@@ -371,9 +353,6 @@
   </data>
   <data name="0087 NAGATO (長門)" xml:space="preserve">
     <value>そう</value>
-  </data>
-  <data name="0088 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0089 KOIZUMI (古泉)" xml:space="preserve">
     <value>消去するにしても、一度パソコンに
@@ -389,9 +368,6 @@
   <data name="0092 KYON (キョン)" xml:space="preserve">
     <value>ペンチでひん曲げるとか、焼却炉で
 焼くとかすればいいってことか</value>
-  </data>
-  <data name="0093 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0094 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さんに気付かれないようにする
@@ -447,9 +423,6 @@
   <data name="0108 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>もうないだろうな</value>
   </data>
-  <data name="0109 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0110 MIKURU (みくる)" xml:space="preserve">
     <value>あのう</value>
   </data>
@@ -463,9 +436,6 @@
     <value>使ったのなら片付けておいたほうが
 いいですよね？</value>
   </data>
-  <data name="0114 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0115 KOIZUMI (古泉)" xml:space="preserve">
     <value>ああ、それには触らない方がいい
 かもしれませんよ</value>
@@ -476,9 +446,6 @@
   <data name="0117 KOIZUMI (古泉)" xml:space="preserve">
     <value>そうです。異空間で使用した
 長門さん特製のモップですよ</value>
-  </data>
-  <data name="0118 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0119 NAGATO (長門)" xml:space="preserve">
     <value>属性情報を付加している。波動関数
@@ -604,9 +571,6 @@
   <data name="0151 KOIZUMI (古泉)" xml:space="preserve">
     <value>朝比奈さん。あなたの時間渡航の
 技術は科学ですか、魔法ですか？</value>
-  </data>
-  <data name="0152 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0153 MIKURU (みくる)" xml:space="preserve">
     <value>えっと……多分『禁則事項』です

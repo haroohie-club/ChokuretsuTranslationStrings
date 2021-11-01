@@ -94,12 +94,6 @@
     <value>古泉の発言に、朝比奈さんが身を
 震わせる</value>
   </data>
-  <data name="0010 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0011 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0012 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>怯えた様子の朝比奈さんを安心させ
 るために、俺は胸を張った</value>
@@ -107,9 +101,6 @@
   <data name="0013 KYON (キョン)" xml:space="preserve">
     <value>大丈夫です、もしもなにかあっても
 ちゃんと守りますから</value>
-  </data>
-  <data name="0014 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0015 KOIZUMI (古泉)" xml:space="preserve">
     <value>微力ながら、僕もお手伝いさせて
@@ -137,12 +128,6 @@
   <data name="0021 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>その言葉だけで、もう一晩くらいは
 学校に残ってもいいと思えますよ</value>
-  </data>
-  <data name="0022 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0024 KYON (キョン)" xml:space="preserve">
     <value>不安をあおるようなことを言うな</value>
@@ -184,12 +169,6 @@
   </data>
   <data name="0035 KYON (キョン)" xml:space="preserve">
     <value>迷惑だ、そんな能力</value>
-  </data>
-  <data name="0036 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0037 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0038 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>校舎の中に入り、図書室を目指す
@@ -254,9 +233,6 @@
     <value>例えば、こういうのはどうだ
 朝比奈さんに一肌脱いでもらうんだ</value>
   </data>
-  <data name="0055 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0056 MIKURU (みくる)" xml:space="preserve">
     <value>あ、あたしですか？
 な、なにをするんですか……？</value>
@@ -304,18 +280,9 @@
     <value>そうですね、そんな危険な状況を
 朝比奈さんにお願いできませんよね</value>
   </data>
-  <data name="0068 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0069 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0070 KYON (キョン)" xml:space="preserve">
     <value>例えば、こういうのはどうだ
 古泉に頑張ってもらうんだ</value>
-  </data>
-  <data name="0071 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0072 KOIZUMI (古泉)" xml:space="preserve">
     <value>僕にですか、
@@ -379,12 +346,6 @@
   <data name="0087 KYON (キョン)" xml:space="preserve">
     <value>頼んだぜ</value>
   </data>
-  <data name="0088 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0089 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0090 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さて、そんな風に話をしている間に
 俺たちは図書室の前へと辿り着いた</value>
@@ -406,9 +367,6 @@
   <data name="0095 KYON (キョン)" xml:space="preserve">
     <value>見付けるのが大変だなあって話を
 していたんですよ</value>
-  </data>
-  <data name="0096 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0097 KOIZUMI (古泉)" xml:space="preserve">
     <value>そろそろバーベキューが始まります
@@ -447,18 +405,12 @@
     <value>そう言って鶴屋さんが持ち上げたの
 は“科学読本”と書かれた本だった</value>
   </data>
-  <data name="0107 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0108 KOIZUMI (古泉)" xml:space="preserve">
     <value>なにか収穫はありましたか</value>
   </data>
   <data name="0109 TSURUYA (鶴屋)" xml:space="preserve">
     <value>うん、音の共鳴は面白いねえって
 ことはわかったさ</value>
-  </data>
-  <data name="0110 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0111 MIKURU (みくる)" xml:space="preserve">
     <value>共鳴……？</value>
@@ -514,9 +466,6 @@
     <value>借り主は鶴屋さんになっているが
 期限内に返せば問題ないだろう</value>
   </data>
-  <data name="0126 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0127 KOIZUMI (古泉)" xml:space="preserve">
     <value>借りていくんですか？</value>
   </data>
@@ -531,9 +480,6 @@
     <value>ま、いざとなったら長門にでも読ん
 でもらうさ</value>
   </data>
-  <data name="0131 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0132 MIKURU (みくる)" xml:space="preserve">
     <value>長門さん、いろんな本を読みます
 もんね</value>
@@ -544,9 +490,6 @@
   </data>
   <data name="0134 KYON (キョン)" xml:space="preserve">
     <value>気楽なもんです</value>
-  </data>
-  <data name="0135 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0136 TSURUYA (鶴屋)" xml:space="preserve">
     <value>さて！　バーベキューが始まっちゃ
@@ -592,24 +535,12 @@
     <value>こうしてようやく俺たちは鶴屋さん
 と共に図書室をあとにしたのだった</value>
   </data>
-  <data name="0148 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0149 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0150 MIKURU (みくる)" xml:space="preserve">
     <value>楽しみですねっ</value>
   </data>
   <data name="0151 TSURUYA (鶴屋)" xml:space="preserve">
     <value>うんうん。みくると一緒にバーベ
 キューなんて、思いもしなかったよ</value>
-  </data>
-  <data name="0152 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0153 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0154 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>鶴屋さんと朝比奈さんが楽しそうに

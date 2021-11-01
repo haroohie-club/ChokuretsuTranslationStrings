@@ -65,9 +65,6 @@
     <value>$10その時間に#W30鏡の中から#W20自分そっくり
 の分身が現れるそうよ</value>
   </data>
-  <data name="0002 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0003 KOIZUMI (古泉)" xml:space="preserve">
     <value>$8このままでは、#W30確実に涼宮さんの
 目の前で#W30分身が現れてしまいます</value>
@@ -83,9 +80,6 @@
     <value>$10ご心配なく#W60
 $8ちゃんと考えてありますよ</value>
   </data>
-  <data name="0007 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$10ふっ……$8それでこのあたしを追いつ
 めたつもりかしら</value>
@@ -93,9 +87,6 @@ $8ちゃんと考えてありますよ</value>
   <data name="0009 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>$8余裕しゃくしゃくってか#W10…#W10…#W10くそっ#W40
 $9絶対にほえ面かかせてやるからな</value>
-  </data>
-  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0011 NAGATO (長門)" xml:space="preserve">
     <value>$9情報結合の綻びが強い箇所に#W30特異点
@@ -107,9 +98,6 @@ $9絶対にほえ面かかせてやるからな</value>
   <data name="0013 NAGATO (長門)" xml:space="preserve">
     <value>$9いい。#W40あとは、任せて</value>
   </data>
-  <data name="0014 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0015 KYON (キョン)" xml:space="preserve">
     <value>$8ウソだろ#W20…#W10…#W20朝比奈さんが２人！？</value>
   </data>
@@ -119,9 +107,6 @@ $9絶対にほえ面かかせてやるからな</value>
   <data name="0017 KOIZUMI (古泉)" xml:space="preserve">
     <value>$7気をつけてください！#W40
 鏡に姿が映れば、#W20我々も――！</value>
-  </data>
-  <data name="0018 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0019 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$10新・七不思議、#W20$8最後の一つを
@@ -138,18 +123,9 @@ $9絶対にほえ面かかせてやるからな</value>
     <value>$10だったら……$8そうだ！#W20
 日の出を見に行かないか！</value>
   </data>
-  <data name="0023 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0024 KOIZUMI (古泉)" xml:space="preserve">
     <value>$10現在、#W30$8学校全体が#W30異空間と化し
 つつあります</value>
-  </data>
-  <data name="0025 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
-  <data name="0026 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0027 KYON (キョン)" xml:space="preserve">
     <value>$9悪いな、長門。#W40$8いつもながら面倒な
@@ -157,9 +133,6 @@ $9絶対にほえ面かかせてやるからな</value>
   </data>
   <data name="0028 NAGATO (長門)" xml:space="preserve">
     <value>$10問題ない#W20…#W10…#W10これがわたしの役目</value>
-  </data>
-  <data name="0029 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0030 NAGATO (長門)" xml:space="preserve">
     <value>$10涼宮ハルヒを#W30校舎の外に</value>
@@ -185,9 +158,6 @@ $9絶対にほえ面かかせてやるからな</value>
   <data name="0036 KYON (キョン)" xml:space="preserve">
     <value>$10なんてこった#W20…#W10…</value>
   </data>
-  <data name="0037 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0038 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$8ちょっと#W20キョン、#W30痛いってばっ#W20
 そんなに引っ張らないでよ！</value>
@@ -198,9 +168,6 @@ $9絶対にほえ面かかせてやるからな</value>
   </data>
   <data name="0040 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>$10もう少し！　#W30$8もう少しで――</value>
-  </data>
-  <data name="0041 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0042 KYON (キョン)" xml:space="preserve">
     <value>$12そうか#W20…#W20…#W30そういうことかよ</value>

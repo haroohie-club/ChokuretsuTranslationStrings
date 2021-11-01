@@ -79,9 +79,6 @@
   <data name="0005 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>食料確保をするのは悪くない</value>
   </data>
-  <data name="0006 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0007 KYON (キョン)" xml:space="preserve">
     <value>ん？</value>
   </data>
@@ -214,9 +211,6 @@
     <value>それにしても、ハルヒの気を
 逸らせるにはどうしたもんだか</value>
   </data>
-  <data name="0043 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0044 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あれこれ悩んでいるうちに学校から
 一番近いコンビニに到着した</value>
@@ -228,9 +222,6 @@
   <data name="0046 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>暗い夜道にコンビニだけが煌々と
 明りを放っていた</value>
-  </data>
-  <data name="0047 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0048 KYON (キョン)" xml:space="preserve">
     <value>さてと、じゃあ頼まれた
@@ -294,9 +285,6 @@
     <value>なんだか少し寂しそうに見えるが
 長門は大人しく商品の一部を戻した</value>
   </data>
-  <data name="0065 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0066 KYON (キョン)" xml:space="preserve">
     <value>うーん、まあそれくらいならいいか</value>
   </data>
@@ -339,9 +327,6 @@
   </data>
   <data name="0078 KYON (キョン)" xml:space="preserve">
     <value>分かった。それも買おう</value>
-  </data>
-  <data name="0079 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0080 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ひとしきりみんなの夜食を選んで
@@ -407,9 +392,6 @@
   <data name="0097 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>どちらかというと、ハルヒよりも
 古泉向けかもしれんが</value>
-  </data>
-  <data name="0098 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0099 KYON (キョン)" xml:space="preserve">
     <value>長門、そろそろ帰るぞ……って</value>
@@ -486,15 +468,9 @@
   <data name="0119 KYON (キョン)" xml:space="preserve">
     <value>わかったよ、それも買うよ</value>
   </data>
-  <data name="0120 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0121 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>結局、長門用の雑誌も買って、
 ようやく店を出ることができた</value>
-  </data>
-  <data name="0122 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0123 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門は器用にも、暗い夜道でも

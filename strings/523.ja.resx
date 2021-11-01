@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x18;</value>
-  </data>
   <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>特異点をすべて起動することに成功
 し、ハルヒを連れ出すことが出来た</value>
@@ -169,9 +166,6 @@
   <data name="0031 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ここにいるより学校の外の方が
 ずっと安全なはずだ</value>
-  </data>
-  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x18;</value>
   </data>
   <data name="0033 KYON (キョン)" xml:space="preserve">
     <value>……ん？</value>

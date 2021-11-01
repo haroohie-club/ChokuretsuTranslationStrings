@@ -175,12 +175,6 @@
     <value>これ以上最新パソコンをおたくの
 団長さんに持って行かれたら困るよ</value>
   </data>
-  <data name="0031 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0032 MIKURU (朝比奈)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0033 MIKURU (朝比奈)" xml:space="preserve">
     <value>ごめんなさい
 あたしのせいですね……</value>
@@ -221,9 +215,6 @@
   <data name="0043 MIKURU (朝比奈)" xml:space="preserve">
     <value>はい。精一杯おいしいお茶を
 いれますね</value>
-  </data>
-  <data name="0044 MIKURU (朝比奈)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0045 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>これが非常時でなければ、朝比奈
@@ -347,9 +338,6 @@
     <value>この人には自覚がないのである
 まあそこが朝比奈さんらしいんだが</value>
   </data>
-  <data name="0078 MIKURU (朝比奈)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0079 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>来ないでくれと言ったのに、キミも
 厚かましいヤツだな</value>
@@ -357,9 +345,6 @@
   <data name="0080 KYON (キョン)" xml:space="preserve">
     <value>まあ、そう言わずお茶でもどう
 ですか</value>
-  </data>
-  <data name="0081 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0082 MIKURU (朝比奈)" xml:space="preserve">
     <value>えっと、好みがわからなかったので
@@ -391,9 +376,6 @@
     <value>皆さん、お疲れみたいですから
 少し休憩しませんか？</value>
   </data>
-  <data name="0090 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0091 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>うう……っ</value>
   </data>
@@ -405,14 +387,8 @@
     <value>このコンボは、雪山に訪れた春の
 ようにコンピ研の頑なさを溶かした</value>
   </data>
-  <data name="0094 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0095 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>……休憩にしよう</value>
-  </data>
-  <data name="0096 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0097 KYON (キョン)" xml:space="preserve">
     <value>で、１年１０組のことなんですが</value>
@@ -581,12 +557,6 @@
     <value>いかん、引きはがし作戦に失敗して
 しまったか</value>
   </data>
-  <data name="0143 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0144 MIKURU (朝比奈)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0145 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>朝比奈さんはおたくの団長さんとは
 全然違うんだねぇ</value>
@@ -683,12 +653,6 @@
     <value>もうちょっとメンタリティーな理由
 があったりするとうれしいけどな</value>
   </data>
-  <data name="0170 MIKURU (朝比奈)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0171 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0172 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さん勧誘は早々と諦めては
 くれたのはいいが</value>
@@ -710,17 +674,11 @@
     <value>大変な作業をしてるんですね
 頑張ってください</value>
   </data>
-  <data name="0178 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0179 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>はいっ、頑張るであります</value>
   </data>
   <data name="0180 MIKURU (朝比奈)" xml:space="preserve">
     <value>すごいんですね。尊敬しちゃいます</value>
-  </data>
-  <data name="0181 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0182 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>そ、尊敬……うおおっ、素晴らしい</value>

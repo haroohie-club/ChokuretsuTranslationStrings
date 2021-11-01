@@ -74,21 +74,12 @@
   <data name="0004 KYON (キョン)" xml:space="preserve">
     <value>$10そうか#W20…#W10…</value>
   </data>
-  <data name="0005 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
   <data name="0006 MIKURU (みくる)" xml:space="preserve">
     <value>$14ふえぇ#W10…#W10…#W10$12疲れましたぁ</value>
   </data>
   <data name="0007 KOIZUMI (古泉)" xml:space="preserve">
     <value>$10そうですね。#W60さすがに僕も#W40
 $8寝不足でフラフラですよ</value>
-  </data>
-  <data name="0008 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
-  <data name="0009 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$8ちょっとみんな#W20だらしないわよ！</value>
@@ -173,9 +164,6 @@ $9“新七不思議”#W10最後の一つだったな</value>
   </data>
   <data name="0034 UNKNOWN (？？？)" xml:space="preserve">
     <value>$14キョンく～ん！</value>
-  </data>
-  <data name="0035 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0036 KYON (キョン)" xml:space="preserve">
     <value>$10ん#W10…#W10…#W10あれは#W20…#W10…</value>
@@ -293,9 +281,6 @@ $8あんた、そんなの持ってた？</value>
   <data name="0068 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9キョンには似合わないわね#W30
 $7ちょっと貸しなさい</value>
-  </data>
-  <data name="0069 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0070 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$10へぇ、#W20$8なかなかいい帽子じゃない#W30

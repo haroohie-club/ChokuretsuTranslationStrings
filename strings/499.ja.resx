@@ -72,9 +72,6 @@
     <value>みんな、がんばってくれ！
 頼むから間に合ってくれよ……！</value>
   </data>
-  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ただいまーっ……あら、有希は？</value>
   </data>
@@ -82,18 +79,12 @@
     <value>部室の中には、朝比奈さんと古泉だ
 けがいた</value>
   </data>
-  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0008 MIKURU (みくる)" xml:space="preserve">
     <value>え、えっと……お、お手洗いに行く
 って言ってました</value>
   </data>
   <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そ、じゃあ仕方ないわね</value>
-  </data>
-  <data name="0010 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>全員、ゴールに行った証拠を
@@ -105,9 +96,6 @@
   <data name="0013 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>肝試しが思いのほか楽しかったのか
 ハルヒの機嫌は上々だ</value>
-  </data>
-  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0015 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そうして少しホッとしたのも束の間
@@ -129,9 +117,6 @@
   <data name="0020 KOIZUMI (古泉)" xml:space="preserve">
     <value>実は今、長門さんが……</value>
   </data>
-  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0022 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉の視線を追って、思わずハルヒ
 の方を見る</value>
@@ -145,9 +130,6 @@
   </data>
   <data name="0025 KYON (キョン)" xml:space="preserve">
     <value>な……！？</value>
-  </data>
-  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0027 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>巨大な木が根っこを足のように動か
@@ -196,9 +178,6 @@
   <data name="0039 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>もしかすると、長門はわざとやって
 たのかもしれないが</value>
-  </data>
-  <data name="0040 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0041 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>最後の特異点が処理され、部室内が
@@ -316,9 +295,6 @@
     <value>ああ……って、ちょっと待て！
 もうすぐハルヒが帰ってくるぞ！</value>
   </data>
-  <data name="0074 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0075 MIKURU (みくる)" xml:space="preserve">
     <value>あ……このままだと廊下で鉢合わせ
 しちゃうかも……！</value>
@@ -344,9 +320,6 @@
   </data>
   <data name="0082 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門の無表情が、何とも頼もしい</value>
-  </data>
-  <data name="0083 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0084 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺たちは慌てて廊下に出て、ハルヒ
@@ -435,9 +408,6 @@
     <value>ああ……って、ちょっと待て！
 もうすぐハルヒが帰ってくるぞ！</value>
   </data>
-  <data name="0109 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0110 KOIZUMI (古泉)" xml:space="preserve">
     <value>さすがに涼宮さんにこれを見られる
 わけには行きませんね……</value>
@@ -453,9 +423,6 @@
   <data name="0113 KYON (キョン)" xml:space="preserve">
     <value>ああ、それがよさそうだな</value>
   </data>
-  <data name="0114 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0115 KYON (キョン)" xml:space="preserve">
     <value>長門、木のお守りは頼んだぜ</value>
   </data>
@@ -465,15 +432,9 @@
   <data name="0117 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門の無表情が、何とも頼もしい</value>
   </data>
-  <data name="0118 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0119 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺たちは慌てて廊下に出て、ハルヒ
 と朝比奈さんの姿を探した</value>
-  </data>
-  <data name="0120 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0121 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>コンピ研を出た俺たちがハルヒたち
@@ -532,9 +493,6 @@
   <data name="0136 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>どんな時でも口の減らないやつだ</value>
   </data>
-  <data name="0137 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0138 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺はため息を噛み殺しながら、文芸
 部室の扉を開いたのであった</value>
@@ -551,12 +509,6 @@
   </data>
   <data name="0142 KYON (キョン)" xml:space="preserve">
     <value>……一か八か、だな</value>
-  </data>
-  <data name="0143 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0144 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0145 KYON (キョン)" xml:space="preserve">
     <value>古泉、先回りしてハルヒと長門の
@@ -601,9 +553,6 @@
     <value>大丈夫ですよ、もう危険はないよう
 ですから</value>
   </data>
-  <data name="0157 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0158 KOIZUMI (古泉)" xml:space="preserve">
     <value>喋っている時間もなさそうですね
 では、行ってきます</value>
@@ -611,21 +560,12 @@
   <data name="0159 MIKURU (みくる)" xml:space="preserve">
     <value>あ、あたしも部室に戻ります</value>
   </data>
-  <data name="0160 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0161 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0162 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>二人が揃ってコンピ研の部室を出て
 行き、俺は一人で長門を待った</value>
   </data>
   <data name="0163 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さて……うまく転がるといいが</value>
-  </data>
-  <data name="0164 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0165 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>待つこと数分、やがて長門がコンピ
@@ -701,15 +641,9 @@
   <data name="0186 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門の無表情が、何とも頼もしい</value>
   </data>
-  <data name="0187 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0188 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺は慌てて廊下に出て、ハルヒが
 待つ文芸部室へと急いだ</value>
-  </data>
-  <data name="0189 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0190 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>文芸部室に戻ってきたハルヒは
@@ -832,18 +766,9 @@
   <data name="0222 MIKURU (みくる)" xml:space="preserve">
     <value>ひえ！？　え、あ、きゃあ！</value>
   </data>
-  <data name="0223 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0224 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒが朝比奈さんに襲いかか
 ろうとする</value>
-  </data>
-  <data name="0225 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0226 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0227 KYON (キョン)" xml:space="preserve">
     <value>おい、ハルヒ……！</value>
@@ -869,9 +794,6 @@
   <data name="0233 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺は奴が言いたいことを即座に理解
 した</value>
-  </data>
-  <data name="0234 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0235 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
@@ -909,9 +831,6 @@
   <data name="0244 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>申し訳ありません、朝比奈さん
 少しだけ時間を稼いでください</value>
-  </data>
-  <data name="0245 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0246 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうだわ！</value>
@@ -957,9 +876,6 @@
   <data name="0258 HARUHI (ハルヒ)" xml:space="preserve">
     <value>今からよ！</value>
   </data>
-  <data name="0259 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0260 KOIZUMI (古泉)" xml:space="preserve">
     <value>しかし、長門さんが戻ってきていま
 せん。待たなくてよいのですか？</value>
@@ -974,9 +890,6 @@
   </data>
   <data name="0263 HARUHI (ハルヒ)" xml:space="preserve">
     <value>これで大丈夫！</value>
-  </data>
-  <data name="0264 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0265 HARUHI (ハルヒ)" xml:space="preserve">
     <value>善は急げ！　さあ、行くわよ！</value>
@@ -1041,15 +954,9 @@
   <data name="0281 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>もっと短く言うなら、長門有希</value>
   </data>
-  <data name="0282 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0283 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>トイレに行っていたはずの彼女が
 動かぬ木を見上げていたのだから</value>
-  </data>
-  <data name="0284 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0285 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希……どうしたの、こんなとこで</value>
@@ -1085,21 +992,12 @@
   <data name="0294 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
-  <data name="0295 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0296 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0297 KOIZUMI (古泉)" xml:space="preserve">
     <value>どうやら長門さんは間に合ったよう
 ですね</value>
   </data>
   <data name="0298 KYON (キョン)" xml:space="preserve">
     <value>ああ、助かったぜ</value>
-  </data>
-  <data name="0299 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0300 MIKURU (みくる)" xml:space="preserve">
     <value>良かった……ふう</value>

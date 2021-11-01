@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0001 KYON (キョン)" xml:space="preserve">
     <value>見直したって……
 いったいなんの話だ？</value>
@@ -150,9 +147,6 @@
   </data>
   <data name="0025 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あっと言う間に配役が決定した</value>
-  </data>
-  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0027 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>こうして、俺たちは本当に卒業式の

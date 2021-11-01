@@ -119,12 +119,6 @@
     <value>そういえば、さっき古泉が具体的に
 言っていたような……</value>
   </data>
-  <data name="0016 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0017 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0018 KYON (キョン)" xml:space="preserve">
     <value>長門、具体的な場所で言ってくれ
 ないか？</value>
@@ -166,12 +160,6 @@
   </data>
   <data name="0028 NAGATO (長門)" xml:space="preserve">
     <value>問題ない</value>
-  </data>
-  <data name="0029 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0030 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0031 KOIZUMI (古泉)" xml:space="preserve">
     <value>分かりませんか？</value>
@@ -387,9 +375,6 @@
   <data name="0089 KYON (キョン)" xml:space="preserve">
     <value>分かった</value>
   </data>
-  <data name="0090 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0091 HARUHI (ハルヒ)" xml:space="preserve">
     <value>どうしたの？　二人とも</value>
   </data>
@@ -409,9 +394,6 @@
   </data>
   <data name="0096 HARUHI (ハルヒ)" xml:space="preserve">
     <value>古泉くんは？</value>
-  </data>
-  <data name="0097 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0098 KOIZUMI (古泉)" xml:space="preserve">
     <value>彼が一人で戻るのは怖いと
@@ -468,9 +450,6 @@
     <value>でも、謎は全て解けたわ！
 あんたが持ち出してたってわけね</value>
   </data>
-  <data name="0113 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0114 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>おい、古泉！
 なんとかしろ！</value>
@@ -494,12 +473,6 @@
   <data name="0120 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そんなの分かってるわよ
 駒を返しなさいって言ってるの！</value>
-  </data>
-  <data name="0121 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0122 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0123 KYON (キョン)" xml:space="preserve">
     <value>これは、長門のものなんだ</value>
@@ -528,12 +501,6 @@
   </data>
   <data name="0130 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ま、それでも遊べなくはないけど</value>
-  </data>
-  <data name="0131 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0132 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0133 HARUHI (ハルヒ)" xml:space="preserve">
     <value>どうせだったら、他のゲームの駒
@@ -567,18 +534,12 @@
     <value>よくわからんが、まったく新しい
 ゲームができあがりつつあるな……</value>
   </data>
-  <data name="0142 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0143 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉が目で俺に合図を送っている</value>
   </data>
   <data name="0144 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そうか、今の内にハルヒの携帯の
 時計を遅れさせろってことか！</value>
-  </data>
-  <data name="0145 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0146 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺は机の上に置いてあったハルヒの
@@ -594,9 +555,6 @@
   <data name="0149 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんのスカートの影で
 時計を１０分ほど遅らせる</value>
-  </data>
-  <data name="0150 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0151 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>よし、これでいいだろう</value>
@@ -620,12 +578,6 @@
     <value>よし、行くぞ！
 後でな、ハルヒ！</value>
   </data>
-  <data name="0157 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0158 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0159 KYON (キョン)" xml:space="preserve">
     <value>ぶはっ、神経がすり減った</value>
   </data>
@@ -647,9 +599,6 @@
   </data>
   <data name="0165 KOIZUMI (古泉)" xml:space="preserve">
     <value>了解です</value>
-  </data>
-  <data name="0166 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0167 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>コンピ研の部室に設置した後
@@ -742,9 +691,6 @@
   </data>
   <data name="0191 KYON (キョン)" xml:space="preserve">
     <value>走るぞ、古泉！</value>
-  </data>
-  <data name="0192 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0193 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>最後の駒をここに設置すれば

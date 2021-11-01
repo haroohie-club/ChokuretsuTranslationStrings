@@ -85,9 +85,6 @@
   <data name="0007 KYON (キョン)" xml:space="preserve">
     <value>まあ、いいからちょっと来い</value>
   </data>
-  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
   <data name="0009 KYON (キョン)" xml:space="preserve">
     <value>見ろ、あれが歌の正体だ</value>
   </data>
@@ -117,9 +114,6 @@
   <data name="0016 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>やれやれ、なんとか誤魔化せたか</value>
   </data>
-  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
   <data name="0018 MIKURU (みくる)" xml:space="preserve">
     <value>え？　え？</value>
   </data>
@@ -146,12 +140,6 @@
   </data>
   <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
     <value>コーラス部……？</value>
-  </data>
-  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
-  <data name="0027 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x15;</value>
   </data>
   <data name="0028 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あそこにいるのは……
@@ -182,9 +170,6 @@
   <data name="0035 MIKURU (みくる)" xml:space="preserve">
     <value>は、はい</value>
   </data>
-  <data name="0036 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
   <data name="0037 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
@@ -210,12 +195,6 @@
   </data>
   <data name="0044 NAGATO (長門)" xml:space="preserve">
     <value>ついて来て</value>
-  </data>
-  <data name="0045 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
-  <data name="0046 NAGATO (長門)" xml:space="preserve">
-    <value>&#x15;</value>
   </data>
   <data name="0047 HARUHI (ハルヒ)" xml:space="preserve">
     <value>どっかの部活の子たち？　帰り支度
@@ -244,9 +223,6 @@
   <data name="0054 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="0055 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
   <data name="0056 KOIZUMI (古泉)" xml:space="preserve">
     <value>聞こえたというのは？</value>
   </data>
@@ -266,12 +242,6 @@
   </data>
   <data name="0061 KOIZUMI (古泉)" xml:space="preserve">
     <value>少し、寄り道をさせてください</value>
-  </data>
-  <data name="0062 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
-  <data name="0063 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x15;</value>
   </data>
   <data name="0064 KOIZUMI (古泉)" xml:space="preserve">
     <value>あれをご覧下さい</value>

@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 NAGATO (長門)" xml:space="preserve">
-    <value>)</value>
-  </data>
   <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒの足止めは古泉達に任せて
 俺は長門の手伝いをすることにした</value>
@@ -72,9 +69,6 @@
   <data name="0003 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>それを知らないと、手伝いのしよう
 がないからな</value>
-  </data>
-  <data name="0004 NAGATO (長門)" xml:space="preserve">
-    <value>)</value>
   </data>
   <data name="0005 NAGATO (長門)" xml:space="preserve">
     <value>わたしが準備をしている間に、
@@ -90,9 +84,6 @@
   <data name="0008 KYON (キョン)" xml:space="preserve">
     <value>これを指定箇所に置けば、特異点と
 やらになるのか？</value>
-  </data>
-  <data name="0009 NAGATO (長門)" xml:space="preserve">
-    <value>)</value>
   </data>
   <data name="0010 NAGATO (長門)" xml:space="preserve">
     <value>そう。設置箇所は、以前あなたが
@@ -155,9 +146,6 @@
   <data name="0026 KYON (キョン)" xml:space="preserve">
     <value>対応策？</value>
   </data>
-  <data name="0027 NAGATO (長門)" xml:space="preserve">
-    <value>)</value>
-  </data>
   <data name="0028 NAGATO (長門)" xml:space="preserve">
     <value>これを使って</value>
   </data>
@@ -177,9 +165,6 @@
   <data name="0033 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門の事だ。たった今作ったとか
 言い出しかねないからな</value>
-  </data>
-  <data name="0034 NAGATO (長門)" xml:space="preserve">
-    <value>)</value>
   </data>
   <data name="0035 KYON (キョン)" xml:space="preserve">
     <value>わかった。じゃあまずはこの近く
@@ -253,9 +238,6 @@
   </data>
   <data name="0055 NAGATO (長門)" xml:space="preserve">
     <value>……そう</value>
-  </data>
-  <data name="0056 NAGATO (長門)" xml:space="preserve">
-    <value>)</value>
   </data>
   <data name="0057 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あの『１年１０組』には長門が

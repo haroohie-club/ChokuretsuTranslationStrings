@@ -94,9 +94,6 @@
     <value>朝比奈さんがたまに口にする
 “禁則事項”のようなもんか？</value>
   </data>
-  <data name="0010 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0011 MIKURU (みくる)" xml:space="preserve">
     <value>は、はい？　ええと……
 それはちょっと違う概念で……</value>
@@ -189,12 +186,6 @@
     <value>込んで、今以上に印象を悪くする
 必要はないからな</value>
   </data>
-  <data name="0037 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0038 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0039 MIKURU (みくる)" xml:space="preserve">
     <value>思ったより簡単に貸してくれました</value>
   </data>
@@ -213,18 +204,9 @@
     <value>正確に、俺たちのことを把握した
 忠告だが……それは多分、守れない</value>
   </data>
-  <data name="0044 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0045 KOIZUMI (古泉)" xml:space="preserve">
     <value>少し時間のロスが多いですね
 急いで集合場所へ戻りましょうか</value>
-  </data>
-  <data name="0046 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0047 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0048 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>三人で渡り廊下を渡り、集合場所へ
@@ -464,12 +446,6 @@
   <data name="0115 KYON (キョン)" xml:space="preserve">
     <value>お願いします。じゃあ、行くか古泉</value>
   </data>
-  <data name="0116 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0117 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0118 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉と二人で職員室まで戻りつつ
 廊下のすみに鍵が落ちていないか</value>
@@ -553,9 +529,6 @@
   <data name="0141 KYON (キョン)" xml:space="preserve">
     <value>ああ、そうだな</value>
   </data>
-  <data name="0142 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0143 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さん、こっちはありませんで
 したけど、そちらはどうでした？</value>
@@ -576,9 +549,6 @@
   <data name="0148 KYON (キョン)" xml:space="preserve">
     <value>な、なんですか一体
 ほら、頭を上げてください</value>
-  </data>
-  <data name="0149 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0150 KOIZUMI (古泉)" xml:space="preserve">
     <value>どうかしたんですか？</value>

@@ -250,18 +250,12 @@
   <data name="0052 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>生きていればいいこともあるものだ</value>
   </data>
-  <data name="0053 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0054 HARUHI (ハルヒ)" xml:space="preserve">
     <value>で、なんで駒も持ってこずに
 のうのうと逃げ帰ってくるわけ？</value>
   </data>
   <data name="0055 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>むろん、ハルヒは怒ったわけだ</value>
-  </data>
-  <data name="0056 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0057 MIKURU (みくる)" xml:space="preserve">
     <value>すみません、あたし怖くて先に
@@ -310,12 +304,6 @@
   <data name="0069 MIKURU (みくる)" xml:space="preserve">
     <value>は、はい</value>
   </data>
-  <data name="0070 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0071 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0072 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……そっか、みくるちゃんがケガ
 したからキョンが連れ帰ったのね</value>
@@ -351,12 +339,6 @@
   <data name="0081 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>もしかして、ハルヒのやつ落ち込ん
 いるのだろうか</value>
-  </data>
-  <data name="0082 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0083 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0084 KYON (キョン)" xml:space="preserve">
     <value>まあそう凹むな、不慮の事故
@@ -458,12 +440,6 @@
     <value>どうやら朝比奈さんの不死身は回避
 されたらしい……</value>
   </data>
-  <data name="0112 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0113 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0114 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ケガしたみくるちゃんを連れて
 帰ってきたのはいいとして</value>
@@ -506,9 +482,6 @@
   </data>
   <data name="0125 KYON (キョン)" xml:space="preserve">
     <value>……はいはい、分かったよ</value>
-  </data>
-  <data name="0126 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0127 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒに追い出されるようにして

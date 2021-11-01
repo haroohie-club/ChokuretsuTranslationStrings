@@ -228,9 +228,6 @@
   <data name="0046 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>おい、体験談を話してやってくれ</value>
   </data>
-  <data name="0047 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0048 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>何を話したらいいのかな？</value>
   </data>
@@ -281,9 +278,6 @@
   <data name="0061 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そんな話より
 早く本題を聞き出さないとな</value>
-  </data>
-  <data name="0062 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0063 KYON (キョン)" xml:space="preserve">
     <value>つまり、貼り紙をしていて体験した
@@ -359,9 +353,6 @@
   <data name="0083 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>でも僕はハッキリと見たんだ……
 １－１０って表札をね</value>
-  </data>
-  <data name="0084 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0085 KYON (キョン)" xml:space="preserve">
     <value>そうですか……</value>
@@ -662,12 +653,6 @@
   </data>
   <data name="0168 KYON (キョン)" xml:space="preserve">
     <value>じゃ、俺はこれで失礼しますよ……</value>
-  </data>
-  <data name="0169 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0170 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0171 KYON (キョン)" xml:space="preserve">
     <value>あれ？</value>

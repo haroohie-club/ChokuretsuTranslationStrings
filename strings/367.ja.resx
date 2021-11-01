@@ -89,12 +89,6 @@
   <data name="0008 KYON (キョン)" xml:space="preserve">
     <value>さあ、行くか</value>
   </data>
-  <data name="0009 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0010 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0011 KYON (キョン)" xml:space="preserve">
     <value>こんちわー</value>
   </data>
@@ -118,9 +112,6 @@
   <data name="0017 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>……へ？</value>
   </data>
-  <data name="0018 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0019 NAGATO (長門)" xml:space="preserve">
     <value>お茶
 どうぞ</value>
@@ -140,9 +131,6 @@
   <data name="0023 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>明らかに、二人のアピールを喜んで
 いるじゃないか</value>
-  </data>
-  <data name="0024 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0025 MIKURU (みくる)" xml:space="preserve">
     <value>あ、あの、お茶を入れさせていただ
@@ -184,21 +172,9 @@
     <value>部長氏のうっとりとした視線が、
 長門と朝比奈さんに向けられている</value>
   </data>
-  <data name="0036 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0037 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0038 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門はいつも通りのポーカーフェイ
 スだが</value>
-  </data>
-  <data name="0039 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0040 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0041 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんは部長氏と目が合うたび
@@ -212,9 +188,6 @@
     <value>この部長氏にものすごいことをされ
 た時の記憶がよみがえるのだろう</value>
   </data>
-  <data name="0044 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0045 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>一方部長氏はというと</value>
   </data>
@@ -224,12 +197,6 @@
   </data>
   <data name="0047 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>などと呟いている</value>
-  </data>
-  <data name="0048 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0049 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0050 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>だんぜん、朝比奈さんだな</value>
@@ -250,12 +217,6 @@
     <value>単に、メイド服が気になるだけかも
 しれないが</value>
   </data>
-  <data name="0055 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0056 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0057 KYON (キョン)" xml:space="preserve">
     <value>まあ、どちらかと言えば長門かな</value>
   </data>
@@ -266,12 +227,6 @@
   <data name="0059 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>しかし長門ならいつものように冷静
 かつ迅速にこなしてくれるだろう</value>
-  </data>
-  <data name="0060 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0061 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0062 MIKURU (みくる)" xml:space="preserve">
     <value>キョンくんもお茶、いりますか？</value>
@@ -456,12 +411,6 @@
     <value>おかげでハルヒをごまかすいい材料
 を手にいれたかもしれないからな</value>
   </data>
-  <data name="0111 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0112 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0113 MIKURU (みくる)" xml:space="preserve">
     <value>あっ、お茶のお代わりはいかがです
 か？</value>
@@ -503,9 +452,6 @@
   <data name="0124 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>わざわざミスを指摘して、このムー
 ドを崩すことはないか……</value>
-  </data>
-  <data name="0125 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0126 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>君たちの団は、いつもこんな感じな
@@ -578,9 +524,6 @@
   <data name="0144 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>はやっ！</value>
   </data>
-  <data name="0145 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0146 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>あ、ありがとう</value>
   </data>
@@ -619,12 +562,6 @@
     <value>……まあ、長門がそんなことを言う
 なんて、想像もつかないが</value>
   </data>
-  <data name="0157 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0158 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0159 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さ～ん！</value>
   </data>
@@ -638,9 +575,6 @@
   <data name="0162 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>若干うわずった声で返事をし
 朝比奈さんは、急須をもってくる</value>
-  </data>
-  <data name="0163 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0164 MIKURU (みくる)" xml:space="preserve">
     <value>ど……どうぞ</value>
@@ -690,12 +624,6 @@
   <data name="0176 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>などと勘違いしているような気がす
 るが……まあ訂正することもないか</value>
-  </data>
-  <data name="0177 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0178 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0179 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>しかし、コンピ研内の雰囲気は明る

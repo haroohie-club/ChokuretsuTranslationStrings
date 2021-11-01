@@ -58,12 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0001 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0002 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門と古泉と共にカギを取りに
 職員室に行くことになった</value>
@@ -135,12 +129,6 @@
   <data name="0021 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>役割分担を終え、俺たちは職員室へ
 入って行った</value>
-  </data>
-  <data name="0022 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0024 KOIZUMI (古泉)" xml:space="preserve">
     <value>これが音楽室のカギです
@@ -269,9 +257,6 @@
   </data>
   <data name="0058 KYON (キョン)" xml:space="preserve">
     <value>すまんが頼む</value>
-  </data>
-  <data name="0059 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0060 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉を送り出し、ほんの

@@ -84,9 +84,6 @@
     <value>ぷりぷりしているハルヒにもう一言
 と思っていると、古泉に呼ばれた</value>
   </data>
-  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0008 KOIZUMI (古泉)" xml:space="preserve">
     <value>あまり涼宮さんに、おかしなことを
 想像させないでください</value>
@@ -118,18 +115,6 @@
   <data name="0015 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>振り出しに戻る、って感じだな
 なにかいいアイディアは無いもんか</value>
-  </data>
-  <data name="0016 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0017 NAGATO (長門)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0018 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0019 NAGATO (長門)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0020 KYON (キョン)" xml:space="preserve">
     <value>長門、ちょっと聞きたいんだが……</value>
@@ -181,15 +166,6 @@
   <data name="0034 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>生真面目な顔で長門が答えて、俺は
 ため息をついた。やれやれ</value>
-  </data>
-  <data name="0035 NAGATO (長門)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0036 NAGATO (長門)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0037 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0038 KYON (キョン)" xml:space="preserve">
     <value>おい、古泉</value>
@@ -251,9 +227,6 @@
   </data>
   <data name="0054 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺はため息をついた。やれやれ</value>
-  </data>
-  <data name="0055 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0056 KYON (キョン)" xml:space="preserve">
     <value>ハルヒ、闇雲に探しても見つからな
@@ -343,21 +316,6 @@
     <value>せめて、誰か俺に助言をくれないか
 ……？</value>
   </data>
-  <data name="0080 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0081 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0082 NAGATO (長門)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0083 NAGATO (長門)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0084 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0085 KYON (キョン)" xml:space="preserve">
     <value>古泉、なにか心当たりはないか？</value>
   </data>
@@ -425,15 +383,6 @@
     <value>今だけは特別にその笑顔を
 許してやろう</value>
   </data>
-  <data name="0104 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0105 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0106 NAGATO (長門)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0107 KYON (キョン)" xml:space="preserve">
     <value>長門、心当たりはあるか？</value>
   </data>
@@ -450,9 +399,6 @@
   <data name="0111 KYON (キョン)" xml:space="preserve">
     <value>い、いつつめ？
 ……こっちか？</value>
-  </data>
-  <data name="0112 NAGATO (長門)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0113 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺が扉の数を数えながら廊下を歩き

@@ -104,9 +104,6 @@
     <value>とは言え、ハルヒを学校から引き
 離せるのは正直ありがたい</value>
   </data>
-  <data name="0013 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さあ、キョン！　あたし達は学校に
 戻ってバーベキュー道具を探すわよ</value>
@@ -122,9 +119,6 @@
   <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>じゃあ、どこから借り出せるか
 意見を言ってみなさい</value>
-  </data>
-  <data name="0018 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0019 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>場所だけでなく、道具だって用意
@@ -156,12 +150,6 @@
     <value>妹を連れて出発するハルヒの後を
 俺はため息をついて歩き出した</value>
   </data>
-  <data name="0027 KYON_SIS (妹)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0028 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0029 KYON (キョン)" xml:space="preserve">
     <value>バーベキューの道具なんて、学校に
 あるのかよ？</value>
@@ -176,9 +164,6 @@
   <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
     <value>だったらバーベキューグリルくらい
 あってしかるべしだわ</value>
-  </data>
-  <data name="0033 KYON_SIS (妹)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0034 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒは確信を持っているように
@@ -218,9 +203,6 @@
   <data name="0044 KYON (キョン)" xml:space="preserve">
     <value>しまったな。長門を連れてくるべき
 だったか</value>
-  </data>
-  <data name="0045 KYON_SIS (妹)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0046 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……何よ、キョン。あたしとじゃ
@@ -357,9 +339,6 @@
   </data>
   <data name="0082 KYON (キョン)" xml:space="preserve">
     <value>ああそうかい</value>
-  </data>
-  <data name="0083 KYON_SIS (妹)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0084 HARUHI (ハルヒ)" xml:space="preserve">
     <value>何よ、そのやる気なさそうな態度</value>
@@ -545,12 +524,6 @@
   </data>
   <data name="0136 KYON_SIS (妹)" xml:space="preserve">
     <value>バーベキューだー！</value>
-  </data>
-  <data name="0137 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0138 KYON_SIS (妹)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0139 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>グリルを磨くのは雑用係の俺の仕事

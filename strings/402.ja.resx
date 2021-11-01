@@ -89,9 +89,6 @@
   <data name="0008 KYON_SIS (妹)" xml:space="preserve">
     <value>はーい</value>
   </data>
-  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0010 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>返事は素直でいいが、妹を連れて
 来て正解だったか悩ましいところだ</value>
@@ -137,9 +134,6 @@
     <value>そもそも調査しに来ているはずで
 速読しに来たわけじゃない</value>
   </data>
-  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0023 KYON (キョン)" xml:space="preserve">
     <value>長門、ハルヒが音楽室に行かなく
 なるようにする情報はありそうか？</value>
@@ -178,9 +172,6 @@
   <data name="0033 NAGATO (長門)" xml:space="preserve">
     <value>……わかった</value>
   </data>
-  <data name="0034 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0035 KYON (キョン)" xml:space="preserve">
     <value>ちょ、ちょっと待った！　まさか
 噛みつくとかそういうのか？</value>
@@ -191,9 +182,6 @@
   <data name="0037 KYON (キョン)" xml:space="preserve">
     <value>やめておく。ハルヒに見られたら
 いらん誤解を生みそうだ</value>
-  </data>
-  <data name="0038 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0039 KYON (キョン)" xml:space="preserve">
     <value>……いや、やめておくよ</value>
@@ -210,9 +198,6 @@
   <data name="0043 KYON (キョン)" xml:space="preserve">
     <value>#P05“超速読術教本”#P00か……
 これを読むだけで精一杯な気がする</value>
-  </data>
-  <data name="0044 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0045 HARUHI (ハルヒ)" xml:space="preserve">
     <value>はいっ、１冊読破っ！</value>
@@ -291,9 +276,6 @@
   <data name="0067 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒが考え込んでいる間に長門と
 こっそり打ち合わせだな</value>
-  </data>
-  <data name="0068 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0069 KYON (キョン)" xml:space="preserve">
     <value>長門、今の話は本当か？</value>
@@ -400,9 +382,6 @@
   </data>
   <data name="0099 KYON (キョン)" xml:space="preserve">
     <value>すまんな、長門</value>
-  </data>
-  <data name="0100 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0101 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あんたはなにおしゃべりしてるの</value>
@@ -786,12 +765,6 @@
   <data name="0206 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>先が思いやられるってところは
 そのままそっくりお返ししたいぞ</value>
-  </data>
-  <data name="0207 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0208 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0209 KYON_SIS (妹)" xml:space="preserve">
     <value>キョンくん、あきたー</value>

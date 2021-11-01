@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒの肝試しに散々振り回された
 わけだが、それもようやく終わった </value>
@@ -68,9 +65,6 @@
   <data name="0002 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ほんの少しだが、ハルヒのご機嫌も
 上を向いたように見える</value>
-  </data>
-  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0004 KOIZUMI (古泉)" xml:space="preserve">
     <value>ただいま戻りました</value>
@@ -96,12 +90,6 @@
   <data name="0010 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒにはあくまで“片付け”と
 いうことにして、だ</value>
-  </data>
-  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0012 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0013 KYON (キョン)" xml:space="preserve">
     <value>古泉……どうだ？</value>
@@ -135,9 +123,6 @@
   </data>
   <data name="0021 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>また、例のお仲間たちの出番か？</value>
-  </data>
-  <data name="0022 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0023 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あとは鏡から自分の分身が出てくる
@@ -258,9 +243,6 @@
     <value>今回はってことは、次は必ずやると
 いう意思表示だろうか</value>
   </data>
-  <data name="0055 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0056 HARUHI (ハルヒ)" xml:space="preserve">
     <value>じゃ、あたしは昇降口に行って
 張り込んでるわねっ</value>
@@ -276,9 +258,6 @@
     <value>ああ……しかし、まずいことに
 なったな</value>
   </data>
-  <data name="0060 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0061 MIKURU (みくる)" xml:space="preserve">
     <value>どうしましょう、キョンくん</value>
   </data>
@@ -287,12 +266,6 @@
   </data>
   <data name="0063 KYON (キョン)" xml:space="preserve">
     <value>そうだな、長門の言う通りだ</value>
-  </data>
-  <data name="0064 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0065 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0066 KYON (キョン)" xml:space="preserve">
     <value>問題は、どうやってハルヒを部室に
@@ -305,12 +278,6 @@
   <data name="0068 KYON (キョン)" xml:space="preserve">
     <value>ハルヒの目の前で、ハルヒの分身と
 やらが現れたら大変だからな</value>
-  </data>
-  <data name="0069 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0070 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0071 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉たちが言うには、ハルヒが世界
@@ -338,9 +305,6 @@
   </data>
   <data name="0077 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そう考えるだけでゾッとするね</value>
-  </data>
-  <data name="0078 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0079 KYON (キョン)" xml:space="preserve">
     <value>とにかく、最悪の事態は回避したい
@@ -373,9 +337,6 @@
     <value>今日一日、ずっとそれに頭を悩ませ
 てきたんだよな……</value>
   </data>
-  <data name="0087 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0088 NAGATO (長門)" xml:space="preserve">
     <value>涼宮ハルヒの機嫌を損ねないように
 対処するのが望ましい</value>
@@ -400,9 +361,6 @@
   <data name="0094 KOIZUMI (古泉)" xml:space="preserve">
     <value>それは、単なる偶然と言うわけでは
 ないはずです</value>
-  </data>
-  <data name="0095 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0096 MIKURU (みくる)" xml:space="preserve">
     <value>あたしも、そう思います
@@ -448,17 +406,11 @@
   <data name="0107 KYON (キョン)" xml:space="preserve">
     <value>長門、それも臨機応変ってやつか？</value>
   </data>
-  <data name="0108 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0109 NAGATO (長門)" xml:space="preserve">
     <value>……そう、臨機応変</value>
   </data>
   <data name="0110 KYON (キョン)" xml:space="preserve">
     <value>だそうです、朝比奈さん</value>
-  </data>
-  <data name="0111 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0112 KOIZUMI (古泉)" xml:space="preserve">
     <value>ひとつ気になるのですが、涼宮さん
@@ -527,9 +479,6 @@
   <data name="0130 KYON (キョン)" xml:space="preserve">
     <value>……長門、どう思う？</value>
   </data>
-  <data name="0131 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0132 NAGATO (長門)" xml:space="preserve">
     <value>涼宮ハルヒが時計を意識し続ければ
 発生確率は上昇していく</value>
@@ -558,9 +507,6 @@
   <data name="0139 KYON (キョン)" xml:space="preserve">
     <value>しかも、時計を狂わせる以外は
 ほとんど出たとこ勝負の作戦だがな</value>
-  </data>
-  <data name="0140 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0141 MIKURU (みくる)" xml:space="preserve">
     <value>キョンくんの作戦で大丈夫だと思う

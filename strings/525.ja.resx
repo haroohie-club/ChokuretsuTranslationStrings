@@ -75,9 +75,6 @@
   <data name="0004 KYON (キョン)" xml:space="preserve">
     <value>そうだ！　ハルヒ！</value>
   </data>
-  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1A;</value>
-  </data>
   <data name="0006 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あ……キョン！</value>
   </data>
@@ -135,18 +132,9 @@
     <value>大丈夫だ。みんなもう部室に戻って
 る。そんな気がするんだ</value>
   </data>
-  <data name="0023 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1A;</value>
-  </data>
-  <data name="0024 GIRL (少女)" xml:space="preserve">
-    <value>&#x1A;</value>
-  </data>
   <data name="0025 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒの手を引こうと背後を振り
 返ると、長い髪の少女が見えた</value>
-  </data>
-  <data name="0026 GIRL (少女)" xml:space="preserve">
-    <value>&#x1A;</value>
   </data>
   <data name="0027 KYON (キョン)" xml:space="preserve">
     <value>マジで急ぐぞ、ハルヒ</value>
@@ -197,9 +185,6 @@
     <value>横暴ではおまえに勝てないって
 などとバカ言ってる場合じゃない</value>
   </data>
-  <data name="0042 GIRL (少女)" xml:space="preserve">
-    <value>&#x1A;</value>
-  </data>
   <data name="0043 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>すぐ背後まで長い髪の少女が迫って
 来ている</value>
@@ -207,9 +192,6 @@
   <data name="0044 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>しかし、なにかに阻まれたように
 立ち止まっている</value>
-  </data>
-  <data name="0045 GIRL (少女)" xml:space="preserve">
-    <value>&#x1A;</value>
   </data>
   <data name="0046 KYON (キョン)" xml:space="preserve">
     <value>一気に走り抜けるぞ、ハルヒ！</value>
@@ -234,18 +216,12 @@
   <data name="0052 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ああ、部室はそうだろうとも</value>
   </data>
-  <data name="0053 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1A;</value>
-  </data>
   <data name="0054 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なんとか部室に辿り着くと、長門の
 唇が少し動くのを見た</value>
   </data>
   <data name="0055 NAGATO (長門)" xml:space="preserve">
     <value>……情報連結解除開始</value>
-  </data>
-  <data name="0056 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1A;</value>
   </data>
   <data name="0057 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門による空間の正常化が始まった</value>

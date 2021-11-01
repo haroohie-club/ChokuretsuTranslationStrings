@@ -77,9 +77,6 @@
     <value>情報結合は不安定なまま。異空間が
 発生する確率は上昇中</value>
   </data>
-  <data name="0005 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0006 KOIZUMI (古泉)" xml:space="preserve">
     <value>怪異の発生率の上昇は、そのまま
 涼宮さんに目撃される危険の上昇</value>
@@ -111,18 +108,6 @@
   <data name="0013 KYON (キョン)" xml:space="preserve">
     <value>そうだな……</value>
   </data>
-  <data name="0014 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0015 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0016 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0017 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0018 KYON (キョン)" xml:space="preserve">
     <value>この状況でどんなモノが作れる？</value>
   </data>
@@ -136,12 +121,6 @@
   </data>
   <data name="0021 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>単純なもの……と言ってもな</value>
-  </data>
-  <data name="0022 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0023 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0024 KYON (キョン)" xml:space="preserve">
     <value>どうすりゃいいと思う？</value>
@@ -159,12 +138,6 @@
   </data>
   <data name="0028 KYON (キョン)" xml:space="preserve">
     <value>……悪かったよ</value>
-  </data>
-  <data name="0029 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0030 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0031 KOIZUMI (古泉)" xml:space="preserve">
     <value>人間とは不思議なもので、恐怖感を
@@ -251,9 +224,6 @@
   <data name="0055 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門が本好きなのは良くわかって
 いるが、この場合は違うんだよ</value>
-  </data>
-  <data name="0056 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0057 KOIZUMI (古泉)" xml:space="preserve">
     <value>長門さん、前提が違いますよ</value>
@@ -398,12 +368,6 @@
     <value>だからといって、真っ暗な校内で
 手際よく作業できるはずもない</value>
   </data>
-  <data name="0096 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0097 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0098 KYON (キョン)" xml:space="preserve">
     <value>長門、懐中電灯を見つけて
 くれないか？</value>
@@ -432,12 +396,6 @@
   <data name="0105 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門はさっさと懐中電灯を見つけて
 戻ってきた。有能だな、長門</value>
-  </data>
-  <data name="0106 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0107 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0108 KYON (キョン)" xml:space="preserve">
     <value>懐中電灯を探してくれ、古泉</value>
@@ -478,12 +436,6 @@
   </data>
   <data name="0119 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉の有能ぶりにはまいるぜ</value>
-  </data>
-  <data name="0120 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0121 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0122 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺たちは掃除用具入れから道具を

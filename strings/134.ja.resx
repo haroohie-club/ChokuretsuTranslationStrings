@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x10;</value>
-  </data>
   <data name="0001 MIKURU (みくる)" xml:space="preserve">
     <value>それじゃ始めましょうか</value>
   </data>
@@ -145,9 +142,6 @@
   <data name="0023 INFO (インフォ)" xml:space="preserve">
     <value>各駒の戦力ポイントを確認してくだ
 さい</value>
-  </data>
-  <data name="0024 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x10;</value>
   </data>
   <data name="0025 INFO (インフォ)" xml:space="preserve">
     <value>図のように“キング”は取られる事

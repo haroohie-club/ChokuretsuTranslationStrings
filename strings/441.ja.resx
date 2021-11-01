@@ -83,12 +83,6 @@
   <data name="0006 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>語るに落ちるにもほどがあるな</value>
   </data>
-  <data name="0007 9 (国木田)" xml:space="preserve">
-    <value>?</value>
-  </data>
-  <data name="0008 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>?</value>
-  </data>
   <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
     <value>誰よこんなのを呼んだのは</value>
   </data>
@@ -163,12 +157,6 @@
   <data name="0028 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒがどうかは知らんがな</value>
   </data>
-  <data name="0029 9 (国木田)" xml:space="preserve">
-    <value>?</value>
-  </data>
-  <data name="0030 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>?</value>
-  </data>
   <data name="0031 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ちょっとキョン！
 こっちに来なさい</value>
@@ -223,9 +211,6 @@
   <data name="0045 KYON (キョン)" xml:space="preserve">
     <value>へいへい</value>
   </data>
-  <data name="0046 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>?</value>
-  </data>
   <data name="0047 TANIGUCHI (谷口)" xml:space="preserve">
     <value>おいキョン、なんなんだ
 涼宮のあの態度は</value>
@@ -248,12 +233,6 @@
     <value>賑やかになったのはいいが、俺の
 気苦労は確実に増加してるな</value>
   </data>
-  <data name="0053 9 (国木田)" xml:space="preserve">
-    <value>?</value>
-  </data>
-  <data name="0054 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>?</value>
-  </data>
   <data name="0055 TSURUYA (鶴屋)" xml:space="preserve">
     <value>やー、でも悪いねー</value>
   </data>
@@ -275,9 +254,6 @@
   <data name="0060 TSURUYA (鶴屋)" xml:space="preserve">
     <value>あはははっ！
 あたしがみくるの保護者かあ</value>
-  </data>
-  <data name="0061 MIKURU (みくる)" xml:space="preserve">
-    <value>?</value>
   </data>
   <data name="0062 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃんは発育はよろしいけど
@@ -306,12 +282,6 @@
   </data>
   <data name="0069 MIKURU (みくる)" xml:space="preserve">
     <value>いってらっしゃい～</value>
-  </data>
-  <data name="0070 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>?</value>
-  </data>
-  <data name="0071 MIKURU (みくる)" xml:space="preserve">
-    <value>?</value>
   </data>
   <data name="0072 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんらと共に、鶴屋さんの
@@ -402,9 +372,6 @@
     <value>未来じゃバーベキューは禁止され
 てたりしないだろうな</value>
   </data>
-  <data name="0097 MIKURU (みくる)" xml:space="preserve">
-    <value>?</value>
-  </data>
   <data name="0098 MIKURU (みくる)" xml:space="preserve">
     <value>あのうキョンくん、もうそろそろ
 どうでしょうか？</value>
@@ -416,9 +383,6 @@
   <data name="0100 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>これは早いとこ料理をはじめた
 ほうがいいな……</value>
-  </data>
-  <data name="0101 MIKURU (みくる)" xml:space="preserve">
-    <value>?</value>
   </data>
   <data name="0102 KYON (キョン)" xml:space="preserve">
     <value>長門、今さらだがバーベキュー
@@ -446,9 +410,6 @@
     <value>なぜだろう、長門に近寄り難い
 何かを感じる……！</value>
   </data>
-  <data name="0109 NAGATO (長門)" xml:space="preserve">
-    <value>?</value>
-  </data>
   <data name="0110 KOIZUMI (古泉)" xml:space="preserve">
     <value>これだけの大人数でやるとなると
 なかなか賑やかで楽しいでしょうね</value>
@@ -474,9 +435,6 @@
   <data name="0116 KYON (キョン)" xml:space="preserve">
     <value>ああ、分かってる</value>
   </data>
-  <data name="0117 KOIZUMI (古泉)" xml:space="preserve">
-    <value>?</value>
-  </data>
   <data name="0118 KOIZUMI (古泉)" xml:space="preserve">
     <value>あくまで楽しく</value>
   </data>
@@ -486,9 +444,6 @@
   </data>
   <data name="0120 KYON (キョン)" xml:space="preserve">
     <value>ああ、分かってるさ</value>
-  </data>
-  <data name="0121 KOIZUMI (古泉)" xml:space="preserve">
-    <value>?</value>
   </data>
   <data name="0122 KYON (キョン)" xml:space="preserve">
     <value>妹よ、分かっているな</value>
@@ -519,9 +474,6 @@
   <data name="0130 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>食材の山の一角を占めるピーマンを
 恨めしそうに睨んでいる</value>
-  </data>
-  <data name="0131 KYON_SIS (妹)" xml:space="preserve">
-    <value>?</value>
   </data>
   <data name="0132 KYON (キョン)" xml:space="preserve">
     <value>鶴屋さん、急にお誘いして
@@ -580,18 +532,12 @@
   <data name="0147 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>若干不安が残るのはなぜだろう……</value>
   </data>
-  <data name="0148 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>?</value>
-  </data>
   <data name="0149 TANIGUCHI (谷口)" xml:space="preserve">
     <value>おい、いつになったら始めるんだ
 俺はもう待ちくたびれたぞ！</value>
   </data>
   <data name="0150 KYON (キョン)" xml:space="preserve">
     <value>いいから落ち着け</value>
-  </data>
-  <data name="0151 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>?</value>
   </data>
   <data name="0152 9 (国木田)" xml:space="preserve">
     <value>やあ、キョン</value>
@@ -618,9 +564,6 @@
   </data>
   <data name="0159 KYON (キョン)" xml:space="preserve">
     <value>ああ、もうちょっと待ってくれ</value>
-  </data>
-  <data name="0160 9 (国木田)" xml:space="preserve">
-    <value>?</value>
   </data>
   <data name="0161 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>調達してきたコンロが目の前にある</value>

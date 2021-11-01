@@ -77,9 +77,6 @@
     <value>長門、その情報生命体とやらの
 居場所は分かったのか？</value>
   </data>
-  <data name="0005 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0006 NAGATO (長門)" xml:space="preserve">
     <value>まだ</value>
   </data>
@@ -94,9 +91,6 @@
     <value>まるで存在を疑っているかのような
 反応だ。長門は“いる”と言ったぞ</value>
   </data>
-  <data name="0010 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0011 MIKURU (みくる)" xml:space="preserve">
     <value>もう自分の世界に帰っちゃったって
 いうことは……？</value>
@@ -110,12 +104,6 @@
   </data>
   <data name="0014 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>相変わらず、状況は芳しくない</value>
-  </data>
-  <data name="0015 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0016 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0017 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さんの精神状態の方も良いとは
@@ -188,9 +176,6 @@
     <value>女子トイレの前で出待ちするなんて
 最低……と怒鳴られるかもしれんが</value>
   </data>
-  <data name="0036 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0037 MIKURU (みくる)" xml:space="preserve">
     <value>大丈夫、きっと何とかなりますよ</value>
   </data>
@@ -204,9 +189,6 @@
   <data name="0040 KYON (キョン)" xml:space="preserve">
     <value>先に行ってくれ、俺はこの、ハルヒ
 のキックで汚れた壁を拭いていく</value>
-  </data>
-  <data name="0041 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0042 MIKURU (みくる)" xml:space="preserve">
     <value>キョンくん、よかったら
@@ -225,9 +207,6 @@
   <data name="0046 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉に続いて、長門が歩き出した
 その後に、朝比奈さんも続く</value>
-  </data>
-  <data name="0047 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0048 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さて、このしっかり壁に残った
@@ -545,9 +524,6 @@
   </data>
   <data name="0137 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>その亀裂から現れたのは……</value>
-  </data>
-  <data name="0138 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0139 NAGATO (長門)" xml:space="preserve">
     <value>間に合った</value>

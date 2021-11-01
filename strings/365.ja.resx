@@ -182,9 +182,6 @@
     <value>しかし、そうなるとあのＰＣは本当
 に宝の持ち腐れだな</value>
   </data>
-  <data name="0035 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0036 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>当たり前といえば当たり前なんだが
 とにかくパソコンだらけの部室だ</value>
@@ -229,9 +226,6 @@
   </data>
   <data name="0047 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>やっぱり俺が声をかけないとだめか</value>
-  </data>
-  <data name="0048 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0049 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>む？　また来たのかキミたちは！？
@@ -364,9 +358,6 @@
     <value>キミたちの境遇には同情するよ
 しかし、何度も言うが僕たちは――</value>
   </data>
-  <data name="0084 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0085 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>た、大変です！　部長ぉっ！</value>
   </data>
@@ -383,9 +374,6 @@
   <data name="0089 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>なんだって……！？　再起動は！？</value>
   </data>
-  <data name="0090 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0091 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>何度ためしても、ダメみたいで……
 物理的に壊れちゃった可能性も……</value>
@@ -393,9 +381,6 @@
   <data name="0092 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>データのバックアップは！？
 ちゃんとコピーしてたんだろう！？</value>
-  </data>
-  <data name="0093 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0094 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>それが、まだ……これからって時に
@@ -425,9 +410,6 @@
   <data name="0101 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>部長……みんなゴメン、もっと早く
 バックアップを取っていたら……</value>
-  </data>
-  <data name="0102 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0103 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まるで通夜のような重い空気である
@@ -470,12 +452,6 @@
   <data name="0114 NAGATO (長門)" xml:space="preserve">
     <value>わかった</value>
   </data>
-  <data name="0115 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0116 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0117 KYON (キョン)" xml:space="preserve">
     <value>あー、部長さん。実は長門は結構
 ＰＣに詳しいやつなんですよ</value>
@@ -509,9 +485,6 @@
   <data name="0126 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>今度はいったいなんだ……？
 これ以上、もう何が起きたって……</value>
-  </data>
-  <data name="0127 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0128 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>き、起動しました！　サーバーが
@@ -699,9 +672,6 @@
   <data name="0177 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>世界の危機がかかってるんだ、と
 言ってやりたいところなんだが……</value>
-  </data>
-  <data name="0178 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0179 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>バックアップとウイルスチェック

@@ -92,9 +92,6 @@
     <value>うっさいわね
 いいから黙って聞きなさい！</value>
   </data>
-  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>7</value>
-  </data>
   <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>昔ね、天才と呼ばれるにふさわしい
 音楽の才能をもった生徒がいたのよ</value>
@@ -105,9 +102,6 @@
   </data>
   <data name="0012 HARUHI (ハルヒ)" xml:space="preserve">
     <value>けど、彼女を不幸が襲った――</value>
-  </data>
-  <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>　</value>
   </data>
   <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
     <value>不幸な事故が、彼女から音楽を
@@ -155,9 +149,6 @@
   <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
     <value>もちろん、途中の一小節が
 抜けたまま……ね</value>
-  </data>
-  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>7</value>
   </data>
   <data name="0027 MIKURU (みくる)" xml:space="preserve">
     <value>ふぇええん、かわいそうですぅ！</value>
@@ -218,9 +209,6 @@
   <data name="0042 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さあ、中に入るわよ！</value>
   </data>
-  <data name="0043 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>7</value>
-  </data>
   <data name="0044 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>生徒とはいえ頻繁に足を踏み入れる
 ことのない音楽室</value>
@@ -248,12 +236,6 @@
   </data>
   <data name="0051 KYON_SIS (妹)" xml:space="preserve">
     <value>むぅ～</value>
-  </data>
-  <data name="0052 MIKURU (みくる)" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="0053 KYON_SIS (妹)" xml:space="preserve">
-    <value>7</value>
   </data>
   <data name="0054 HARUHI (ハルヒ)" xml:space="preserve">
     <value>安心なさい、妹ちゃん！</value>
@@ -351,9 +333,6 @@
   <data name="0081 KYON (キョン)" xml:space="preserve">
     <value>へいへい</value>
   </data>
-  <data name="0082 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>7</value>
-  </data>
   <data name="0083 HARUHI (ハルヒ)" xml:space="preserve">
     <value>…………</value>
   </data>
@@ -436,9 +415,6 @@
   </data>
   <data name="0109 MIKURU (みくる)" xml:space="preserve">
     <value>じゃあ、あたしとお話しましょうか</value>
-  </data>
-  <data name="0110 KYON_SIS (妹)" xml:space="preserve">
-    <value>7</value>
   </data>
   <data name="0111 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なによ！　ちっとも鳴り出したり
@@ -537,9 +513,6 @@
     <value>……わかった
 本人に聞いてみよう</value>
   </data>
-  <data name="0138 KOIZUMI (古泉)" xml:space="preserve">
-    <value>7</value>
-  </data>
   <data name="0139 KYON (キョン)" xml:space="preserve">
     <value>長門、聞きたいことがあるんだが</value>
   </data>
@@ -555,9 +528,6 @@
   </data>
   <data name="0143 KYON (キョン)" xml:space="preserve">
     <value>あれは、なんだったんだ？</value>
-  </data>
-  <data name="0144 NAGATO (長門)" xml:space="preserve">
-    <value>7</value>
   </data>
   <data name="0145 KOIZUMI (古泉)" xml:space="preserve">
     <value>何かが気になるとおっしゃって
@@ -607,12 +577,6 @@
   </data>
   <data name="0158 KYON (キョン)" xml:space="preserve">
     <value>きれいすぎ……る？</value>
-  </data>
-  <data name="0159 NAGATO (長門)" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="0160 KOIZUMI (古泉)" xml:space="preserve">
-    <value>7</value>
   </data>
   <data name="0161 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ちょっとそこの３人</value>
@@ -753,9 +717,6 @@
   <data name="0200 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そっとしておこう</value>
   </data>
-  <data name="0201 MIKURU (みくる)" xml:space="preserve">
-    <value>7</value>
-  </data>
   <data name="0202 KYON (キョン)" xml:space="preserve">
     <value>何か見つかったか？</value>
   </data>
@@ -844,9 +805,6 @@
     <value>普通の人間である俺には、怪異だ
 なんて荷が重すぎるからな</value>
   </data>
-  <data name="0228 KOIZUMI (古泉)" xml:space="preserve">
-    <value>7</value>
-  </data>
   <data name="0229 KYON (キョン)" xml:space="preserve">
     <value>古泉、どうだ？</value>
   </data>
@@ -862,9 +820,6 @@
   </data>
   <data name="0233 KYON (キョン)" xml:space="preserve">
     <value>ああ、頼む</value>
-  </data>
-  <data name="0234 KOIZUMI (古泉)" xml:space="preserve">
-    <value>7</value>
   </data>
   <data name="0235 KYON (キョン)" xml:space="preserve">
     <value>こら、あんまり朝比奈さんに
@@ -913,9 +868,6 @@
   </data>
   <data name="0248 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>逆に怒られてしまった</value>
-  </data>
-  <data name="0249 KYON_SIS (妹)" xml:space="preserve">
-    <value>7</value>
   </data>
   <data name="0250 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>これが音楽室で唯一のピアノか</value>

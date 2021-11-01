@@ -90,9 +90,6 @@
     <value>……いっそのこと面と向かって
 言ってやりたい</value>
   </data>
-  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0010 KOIZUMI (古泉)" xml:space="preserve">
     <value>音楽室へ向かう前に、もう一度
 コンピ研の方々に話を聞かれては？</value>
@@ -112,17 +109,8 @@
     <value>じゃあ、コンピ研に寄ってから
 音楽室に向かいましょ</value>
   </data>
-  <data name="0015 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
     <value>邪魔するわよ！</value>
-  </data>
-  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0019 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>うわ！？</value>
@@ -184,9 +172,6 @@
     <value>それで、音楽室で怪奇現象に
 あったっていう人は？</value>
   </data>
-  <data name="0036 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0037 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>ぼ、僕です……</value>
   </data>
@@ -197,9 +182,6 @@
   <data name="0039 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そもそもあなたは何をしに
 音楽室へ行ったの？</value>
-  </data>
-  <data name="0040 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0041 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>今、ウチで密かに作成中のモノが
@@ -247,18 +229,9 @@
   <data name="0053 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>う……</value>
   </data>
-  <data name="0054 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0055 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>音楽室へ向かう途中、どこから
 ともなく音楽が聞こえてきて</value>
-  </data>
-  <data name="0056 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0057 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0058 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>音楽室に誰かがいるのかと思って
@@ -280,12 +253,6 @@
   <data name="0063 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>演奏もそこでぱったり止まって
 しまいました</value>
-  </data>
-  <data name="0064 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0065 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0066 HARUHI (ハルヒ)" xml:space="preserve">
     <value>聞き間違いってことはないの？</value>
@@ -341,9 +308,6 @@
   <data name="0080 KYON (キョン)" xml:space="preserve">
     <value>俺か！？</value>
   </data>
-  <data name="0081 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0082 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
@@ -356,9 +320,6 @@
   <data name="0085 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門はハルヒにほんの２センチ
 ばかりうなずいて答える</value>
-  </data>
-  <data name="0086 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0087 KOIZUMI (古泉)" xml:space="preserve">
     <value>僕も、少し話を聞いておきたいので</value>
@@ -414,9 +375,6 @@
   </data>
   <data name="0103 KYON (キョン)" xml:space="preserve">
     <value>確かに、そうかもしれんが……</value>
-  </data>
-  <data name="0104 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0105 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
@@ -506,12 +464,6 @@
     <value>だったら、ピアノを弾いていたのは
 軽音部じゃないのか？</value>
   </data>
-  <data name="0130 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0131 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0132 KOIZUMI (古泉)" xml:space="preserve">
     <value>それはないでしょうね
 彼の話を信じるのならば</value>
@@ -598,12 +550,6 @@
   <data name="0156 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉にうながされて視線をむけると</value>
   </data>
-  <data name="0157 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0158 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0159 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>#SK0う、うう……書かないと……
 早く書き上げないと……</value>
@@ -615,18 +561,12 @@
     <value>さっき話を聞いた部員が、何かを
 一心不乱に書き続けている</value>
   </data>
-  <data name="0162 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0163 KOIZUMI (古泉)" xml:space="preserve">
     <value>あれは、どうやら楽譜を書いている
 ようです</value>
   </data>
   <data name="0164 KYON (キョン)" xml:space="preserve">
     <value>部長さん、あの人どうしたんです？</value>
-  </data>
-  <data name="0165 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0166 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>いや、彼もだいぶ追い詰まって
@@ -684,12 +624,6 @@
   <data name="0181 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>だから聞き覚えがあったのか</value>
   </data>
-  <data name="0182 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0183 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0184 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
@@ -721,9 +655,6 @@
   <data name="0193 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ただ事じゃない――
 嫌な予感がしやがる</value>
-  </data>
-  <data name="0194 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0195 KYON (キョン)" xml:space="preserve">
     <value>おい、どこまで行く気だ？</value>
@@ -900,12 +831,6 @@
   <data name="0244 KOIZUMI (古泉)" xml:space="preserve">
     <value>ええ、急いで合流しましょう</value>
   </data>
-  <data name="0245 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0246 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0247 KYON (キョン)" xml:space="preserve">
     <value>ハルヒ！</value>
   </data>
@@ -1079,12 +1004,6 @@
     <value>今はあいつから目を離さないこと
 くらいしかできないからな</value>
   </data>
-  <data name="0296 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0297 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0298 KYON (キョン)" xml:space="preserve">
     <value>……ん？</value>
   </data>
@@ -1231,9 +1150,6 @@
   <data name="0339 KYON (キョン)" xml:space="preserve">
     <value>みんなにも協力してもらうことに
 なると思います</value>
-  </data>
-  <data name="0340 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0341 MIKURU (みくる)" xml:space="preserve">
     <value>はい、がんばります</value>

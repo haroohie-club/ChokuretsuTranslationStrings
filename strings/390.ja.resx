@@ -82,12 +82,6 @@ $8まだあと３つも残ってるんだから！</value>
     <value>$9全部きちんと確認するまで#W10$8終われる
 わけがないでしょ！</value>
   </data>
-  <data name="0006 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0007 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0008 TSURUYA (鶴屋)" xml:space="preserve">
     <value>$7やっほー！　#W10元気かね、みくるっ
 ハルにゃん、その他諸君！</value>
@@ -104,18 +98,6 @@ $7ついでに覗いてみようかと思ってね</value>
   </data>
   <data name="0012 TSURUYA (鶴屋)" xml:space="preserve">
     <value>$8ま、#W20陣中見舞いってやつだよっ</value>
-  </data>
-  <data name="0013 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0014 MIKURU (朝比奈)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0016 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0017 KOIZUMI (古泉)" xml:space="preserve">
     <value>$8証言によれば、#W50ピアノの音は#W30毎日#W20ほ
@@ -145,26 +127,11 @@ $7ついでに覗いてみようかと思ってね</value>
     <value>$7そっちの方がおもしろいからに
 決まってるじゃない！</value>
   </data>
-  <data name="0025 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0027 MIKURU (朝比奈)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0028 MIKURU (朝比奈)" xml:space="preserve">
     <value>$9なんだか不思議なメロディですね</value>
   </data>
   <data name="0029 MIKURU (朝比奈)" xml:space="preserve">
     <value>$10まるで、#W50何かを訴えかけてるみたい</value>
-  </data>
-  <data name="0030 MIKURU (朝比奈)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0031 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0032 NAGATO (長門)" xml:space="preserve">
     <value>$10情報生命体は#W30$8カタチを必要と
@@ -185,12 +152,6 @@ $7ついでに覗いてみようかと思ってね</value>
   </data>
   <data name="0037 NAGATO (長門)" xml:space="preserve">
     <value>$10現状では#W30情報の収集がわたしの役割</value>
-  </data>
-  <data name="0038 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0039 MIKURU (朝比奈)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0040 MIKURU (朝比奈)" xml:space="preserve">
     <value>$8合宿を止めさせる#W20…#W10…#W20？</value>
@@ -215,12 +176,6 @@ $7ついでに覗いてみようかと思ってね</value>
   </data>
   <data name="0046 MIKURU (朝比奈)" xml:space="preserve">
     <value>$7……ごめんなさい、#W20$9キョンくん</value>
-  </data>
-  <data name="0047 MIKURU (朝比奈)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0048 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0049 KOIZUMI (古泉)" xml:space="preserve">
     <value>$9まずいですね、#W70$8涼宮さんが#W10

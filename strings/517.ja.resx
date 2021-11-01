@@ -127,12 +127,6 @@
     <value>ハルヒは長門に確認しているが
 見た通り、長門はひとりしかいない</value>
   </data>
-  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0021 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希は本当に、本物の有希なの？</value>
   </data>
@@ -232,9 +226,6 @@
   </data>
   <data name="0050 KYON (キョン)" xml:space="preserve">
     <value>……さっさといっちまいやがった</value>
-  </data>
-  <data name="0051 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0052 KYON (キョン)" xml:space="preserve">
     <value>で、長門はどうする？</value>

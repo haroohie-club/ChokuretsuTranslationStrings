@@ -79,12 +79,6 @@
   <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さあ、早く進みなさい！</value>
   </data>
-  <data name="0006 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0008 KYON_SIS (妹)" xml:space="preserve">
     <value>あははは！　ゴーゴー！</value>
   </data>
@@ -151,9 +145,6 @@
     <value>例の“人喰い教室”は、今どうなっ
 てるんだ？</value>
   </data>
-  <data name="0026 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0027 NAGATO (長門)" xml:space="preserve">
     <value>特異点はゆるやかに修復中
 ただ、まだ顕在化するほどではない</value>
@@ -185,12 +176,6 @@
   </data>
   <data name="0035 KYON (キョン)" xml:space="preserve">
     <value>同感だ</value>
-  </data>
-  <data name="0036 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0037 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0038 KYON (キョン)" xml:space="preserve">
     <value>おい、ハルヒ！</value>
@@ -239,9 +224,6 @@
     <value>涼宮さんたち女子チームは、２階か
 らどうぞ</value>
   </data>
-  <data name="0051 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0052 KYON_SIS (妹)" xml:space="preserve">
     <value>あたしは女子チーム？</value>
   </data>
@@ -273,12 +255,6 @@
   <data name="0060 KYON (キョン)" xml:space="preserve">
     <value>早い者勝ちってもんじゃないだろう
 に……やれやれ</value>
-  </data>
-  <data name="0061 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0062 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0063 KYON (キョン)" xml:space="preserve">
     <value>しかし、調べると言っても……</value>
@@ -563,9 +539,6 @@
   <data name="0142 KYON (キョン)" xml:space="preserve">
     <value>ああ。ハルヒ好みの話題を用意して
 おかないとな</value>
-  </data>
-  <data name="0143 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0144 HARUHI (ハルヒ)" xml:space="preserve">
     <value>どう？　そっちは調べ終わったの？</value>

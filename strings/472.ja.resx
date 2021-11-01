@@ -69,21 +69,12 @@
   <data name="0002 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みんなどう？　何か変化はあった？</value>
   </data>
-  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0004 KOIZUMI (古泉)" xml:space="preserve">
     <value>ご覧の通りです
 校舎の方はいかがでしたか？</value>
   </data>
   <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>全然。つまんないイタズラだったわ</value>
-  </data>
-  <data name="0006 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0008 KYON (キョン)" xml:space="preserve">
     <value>見ての通りだ
@@ -122,9 +113,6 @@
   <data name="0017 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>言っておくが、企画立案は古泉だぞ</value>
   </data>
-  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0019 KOIZUMI (古泉)" xml:space="preserve">
     <value>いやあ、さすがは涼宮さんです</value>
   </data>
@@ -147,12 +135,6 @@
   <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ふふん、まあ、少しは楽しめたから
 いいわ。その努力は認めてあげる</value>
-  </data>
-  <data name="0025 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0027 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒはあっさりと古泉のことを
@@ -198,9 +180,6 @@
     <value>何が『もちろん』だ。ついでに古泉
 よ、何が『なるほど』だ</value>
   </data>
-  <data name="0039 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0040 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あまりに斜め上の発想に、絶句する
 俺たち</value>
@@ -234,15 +213,6 @@
     <value>ついさっきまでエイリアンもどきが
 いっぱいだった場所である</value>
   </data>
-  <data name="0049 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0050 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0051 NAGATO (長門)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0052 KYON (キョン)" xml:space="preserve">
     <value>長門、このプール、入っても
 大丈夫なのか？</value>
@@ -267,12 +237,6 @@
   </data>
   <data name="0058 KYON (キョン)" xml:space="preserve">
     <value>気分的には激しく遠慮したい</value>
-  </data>
-  <data name="0059 NAGATO (長門)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0060 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0061 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なにぼーっと突っ立ってんの？
@@ -304,9 +268,6 @@
   <data name="0068 MIKURU (みくる)" xml:space="preserve">
     <value>いやあああ～！</value>
   </data>
-  <data name="0069 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0070 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ぽいぽいとハルヒが朝比奈さんの
 服を剥ぎ取ってゆく</value>
@@ -323,9 +284,6 @@
   </data>
   <data name="0074 KYON (キョン)" xml:space="preserve">
     <value>お、おい、長門っ！？</value>
-  </data>
-  <data name="0075 NAGATO (長門)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0076 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>制服の下からは水着があらわれる</value>
@@ -358,9 +316,6 @@
     <value>自分勝手な理屈を言いつつ、ハルヒ
 のやつも服を脱ぐ</value>
   </data>
-  <data name="0085 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0086 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョンと古泉くんも、早く着替えな
 さいよ</value>
@@ -389,9 +344,6 @@
   <data name="0093 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>だが……俺は逆らわずに古泉と連れ
 だって更衣室へと向かった</value>
-  </data>
-  <data name="0094 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0095 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>正直、夜のプールはなかなかに心躍
@@ -657,9 +609,6 @@
     <value>懐中電灯の光をサーチライトのよう
 に扱い、プールのあちこちを照らす</value>
   </data>
-  <data name="0170 OKABE (岡部)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0171 KYON (キョン)" xml:space="preserve">
     <value>……</value>
   </data>
@@ -669,9 +618,6 @@
   </data>
   <data name="0173 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>済んだようだった</value>
-  </data>
-  <data name="0174 OKABE (岡部)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0175 OKABE (岡部)" xml:space="preserve">
     <value>異常無し……と</value>

@@ -79,9 +79,6 @@
   <data name="0005 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>何がそんなに、楽しいんだか……</value>
   </data>
-  <data name="0006 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0007 KOIZUMI (古泉)" xml:space="preserve">
     <value>と言うと、やはり１年９組ですか？</value>
   </data>
@@ -103,9 +100,6 @@
   <data name="0012 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>頼むから、余計なモノを見つけて
 面倒なことにしてくれるなよ……</value>
-  </data>
-  <data name="0013 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0014 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
@@ -138,9 +132,6 @@
   <data name="0022 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>へいへい、いますぐ行きますとも
 まったく……</value>
-  </data>
-  <data name="0023 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0024 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>改めて説明する必要は、無いと思う
@@ -185,9 +176,6 @@
   <data name="0035 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あながち間違っていないところが
 恐ろしいといえば、恐ろしい</value>
-  </data>
-  <data name="0036 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0037 NAGATO (長門)" xml:space="preserve">
     <value>……特に無い</value>
@@ -334,12 +322,6 @@
     <value>朝比奈さん、今、駆けつけますから
 どうか何事もありませんように――</value>
   </data>
-  <data name="0076 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0077 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0078 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>獲物を狩るチーターも真っ青の速さ
 で、俺たちは旧館へと引き返し……</value>
@@ -444,9 +426,6 @@
   <data name="0106 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>うぐっ、#W20な、#W20なんだって……？</value>
   </data>
-  <data name="0107 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0108 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さん、大変申し上げにくいの
 ですが……</value>
@@ -464,12 +443,6 @@
   <data name="0112 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さんの脚が、引っかかったよう
 ですね、それで電源が落ちた……と</value>
-  </data>
-  <data name="0113 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0114 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0115 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>だ、#W20だめですぅ、#W20データが全て消え
@@ -556,12 +529,6 @@
   <data name="0138 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……同情するぞ、コンピ研</value>
   </data>
-  <data name="0139 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0140 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0141 HARUHI (ハルヒ)" xml:space="preserve">
     <value>時間を無駄にしちゃったわね
 怒鳴ったら、喉も渇いちゃったし</value>
@@ -580,9 +547,6 @@
   <data name="0145 MIKURU (朝比奈)" xml:space="preserve">
     <value>は、はいぃぃ</value>
   </data>
-  <data name="0146 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0147 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>コンピ研は、このままにしておく
 つもりらしい。鬼だなハルヒ</value>
@@ -597,9 +561,6 @@
   <data name="0150 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>すまんコンピ研、ハルヒに関わった
 不幸だと思って、諦めてくれ</value>
-  </data>
-  <data name="0151 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0152 KOIZUMI (古泉)" xml:space="preserve">
     <value>コンピ研の方々は、ずいぶん気落ち
@@ -686,12 +647,6 @@
   </data>
   <data name="0176 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……大丈夫か？</value>
-  </data>
-  <data name="0177 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0178 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0179 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そして、しばらくして――</value>
@@ -784,9 +739,6 @@
     <value>時間にして数分後。あっという間に
 部屋から出ることになった</value>
   </data>
-  <data name="0206 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0207 KOIZUMI (古泉)" xml:space="preserve">
     <value>どうでした？</value>
   </data>
@@ -838,15 +790,6 @@
   <data name="0220 KOIZUMI (古泉)" xml:space="preserve">
     <value>歩きながら説明します。少し急ぎま
 しょう。涼宮さんに気づかれる前に</value>
-  </data>
-  <data name="0221 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0222 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0223 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0224 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉の説明とやらは、なんとも
@@ -1049,9 +992,6 @@
   <data name="0281 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>全力疾走して、ギリギリってところ
 なんだが……無茶を言うなハルヒ</value>
-  </data>
-  <data name="0282 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0283 KOIZUMI (古泉)" xml:space="preserve">
     <value>どうしました？</value>

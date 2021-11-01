@@ -139,12 +139,6 @@
   <data name="0022 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……光栄なのか、それは</value>
   </data>
-  <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0025 KYON_SIS (妹)" xml:space="preserve">
     <value>えへへ、おはよー</value>
   </data>
@@ -182,14 +176,8 @@
     <value>そんな思いもあったことは否定はし
 ないでおこう</value>
   </data>
-  <data name="0035 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0036 MIKURU (朝比奈)" xml:space="preserve">
     <value>こんにちは</value>
-  </data>
-  <data name="0037 KYON_SIS (妹)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0038 KYON_SIS (妹)" xml:space="preserve">
     <value>あー、みくるちゃんだー！</value>
@@ -201,12 +189,6 @@
   <data name="0040 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>妹でよかったな。お前が弟なら
 夏休み中寝たきりになるところだ</value>
-  </data>
-  <data name="0041 MIKURU (朝比奈)" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="0042 KYON_SIS (妹)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0043 NAGATO (長門)" xml:space="preserve">
     <value>おはよう</value>
@@ -238,9 +220,6 @@
   <data name="0051 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>やれやれ……みんな相変わらずか</value>
   </data>
-  <data name="0052 NAGATO (長門)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0053 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ところでキョン</value>
   </data>
@@ -257,9 +236,6 @@
   </data>
   <data name="0057 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ちっ、やっぱりダメか</value>
-  </data>
-  <data name="0058 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0059 KOIZUMI (古泉)" xml:space="preserve">
     <value>まあまあ、涼宮さん</value>
@@ -320,12 +296,6 @@
   <data name="0075 KYON (キョン)" xml:space="preserve">
     <value>……やれやれ</value>
   </data>
-  <data name="0076 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="0077 KYON_SIS (妹)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0078 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なんだこの重さ……ハルヒのカバン
 には一体何が入ってやがるんだ</value>
@@ -343,9 +313,6 @@
   </data>
   <data name="0082 HARUHI (ハルヒ)" xml:space="preserve">
     <value>どうだか</value>
-  </data>
-  <data name="0083 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0084 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ほら、荷物は一旦そっちに置いて
@@ -399,18 +366,12 @@
     <value>うーん、部分点で２０点ね
 じゃ有希</value>
   </data>
-  <data name="0098 MIKURU (朝比奈)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0099 NAGATO (長門)" xml:space="preserve">
     <value>怪談</value>
   </data>
   <data name="0100 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希は色々知ってそうよね
 でも３５点、今度は古泉くん</value>
-  </data>
-  <data name="0101 NAGATO (長門)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0102 KOIZUMI (古泉)" xml:space="preserve">
     <value>ミステリーツアー、というところ
@@ -419,9 +380,6 @@
   <data name="0103 HARUHI (ハルヒ)" xml:space="preserve">
     <value>おしいわ、７０点。さあ、キョン
 ここまで来たら正解しなさいよ</value>
-  </data>
-  <data name="0104 KOIZUMI (古泉)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0105 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>採点を聞いててもさっぱりわからん</value>
@@ -513,12 +471,6 @@
     <value>と言ってやれないのが悲しいかな
 現実である</value>
   </data>
-  <data name="0131 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="0132 KOIZUMI (古泉)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0133 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒを神様とあがめる古泉と
 古泉が所属している超能力者の集団</value>
@@ -546,32 +498,17 @@
     <value>しかし春から夏までの間に俺はその
 根拠たる現象を見せられちまった</value>
   </data>
-  <data name="0140 KOIZUMI (古泉)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0141 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>おかしなことを言い出したのは古泉
 だけじゃない。他の二人もそうだ</value>
-  </data>
-  <data name="0142 NAGATO (長門)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0143 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>対有機生命体コンタクト用ヒューマ
 ノイド・インターフェースの長門</value>
   </data>
-  <data name="0144 NAGATO (長門)" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="0145 MIKURU (朝比奈)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0146 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>未来からハルヒを監視するために
 やってきたという朝比奈さん</value>
-  </data>
-  <data name="0147 MIKURU (朝比奈)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0148 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>それぞれにそれぞれの正体と事情を
@@ -580,9 +517,6 @@
   <data name="0149 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>その上それを信じざるを得ない
 体験をするハメになった</value>
-  </data>
-  <data name="0150 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0151 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>その後もハルヒが引き起こした
@@ -718,9 +652,6 @@
     <value>あと怪奇現象を見たとかいう
 コンピ研のやつも同罪だ</value>
   </data>
-  <data name="0188 KOIZUMI (古泉)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0189 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ちょっと、邪魔するわよっ！</value>
   </data>
@@ -741,12 +672,6 @@
   </data>
   <data name="0194 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>思いつきとも言うがな</value>
-  </data>
-  <data name="0195 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="0196 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0197 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それより、今日はあんた達を
@@ -778,12 +703,6 @@
   </data>
   <data name="0205 KYON (キョン)" xml:space="preserve">
     <value>すみませんね、部長さん</value>
-  </data>
-  <data name="0206 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="0207 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0208 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>相変わらず、君たちは無茶苦茶だよ</value>
@@ -876,9 +795,6 @@
   <data name="0233 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>曰く――</value>
   </data>
-  <data name="0234 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0235 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あるはずのない“１年１０組”の
 教室を見た</value>
@@ -965,9 +881,6 @@
     <value>答えた後、ハルヒはなにやら
 考え込んだ</value>
   </data>
-  <data name="0259 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0260 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんはハルヒの机に湯飲みを
 置き、他の面子にお茶を配り始めた</value>
@@ -1017,9 +930,6 @@
   </data>
   <data name="0274 NAGATO (長門)" xml:space="preserve">
     <value>平気</value>
-  </data>
-  <data name="0275 MIKURU (朝比奈)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0276 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうだわ！</value>
@@ -1086,9 +996,6 @@
   <data name="0294 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうと決まったら
 さっそく調査に向かうわよ！</value>
-  </data>
-  <data name="0295 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0296 INFO (インフォ)" xml:space="preserve">
     <value>#P04“ハルヒメーター”について
@@ -1170,9 +1077,6 @@
     <value>#P04以上で“ハルヒメーター”の説明を
 終了します</value>
   </data>
-  <data name="0316 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0317 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>また俺の質問はムシかよ</value>
   </data>
@@ -1217,9 +1121,6 @@
     <value>全員から話を聞かないことには
 どうあっても納得しないらしい……</value>
   </data>
-  <data name="0329 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0330 HARUHI (ハルヒ)" xml:space="preserve">
     <value>じゃあ、部室に戻って作戦会議ね
 忙しくなるわよ！</value>
@@ -1227,15 +1128,6 @@
   <data name="0331 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>作戦会議とは、いったいなにを
 話し合おうってんだ……</value>
-  </data>
-  <data name="0332 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="0333 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="0334 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0335 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>なんだい？　何か用かい</value>
@@ -1278,9 +1170,6 @@
     <value>とりあえず、他の部員に話を聞いて
 みるか</value>
   </data>
-  <data name="0346 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0347 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>まだ何か用かい？</value>
   </data>
@@ -1298,12 +1187,6 @@
   <data name="0351 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>何かを隠してる……というわけでも
 なさそうだな</value>
-  </data>
-  <data name="0352 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="0353 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0354 KYON (キョン)" xml:space="preserve">
     <value>怪奇現象を体験したってのは
@@ -1361,21 +1244,12 @@
     <value>このくらいにしといた方が
 良さそうだな</value>
   </data>
-  <data name="0370 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0371 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>くそぅ、なんで誰も信じてくれない
 んだ！</value>
   </data>
   <data name="0372 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>また落ち着いた頃に話を聞こう</value>
-  </data>
-  <data name="0373 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="0374 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0375 KYON (キョン)" xml:space="preserve">
     <value>あの……</value>
@@ -1437,12 +1311,6 @@
   <data name="0391 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>これ以上は話を聞けそうもないな</value>
   </data>
-  <data name="0392 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="0393 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0394 KYON (キョン)" xml:space="preserve">
     <value>なあ、ちょっと……</value>
   </data>
@@ -1452,12 +1320,6 @@
   </data>
   <data name="0396 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>聞いてない……</value>
-  </data>
-  <data name="0397 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="0398 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0399 KYON (キョン)" xml:space="preserve">
     <value>少し、話を聞かせてもらっても
@@ -1510,9 +1372,6 @@
   <data name="0412 KYON (キョン)" xml:space="preserve">
     <value>あ、ああ。すまない</value>
   </data>
-  <data name="0413 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0414 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
     <value>まだ何かあるの？</value>
   </data>
@@ -1522,12 +1381,6 @@
   <data name="0416 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あまり邪魔しすぎるわけにも
 いかないな……</value>
-  </data>
-  <data name="0417 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
-    <value>B</value>
-  </data>
-  <data name="0418 CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
-    <value>B</value>
   </data>
   <data name="0419 KYON (キョン)" xml:space="preserve">
     <value>すまないが、話を聞かせて
@@ -1598,9 +1451,6 @@
     <value>なんだかずいぶんとうさんくさく
 なってきたな</value>
   </data>
-  <data name="0438 CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0439 CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
     <value>なんだい、まだ聞きたいことが？
 いいよ、なんでも聞いてくれ！</value>
@@ -1621,9 +1471,6 @@
     <value>あ、ああ、分かった
 ありがとう</value>
   </data>
-  <data name="0444 CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
-    <value>B</value>
-  </data>
   <data name="0445 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>これで全員の話を聞いたが……
 はっきり言おう。今すぐ帰りたい</value>
@@ -1638,8 +1485,5 @@
   </data>
   <data name="0448 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>一応、ハルヒに報告するか</value>
-  </data>
-  <data name="0449 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>B</value>
   </data>
 </root>

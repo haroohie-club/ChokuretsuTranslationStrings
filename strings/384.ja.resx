@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>まあそれはいいわ。そんなことより
 すごいことが分かったのよ！</value>
@@ -255,12 +252,6 @@
     <value>もしかしたら、部活動で登校してる
 誰かを困らせようとしたのかもね</value>
   </data>
-  <data name="0055 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0056 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0057 KOIZUMI (古泉)" xml:space="preserve">
     <value>そのイタズラに、コンピ研の方が
 見事に引っかかってしまった、と</value>
@@ -275,9 +266,6 @@
   <data name="0060 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>こっちは、そう思われないように
 ずいぶんと骨を折ったんだ</value>
-  </data>
-  <data name="0061 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0062 HARUHI (ハルヒ)" xml:space="preserve">
     <value>結末としてはお粗末としか

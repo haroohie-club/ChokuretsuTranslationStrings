@@ -99,9 +99,6 @@
     <value>……人間くらい？
 バカな、そんなことあるわけ――</value>
   </data>
-  <data name="0012 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0013 KYON (キョン)" xml:space="preserve">
     <value>うお……！？</value>
   </data>
@@ -128,9 +125,6 @@
   <data name="0020 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そうだ、そうに違いない</value>
   </data>
-  <data name="0021 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0022 KYON (キョン)" xml:space="preserve">
     <value>よし、科学的説明もついたところで
 行きましょう、朝比奈さん</value>
@@ -154,9 +148,6 @@
     <value>ハルヒの名前を出すと苦笑をうかべ
 賛同してくれた</value>
   </data>
-  <data name="0028 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0029 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さて、とっとと追いついて――</value>
   </data>
@@ -165,9 +156,6 @@
   </data>
   <data name="0031 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なんだ……急に目眩が……</value>
-  </data>
-  <data name="0032 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0033 KYON (キョン)" xml:space="preserve">
     <value>え……</value>
@@ -397,9 +385,6 @@
   <data name="0096 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>しかし、今の俺には救いの女神が
 降臨したも同然だった</value>
-  </data>
-  <data name="0097 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0098 KYON (キョン)" xml:space="preserve">
     <value>長門……！</value>

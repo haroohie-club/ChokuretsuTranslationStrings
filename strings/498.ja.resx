@@ -137,12 +137,6 @@
   <data name="0021 KYON (キョン)" xml:space="preserve">
     <value>すぐ行きます</value>
   </data>
-  <data name="0022 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0023 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0024 KYON (キョン)" xml:space="preserve">
     <value>で、どこが目的地なんだ、長門？</value>
   </data>
@@ -156,18 +150,12 @@
     <value>短くそう答え、長門はすたすたと
 廊下を歩き……</value>
   </data>
-  <data name="0028 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0029 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そして、文芸部室からいくつか先の
 扉の前で立ち止まった</value>
   </data>
   <data name="0030 KYON (キョン)" xml:space="preserve">
     <value>コンピ研の部室……か？</value>
-  </data>
-  <data name="0031 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0032 KOIZUMI (古泉)" xml:space="preserve">
     <value>そう言えば、操られて彷徨っていた
@@ -189,9 +177,6 @@
   <data name="0037 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>よろめいた肩を支えながら俺も内部
 の様子を窺い、そして絶句した</value>
-  </data>
-  <data name="0038 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0039 KYON (キョン)" xml:space="preserve">
     <value>なんだ、こりゃあ……！</value>

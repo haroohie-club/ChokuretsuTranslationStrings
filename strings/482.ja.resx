@@ -226,9 +226,6 @@
   <data name="0045 KYON (キョン)" xml:space="preserve">
     <value>俺と一緒に教室に来てもらいますよ</value>
   </data>
-  <data name="0046 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0047 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>昔の役人みたいな気分だね、こりゃ</value>
   </data>
@@ -246,9 +243,6 @@
   </data>
   <data name="0051 KYON (キョン)" xml:space="preserve">
     <value>……？</value>
-  </data>
-  <data name="0052 GIRL (少女)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0053 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>廊下の暗がりに誰かがいる！？</value>
@@ -268,9 +262,6 @@
   <data name="0057 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ポケットから携帯を取り出すと
 素早く写真を撮った</value>
-  </data>
-  <data name="0058 GIRL (少女)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0059 KYON (キョン)" xml:space="preserve">
     <value>……えっ！？</value>
@@ -305,9 +296,6 @@
   <data name="0068 KYON (キョン)" xml:space="preserve">
     <value>ちょっとキミ！</value>
   </data>
-  <data name="0069 GIRL (少女)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0070 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……って、誰もいない。さっきまで
 ここに少女が立っていたはずなのに</value>
@@ -337,9 +325,6 @@
   <data name="0078 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ロープを使ってぐるぐるに巻くと
 部員はすぐに静かになってくれた</value>
-  </data>
-  <data name="0079 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0080 KYON (キョン)" xml:space="preserve">
     <value>探す手間ははぶけたが
@@ -481,17 +466,11 @@
     <value>ラッキー！　部長氏は部員たちを
 集めた教室に逃げ込んだぞ</value>
   </data>
-  <data name="0120 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0121 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>あー、キミたちもここにいたのか</value>
   </data>
   <data name="0122 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>部長～</value>
-  </data>
-  <data name="0123 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0124 KYON (キョン)" xml:space="preserve">
     <value>えっ、いきなり照明がついた？</value>
@@ -511,12 +490,6 @@
   <data name="0129 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>明かりがついたとたんに、急に元気
 になりやがった</value>
-  </data>
-  <data name="0130 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0131 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0132 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>さあ、キミも仲間になればひどい
@@ -636,9 +609,6 @@
   <data name="0166 KYON (キョン)" xml:space="preserve">
     <value>その花のことがわかったら開放しま
 すので、しばらくがまんして下さい</value>
-  </data>
-  <data name="0167 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0168 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>とにかくコンピ研メンバーは全員

@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x10;</value>
-  </data>
   <data name="0001 KOIZUMI (古泉)" xml:space="preserve">
     <value>ではこれからチェスのルールを
 説明して行きましょう</value>
@@ -142,11 +139,5 @@
   </data>
   <data name="0022 INFO (インフォ)" xml:space="preserve">
     <value>良く考えてみてください</value>
-  </data>
-  <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x10;</value>
-  </data>
-  <data name="0024 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x10;</value>
   </data>
 </root>

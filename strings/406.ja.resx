@@ -88,9 +88,6 @@
   <data name="0007 KYON_SIS (妹)" xml:space="preserve">
     <value>キョンくん、あたしもお手伝いする</value>
   </data>
-  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
     <value>妹ちゃんはあたしと一緒に本を探し
 てくれる？</value>
@@ -137,9 +134,6 @@
   <data name="0021 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>どっちに声を掛けるかな</value>
   </data>
-  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0023 KYON (キョン)" xml:space="preserve">
     <value>長門、これからどう展開するつもり
 か、考えを聞かせてもらえないか？</value>
@@ -175,9 +169,6 @@
   <data name="0032 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒのえんま帳にでもするか</value>
   </data>
-  <data name="0033 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0034 KYON (キョン)" xml:space="preserve">
     <value>古泉、これからどうするか聞かせて
 もらえないか？</value>
@@ -209,9 +200,6 @@
     <value>そうだな、折り目を付けたり破る
 わけにもいかないからな……</value>
   </data>
-  <data name="0042 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0043 HARUHI (ハルヒ)" xml:space="preserve">
     <value>こらキョン！</value>
   </data>
@@ -239,9 +227,6 @@
   </data>
   <data name="0051 KYON (キョン)" xml:space="preserve">
     <value>そういうおまえも大声でうるさいぞ</value>
-  </data>
-  <data name="0052 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0053 KYON_SIS (妹)" xml:space="preserve">
     <value>ハルにゃん、あそこの壁に、静かに
@@ -280,12 +265,6 @@
   </data>
   <data name="0063 KYON (キョン)" xml:space="preserve">
     <value>こちらを立てればあちらが立たずだ</value>
-  </data>
-  <data name="0064 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0065 KYON_SIS (妹)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0066 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>適当に本を探して見るものの、有益
@@ -341,9 +320,6 @@
     <value>長門の言う通りだと思うが、ハルヒ
 の興味がこれに向くかは微妙だな</value>
   </data>
-  <data name="0081 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0082 KYON (キョン)" xml:space="preserve">
     <value>古泉、めぼしい情報は見つかったか</value>
   </data>
@@ -383,9 +359,6 @@
   <data name="0092 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まあ、もっともな話だが、そんな手
 があっさり通用するとも思えない</value>
-  </data>
-  <data name="0093 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0094 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ちょっとキョン！　あんたはさっき
@@ -446,9 +419,6 @@
   <data name="0109 HARUHI (ハルヒ)" xml:space="preserve">
     <value>えらいわ、妹ちゃん！　これは
 まさしく北高の写真よ！</value>
-  </data>
-  <data name="0110 KYON_SIS (妹)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0111 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>妹が見つけた本を見て、団長殿は
@@ -518,9 +488,6 @@
   </data>
   <data name="0129 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃーん、こっちこっち！！</value>
-  </data>
-  <data name="0130 KYON_SIS (妹)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0131 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いかん、司書のブースから禍々しい

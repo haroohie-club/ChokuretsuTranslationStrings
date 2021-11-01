@@ -95,9 +95,6 @@
   <data name="0010 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>よし、案の定時間を稼げたぞ</value>
   </data>
-  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
   <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>き、気のせいじゃないですか</value>
   </data>
@@ -150,9 +147,6 @@
   <data name="0026 MIKURU (みくる)" xml:space="preserve">
     <value>ひいぃぃ……</value>
   </data>
-  <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
   <data name="0028 NAGATO (長門)" xml:space="preserve">
     <value>気のせい……</value>
   </data>
@@ -187,9 +181,6 @@
   </data>
   <data name="0038 NAGATO (長門)" xml:space="preserve">
     <value>わかった</value>
-  </data>
-  <data name="0039 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
   </data>
   <data name="0040 KOIZUMI (古泉)" xml:space="preserve">
     <value>気のせいでは？</value>

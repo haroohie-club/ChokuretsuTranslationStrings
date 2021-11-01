@@ -152,9 +152,6 @@
     <value>なんとかしてハルヒが納得する
 答えを用意しないと……</value>
   </data>
-  <data name="0028 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0029 TSURUYA (鶴屋)" xml:space="preserve">
     <value>おりょ？　みくるじゃないかい
 こんなところで何してんの？</value>
@@ -206,12 +203,6 @@
   </data>
   <data name="0043 TSURUYA (鶴屋)" xml:space="preserve">
     <value>んじゃ……</value>
-  </data>
-  <data name="0044 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0045 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0046 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>鍵盤の前に座った鶴屋さんは
@@ -390,12 +381,6 @@
     <value>ええ、何かに使えるかと思いまして
 念のためお借りしておきました</value>
   </data>
-  <data name="0097 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0098 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0099 HARUHI (ハルヒ)" xml:space="preserve">
     <value>今度こそ聞いたわよ！</value>
   </data>
@@ -423,9 +408,6 @@
   <data name="0106 KYON (キョン)" xml:space="preserve">
     <value>それは……</value>
   </data>
-  <data name="0107 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0108 TSURUYA (鶴屋)" xml:space="preserve">
     <value>おんやぁ？　みんななにやって
 んの？</value>
@@ -435,9 +417,6 @@
   </data>
   <data name="0110 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さんに、鶴屋さん？</value>
-  </data>
-  <data name="0111 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0112 KOIZUMI (古泉)" xml:space="preserve">
     <value>これはまた千客万来ですね</value>
@@ -457,18 +436,12 @@
   <data name="0116 TSURUYA (鶴屋)" xml:space="preserve">
     <value>どうなってんの？</value>
   </data>
-  <data name="0117 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0118 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あたしも聞きたいわ</value>
   </data>
   <data name="0119 HARUHI (ハルヒ)" xml:space="preserve">
     <value>いったい、さっきの音楽は
 何だったのかしら？</value>
-  </data>
-  <data name="0120 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0121 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さんが出て行った直後に
@@ -543,9 +516,6 @@
   <data name="0141 KYON (キョン)" xml:space="preserve">
     <value>さっきのピアノの音はもしかして
 鶴屋さんが？</value>
-  </data>
-  <data name="0142 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0143 MIKURU (みくる)" xml:space="preserve">
     <value>そうです、鶴屋さんすっごく上手

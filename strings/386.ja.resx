@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>どうのこうの言う前に、さっさと
 立ったら？</value>
@@ -94,9 +91,6 @@
   <data name="0010 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あからさまに顔色が変わり
 やがった……</value>
-  </data>
-  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0012 KOIZUMI (古泉)" xml:space="preserve">
     <value>僕たちも、できるかぎりの調査
@@ -155,9 +149,6 @@
   <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃん、どう思う？</value>
   </data>
-  <data name="0028 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0029 MIKURU (みくる)" xml:space="preserve">
     <value>え？　あ、あたしですかぁ？</value>
   </data>
@@ -201,9 +192,6 @@
   <data name="0040 KYON (キョン)" xml:space="preserve">
     <value>なあ、長門。そういった錯覚は
 よくあることだと思わないか？</value>
-  </data>
-  <data name="0041 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0042 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
@@ -261,12 +249,6 @@
   <data name="0056 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>すまんコンピ研。ここは世界平和の
 ために涙を呑んでくれ</value>
-  </data>
-  <data name="0057 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0058 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0059 KOIZUMI (古泉)" xml:space="preserve">
     <value>ずいぶんお疲れのご様子ですね</value>

@@ -103,9 +103,6 @@
     <value>こうやっている間も時間つぶしが
 できるしな</value>
   </data>
-  <data name="0012 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0013 KYON (キョン)" xml:space="preserve">
     <value>長門、ちょっと話したい</value>
   </data>
@@ -166,9 +163,6 @@
     <value>#P05“長門の承諾”#P01が得られたか
 これでなんとかなりそうだ</value>
   </data>
-  <data name="0031 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なにをゴチャゴチャやってるのよ
 キョン！？</value>
@@ -187,12 +181,6 @@
   </data>
   <data name="0036 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺の事情は完全無視かよ</value>
-  </data>
-  <data name="0037 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0038 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0039 KYON (キョン)" xml:space="preserve">
     <value>長門、ここに戻ってきた理由を
@@ -248,12 +236,6 @@
     <value>前もって話し合えばよかったけど
 長門には申し訳ないことをしたな</value>
   </data>
-  <data name="0054 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0055 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0056 KYON (キョン)" xml:space="preserve">
     <value>長門、すまん</value>
   </data>
@@ -263,9 +245,6 @@
   <data name="0058 KYON (キョン)" xml:space="preserve">
     <value>いや、ちゃんと説明しきらなかった
 俺が悪いと思ってな</value>
-  </data>
-  <data name="0059 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0060 HARUHI (ハルヒ)" xml:space="preserve">
     <value>こらキョン！　またあたしを無視
@@ -282,12 +261,6 @@
   <data name="0063 KYON (キョン)" xml:space="preserve">
     <value>あー、それはだなあ……</value>
   </data>
-  <data name="0064 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0065 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0066 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なんて答えようかと悩んでいると
 長門がそっと#P05“手鏡”#P01を出してきた</value>
@@ -298,12 +271,6 @@
   <data name="0068 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>もしかして、俺にも怖かったと言え
 って意味なのか、長門？</value>
-  </data>
-  <data name="0069 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0070 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0071 KYON (キョン)" xml:space="preserve">
     <value>あー、仕方がないな。俺が戻って
@@ -322,9 +289,6 @@
   <data name="0075 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門に謝るよりも、ここは長門に
 合わせるのが一番だろう</value>
-  </data>
-  <data name="0076 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0077 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それで、アンタはなんで戻ってきた

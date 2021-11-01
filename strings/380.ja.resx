@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1A;</value>
-  </data>
   <data name="0001 KYON (キョン)" xml:space="preserve">
     <value>……それで？　話の続きは？</value>
   </data>
@@ -124,9 +121,6 @@
   <data name="0018 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>心にもないことを言いやがる</value>
   </data>
-  <data name="0019 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1A;</value>
-  </data>
   <data name="0020 MIKURU (みくる)" xml:space="preserve">
     <value>あのう……それって、逆も成り立ち
 ませんか？</value>
@@ -158,9 +152,6 @@
   </data>
   <data name="0028 KYON (キョン)" xml:space="preserve">
     <value>長門、オマエはどう思う？</value>
-  </data>
-  <data name="0029 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1A;</value>
   </data>
   <data name="0030 NAGATO (長門)" xml:space="preserve">
     <value>……</value>

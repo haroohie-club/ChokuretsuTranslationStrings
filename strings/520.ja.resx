@@ -76,12 +76,6 @@
     <value>ああ、凍死する前に起こしてくれて
 ありがとうよ、長門</value>
   </data>
-  <data name="0005 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0006 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0007 MIKURU (みくる)" xml:space="preserve">
     <value>キョンくん、起きて下さい</value>
   </data>
@@ -101,12 +95,6 @@
   <data name="0012 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんに揺り起こされたら
 誰だって飛び起きると思うね</value>
-  </data>
-  <data name="0013 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0014 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0015 KOIZUMI (古泉)" xml:space="preserve">
     <value>起きて下さい</value>
@@ -129,12 +117,6 @@
   </data>
   <data name="0021 KYON (キョン)" xml:space="preserve">
     <value>ありがとよ、気の利いたことで</value>
-  </data>
-  <data name="0022 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0023 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0024 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>辺りを見回すと、ハルヒを除く全員
@@ -179,9 +161,6 @@
   </data>
   <data name="0036 NAGATO (長門)" xml:space="preserve">
     <value>涼宮ハルヒを学校の外へ</value>
-  </data>
-  <data name="0037 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0038 KOIZUMI (古泉)" xml:space="preserve">
     <value>正常化する際に、涼宮さんの存在が
@@ -288,9 +267,6 @@
   <data name="0066 KYON (キョン)" xml:space="preserve">
     <value>そ、そうですね……</value>
   </data>
-  <data name="0067 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0068 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒが眠ると朝まで起きないタチ
 なら、なんとかいけそうだが……</value>
@@ -323,9 +299,6 @@
   <data name="0076 KYON (キョン)" xml:space="preserve">
     <value>よし、決まりだ。その方法でハルヒ
 を運びだそう</value>
-  </data>
-  <data name="0077 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0078 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒは気持ちよさそうに寝息を
@@ -436,9 +409,6 @@
     <value>あてが外れてハルヒは大きなため息
 をついた</value>
   </data>
-  <data name="0109 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0110 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョン、よく聞きなさいっ！</value>
   </data>
@@ -459,20 +429,11 @@
   <data name="0115 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>えらい剣幕で叱られてしまった</value>
   </data>
-  <data name="0116 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0117 KOIZUMI (古泉)" xml:space="preserve">
     <value>やはり起こした方が良かったですね</value>
   </data>
   <data name="0118 KYON (キョン)" xml:space="preserve">
     <value>担架を持って来たおまえが言うな</value>
-  </data>
-  <data name="0119 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0120 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0121 HARUHI (ハルヒ)" xml:space="preserve">
     <value>まったく。あたしは最後のひとつを
@@ -537,9 +498,6 @@
     <value>新七不思議だかなんだか知らんが
 律儀に７つ集めることはないんだよ</value>
   </data>
-  <data name="0139 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0140 MIKURU (みくる)" xml:space="preserve">
     <value>でも、どうしましょう。このまま
 涼宮さんを放っておいたら</value>
@@ -547,9 +505,6 @@
   <data name="0141 KYON (キョン)" xml:space="preserve">
     <value>なあ、長門。どうあってもハルヒを
 外に連れ出す必要があるんだな？</value>
-  </data>
-  <data name="0142 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0143 NAGATO (長門)" xml:space="preserve">
     <value>異空間の発生を回避するためには
@@ -573,9 +528,6 @@
   <data name="0148 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さんは、だから二度目はないと
 考えるのではないでしょうか</value>
-  </data>
-  <data name="0149 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0150 MIKURU (みくる)" xml:space="preserve">
     <value>今度こそ本当だと思うってことなの
@@ -644,12 +596,6 @@
   <data name="0167 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いいところを持っていきやがったね</value>
   </data>
-  <data name="0168 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0169 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0170 KYON (キョン)" xml:space="preserve">
     <value>長門は、ハルヒが学校外に出たら
 正常化の手続きを頼む</value>
@@ -671,18 +617,9 @@
     <value>俺は部室でハルヒが戻るのを待って
 いるから</value>
   </data>
-  <data name="0176 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0177 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0178 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あとは古泉からの連絡と、ハルヒの
 帰りを待つだけだが……</value>
-  </data>
-  <data name="0179 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0180 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門は、こんな時でも余裕で本を
@@ -690,9 +627,6 @@
   </data>
   <data name="0181 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺はドキドキしてたまらないね</value>
-  </data>
-  <data name="0182 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0183 HARUHI (ハルヒ)" xml:space="preserve">
     <value>はあ～っ、空振りだったわ</value>
@@ -744,9 +678,6 @@
   <data name="0197 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>納得がいかないような素振りで
 長門の出した茶を啜っている</value>
-  </data>
-  <data name="0198 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0199 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>おっ、古泉からの連絡だ。準備万端
@@ -835,9 +766,6 @@
     <value>すっかり俺のせいにしてお茶を呷る
 ハルヒだが、どうしよう</value>
   </data>
-  <data name="0223 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0224 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>作戦がばれてしまった以上、連れ出
 す理由が見あたらない</value>
@@ -847,9 +775,6 @@
   </data>
   <data name="0226 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門までそんな目で見るな</value>
-  </data>
-  <data name="0227 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0228 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>このピンチをどう切り抜ければいい

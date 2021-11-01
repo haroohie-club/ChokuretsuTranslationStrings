@@ -73,9 +73,6 @@
     <value>あまり頑張らないでくれ、妹よ
 兄は今、隠蔽工作に必死なんだ</value>
   </data>
-  <data name="0004 KYON_SIS (妹)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0005 MIKURU (みくる)" xml:space="preserve">
     <value>ええと、どこから調査しますか？</value>
   </data>
@@ -115,9 +112,6 @@
     <value>ほれ見ろ、すっかり朝比奈さんが
 怯えちまってるだろうが</value>
   </data>
-  <data name="0016 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0017 KYON_SIS (妹)" xml:space="preserve">
     <value>かーいきげんしょー、やってこーい</value>
   </data>
@@ -126,12 +120,6 @@
   </data>
   <data name="0019 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……勘弁してくれ、いやマジで</value>
-  </data>
-  <data name="0020 KYON_SIS (妹)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
     <value>本館といっても広いわ。全部を回る
@@ -158,9 +146,6 @@
     <value>余計な妄想を膨らませないでくれ
 現実になりかねん</value>
   </data>
-  <data name="0029 KYON_SIS (妹)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0030 MIKURU (みくる)" xml:space="preserve">
     <value>な、なんとなく薄暗くて怖いですぅ</value>
   </data>
@@ -178,9 +163,6 @@
     <value>雰囲気があっていいわ。まさに怪奇
 現象発生地にふさわしい空気よ</value>
   </data>
-  <data name="0035 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0036 KYON_SIS (妹)" xml:space="preserve">
     <value>あれぇ、何か動いてるよ？</value>
   </data>
@@ -194,9 +176,6 @@
   <data name="0039 HARUHI (ハルヒ)" xml:space="preserve">
     <value>どこ！？</value>
   </data>
-  <data name="0040 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0041 KYON_SIS (妹)" xml:space="preserve">
     <value>ほら、あそこ。窓のところだよ</value>
   </data>
@@ -206,9 +185,6 @@
   <data name="0043 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なんだ、カーテンが揺れてるだけ
 じゃない</value>
-  </data>
-  <data name="0044 KYON_SIS (妹)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0045 MIKURU (みくる)" xml:space="preserve">
     <value>カ、カーテン？　ホントですか？</value>
@@ -350,9 +326,6 @@
     <value>当然よ。さ、妹ちゃん、次はどこに
 するか決めてちょーだい</value>
   </data>
-  <data name="0084 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0085 KYON_SIS (妹)" xml:space="preserve">
     <value>んー……ええとねぇ</value>
   </data>
@@ -391,12 +364,6 @@
   <data name="0095 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>例えば、俺の夏休みの宿題を手伝う
 とか、色々あるだろうに</value>
-  </data>
-  <data name="0096 KYON_SIS (妹)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0097 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0098 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒの宣言通り図書室の鍵を借り
@@ -441,9 +408,6 @@
   </data>
   <data name="0110 KYON (キョン)" xml:space="preserve">
     <value>大丈夫ですよ、俺もいますから</value>
-  </data>
-  <data name="0111 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0112 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>しかし、見事に不気味な暗さだな</value>
@@ -556,12 +520,6 @@
   <data name="0143 KYON (キョン)" xml:space="preserve">
     <value>まぁ、仕方ないか</value>
   </data>
-  <data name="0144 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0145 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0146 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃん！　うしろ！！</value>
   </data>
@@ -595,9 +553,6 @@
   <data name="0155 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>やれやれ……</value>
   </data>
-  <data name="0156 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0157 HARUHI (ハルヒ)" xml:space="preserve">
     <value>うーん、図書室の本にも１年１０組
 の手がかりらしいものは無いわね</value>
@@ -615,9 +570,6 @@
   <data name="0161 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さあ、もう少し探検してみましょう
 ちょっと楽しくなってきたわ</value>
-  </data>
-  <data name="0162 KYON_SIS (妹)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0163 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺はうんざりしてきた</value>

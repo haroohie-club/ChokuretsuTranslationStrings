@@ -116,9 +116,6 @@
     <value>そりゃあ宇宙人やＵＦＯはいるかも
 知れんが……</value>
   </data>
-  <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0016 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なにしろ目の前にいるしな</value>
   </data>
@@ -194,9 +191,6 @@
     <value>見たんだから効果がある……か
 心霊研究家が言いそうな文句だな</value>
   </data>
-  <data name="0036 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0037 KYON (キョン)" xml:space="preserve">
     <value>……ん？</value>
   </data>
@@ -224,9 +218,6 @@
   <data name="0044 KYON (キョン)" xml:space="preserve">
     <value>なあ長門、そんな儀式でＵＦＯが
 来るもんなのか？</value>
-  </data>
-  <data name="0045 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0046 NAGATO (長門)" xml:space="preserve">
     <value>……場合による</value>
@@ -274,15 +265,9 @@
     <value>電卓よりコンパクトだけど
 理系じゃないと使えないと思うぞ</value>
   </data>
-  <data name="0059 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0060 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ぐだぐだ言ってないで思いついたら
 即実行よっ！</value>
-  </data>
-  <data name="0061 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0062 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ほら、有希も手を出して。３人で
@@ -369,12 +354,6 @@
     <value>ベントラー、ベントラー、スペース
 ピープル……</value>
   </data>
-  <data name="0084 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0085 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0086 HARUHI (ハルヒ)" xml:space="preserve">
     <value>いくら呼んでも来ないみたいね</value>
   </data>
@@ -446,9 +425,6 @@
   <data name="0105 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ここはハルヒに合わせるのが賢明か</value>
   </data>
-  <data name="0106 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0107 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ああ、もうガッカリだわ</value>
   </data>
@@ -478,9 +454,6 @@
     <value>この勢いで、ハルヒが新七不思議に
 興味を失くしてくれればいい</value>
   </data>
-  <data name="0115 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0116 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あ～あ、いいお月様が出てるのに
 宇宙人はドライブしないのかしら</value>
@@ -488,9 +461,6 @@
   <data name="0117 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ＵＦＯでドライブするものかは疑問
 だが、いい月なのはたしかだな</value>
-  </data>
-  <data name="0118 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0119 KYON (キョン)" xml:space="preserve">
     <value>……ん？</value>
@@ -525,20 +495,11 @@
     <value>そうね……じゃあプールの見張りは
 キョンに任せるわ</value>
   </data>
-  <data name="0128 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0129 HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希、一緒に屋上へ行きましょう</value>
   </data>
   <data name="0130 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
-  </data>
-  <data name="0131 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0132 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0133 KYON (キョン)" xml:space="preserve">
     <value>これで災難の元はしばらく遠ざかっ
@@ -569,9 +530,6 @@
     <value>何かに使えるかも知れないから
 拾っておくとするか</value>
   </data>
-  <data name="0141 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0142 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なかなか来ないわねえ。忙しいの
 かしらね</value>
@@ -587,9 +545,6 @@
     <value>さっきから何度も時計を見ているが
 ハルヒにあまり強く望まれては困る</value>
   </data>
-  <data name="0146 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0147 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
@@ -604,12 +559,6 @@
   <data name="0150 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>もしかして、ハルヒの願いが実現
 してしまうんじゃなかろうか</value>
-  </data>
-  <data name="0151 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0152 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0153 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そのあたり、長門に聞いてみるか</value>
@@ -665,14 +614,8 @@
     <value>安心出来るかはともかく、持って
 おくか</value>
   </data>
-  <data name="0168 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0169 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>聞かない方がよさそうな気がするが</value>
-  </data>
-  <data name="0170 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0171 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
@@ -708,9 +651,6 @@
   <data name="0180 KYON (キョン)" xml:space="preserve">
     <value>かなりやっかいだな……</value>
   </data>
-  <data name="0181 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0182 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……長門の足下に何か落ちている</value>
   </data>
@@ -721,9 +661,6 @@
   <data name="0184 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なんとなく不思議な石だから
 持っておくか</value>
-  </data>
-  <data name="0185 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0186 KYON (キョン)" xml:space="preserve">
     <value>なあハルヒ。そろそろ撤収しても
@@ -747,9 +684,6 @@
   <data name="0191 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>もし現れたら世界の破滅だと知れば
 こいつはもっと喜びそうだ</value>
-  </data>
-  <data name="0192 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0193 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ずっとこんなことで気を揉むのは
@@ -812,9 +746,6 @@
   </data>
   <data name="0210 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>やっぱり興味があるのだろうか？</value>
-  </data>
-  <data name="0211 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0212 KYON (キョン)" xml:space="preserve">
     <value>石はなるべく平らなのがいいんだ</value>
@@ -966,18 +897,12 @@
     <value>ハルヒはおかんむりのご様子だが
 うまくごまかせたようだ</value>
   </data>
-  <data name="0253 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0254 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門のしわざだと言えば話がそれる
 かも知れないな</value>
   </data>
   <data name="0255 KYON (キョン)" xml:space="preserve">
     <value>いや、長門が水切りに挑戦したんだ</value>
-  </data>
-  <data name="0256 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0257 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
@@ -1002,9 +927,6 @@
   </data>
   <data name="0263 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>怒られちゃったよ、まいったね</value>
-  </data>
-  <data name="0264 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0265 NAGATO (長門)" xml:space="preserve">
     <value>……これ</value>
@@ -1049,9 +971,6 @@
   <data name="0277 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まったく、予想外に心臓に悪い
 事態だったぜ</value>
-  </data>
-  <data name="0278 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0279 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ああっ、もう！　ＵＦＯはみんな

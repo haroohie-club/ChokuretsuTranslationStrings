@@ -97,12 +97,6 @@
     <value>朝比奈さんが心配なさるのも
 無理はない</value>
   </data>
-  <data name="0010 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0011 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0012 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さっきから何をゴチャゴチャと
 やってるのよ？</value>
@@ -182,9 +176,6 @@
     <value>よし！　魚が針にかかったぞ
 勝負と聞くとすぐこれだからな</value>
   </data>
-  <data name="0033 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0034 KOIZUMI (古泉)" xml:space="preserve">
     <value>では、ゲームをするということで
 何で対戦しましょうか？</value>
@@ -210,12 +201,6 @@
     <value>キョンにしては気が回るじゃない
 やっぱりそういう準備は必要よね</value>
   </data>
-  <data name="0041 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0042 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0043 KOIZUMI (古泉)" xml:space="preserve">
     <value>ああ、それでしたら……
 簡単な物ですが用意しましたよ</value>
@@ -229,9 +214,6 @@
   </data>
   <data name="0046 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いつの間に作ったんだよ</value>
-  </data>
-  <data name="0047 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0048 HARUHI (ハルヒ)" xml:space="preserve">
     <value>じゃあ、すぐにでも始めましょ！</value>
@@ -283,9 +265,6 @@
   <data name="0061 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いつの間にそんなものを……妙な
 ところで手際のいいやつだな</value>
-  </data>
-  <data name="0062 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0063 MIKURU (みくる)" xml:space="preserve">
     <value>えっと、すみませぇん
@@ -351,12 +330,6 @@
   <data name="0079 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんが笑顔で頷いている所を
 見ると、理解出来ているようだ</value>
-  </data>
-  <data name="0080 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0081 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0082 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>その間に、俺は必死に『チェスの

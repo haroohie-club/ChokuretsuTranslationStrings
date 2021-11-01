@@ -93,9 +93,6 @@
     <value>夏休みの帰省で聞いたり話したりで
 広がったのかも知れませんね</value>
   </data>
-  <data name="0009 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0010 MIKURU (みくる)" xml:space="preserve">
     <value>あ、あの、キョンくんは、どんな話
 を聞いたことがありますか？</value>
@@ -128,9 +125,6 @@
   <data name="0018 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>それでも聞きたがるのは、やっぱり
 怖いもの見たさの好奇心か</value>
-  </data>
-  <data name="0019 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0020 KOIZUMI (古泉)" xml:space="preserve">
     <value>その話、使えそうですよ</value>
@@ -188,9 +182,6 @@
     <value>朝比奈さんが泣きそうな顔で指差し
 た先には……</value>
   </data>
-  <data name="0036 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0037 KYON (キョン)" xml:space="preserve">
     <value>……おいおい</value>
   </data>
@@ -212,12 +203,6 @@
   </data>
   <data name="0042 KYON (キョン)" xml:space="preserve">
     <value>確信犯だな、おまえ</value>
-  </data>
-  <data name="0043 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0044 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0045 MIKURU (みくる)" xml:space="preserve">
     <value>#SK0はわわ……</value>
@@ -260,9 +245,6 @@
   </data>
   <data name="0056 KYON (キョン)" xml:space="preserve">
     <value>トイレにまつわる怪談ですね</value>
-  </data>
-  <data name="0057 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0058 KOIZUMI (古泉)" xml:space="preserve">
     <value>ああ、その手の怪談はどこにでもあ
@@ -331,9 +313,6 @@
   <data name="0076 KYON (キョン)" xml:space="preserve">
     <value>うわ……本当だ</value>
   </data>
-  <data name="0077 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0078 KOIZUMI (古泉)" xml:space="preserve">
     <value>消臭剤を回収してきました</value>
   </data>
@@ -350,12 +329,6 @@
   </data>
   <data name="0082 KYON (キョン)" xml:space="preserve">
     <value>俺もまさかと思いましたよ</value>
-  </data>
-  <data name="0083 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0084 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0085 KOIZUMI (古泉)" xml:space="preserve">
     <value>これにいろいろと仕掛けを足せば
@@ -400,9 +373,6 @@
   <data name="0096 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ああさようですか。聞いた俺がバカ
 みたいじゃないか</value>
-  </data>
-  <data name="0097 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0098 MIKURU (みくる)" xml:space="preserve">
     <value>あ、あの、音を鳴らすって、どんな
@@ -578,21 +548,12 @@
     <value>悪趣味にもほどがあるぞ！
 朝比奈さん、大丈夫ですか？</value>
   </data>
-  <data name="0147 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0148 MIKURU (みくる)" xml:space="preserve">
     <value>#SK0はうぅ……腰が抜けて歩けませぇん</value>
   </data>
   <data name="0149 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>みろ古泉、お前のせいで朝比奈さん
 が一大事だ</value>
-  </data>
-  <data name="0150 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0151 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0152 KYON (キョン)" xml:space="preserve">
     <value>おい。おまえも男なら女性を脅かす
@@ -633,21 +594,12 @@
     <value>朝比奈さんは#P05“パニック”#P01状態の
 ご様子だ</value>
   </data>
-  <data name="0163 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0164 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0165 KOIZUMI (古泉)" xml:space="preserve">
     <value>申し訳ありません。いざともなれば
 僕が背負って差し上げます</value>
   </data>
   <data name="0166 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>それは俺の仕事だから横取りするな</value>
-  </data>
-  <data name="0167 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0168 KOIZUMI (古泉)" xml:space="preserve">
     <value>配線はこれでよし。あとはトラップ
@@ -672,9 +624,6 @@
   <data name="0173 KYON (キョン)" xml:space="preserve">
     <value>その部分ついては同意する。怪しげ
 なものにはすぐ飛びつくだろうしな</value>
-  </data>
-  <data name="0174 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0175 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なんだ？　どこで音がしたんだ！？</value>
@@ -738,12 +687,6 @@
     <value>不謹慎だが朝比奈さんを怯えさせた
 古泉に少し感謝してやってもいい</value>
   </data>
-  <data name="0193 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0194 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0195 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>その古泉は苦笑して俺たちを見て
 いやがる</value>
@@ -760,21 +703,12 @@
     <value>とはいえ、ちょっと動きにくいので
 名残惜しいが放して頂こう</value>
   </data>
-  <data name="0199 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0200 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0201 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さん、すみませんが放して
 頂かないと作業が出来ません</value>
   </data>
   <data name="0202 MIKURU (みくる)" xml:space="preserve">
     <value>あっ、ご、ごめんなさいぃ</value>
-  </data>
-  <data name="0203 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0204 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんは恥ずかしそうに俺から
@@ -784,21 +718,12 @@
     <value>朝比奈さんのぬくもりが残って
 いて幸福気分だね</value>
   </data>
-  <data name="0206 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0207 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0208 KYON (キョン)" xml:space="preserve">
     <value>古泉、なんとかしてくれないか</value>
   </data>
   <data name="0209 KOIZUMI (古泉)" xml:space="preserve">
     <value>朝比奈さん、それでは彼が作業でき
 ませんよ</value>
-  </data>
-  <data name="0210 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0211 MIKURU (みくる)" xml:space="preserve">
     <value>あ、あの、ごめんなさいっ！
@@ -836,9 +761,6 @@
   </data>
   <data name="0221 KYON (キョン)" xml:space="preserve">
     <value>あいつら何やってるんだ？</value>
-  </data>
-  <data name="0222 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0223 KOIZUMI (古泉)" xml:space="preserve">
     <value>さあ……先ほどの物音と関係があり
@@ -890,12 +812,6 @@
   <data name="0236 KYON (キョン)" xml:space="preserve">
     <value>じゃ、#P05“懐中電灯”#P00は借りておき
 ましょう</value>
-  </data>
-  <data name="0237 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0238 KOIZUMI (古泉)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0239 KYON (キョン)" xml:space="preserve">
     <value>古泉、あとはどこに仕掛ける？</value>

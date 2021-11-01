@@ -66,9 +66,6 @@
     <value>俺は朝比奈さんと、時計の時間を
 遅れさせる係だ</value>
   </data>
-  <data name="0002 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0003 KYON (キョン)" xml:space="preserve">
     <value>しかし、こうしてみると、時計って
 けっこうな数がありますね</value>
@@ -105,9 +102,6 @@
   </data>
   <data name="0012 MIKURU (みくる)" xml:space="preserve">
     <value>はい</value>
-  </data>
-  <data name="0013 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0014 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんと手分けして</value>
@@ -207,9 +201,6 @@
   <data name="0041 MIKURU (みくる)" xml:space="preserve">
     <value>……はい</value>
   </data>
-  <data name="0042 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0043 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺が持ってきた時計を、朝比奈
 さんが針を遅れさせるという案は</value>
@@ -289,9 +280,6 @@
   <data name="0065 MIKURU (みくる)" xml:space="preserve">
     <value>す、す、すすす涼宮さんがっ！</value>
   </data>
-  <data name="0066 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0067 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんの視線の先には、こちら
 にやってくるハルヒの姿があった</value>
@@ -309,9 +297,6 @@
   <data name="0071 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>しかし、古泉は役立たずでも、神は
 今回俺たちの味方らしい</value>
-  </data>
-  <data name="0072 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0073 MIKURU (みくる)" xml:space="preserve">
     <value>#P06ジャストタイミングですね</value>
@@ -394,18 +379,12 @@
   <data name="0095 MIKURU (みくる)" xml:space="preserve">
     <value>そうですよ。部室に戻りましょう</value>
   </data>
-  <data name="0096 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0097 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒは自分から部室に戻ろうと
 背を向け歩き出した</value>
   </data>
   <data name="0098 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>すごいです、朝比奈さん</value>
-  </data>
-  <data name="0099 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0100 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんが、俺に向けて何度か
@@ -481,9 +460,6 @@
   </data>
   <data name="0120 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>目の前を通り過ぎる姿を確認する</value>
-  </data>
-  <data name="0121 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0122 KYON (キョン)" xml:space="preserve">
     <value>……あ、朝比奈さん</value>

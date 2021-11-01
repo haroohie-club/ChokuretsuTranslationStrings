@@ -58,12 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0001 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0002 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒのお守りを古泉に任せて</value>
   </data>
@@ -74,9 +68,6 @@
   <data name="0004 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さっきからうちの妹が朝比奈さんに
 じゃれついているのが目障りだ</value>
-  </data>
-  <data name="0005 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0006 KYON_SIS (妹)" xml:space="preserve">
     <value>ねーねー、みくるちゃんって
@@ -148,9 +139,6 @@
     <value>やけに素直だな
 ……と思ったら</value>
   </data>
-  <data name="0025 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0026 KYON_SIS (妹)" xml:space="preserve">
     <value>今度は有希ちゃんとお話するー</value>
   </data>
@@ -185,12 +173,6 @@
     <value>二人で並んで歩いている姿は、
 なんだか仲が良さそうに見える</value>
   </data>
-  <data name="0035 KYON_SIS (妹)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0036 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0037 MIKURU (みくる)" xml:space="preserve">
     <value>こうしていると長門さんが、
 お姉さんみたいに見えますね</value>
@@ -202,9 +184,6 @@
   <data name="0039 MIKURU (みくる)" xml:space="preserve">
     <value>ふふっ、迷惑だなんて
 思っていませんから</value>
-  </data>
-  <data name="0040 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0041 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>それにしても、朝比奈さんなら
@@ -229,9 +208,6 @@
   <data name="0046 KYON (キョン)" xml:space="preserve">
     <value>うーん、じゃあアイスだ</value>
   </data>
-  <data name="0047 KYON_SIS (妹)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0048 MIKURU (みくる)" xml:space="preserve">
     <value>キョンくんもアイスが
 好きなんですか？</value>
@@ -254,9 +230,6 @@
     <value>朝比奈さんと#P05“アイスの約束”#P01か
 妹に感謝だな</value>
   </data>
-  <data name="0054 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0055 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門の話題に出た
 かき氷とでも言っておくか</value>
@@ -270,9 +243,6 @@
   <data name="0058 KYON (キョン)" xml:space="preserve">
     <value>そうだな、無難なとこだとイチゴ
 変わったところだとブルーハワイか</value>
-  </data>
-  <data name="0059 KYON_SIS (妹)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0060 NAGATO (長門)" xml:space="preserve">
     <value>ブルーハワイ</value>
@@ -306,9 +276,6 @@
     <value>長門との#P05“かき氷の約束”#P01、
 覚えておこう</value>
   </data>
-  <data name="0069 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0070 KYON_SIS (妹)" xml:space="preserve">
     <value>いーな、いーなー
 キョンくん、あたしもー</value>
@@ -320,9 +287,6 @@
   <data name="0072 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>などとワイワイと話しているうちに
 学校に到着した</value>
-  </data>
-  <data name="0073 KYON_SIS (妹)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0074 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さん、鶴屋さんは
@@ -354,12 +318,6 @@
   <data name="0081 MIKURU (みくる)" xml:space="preserve">
     <value>そうですね</value>
   </data>
-  <data name="0082 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0083 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0084 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さん、鶴屋さんの靴は
 まだ下駄箱にありますか？</value>
@@ -372,15 +330,9 @@
     <value>だとしたら、まっすぐ向かうのが
 いいだろう</value>
   </data>
-  <data name="0087 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0088 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>図書室の前で、鶴屋さんの姿を
 見つけることが出来た</value>
-  </data>
-  <data name="0089 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0090 MIKURU (みくる)" xml:space="preserve">
     <value>あっ、鶴屋さん！</value>
@@ -401,12 +353,6 @@
     <value>そりゃ悪かったね
 ちょろっと待っててよ</value>
   </data>
-  <data name="0095 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0096 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0097 KYON (キョン)" xml:space="preserve">
     <value>鶴屋さん、用事はもう少しかかり
 そうですか？</value>
@@ -426,9 +372,6 @@
   <data name="0101 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>それにしても、またずいぶんと
 ブ厚い本だな</value>
-  </data>
-  <data name="0102 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0103 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
@@ -514,12 +457,6 @@
     <value>長門の本を借りる手続きも終えて、
 俺たちは空き地へ向かうことにした</value>
   </data>
-  <data name="0126 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0127 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0128 TSURUYA (鶴屋)" xml:space="preserve">
     <value>やー、バーベキューかぁ
 久しぶりだから楽しみだねっ</value>
@@ -527,9 +464,6 @@
   <data name="0129 KYON_SIS (妹)" xml:space="preserve">
     <value>バーベキュー、バーベキュー♪
 じゅーじゅーじゅー♪</value>
-  </data>
-  <data name="0130 TSURUYA (鶴屋)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0131 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>スキップしかねないイキオイで
@@ -543,15 +477,9 @@
     <value>ま、まって下さぁい
 きゃっ！</value>
   </data>
-  <data name="0134 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0135 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>普通に歩いているのに朝比奈さん
 は転びそうになっている</value>
-  </data>
-  <data name="0136 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0137 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
@@ -560,21 +488,9 @@
     <value>長門はさっき借りた本を、器用に
 も歩きながら読んでいるし</value>
   </data>
-  <data name="0139 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0140 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0141 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>どちらも危なっかしいが
 大丈夫だろうか？</value>
-  </data>
-  <data name="0142 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0143 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0144 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さん、急がなくてもいい
@@ -609,15 +525,6 @@
   <data name="0152 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そう言いつつ密かにその小石を
 ポケットに放り込んだ</value>
-  </data>
-  <data name="0153 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0154 MIKURU (みくる)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0155 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0156 KYON (キョン)" xml:space="preserve">
     <value>長門、本を読みながら歩くのは
@@ -665,9 +572,6 @@
     <value>大したもんじゃないし
 後で捨てておこう</value>
   </data>
-  <data name="0169 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0170 TSURUYA (鶴屋)" xml:space="preserve">
     <value>おーい、みくるー！　早くきなよっ</value>
   </data>
@@ -683,9 +587,6 @@
   </data>
   <data name="0174 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
-  </data>
-  <data name="0175 KYON_SIS (妹)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0176 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あちこちにキョウミを示す妹に</value>

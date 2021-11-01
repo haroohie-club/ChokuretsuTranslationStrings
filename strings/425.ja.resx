@@ -70,9 +70,6 @@
     <value>さすがは古泉くん、よくこんな
 いい場所、許可がとれたわね</value>
   </data>
-  <data name="0003 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0004 KOIZUMI (古泉)" xml:space="preserve">
     <value>ええ、持ち主が話のわかる人で助か
 りました</value>
@@ -83,9 +80,6 @@
   <data name="0006 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まぁ『機関』自体が持ち主だなんて
 オチかもしれないがな</value>
-  </data>
-  <data name="0007 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
     <value>じゃあ、キョンは買い物、あたし達
@@ -103,9 +97,6 @@
     <value>ついさっき、それに遭遇した朝比奈
 さんが戻りたがらないのも当然だ</value>
   </data>
-  <data name="0012 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0013 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
@@ -116,9 +107,6 @@
   <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
     <value>貴重な時間は、刻一刻と過ぎて
 いくのよ？</value>
-  </data>
-  <data name="0016 NAGATO (長門)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0017 KOIZUMI (古泉)" xml:space="preserve">
     <value>そうですね。わざわざこちらに来て
@@ -135,9 +123,6 @@
   <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さあ、後でゆっくりするためにも
 今はさっさと準備よ、準備！</value>
-  </data>
-  <data name="0021 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0022 MIKURU (みくる)" xml:space="preserve">
     <value>ふぇぇ～ん</value>
@@ -172,12 +157,6 @@
   <data name="0030 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>自分の選択が間違いでないことと
 朝比奈さんの無事を祈るばかりだ</value>
-  </data>
-  <data name="0031 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0033 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>買い出しを選んだ俺は、ひとりで
@@ -405,9 +384,6 @@
   <data name="0095 KYON (キョン)" xml:space="preserve">
     <value>ええ、ありがとうございます</value>
   </data>
-  <data name="0096 GROCER (八百屋)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0097 KYON (キョン)" xml:space="preserve">
     <value>運動部じゃなくて……文芸部の
 合宿なんですよ</value>
@@ -440,12 +416,6 @@
   <data name="0105 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>と、そう正直に言うこともできず
 激励を苦笑いで受け止めるのみだ</value>
-  </data>
-  <data name="0106 KYON_SIS (妹)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0107 GROCER (八百屋)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0108 KYON (キョン)" xml:space="preserve">
     <value>えーと、買いもらしはない……と
@@ -497,9 +467,6 @@
   <data name="0121 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺は妹と、菓子や目についたものを
 買い足していくことにした</value>
-  </data>
-  <data name="0122 KYON_SIS (妹)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0123 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そして、ふと気づくと妹の姿が見え

@@ -74,9 +74,6 @@
     <value>$9そんな安直な考えが、#W30$7なかった
 わけじゃない</value>
   </data>
-  <data name="0004 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
   <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$10バーベキュー？#W30
 へえ、#W30$8キョンにしてはいい考えね</value>
@@ -100,21 +97,12 @@
     <value>$9ハルヒ、#W30$8それは借りるんじゃなくて#W10
 勝手に持ち出す、と言うんだ</value>
   </data>
-  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
-  <data name="0012 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
   <data name="0013 MIKURU (みくる)" xml:space="preserve">
     <value>$12お、#W20おサイフを学校に忘れて
 来ちゃいましたぁ</value>
   </data>
   <data name="0014 KYON (キョン)" xml:space="preserve">
     <value>$10あ、#W40朝比奈さん#W20…#W10…</value>
-  </data>
-  <data name="0015 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0016 NAGATO (長門)" xml:space="preserve">
     <value>$10これ……</value>
@@ -130,9 +118,6 @@
     <value>$10……わかった。#W20$8おまえがいいなら
 俺は何も言わん</value>
   </data>
-  <data name="0020 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
   <data name="0021 TSURUYA (鶴屋)" xml:space="preserve">
     <value>$8ホントいいのかい、#W20あたしらまで
 ご相伴にあずかっちゃって</value>
@@ -144,20 +129,11 @@
     <value>$10悪いねキョン、#W20$8僕らまでまぜて
 もらっちゃってさ</value>
   </data>
-  <data name="0024 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
-  <data name="0025 9 (国木田)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
   <data name="0026 MIKURU (みくる)" xml:space="preserve">
     <value>$12キョンく～ん、#W10$10火がつきませぇん</value>
   </data>
   <data name="0027 KYON (キョン)" xml:space="preserve">
     <value>$10は、#W20$9はいはい！　#W20俺がやりますっ</value>
-  </data>
-  <data name="0028 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0029 NAGATO (長門)" xml:space="preserve">
     <value>$10…………</value>
@@ -165,9 +141,6 @@
   <data name="0030 KYON (キョン)" xml:space="preserve">
     <value>$10待てっ、長門！　#W20$8それを焼くのは
 思いとどまれ！</value>
-  </data>
-  <data name="0031 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$7ちょっと、キョン！#W20
@@ -177,9 +150,6 @@
     <value>$9だぁっ！#W30
 なんて人使いが荒いんだ！</value>
   </data>
-  <data name="0034 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
   <data name="0035 TANIGUCHI (谷口)" xml:space="preserve">
     <value>$8ほんとに見たんだよ！　#W10キョン！#W20
 $7女の子が消えちまうところをよ！</value>
@@ -187,18 +157,12 @@ $7女の子が消えちまうところをよ！</value>
   <data name="0036 KYON (キョン)" xml:space="preserve">
     <value>$10女の子#W30…#W20…#W20$5まさか、#W20$8あの時の？</value>
   </data>
-  <data name="0037 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
   <data name="0038 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9谷口が言うことだから#W20
 $8あんまり信用できないけど#W20…#W10…</value>
   </data>
   <data name="0039 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$10まあ、#W20$9一応調べてみましょ</value>
-  </data>
-  <data name="0040 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0041 KYON (キョン)" xml:space="preserve">
     <value>$9谷口の言ってたのと#W10$7ずいぶん

@@ -87,9 +87,6 @@
   <data name="0007 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……どこまでお気楽な野郎なんだ</value>
   </data>
-  <data name="0008 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1A;</value>
-  </data>
   <data name="0009 MIKURU (みくる)" xml:space="preserve">
     <value>美味しいお菓子とお茶で誘って
 連れ戻すことが出来るかも……</value>
@@ -101,9 +98,6 @@
   <data name="0011 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>やはり朝比奈さんは協力的だ
 古泉とはえらい違いだね</value>
-  </data>
-  <data name="0012 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1A;</value>
   </data>
   <data name="0013 NAGATO (長門)" xml:space="preserve">
     <value>……待って</value>
@@ -226,9 +220,6 @@
   <data name="0047 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>学校を覆う異常がなんとかなれば
 むしろ根本的解決になるはずだ</value>
-  </data>
-  <data name="0048 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1A;</value>
   </data>
   <data name="0049 KOIZUMI (古泉)" xml:space="preserve">
     <value>特異点を設置とのことですが、それ

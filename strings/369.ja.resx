@@ -82,12 +82,6 @@
     <value>熟練のセールスマンでも、こうは
 見事に入り込めないだろう</value>
   </data>
-  <data name="0006 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0007 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0008 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>そ、それが我が部の不幸の始まりだ
 キミ達には本当に迷惑してるんだ！</value>
@@ -146,9 +140,6 @@
     <value>ふたりがかりでプレッシャーかけた
 ら思い出すことも出来なくなるぞ</value>
   </data>
-  <data name="0023 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0024 KOIZUMI (古泉)" xml:space="preserve">
     <value>まあ、一理ありますね</value>
   </data>
@@ -158,9 +149,6 @@
   </data>
   <data name="0026 KYON (キョン)" xml:space="preserve">
     <value>で、質問するのは……</value>
-  </data>
-  <data name="0027 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0028 KYON (キョン)" xml:space="preserve">
     <value>長門に聞き出してもらおう</value>
@@ -192,9 +180,6 @@
   <data name="0036 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>何度も邪魔されたくないんだよ
 実際、色々と遅れが出てるし……</value>
-  </data>
-  <data name="0037 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0038 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>自分が聴取されるターゲットから
@@ -291,9 +276,6 @@
   <data name="0065 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>最後は泣きで全否定してしまった</value>
   </data>
-  <data name="0066 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0067 KOIZUMI (古泉)" xml:space="preserve">
     <value>こういう具合に涼宮さんが素直に
 納得すれば問題は解決するんですが</value>
@@ -308,12 +290,6 @@
   <data name="0070 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒが黙って見ているとは思え
 ないけどな</value>
-  </data>
-  <data name="0071 NAGATO (長門)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0072 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0073 KYON (キョン)" xml:space="preserve">
     <value>古泉だろう。相手を問い詰めるのは
@@ -396,9 +372,6 @@
     <value>ところで、目撃者は部長氏ではない
 とのことですが、その方は？</value>
   </data>
-  <data name="0095 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0096 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>……僕です</value>
   </data>
@@ -408,12 +381,6 @@
   </data>
   <data name="0098 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉の聴取はまだまだ続きそうだ</value>
-  </data>
-  <data name="0099 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0100 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0101 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>聴取が終わった時には、コンピ研の
@@ -446,9 +413,6 @@
   <data name="0109 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>その前に、一応、２人に話をしてお
 いた方がいいか……</value>
-  </data>
-  <data name="0110 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0111 KYON (キョン)" xml:space="preserve">
     <value>大した情報もなし……か</value>
@@ -512,9 +476,6 @@
   <data name="0128 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>最後まで嫌みなやつめ</value>
   </data>
-  <data name="0129 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0130 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>団長が団長なら、団員も同じく
 容赦ないのか……</value>
@@ -543,12 +504,6 @@
   <data name="0137 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>この笑顔が爽やか過ぎて、うさん
 くさいんだよ</value>
-  </data>
-  <data name="0138 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0139 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0140 KYON (キョン)" xml:space="preserve">
     <value>なにやら俺はコンピ研部員が気の毒

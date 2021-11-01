@@ -92,9 +92,6 @@
     <value>もしかして長門的に悔しがって
 いるのだろうか</value>
   </data>
-  <data name="0009 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
   <data name="0010 MIKURU (みくる)" xml:space="preserve">
     <value>キョンくん！</value>
   </data>
@@ -144,9 +141,6 @@
   <data name="0023 KYON (キョン)" xml:space="preserve">
     <value>じゃあ、やっぱりハルヒの奴が
 原因なのか？</value>
-  </data>
-  <data name="0024 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0025 NAGATO (長門)" xml:space="preserve">
     <value>涼宮ハルヒを発生源とする
@@ -228,21 +222,12 @@
     <value>やっぱり古泉に翻訳してもらう
 方がわかりやすくていい</value>
   </data>
-  <data name="0047 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
-  <data name="0048 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
   <data name="0049 MIKURU (みくる)" xml:space="preserve">
     <value>でも、それじゃどうしましょう……</value>
   </data>
   <data name="0050 KYON (キョン)" xml:space="preserve">
     <value>確かに簡単にいかないのは分かった
 だったら、どうすればいい？</value>
-  </data>
-  <data name="0051 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0052 NAGATO (長門)" xml:space="preserve">
     <value>空間を創造する原因を特定して
@@ -257,9 +242,6 @@
   </data>
   <data name="0055 NAGATO (長門)" xml:space="preserve">
     <value>そう</value>
-  </data>
-  <data name="0056 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0057 KOIZUMI (古泉)" xml:space="preserve">
     <value>でしたら早々に行動をおこさないと
@@ -294,9 +276,6 @@
   </data>
   <data name="0066 NAGATO (長門)" xml:space="preserve">
     <value>分かった</value>
-  </data>
-  <data name="0067 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0068 KOIZUMI (古泉)" xml:space="preserve">
     <value>となると、我々にできることは
@@ -351,9 +330,6 @@
   <data name="0082 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あれも含めてわけのわからん異世界
 が量産されるなんてまっぴらだ</value>
-  </data>
-  <data name="0083 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0084 MIKURU (みくる)" xml:space="preserve">
     <value>でも涼宮さん、怪奇現象を探すのに

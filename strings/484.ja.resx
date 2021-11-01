@@ -186,9 +186,6 @@
     <value>長門の提案に従って、俺たちは校舎
 の外――昇降口へと向かった</value>
   </data>
-  <data name="0037 NAGATO (長門)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
   <data name="0038 KYON (キョン)" xml:space="preserve">
     <value>人の気配は……しないな</value>
   </data>
@@ -229,9 +226,6 @@
   </data>
   <data name="0050 KYON (キョン)" xml:space="preserve">
     <value>分担作業だな。わかった、頼むぞ</value>
-  </data>
-  <data name="0051 NAGATO (長門)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0052 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>靴の調査は長門に任せて、昇降口
@@ -316,9 +310,6 @@
   <data name="0076 KYON (キョン)" xml:space="preserve">
     <value>そうだな、一緒に食ったもんな</value>
   </data>
-  <data name="0077 NAGATO (長門)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
   <data name="0078 KYON (キョン)" xml:space="preserve">
     <value>散歩する、とかな</value>
   </data>
@@ -342,9 +333,6 @@
   <data name="0084 KYON (キョン)" xml:space="preserve">
     <value>たまには目的もなく、フラフラ歩く
 のも、いいもんだ</value>
-  </data>
-  <data name="0085 NAGATO (長門)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0086 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……と、俺が見回りもそこそこに
@@ -374,17 +362,11 @@
   <data name="0094 KYON (キョン)" xml:space="preserve">
     <value>そうだな。じゃあ、中庭の――</value>
   </data>
-  <data name="0095 NAGATO (長門)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
   <data name="0096 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>捜してるのは～、僕らかい～？</value>
   </data>
   <data name="0097 KYON (キョン)" xml:space="preserve">
     <value>っ！？</value>
-  </data>
-  <data name="0098 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0099 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>昇降口に、ふらりと姿を現したのは
@@ -409,9 +391,6 @@
   <data name="0105 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そのまま、俺たちに背を向けて
 逃走を開始する！</value>
-  </data>
-  <data name="0106 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0107 KYON (キョン)" xml:space="preserve">
     <value>逃がすかっ！</value>
@@ -473,9 +452,6 @@
   <data name="0124 NAGATO (長門)" xml:space="preserve">
     <value>囲まれてるのは、わたしたち</value>
   </data>
-  <data name="0125 NAGATO (長門)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
   <data name="0126 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ふと、長門が立ち止まった</value>
   </data>
@@ -511,14 +487,8 @@
   <data name="0136 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
     <value>あははははは</value>
   </data>
-  <data name="0137 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
   <data name="0138 CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
     <value>仲間にしてあげる～、あげるよ～</value>
-  </data>
-  <data name="0139 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0140 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>ふひっ、ふひひひひっ</value>
@@ -531,36 +501,18 @@
     <value>最初から、俺たちをここにおびき寄
 せるツモリだったのか――</value>
   </data>
-  <data name="0143 CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
   <data name="0144 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>女の子一人なら平気～</value>
-  </data>
-  <data name="0145 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0146 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
     <value>いっきに押さえ込むよ～</value>
   </data>
-  <data name="0147 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
   <data name="0148 CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
     <value>僕が花を植えるよ～</value>
-  </data>
-  <data name="0149 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0150 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>きっときれいな花が咲くに違いない
 ねぇ～、楽しみだなぁ～</value>
-  </data>
-  <data name="0151 CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
-  <data name="0152 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0153 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
@@ -569,20 +521,11 @@
     <value>４人は、長門一人に目的を絞ってい
 るらしい。まずい！</value>
   </data>
-  <data name="0155 NAGATO (長門)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
-  <data name="0156 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
   <data name="0157 KYON (キョン)" xml:space="preserve">
     <value>放せっ！　おいっ、こらっ！</value>
   </data>
   <data name="0158 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>放さないよ～、さあ一緒に花を～</value>
-  </data>
-  <data name="0159 NAGATO (長門)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0160 KYON (キョン)" xml:space="preserve">
     <value>長門っ、逃げろっ！</value>
@@ -596,14 +539,8 @@
   <data name="0163 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
     <value>女子部員～、マネージャ～</value>
   </data>
-  <data name="0164 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
   <data name="0165 CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
     <value>痛くないよ～、すぐ終わるから～</value>
-  </data>
-  <data name="0166 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0167 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>どんな色の花を咲かすのかなぁ～？</value>
@@ -611,15 +548,6 @@
   <data name="0168 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ジリジリと、長門との距離を詰めて
 くる４人の花男たち……</value>
-  </data>
-  <data name="0169 CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
-  <data name="0170 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
-  <data name="0171 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0172 KYON (キョン)" xml:space="preserve">
     <value>いい加減に……しろっ！</value>
@@ -681,9 +609,6 @@
   </data>
   <data name="0190 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
-  </data>
-  <data name="0191 NAGATO (長門)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0192 KYON (キョン)" xml:space="preserve">
     <value>な、長門っ！　大丈夫か！？</value>

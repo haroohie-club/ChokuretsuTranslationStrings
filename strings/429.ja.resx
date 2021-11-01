@@ -192,21 +192,12 @@
   <data name="0036 KYON (キョン)" xml:space="preserve">
     <value>次は野菜だな……</value>
   </data>
-  <data name="0037 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0038 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0039 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さんの意見にも一理あります
 まずは野菜を買うことにしましょう</value>
   </data>
   <data name="0040 MIKURU (みくる)" xml:space="preserve">
     <value>はい</value>
-  </data>
-  <data name="0041 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0042 KYON (キョン)" xml:space="preserve">
     <value>バーベキューするのにいい野菜って
@@ -230,9 +221,6 @@
     <value>そう言って朝比奈さんから両手一杯
 の野菜を受け取ると、店主が言った</value>
   </data>
-  <data name="0048 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0049 GROCER (八百屋)" xml:space="preserve">
     <value>偉いねえ、彼氏が荷物を持ってやる
 とは、大したもんだ</value>
@@ -248,18 +236,12 @@
     <value>だが、残念ながら事実はそうでは
 ない</value>
   </data>
-  <data name="0053 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0054 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
   <data name="0055 KYON (キョン)" xml:space="preserve">
     <value>いや、違います。おいっ、長門
 判ってるだろ</value>
-  </data>
-  <data name="0056 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0057 GROCER (八百屋)" xml:space="preserve">
     <value>おや、そちらも彼女かい？
@@ -280,15 +262,6 @@
   <data name="0061 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>残念ながら皆無に等しい</value>
   </data>
-  <data name="0062 GROCER (八百屋)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0063 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0064 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0065 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門はいつもの無表情だし、朝比奈
 さんは赤い顔でうつむいてしまった</value>
@@ -296,12 +269,6 @@
   <data name="0066 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉なら気の利いたリアクションも
 とれるんだろうな。キザなポーズで</value>
-  </data>
-  <data name="0067 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0068 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0069 GROCER (八百屋)" xml:space="preserve">
     <value>ああ、すまんすまん、冗談が過ぎた
@@ -325,12 +292,6 @@
   <data name="0074 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さて、またおっさんが妙なことを
 言い出す前に、買い物を済ませよう</value>
-  </data>
-  <data name="0075 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0076 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0077 KYON (キョン)" xml:space="preserve">
     <value>ふぅ、こんなもんか</value>
@@ -420,9 +381,6 @@
   <data name="0101 KYON (キョン)" xml:space="preserve">
     <value>……昨日の日付だな</value>
   </data>
-  <data name="0102 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0103 GROCER (八百屋)" xml:space="preserve">
     <value>えっ……そ、そうかい？</value>
   </data>
@@ -470,9 +428,6 @@
     <value>肩をすくめ、俺はマシュマロを受け
 取った</value>
   </data>
-  <data name="0116 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0117 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さん、どうしましょう？</value>
   </data>
@@ -498,9 +453,6 @@
     <value>バナナ型をした、ケースのような
 ものを朝比奈さんは手にしていた</value>
   </data>
-  <data name="0124 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0125 GROCER (八百屋)" xml:space="preserve">
     <value>バナナケースだよ</value>
   </data>
@@ -524,12 +476,6 @@
   <data name="0131 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>バーベキューには関係ないような
 代物ではあるが</value>
-  </data>
-  <data name="0132 GROCER (八百屋)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0133 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0134 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>物珍しそうにそれを見る朝比奈さん
@@ -557,9 +503,6 @@
     <value>この笑顔が見れただけでも
 俺は大満足だ</value>
   </data>
-  <data name="0141 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0142 GROCER (八百屋)" xml:space="preserve">
     <value>ケースだけじゃなくて、中身も買っ
 ていったらどうだい？</value>
@@ -575,18 +518,12 @@
     <value>俺は苦笑して、バナナも買い足す
 ことにした</value>
   </data>
-  <data name="0146 GROCER (八百屋)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0147 MIKURU (みくる)" xml:space="preserve">
     <value>あ、ありがとうございます……</value>
   </data>
   <data name="0148 KYON (キョン)" xml:space="preserve">
     <value>いいですよ、ハルヒもデザートだと
 言えば文句もないでしょう</value>
-  </data>
-  <data name="0149 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0150 GROCER (八百屋)" xml:space="preserve">
     <value>うーん、もうちょっと減らしたい
@@ -675,9 +612,6 @@
   <data name="0172 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>可哀想な気もするが、諦めてくれ</value>
   </data>
-  <data name="0173 GROCER (八百屋)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0174 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>飲み物やお菓子など、他にも必要な
 物の買い出しを終えると、</value>
@@ -723,9 +657,6 @@
   <data name="0186 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そんな会話をして、俺たちは空き地
 への帰路へとついた</value>
-  </data>
-  <data name="0187 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0188 KYON_SIS (妹)" xml:space="preserve">
     <value>あ、キョンくんたちが帰ってきたよ</value>
@@ -778,21 +709,12 @@
     <value>疑うならせめて、自腹でも切った
 わけ？　と言って欲しいもんだ</value>
   </data>
-  <data name="0202 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0203 MIKURU (みくる)" xml:space="preserve">
     <value>あ……
 もしかして、さっきの青果店とかの</value>
   </data>
   <data name="0204 KYON (キョン)" xml:space="preserve">
     <value>ああ、そうか</value>
-  </data>
-  <data name="0205 MIKURU (みくる)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0206 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0207 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒの疑問の答に思い当たり、

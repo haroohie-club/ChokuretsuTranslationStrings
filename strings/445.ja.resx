@@ -72,9 +72,6 @@
     <value>鉄串に刺すところまではやっても
 良いかもしれませんね</value>
   </data>
-  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0005 TANIGUCHI (谷口)" xml:space="preserve">
     <value>なんで俺たちまで下働きのマネを
 せにゃならんのだ？</value>
@@ -88,9 +85,6 @@
   </data>
   <data name="0008 TANIGUCHI (谷口)" xml:space="preserve">
     <value>おい、国木田もなんか言え</value>
-  </data>
-  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0010 9 (国木田)" xml:space="preserve">
     <value>べつに、準備くらいいいじゃない
@@ -117,12 +111,6 @@
     <value>諦めろ、谷口よ。今回ばかりは
 ハルヒの方が正しい</value>
   </data>
-  <data name="0017 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0019 KYON_SIS (妹)" xml:space="preserve">
     <value>ねえハルにゃん、なにをすればい
 いのかなあ？</value>
@@ -134,18 +122,12 @@
   <data name="0021 KYON_SIS (妹)" xml:space="preserve">
     <value>うん、わかった！</value>
   </data>
-  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
     <value>では、僕もそちらに行って、妹さん
 の監督をしましょう</value>
   </data>
   <data name="0024 KYON_SIS (妹)" xml:space="preserve">
     <value>古泉くん、よろしくねーっ</value>
-  </data>
-  <data name="0025 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それじゃあ、あたしは洗った野菜や
@@ -158,18 +140,12 @@
   <data name="0028 HARUHI (ハルヒ)" xml:space="preserve">
     <value>もちろんよ</value>
   </data>
-  <data name="0029 9 (国木田)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0030 TANIGUCHI (谷口)" xml:space="preserve">
     <value>じゃあ、俺と国木田はその役をやる
 とするか</value>
   </data>
   <data name="0031 HARUHI (ハルヒ)" xml:space="preserve">
     <value>手抜きするんじゃないわよ</value>
-  </data>
-  <data name="0032 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0033 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>みんなはてきぱきと自分の仕事を
@@ -220,12 +196,6 @@
   <data name="0046 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>妹は真面目にピーマンやらトウモロ
 コシやらを水で洗っている</value>
-  </data>
-  <data name="0047 KYON_SIS (妹)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0048 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0049 KYON (キョン)" xml:space="preserve">
     <value>古泉、お前も手抜きがしたくてこっ
@@ -298,9 +268,6 @@
   <data name="0067 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね、それが効率的だと思うわ</value>
   </data>
-  <data name="0068 9 (国木田)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0069 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なんとなく話の流れで役割分担も
 決まり、俺たちは作業を開始した</value>
@@ -368,9 +335,6 @@
     <value>さっきは黙ってやれとか言ってた
 クセに、なんという自己中</value>
   </data>
-  <data name="0088 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0089 TANIGUCHI (谷口)" xml:space="preserve">
     <value>おう。あるところに女がいたんだが</value>
   </data>
@@ -402,9 +366,6 @@
     <value>なに時代だ。バーベキューってのは
 そんな昔からあったのか</value>
   </data>
-  <data name="0098 9 (国木田)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0099 TANIGUCHI (谷口)" xml:space="preserve">
     <value>それ以来、夜中にその井戸の近くを
 通ると、井戸の底から……</value>
@@ -416,9 +377,6 @@
   <data name="0101 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>パクリじゃねーか
 しかも、さっぱり怖くない</value>
-  </data>
-  <data name="0102 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0103 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……予想はしてたけど、やっぱ
@@ -455,9 +413,6 @@
   <data name="0112 KYON (キョン)" xml:space="preserve">
     <value>……そうだな</value>
   </data>
-  <data name="0113 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0114 TANIGUCHI (谷口)" xml:space="preserve">
     <value>おい、俺がせっかく話してやった
 のに、そのリアクションはなんだ！</value>
@@ -473,12 +428,6 @@
   <data name="0117 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒが逆に興味を失ったことは、
 谷口には感謝すべきかもしれないな</value>
-  </data>
-  <data name="0118 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0119 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0120 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>作業は順調に進み、用意した串と
@@ -497,12 +446,6 @@
   </data>
   <data name="0124 KYON (キョン)" xml:space="preserve">
     <value>ん、谷口はどこだ？</value>
-  </data>
-  <data name="0125 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0126 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0127 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>探すと、谷口は妹に向かって得意げ
@@ -523,15 +466,6 @@
     <value>子供だましの怪談だが、ほんものの
 子供には通用するということか</value>
   </data>
-  <data name="0132 KYON_SIS (妹)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0133 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0134 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0135 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さっきからあの調子でくっだらない
 怪談話ばかりなのよ</value>
@@ -545,12 +479,6 @@
   </data>
   <data name="0138 KOIZUMI (古泉)" xml:space="preserve">
     <value>怪談、ですか……</value>
-  </data>
-  <data name="0139 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0140 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0141 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉が微妙な表情になる</value>
@@ -584,9 +512,6 @@
     <value>俺がそう言うと、古泉は小さく
 頷いてから谷口の元へ歩いてゆく</value>
   </data>
-  <data name="0150 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0151 KOIZUMI (古泉)" xml:space="preserve">
     <value>すみません。少々よろしいですか？</value>
   </data>
@@ -596,9 +521,6 @@
   <data name="0153 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>振り向いた谷口に、古泉が耳打ち
 する</value>
-  </data>
-  <data name="0154 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0155 KOIZUMI (古泉)" xml:space="preserve">
     <value>……</value>
@@ -626,9 +548,6 @@
   </data>
   <data name="0163 KOIZUMI (古泉)" xml:space="preserve">
     <value>そうですか。ありがとうございます</value>
-  </data>
-  <data name="0164 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0165 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>一礼して、顔を青くした谷口の元か
@@ -668,15 +587,6 @@
   <data name="0175 KYON (キョン)" xml:space="preserve">
     <value>ああ、ハルヒの様子を見てみろよ</value>
   </data>
-  <data name="0176 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0177 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0178 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0179 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒは呆れたような、バカにした
 ような表情で谷口を見ていた</value>
@@ -684,12 +594,6 @@
   <data name="0180 KYON (キョン)" xml:space="preserve">
     <value>な？　あの顔なら、怪談を間に受け
 るような雰囲気じゃないだろ</value>
-  </data>
-  <data name="0181 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0182 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0183 KOIZUMI (古泉)" xml:space="preserve">
     <value>なるほど、どうやらそのようですね</value>

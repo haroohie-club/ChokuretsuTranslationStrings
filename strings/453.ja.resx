@@ -139,9 +139,6 @@
     <value>いくらハルヒとはいえ、あまりに
 突飛な理由じゃ納得しないだろう</value>
   </data>
-  <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さすが古泉くん！
 素晴らしい判断よ！</value>
@@ -152,9 +149,6 @@
   <data name="0026 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>叫ぶと同時にハルヒが取り出したの
 は一枚のＣＤだった</value>
-  </data>
-  <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0028 KOIZUMI (古泉)" xml:space="preserve">
     <value>それは……</value>
@@ -171,14 +165,8 @@
     <value>ちなみに、このＣＤの中身は
 “仰げば尊し”よ</value>
   </data>
-  <data name="0032 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0033 MIKURU (みくる)" xml:space="preserve">
     <value>仰げば尊し……ですか？</value>
-  </data>
-  <data name="0034 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0035 KOIZUMI (古泉)" xml:space="preserve">
     <value>卒業式の定番の曲ですね</value>
@@ -196,15 +184,6 @@
   <data name="0039 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>どうでもいい知識だな</value>
   </data>
-  <data name="0040 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0041 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0042 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0043 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あと、このラジカセね</value>
   </data>
@@ -218,9 +197,6 @@
   <data name="0046 HARUHI (ハルヒ)" xml:space="preserve">
     <value>谷口でも、たまには役に
 立つわね</value>
-  </data>
-  <data name="0047 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0048 KOIZUMI (古泉)" xml:space="preserve">
     <value>それで、涼宮さんはどうする
@@ -242,9 +218,6 @@
   <data name="0053 KYON (キョン)" xml:space="preserve">
     <value>いったい、どんなプロセスを経たら
 そんな結論に至るのか説明してくれ</value>
-  </data>
-  <data name="0054 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0055 HARUHI (ハルヒ)" xml:space="preserve">
     <value>簡単よ</value>
@@ -273,9 +246,6 @@
     <value>そもそも卒業式だの自縛霊だのって
 話はハルヒの創作じゃなかったか？</value>
   </data>
-  <data name="0062 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0063 KOIZUMI (古泉)" xml:space="preserve">
     <value>それでは、卒業式を執り行うことに
 しましょうか</value>
@@ -295,9 +265,6 @@
     <value>相変わらずハルヒの機嫌をとること
 には微塵もちゅうちょしない</value>
   </data>
-  <data name="0068 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0069 KYON (キョン)" xml:space="preserve">
     <value>仕方ない、俺たちも付き合おう</value>
   </data>
@@ -311,20 +278,11 @@
     <value>長門はこくんと頷いて、並べられた
 椅子の一つに座った</value>
   </data>
-  <data name="0073 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0074 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さん、準備はよいようです</value>
   </data>
   <data name="0075 HARUHI (ハルヒ)" xml:space="preserve">
     <value>おっけー！　じゃあ、流すわよ！</value>
-  </data>
-  <data name="0076 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0077 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0078 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>体育館に、“仰げば尊し”が流れる</value>
@@ -347,17 +305,11 @@
   <data name="0083 KYON (キョン)" xml:space="preserve">
     <value>そう都合良くいくかね……</value>
   </data>
-  <data name="0084 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0085 MIKURU (みくる)" xml:space="preserve">
     <value>待っていればいいんですか？</value>
   </data>
   <data name="0086 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね、多分そうよ</value>
-  </data>
-  <data name="0087 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0088 HARUHI (ハルヒ)" xml:space="preserve">
     <value>…………</value>
@@ -409,9 +361,6 @@
     <value>長門は明後日の方向を向いたまま
 無反応だ</value>
   </data>
-  <data name="0103 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0104 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ねえ、みくるちゃんは幽霊って見た
 ことある？</value>
@@ -439,9 +388,6 @@
   <data name="0110 HARUHI (ハルヒ)" xml:space="preserve">
     <value>でも、見えないからって存在しない
 ってわけじゃないでしょ</value>
-  </data>
-  <data name="0111 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0112 KOIZUMI (古泉)" xml:space="preserve">
     <value>気体などは見えなくても存在します
@@ -563,9 +509,6 @@
   <data name="0144 KOIZUMI (古泉)" xml:space="preserve">
     <value>謹んでお引き受けいたします</value>
   </data>
-  <data name="0145 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0146 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あと有希は、向こうの端っこに
 座ってて</value>
@@ -578,9 +521,6 @@
   </data>
   <data name="0149 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あっと言う間に配役が決定した</value>
-  </data>
-  <data name="0150 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0151 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>こうして、俺たちは本当に卒業式の
@@ -651,9 +591,6 @@
   <data name="0169 KYON (キョン)" xml:space="preserve">
     <value>俺たちも戻るか……</value>
   </data>
-  <data name="0170 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0171 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なに言ってるのよ、キョンにはまだ
 仕事が残ってるでしょ</value>
@@ -701,9 +638,6 @@
   <data name="0184 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あら、そう？</value>
   </data>
-  <data name="0185 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0186 HARUHI (ハルヒ)" xml:space="preserve">
     <value>じゃ、男子に任せてあたしたちは
 帰るわよ</value>
@@ -727,9 +661,6 @@
   </data>
   <data name="0192 KYON (キョン)" xml:space="preserve">
     <value>なんでおまえは、そんな元気なんだ</value>
-  </data>
-  <data name="0193 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0194 KYON (キョン)" xml:space="preserve">
     <value>これで最後……と……ふぅ</value>

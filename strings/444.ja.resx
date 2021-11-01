@@ -73,9 +73,6 @@
     <value>そうよ。水道は
 あるからそっちでね</value>
   </data>
-  <data name="0004 KYON_SIS (妹)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それじゃキョン、アンタが野菜を
 運びなさい</value>
@@ -90,9 +87,6 @@
     <value>他にも男手がいるってのに
 なんだその不公平さは</value>
   </data>
-  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0010 TANIGUCHI (谷口)" xml:space="preserve">
     <value>キョンが持つのなら、俺はここで
 待ってるとするかな</value>
@@ -103,12 +97,6 @@
   <data name="0012 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>張り切るうちの妹と対照的に
 おまけの２人は渋っている</value>
-  </data>
-  <data name="0013 9 (国木田)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0014 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
     <value>まあ、効率を考えるとそうよね</value>
@@ -162,12 +150,6 @@
     <value>おそらくは、古泉のお仲間連中が
 手を回してくれたのだろうが……</value>
   </data>
-  <data name="0029 9 (国木田)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0030 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0031 KYON_SIS (妹)" xml:space="preserve">
     <value>ハルにゃん、このお野菜は
 こんな感じでいいのー？</value>
@@ -180,9 +162,6 @@
     <value>洗い終わったやつはこっちに
 ちょうだい</value>
   </data>
-  <data name="0034 KYON_SIS (妹)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0035 NAGATO (長門)" xml:space="preserve">
     <value>終わった</value>
   </data>
@@ -192,12 +171,6 @@
   <data name="0037 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>女性陣の活躍で、あっという間に
 野菜の山がきれいになってしまった</value>
-  </data>
-  <data name="0038 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0039 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0040 KYON (キョン)" xml:space="preserve">
     <value>こっちも終わったぞ</value>
@@ -212,12 +185,6 @@
   <data name="0043 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あら、ちゃんとやってるじゃない</value>
   </data>
-  <data name="0044 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0045 9 (国木田)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0046 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>空き地に戻ると、谷口と国木田が
 サボらずに働いていた</value>
@@ -229,9 +196,6 @@
   <data name="0048 9 (国木田)" xml:space="preserve">
     <value>そうだね。動いてお腹を空かせると
 おいしく食べられるよ</value>
-  </data>
-  <data name="0049 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0050 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>安い連中で何よりだ
@@ -327,12 +291,6 @@
   <data name="0074 NAGATO (長門)" xml:space="preserve">
     <value>了解した</value>
   </data>
-  <data name="0075 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>%</value>
-  </data>
-  <data name="0076 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
-  </data>
   <data name="0077 KYON (キョン)" xml:space="preserve">
     <value>長門、そこで了解するな！</value>
   </data>
@@ -403,9 +361,6 @@
   <data name="0095 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なかなかの“浮き世ばなれ”
 っぷりだ</value>
-  </data>
-  <data name="0096 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0097 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョン！　ゴチャゴチャ言わないの</value>
@@ -615,9 +570,6 @@
   <data name="0153 KYON (キョン)" xml:space="preserve">
     <value>あいつにこれを食べさせるのが
 楽しみだぜ</value>
-  </data>
-  <data name="0154 NAGATO (長門)" xml:space="preserve">
-    <value>%</value>
   </data>
   <data name="0155 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ふぅん、そんなことを

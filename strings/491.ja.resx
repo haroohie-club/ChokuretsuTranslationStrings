@@ -89,9 +89,6 @@
     <value>場合も場合だし、仕方ないよな
 ……よし</value>
   </data>
-  <data name="0008 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0009 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺は手を伸ばすと、朝比奈さんの
 可憐な右手を掴んだ</value>
@@ -197,9 +194,6 @@
     <value>内心で騙したことを謝罪しつつ、
 俺は朝比奈さんと共に先を進んだ</value>
   </data>
-  <data name="0038 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0039 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>それからもかなりの時間を掛けて、
 俺たちはようやく踊り場に到着した</value>
@@ -304,9 +298,6 @@
     <value>俺は思わぬ方向からの不意打ちに
 慌てて言い訳をしつつ</value>
   </data>
-  <data name="0068 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0069 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>誤魔化すようにあたりをきょろきょ
 ろと見渡した</value>
@@ -346,9 +337,6 @@
     <value>朝比奈さんの潤んだ目に見つめられ
 ると、勝手に心拍数が上がる</value>
   </data>
-  <data name="0080 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0081 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そんな自分を誤魔化すように視線を
 横に向けた時</value>
@@ -366,9 +354,6 @@
   <data name="0085 KYON (キョン)" xml:space="preserve">
     <value>いえ、そうじゃなくて……
 あそこ、いつも閉まってますよね</value>
-  </data>
-  <data name="0086 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0087 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>と、俺が指差したのは、踊り場の
@@ -399,9 +384,6 @@
   <data name="0094 KYON (キョン)" xml:space="preserve">
     <value>まあ、屋上に本当に誰かいるのか、
 それを確かめれば判るでしょう</value>
-  </data>
-  <data name="0095 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0096 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺は自分自身を勇気づけるようにそ
@@ -447,20 +429,11 @@
   <data name="0108 KYON (キョン)" xml:space="preserve">
     <value>なんの悪夢だ、これは……</value>
   </data>
-  <data name="0109 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0110 9 (国木田)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0111 MIKURU (みくる)" xml:space="preserve">
     <value>キョンくん！　ふ、２人の手元！</value>
   </data>
   <data name="0112 KYON (キョン)" xml:space="preserve">
     <value>手？　……あ、あいつら！</value>
-  </data>
-  <data name="0113 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0114 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>２人がお手玉みたいに、駒を
@@ -500,9 +473,6 @@
   <data name="0124 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ダメだ、言葉が通じる雰囲気じゃ
 ないみたいだ</value>
-  </data>
-  <data name="0125 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0126 MIKURU (みくる)" xml:space="preserve">
     <value>ど、どうしましょう……</value>
@@ -584,12 +554,6 @@
     <value>心配しないでください
 これで……！</value>
   </data>
-  <data name="0149 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0150 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0151 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺は受け取ったモップを谷口の頭
 目掛けて振り上げ、振り下ろす！</value>
@@ -603,9 +567,6 @@
   <data name="0154 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>不気味だが、そんなにすばしっこく
 はないようだ</value>
-  </data>
-  <data name="0155 9 (国木田)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0156 KYON (キョン)" xml:space="preserve">
     <value>国木田も、すまん！</value>
@@ -787,12 +748,6 @@
   </data>
   <data name="0209 TANIGUCHI (谷口)" xml:space="preserve">
     <value>えへへへへ</value>
-  </data>
-  <data name="0210 9 (国木田)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0211 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0212 MIKURU (みくる)" xml:space="preserve">
     <value>でも、二人とも変な感じですけど

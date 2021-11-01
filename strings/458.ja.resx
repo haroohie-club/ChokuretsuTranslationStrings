@@ -70,9 +70,6 @@ $8きっとこれは#W10$9宇宙人の仕業よ！</value>
     <value>$8けっきょくのところ、#W10ハルヒには
 不満が溜まっていたのだ</value>
   </data>
-  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9みくるちゃん、#W10もっと腰を入れて！</value>
   </data>
@@ -97,12 +94,6 @@ $8きっとこれは#W10$9宇宙人の仕業よ！</value>
   <data name="0010 MIKURU (みくる)" xml:space="preserve">
     <value>$16ひえええっ</value>
   </data>
-  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0012 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0013 KYON (キョン)" xml:space="preserve">
     <value>$8プールが光るとは聞いていたが#W10
 こんなのが出るとは聞いてないぞ！</value>
@@ -118,9 +109,6 @@ $8きっとこれは#W10$9宇宙人の仕業よ！</value>
   <data name="0016 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>$10でも、#W40$9こういうモラトリアムも
 悪くないか</value>
-  </data>
-  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0018 KOIZUMI (古泉)" xml:space="preserve">
     <value>$10ひとつ、#W40$8気になることがあります</value>
@@ -142,9 +130,6 @@ $8きっとこれは#W10$9宇宙人の仕業よ！</value>
   </data>
   <data name="0023 KYON (キョン)" xml:space="preserve">
     <value>$14別の存在……だって？</value>
-  </data>
-  <data name="0024 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9そうだ、#W20肝試しをしましょう！</value>
@@ -177,23 +162,8 @@ $8きっとこれは#W10$9宇宙人の仕業よ！</value>
   <data name="0033 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>$8ちょっと待て、#W20なぜそこで俺を睨む</value>
   </data>
-  <data name="0034 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0035 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0036 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0037 9 (国木田)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0038 KYON (キョン)" xml:space="preserve">
     <value>$10おい、谷口！　俺だ！</value>
-  </data>
-  <data name="0039 9 (国木田)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0040 TANIGUCHI (谷口)" xml:space="preserve">
     <value>$24うううう～</value>
@@ -204,9 +174,6 @@ $8きっとこれは#W10$9宇宙人の仕業よ！</value>
   </data>
   <data name="0042 KYON (キョン)" xml:space="preserve">
     <value>$8くそっ、#W30どうしてこんなことに！</value>
-  </data>
-  <data name="0043 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0044 MIKURU (みくる)" xml:space="preserve">
     <value>$10ひぁぁっ！　た、助けてくださいー</value>

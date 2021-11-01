@@ -87,12 +87,6 @@
     <value>ですよね。キョンくんに色々と文句
 を言ってる間は大丈夫だと思います</value>
   </data>
-  <data name="0008 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0009 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0010 KYON (キョン)" xml:space="preserve">
     <value>どこがどのように大丈夫なんですか</value>
   </data>
@@ -122,12 +116,6 @@
   <data name="0018 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さっぱりわかりません</value>
   </data>
-  <data name="0019 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0020 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0021 KYON (キョン)" xml:space="preserve">
     <value>何が問題ないんだよ？</value>
   </data>
@@ -153,15 +141,6 @@
   <data name="0027 KYON (キョン)" xml:space="preserve">
     <value>だから、何がどうよろしくなんだよ</value>
   </data>
-  <data name="0028 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0029 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0030 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0031 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なんで３人いっぺんに戻ってくる訳
 よ？　時間差つけたのに変じゃない</value>
@@ -180,9 +159,6 @@
   </data>
   <data name="0035 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>不信感ありありだ</value>
-  </data>
-  <data name="0036 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0037 KOIZUMI (古泉)" xml:space="preserve">
     <value>目的の物が置いて無かったんですよ</value>
@@ -204,9 +180,6 @@
   </data>
   <data name="0042 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃん！</value>
-  </data>
-  <data name="0043 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0044 MIKURU (みくる)" xml:space="preserve">
     <value>ひゃい！</value>
@@ -234,9 +207,6 @@
     <value>それじゃ、確認したのは古泉くんだ
 けってことになるわね</value>
   </data>
-  <data name="0051 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0052 KOIZUMI (古泉)" xml:space="preserve">
     <value>そのようですね</value>
   </data>
@@ -250,9 +220,6 @@
   </data>
   <data name="0055 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……変ねぇ。確かめにいきましょう</value>
-  </data>
-  <data name="0056 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0057 MIKURU (みくる)" xml:space="preserve">
     <value>ええっ？</value>
@@ -281,15 +248,6 @@
   <data name="0064 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんはすがるように、古泉が
 苦笑いを浮かべて俺を見ている</value>
-  </data>
-  <data name="0065 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0066 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0067 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0068 KYON (キョン)" xml:space="preserve">
     <value>待てよ、ハルヒ</value>
@@ -330,9 +288,6 @@
   <data name="0078 KYON (キョン)" xml:space="preserve">
     <value>寄り道しているとかな</value>
   </data>
-  <data name="0079 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0080 MIKURU (みくる)" xml:space="preserve">
     <value>そう！　図書室かもしれませんね
 読書用の本を探しに行ったのかも</value>
@@ -342,9 +297,6 @@
   </data>
   <data name="0082 KYON (キョン)" xml:space="preserve">
     <value>ハルヒは禁じなかったからな</value>
-  </data>
-  <data name="0083 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0084 KOIZUMI (古泉)" xml:space="preserve">
     <value>持っていた本が読み終わって
@@ -365,9 +317,6 @@
   <data name="0088 KYON (キョン)" xml:space="preserve">
     <value>……それもそうだな</value>
   </data>
-  <data name="0089 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0090 KOIZUMI (古泉)" xml:space="preserve">
     <value>ともかく、今は長門さんの帰りを
 待つ方がよいのではないでしょうか</value>
@@ -379,9 +328,6 @@
   <data name="0092 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門が戻って来る時はおかしくな
 った連中を全員捕まえたってことだ</value>
-  </data>
-  <data name="0093 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0094 HARUHI (ハルヒ)" xml:space="preserve">
     <value>もう、肝試しが台無しじゃないの</value>
@@ -410,9 +356,6 @@
   </data>
   <data name="0101 KYON (キョン)" xml:space="preserve">
     <value>罰ゲームの内容でも考えてろって</value>
-  </data>
-  <data name="0102 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0103 MIKURU (みくる)" xml:space="preserve">
     <value>きゃあっっ！</value>
@@ -490,9 +433,6 @@
   <data name="0124 MIKURU (みくる)" xml:space="preserve">
     <value>本当、すごいですーっ</value>
   </data>
-  <data name="0125 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0126 KOIZUMI (古泉)" xml:space="preserve">
     <value>江戸時代には見せ物として影絵芝居
 が上演されたらしいですね</value>
@@ -517,12 +457,6 @@
   <data name="0132 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺とハルヒは競って影絵を作って
 いたのだった</value>
-  </data>
-  <data name="0133 KOIZUMI (古泉)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0134 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0135 KYON (キョン)" xml:space="preserve">
     <value>動いた？　虫かなにかかな？</value>
@@ -562,9 +496,6 @@
     <value>明るくなった朝比奈さんがいそいそ
 とお茶を入れ始める</value>
   </data>
-  <data name="0146 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0147 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それにしても、有希遅いわねー</value>
   </data>
@@ -577,12 +508,6 @@
   </data>
   <data name="0150 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ありがと、みくるちゃん</value>
-  </data>
-  <data name="0151 MIKURU (みくる)" xml:space="preserve">
-    <value> </value>
-  </data>
-  <data name="0152 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0153 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>配られたお茶をゆったりと喫す</value>
@@ -623,9 +548,6 @@
   <data name="0163 MIKURU (みくる)" xml:space="preserve">
     <value>はいー</value>
   </data>
-  <data name="0164 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
-  </data>
   <data name="0165 KYON (キョン)" xml:space="preserve">
     <value>行ってくるが、おまえはここで
 長門の戻りを待ってろよ</value>
@@ -654,9 +576,6 @@
   <data name="0172 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>よし、これで時間は稼げると俺は
 心の中でガッツポーズを取る</value>
-  </data>
-  <data name="0173 HARUHI (ハルヒ)" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="0174 KOIZUMI (古泉)" xml:space="preserve">
     <value>では行きましょうか</value>

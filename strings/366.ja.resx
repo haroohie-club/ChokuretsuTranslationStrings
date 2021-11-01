@@ -95,12 +95,6 @@
   <data name="0009 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>振り返ると、すぐ後ろに妹がいた</value>
   </data>
-  <data name="0010 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0011 KYON_SIS (妹)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0012 KYON (キョン)" xml:space="preserve">
     <value>ハルヒと一緒だったんじゃないのか</value>
   </data>
@@ -126,12 +120,6 @@
   <data name="0018 KYON_SIS (妹)" xml:space="preserve">
     <value>ちぇー、つまんないのー</value>
   </data>
-  <data name="0019 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0020 KYON_SIS (妹)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0021 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>ま、また君たちか！　今度はいった
 いなんの用だ！？</value>
@@ -151,9 +139,6 @@
   <data name="0025 KYON (キョン)" xml:space="preserve">
     <value>確かにそう言われると、返す言葉も
 ないんだが</value>
-  </data>
-  <data name="0026 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0027 KOIZUMI (古泉)" xml:space="preserve">
     <value>まあまあ、部長さん</value>
@@ -248,12 +233,6 @@
     <value>もちろん、マネをする気なんかは
 さらさらないけどな</value>
   </data>
-  <data name="0053 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0054 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0055 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉のお世辞に付き合ってると
 こっちの耳がおかしくなりそうだ</value>
@@ -261,12 +240,6 @@
   <data name="0056 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なにか暇を潰せるものはないもんか
 ……ん？</value>
-  </data>
-  <data name="0057 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0058 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0059 KYON_SIS (妹)" xml:space="preserve">
     <value>これもパソコンで描いたの？</value>
@@ -381,15 +354,6 @@
     <value>これでハルヒが納得してくれれば
 いいけどな</value>
   </data>
-  <data name="0091 KYON_SIS (妹)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0092 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0093 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0094 KOIZUMI (古泉)" xml:space="preserve">
     <value>なるほど、なかなか面白そうな
 ゲームですね</value>
@@ -411,9 +375,6 @@
   <data name="0099 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>それでは、特別に君たちに開発中の
 画面を公開しても……</value>
-  </data>
-  <data name="0100 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0101 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>部長、部長</value>
@@ -454,12 +415,6 @@
   <data name="0111 KYON (キョン)" xml:space="preserve">
     <value>古泉、そろそろ時間だ。戻ろうか</value>
   </data>
-  <data name="0112 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>$</value>
-  </data>
-  <data name="0113 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0114 KOIZUMI (古泉)" xml:space="preserve">
     <value>時間、ええ、そうですね</value>
   </data>
@@ -475,9 +430,6 @@
   <data name="0118 KYON_SIS (妹)" xml:space="preserve">
     <value>じゃあ、またね～</value>
   </data>
-  <data name="0119 KOIZUMI (古泉)" xml:space="preserve">
-    <value>$</value>
-  </data>
   <data name="0120 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>またね～</value>
   </data>
@@ -488,9 +440,6 @@
   <data name="0122 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まったく、こいつもこいつで困った
 やつだ</value>
-  </data>
-  <data name="0123 KYON_SIS (妹)" xml:space="preserve">
-    <value>$</value>
   </data>
   <data name="0124 KYON (キョン)" xml:space="preserve">
     <value>特に収穫はなし、か……</value>

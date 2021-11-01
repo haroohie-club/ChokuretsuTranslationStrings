@@ -111,9 +111,6 @@
   <data name="0013 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>やれやれ、これで時間を稼げるか</value>
   </data>
-  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
-  </data>
   <data name="0015 MIKURU (みくる)" xml:space="preserve">
     <value>あの、踊り場の方から探索して
 いきませんか？</value>
@@ -137,9 +134,6 @@
   <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>いいわ、じゃあ先に踊り場の方から
 まわっていきましょ</value>
-  </data>
-  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
   </data>
   <data name="0022 NAGATO (長門)" xml:space="preserve">
     <value>チェスの駒が足りない</value>
@@ -174,9 +168,6 @@
   <data name="0031 HARUHI (ハルヒ)" xml:space="preserve">
     <value>じゃあ、さっそく踊り場へ行き
 ましょ</value>
-  </data>
-  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x15;</value>
   </data>
   <data name="0033 KOIZUMI (古泉)" xml:space="preserve">
     <value>申し訳ありません。踊り場へ向かい

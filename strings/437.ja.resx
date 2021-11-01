@@ -79,9 +79,6 @@
     <value>妹よ、なんでもかんでも他人の
 まねごとをするのはよしなさい</value>
   </data>
-  <data name="0006 KYON_SIS (妹)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0007 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺たちはバーベキューの道具を探す
 ため、連れだって出発したのだが</value>
@@ -99,9 +96,6 @@
   </data>
   <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>うっさいわねえ！</value>
-  </data>
-  <data name="0012 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうだキョン、あんたどこにバーベ
@@ -131,24 +125,9 @@
   <data name="0020 KYON (キョン)" xml:space="preserve">
     <value>そりゃありがたいね</value>
   </data>
-  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0022 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0023 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0024 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>嫌味を言い、俺はため息をついて
 推理のパートナーを選ぶことにした</value>
-  </data>
-  <data name="0025 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0026 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0027 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さん、どう思います？</value>
@@ -189,9 +168,6 @@
     <value>なるほど、それは悪くないかも
 というわけで、ハルヒ、どうだ？</value>
   </data>
-  <data name="0038 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0039 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……ダメね</value>
   </data>
@@ -219,12 +195,6 @@
   <data name="0046 MIKURU (みくる)" xml:space="preserve">
     <value>はうう……力になれなくて、ごめん
 なさい……</value>
-  </data>
-  <data name="0047 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0048 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0049 KYON (キョン)" xml:space="preserve">
     <value>長門、バーベキューの道具の
@@ -265,9 +235,6 @@
   <data name="0059 KYON (キョン)" xml:space="preserve">
     <value>わかった、いい、もういい！</value>
   </data>
-  <data name="0060 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0061 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺は慌てて長門の台詞を遮る</value>
   </data>
@@ -292,12 +259,6 @@
   <data name="0067 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……しかし、理不尽と横暴こそが
 涼宮ハルヒを表す単語なのだ……</value>
-  </data>
-  <data name="0068 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0069 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0070 KYON (キョン)" xml:space="preserve">
     <value>人に偉そうに指図してるが、お前は
@@ -334,9 +295,6 @@
   <data name="0079 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>コンピ研の扉の前で立ち止まった</value>
   </data>
-  <data name="0080 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0081 KYON (キョン)" xml:space="preserve">
     <value>……また、コンピ研か</value>
   </data>
@@ -346,9 +304,6 @@
   </data>
   <data name="0083 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そう都合良く行くか</value>
-  </data>
-  <data name="0084 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0085 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺がそう突っ込むよりも早く、ハル
@@ -374,12 +329,6 @@
   <data name="0091 KYON (キョン)" xml:space="preserve">
     <value>だからってハルヒを放っておくわけ
 にもいかんだろ</value>
-  </data>
-  <data name="0092 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0093 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0094 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>うわっ、また君か！</value>
@@ -459,9 +408,6 @@
     <value>ほとんど泣きべそをかきながら、
 部長氏が叫ぶ</value>
   </data>
-  <data name="0116 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0117 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ふむ、アウトドア同好会か
 そういえば、そんなのがあったわね</value>
@@ -474,9 +420,6 @@
     <value>俺はついでなのか。妹よりあととは
 なんたる屈辱</value>
   </data>
-  <data name="0120 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0121 KYON_SIS (妹)" xml:space="preserve">
     <value>キョンくん、行くよー</value>
   </data>
@@ -486,9 +429,6 @@
   </data>
   <data name="0123 KYON (キョン)" xml:space="preserve">
     <value>……行くか</value>
-  </data>
-  <data name="0124 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0125 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>コンピ研の部室を出ようとした時、
@@ -512,9 +452,6 @@
   </data>
   <data name="0130 KYON (キョン)" xml:space="preserve">
     <value>ほら、長門もなんか言ってくれ</value>
-  </data>
-  <data name="0131 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0132 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
@@ -574,9 +511,6 @@
     <value>すみませんでした
 朝比奈さんもお願いします</value>
   </data>
-  <data name="0149 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0150 MIKURU (みくる)" xml:space="preserve">
     <value>あ、は、はい
 ほんとうに、ご迷惑を……</value>
@@ -605,15 +539,6 @@
     <value>俺は朝比奈さんを急かし、逃げる
 ようにコンピ研部室をあとにした</value>
   </data>
-  <data name="0158 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0159 NAGATO (長門)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0160 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0161 HARUHI (ハルヒ)" xml:space="preserve">
     <value>遅いわよ、キョン！
 もう借りちゃったわ</value>
@@ -639,9 +564,6 @@
   </data>
   <data name="0167 KYON (キョン)" xml:space="preserve">
     <value>そうか、まあ、一応信用してやる</value>
-  </data>
-  <data name="0168 KYON_SIS (妹)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0169 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あんたに信用されたって嬉しくも

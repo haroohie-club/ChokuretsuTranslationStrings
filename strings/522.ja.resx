@@ -72,9 +72,6 @@
   <data name="0003 KYON (キョン)" xml:space="preserve">
     <value>くそっ……なんてこった！</value>
   </data>
-  <data name="0004 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0005 MIKURU (みくる)" xml:space="preserve">
     <value>キョンくん！　無事だったんですね
 よかったぁ……</value>
@@ -82,9 +79,6 @@
   <data name="0006 KYON (キョン)" xml:space="preserve">
     <value>ええ、これからハルヒを追いかけよ
 うとしていたところです</value>
-  </data>
-  <data name="0007 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0008 KOIZUMI (古泉)" xml:space="preserve">
     <value>残念ながら、追いかけるのは困難な
@@ -163,9 +157,6 @@
     <value>これまで怪異が起きた場所すべてに
 異空間が再発生している</value>
   </data>
-  <data name="0029 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0030 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さんが異空間と接触する前に
 再起動しなくてはなりませんね</value>
@@ -174,15 +165,9 @@
     <value>ハルヒを無理矢理にでも外に連れ出
 して、特異点を再起動ってことか</value>
   </data>
-  <data name="0032 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0033 MIKURU (みくる)" xml:space="preserve">
     <value>そのためには全員で頑張らないと
 いけませんね</value>
-  </data>
-  <data name="0034 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0035 KYON (キョン)" xml:space="preserve">
     <value>ここまで来て失敗は許されないな</value>
@@ -197,9 +182,6 @@
   <data name="0038 KYON (キョン)" xml:space="preserve">
     <value>ああ、ハルヒが異空間と接触する
 までが勝負だからな</value>
-  </data>
-  <data name="0039 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0040 NAGATO (長門)" xml:space="preserve">
     <value>あまり時間がない</value>

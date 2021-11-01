@@ -98,9 +98,6 @@
   <data name="0010 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>物にも優しい朝比奈さんであった</value>
   </data>
-  <data name="0011 MIKURU (みくる)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
   <data name="0012 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>近くの教室から椅子を持ち出して
 鏡に振りかざす</value>
@@ -350,9 +347,6 @@
   <data name="0079 MIKURU (みくる)" xml:space="preserve">
     <value>ダメもとだと思ってやりましょう！</value>
   </data>
-  <data name="0080 MIKURU (みくる)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
   <data name="0081 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>教室のカーテンを拝借してきて
 昇降口の鏡を覆った</value>
@@ -446,9 +440,6 @@
   </data>
   <data name="0107 KYON (キョン)" xml:space="preserve">
     <value>あくまで、念のためってことで</value>
-  </data>
-  <data name="0108 MIKURU (みくる)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0109 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>鏡がそんなに多くないのは助かった
@@ -570,23 +561,11 @@
   <data name="0143 KYON (キョン)" xml:space="preserve">
     <value>ですね</value>
   </data>
-  <data name="0144 MIKURU (みくる)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
-  <data name="0145 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
-  <data name="0146 MIKURU (みくる)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
   <data name="0147 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あら、みくるちゃんどうしたの？</value>
   </data>
   <data name="0148 KOIZUMI (古泉)" xml:space="preserve">
     <value>忘れ物ですか？</value>
-  </data>
-  <data name="0149 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0150 MIKURU (みくる)" xml:space="preserve">
     <value>すみません。ちょっと必要なものが
@@ -609,20 +588,11 @@
   <data name="0155 MIKURU (みくる)" xml:space="preserve">
     <value>あは……が、がんばりますぅ</value>
   </data>
-  <data name="0156 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
   <data name="0157 HARUHI (ハルヒ)" xml:space="preserve">
     <value>お願いね、みくるちゃん</value>
   </data>
   <data name="0158 MIKURU (みくる)" xml:space="preserve">
     <value>はぅぅ……</value>
-  </data>
-  <data name="0159 MIKURU (みくる)" xml:space="preserve">
-    <value>&amp;</value>
-  </data>
-  <data name="0160 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&amp;</value>
   </data>
   <data name="0161 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>猫の目を盗んで移動するネズミの

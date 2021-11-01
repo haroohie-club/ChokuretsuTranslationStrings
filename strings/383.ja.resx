@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1A;</value>
-  </data>
   <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それより！　今回の事件の真相が
 ついに判明したわよ！</value>
@@ -183,9 +180,6 @@
   <data name="0034 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そんな場所の貼り紙を、教室の組を
 示すプレートと見間違えるか？</value>
-  </data>
-  <data name="0035 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1A;</value>
   </data>
   <data name="0036 MIKURU (みくる)" xml:space="preserve">
     <value>じゃあ、やっぱり人喰い教室なんて

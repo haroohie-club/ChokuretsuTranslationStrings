@@ -109,12 +109,6 @@
     <value>余計なことに首を突っ込んで事態を
 悪化させられたらかなわん</value>
   </data>
-  <data name="0014 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
-  </data>
-  <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
-  </data>
   <data name="0016 KYON (キョン)" xml:space="preserve">
     <value>ハルヒ、お前は動かなくていい</value>
   </data>
@@ -148,9 +142,6 @@
     <value>呆けているハルヒのリボンを拾った
 が、どうしたものやら</value>
   </data>
-  <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
-  </data>
   <data name="0026 KYON (キョン)" xml:space="preserve">
     <value>古泉、ちょっと耳を貸せ</value>
   </data>
@@ -163,9 +154,6 @@
   </data>
   <data name="0029 KOIZUMI (古泉)" xml:space="preserve">
     <value>ええ、僕もそう思います</value>
-  </data>
-  <data name="0030 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0031 KYON (キョン)" xml:space="preserve">
     <value>古泉、ちょっと相談があるから
@@ -211,9 +199,6 @@
   <data name="0042 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>行ってらっしゃい、か。こんな素直
 に見送られるとは思わなかったぜ</value>
-  </data>
-  <data name="0043 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0044 KYON (キョン)" xml:space="preserve">
     <value>どうも、すみません。かならず
@@ -266,9 +251,6 @@
   <data name="0057 KYON (キョン)" xml:space="preserve">
     <value>ああ、つい先日も使ったらしい</value>
   </data>
-  <data name="0058 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
-  </data>
   <data name="0059 KOIZUMI (古泉)" xml:space="preserve">
     <value>使い込んでいて、網がところどころ
 欠けてますね</value>
@@ -277,9 +259,6 @@
     <value>網を食うわけじゃないんだから
 問題ないだろ？</value>
   </data>
-  <data name="0061 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
-  </data>
   <data name="0062 HARUHI (ハルヒ)" xml:space="preserve">
     <value>何言ってるのよ。網が欠けてたら
 お肉が落っこちるじゃない</value>
@@ -287,9 +266,6 @@
   <data name="0063 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>それは困る。それでは折角の肉が
 台無しだ</value>
-  </data>
-  <data name="0064 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0065 KOIZUMI (古泉)" xml:space="preserve">
     <value>ところで、着火材が見当たらない
@@ -306,9 +282,6 @@
     <value>そんなもん、その辺を探せばある
 だろ</value>
   </data>
-  <data name="0069 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
-  </data>
   <data name="0070 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ちょっとこれ、組み立てるのに必要
 な工具もついてないわよ</value>
@@ -316,9 +289,6 @@
   <data name="0071 KYON (キョン)" xml:space="preserve">
     <value>えっ？　一式揃ってるって言って
 たけど、揃ってないのか？</value>
-  </data>
-  <data name="0072 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0073 KOIZUMI (古泉)" xml:space="preserve">
     <value>見たところ、固定ボルトが数本ない
@@ -357,9 +327,6 @@
   <data name="0082 KYON (キョン)" xml:space="preserve">
     <value>探しに行くしかなさそうだな</value>
   </data>
-  <data name="0083 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
-  </data>
   <data name="0084 KOIZUMI (古泉)" xml:space="preserve">
     <value>あなたが探しに行くのなら、これを
 渡しておきましょう</value>
@@ -388,12 +355,6 @@
     <value>だいいち、こんな物を持っているの
 が、なによりうさんくさいね</value>
   </data>
-  <data name="0092 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
-  </data>
-  <data name="0093 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
-  </data>
   <data name="0094 KYON (キョン)" xml:space="preserve">
     <value>あるもので代用出来ないか？</value>
   </data>
@@ -419,9 +380,6 @@
     <value>そうかい
 結局探しに行くしかなさそうだな</value>
   </data>
-  <data name="0101 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
-  </data>
   <data name="0102 HARUHI (ハルヒ)" xml:space="preserve">
     <value>こうなったら、みんなで手分けして
 探すまでよっ</value>
@@ -444,12 +402,6 @@
   </data>
   <data name="0107 KYON (キョン)" xml:space="preserve">
     <value>じゃあ、いってくる</value>
-  </data>
-  <data name="0108 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
-  </data>
-  <data name="0109 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0110 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>また学校へと逆戻りか
@@ -589,9 +541,6 @@
     <value>しょうがないだろ、寄せ集めでなん
 とかするしかないんだから</value>
   </data>
-  <data name="0148 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
-  </data>
   <data name="0149 KOIZUMI (古泉)" xml:space="preserve">
     <value>いえ、これで十分ですよ。おかげで
 バーベキューが楽しめます</value>
@@ -605,9 +554,6 @@
   </data>
   <data name="0152 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>自分で集めてきたみたいにいうな</value>
-  </data>
-  <data name="0153 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0154 KOIZUMI (古泉)" xml:space="preserve">
     <value>ところで、少しいいでしょうか？</value>
@@ -667,9 +613,6 @@
   <data name="0170 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>めずらしいから拾っておくか</value>
   </data>
-  <data name="0171 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
-  </data>
   <data name="0172 HARUHI (ハルヒ)" xml:space="preserve">
     <value>在り合わせのものでも、結構なんと
 かなるものね</value>
@@ -696,9 +639,6 @@
   <data name="0178 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉も同じ事を思っているのか
 やたらニコニコしていやがる</value>
-  </data>
-  <data name="0179 KOIZUMI (古泉)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0180 HARUHI (ハルヒ)" xml:space="preserve">
     <value>それにしても、考えさせられたわ
@@ -745,9 +685,6 @@
   </data>
   <data name="0192 KYON (キョン)" xml:space="preserve">
     <value>あれはこの事だったのか……</value>
-  </data>
-  <data name="0193 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>'</value>
   </data>
   <data name="0194 KOIZUMI (古泉)" xml:space="preserve">
     <value>それは一本取られましたね</value>

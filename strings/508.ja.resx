@@ -232,12 +232,6 @@
   <data name="0048 KYON (キョン)" xml:space="preserve">
     <value>気にするな、何でもない</value>
   </data>
-  <data name="0049 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0050 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0051 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒはすぐに朝比奈さんと向き
 合ってゲームに熱中しはじめた</value>
@@ -264,9 +258,6 @@
     <value>ハルヒの気を引いていてくれれば
 遊んでいようがなんでも構わない</value>
   </data>
-  <data name="0058 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0059 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>しかし、ハルヒの携帯はどこだ？</value>
   </data>
@@ -278,12 +269,6 @@
   </data>
   <data name="0062 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そう</value>
-  </data>
-  <data name="0063 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0064 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0065 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒはすぐにゲームに戻る</value>
@@ -297,9 +282,6 @@
   <data name="0068 MIKURU (みくる)" xml:space="preserve">
     <value>あっ、キョンくん、おかえりなさい</value>
   </data>
-  <data name="0069 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0070 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃん、よそ見しないの！</value>
   </data>
@@ -309,12 +291,6 @@
   <data name="0072 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒは朝比奈さんを相手にゲーム
 をしているようだ</value>
-  </data>
-  <data name="0073 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0074 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0075 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06どうかされましたか？</value>
@@ -352,9 +328,6 @@
     <value>……いいわ、みくるちゃんじゃ
 ちょっと物足りないと思ってたのよ</value>
   </data>
-  <data name="0085 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0086 MIKURU (みくる)" xml:space="preserve">
     <value>うう……すみません</value>
   </data>
@@ -379,15 +352,6 @@
   <data name="0092 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>女子のカバンを漁るなんてのは
 避けたいが、この際やむを得まい</value>
-  </data>
-  <data name="0093 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0094 KOIZUMI (古泉)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0095 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0096 KYON (キョン)" xml:space="preserve">
     <value>………………</value>
@@ -418,9 +382,6 @@
   <data name="0104 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なによ、ちょっと待ちなさい！
 キョン！</value>
-  </data>
-  <data name="0105 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0106 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒから逃げるように廊下へと

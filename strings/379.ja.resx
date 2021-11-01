@@ -106,9 +106,6 @@
     <value>問題は、それをどのタイミングで
 使うのか……って話なんだがな</value>
   </data>
-  <data name="0012 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>*</value>
-  </data>
   <data name="0013 HARUHI (ハルヒ)" xml:space="preserve">
     <value>もう！　なんで現れないのよ！
 さっさと出てきなさい人喰い教室！</value>
@@ -177,9 +174,6 @@
   <data name="0030 KYON (キョン)" xml:space="preserve">
     <value>長門、どうなんだ？</value>
   </data>
-  <data name="0031 KOIZUMI (古泉)" xml:space="preserve">
-    <value>*</value>
-  </data>
   <data name="0032 NAGATO (長門)" xml:space="preserve">
     <value>空間は更に不安定化が進行</value>
   </data>
@@ -191,12 +185,6 @@
   </data>
   <data name="0035 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>一体どうしたものやら……</value>
-  </data>
-  <data name="0036 KOIZUMI (古泉)" xml:space="preserve">
-    <value>*</value>
-  </data>
-  <data name="0037 NAGATO (長門)" xml:space="preserve">
-    <value>*</value>
   </data>
   <data name="0038 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なに？　なんの話してるの？</value>
@@ -230,9 +218,6 @@
     <value>と言いつつ、ハルヒの視線が朝比奈
 さんに向けられる。おいおいおい</value>
   </data>
-  <data name="0047 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>*</value>
-  </data>
   <data name="0048 MIKURU (みくる)" xml:space="preserve">
     <value>#SK0な、なんですかぁ？　どどどうして
 あたしを見るんですかぁ！？</value>
@@ -246,9 +231,6 @@
   </data>
   <data name="0051 HARUHI (ハルヒ)" xml:space="preserve">
     <value>もしくは、キョンの妹ちゃんとか</value>
-  </data>
-  <data name="0052 MIKURU (みくる)" xml:space="preserve">
-    <value>*</value>
   </data>
   <data name="0053 KYON_SIS (妹)" xml:space="preserve">
     <value>なになに？　どうかしたの？</value>
@@ -278,9 +260,6 @@
   </data>
   <data name="0060 MIKURU (みくる)" xml:space="preserve">
     <value>ほ、本当にちょっと、ですかぁ？</value>
-  </data>
-  <data name="0061 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>*</value>
   </data>
   <data name="0062 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>おいおい、大丈夫なのか……？</value>
@@ -391,9 +370,6 @@
     <value>なんせ、すっかりハルヒに怯えてた
 からな。過去の経緯もあって……</value>
   </data>
-  <data name="0092 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>*</value>
-  </data>
   <data name="0093 KYON_SIS (妹)" xml:space="preserve">
     <value>#SK0う、うう～</value>
   </data>
@@ -450,12 +426,6 @@
   </data>
   <data name="0109 KYON_SIS (妹)" xml:space="preserve">
     <value>うんっ</value>
-  </data>
-  <data name="0110 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>*</value>
-  </data>
-  <data name="0111 KYON_SIS (妹)" xml:space="preserve">
-    <value>*</value>
   </data>
   <data name="0112 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒは妹と連れだって

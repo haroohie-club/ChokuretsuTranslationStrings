@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>案の定、部室を出てすぐの所で古泉
 が待ちかまえていた</value>
@@ -301,9 +298,6 @@
     <value>気をつけて止められるなら、苦労は
 ないんだがな</value>
   </data>
-  <data name="0067 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0068 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>古泉と作戦会議をしていたせいで
 戻りがずいぶん遅くなってしまった</value>
@@ -318,9 +312,6 @@
   </data>
   <data name="0071 KYON (キョン)" xml:space="preserve">
     <value>ああ、悪かった</value>
-  </data>
-  <data name="0072 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0073 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>二人で相談した結果、今後のプラン
@@ -355,15 +346,9 @@
     <value>それじゃあ、さっさと行くわよ
 プールの調査をしなくっちゃ！</value>
   </data>
-  <data name="0082 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
   <data name="0083 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒがそう言って立ち上がり
 少し考え込むような顔になった</value>
-  </data>
-  <data name="0084 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0085 MIKURU (みくる)" xml:space="preserve">
     <value>どうかしましたか？
@@ -372,9 +357,6 @@
   <data name="0086 HARUHI (ハルヒ)" xml:space="preserve">
     <value>違うわよっ！　ちょっと小腹が空い
 たかもって思っただけよ</value>
-  </data>
-  <data name="0087 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0088 NAGATO (長門)" xml:space="preserve">
     <value>……夜食</value>
@@ -386,9 +368,6 @@
   <data name="0090 HARUHI (ハルヒ)" xml:space="preserve">
     <value>よろしい、それじゃあ二手に別れ
 ましょ。プール調査と、買い出しよ</value>
-  </data>
-  <data name="0091 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0092 KOIZUMI (古泉)" xml:space="preserve">
     <value>お待ちください、涼宮さん</value>
@@ -417,12 +396,6 @@
   <data name="0099 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>もちろん、これは古泉の方便だ
 実は、さっきの話し合いの最中――</value>
-  </data>
-  <data name="0100 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1B;</value>
-  </data>
-  <data name="0101 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0102 KOIZUMI (古泉)" xml:space="preserve">
     <value>少し手を打っておくべきではないか
@@ -460,9 +433,6 @@
   </data>
   <data name="0111 KYON (キョン)" xml:space="preserve">
     <value>いったい何をする気だ……</value>
-  </data>
-  <data name="0112 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1B;</value>
   </data>
   <data name="0113 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>といった会話があったりしたわけだ</value>

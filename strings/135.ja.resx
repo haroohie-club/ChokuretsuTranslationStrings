@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x10;</value>
-  </data>
   <data name="0001 MIKURU (みくる)" xml:space="preserve">
     <value>それじゃ始めましょうか</value>
   </data>
@@ -183,11 +180,5 @@
   <data name="0033 MIKURU (みくる)" xml:space="preserve">
     <value>残念です、違ったみたいですね
 もう一度挑戦してみてください</value>
-  </data>
-  <data name="0034 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x10;</value>
-  </data>
-  <data name="0035 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x10;</value>
   </data>
 </root>

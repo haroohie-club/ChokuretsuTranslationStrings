@@ -96,12 +96,6 @@
   <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
     <value>どんなのがいいかしらねぇ……</value>
   </data>
-  <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#xF;</value>
-  </data>
-  <data name="0012 MIKURU (みくる)" xml:space="preserve">
-    <value>&#xF;</value>
-  </data>
   <data name="0013 NAGATO (長門)" xml:space="preserve">
     <value>問題が発生した</value>
   </data>
@@ -135,9 +129,6 @@
   </data>
   <data name="0022 KYON (キョン)" xml:space="preserve">
     <value>くそっ、とにかく急ぐしかないか！</value>
-  </data>
-  <data name="0023 NAGATO (長門)" xml:space="preserve">
-    <value>&#xF;</value>
   </data>
   <data name="0024 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョン！　大人しく出てきなさい！</value>

@@ -84,9 +84,6 @@
     <value>とはいえ、歓待されているわけでも
 なさそうなのはたしかである</value>
   </data>
-  <data name="0007 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>(</value>
-  </data>
   <data name="0008 KOIZUMI (古泉)" xml:space="preserve">
     <value>コンピ研の皆さんは、ずっと合宿し
 ていると伺ったのですが……</value>
@@ -117,9 +114,6 @@
     <value>古泉のおかげで部長氏の口が軽く
 なっているのは好都合だ</value>
   </data>
-  <data name="0016 KOIZUMI (古泉)" xml:space="preserve">
-    <value>(</value>
-  </data>
   <data name="0017 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>部長、例のデータが入っている
 メモリーカードが見あたりません</value>
@@ -137,9 +131,6 @@
   </data>
   <data name="0021 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>しっ！　その話はあとだ！</value>
-  </data>
-  <data name="0022 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>(</value>
   </data>
   <data name="0023 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>部長氏の表情がこわばったが、それ
@@ -165,12 +156,6 @@
   <data name="0029 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>同情するような、くさい演技の古泉
 に、部長氏は心を許したようだ</value>
-  </data>
-  <data name="0030 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>(</value>
-  </data>
-  <data name="0031 KOIZUMI (古泉)" xml:space="preserve">
-    <value>(</value>
   </data>
   <data name="0032 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>一方、我がＳＯＳ団のアイドル的な
@@ -326,9 +311,6 @@
   <data name="0075 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>あ、本当だ……</value>
   </data>
-  <data name="0076 MIKURU (みくる)" xml:space="preserve">
-    <value>(</value>
-  </data>
   <data name="0077 NAGATO (長門)" xml:space="preserve">
     <value>……
 このフォントが崩れている</value>
@@ -374,9 +356,6 @@
   <data name="0088 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>さっそくデザインを直さないと</value>
   </data>
-  <data name="0089 NAGATO (長門)" xml:space="preserve">
-    <value>(</value>
-  </data>
   <data name="0090 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>指摘してやってもいいが、古来より
 ちいさな親切大きなお世話という</value>
@@ -412,12 +391,6 @@
   <data name="0099 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺としてはその#P05“ちいさな親切”#P01を
 心にしまっておくことにしよう</value>
-  </data>
-  <data name="0100 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>(</value>
-  </data>
-  <data name="0101 MIKURU (みくる)" xml:space="preserve">
-    <value>(</value>
   </data>
   <data name="0102 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
     <value>立ち話もなんなんで、椅子を使って
@@ -471,9 +444,6 @@
     <value>しかし朝比奈さんと長門を連れて
 来たのは正解だったな</value>
   </data>
-  <data name="0116 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
-    <value>(</value>
-  </data>
   <data name="0117 KOIZUMI (古泉)" xml:space="preserve">
     <value>なかなか和やかな雰囲気になりまし
 たね</value>
@@ -487,9 +457,6 @@
   <data name="0120 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>その効果は絶大だと感心していた
 ところなので、古泉に同意する</value>
-  </data>
-  <data name="0121 KOIZUMI (古泉)" xml:space="preserve">
-    <value>(</value>
   </data>
   <data name="0122 CLUB_PRES (部長氏)" xml:space="preserve">
     <value>キミたちはうさんくさい同好会の
@@ -516,12 +483,6 @@
   <data name="0128 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>それが正しく健やかな人の道だと
 つくづく思うね</value>
-  </data>
-  <data name="0129 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>(</value>
-  </data>
-  <data name="0130 KOIZUMI (古泉)" xml:space="preserve">
-    <value>(</value>
   </data>
   <data name="0131 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>和やかに盛り上がったのはいいが
@@ -603,9 +564,6 @@
     <value>もしかして、情報が得られなかった
 から、その代わりってことか？</value>
   </data>
-  <data name="0155 NAGATO (長門)" xml:space="preserve">
-    <value>(</value>
-  </data>
   <data name="0156 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さん、なにか面白い情報は
 得られましたか？</value>
@@ -635,9 +593,6 @@
   <data name="0163 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒをよろこばせるにしても
 安直すぎて意味がないかもな</value>
-  </data>
-  <data name="0164 MIKURU (みくる)" xml:space="preserve">
-    <value>(</value>
   </data>
   <data name="0165 KYON (キョン)" xml:space="preserve">
     <value>なにか面白い話が聞けたか？</value>
@@ -712,9 +667,6 @@
     <value>ハルヒを納得させるには、ちょっと
 現実味に欠ける話だが……</value>
   </data>
-  <data name="0186 KOIZUMI (古泉)" xml:space="preserve">
-    <value>(</value>
-  </data>
   <data name="0187 KYON (キョン)" xml:space="preserve">
     <value>一通り話は聞けたし、そろそろ移動
 したほうがいいな</value>
@@ -738,12 +690,6 @@
   </data>
   <data name="0193 KYON (キョン)" xml:space="preserve">
     <value>じゃあ、失礼します</value>
-  </data>
-  <data name="0194 MIKURU (みくる)" xml:space="preserve">
-    <value>(</value>
-  </data>
-  <data name="0195 NAGATO (長門)" xml:space="preserve">
-    <value>(</value>
   </data>
   <data name="0196 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>これからどう動くかが問題だな</value>
@@ -912,9 +858,6 @@
   <data name="0243 KYON (キョン)" xml:space="preserve">
     <value>#P05“電気ヒツジ”#P00か……
 なんの役にも立たなそうだな</value>
-  </data>
-  <data name="0244 KOIZUMI (古泉)" xml:space="preserve">
-    <value>(</value>
   </data>
   <data name="0245 MIKURU (みくる)" xml:space="preserve">
     <value>わあ、可愛い羊さんですね</value>

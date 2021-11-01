@@ -58,9 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>プールを見張るため、ハルヒと
 朝比奈さんとでやってきたわけだが</value>
@@ -390,12 +387,6 @@
   <data name="0090 MIKURU (みくる)" xml:space="preserve">
     <value>あ……はい</value>
   </data>
-  <data name="0091 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0092 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0093 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんはメイド服を抱えて
 困ったような顔をなさっている</value>
@@ -409,9 +400,6 @@
   <data name="0096 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんはプール脇の暗い更衣室
 を見て怯えているようだ</value>
-  </data>
-  <data name="0097 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0098 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃん、どうして着替えに
@@ -541,12 +529,6 @@
   <data name="0133 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……普段あんたがあたしをどんな目
 で見てるのか、知りたくなる発言ね</value>
-  </data>
-  <data name="0134 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0135 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0136 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>メイド服に着替えた朝比奈さんは

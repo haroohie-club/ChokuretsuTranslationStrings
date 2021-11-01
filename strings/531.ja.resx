@@ -126,9 +126,6 @@
     <value>そうこうしている間に、ハルヒの
 レクチャーも終了したようだ</value>
   </data>
-  <data name="0019 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
     <value>さあさあ、始めましょ！</value>
   </data>
@@ -150,12 +147,6 @@
   <data name="0025 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>こうして、長門を除いたＳＯＳ団
 最強チェス王者決定戦が始まった</value>
-  </data>
-  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0027 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0028 HARUHI (ハルヒ)" xml:space="preserve">
     <value>うん、これでチェックメイトね！
@@ -245,9 +236,6 @@
     <value>ハルヒはしばらく俺を睨み付けて
 いたが</value>
   </data>
-  <data name="0052 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0053 MIKURU (みくる)" xml:space="preserve">
     <value>あのぅ……キョンくんすみません</value>
   </data>
@@ -277,12 +265,6 @@
     <value>ハルヒにだけは言われたくない
 セリフだな</value>
   </data>
-  <data name="0061 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0062 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0063 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まあよく考えたら、この方が時間
 稼ぎは出来るだろうし</value>
@@ -299,25 +281,13 @@
     <value>でしょ？
 みくるちゃんもそれがいいわよね！</value>
   </data>
-  <data name="0067 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0068 MIKURU (みくる)" xml:space="preserve">
     <value>あ、はい。先に練習が出来ると
 助かりますぅ</value>
   </data>
-  <data name="0069 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0070 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0071 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>喜ぶ朝比奈さんを横目で見ながら
 俺が複雑な気持ちになっていると</value>
-  </data>
-  <data name="0072 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0073 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06……僕に考えがあります</value>
@@ -370,12 +340,6 @@
   <data name="0087 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……などという俺達のもくろみは
 約１名によって崩れようとしていた</value>
-  </data>
-  <data name="0088 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0089 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0090 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃん、そこにナイトを
@@ -444,9 +408,6 @@
     <value>ハルヒの頭からは、鏡の事が
 すっぽ抜けてしまっていた</value>
   </data>
-  <data name="0108 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0109 KYON (キョン)" xml:space="preserve">
     <value>よし、次は俺とハルヒの勝負だな</value>
   </data>
@@ -490,9 +451,6 @@
   </data>
   <data name="0120 KYON (キョン)" xml:space="preserve">
     <value>あっ、こら！　まだ俺との勝負がっ</value>
-  </data>
-  <data name="0121 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0122 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さん、落ち着いて下さい

@@ -58,15 +58,9 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>叫ぶと同時にハルヒが取り出したのは
 一枚のＣＤだった</value>
-  </data>
-  <data name="0002 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0003 KOIZUMI (古泉)" xml:space="preserve">
     <value>それは……</value>
@@ -83,14 +77,8 @@
     <value>ちなみに、このＣＤの中身は
 “仰げば尊し”よ</value>
   </data>
-  <data name="0007 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0008 MIKURU (みくる)" xml:space="preserve">
     <value>仰げば尊し……ですか？</value>
-  </data>
-  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0010 KOIZUMI (古泉)" xml:space="preserve">
     <value>卒業式の定番ですね</value>
@@ -108,15 +96,6 @@
   <data name="0014 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>どうでもいい知識だな</value>
   </data>
-  <data name="0015 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
-  <data name="0016 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
-  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あと、このラジカセね</value>
   </data>
@@ -130,9 +109,6 @@
   <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
     <value>谷口のアホでも、たまには役に
 立つわね</value>
-  </data>
-  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
     <value>それで、どうするおつもりなの
@@ -154,9 +130,6 @@
   <data name="0028 KYON (キョン)" xml:space="preserve">
     <value>いったい、どんなプロセスを経たら
 そんな結論に至るのか説明してくれ</value>
-  </data>
-  <data name="0029 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0030 HARUHI (ハルヒ)" xml:space="preserve">
     <value>簡単よ</value>
@@ -185,9 +158,6 @@
     <value>そもそも卒業式だの自縛霊だのって
 話はハルヒの創作じゃなかったか？</value>
   </data>
-  <data name="0037 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0038 KOIZUMI (古泉)" xml:space="preserve">
     <value>それでは、卒業式を執り行うことに
 しましょうか</value>
@@ -207,9 +177,6 @@
     <value>相変わらずハルヒの機嫌をとること
 には微塵もちゅうちょしない</value>
   </data>
-  <data name="0043 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0044 KYON (キョン)" xml:space="preserve">
     <value>仕方ない、俺たちも付き合おう</value>
   </data>
@@ -222,9 +189,6 @@
   <data name="0047 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>長門はこくんと頷いて、並べられた
 椅子の一つに座った</value>
-  </data>
-  <data name="0048 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0049 KOIZUMI (古泉)" xml:space="preserve">
     <value>涼宮さん、準備はよいようです</value>
@@ -253,17 +217,11 @@
   <data name="0056 KYON (キョン)" xml:space="preserve">
     <value>そう都合良くいくかね……</value>
   </data>
-  <data name="0057 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0058 MIKURU (みくる)" xml:space="preserve">
     <value>待っていればいいんですか？</value>
   </data>
   <data name="0059 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね、多分そうよ</value>
-  </data>
-  <data name="0060 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0061 HARUHI (ハルヒ)" xml:space="preserve">
     <value>…………</value>
@@ -323,9 +281,6 @@
   <data name="0077 HARUHI (ハルヒ)" xml:space="preserve">
     <value>でも、見えないからって存在しない
 ってわけじゃないでしょ</value>
-  </data>
-  <data name="0078 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0079 KOIZUMI (古泉)" xml:space="preserve">
     <value>気体などは見えなくても存在します

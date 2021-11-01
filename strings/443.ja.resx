@@ -117,9 +117,6 @@
   <data name="0015 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒの指さす先を見る</value>
   </data>
-  <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
   <data name="0017 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そこでは、谷口と国木田が今まさに
 コンロと格闘を始めるところだった</value>
@@ -129,9 +126,6 @@
   </data>
   <data name="0019 KYON_SIS (妹)" xml:space="preserve">
     <value>くみたてよー</value>
-  </data>
-  <data name="0020 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0021 9 (国木田)" xml:space="preserve">
     <value>谷口、ちっとも説明書読んでない
@@ -143,9 +137,6 @@
   </data>
   <data name="0023 KYON_SIS (妹)" xml:space="preserve">
     <value>なるってー！</value>
-  </data>
-  <data name="0024 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0025 9 (国木田)" xml:space="preserve">
     <value>ダメだよ
@@ -167,12 +158,6 @@
   <data name="0030 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>こっちは今から包丁を使うから
 近づいて欲しくないしな</value>
-  </data>
-  <data name="0031 9 (国木田)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
-  <data name="0032 KYON_SIS (妹)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0033 HARUHI (ハルヒ)" xml:space="preserve">
     <value>谷口でもいるなら使わないとね
@@ -199,9 +184,6 @@
   <data name="0039 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>言うなりハルヒは包丁とまな板と
 皿を押しつけてきた</value>
-  </data>
-  <data name="0040 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0041 KYON (キョン)" xml:space="preserve">
     <value>よし、切ればいいんだな</value>
@@ -287,9 +269,6 @@
   <data name="0065 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あ、練習に肉を使ったらダメよ
 トウモロコシでも切ってなさい</value>
-  </data>
-  <data name="0066 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0067 HARUHI (ハルヒ)" xml:space="preserve">
     <value>トマトにはさわらない。肉を潰せる
@@ -473,21 +452,12 @@
     <value>いや、待て待て。ここは友人として
 見守ってやらないとな</value>
   </data>
-  <data name="0117 9 (国木田)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
   <data name="0118 KYON_SIS (妹)" xml:space="preserve">
     <value>オーエンするよー</value>
   </data>
   <data name="0119 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いらねーよ。いいからお前らは
 グリル組み立ててろ</value>
-  </data>
-  <data name="0120 KYON_SIS (妹)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
-  <data name="0121 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0122 HARUHI (ハルヒ)" xml:space="preserve">
     <value>いい、さっき教えたように、野菜は
@@ -511,12 +481,6 @@
   <data name="0128 TANIGUCHI (谷口)" xml:space="preserve">
     <value>ぎゃはははっ、ダメじゃん、ぐちゃ
 ぐちゃになってやがるー</value>
-  </data>
-  <data name="0129 KYON_SIS (妹)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
-  <data name="0130 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0131 HARUHI (ハルヒ)" xml:space="preserve">
     <value>包丁人失格！</value>
@@ -559,12 +523,6 @@
   </data>
   <data name="0143 KYON (キョン)" xml:space="preserve">
     <value>だからギャラリーはだまってろ</value>
-  </data>
-  <data name="0144 KYON_SIS (妹)" xml:space="preserve">
-    <value>&#x1E;</value>
-  </data>
-  <data name="0145 TANIGUCHI (谷口)" xml:space="preserve">
-    <value>&#x1E;</value>
   </data>
   <data name="0146 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>包丁人失格の烙印をおされた俺は

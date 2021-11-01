@@ -123,9 +123,6 @@
     <value>ダメですね。まったく何も起こり
 ません</value>
   </data>
-  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0019 HARUHI (ハルヒ)" xml:space="preserve">
     <value>……はぁ。やっぱりね</value>
   </data>
@@ -161,12 +158,6 @@
   <data name="0028 MIKURU (みくる)" xml:space="preserve">
     <value>は、はい……</value>
   </data>
-  <data name="0029 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0030 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0031 KYON (キョン)" xml:space="preserve">
     <value>なんだか、やけにあっさり
 引き下がったな……</value>
@@ -176,12 +167,6 @@
   </data>
   <data name="0033 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
-  </data>
-  <data name="0034 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0035 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0036 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝から振り回されっぱなしだったの
@@ -200,18 +185,12 @@
     <value>ハルヒは長門と一緒に寝床の準備を
 しているが、いい気なもんだ</value>
   </data>
-  <data name="0041 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
   <data name="0042 MIKURU (みくる)" xml:space="preserve">
     <value>マットはここでいいですか？</value>
   </data>
   <data name="0043 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>マットを敷いている朝比奈さんは
 見ているだけで心がいやされるね</value>
-  </data>
-  <data name="0044 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0045 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ちょっとキョン、あんたなにやって
@@ -237,12 +216,6 @@
   </data>
   <data name="0051 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>笑顔でいうな</value>
-  </data>
-  <data name="0052 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1D;</value>
-  </data>
-  <data name="0053 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1D;</value>
   </data>
   <data name="0054 KYON (キョン)" xml:space="preserve">
     <value>で、これはどういうことだ、古泉？</value>

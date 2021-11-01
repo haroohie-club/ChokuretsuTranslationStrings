@@ -90,12 +90,6 @@
     <value>頷きあった俺たちは、部室のドアを
 開けて、意気揚々と乗り込んだ</value>
   </data>
-  <data name="0009 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0011 HARUHI (ハルヒ)" xml:space="preserve">
     <value>え？　あれ？　もう戻ってきたの？</value>
   </data>
@@ -382,9 +376,6 @@
   <data name="0088 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>次があるのか。勘弁してくれ……</value>
   </data>
-  <data name="0089 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0090 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06……どうやら、上手くまとまった
 ようですね#P00</value>
@@ -405,9 +396,6 @@
     <value>褒めてるさ。実際、ハルヒの足止め
 にも成功したんだからな</value>
   </data>
-  <data name="0095 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0096 KYON (キョン)" xml:space="preserve">
     <value>だが、予定外にも次の肝試しなどと
 いう荷物まで背負い込んじまったぞ</value>
@@ -419,9 +407,6 @@
   <data name="0098 KYON (キョン)" xml:space="preserve">
     <value>一難さって、また一難か……未来の
 自分に借金したような気分だ</value>
-  </data>
-  <data name="0099 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0100 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>しかし、これでずいぶん時間は

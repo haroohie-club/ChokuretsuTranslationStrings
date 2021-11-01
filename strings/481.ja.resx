@@ -95,18 +95,12 @@
     <value>ハッキリ言うと、あったんだが……
 真正直に答えられるはずもなく</value>
   </data>
-  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0011 KOIZUMI (古泉)" xml:space="preserve">
     <value>#P06……少しでも時間稼ぎをしておく
 べきです。朝比奈さんのためにも#P00</value>
   </data>
   <data name="0012 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>小声で、古泉が耳打ちしてきた</value>
-  </data>
-  <data name="0013 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0014 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そう。あの愛くるしい朝比奈さんが
@@ -119,9 +113,6 @@
   <data name="0016 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さん、ここは任せてください
 必ず時間を稼ぎますから</value>
-  </data>
-  <data name="0017 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0018 KYON (キョン)" xml:space="preserve">
     <value>そうだな。あったぞ面白い怪奇体験</value>
@@ -136,9 +127,6 @@
   <data name="0021 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ほれみろ、さっそく食いついた</value>
   </data>
-  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0023 NAGATO (長門)" xml:space="preserve">
     <value>#P06事実の報告は危険#P00</value>
   </data>
@@ -148,9 +136,6 @@
   </data>
   <data name="0025 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>適当に、怪奇現象をでっち上げるさ</value>
-  </data>
-  <data name="0026 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
     <value>場所はどこ？　なにを見たの？</value>
@@ -166,9 +151,6 @@
     <value>えーと、俺がここを出て肝試しを
 始めたときの話なんだが</value>
   </data>
-  <data name="0031 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0032 KYON (キョン)" xml:space="preserve">
     <value>職員室の前あたりで、奇妙な違和感
 を覚えたんだ</value>
@@ -179,9 +161,6 @@
   <data name="0034 KYON (キョン)" xml:space="preserve">
     <value>誰かに尾行されてる……そんな感じ
 だったな。背後に気配がした</value>
-  </data>
-  <data name="0035 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0036 KOIZUMI (古泉)" xml:space="preserve">
     <value>宿直中の先生だったのでは？</value>
@@ -196,9 +175,6 @@
   <data name="0039 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ウソだとわかっていながらも、話に
 乗ってくる古泉。食えないやつだ</value>
-  </data>
-  <data name="0040 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0041 HARUHI (ハルヒ)" xml:space="preserve">
     <value>真っ暗な学校が怖くて、怯えてただ
@@ -273,12 +249,6 @@
   <data name="0060 NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="0061 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0062 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0063 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>三人の視線が、俺だけに集中する
 さて、どうオチをつけたものか……</value>
@@ -308,12 +278,6 @@
   <data name="0071 KYON (キョン)" xml:space="preserve">
     <value>本体は動かなくても、影だけが動く
 からな</value>
-  </data>
-  <data name="0072 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0073 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0074 KYON (キョン)" xml:space="preserve">
     <value>ちょうど、手のひらサイズのヤモリ
@@ -383,18 +347,6 @@
     <value>しかし、我ながら良くできた創作話
 だと思うんだが……</value>
   </data>
-  <data name="0093 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0094 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0095 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0096 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0097 KYON (キョン)" xml:space="preserve">
     <value>長門、そんなに微妙な話だったか？
 俺の怪奇体験談は……</value>
@@ -415,15 +367,6 @@
     <value>長門先生による評価は、ごく中庸
 らしいな。及第点ってとこか</value>
   </data>
-  <data name="0103 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0104 NAGATO (長門)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0105 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0106 KYON (キョン)" xml:space="preserve">
     <value>古泉、俺の体験談は、そんなにダメ
 な話だったか？</value>
@@ -442,9 +385,6 @@
   <data name="0110 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……古泉に感想を求めたのが間違い
 だったな</value>
-  </data>
-  <data name="0111 KOIZUMI (古泉)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0112 HARUHI (ハルヒ)" xml:space="preserve">
     <value>もういいわ、キョンのアホ話は</value>
@@ -532,9 +472,6 @@
   </data>
   <data name="0136 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>満足そうに笑みを浮かべる、ハルヒ</value>
-  </data>
-  <data name="0137 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0138 MIKURU (みくる)" xml:space="preserve">
     <value>#P05#SK0だ、誰か明かりをつけてくださいぃ</value>

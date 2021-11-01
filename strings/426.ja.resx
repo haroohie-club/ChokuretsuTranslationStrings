@@ -113,9 +113,6 @@
   <data name="0014 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そいつは役に立ちそうな気がするな</value>
   </data>
-  <data name="0015 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0016 KYON (キョン)" xml:space="preserve">
     <value>ヤキモチなんてどうです？</value>
   </data>
@@ -145,9 +142,6 @@
     <value>この恥じらう様子も、ハルヒの言う
 ところの萌え要素なんだろうな</value>
   </data>
-  <data name="0024 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0025 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ふたりで歩いているうちに
 青果店に到着した</value>
@@ -165,18 +159,9 @@
     <value>店のオヤジさんはやたらに威勢よく
 声をかけてきた</value>
   </data>
-  <data name="0030 GROCER (八百屋)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0031 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0032 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんが引き気味なのが
 おかしいやらかわいいやら</value>
-  </data>
-  <data name="0033 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0034 GROCER (八百屋)" xml:space="preserve">
     <value>君ら、北高の学生さんだろ？</value>
@@ -209,9 +194,6 @@
     <value>キャベツ畑に天使降臨なわけで
 そりゃあ舞い上がらないはずもない</value>
   </data>
-  <data name="0043 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0044 GROCER (八百屋)" xml:space="preserve">
     <value>そっちの兄さんは、荷物持ちかい？</value>
   </data>
@@ -221,9 +203,6 @@
   <data name="0046 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>いきなり俺に話を振ったと思えば
 お愛想程度の会話か</value>
-  </data>
-  <data name="0047 GROCER (八百屋)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0048 MIKURU (みくる)" xml:space="preserve">
     <value>キョンくん、トウモロコシとか
@@ -440,9 +419,6 @@
     <value>いつ朝比奈さんのポケットに
 まぎれ込んだのだろう？</value>
   </data>
-  <data name="0108 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0109 GROCER (八百屋)" xml:space="preserve">
     <value>どうしたんだい、財布がないのかい</value>
   </data>
@@ -452,9 +428,6 @@
   <data name="0111 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>取り込み中に声を掛けないで欲しい
 のだが、商売なのだから仕方がない</value>
-  </data>
-  <data name="0112 GROCER (八百屋)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0113 MIKURU (みくる)" xml:space="preserve">
     <value>お金がなくなってバーベキューが
@@ -480,9 +453,6 @@
   <data name="0119 KYON (キョン)" xml:space="preserve">
     <value>戻りがてらに財布が見つかれば
 それはそれでラッキーですから</value>
-  </data>
-  <data name="0120 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0121 GROCER (八百屋)" xml:space="preserve">
     <value>だから、財布がないのかい？</value>
@@ -569,12 +539,6 @@
     <value>ぺこぺことお辞儀をする朝比奈さん
 と共に、俺も挨拶をしておいた</value>
   </data>
-  <data name="0145 GROCER (八百屋)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0146 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0147 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>何はともあれ材料は手に入った
 後は軍資金をどうするかだ</value>
@@ -589,22 +553,13 @@
   <data name="0150 MIKURU (みくる)" xml:space="preserve">
     <value>はい、キョンくん</value>
   </data>
-  <data name="0151 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0152 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>来た道をじっくりと探しながら
 歩いたが、財布は見あたらなかった</value>
   </data>
-  <data name="0153 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0154 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんは財布をなくした責任を
 感じてか、道中はずっと涙目だった</value>
-  </data>
-  <data name="0155 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0156 HARUHI (ハルヒ)" xml:space="preserve">
     <value>おそすぎるわよ、キョン！</value>
@@ -618,9 +573,6 @@
   </data>
   <data name="0159 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なによ、事情ってこれのこと？</value>
-  </data>
-  <data name="0160 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0161 MIKURU (みくる)" xml:space="preserve">
     <value>そ、それはぁ！</value>

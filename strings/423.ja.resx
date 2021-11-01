@@ -99,9 +99,6 @@
   <data name="0010 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>わたわたと慌てて湯飲みを差し出す</value>
   </data>
-  <data name="0011 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0012 HARUHI (ハルヒ)" xml:space="preserve">
     <value>んぐ、んぐっ！</value>
   </data>
@@ -182,9 +179,6 @@
     <value>分かっちゃいたが、信じたくは
 なかったぜ</value>
   </data>
-  <data name="0033 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0034 MIKURU (みくる)" xml:space="preserve">
     <value>で、でも、お夕飯の準備なんてして
 ませんけど……</value>
@@ -240,9 +234,6 @@
     <value>これにはね、戦前からこっちの学校
 周辺の写真なんかが載ってるのよ</value>
   </data>
-  <data name="0049 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0050 KOIZUMI (古泉)" xml:space="preserve">
     <value>いわゆる『郷土資料』というやつ
 ですね</value>
@@ -254,9 +245,6 @@
   <data name="0052 HARUHI (ハルヒ)" xml:space="preserve">
     <value>北高のあった場所は特にひどかった
 らしいわ</value>
-  </data>
-  <data name="0053 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0054 KYON_SIS (妹)" xml:space="preserve">
     <value>ねえねえ、キョンくん
@@ -282,9 +270,6 @@
   </data>
   <data name="0060 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>きっと一晩中でも話してくれるぞ</value>
-  </data>
-  <data name="0061 KYON_SIS (妹)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0062 HARUHI (ハルヒ)" xml:space="preserve">
     <value>そんなことはどうでもいいのよ！
@@ -339,9 +324,6 @@
   <data name="0075 HARUHI (ハルヒ)" xml:space="preserve">
     <value>なんと！
 中には誰もいなかったのよっ！</value>
-  </data>
-  <data name="0076 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0077 MIKURU (みくる)" xml:space="preserve">
     <value>#SK0ひあああっ！？</value>
@@ -421,12 +403,6 @@
     <value>もちろん体育館よ！
 決まってるでしょ！</value>
   </data>
-  <data name="0099 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
-  <data name="0100 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0101 HARUHI (ハルヒ)" xml:space="preserve">
     <value>めざすは体育館！</value>
   </data>
@@ -435,12 +411,6 @@
   </data>
   <data name="0103 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みんな、遅れず着いてくるのよ</value>
-  </data>
-  <data name="0104 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
-  <data name="0105 KYON_SIS (妹)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0106 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>飛び跳ねるような足取りで、体育館
@@ -593,12 +563,6 @@
     <value>ええ、そうですね。検討の余地は
 ありそうです</value>
   </data>
-  <data name="0146 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
-  <data name="0147 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0148 MIKURU (みくる)" xml:space="preserve">
     <value>よかったぁ。まだ運動部が部活を
 やってる最中ですね</value>
@@ -632,9 +596,6 @@
   <data name="0156 HARUHI (ハルヒ)" xml:space="preserve">
     <value>むう……仕方ないわね
 じゃあ次に行くわよ</value>
-  </data>
-  <data name="0157 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0158 HARUHI (ハルヒ)" xml:space="preserve">
     <value>無いわどこにも！　ちょっとキョン
@@ -743,9 +704,6 @@
   <data name="0186 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さて、次は確か……</value>
   </data>
-  <data name="0187 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0188 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>思い出した</value>
   </data>
@@ -768,9 +726,6 @@
   <data name="0194 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>#P05“危険！　恐怖の自販機”#P01と落書き
 がされている</value>
-  </data>
-  <data name="0195 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0196 HARUHI (ハルヒ)" xml:space="preserve">
     <value>学校の備品に落書きをするなんて</value>
@@ -861,9 +816,6 @@
   <data name="0220 KYON (キョン)" xml:space="preserve">
     <value>くっそー……１００円損した</value>
   </data>
-  <data name="0221 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0222 KYON_SIS (妹)" xml:space="preserve">
     <value>キョンくんかわいそー
 よしよし</value>
@@ -875,18 +827,12 @@
   <data name="0224 KYON (キョン)" xml:space="preserve">
     <value>そう思うのならお前が金を出せ</value>
   </data>
-  <data name="0225 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0226 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ええ、いいわよ</value>
   </data>
   <data name="0227 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そう言ってハルヒはコインを投入し
 おもむろにボタンを押す</value>
-  </data>
-  <data name="0228 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0229 KYON (キョン)" xml:space="preserve">
     <value>……ん？
@@ -915,9 +861,6 @@
     <value>なんという傍若無人
 横暴極まりない仕打ち</value>
   </data>
-  <data name="0236 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0237 KYON_SIS (妹)" xml:space="preserve">
     <value>ねえキョンくん、あたしもジュース
 飲みたーい</value>
@@ -932,9 +875,6 @@
   </data>
   <data name="0240 KYON_SIS (妹)" xml:space="preserve">
     <value>わーい！　ジュースジュース！</value>
-  </data>
-  <data name="0241 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0242 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>妹を引き連れて、ハルヒは食堂の
@@ -951,15 +891,6 @@
     <value>いや、朝比奈さんと長門は……
 お、いたいた</value>
   </data>
-  <data name="0246 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
-  <data name="0247 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
-  <data name="0248 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0249 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>二人はどこかに寄っていたのか
 遅れてこちらにやってきた</value>
@@ -971,9 +902,6 @@
   <data name="0251 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>どうも様子がおかしいようだ
 何かあったのだろうか？</value>
-  </data>
-  <data name="0252 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0253 KOIZUMI (古泉)" xml:space="preserve">
     <value>どうかしましたか？
@@ -1005,9 +933,6 @@
     <value>……俺が以前に見たのと同じ？
 長門、お前は見たのか？</value>
   </data>
-  <data name="0261 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
   <data name="0262 NAGATO (長門)" xml:space="preserve">
     <value>見ていない</value>
   </data>
@@ -1032,9 +957,6 @@
   <data name="0268 NAGATO (長門)" xml:space="preserve">
     <value>一般的に幽霊と呼ばれる存在の
 法則性から類似したものは想定可能</value>
-  </data>
-  <data name="0269 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0270 MIKURU (みくる)" xml:space="preserve">
     <value>じゃあ、やっぱり幽霊……きゅうっ</value>
@@ -1142,12 +1064,6 @@
   <data name="0298 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺の脳裏に閃いたのは、ある意味
 もっとも夏らしいイベントだった</value>
-  </data>
-  <data name="0299 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1C;</value>
-  </data>
-  <data name="0300 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1C;</value>
   </data>
   <data name="0301 HARUHI (ハルヒ)" xml:space="preserve">
     <value>バーベキュー？

@@ -183,17 +183,11 @@
     <value>大丈夫です、俺たちの足音だった
 ようですから</value>
   </data>
-  <data name="0036 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0037 MIKURU (みくる)" xml:space="preserve">
     <value>そっ、そうですかぁ……</value>
   </data>
   <data name="0038 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ホッと一安心したご様子だ</value>
-  </data>
-  <data name="0039 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0040 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>階段も手探りってのはちょっと
@@ -247,9 +241,6 @@
     <value>朝比奈さんの手が震えている
 よほど怖いのだろうか？</value>
   </data>
-  <data name="0055 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0056 KYON (キョン)" xml:space="preserve">
     <value>ここには誰もいないようですね</value>
   </data>
@@ -273,17 +264,8 @@
   <data name="0062 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>出来れば明るい場所がいいね</value>
   </data>
-  <data name="0063 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0064 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0065 KYON (キョン)" xml:space="preserve">
     <value>これでよし、と</value>
-  </data>
-  <data name="0066 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0067 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>中庭をうろついていたコンピ研の
@@ -309,9 +291,6 @@
   </data>
   <data name="0073 MIKURU (みくる)" xml:space="preserve">
     <value>は、はい</value>
-  </data>
-  <data name="0074 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0075 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>捕獲したコンピ研のメンバーを空き
@@ -363,21 +342,12 @@
     <value>悲鳴をあげた朝比奈さんは、壁の
 非常用懐中電灯に手を伸ばした</value>
   </data>
-  <data name="0089 MIKURU (みくる)" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="0090 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>#</value>
-  </data>
   <data name="0091 MIKURU (みくる)" xml:space="preserve">
     <value>きゃあああああああ！！</value>
   </data>
   <data name="0092 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>懐中電灯が照らした先には部長氏の
 ドアップがあった</value>
-  </data>
-  <data name="0093 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0094 MIKURU (みくる)" xml:space="preserve">
     <value>いやあああああああ！！</value>
@@ -412,9 +382,6 @@
   <data name="0103 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なぜか怯んだ部長氏のスキを突いて
 一気に飛び込んで捕獲してやった</value>
-  </data>
-  <data name="0104 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>#</value>
   </data>
   <data name="0105 MIKURU (みくる)" xml:space="preserve">
     <value>ふ、ふぇぇぇ……</value>

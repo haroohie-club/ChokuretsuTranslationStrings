@@ -74,24 +74,12 @@
     <value>そのツテは『機関』のコネとか
 圧力とかいうやつなんだろうな</value>
   </data>
-  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0005 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0006 MIKURU (みくる)" xml:space="preserve">
     <value>ここなら広いし、バーベキューを
 楽しめそうですね</value>
   </data>
   <data name="0007 NAGATO (長門)" xml:space="preserve">
     <value>……</value>
-  </data>
-  <data name="0008 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0009 NAGATO (長門)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0010 KYON (キョン)" xml:space="preserve">
     <value>長門、ここは大丈夫なのか？</value>
@@ -130,9 +118,6 @@
     <value>時間は待ってくれないのよ、みくる
 ちゃん。調べること山盛りなの</value>
   </data>
-  <data name="0020 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0021 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>新七不思議をまだ諦める気がない
 ハルヒの気を何とか変えなければ</value>
@@ -154,9 +139,6 @@
   </data>
   <data name="0026 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺が選んだせいですみません</value>
-  </data>
-  <data name="0027 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0028 KYON (キョン)" xml:space="preserve">
     <value>長門、買い出しよろしくな</value>
@@ -209,12 +191,6 @@
     <value>俺たちは二手に分かれて出かける
 ことにした</value>
   </data>
-  <data name="0043 KYON_SIS (妹)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0044 NAGATO (長門)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0045 HARUHI (ハルヒ)" xml:space="preserve">
     <value>真夜中にね、ボールの音だけが
 響くんですって。ポーンポーンって</value>
@@ -243,9 +219,6 @@
   </data>
   <data name="0052 MIKURU (みくる)" xml:space="preserve">
     <value>#SK0はうぅぅっ</value>
-  </data>
-  <data name="0053 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0054 KOIZUMI (古泉)" xml:space="preserve">
     <value>……これはまずいですね</value>
@@ -282,12 +255,6 @@
   </data>
   <data name="0063 HARUHI (ハルヒ)" xml:space="preserve">
     <value>ちゃんとあたしの話を聞きなさい</value>
-  </data>
-  <data name="0064 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0065 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0066 KYON (キョン)" xml:space="preserve">
     <value>夏休み怪談特集のネタかっつーの
@@ -343,12 +310,6 @@
     <value>爽やか笑顔で言われてもねぇ。嘘か
 ホントかわかんないわね</value>
   </data>
-  <data name="0081 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0082 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0083 KYON (キョン)" xml:space="preserve">
     <value>ともかくグラウンドに道具がある
 とも思えんから、校内へ行くぞ</value>
@@ -359,9 +320,6 @@
   </data>
   <data name="0085 KYON (キョン)" xml:space="preserve">
     <value>してねーよ</value>
-  </data>
-  <data name="0086 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0087 HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃん知ってる？</value>
@@ -424,12 +382,6 @@
   <data name="0104 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>行く場所、行く場所、そこにまつ
 わる怪談を話し続けている</value>
-  </data>
-  <data name="0105 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0106 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0107 KYON (キョン)" xml:space="preserve">
     <value>おいハルヒ
@@ -504,9 +456,6 @@
     <value>世界の改変とやらに脅かされて
 いれば臆病にもなるぞ</value>
   </data>
-  <data name="0127 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0128 HARUHI (ハルヒ)" xml:space="preserve">
     <value>本当のところはキョンが怖くて
 聞きたくないだけじゃないの？</value>
@@ -514,9 +463,6 @@
   <data name="0129 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺だって怖いさ
 おまえの暴走がな</value>
-  </data>
-  <data name="0130 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0131 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>なんの能力もない、極普通の人間の
@@ -537,18 +483,6 @@
   <data name="0135 KYON (キョン)" xml:space="preserve">
     <value>バーベキューの道具がありそうな
 ところはどこだ……</value>
-  </data>
-  <data name="0136 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0137 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0138 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0139 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0140 KYON (キョン)" xml:space="preserve">
     <value>朝比奈さんは、バーベキューの
@@ -578,15 +512,6 @@
   </data>
   <data name="0147 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>これは内緒にしておいた方がいいな</value>
-  </data>
-  <data name="0148 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0149 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
-  </data>
-  <data name="0150 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0151 KYON (キョン)" xml:space="preserve">
     <value>古泉、バーベキューの道具はどこに
@@ -622,9 +547,6 @@
     <value>古泉にしては、中途半端な仕事
 っぷりだ</value>
   </data>
-  <data name="0160 KOIZUMI (古泉)" xml:space="preserve">
-    <value>"</value>
-  </data>
   <data name="0161 HARUHI (ハルヒ)" xml:space="preserve">
     <value>とっときの怪談があるのよ
 すごく怖い話。階段の踊り場でね</value>
@@ -635,9 +557,6 @@
   <data name="0163 KYON (キョン)" xml:space="preserve">
     <value>おい、それより道具だろ？
 目星がついたぞ</value>
-  </data>
-  <data name="0164 MIKURU (みくる)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0165 KOIZUMI (古泉)" xml:space="preserve">
     <value>そうです、アウトドア同好会に
@@ -656,9 +575,6 @@
   <data name="0169 KOIZUMI (古泉)" xml:space="preserve">
     <value>こちらはバーベキューは邪道だと
 言いそうですから後回しでしょうか</value>
-  </data>
-  <data name="0170 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>"</value>
   </data>
   <data name="0171 MIKURU (みくる)" xml:space="preserve">
     <value>登山ではバーベキューしなさそう

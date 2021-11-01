@@ -64,9 +64,6 @@
   <data name="0001 MIKURU (みくる)" xml:space="preserve">
     <value>残念ですけど、不正解です</value>
   </data>
-  <data name="0002 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0003 MIKURU (みくる)" xml:space="preserve">
     <value>キョンくん
 よろしくお願いします</value>
@@ -139,9 +136,6 @@
     <value>……何だかごまかされた気が
 します</value>
   </data>
-  <data name="0023 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0024 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺だって初心者だが、さすがに
 初めての相手には負けられない</value>
@@ -166,12 +160,6 @@
   </data>
   <data name="0030 HARUHI (ハルヒ)" xml:space="preserve">
     <value>次はあたしとキョンね</value>
-  </data>
-  <data name="0031 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0033 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺と朝比奈さんの対戦を見て
@@ -323,12 +311,6 @@
     <value>はっきり言って、ものすごく
 悔しい</value>
   </data>
-  <data name="0073 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0074 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
-  </data>
   <data name="0075 HARUHI (ハルヒ)" xml:space="preserve">
     <value>最後は、あたしとみくるちゃんね！</value>
   </data>
@@ -349,12 +331,6 @@
   </data>
   <data name="0080 MIKURU (みくる)" xml:space="preserve">
     <value>じ、自信ないけど、がんばります！</value>
-  </data>
-  <data name="0081 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>!</value>
-  </data>
-  <data name="0082 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0083 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そうして始まった勝負は、予想は
@@ -432,9 +408,6 @@
   <data name="0103 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒの奴、アラームをセットして
 おいたのか！？</value>
-  </data>
-  <data name="0104 MIKURU (みくる)" xml:space="preserve">
-    <value>!</value>
   </data>
   <data name="0105 HARUHI (ハルヒ)" xml:space="preserve">
     <value>キョン！？</value>

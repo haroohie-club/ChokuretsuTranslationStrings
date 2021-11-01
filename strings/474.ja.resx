@@ -66,9 +66,6 @@
     <value>俺たちは一人ずつ順番に出発するこ
 とになった</value>
   </data>
-  <data name="0002 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0003 MIKURU (みくる)" xml:space="preserve">
     <value>はううう……ど、どうしても行かな
 くちゃいけないんですかああ……</value>
@@ -82,9 +79,6 @@
   </data>
   <data name="0006 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そりゃいったいどんな罰ゲームだ</value>
-  </data>
-  <data name="0007 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0008 MIKURU (みくる)" xml:space="preserve">
     <value>うううううっ……い、いってきます</value>
@@ -163,15 +157,9 @@
   <data name="0028 KYON (キョン)" xml:space="preserve">
     <value>ああ、すぐ戻る</value>
   </data>
-  <data name="0029 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0030 KOIZUMI (古泉)" xml:space="preserve">
     <value>それでは、お互いに気をつけること
 にしましょう</value>
-  </data>
-  <data name="0031 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0032 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>そして長門の出発する時間になり</value>
@@ -190,9 +178,6 @@
     <value>拒否も了承もせず、長門は出発して
 いった</value>
   </data>
-  <data name="0037 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0038 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さて、次は古泉、そして俺か……</value>
   </data>
@@ -209,9 +194,6 @@
   <data name="0042 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺とオセロをしていた古泉が手を止
 めた</value>
-  </data>
-  <data name="0043 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0044 HARUHI (ハルヒ)" xml:space="preserve">
     <value>あら、もう１５分経ったの？</value>
@@ -286,9 +268,6 @@
   <data name="0064 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒのハイテンションに生返事を
 しつつ、俺は廊下を歩き出した</value>
-  </data>
-  <data name="0065 HARUHI (ハルヒ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0066 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>渡り廊下から下を眺めると、中庭の
@@ -427,9 +406,6 @@
   <data name="0104 KYON (キョン)" xml:space="preserve">
     <value>や、やめろって</value>
   </data>
-  <data name="0105 CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0106 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さながらゾンビのように迫る部長氏
 その手から逃れようと振り返り</value>
@@ -447,12 +423,6 @@
   </data>
   <data name="0110 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>うー</value>
-  </data>
-  <data name="0111 CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0112 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0113 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
     <value>うあー</value>
@@ -483,20 +453,11 @@
     <value>コンピ研の面々が更に包囲を狭め
 もうだめだ、そう思った時だった</value>
   </data>
-  <data name="0121 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0122 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0123 MIKURU (みくる)" xml:space="preserve">
     <value>キョンくん！</value>
   </data>
   <data name="0124 KYON (キョン)" xml:space="preserve">
     <value>あ、朝比奈さんっ！</value>
-  </data>
-  <data name="0125 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0126 KOIZUMI (古泉)" xml:space="preserve">
     <value>待ってください、今助けますっ！</value>
@@ -515,15 +476,6 @@
   <data name="0130 KYON (キョン)" xml:space="preserve">
     <value>お、おう！　恩に着るぜ！</value>
   </data>
-  <data name="0131 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0132 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0133 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0134 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>包囲の輪から転げつつ逃げ出す</value>
   </data>
@@ -533,12 +485,6 @@
   </data>
   <data name="0136 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺たちに背を向けて逃げ始めた</value>
-  </data>
-  <data name="0137 CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0138 CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0139 KYON (キョン)" xml:space="preserve">
     <value>な、なんなんだ、あれは……</value>
@@ -553,12 +499,6 @@
   <data name="0142 KYON (キョン)" xml:space="preserve">
     <value>頭に花が咲いてたぞ。異常すぎる</value>
   </data>
-  <data name="0143 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
-  <data name="0144 KOIZUMI (古泉)" xml:space="preserve">
-    <value>&#x1F;</value>
-  </data>
   <data name="0145 NAGATO (長門)" xml:space="preserve">
     <value>あの花によって、彼らは意識を支配
 され、操られている</value>
@@ -572,9 +512,6 @@
   </data>
   <data name="0148 KYON (キョン)" xml:space="preserve">
     <value>そうか……</value>
-  </data>
-  <data name="0149 NAGATO (長門)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0150 KOIZUMI (古泉)" xml:space="preserve">
     <value>とにかく、急いで事態を収拾しなく
@@ -628,9 +565,6 @@
   </data>
   <data name="0164 MONOLOGUE (モノロ)" xml:space="preserve">
     <value>くそ、思ったよりやることが多いぞ</value>
-  </data>
-  <data name="0165 MIKURU (みくる)" xml:space="preserve">
-    <value>&#x1F;</value>
   </data>
   <data name="0166 KOIZUMI (古泉)" xml:space="preserve">
     <value>ここはあなたの判断にお任せします</value>
