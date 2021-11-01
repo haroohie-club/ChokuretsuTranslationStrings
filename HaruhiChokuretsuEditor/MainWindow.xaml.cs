@@ -91,11 +91,13 @@ namespace HaruhiChokuretsuEditor
             if (eventsListBox.SelectedIndex > 0)
             {
                 EventFile selectedFile = (EventFile)eventsListBox.SelectedItem;
-                foreach (DialogueLine dialogueLine in selectedFile.DialogueLines)
+                for (int i = 0; i < selectedFile.DialogueLines.Count; i++)
                 {
                     StackPanel dialogueStackPanel = new StackPanel { Orientation = Orientation.Horizontal };
-                    dialogueStackPanel.Children.Add(new TextBlock { Text = $"{dialogueLine.Speaker} ({dialogueLine.SpeakerName}):\t" });
-                    dialogueStackPanel.Children.Add(new TextBox { Text = dialogueLine.Text });
+                    dialogueStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.DialogueLines[i].Speaker} ({selectedFile.DialogueLines[i].SpeakerName}):\t" });
+                    EventTextBox textBox = new() { EventFile = selectedFile, DialogueIndex = i, Text = selectedFile.DialogueLines[i].Text, AcceptsReturn = true };
+                    textBox.TextChanged += TextBox_TextChanged;
+                    dialogueStackPanel.Children.Add(textBox);
                     editStackPanel.Children.Add(dialogueStackPanel);
                 }
                 foreach (int frontPointer in selectedFile.FrontPointers)
@@ -113,6 +115,12 @@ namespace HaruhiChokuretsuEditor
                     endPointersStackPanel.Children.Add(epStackPanel);
                 }
             }
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            EventTextBox textBox = (EventTextBox)sender;
+            textBox.EventFile.EditDialogueLine(textBox.DialogueIndex, textBox.Text);
         }
 
         private void ExportStringsEventsFileButton_Click(object sender, RoutedEventArgs e)

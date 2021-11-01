@@ -15,6 +15,7 @@ namespace HaruhiChokuretsuEditor
         public byte[] CompressedData { get; set; }
         public List<byte> Data { get; set; } = new();
         public List<int> FrontPointers { get; set; } = new();
+        public int PointerToNumEndPointers { get; set; }
         public List<int> EndPointers { get; set; } = new();
         public List<int> EndPointerPointers { get; set; } = new();
         public string Title { get; set; }
@@ -67,11 +68,11 @@ namespace HaruhiChokuretsuEditor
                 DialogueLines.Add(new DialogueLine((Speaker)character, speakerName, speakerPointer, dialoguePointer, Data.ToArray()));
             }
 
-            int pointerToNumEndPointers = BitConverter.ToInt32(decompressedData.Skip(4).Take(4).ToArray());
-            int numEndPointers = BitConverter.ToInt32(decompressedData.Skip(pointerToNumEndPointers).Take(4).ToArray());
+            PointerToNumEndPointers = BitConverter.ToInt32(decompressedData.Skip(4).Take(4).ToArray());
+            int numEndPointers = BitConverter.ToInt32(decompressedData.Skip(PointerToNumEndPointers).Take(4).ToArray());
             for (int i = 0; i < numEndPointers; i++)
             {
-                EndPointers.Add(BitConverter.ToInt32(decompressedData.Skip(pointerToNumEndPointers + (0x04 * (i + 1))).Take(4).ToArray()));
+                EndPointers.Add(BitConverter.ToInt32(decompressedData.Skip(PointerToNumEndPointers + (0x04 * (i + 1))).Take(4).ToArray()));
             }
 
             EndPointerPointers = EndPointers.Select(p => { int x = offset; return BitConverter.ToInt32(decompressedData.Skip(p).Take(4).ToArray()); }).ToList();
@@ -82,9 +83,59 @@ namespace HaruhiChokuretsuEditor
 
         public byte[] GetBytes() => Data.ToArray();
 
+        public void EditDialogueLine(int index, string newText)
+        {
+            int oldLength = DialogueLines[index].Length;
+            DialogueLines[index].Text = newText;
+            int lengthDifference = DialogueLines[index].Length - oldLength;
+            Data.RemoveRange(DialogueLines[index].Pointer, oldLength);
+            Data.InsertRange(DialogueLines[index].Pointer, DialogueLines[index].Data);
+
+            ShiftPointers(DialogueLines[index].Pointer, lengthDifference);
+        }
+
         public void ShiftPointers(int shiftLocation, int shiftAmount)
         {
-
+            for (int i = 0; i < FrontPointers.Count; i++)
+            {
+                if (FrontPointers[i] > shiftLocation)
+                {
+                    FrontPointers[i] += shiftAmount;
+                    Data.RemoveRange(0x0C + (0x08 * i), 4);
+                    Data.InsertRange(0x0C + (0x08 * i), BitConverter.GetBytes(FrontPointers[i]));
+                }
+            }
+            if (PointerToNumEndPointers > shiftLocation)
+            {
+                PointerToNumEndPointers += shiftAmount;
+                Data.RemoveRange(0x04, 4);
+                Data.InsertRange(0x04, BitConverter.GetBytes(PointerToNumEndPointers));
+            }
+            for (int i = 0; i < EndPointers.Count; i++)
+            {
+                if (EndPointers[i] > shiftLocation)
+                {
+                    EndPointers[i] += shiftAmount;
+                    Data.RemoveRange(PointerToNumEndPointers + 0x04 * (i + 1), 4);
+                    Data.InsertRange(PointerToNumEndPointers + 0x04 * (i + 1), BitConverter.GetBytes(EndPointers[i]));
+                }
+            }
+            for (int i = 0; i < EndPointerPointers.Count; i++)
+            {
+                if (EndPointerPointers[i] > shiftLocation)
+                {
+                    EndPointerPointers[i] += shiftAmount;
+                    Data.RemoveRange(EndPointers[i], 4);
+                    Data.InsertRange(EndPointers[i], BitConverter.GetBytes(EndPointerPointers[i]));
+                }
+            }
+            foreach (DialogueLine dialogueLine in DialogueLines)
+            {
+                if (dialogueLine.Pointer > shiftLocation)
+                {
+                    dialogueLine.Pointer += shiftAmount;
+                }
+            }
         }
 
         public void WriteResxFile(string fileName)
@@ -117,7 +168,7 @@ namespace HaruhiChokuretsuEditor
     {
         public int Pointer { get; set; }
         public byte[] Data { get; set; }
-        public string Text { get => Encoding.GetEncoding("Shift-JIS").GetString(Data); set => Data = Encoding.GetEncoding(932).GetBytes(value); }
+        public string Text { get => Encoding.GetEncoding("Shift-JIS").GetString(Data); set => Data = Encoding.GetEncoding("Shift-JIS").GetBytes(value); }
         public int Length => Data.Length;
 
         public int SpeakerPointer { get; set; }
