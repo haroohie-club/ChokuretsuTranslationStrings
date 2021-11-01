@@ -58,127 +58,127 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 KYON (キョン)" xml:space="preserve">
+  <data name="0000 (030.ja) KYON (キョン)" xml:space="preserve">
     <value>今日のバーベキュー、レシピは
 朝比奈さんが考案したんだが</value>
   </data>
-  <data name="0001 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0001 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>だからなによ？</value>
   </data>
-  <data name="0002 KYON (キョン)" xml:space="preserve">
+  <data name="0002 (030.ja) KYON (キョン)" xml:space="preserve">
     <value>お前も、少しはそういった女性らし
 い一面を見せたらどうだ</value>
   </data>
-  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>料理イコール女性らしさ、っていう
 その概念が理解できないわ</value>
   </data>
-  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0004 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>あんたの言う通りなら、コックや
 シェフは女性ばかりのはずでしょ</value>
   </data>
-  <data name="0005 KYON (キョン)" xml:space="preserve">
+  <data name="0005 (030.ja) KYON (キョン)" xml:space="preserve">
     <value>う……それは、まあ、そうだが</value>
   </data>
-  <data name="0006 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0006 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>バカなこと言ってないで、早く行く
 わよ</value>
   </data>
-  <data name="0007 MIKURU (みくる)" xml:space="preserve">
+  <data name="0007 (030.ja) MIKURU (みくる)" xml:space="preserve">
     <value>あのっ、お夕食のバーベキュー
 いかがでしたかっ？</value>
   </data>
-  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0008 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>ええ、存分に楽しんだわ！
 また今度やりたいわね</value>
   </data>
-  <data name="0009 MIKURU (みくる)" xml:space="preserve">
+  <data name="0009 (030.ja) MIKURU (みくる)" xml:space="preserve">
     <value>お食事はどうでした？　何か嫌いな
 ものとか無かったですか？</value>
   </data>
-  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>どれも美味しかったけど……
 どうして？</value>
   </data>
-  <data name="0011 MIKURU (みくる)" xml:space="preserve">
+  <data name="0011 (030.ja) MIKURU (みくる)" xml:space="preserve">
     <value>えっと、食材を選んだの、あたし
 なんです。トウモロコシとか</value>
   </data>
-  <data name="0012 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0012 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>トウモロコシも良かったわ。焼くと
 香ばしいし。大正解ね</value>
   </data>
-  <data name="0013 MIKURU (みくる)" xml:space="preserve">
+  <data name="0013 (030.ja) MIKURU (みくる)" xml:space="preserve">
     <value>よかったぁ……</value>
   </data>
-  <data name="0014 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0014 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね、みくるちゃんにはバーベ
 キュー功労賞をあげるわ</value>
   </data>
-  <data name="0015 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0015 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>あとで腕章を進呈するわね
 おもいっきり、威張ってもいいわよ</value>
   </data>
-  <data name="0016 MIKURU (みくる)" xml:space="preserve">
+  <data name="0016 (030.ja) MIKURU (みくる)" xml:space="preserve">
     <value>あ、ありがとうございますぅ……</value>
   </data>
-  <data name="0017 NAGATO (長門)" xml:space="preserve">
+  <data name="0017 (030.ja) NAGATO (長門)" xml:space="preserve">
     <value>レシピ</value>
   </data>
-  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0018 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>ん？　なに？　どうしたの？</value>
   </data>
-  <data name="0019 NAGATO (長門)" xml:space="preserve">
+  <data name="0019 (030.ja) NAGATO (長門)" xml:space="preserve">
     <value>夕食の食材と構成は、朝比奈みくる
 の考案に基づくレシピ</value>
   </data>
-  <data name="0020 NAGATO (長門)" xml:space="preserve">
+  <data name="0020 (030.ja) NAGATO (長門)" xml:space="preserve">
     <value>栄養のバランスを重視、カロリーの
 適量摂取を目的とした献立</value>
   </data>
-  <data name="0021 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0021 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>なるほどね。そういえば、野菜も
 しっかり食べたような気がするわ</value>
   </data>
-  <data name="0022 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0022 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>バーベキューだし、レシピと呼べる
 かどうかは疑問だけど</value>
   </data>
-  <data name="0023 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0023 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>でも突然、どうしたのよ？</value>
   </data>
-  <data name="0024 NAGATO (長門)" xml:space="preserve">
+  <data name="0024 (030.ja) NAGATO (長門)" xml:space="preserve">
     <value>朝比奈みくるの功績</value>
   </data>
-  <data name="0025 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0025 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>ふむ、そうね。ご飯がおいしかった
 のは、みくるちゃんのお手柄ね</value>
   </data>
-  <data name="0026 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0026 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>でも、バーベキューが楽しかった
 のは、団員みんなの功績よ</value>
   </data>
-  <data name="0027 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0027 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>有希、もちろんあたなもねっ！</value>
   </data>
-  <data name="0028 NAGATO (長門)" xml:space="preserve">
+  <data name="0028 (030.ja) NAGATO (長門)" xml:space="preserve">
     <value>……そう</value>
   </data>
-  <data name="0029 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0029 (030.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>そういえば、涼宮さんはご存知
 ですか？</value>
   </data>
-  <data name="0030 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0030 (030.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>今日のバーベキュー、素材の選択は
 朝比奈さんが考案したそうですよ</value>
   </data>
-  <data name="0031 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0031 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>そんな話は、後で聞くわ！</value>
   </data>
-  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0032 (030.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>今はとにかく、急いでるの！</value>
   </data>
-  <data name="0033 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0033 (030.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>これはどうも、話の振り方を間違え
 てしまったようですね……</value>
   </data>

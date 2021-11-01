@@ -58,30 +58,30 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 NAGATO (長門)" xml:space="preserve">
+  <data name="0000 (154.ja) NAGATO (長門)" xml:space="preserve">
     <value>５問目
 出題する</value>
   </data>
-  <data name="0001 NAGATO (長門)" xml:space="preserve">
+  <data name="0001 (154.ja) NAGATO (長門)" xml:space="preserve">
     <value>黒の“キング”を“チェックメイ
 ト”される位置に置いて</value>
   </data>
-  <data name="0002 INFO (インフォ)" xml:space="preserve">
+  <data name="0002 (154.ja) INFO (インフォ)" xml:space="preserve">
     <value>時間内に黒の“キング”を置くマス
 を指定してください</value>
   </data>
-  <data name="0003 NAGATO (長門)" xml:space="preserve">
+  <data name="0003 (154.ja) NAGATO (長門)" xml:space="preserve">
     <value>正解
 次の準備をする</value>
   </data>
-  <data name="0004 NAGATO (長門)" xml:space="preserve">
+  <data name="0004 (154.ja) NAGATO (長門)" xml:space="preserve">
     <value>不正解
 再挑戦を受け付ける</value>
   </data>
-  <data name="0005 NAGATO (長門)" xml:space="preserve">
+  <data name="0005 (154.ja) NAGATO (長門)" xml:space="preserve">
     <value>この問題では不要です　（仮）</value>
   </data>
-  <data name="0006 NAGATO (長門)" xml:space="preserve">
+  <data name="0006 (154.ja) NAGATO (長門)" xml:space="preserve">
     <value>これは表示されませんね
 （仮）</value>
   </data>

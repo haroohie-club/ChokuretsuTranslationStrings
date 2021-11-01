@@ -58,49 +58,49 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 INFO (インフォ)" xml:space="preserve">
+  <data name="0000 (587.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04以上で解決パートチュートリアルを
 終了します</value>
   </data>
-  <data name="0001 INFO (インフォ)" xml:space="preserve">
+  <data name="0001 (587.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04本編の解決パートに向けて、以降の
 探索パート中の行動へのヒントを</value>
   </data>
-  <data name="0002 INFO (インフォ)" xml:space="preserve">
+  <data name="0002 (587.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04お伝えします</value>
   </data>
-  <data name="0003 INFO (インフォ)" xml:space="preserve">
+  <data name="0003 (587.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04１：“ハルヒメーター”について</value>
   </data>
-  <data name="0008 INFO (インフォ)" xml:space="preserve">
+  <data name="0008 (587.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04探索パート中の行動で“ハルヒ
 メーター”を増加させておくと</value>
   </data>
-  <data name="0009 INFO (インフォ)" xml:space="preserve">
+  <data name="0009 (587.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04解決パートの基本制限時間に
 ボーナスが追加されます</value>
   </data>
-  <data name="0010 INFO (インフォ)" xml:space="preserve">
+  <data name="0010 (587.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04“ハルヒメーター”は新・七不思議
 の怪奇現象に対する</value>
   </data>
-  <data name="0011 INFO (インフォ)" xml:space="preserve">
+  <data name="0011 (587.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04“涼宮ハルヒの集中度”をどれだけ
 拡散させたかを表しています。</value>
   </data>
-  <data name="0012 INFO (インフォ)" xml:space="preserve">
+  <data name="0012 (587.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04メーターが減少するほど怪奇現象
 に対する興味が高い状態を表し</value>
   </data>
-  <data name="0013 INFO (インフォ)" xml:space="preserve">
+  <data name="0013 (587.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04目的地に早く移動しようとします
 （制限時間ボーナスが減少します）</value>
   </data>
-  <data name="0014 INFO (インフォ)" xml:space="preserve">
+  <data name="0014 (587.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04メーターが増加すると、他の情報に
 興味を奪われている状態を表し</value>
   </data>
-  <data name="0015 INFO (インフォ)" xml:space="preserve">
+  <data name="0015 (587.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04寄り道しやすくなります
 （制限時間ボーナスが増加します）</value>
   </data>

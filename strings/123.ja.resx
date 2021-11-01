@@ -58,112 +58,112 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0000 (123.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>ではこれからチェスのルールを
 説明して行きましょう</value>
   </data>
-  <data name="0001 INFO (インフォ)" xml:space="preserve">
+  <data name="0001 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>このモードでは、各キャラクターが
 出題する“詰めチェス”問題を</value>
   </data>
-  <data name="0002 INFO (インフォ)" xml:space="preserve">
+  <data name="0002 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>解いてゆく事が目的になります</value>
   </data>
-  <data name="0003 INFO (インフォ)" xml:space="preserve">
+  <data name="0003 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>ここでは“詰めチェス”に取り組む
 前に、まず“チェス”のルールを</value>
   </data>
-  <data name="0004 INFO (インフォ)" xml:space="preserve">
+  <data name="0004 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>覚えてもらうため、段階を追って
 説明していきます</value>
   </data>
-  <data name="0005 INFO (インフォ)" xml:space="preserve">
+  <data name="0005 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>では“チェス”の概要について
 説明します</value>
   </data>
-  <data name="0006 INFO (インフォ)" xml:space="preserve">
+  <data name="0006 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>“チェス”とは、下画面のような
 ８×８マスに区切られた盤面を使用</value>
   </data>
-  <data name="0007 INFO (インフォ)" xml:space="preserve">
+  <data name="0007 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>して、２人で対戦するゲームです</value>
   </data>
-  <data name="0008 INFO (インフォ)" xml:space="preserve">
+  <data name="0008 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>プレイヤーは白（先攻）と黒
 （後攻）に別れ交互に駒を動かして</value>
   </data>
-  <data name="0009 INFO (インフォ)" xml:space="preserve">
+  <data name="0009 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>先に相手の“キング”を“チェック
 メイト”した方が勝ちになります</value>
   </data>
-  <data name="0010 INFO (インフォ)" xml:space="preserve">
+  <data name="0010 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>各プレイヤーは自分の前に６種１６
 個の駒を並べてゲームを開始します</value>
   </data>
-  <data name="0011 INFO (インフォ)" xml:space="preserve">
+  <data name="0011 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>駒の種類は“キング”</value>
   </data>
-  <data name="0012 INFO (インフォ)" xml:space="preserve">
+  <data name="0012 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>“クイーン”</value>
   </data>
-  <data name="0013 INFO (インフォ)" xml:space="preserve">
+  <data name="0013 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>“ビショップ”</value>
   </data>
-  <data name="0014 INFO (インフォ)" xml:space="preserve">
+  <data name="0014 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>“ナイト”</value>
   </data>
-  <data name="0015 INFO (インフォ)" xml:space="preserve">
+  <data name="0015 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>“ルーク”</value>
   </data>
-  <data name="0016 INFO (インフォ)" xml:space="preserve">
+  <data name="0016 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>“ポーン”</value>
   </data>
-  <data name="0017 INFO (インフォ)" xml:space="preserve">
+  <data name="0017 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>以上、６種類の駒を下画面の様に
 並べます</value>
   </data>
-  <data name="0018 INFO (インフォ)" xml:space="preserve">
+  <data name="0018 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>お互いの“キング”と“クイーン”
 が向かい合っている事に注意して</value>
   </data>
-  <data name="0019 INFO (インフォ)" xml:space="preserve">
+  <data name="0019 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>ください、駒の配置は“点対称”
 ではありません</value>
   </data>
-  <data name="0020 INFO (インフォ)" xml:space="preserve">
+  <data name="0020 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>ここから白を先攻として、お互いに
 １駒づつ交互に動かして行きます</value>
   </data>
-  <data name="0021 INFO (インフォ)" xml:space="preserve">
+  <data name="0021 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>白の“クイーン”が黒の“キング”
 を“チェックメイト”しました</value>
   </data>
-  <data name="0022 INFO (インフォ)" xml:space="preserve">
+  <data name="0022 (123.ja) INFO (インフォ)" xml:space="preserve">
     <value>以上で“チェス”の概要を
 終了します</value>
   </data>
-  <data name="0023 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0023 (123.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>１手で“チェックメイト”
 してください　（仮）</value>
   </data>
-  <data name="0024 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0024 (123.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>正解です、さすがですね　（仮）</value>
   </data>
-  <data name="0025 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0025 (123.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>次の問題も頑張ってください
 （仮）</value>
   </data>
-  <data name="0026 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0026 (123.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>残念、違いましたね　（仮）</value>
   </data>
-  <data name="0027 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0027 (123.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>もう一度挑戦してみてください
 （仮）</value>
   </data>
-  <data name="0028 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0028 (123.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>この問題では不要です　（仮）</value>
   </data>
-  <data name="0029 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0029 (123.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>これは表示されませんね
 （仮）</value>
   </data>

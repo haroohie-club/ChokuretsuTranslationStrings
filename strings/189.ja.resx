@@ -58,50 +58,50 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 MIKURU (みくる)" xml:space="preserve">
+  <data name="0000 (189.ja) MIKURU (みくる)" xml:space="preserve">
     <value>怪奇現象と呼ばれているものは
 科学的に解明できるんでしょうか？</value>
   </data>
-  <data name="0001 MIKURU (みくる)" xml:space="preserve">
+  <data name="0001 (189.ja) MIKURU (みくる)" xml:space="preserve">
     <value>古泉くんが言ってたんですけど……</value>
   </data>
-  <data name="0002 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0002 (189.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>できないでしょ。少なくとも現在は</value>
   </data>
-  <data name="0003 MIKURU (みくる)" xml:space="preserve">
+  <data name="0003 (189.ja) MIKURU (みくる)" xml:space="preserve">
     <value>でも色々言われていますよね、
 電磁波のせいだとか</value>
   </data>
-  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0004 (189.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>必ずしも電磁波のせいだと言う証明
 はできてないわよ、みくるちゃん</value>
   </data>
-  <data name="0005 MIKURU (みくる)" xml:space="preserve">
+  <data name="0005 (189.ja) MIKURU (みくる)" xml:space="preserve">
     <value>でも……解明できれば、怖がらなく
 てすみますよね</value>
   </data>
-  <data name="0006 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0006 (189.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>みくるちゃん個人で言わせて貰う
 なら、科学で解明されてもムダね！</value>
   </data>
-  <data name="0007 MIKURU (みくる)" xml:space="preserve">
+  <data name="0007 (189.ja) MIKURU (みくる)" xml:space="preserve">
     <value>だ、断言するんですか？</value>
   </data>
-  <data name="0008 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0008 (189.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>するわよ。みくるちゃんなら風が
 吹いても怖がるわね</value>
   </data>
-  <data name="0009 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0009 (189.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>たとえば雷鳴は科学的に解明されて
 います。避雷針もある</value>
   </data>
-  <data name="0010 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0010 (189.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>で、みくるちゃんは怖くない？</value>
   </data>
-  <data name="0011 MIKURU (みくる)" xml:space="preserve">
+  <data name="0011 (189.ja) MIKURU (みくる)" xml:space="preserve">
     <value>うぅ……怖いです</value>
   </data>
-  <data name="0012 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0012 (189.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>以上、検証終了</value>
   </data>
 </root>

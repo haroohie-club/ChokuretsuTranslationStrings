@@ -58,28 +58,28 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0000 (171.ja) TSURUYA (鶴屋)" xml:space="preserve">
     <value>んじゃ、次の問題だよっ！</value>
   </data>
-  <data name="0001 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0001 (171.ja) TSURUYA (鶴屋)" xml:space="preserve">
     <value>“チェックメイト”されてる位置に
 黒の“キング”を置いてくれるかい</value>
   </data>
-  <data name="0002 INFO (インフォ)" xml:space="preserve">
+  <data name="0002 (171.ja) INFO (インフォ)" xml:space="preserve">
     <value>黒の“キング”を置くマスを指定し
 てください</value>
   </data>
-  <data name="0003 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0003 (171.ja) TSURUYA (鶴屋)" xml:space="preserve">
     <value>正解だよ、さすがだねキョンくん！</value>
   </data>
-  <data name="0004 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0004 (171.ja) TSURUYA (鶴屋)" xml:space="preserve">
     <value>残念！　ちょーっと違うみたいだね
 もう一回挑戦してみるかい？</value>
   </data>
-  <data name="0005 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0005 (171.ja) TSURUYA (鶴屋)" xml:space="preserve">
     <value>この問題では不要です　（仮）</value>
   </data>
-  <data name="0006 TSURUYA (鶴屋)" xml:space="preserve">
+  <data name="0006 (171.ja) TSURUYA (鶴屋)" xml:space="preserve">
     <value>これは表示されませんね
 （仮）</value>
   </data>

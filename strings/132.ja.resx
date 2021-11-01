@@ -58,21 +58,21 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0000 (132.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>では始めましょう</value>
   </data>
-  <data name="0001 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0001 (132.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>今回は制限時間を設けました
 ですが焦らず考えてみてください</value>
   </data>
-  <data name="0002 INFO (インフォ)" xml:space="preserve">
+  <data name="0002 (132.ja) INFO (インフォ)" xml:space="preserve">
     <value>制限時間内に２手で“チェックメイ
 ト”してください</value>
   </data>
-  <data name="0003 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0003 (132.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>正解です、さすがですね</value>
   </data>
-  <data name="0004 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0004 (132.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>残念、違いましたね
 もう一度挑戦してみてください</value>
   </data>

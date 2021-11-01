@@ -58,133 +58,133 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0000 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>$12ＳＯＳ団夏期合宿第二弾よ！</value>
   </data>
-  <data name="0001 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0001 (360.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>$9すべてはこの、#W12ハルヒの一言から
 はじまった――</value>
   </data>
-  <data name="0002 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0002 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>$10真夏に怪談なんて、$9クリスマスに
 降る雪に匹敵する取り合わせよね</value>
   </data>
-  <data name="0003 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0003 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>$10あるはずのない“１年１０組”</value>
   </data>
-  <data name="0004 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0004 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9迷い込んだら二度とは戻って
 こられない#W20“人喰い教室”の伝説</value>
   </data>
-  <data name="0005 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0005 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9北高の新しい七不思議として#W20
 $8ＳＯＳ団が調査をするわ！</value>
   </data>
-  <data name="0006 MONOLOGUE (モノロ)" xml:space="preserve">
+  <data name="0006 (360.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>$10だが、#W12この時はまだ#W20事態の深刻さを
 誰も理解できてはいなかった</value>
   </data>
-  <data name="0008 KYON (キョン)" xml:space="preserve">
+  <data name="0008 (360.ja) KYON (キョン)" xml:space="preserve">
     <value>$10おいおい、#W60冗談#W10…#W10…#W10だろ#W10…#W10…</value>
   </data>
-  <data name="0009 NAGATO (長門)" xml:space="preserve">
+  <data name="0009 (360.ja) NAGATO (長門)" xml:space="preserve">
     <value>$12この学校全体の情報結合が#W20不安定に
 なっている</value>
   </data>
-  <data name="0010 NAGATO (長門)" xml:space="preserve">
+  <data name="0010 (360.ja) NAGATO (長門)" xml:space="preserve">
     <value>$9涼宮ハルヒの描いたエンブレムをト
 リガーにして</value>
   </data>
-  <data name="0011 NAGATO (長門)" xml:space="preserve">
+  <data name="0011 (360.ja) NAGATO (長門)" xml:space="preserve">
     <value>$10情報生命体は、#W20その活動を活発化さ
 せた</value>
   </data>
-  <data name="0012 NAGATO (長門)" xml:space="preserve">
+  <data name="0012 (360.ja) NAGATO (長門)" xml:space="preserve">
     <value>$10あの時と同じ</value>
   </data>
-  <data name="0016 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0016 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>$9まずは現場を調査するのが先決ね#W12
 $7行きましょう、#W20みくるちゃん</value>
   </data>
-  <data name="0017 MIKURU (みくる)" xml:space="preserve">
+  <data name="0017 (360.ja) MIKURU (みくる)" xml:space="preserve">
     <value>$12は、#W30はい涼宮さん</value>
   </data>
-  <data name="0018 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0018 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>$10人喰い教室ねぇ#W10…#W10…#W10シンプルだけど
 逆に怖さはあるわね</value>
   </data>
-  <data name="0019 MIKURU (みくる)" xml:space="preserve">
+  <data name="0019 (360.ja) MIKURU (みくる)" xml:space="preserve">
     <value>$10た、食べられちゃうんでしょうか#W20
 わたしたち#W20…#W10…</value>
   </data>
-  <data name="0020 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0020 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>$10最初に襲われるのは#W10美女か悪党――#W20
 $8っていうのが#W10$10ホラーの定番よね</value>
   </data>
-  <data name="0021 MIKURU (みくる)" xml:space="preserve">
+  <data name="0021 (360.ja) MIKURU (みくる)" xml:space="preserve">
     <value>$10ふええええっ！？</value>
   </data>
-  <data name="0025 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0025 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>$11涼宮さんの言動が#W40現実のこの世界に#W20
 $8影響を及ぼしはじめています</value>
   </data>
-  <data name="0026 KYON (キョン)" xml:space="preserve">
+  <data name="0026 (360.ja) KYON (キョン)" xml:space="preserve">
     <value>$9どういう意味だ……？</value>
   </data>
-  <data name="0027 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0027 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>$10望んでいるんですよ、#W20涼宮さんは</value>
   </data>
-  <data name="0028 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0028 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>$11目の前に幽霊が現れたり、$8#W40本物の
 怪奇現象が起こることをです</value>
   </data>
-  <data name="0030 MIKURU (みくる)" xml:space="preserve">
+  <data name="0030 (360.ja) MIKURU (みくる)" xml:space="preserve">
     <value>$10ひぁぁぁっ、怖いですぅぅっ！</value>
   </data>
-  <data name="0031 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0031 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>$10なかなかいい表情よみくるちゃん</value>
   </data>
-  <data name="0032 HARUHI (ハルヒ)" xml:space="preserve">
+  <data name="0032 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>$12ＳＯＳ団の活動記録にばっちり
 残しておくわ！</value>
   </data>
-  <data name="0035 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0035 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>$10涼宮さんの意識を、#W20可能なかぎり#W20
 $7他へ向けさせましょう</value>
   </data>
-  <data name="0036 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0036 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>$9涼宮さんが合宿を楽しんでいる間は#W50
 $8事態が悪化することもないはずです</value>
   </data>
-  <data name="0037 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0037 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>$10その間に、#W40我々が密かに#W20発生した
 異空間を処理する――</value>
   </data>
-  <data name="0038 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0038 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>$10まあ、#W20$8いつも通りというわけですね</value>
   </data>
-  <data name="0040 KYON (キョン)" xml:space="preserve">
+  <data name="0040 (360.ja) KYON (キョン)" xml:space="preserve">
     <value>$10な、#W50なんだこりゃ！？#W20
 $9さっきはこんなものなかったぞ！</value>
   </data>
-  <data name="0041 NAGATO (長門)" xml:space="preserve">
+  <data name="0041 (360.ja) NAGATO (長門)" xml:space="preserve">
     <value>$10涼宮ハルヒの発言が、#W20異空間に対
 して影響を及ぼしている</value>
   </data>
-  <data name="0042 KYON (キョン)" xml:space="preserve">
+  <data name="0042 (360.ja) KYON (キョン)" xml:space="preserve">
     <value>$8ど、どうすりゃいいんだ！　#W10長門！</value>
   </data>
-  <data name="0043 NAGATO (長門)" xml:space="preserve">
+  <data name="0043 (360.ja) NAGATO (長門)" xml:space="preserve">
     <value>$10異空間を固定する特異点を#W20すべて
 消滅させなければならない</value>
   </data>
-  <data name="0044 KYON (キョン)" xml:space="preserve">
+  <data name="0044 (360.ja) KYON (キョン)" xml:space="preserve">
     <value>$10俺に#W10…#W10…#W10$9やれって言うのか？</value>
   </data>
-  <data name="0045 NAGATO (長門)" xml:space="preserve">
+  <data name="0045 (360.ja) NAGATO (長門)" xml:space="preserve">
     <value>$10大丈夫。#W12サポートする</value>
   </data>
-  <data name="0046 KYON (キョン)" xml:space="preserve">
+  <data name="0046 (360.ja) KYON (キョン)" xml:space="preserve">
     <value>$10#W10マジかよ#W20…#W10…</value>
   </data>
 </root>

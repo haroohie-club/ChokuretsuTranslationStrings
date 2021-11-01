@@ -58,288 +58,288 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0000 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0000 (125.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>ではこれからチェスのルールを
 説明して行きましょう</value>
   </data>
-  <data name="0001 INFO (インフォ)" xml:space="preserve">
+  <data name="0001 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>では次に各駒の動かし方を
 説明します</value>
   </data>
-  <data name="0002 INFO (インフォ)" xml:space="preserve">
+  <data name="0002 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>まずは駒を動かす上での基本的な
 ルールです</value>
   </data>
-  <data name="0003 INFO (インフォ)" xml:space="preserve">
+  <data name="0003 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>１．他の駒を飛び越せない</value>
   </data>
-  <data name="0004 INFO (インフォ)" xml:space="preserve">
+  <data name="0004 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>敵味方を問わず、他の駒を飛び越え
 て移動することは出来ません</value>
   </data>
-  <data name="0005 INFO (インフォ)" xml:space="preserve">
+  <data name="0005 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>２．味方のいるマスへは入れない</value>
   </data>
-  <data name="0006 INFO (インフォ)" xml:space="preserve">
+  <data name="0006 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>味方の駒がいるマスへは入れません
 手前のマスで停止します</value>
   </data>
-  <data name="0007 INFO (インフォ)" xml:space="preserve">
+  <data name="0007 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>３・敵の駒は取れる</value>
   </data>
-  <data name="0008 INFO (インフォ)" xml:space="preserve">
+  <data name="0008 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>移動方向にある敵の駒は取ってその
 マスへ移動することが出来ます</value>
   </data>
-  <data name="0009 INFO (インフォ)" xml:space="preserve">
+  <data name="0009 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>この場合も取って先へ進むことは
 出来ません、そのマスで停止します</value>
   </data>
-  <data name="0010 INFO (インフォ)" xml:space="preserve">
+  <data name="0010 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>以上基本条件を踏まえて、各駒の
 動かし方を説明していきます</value>
   </data>
-  <data name="0011 INFO (インフォ)" xml:space="preserve">
+  <data name="0011 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>１．“キング”の動かし方</value>
   </data>
-  <data name="0012 INFO (インフォ)" xml:space="preserve">
+  <data name="0012 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>“キング”は最重要駒ですが
 その動かし方は</value>
   </data>
-  <data name="0013 INFO (インフォ)" xml:space="preserve">
+  <data name="0013 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>『上下左右斜めに１マス』
 となります</value>
   </data>
-  <data name="0014 INFO (インフォ)" xml:space="preserve">
+  <data name="0014 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>味方のいるマスには入れませんが
 敵の駒は取ることが出来ます</value>
   </data>
-  <data name="0015 INFO (インフォ)" xml:space="preserve">
+  <data name="0015 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>また、相手の駒が効いているマスに
 移動することは出来ません</value>
   </data>
-  <data name="0016 INFO (インフォ)" xml:space="preserve">
+  <data name="0016 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>２．“クイーン”の動かし方</value>
   </data>
-  <data name="0017 INFO (インフォ)" xml:space="preserve">
+  <data name="0017 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>“クイーン”はチェスにおいて
 『最強の駒』です</value>
   </data>
-  <data name="0018 INFO (インフォ)" xml:space="preserve">
+  <data name="0018 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>『上下左右斜めに自由に移動』可能
 になります</value>
   </data>
-  <data name="0019 INFO (インフォ)" xml:space="preserve">
+  <data name="0019 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>味方のいるマスには入れませんが
 敵の駒は取ることが出来ます</value>
   </data>
-  <data name="0020 INFO (インフォ)" xml:space="preserve">
+  <data name="0020 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>３．“ビショップ”の動かし方</value>
   </data>
-  <data name="0021 INFO (インフォ)" xml:space="preserve">
+  <data name="0021 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>“ビショップ”は『斜め方向に自由
 に移動』する事が出来ます</value>
   </data>
-  <data name="0022 INFO (インフォ)" xml:space="preserve">
+  <data name="0022 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>将棋で言えば“角”に当たる駒に
 なります</value>
   </data>
-  <data name="0023 INFO (インフォ)" xml:space="preserve">
+  <data name="0023 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>味方のいるマスには入れませんが
 敵の駒は取ることが出来ます</value>
   </data>
-  <data name="0024 INFO (インフォ)" xml:space="preserve">
+  <data name="0024 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>４．“ナイト”の動かし方</value>
   </data>
-  <data name="0025 INFO (インフォ)" xml:space="preserve">
+  <data name="0025 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>“ナイト”は少々複雑な動き方を
 する駒です</value>
   </data>
-  <data name="0026 INFO (インフォ)" xml:space="preserve">
+  <data name="0026 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>『上下左右に２マス進みその左右の
 マス』へ移動できます</value>
   </data>
-  <data name="0027 INFO (インフォ)" xml:space="preserve">
+  <data name="0027 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>将棋で言うと“桂馬”の動きを
 上下左右斜めに可能です</value>
   </data>
-  <data name="0028 INFO (インフォ)" xml:space="preserve">
+  <data name="0028 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>少々複雑ですが、重要な動きですの
 で、覚えてください</value>
   </data>
-  <data name="0029 INFO (インフォ)" xml:space="preserve">
+  <data name="0029 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>さらに“ナイト”は特別な移動
 ルールを持っています</value>
   </data>
-  <data name="0030 INFO (インフォ)" xml:space="preserve">
+  <data name="0030 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>『他の駒を飛び越えて移動可能』
 な唯一の駒になります</value>
   </data>
-  <data name="0031 INFO (インフォ)" xml:space="preserve">
+  <data name="0031 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>敵の陣地に隠れている“キング”を
 狙い撃ちする際に重要な役割を持つ</value>
   </data>
-  <data name="0032 INFO (インフォ)" xml:space="preserve">
+  <data name="0032 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>駒になります</value>
   </data>
-  <data name="0033 INFO (インフォ)" xml:space="preserve">
+  <data name="0033 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>５．“ルーク”の動かし方</value>
   </data>
-  <data name="0034 INFO (インフォ)" xml:space="preserve">
+  <data name="0034 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>“ルーク”は『前後左右に自由に
 移動』する事ができます</value>
   </data>
-  <data name="0035 INFO (インフォ)" xml:space="preserve">
+  <data name="0035 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>将棋でいうと“飛車”に相当する
 駒になります</value>
   </data>
-  <data name="0036 INFO (インフォ)" xml:space="preserve">
+  <data name="0036 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>味方のいるマスには入れませんが
 敵の駒は取ることが出来ます</value>
   </data>
-  <data name="0037 INFO (インフォ)" xml:space="preserve">
+  <data name="0037 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>６．“ポーン”の動かし方</value>
   </data>
-  <data name="0038 INFO (インフォ)" xml:space="preserve">
+  <data name="0038 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>“ポーン”は『前へ１マス』進む
 事ができます</value>
   </data>
-  <data name="0039 INFO (インフォ)" xml:space="preserve">
+  <data name="0039 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>将棋でいうと“歩”に相当する
 駒です</value>
   </data>
-  <data name="0040 INFO (インフォ)" xml:space="preserve">
+  <data name="0040 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>ただし、“ポーン”は少々複雑な
 駒となっており、いくつかの特殊な</value>
   </data>
-  <data name="0041 INFO (インフォ)" xml:space="preserve">
+  <data name="0041 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>ルールを持っています</value>
   </data>
-  <data name="0042 INFO (インフォ)" xml:space="preserve">
+  <data name="0042 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>特殊ルール１．『初めての移動に
 限り最大２マス移動可能』</value>
   </data>
-  <data name="0043 INFO (インフォ)" xml:space="preserve">
+  <data name="0043 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>各“ポーン”を初めて動かす場合に
 限って、最大２マスまで移動させる</value>
   </data>
-  <data name="0044 INFO (インフォ)" xml:space="preserve">
+  <data name="0044 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>事が出来ます</value>
   </data>
-  <data name="0045 INFO (インフォ)" xml:space="preserve">
+  <data name="0045 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>特殊ルール２．『駒の取り方』</value>
   </data>
-  <data name="0046 INFO (インフォ)" xml:space="preserve">
+  <data name="0046 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>通常の駒は『自分の移動範囲』に
 ある敵の駒を取る事が出来ますが</value>
   </data>
-  <data name="0047 INFO (インフォ)" xml:space="preserve">
+  <data name="0047 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>“ポーン”は『正面の駒を取る事が
 出来ない』というルールになります</value>
   </data>
-  <data name="0048 INFO (インフォ)" xml:space="preserve">
+  <data name="0048 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>つまり、前方を敵の駒に塞がれると
 普通に動くことが出来なくなります</value>
   </data>
-  <data name="0049 INFO (インフォ)" xml:space="preserve">
+  <data name="0049 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>その代わり、敵の駒を取る場合には
 特殊な移動が可能になります</value>
   </data>
-  <data name="0050 INFO (インフォ)" xml:space="preserve">
+  <data name="0050 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>『斜め前方へ移動して駒を取る』
 事ができるようになっています</value>
   </data>
-  <data name="0051 INFO (インフォ)" xml:space="preserve">
+  <data name="0051 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>下画面の白の駒は、ハイライトされ
 たマスに敵の駒がある場合</value>
   </data>
-  <data name="0052 INFO (インフォ)" xml:space="preserve">
+  <data name="0052 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>そこへ移動して駒を取ることが
 できます</value>
   </data>
-  <data name="0053 INFO (インフォ)" xml:space="preserve">
+  <data name="0053 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>移動は『正面へ前進のみ可能で
 後退できない』</value>
   </data>
-  <data name="0054 INFO (インフォ)" xml:space="preserve">
+  <data name="0054 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>敵の駒を取る場合は『斜め前』と
 覚えて下さい</value>
   </data>
-  <data name="0055 INFO (インフォ)" xml:space="preserve">
+  <data name="0055 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>特殊ルール３．『アンパッサン』</value>
   </data>
-  <data name="0056 INFO (インフォ)" xml:space="preserve">
+  <data name="0056 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>“ポーン”には『アンパッサン』と
 呼ばれる特殊なルールがあります</value>
   </data>
-  <data name="0057 INFO (インフォ)" xml:space="preserve">
+  <data name="0057 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>ポーンは初めて移動するときのみ
 １マス～２マス移動可能ですが</value>
   </data>
-  <data name="0058 INFO (インフォ)" xml:space="preserve">
+  <data name="0058 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>この“２マス移動した”場合に特定
 の条件を満たした時限定で発生する</value>
   </data>
-  <data name="0059 INFO (インフォ)" xml:space="preserve">
+  <data name="0059 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>特殊ルールです</value>
   </data>
-  <data name="0060 INFO (インフォ)" xml:space="preserve">
+  <data name="0060 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>自分のポーンが“５段目に移動”し
 た位置にいる場合に</value>
   </data>
-  <data name="0061 INFO (インフォ)" xml:space="preserve">
+  <data name="0061 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>その隣の相手のポーンが“２マス移
 動”して来た場合に限り</value>
   </data>
-  <data name="0062 INFO (インフォ)" xml:space="preserve">
+  <data name="0062 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>自分のポーンを斜め前方へ移動させ
 て、相手の駒を取ることが出来ます</value>
   </data>
-  <data name="0063 INFO (インフォ)" xml:space="preserve">
+  <data name="0063 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>これを『アンパッサン』といいます</value>
   </data>
-  <data name="0064 INFO (インフォ)" xml:space="preserve">
+  <data name="0064 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>『アンパッサン』は“ポーン”同士
 でしか発生しないルールです</value>
   </data>
-  <data name="0065 INFO (インフォ)" xml:space="preserve">
+  <data name="0065 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>また、相手の“ポーン”が２マス移
 動した後、別の手が入った後では</value>
   </data>
-  <data name="0066 INFO (インフォ)" xml:space="preserve">
+  <data name="0066 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>行うことは出来ません</value>
   </data>
-  <data name="0067 INFO (インフォ)" xml:space="preserve">
+  <data name="0067 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>相手の移動の直後のみ可能なルール
 ですので注意してください</value>
   </data>
-  <data name="0068 INFO (インフォ)" xml:space="preserve">
+  <data name="0068 (125.ja) INFO (インフォ)" xml:space="preserve">
     <value>以上で駒の動かし方の説明を
 終了します</value>
   </data>
-  <data name="0069 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0069 (125.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>１手で“ルークを獲得”
 してください　（仮）</value>
   </data>
-  <data name="0070 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0070 (125.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>正解です、さすがですね　（仮）</value>
   </data>
-  <data name="0071 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0071 (125.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>次の問題も頑張ってください
 （仮）</value>
   </data>
-  <data name="0072 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0072 (125.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>残念、違いましたね　（仮）</value>
   </data>
-  <data name="0073 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0073 (125.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>もう一度挑戦してみてください
 （仮）</value>
   </data>
-  <data name="0074 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0074 (125.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>“駒得”出来なかったようですね
 　（仮）</value>
   </data>
-  <data name="0075 KOIZUMI (古泉)" xml:space="preserve">
+  <data name="0075 (125.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>ポイントの高い駒を奪われない様に
 気をつけてください　（仮）</value>
   </data>
