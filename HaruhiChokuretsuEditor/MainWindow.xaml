@@ -14,7 +14,7 @@
                         <ColumnDefinition Width="99*"/>
                         <ColumnDefinition Width="695*"/>
                     </Grid.ColumnDefinitions>
-                    <ToolBar x:Name="scriptToolBar" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="1043" Grid.ColumnSpan="2">
+                    <ToolBar x:Name="eventsToolBar" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="1043" Grid.ColumnSpan="2">
                         <Button x:Name="openEventsFileButton" Content="Open" HorizontalAlignment="Left" Click="OpenEventsFileButton_Click" />
                         <Button x:Name="saveEventsFileButton" Content="Save" HorizontalAlignment="Left" Click="SaveEventsFileButton_Click" />
                         <Button x:Name="exportEventsFileButton" Content="Export" HorizontalAlignment="Left" Click="ExportEventsFileButton_Click" />
@@ -44,6 +44,32 @@
                                 <ScrollViewer Grid.Column="1" Height="350" >
                                     <DockPanel>
                                         <StackPanel x:Name="endPointersStackPanel"/>
+                                    </DockPanel>
+                                </ScrollViewer>
+                            </TabItem>
+                        </TabControl>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Graphics">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="99*"/>
+                        <ColumnDefinition Width="695*"/>
+                    </Grid.ColumnDefinitions>
+                    <ToolBar x:Name="graphicsToolBar" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="1043" Grid.ColumnSpan="2">
+                        <Button x:Name="openGraphicsFileButton" Content="Open" HorizontalAlignment="Left" Click="OpenGraphicsFileButton_Click" />
+                        <Button x:Name="saveGraphicsFileButton" Content="Save" HorizontalAlignment="Left" Click="SaveGraphicsFileButton_Click" />
+                        <Button x:Name="exportGraphicsFileButton" Content="Export" HorizontalAlignment="Left" Click="ExportGraphicsFileButton_Click" />
+                        <Button x:Name="importGraphicsFileButton" Content="Import" HorizontalAlignment="Left" Click="ImportGraphicsFileButton_Click" />
+                    </ToolBar>
+                    <ListBox x:Name="graphicsListBox" Margin="0,30,521,0" SelectionChanged="GraphicsListBox_SelectionChanged" Grid.ColumnSpan="2" />
+                    <StackPanel Grid.Column="1" Margin="175,30,0,0">
+                        <TabControl>
+                            <TabItem Header="Graphics">
+                                <ScrollViewer Grid.Column="1" Height="350" >
+                                    <DockPanel>
+                                        <StackPanel x:Name="graphicsEditStackPanel"/>
                                     </DockPanel>
                                 </ScrollViewer>
                             </TabItem>

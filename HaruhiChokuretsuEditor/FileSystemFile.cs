@@ -11,7 +11,6 @@ namespace HaruhiChokuretsuEditor
         where T : IFile, new()
     {
         public const int FirstHeaderPointerOffset = 0x1C;
-        public const int FirstEventOffset = 0x2800;
 
         public byte[] Header { get; set; }
 
@@ -30,44 +29,65 @@ namespace HaruhiChokuretsuEditor
             return new FileSystemFile<T>(evtBytes);
         }
 
-        public FileSystemFile(byte[] fileBytes)
+        public FileSystemFile(byte[] fileSystemBytes)
         {
-            Header = fileBytes.Take(FirstEventOffset).ToArray();
+            int endOfHeader = 0x00;
+            for (int i = 0; i < fileSystemBytes.Length - 0x10; i++)
+            {
+                if (fileSystemBytes.Skip(i).Take(0x10).All(b => b == 0x00))
+                {
+                    endOfHeader = i;
+                    break;
+                }
+            }
+            int numZeroes = fileSystemBytes.Skip(endOfHeader).TakeWhile(b => b == 0x00).Count();
+            int firstFileOffset = endOfHeader + numZeroes;
 
-            NumItems = BitConverter.ToInt32(fileBytes.Take(4).ToArray());
+            Header = fileSystemBytes.Take(firstFileOffset).ToArray();
 
-            OffsetMsbMultiplier = BitConverter.ToInt32(fileBytes.Skip(0x04).Take(4).ToArray());
-            OffsetLsbMultiplier = BitConverter.ToInt32(fileBytes.Skip(0x08).Take(4).ToArray());
+            NumItems = BitConverter.ToInt32(fileSystemBytes.Take(4).ToArray());
 
-            OffsetLsbAnd = BitConverter.ToInt32(fileBytes.Skip(0x10).Take(4).ToArray());
-            OffsetMsbShift = BitConverter.ToInt32(fileBytes.Skip(0x0C).Take(4).ToArray());
+            OffsetMsbMultiplier = BitConverter.ToInt32(fileSystemBytes.Skip(0x04).Take(4).ToArray());
+            OffsetLsbMultiplier = BitConverter.ToInt32(fileSystemBytes.Skip(0x08).Take(4).ToArray());
 
-            HeaderLength = BitConverter.ToInt32(fileBytes.Skip(0x1C).Take(4).ToArray()) + (NumItems * 2 + 8) * 4;
+            OffsetLsbAnd = BitConverter.ToInt32(fileSystemBytes.Skip(0x10).Take(4).ToArray());
+            OffsetMsbShift = BitConverter.ToInt32(fileSystemBytes.Skip(0x0C).Take(4).ToArray());
+
+            HeaderLength = BitConverter.ToInt32(fileSystemBytes.Skip(0x1C).Take(4).ToArray()) + (NumItems * 2 + 8) * 4;
             for (int i = FirstHeaderPointerOffset; i < (NumItems * 4) + 0x20; i += 4)
             {
-                HeaderPointers.Add(BitConverter.ToUInt32(fileBytes.Skip(i).Take(4).ToArray()));
+                HeaderPointers.Add(BitConverter.ToUInt32(fileSystemBytes.Skip(i).Take(4).ToArray()));
             }
 
-            for (int i = FirstEventOffset; i < fileBytes.Length;)
+            for (int i = firstFileOffset; i < fileSystemBytes.Length;)
             {
                 int offset = i;
-                List<byte> eventBytes = new();
-                byte[] nextLine = fileBytes.Skip(i).Take(0x10).ToArray();
+                List<byte> fileBytes = new();
+                byte[] nextLine = fileSystemBytes.Skip(i).Take(0x10).ToArray();
                 for (i += 0x10; !nextLine.All(b => b == 0x00); i += 0x10)
                 {
-                    eventBytes.AddRange(nextLine);
-                    nextLine = fileBytes.Skip(i).Take(0x10).ToArray();
+                    fileBytes.AddRange(nextLine);
+                    nextLine = fileSystemBytes.Skip(i).Take(0x10).ToArray();
                 }
-                if (eventBytes.Count > 0)
+                if (fileBytes.Count > 0)
                 {
-                    eventBytes.AddRange(new byte[] { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 });
+                    fileBytes.AddRange(new byte[] { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 });
 
-                    T file = FileManager<T>.FromCompressedData(eventBytes.ToArray(), offset);
+                    T file = new();
+                    try
+                    {
+                        file = FileManager<T>.FromCompressedData(fileBytes.ToArray(), offset);
+                    }
+                    catch (IndexOutOfRangeException)
+                    {
+                        Console.WriteLine($"Failed to parse file at 0x{i:X8} due to index out of range exception (most likely during decompression)");
+                    }
+                    file.Offset = offset;
                     file.Index = GetMagicIndex(file.Offset);
-                    file.CompressedData = eventBytes.ToArray();
+                    file.CompressedData = fileBytes.ToArray();
                     Files.Add(file);
                 }
-                byte[] zeroes = fileBytes.Skip(i).TakeWhile(b => b == 0x00).ToArray();
+                byte[] zeroes = fileSystemBytes.Skip(i).TakeWhile(b => b == 0x00).ToArray();
                 i += zeroes.Length;
             }
         }
@@ -79,13 +99,13 @@ namespace HaruhiChokuretsuEditor
             return HeaderPointers.IndexOf(headerPointer);
         }
 
-        public int RecalculateEventOffset(T eventFile, byte[] searchSet = null)
+        public int RecalculateFileOffset(T file, byte[] searchSet = null)
         {
             if (searchSet is null)
             {
                 searchSet = Header;
             }
-            return (int)(BitConverter.ToUInt32(searchSet.Skip(FirstHeaderPointerOffset + (eventFile.Index * 4)).Take(4).ToArray()) >> OffsetMsbShift) * OffsetMsbMultiplier;
+            return (int)(BitConverter.ToUInt32(searchSet.Skip(FirstHeaderPointerOffset + (file.Index * 4)).Take(4).ToArray()) >> OffsetMsbShift) * OffsetMsbMultiplier;
         }
 
         public byte[] GetBytes()
@@ -96,7 +116,14 @@ namespace HaruhiChokuretsuEditor
             for (int i = 0; i < Files.Count; i++)
             {
                 byte[] compressedBytes;
-                compressedBytes = Helpers.CompressData(Files[i].GetBytes());
+                if (i != 3088|| Files[i].Data is null || Files[i].Data.Count == 0)
+                {
+                    compressedBytes = Files[i].CompressedData;
+                }
+                else
+                {
+                    compressedBytes = Helpers.CompressData(Files[i].GetBytes());
+                }
                 bytes.AddRange(compressedBytes);
                 if (i < Files.Count - 1)
                 {
@@ -115,7 +142,9 @@ namespace HaruhiChokuretsuEditor
                         int pointerOffset = FirstHeaderPointerOffset + (Files[i + 1].Index * 4);
                         bytes[pointerOffset + 2] = newPointer[2];
                         bytes[pointerOffset + 3] = newPointer[3];
-                        Files[i + 1].Offset = RecalculateEventOffset(Files[i + 1], bytes.ToArray());
+                        Header[pointerOffset + 2] = newPointer[2];
+                        Header[pointerOffset + 3] = newPointer[3];
+                        Files[i + 1].Offset = RecalculateFileOffset(Files[i + 1], bytes.ToArray());
                     }
                     while (bytes.Count < Files[i + 1].Offset)
                     {

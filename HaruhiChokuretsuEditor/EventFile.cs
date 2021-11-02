@@ -143,7 +143,11 @@ namespace HaruhiChokuretsuEditor
             using ResXResourceWriter resxWriter = new(fileName);
             for (int i = 0; i < DialogueLines.Count; i++)
             {
-                resxWriter.AddResource(new ResXDataNode($"{i} {DialogueLines[i].Speaker} ({DialogueLines[i].SpeakerName})", DialogueLines[i].Text));
+                if (!string.IsNullOrWhiteSpace(DialogueLines[i].Text) && DialogueLines[i].Length > 1)
+                {
+                    resxWriter.AddResource(new ResXDataNode($"{i:D4} ({Path.GetFileNameWithoutExtension(fileName)}) {DialogueLines[i].Speaker} ({DialogueLines[i].SpeakerName})",
+                        DialogueLines[i].Text));
+                }
             }
         }
 

@@ -24,6 +24,8 @@ namespace HaruhiChokuretsuEditor
     public partial class MainWindow : Window
     {
         private FileSystemFile<EventFile> _evtFile;
+        private FileSystemFile<GraphicsFile> _grpFile;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -141,7 +143,7 @@ namespace HaruhiChokuretsuEditor
 
         private void ImportStringsEventsFileButton_Click(object sender, RoutedEventArgs e)
         {
-            if (eventsListBox.SelectedIndex > 0)
+            if (eventsListBox.SelectedIndex >= 0)
             {
                 EventFile selectedFile = (EventFile)eventsListBox.SelectedItem;
             }
@@ -203,6 +205,71 @@ namespace HaruhiChokuretsuEditor
                 {
                     File.WriteAllBytes(saveFileDialog.FileName, decompressedBytes);
                 }
+            }
+        }
+
+        private void OpenGraphicsFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openFileDialog = new()
+            {
+                Filter = "GRP file|grp*.bin"
+            };
+            if (openFileDialog.ShowDialog() == true)
+            {
+                _grpFile = FileSystemFile<GraphicsFile>.FromFile(openFileDialog.FileName);
+                graphicsListBox.ItemsSource = _grpFile.Files;
+                graphicsListBox.Items.Refresh();
+            }
+        }
+
+        private void SaveGraphicsFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            SaveFileDialog saveFileDialog = new()
+            {
+                Filter = "GRP file|grp*.bin"
+            };
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                File.WriteAllBytes(saveFileDialog.FileName, _grpFile.GetBytes());
+                MessageBox.Show("Save completed!");
+            }
+        }
+
+        private void ExportGraphicsFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            SaveFileDialog saveFileDialog = new()
+            {
+                Filter = "BIN file|*.bin"
+            };
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                File.WriteAllBytes(saveFileDialog.FileName, ((GraphicsFile)graphicsListBox.SelectedItem).GetBytes());
+            }
+        }
+
+        private void ImportGraphicsFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openFileDialog = new()
+            {
+                Filter = "BIN file|*.bin"
+            };
+            if (openFileDialog.ShowDialog() == true)
+            {
+                GraphicsFile newGraphicsFile = new();
+                newGraphicsFile.Initialize(File.ReadAllBytes(openFileDialog.FileName), _grpFile.Files[graphicsListBox.SelectedIndex].Offset);
+                newGraphicsFile.Index = _grpFile.Files[graphicsListBox.SelectedIndex].Index;
+                _grpFile.Files[graphicsListBox.SelectedIndex] = newGraphicsFile;
+                graphicsListBox.Items.Refresh();
+            }
+        }
+
+        private void GraphicsListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            graphicsEditStackPanel.Children.Clear();
+            if (graphicsListBox.SelectedIndex >= 0)
+            {
+                GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
+                graphicsEditStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.Data.Count} bytes" });
             }
         }
     }

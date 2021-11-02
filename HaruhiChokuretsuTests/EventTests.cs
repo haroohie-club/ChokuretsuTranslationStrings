@@ -11,11 +11,33 @@ namespace HaruhiChokuretsuTests
     {
         [Test]
         [TestCase(TestVariables.EVT_000_DECOMPRESSED)]
+        [TestCase(TestVariables.EVT_66_DECOMPRESSED)]
+        [TestCase(TestVariables.EVT_MEMORYCARD_DECOMPRESSED)]
+        [TestCase(TestVariables.EVT_TEST_DECOMPRESSED)]
         public void EventFileParserTest(string eventFile)
         {
             byte[] eventFileOnDisk = File.ReadAllBytes(eventFile);
             EventFile @event = new();
             @event.Initialize(eventFileOnDisk);
+
+            Assert.AreEqual(eventFileOnDisk, @event.GetBytes());
+        }
+
+        [Test]
+        [TestCase(TestVariables.EVT_000_DECOMPRESSED)]
+        [TestCase(TestVariables.EVT_66_DECOMPRESSED)]
+        [TestCase(TestVariables.EVT_MEMORYCARD_DECOMPRESSED)]
+        [TestCase(TestVariables.EVT_TEST_DECOMPRESSED)]
+        public void EventFileMovePointersTest(string eventFile)
+        {
+            byte[] eventFileOnDisk = File.ReadAllBytes(eventFile);
+            EventFile @event = new();
+            @event.Initialize(eventFileOnDisk);
+
+            string originalLine = @event.DialogueLines[0].Text;
+
+            @event.EditDialogueLine(0, $"{originalLine}あ");
+            @event.EditDialogueLine(0, $"{originalLine}");
 
             Assert.AreEqual(eventFileOnDisk, @event.GetBytes());
         }
@@ -29,13 +51,13 @@ namespace HaruhiChokuretsuTests
 
             foreach (EventFile eventFile in evt.Files)
             {
-                Assert.AreEqual(eventFile.Offset, evt.RecalculateEventOffset(eventFile));
+                Assert.AreEqual(eventFile.Offset, evt.RecalculateFileOffset(eventFile));
             }
 
             byte[] newEvtBytes = evt.GetBytes();
             Console.WriteLine($"Efficiency: {(double)newEvtBytes.Length / File.ReadAllBytes(evtFile).Length * 100}%");
 
-            FileSystemFile<EventFile> newEvtFile = new FileSystemFile<EventFile>(newEvtBytes);
+            FileSystemFile<EventFile> newEvtFile = new(newEvtBytes);
             Assert.AreEqual(newEvtBytes, newEvtFile.GetBytes());
         }
     }
