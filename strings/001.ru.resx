@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (001.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どっちにするの？</value>
+  </data>
+  <data name="0002 (001.ja) MIKURU (朝比奈)" xml:space="preserve">
+    <value>おわりです</value>
+  </data>
+  <data name="0004 (001.ja) NAGATO (長門)" xml:space="preserve">
+    <value>終了した</value>
+  </data>
+  <data name="0006 (001.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>終わりですね</value>
+  </data>
 </root>
