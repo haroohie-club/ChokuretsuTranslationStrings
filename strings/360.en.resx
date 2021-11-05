@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,86 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0006 (360.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>yet, even this time no one understands the seriousness of the situation</value>
+  </data>
+  <data name="0008 (360.ja) KYON (キョン)" xml:space="preserve">
+    <value>woah, you got to be kidding me…</value>
+  </data>
+  <data name="0009 (360.ja) NAGATO (長門)" xml:space="preserve">
+    <value>The entire school's information group has become instable</value>
+  </data>
+  <data name="0010 (360.ja) NAGATO (長門)" xml:space="preserve">
+    <value>Haruhi Suzumiya drew a emblem as a trigger</value>
+  </data>
+  <data name="0011 (360.ja) NAGATO (長門)" xml:space="preserve">
+    <value>that activity activated information life form</value>
+  </data>
+  <data name="0012 (360.ja) NAGATO (長門)" xml:space="preserve">
+    <value>similar to that time</value>
+  </data>
+  <data name="0017 (360.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>yes! suzumiya san</value>
+  </data>
+  <data name="0002 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10 Midsummer ghost stories, Something equivalent to snowfall in Christmas</value>
+  </data>
+  <data name="0003 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>it can't be year 1 class 10</value>
+  </data>
+  <data name="0021 (360.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>huhhhh!?</value>
+  </data>
+  <data name="0026 (360.ja) KYON (キョン)" xml:space="preserve">
+    <value>what do you mean?</value>
+  </data>
+  <data name="0027 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>she wants to make this a reality</value>
+  </data>
+  <data name="0028 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>we may see manifestation of ghost or a unnatural phenomenon in front of our eyes</value>
+  </data>
+  <data name="0030 (360.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Ahhh, scaryyy!</value>
+  </data>
+  <data name="0031 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Nice expression mikuru chan</value>
+  </data>
+  <data name="0032 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>It will look good on SOS brigade record, I will leave it at that!</value>
+  </data>
+  <data name="0000 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$12 It is time for SOS Brigade Summer Training Camp 2!</value>
+  </data>
+  <data name="0001 (360.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$9 So everything started with this statement from Haruhi...</value>
+  </data>
+  <data name="0004 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>If you wander into it you will never come back, 
+its the legend of "man-eating classroom"</value>
+  </data>
+  <data name="0005 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>it is one of the seven wonders of North High,
+SOS brigade will investigate it!</value>
+  </data>
+  <data name="0016 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>First of all we should investigate the scene
+Let's go mikuru chan</value>
+  </data>
+  <data name="0018 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Cannibalism classroom right? It is simple.
+but it is scary</value>
+  </data>
+  <data name="0019 (360.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Do we all get completely eaten?</value>
+  </data>
+  <data name="0020 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>it is common in horror story where the first person to get attack is either beautiful women or a rascal.</value>
+  </data>
+  <data name="0025 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>suzumiya's words are starting to have a impact on the real world</value>
+  </data>
+  <data name="0035 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>lets try to keep her attention as far away from us as possible</value>
+  </data>
 </root>
