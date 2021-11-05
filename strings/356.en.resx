@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,180 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0002 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>And I also must defer to my bittersweet after school call</value>
+  </data>
+  <data name="0003 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Without even dedicating my sweaty youth to the ground with a white ball</value>
+  </data>
+  <data name="0004 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>I head to the club room as I always do</value>
+  </data>
+  <data name="0006 (356.ja) KYON (キョン)" xml:space="preserve">
+    <value>Hey</value>
+  </data>
+  <data name="0007 (356.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0008 (356.ja) KYON (キョン)" xml:space="preserve">
+    <value>Hey, Yuki</value>
+  </data>
+  <data name="0009 (356.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0012 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Her eyes dropped back to the book in her hands</value>
+  </data>
+  <data name="0013 (356.ja) KYON (キョン)" xml:space="preserve">
+    <value>Just you today, is it?</value>
+  </data>
+  <data name="0014 (356.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0016 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Well then, what to do……</value>
+  </data>
+  <data name="0017 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Mikuru hasn't arrived yet, so I won't be drinking tea</value>
+  </data>
+  <data name="0019 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>How should I put it? That sort of feels like taking away Mikuru's speciality</value>
+  </data>
+  <data name="0020 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>In that case, how do I pass the time?
+Well……</value>
+  </data>
+  <data name="0021 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>I don't have anyone to play a game with</value>
+  </data>
+  <data name="0023 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>That being so, I think about reading a book, but……</value>
+  </data>
+  <data name="0024 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>A young boy and a girl alone in a room silently reading books is questionable at best</value>
+  </data>
+  <data name="0025 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Shouldn't we be having a lively conversation, like healthy highschool students?</value>
+  </data>
+  <data name="0026 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Right, with that decided, I'll give it a go</value>
+  </data>
+  <data name="0027 (356.ja) KYON (キョン)" xml:space="preserve">
+    <value>Say, Yuki</value>
+  </data>
+  <data name="0028 (356.ja) NAGATO (長門)" xml:space="preserve">
+    <value>What?</value>
+  </data>
+  <data name="0030 (356.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……"How"?</value>
+  </data>
+  <data name="0031 (356.ja) KYON (キョン)" xml:space="preserve">
+    <value>Well, a lot happened, right?
+Things that you wouldn't forget</value>
+  </data>
+  <data name="0032 (356.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0033 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Is she thinking about it?</value>
+  </data>
+  <data name="0034 (356.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……Not particularly</value>
+  </data>
+  <data name="0036 (356.ja) KYON (キョン)" xml:space="preserve">
+    <value>W-well, to each their own, I suppose</value>
+  </data>
+  <data name="0037 (356.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0038 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>She's as uncooperative as ever</value>
+  </data>
+  <data name="0039 (356.ja) KYON (キョン)" xml:space="preserve">
+    <value>You were a huge help at the training camp</value>
+  </data>
+  <data name="0041 (356.ja) NAGATO (長門)" xml:space="preserve">
+    <value>I just did what was necessary</value>
+  </data>
+  <data name="0042 (356.ja) KYON (キョン)" xml:space="preserve">
+    <value>You say that, but all of us are deeply thankful</value>
+  </data>
+  <data name="0043 (356.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……Is that so</value>
+  </data>
+  <data name="0044 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>We went through a lot of stuff, but it was a very fulfilling summer holiday</value>
+  </data>
+  <data name="0045 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Honestly, it's not impossible that I'd say I had fun</value>
+  </data>
+  <data name="0047 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……I wonder what Yuki thinks of it?</value>
+  </data>
+  <data name="0048 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Our alien, who ever since coming to this world</value>
+  </data>
+  <data name="0049 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Has spent most of her time alone in one room in an apartment</value>
+  </data>
+  <data name="0050 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>How does she feel about a human, highschool firstyear's summer holiday?……</value>
+  </data>
+  <data name="0051 (356.ja) KYON (キョン)" xml:space="preserve">
+    <value>Say, Yuki</value>
+  </data>
+  <data name="0052 (356.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0054 (356.ja) KYON (キョン)" xml:space="preserve">
+    <value>Did you enjoy the summer holiday?</value>
+  </data>
+  <data name="0055 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>For the first time, Yuki turned her head to me</value>
+  </data>
+  <data name="0058 (356.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0059 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>She gave a small nod</value>
+  </data>
+  <data name="0056 (356.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0000 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>It was another day in the lingering summer heat</value>
+  </data>
+  <data name="0001 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>When homeroom ended, it was Haruhi who left the classroom before anyone else</value>
+  </data>
+  <data name="0011 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>As soon as I thought Yuki met eyes with me</value>
+  </data>
+  <data name="0015 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>No response. Well, I wasn't expecting a reseponse in the first place I suppose</value>
+  </data>
+  <data name="0018 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Of course, I could brew some by myself, but</value>
+  </data>
+  <data name="0022 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Well, I could ask Yuki, but that honestly wouldn't even count as a game</value>
+  </data>
+  <data name="0029 (356.ja) KYON (キョン)" xml:space="preserve">
+    <value>How was your summer holiday?</value>
+  </data>
+  <data name="0035 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>The response of a good 10-20 seconds of careful consideration</value>
+  </data>
+  <data name="0040 (356.ja) KYON (キョン)" xml:space="preserve">
+    <value>If it weren't for Yuki, the world would be in a grave situation right now</value>
+  </data>
+  <data name="0046 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Because that was the first time in my life I had such an absurd summer</value>
+  </data>
+  <data name="0053 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>As always, her gaze remained on the book</value>
+  </data>
+  <data name="0057 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Then, after staring at me for a while——</value>
+  </data>
 </root>
