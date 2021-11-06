@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,58 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0001 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Мы все разошлись по домам.</value>
+  </data>
+  <data name="0003 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Не способный более противостоять блаженному сну, я закрыл глаза.</value>
+  </data>
+  <data name="0005 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>И прямо тогда, когда я, в полу-дрёме был полон решимости уснуть.</value>
+  </data>
+  <data name="0008 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Кйон!</value>
+  </data>
+  <data name="0010 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>......Харухи?</value>
+  </data>
+  <data name="0006 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>Угх...... Кто это..…</value>
+  </data>
+  <data name="0007 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>
+Да...... Алло?</value>
+  </data>
+  <data name="0011 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Ты сейчас где?!</value>
+  </data>
+  <data name="0012 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>Чт... Что...…</value>
+  </data>
+  <data name="0013 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Иди прямо к станции!
+Это приказ!</value>
+  </data>
+  <data name="0014 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>Ухх...... Жарко же...…</value>
+  </data>
+  <data name="0015 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>После звонка Харухи, я поспешил к станции</value>
+  </data>
+  <data name="0000 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>После долгого дня, тренировки бригады СОС, наконец, завершились.</value>
+  </data>
+  <data name="0002 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Стоило мне вернуться домой, как я тут же упал на кровать.</value>
+  </data>
+  <data name="0004 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>И пусть даже астероид упадёт в мою комнату- я не проснусь.</value>
+  </data>
+  <data name="0009 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Голос Харухи одним махом прогнал всю мою сонливость</value>
+  </data>
+  <data name="0016 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Я и двух часов не поспал
+Говоря кратко, я устал</value>
+  </data>
 </root>
