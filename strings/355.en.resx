@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="0000 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>It was a certain day after school——</value>
+  </data>
+  <data name="0001 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Homeroom finished a little early, and
+as soon as I got up, Haruhi was gone.</value>
+  </data>
+  <data name="0002 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>I faithfully head over to the clubroom.</value>
+  </data>
+  <data name="0003 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>Hey</value>
+  </data>
+  <data name="0004 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Ah, Kyon</value>
+  </data>
+  <data name="0005 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Unexpectedly, Mikuru was alone in the clubroom.
+What luck!</value>
+  </data>
+  <data name="0006 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Even in this cruel heat, Mikuru was in her maid outfit.</value>
+  </data>
+  <data name="0007 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>She didn't show a hint of discomfort from the heat caused by her long skirt.</value>
+  </data>
+  <data name="0008 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>I decided to gaze at her lovely figure while waiting for Haruhi.</value>
+  </data>
+  <data name="0009 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Here, Kyon, your tea.</value>
+  </data>
+  <data name="0010 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>Thank you very much</value>
+  </data>
+  <data name="0011 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>I receive another hot cup of green tea.</value>
+  </data>
+  <data name="0012 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Of course, I won't say a word about how I would've preferred a cold barley tea</value>
+  </data>
+  <data name="0013 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>Is it just you today, Mikuru?</value>
+  </data>
+  <data name="0014 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Yes, it seems Yuki hasn't arrived yet</value>
+  </data>
+  <data name="0015 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>What about Haruhi?</value>
+  </data>
+  <data name="0016 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>Her seat was completely empty from the moment homeroom ended.</value>
+  </data>
+  <data name="0017 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>Oh, and I don't know where Itsuki is either</value>
+  </data>
+  <data name="0018 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Though, I don't care to know either</value>
+  </data>
+  <data name="0019 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Well, it's just you and me today then……ah.</value>
+  </data>
+  <data name="0020 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>Hm?</value>
+  </data>
+  <data name="0021 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>For some reason, Mikuru became red and turned her face away</value>
+  </data>
+  <data name="0022 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Uh, um……</value>
+  </data>
+  <data name="0023 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>Yes?</value>
+  </data>
+  <data name="0024 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>It's not getting any cooler, is it?</value>
+  </data>
+  <data name="0025 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>Seems like it</value>
+  </data>
+  <data name="0026 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0027 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0028 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>What's up with this silence?</value>
+  </data>
+  <data name="0029 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Ah, right, I should say, the summer holday was really fun, wasn't it?</value>
+  </data>
+  <data name="0030 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Going to various places, swimming, watching fireworks, playing games</value>
+  </data>
+  <data name="0031 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>We made a lot of great memories</value>
+  </data>
+  <data name="0032 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>Right. Though, some things were just plain exhausting and nothing else</value>
+  </data>
+  <data name="0033 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Ah, you mean the training camp, I suppose</value>
+  </data>
+  <data name="0034 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>That was just awful.</value>
+  </data>
+  <data name="0035 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>After all, we spent the whole day at the center of a global crisis</value>
+  </data>
+  <data name="0036 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>I seriously didn't know what was going to happen for a while</value>
+  </data>
+  <data name="0037 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>Ghosts and other supernatural phenomenona? Give me a break!</value>
+  </data>
+  <data name="0038 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Hehehe……Definitely</value>
+  </data>
+  <data name="0039 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>I won't say for the rest of my life, but I don't want to have anything to do with them at least until next summer.</value>
+  </data>
+  <data name="0040 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>……It just came to mind, but</value>
+  </data>
+  <data name="0041 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Yes?</value>
+  </data>
+  <data name="0042 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>I was wondering whether the existence of ghosts will ever be understood.</value>
+  </data>
+  <data name="0043 (355.ja) KYON (キョン)" xml:space="preserve">
+    <value>Mikuru seemed afraid of my words……</value>
+  </data>
+  <data name="0044 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Hmm……</value>
+  </data>
+  <data name="0045 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Mikuru pretended to think about my question——</value>
+  </data>
+  <data name="0046 (355.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>That's classified</value>
+  </data>
+  <data name="0047 (355.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>She gave me those usual words with the most amazing smile</value>
+  </data>
+</root>
