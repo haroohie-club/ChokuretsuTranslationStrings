@@ -26,6 +26,8 @@ namespace HaruhiChokuretsuEditor
         private FileSystemFile<EventFile> _evtFile;
         private FileSystemFile<GraphicsFile> _grpFile;
 
+        private int _currentImageWidth = 256;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -263,14 +265,52 @@ namespace HaruhiChokuretsuEditor
             }
         }
 
+        private void ExportGraphicsImageFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (graphicsListBox.SelectedIndex >= 0)
+            {
+                SaveFileDialog saveFileDialog = new()
+                {
+                    Filter = "BMP file|*.bmp"
+                };
+                if (saveFileDialog.ShowDialog() == true)
+                {
+                    GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
+                    System.Drawing.Bitmap bitmap = selectedFile.Get256ColorImage(_currentImageWidth);
+                    bitmap.Save(saveFileDialog.FileName, System.Drawing.Imaging.ImageFormat.Bmp);
+                }
+            }
+        }
+
         private void GraphicsListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            graphicsEditStackPanel.Children.Clear();
+            tilesEditStackPanel.Children.Clear();
             if (graphicsListBox.SelectedIndex >= 0)
             {
                 GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
-                graphicsEditStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.Data.Count} bytes" });
+                tilesEditStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.Data?.Count ?? 0} bytes" });
+                if (selectedFile.PixelData is not null)
+                {
+                    ShtxdsWidthBox graphicsWidthBox = new ShtxdsWidthBox { Shtxds = selectedFile, Text = "256" };
+                    graphicsWidthBox.TextChanged += GraphicsWidthBox_TextChanged;
+                    tilesEditStackPanel.Children.Add(graphicsWidthBox);
+                    tilesEditStackPanel.Children.Add(new Image { Source = Helpers.GetBitmapImageFromBitmap(selectedFile.Get256ColorImage()), MaxWidth = 256 });
+                    _currentImageWidth = 256;
+                }
             }
+        }
+
+        private void GraphicsWidthBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            tilesEditStackPanel.Children.RemoveAt(tilesEditStackPanel.Children.Count - 1);
+            ShtxdsWidthBox widthBox = (ShtxdsWidthBox)sender;
+            bool successfulParse = int.TryParse(widthBox.Text, out int width);
+            if (!successfulParse)
+            {
+                width = 256;
+            }
+            tilesEditStackPanel.Children.Add(new Image { Source = Helpers.GetBitmapImageFromBitmap(widthBox.Shtxds.Get256ColorImage(width)), MaxWidth = 256 });
+            _currentImageWidth = width;
         }
     }
 }

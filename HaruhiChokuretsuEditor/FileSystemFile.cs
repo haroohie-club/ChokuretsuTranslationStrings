@@ -116,7 +116,7 @@ namespace HaruhiChokuretsuEditor
             for (int i = 0; i < Files.Count; i++)
             {
                 byte[] compressedBytes;
-                if (i != 3088|| Files[i].Data is null || Files[i].Data.Count == 0)
+                if (Files[i].Index != 0x168 || Files[i].Data is null || Files[i].Data.Count == 0)
                 {
                     compressedBytes = Files[i].CompressedData;
                 }
