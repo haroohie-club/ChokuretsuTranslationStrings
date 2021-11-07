@@ -219,8 +219,53 @@ namespace HaruhiChokuretsuEditor
             if (openFileDialog.ShowDialog() == true)
             {
                 _grpFile = FileSystemFile<GraphicsFile>.FromFile(openFileDialog.FileName);
+                _grpFile.Files.First(f => f.Index == 0xE50).InitializeFontFile(); // initialize the font file
+                graphicsStatsStackPanel.Children.Clear();
                 graphicsListBox.ItemsSource = _grpFile.Files;
                 graphicsListBox.Items.Refresh();
+
+                // Gather stats on the header values for research purposes
+                Dictionary<int, Dictionary<ushort, int>> statsDictionaries = new();
+                for (int i = 0x06; i < 0x14; i += 2)
+                {
+                    statsDictionaries.Add(i, new Dictionary<ushort, int>());
+                }
+
+                foreach (GraphicsFile file in _grpFile.Files)
+                {
+                    if (file.Data is null || Encoding.ASCII.GetString(file.Data.Take(6).ToArray()) != "SHTXDS")
+                    {
+                        continue;
+                    }
+
+                    for (int i = 0x06; i < 0x14; i += 2)
+                    {
+                        ushort value = BitConverter.ToUInt16(file.Data.Skip(i).Take(2).ToArray());
+                        if (statsDictionaries[i].ContainsKey(value))
+                        {
+                            statsDictionaries[i][value]++;
+                        }
+                        else
+                        {
+                            statsDictionaries[i].Add(value, 1);
+                        }
+                    }
+                }
+
+                foreach (int offset in statsDictionaries.Keys)
+                {
+                    graphicsStatsStackPanel.Children.Add(new TextBlock { Text = $"0x{offset:X2}", FontSize = 16 });
+
+                    foreach (ushort value in statsDictionaries[offset].Keys)
+                    {
+                        StackPanel statStackPanel = new StackPanel { Orientation = Orientation.Horizontal };
+                        statStackPanel.Children.Add(new TextBlock { Text = string.Concat(BitConverter.GetBytes(value).Select(b => $"{b:X2} ")) });
+                        statStackPanel.Children.Add(new TextBlock { Text = $"{statsDictionaries[offset][value]}" });
+                        graphicsStatsStackPanel.Children.Add(statStackPanel);
+                    }
+
+                    graphicsStatsStackPanel.Children.Add(new Separator());
+                }
             }
         }
 
@@ -276,7 +321,7 @@ namespace HaruhiChokuretsuEditor
                 if (saveFileDialog.ShowDialog() == true)
                 {
                     GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
-                    System.Drawing.Bitmap bitmap = selectedFile.Get256ColorImage(_currentImageWidth);
+                    System.Drawing.Bitmap bitmap = selectedFile.GetImage(_currentImageWidth);
                     bitmap.Save(saveFileDialog.FileName, System.Drawing.Imaging.ImageFormat.Bmp);
                 }
             }
@@ -294,7 +339,7 @@ namespace HaruhiChokuretsuEditor
                     ShtxdsWidthBox graphicsWidthBox = new ShtxdsWidthBox { Shtxds = selectedFile, Text = "256" };
                     graphicsWidthBox.TextChanged += GraphicsWidthBox_TextChanged;
                     tilesEditStackPanel.Children.Add(graphicsWidthBox);
-                    tilesEditStackPanel.Children.Add(new Image { Source = Helpers.GetBitmapImageFromBitmap(selectedFile.Get256ColorImage()), MaxWidth = 256 });
+                    tilesEditStackPanel.Children.Add(new Image { Source = Helpers.GetBitmapImageFromBitmap(selectedFile.GetImage()), MaxWidth = 256 });
                     _currentImageWidth = 256;
                 }
             }
@@ -309,7 +354,7 @@ namespace HaruhiChokuretsuEditor
             {
                 width = 256;
             }
-            tilesEditStackPanel.Children.Add(new Image { Source = Helpers.GetBitmapImageFromBitmap(widthBox.Shtxds.Get256ColorImage(width)), MaxWidth = 256 });
+            tilesEditStackPanel.Children.Add(new Image { Source = Helpers.GetBitmapImageFromBitmap(widthBox.Shtxds.GetImage(width)), MaxWidth = 256 });
             _currentImageWidth = width;
         }
     }
