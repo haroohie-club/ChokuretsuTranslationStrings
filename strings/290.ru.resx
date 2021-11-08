@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,120 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (290.ja) KYON (キョン)" xml:space="preserve">
+    <value>痛てて……さっき本がぶつかった場
+所に、たんこぶができてるな</value>
+  </data>
+  <data name="0001 (290.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>本？　ああ、キョンの間抜けさが
+良く判ったわ、あのときは</value>
+  </data>
+  <data name="0002 (290.ja) KYON (キョン)" xml:space="preserve">
+    <value>お前も長門も、良く崩さずに本を
+抜けるもんだよな</value>
+  </data>
+  <data name="0003 (290.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと注意すれば簡単じゃない
+まあ、有希は確かにすごかったわね</value>
+  </data>
+  <data name="0004 (290.ja) KYON (キョン)" xml:space="preserve">
+    <value>本の山がぴくりともしなかったよな
+どれだけバランス感覚がいいんだか</value>
+  </data>
+  <data name="0005 (290.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>きっと普段から修行してるのよ
+家で、本を積み上げて</value>
+  </data>
+  <data name="0006 (290.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門があの殺風景な部屋で、本の山
+を前にしている姿を想像してしまう</value>
+  </data>
+  <data name="0007 (290.ja) KYON (キョン)" xml:space="preserve">
+    <value>……って、そんなバカな</value>
+  </data>
+  <data name="0008 (290.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ノリツッコミで妄想を否定する俺
+なのであった</value>
+  </data>
+  <data name="0009 (290.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>部室での長門さんですけど……
+すごいバランス感覚でしたね</value>
+  </data>
+  <data name="0010 (290.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>本の山から崩さずに本を抜き取った
+やつね。あれは確かに大したもんね</value>
+  </data>
+  <data name="0011 (290.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さすがは文芸部員、というところね</value>
+  </data>
+  <data name="0012 (290.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>文芸部は……関係ないんじゃないで
+しょうか……？</value>
+  </data>
+  <data name="0013 (290.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だって、本のエキスパートよ？
+あれくらい軽いものなのよ、きっと</value>
+  </data>
+  <data name="0014 (290.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そういうものですか……</value>
+  </data>
+  <data name="0015 (290.ja) NAGATO (長門)" xml:space="preserve">
+    <value>本は、丁寧に扱う事が望ましい
+……いたみやすい</value>
+  </data>
+  <data name="0016 (290.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え、なんの話？</value>
+  </data>
+  <data name="0017 (290.ja) NAGATO (長門)" xml:space="preserve">
+    <value>崩れたら、表紙に傷が入ったりする</value>
+  </data>
+  <data name="0018 (290.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、部室の……
+崩さなければいいのよ</value>
+  </data>
+  <data name="0019 (290.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしや有希は崩さずに取れたじゃ
+ない……キョンは崩したけど</value>
+  </data>
+  <data name="0020 (290.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、図書室の本がいたんだら
+あたしたちじゃなくてキョンのせい</value>
+  </data>
+  <data name="0021 (290.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0022 (290.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>弁償を請求するときは、キョンに
+言うよう、図書委員には言ってね</value>
+  </data>
+  <data name="0023 (290.ja) NAGATO (長門)" xml:space="preserve">
+    <value>判った</value>
+  </data>
+  <data name="0024 (290.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんは普段ゲームには興味が
+なさそうですが……</value>
+  </data>
+  <data name="0025 (290.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>実は、参加したら非常に上手なので
+はないか、と思うことがありますね</value>
+  </data>
+  <data name="0026 (290.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうねえ、そういえば部室で
+本の山を崩さないように本を抜く</value>
+  </data>
+  <data name="0027 (290.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ゲームをしたけど、有希はものすご
+く上手だったわ</value>
+  </data>
+  <data name="0028 (290.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど、そうでしたか</value>
+  </data>
+  <data name="0029 (290.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>では、今度みんなで遊べそうな
+パーティーゲームを用意してみます</value>
+  </data>
+  <data name="0030 (290.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね！　おもしろそうだわ！
+もちろんビリは罰ゲームだからね！</value>
+  </data>
 </root>
