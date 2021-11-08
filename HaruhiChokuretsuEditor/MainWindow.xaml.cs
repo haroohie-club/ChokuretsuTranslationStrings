@@ -316,13 +316,32 @@ namespace HaruhiChokuretsuEditor
             {
                 SaveFileDialog saveFileDialog = new()
                 {
-                    Filter = "BMP file|*.bmp"
+                    Filter = "PNG file|*.png"
                 };
                 if (saveFileDialog.ShowDialog() == true)
                 {
                     GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
                     System.Drawing.Bitmap bitmap = selectedFile.GetImage(_currentImageWidth);
-                    bitmap.Save(saveFileDialog.FileName, System.Drawing.Imaging.ImageFormat.Bmp);
+                    bitmap.Save(saveFileDialog.FileName, System.Drawing.Imaging.ImageFormat.Png);
+                }
+            }
+        }
+
+        private void ImportGraphicsImageFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (graphicsListBox.SelectedIndex >= 0 && (((GraphicsFile)graphicsListBox.SelectedItem).PixelData?.Count ?? 0) > 0)
+            {
+                OpenFileDialog openFileDialog = new()
+                {
+                    Filter = "PNG file|*.png"
+                };
+                if (openFileDialog.ShowDialog() == true)
+                {
+                    GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
+                    int width = selectedFile.SetImage(openFileDialog.FileName);
+                    tilesEditStackPanel.Children.RemoveAt(tilesEditStackPanel.Children.Count - 1);
+                    tilesEditStackPanel.Children.Add(new Image { Source = Helpers.GetBitmapImageFromBitmap(selectedFile.GetImage(width)), MaxWidth = 256 });
+                    _currentImageWidth = width;
                 }
             }
         }
@@ -334,6 +353,7 @@ namespace HaruhiChokuretsuEditor
             {
                 GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
                 tilesEditStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.Data?.Count ?? 0} bytes" });
+                tilesEditStackPanel.Children.Add(new TextBlock { Text = $"{_grpFile.SecondHeaderNumbers[graphicsListBox.SelectedIndex]:X8}" });
                 if (selectedFile.PixelData is not null)
                 {
                     ShtxdsWidthBox graphicsWidthBox = new ShtxdsWidthBox { Shtxds = selectedFile, Text = "256" };

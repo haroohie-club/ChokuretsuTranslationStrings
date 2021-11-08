@@ -27,6 +27,24 @@ namespace HaruhiChokuretsuEditor
             return bitmapImage;
         }
 
+        // redmean color distance formula with alpha term
+        public static double ColorDistance(Color color1, Color color2)
+        {
+            double redmean = (color1.R + color2.R) / 2.0;
+
+            return Math.Sqrt((2 + redmean / 256) * Math.Pow(color1.R - color2.R, 2)
+                + 4 * Math.Pow(color1.G - color2.G, 2)
+                + (2 + (255 - redmean) / 256) * Math.Pow(color1.B - color2.B, 2)
+                + Math.Pow(color1.A - color2.A, 2));
+        }
+
+        public static int ClosestColorIndex(List<Color> colors, Color color)
+        {
+            var colorDistances = colors.Select(c => ColorDistance(c, color)).ToList();
+
+            return colorDistances.IndexOf(colorDistances.Min());
+        }
+
         public static byte[] CompressData(byte[] decompressedData)
         {
             List<byte> compressedData = new();

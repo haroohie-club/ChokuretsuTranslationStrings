@@ -21,6 +21,7 @@ namespace HaruhiChokuretsuEditor
         public int OffsetLsbAnd { get; set; }
         public int OffsetMsbShift { get; set; }
         public List<uint> HeaderPointers { get; set; } = new();
+        public List<uint> SecondHeaderNumbers { get; set; } = new();
         public List<T> Files { get; set; } = new();
 
         public static FileSystemFile<T> FromFile(string fileName)
@@ -57,6 +58,11 @@ namespace HaruhiChokuretsuEditor
             for (int i = FirstHeaderPointerOffset; i < (NumItems * 4) + 0x20; i += 4)
             {
                 HeaderPointers.Add(BitConverter.ToUInt32(fileSystemBytes.Skip(i).Take(4).ToArray()));
+            }
+            int firstNextPointer = FirstHeaderPointerOffset + HeaderPointers.Count * 4;
+            for (int i = firstNextPointer; i < (NumItems * 4) + firstNextPointer; i += 4)
+            {
+                SecondHeaderNumbers.Add(BitConverter.ToUInt32(fileSystemBytes.Skip(i).Take(4).ToArray()));
             }
 
             for (int i = firstFileOffset; i < fileSystemBytes.Length;)

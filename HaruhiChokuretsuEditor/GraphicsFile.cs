@@ -17,6 +17,9 @@ namespace HaruhiChokuretsuEditor
         public List<byte> PixelData { get; set; }
         public TileForm ImageTileForm { get; set; }
         public byte[] CompressedData { get; set; }
+        public bool Shtxds { get; set; } = false;
+
+        private readonly static int[] VALID_WIDTHS = new int[] { 8, 16, 32, 64, 128, 256 };
 
         public enum TileForm
         {
@@ -31,6 +34,7 @@ namespace HaruhiChokuretsuEditor
             Data = decompressedData.ToList();
             if (Encoding.ASCII.GetString(Data.Take(6).ToArray()) == "SHTXDS")
             {
+                Shtxds = true;
                 ImageTileForm = (TileForm)(BitConverter.ToInt16(decompressedData.Skip(0x06).Take(2).ToArray()));
 
                 int paletteLength = 0x200;
@@ -82,7 +86,26 @@ namespace HaruhiChokuretsuEditor
             PixelData = Data;
         }
 
-        public byte[] GetBytes() => Data.ToArray();
+        public byte[] GetBytes()
+        {
+            if (Shtxds)
+            {
+                List<byte> data = new();
+                data.AddRange(Data.Take(0x14)); // get header
+                data.AddRange(PaletteData);
+                data.AddRange(PixelData);
+
+                return data.ToArray();
+            }
+            else if (Index == 0xE50) // more special casing for the font file
+            {
+                return PixelData.ToArray();
+            }
+            else
+            {
+                return Data.ToArray();
+            }
+        }
 
         public override string ToString()
         {
@@ -91,10 +114,10 @@ namespace HaruhiChokuretsuEditor
 
         public Bitmap GetImage(int width = 256)
         {
-            if (width % 8 != 0 || width > 256)
+            if (!VALID_WIDTHS.Contains(width))
             {
                 width = 256;
-            }    
+            }
             int height = 4 * (PixelData.Count / (ImageTileForm == TileForm.GBA_4BPP ? 32 : 64));
             var bitmap = new Bitmap(width, height);
             int pixelIndex = 0;
@@ -128,6 +151,65 @@ namespace HaruhiChokuretsuEditor
                 }
             }
             return bitmap;
+        }
+
+        /// <summary>
+        /// Replaces the current pixel data with a bitmap image on disk
+        /// </summary>
+        /// <param name="bitmapFile">Path to bitmap file to import</param>
+        /// <returns>Width of new bitmap image</returns>
+        public int SetImage(string bitmapFile)
+        {
+            return SetImage(new Bitmap(bitmapFile));
+        }
+
+        /// <summary>
+        /// Replaces the current pixel data with a bitmap image in memory
+        /// </summary>
+        /// <param name="bitmap">Bitmap image in memory</param>
+        /// <returns>Width of new bitmap image</returns>
+        public int SetImage(Bitmap bitmap)
+        {
+            if (!VALID_WIDTHS.Contains(bitmap.Width))
+            {
+                throw new ArgumentException($"Image width {bitmap.Width} not a valid width.");
+            }
+            int calculatedHeight = 4 * (PixelData.Count / (ImageTileForm == TileForm.GBA_4BPP ? 32 : 64));
+            if (bitmap.Height != calculatedHeight)
+            {
+                throw new ArgumentException($"Image height {bitmap.Height} does not match calculated height {calculatedHeight}.");
+            }
+
+            List<byte> pixelData = new();
+
+            for (int row = 0; row < bitmap.Height / 8 && pixelData.Count < PixelData.Count; row++)
+            {
+                for (int col = 0; col < bitmap.Width / 8 && pixelData.Count < PixelData.Count; col++)
+                {
+                    for (int ypix = 0; ypix < 8 && pixelData.Count < PixelData.Count; ypix++)
+                    {
+                        if (ImageTileForm == TileForm.GBA_4BPP)
+                        {
+                            for (int xpix = 0; xpix < 4 && pixelData.Count < PixelData.Count; xpix++)
+                            {
+                                int color1 = Helpers.ClosestColorIndex(Palette, bitmap.GetPixel((col * 8) + (xpix * 2), (row * 8) + ypix));
+                                int color2 = Helpers.ClosestColorIndex(Palette, bitmap.GetPixel((col * 8) + (xpix * 2) + 1, (row * 8) + ypix));
+
+                                pixelData.Add((byte)(color1 + (color2 << 4)));
+                            }
+                        }
+                        else
+                        {
+                            for (int xpix = 0; xpix < 8 && pixelData.Count < PixelData.Count; xpix++)
+                            {
+                                pixelData.Add((byte)Helpers.ClosestColorIndex(Palette, bitmap.GetPixel((col * 8) + xpix, (row * 8) + ypix)));
+                            }
+                        }
+                    }
+                }
+            }
+            PixelData = pixelData;
+            return bitmap.Width;
         }
     }
 }
