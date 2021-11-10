@@ -19,7 +19,7 @@ namespace HaruhiChokuretsuEditor
         public byte[] CompressedData { get; set; }
         public bool Shtxds { get; set; } = false;
 
-        private readonly static int[] VALID_WIDTHS = new int[] { 8, 16, 32, 64, 128, 256 };
+        private readonly static int[] VALID_WIDTHS = new int[] { 8, 16, 32, 64, 128, 256, 512 };
 
         public enum TileForm
         {
@@ -86,6 +86,36 @@ namespace HaruhiChokuretsuEditor
             PixelData = Data;
         }
 
+        // Hardcoding these until we figure out how the game knows what to do lol
+        public bool IsTexture()
+        {
+            return (Index < 0x19E || Index > 0x1A7)
+                && Index != 0x2C8 && Index != 0x2CA
+                && Index != 0x2CC && Index != 0x316
+                && Index != 0x318 && Index != 0x331
+                && Index != 0x370 && Index != 0x3A7
+                && Index != 0x3A9 && Index != 0x3AB
+                && Index != 0x3AF && Index != 0x3FE
+                && (Index < 0x41B || Index > 0x42C)
+                && (Index < 0x8B4 || Index > 0x8B7)
+                && Index != 0xB5C
+                && (Index < 0xB61 || Index > 0xB7C)
+                && Index != 0xB87
+                && (Index < 0xBA6 || Index > 0xBA8)
+                && Index != 0xBAE && Index != 0xBBA
+                && Index != 0xBBF
+                && (Index < 0xBC9 || Index > 0xC1B)
+                && (Index < 0xC70 || Index > 0xC78)
+                && (Index < 0xCA3 || Index > 0xCA8)
+                && (Index < 0xD02 || Index > 0xD9F)
+                && Index != 0xDF3
+                && (Index < 0xDFB || Index > 0xE08)
+                && (Index < 0xE0E || Index > 0xE10)
+                && (Index < 0xE17 || Index > 0xE25)
+                && (Index < 0xE2A || Index > 0xE41)
+                && Index != 0xE50;
+        }
+
         public byte[] GetBytes()
         {
             if (Shtxds)
@@ -114,11 +144,23 @@ namespace HaruhiChokuretsuEditor
 
         public Bitmap GetImage(int width = 256)
         {
+            if (IsTexture())
+            {
+                return GetTexture(width);
+            }
+            else
+            {
+                return GetTiles(width);
+            }
+        }
+
+        public Bitmap GetTiles(int width = 256)
+        {
             if (!VALID_WIDTHS.Contains(width))
             {
                 width = 256;
             }
-            int height = 4 * (PixelData.Count / (ImageTileForm == TileForm.GBA_4BPP ? 32 : 64));
+            int height = PixelData.Count / (width / (ImageTileForm == TileForm.GBA_4BPP ? 2 : 1));
             var bitmap = new Bitmap(width, height);
             int pixelIndex = 0;
             for (int row = 0; row < height / 8 && pixelIndex < PixelData.Count; row++)
@@ -151,6 +193,32 @@ namespace HaruhiChokuretsuEditor
                 }
             }
             return bitmap;
+        }
+
+        public Bitmap GetTexture(int width)
+        {
+            if (!VALID_WIDTHS.Contains(width))
+            {
+                width = 256;
+            }
+            if (PixelData.Count < width)
+            {
+                width = VALID_WIDTHS.Last(w => w < PixelData.Count);
+            }
+            int height = PixelData.Count / width;
+            int i = 0;
+
+            Bitmap bmp = new Bitmap(width, height);
+            for (int y = 0; y < height; y++)
+            {
+                for (int x = 0; x < width; x++)
+                {
+                    Color color = Palette[PixelData[i++]];
+                    bmp.SetPixel(x, y, color);
+                }
+            }
+
+            return bmp;
         }
 
         /// <summary>

@@ -92,7 +92,7 @@ namespace HaruhiChokuretsuEditor
             editStackPanel.Children.Clear();
             frontPointersStackPanel.Children.Clear();
             endPointersStackPanel.Children.Clear();
-            if (eventsListBox.SelectedIndex > 0)
+            if (eventsListBox.SelectedIndex >= 0)
             {
                 EventFile selectedFile = (EventFile)eventsListBox.SelectedItem;
                 for (int i = 0; i < selectedFile.DialogueLines.Count; i++)
