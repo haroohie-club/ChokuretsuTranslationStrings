@@ -100,7 +100,6 @@ namespace HaruhiChokuretsuEditor
                 && (Index < 0x8B4 || Index > 0x8B7)
                 && Index != 0xB5C
                 && (Index < 0xB61 || Index > 0xB7C)
-                && Index != 0xB87
                 && (Index < 0xBA6 || Index > 0xBA8)
                 && Index != 0xBAE && Index != 0xBBA
                 && Index != 0xBBF
@@ -112,7 +111,7 @@ namespace HaruhiChokuretsuEditor
                 && (Index < 0xDFB || Index > 0xE08)
                 && (Index < 0xE0E || Index > 0xE10)
                 && (Index < 0xE17 || Index > 0xE25)
-                && (Index < 0xE2A || Index > 0xE41)
+                && (Index < 0xE2A || Index > 0xE41) 
                 && Index != 0xE50;
         }
 
