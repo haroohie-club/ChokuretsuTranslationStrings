@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="0000 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうだわ、体育館の音響って使える
+のかしら？</value>
+  </data>
+  <data name="0001 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>カギがかかってたりしなきゃ、
+そっちを使うんだけど……</value>
+  </data>
+  <data name="0002 (547.ja) KYON (キョン)" xml:space="preserve">
+    <value>さっきから、いったい何をする
+つもりなんだ？</value>
+  </data>
+  <data name="0003 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん……これは、さっさと行って
+調べた方がいいわね</value>
+  </data>
+  <data name="0004 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>体育館へ急ぎましょ</value>
+  </data>
+  <data name="0005 (547.ja) KYON (キョン)" xml:space="preserve">
+    <value>何をする気か知らないが
+ＣＤラジカセならあるぞ</value>
+  </data>
+  <data name="0006 (547.ja) KYON (キョン)" xml:space="preserve">
+    <value>ほら、バーベキューの時に谷口が
+持ってきたやつ</value>
+  </data>
+  <data name="0007 (547.ja) KYON (キョン)" xml:space="preserve">
+    <value>返そうと思って、持ってきたんだ
+今は体育館に置いてある</value>
+  </data>
+  <data name="0008 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でかしたわキョン！
+たまには役に立つじゃない</value>
+  </data>
+  <data name="0009 (547.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だから、たまには余計だ</value>
+  </data>
+  <data name="0010 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これで大方の問題は解決したわ</value>
+  </data>
+  <data name="0012 (547.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あのう、涼宮さん……音響とかって
+何をするんでしょうか？</value>
+  </data>
+  <data name="0013 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん……これは、さっさと行って
+調べた方がいいわね</value>
+  </data>
+  <data name="0014 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>説明は後よ。体育館へ急ぎましょ</value>
+  </data>
+  <data name="0015 (547.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、音響ってＣＤラジカセとかで
+もいいんですか？</value>
+  </data>
+  <data name="0016 (547.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>だったら、体育館にありましたよ</value>
+  </data>
+  <data name="0017 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほんと？　みくるちゃん</value>
+  </data>
+  <data name="0018 (547.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい。谷口くんが持って来たのを
+返そうと思って</value>
+  </data>
+  <data name="0019 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ナイスよみくるちゃん！</value>
+  </data>
+  <data name="0020 (547.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい</value>
+  </data>
+  <data name="0021 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これで一番の問題は解決したわ</value>
+  </data>
+  <data name="0022 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これは、さっさと行って調べた方が
+いいみたいね</value>
+  </data>
+  <data name="0023 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こんなことなら、谷口が持ってきた
+ラジカセを持ってくるんだったわ</value>
+  </data>
+  <data name="0025 (547.ja) NAGATO (長門)" xml:space="preserve">
+    <value>ある</value>
+  </data>
+  <data name="0026 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え？</value>
+  </data>
+  <data name="0027 (547.ja) NAGATO (長門)" xml:space="preserve">
+    <value>ＣＤラジカセならある</value>
+  </data>
+  <data name="0028 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうなの？</value>
+  </data>
+  <data name="0029 (547.ja) NAGATO (長門)" xml:space="preserve">
+    <value>返すため、持ってきた</value>
+  </data>
+  <data name="0030 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でかしたわ、有希！</value>
+  </data>
+  <data name="0031 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これで一番の問題が解決したわ！</value>
+  </data>
+  <data name="0033 (547.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>これまでのお話からすると、何か
+音楽をかけたいのでしょうか？</value>
+  </data>
+  <data name="0034 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうなんだけど……うーん</value>
+  </data>
+  <data name="0035 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急いで行って、カギがかかってるか
+調べた方がいいわね</value>
+  </data>
+  <data name="0036 (547.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>その、音楽ですがＣＤラジカセなど
+では問題ないでしょうか？</value>
+  </data>
+  <data name="0037 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>別にそれでもいいけど</value>
+  </data>
+  <data name="0038 (547.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>でしたら、心当たりがあります</value>
+  </data>
+  <data name="0039 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほんと？</value>
+  </data>
+  <data name="0040 (547.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>バーベキューの時に、谷口さんが
+持ち込んだものがあったかと</value>
+  </data>
+  <data name="0041 (547.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あれを返却するために学校まで
+持ってきています</value>
+  </data>
+  <data name="0042 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それよっ！　丁度いいわ！</value>
+  </data>
+  <data name="0043 (547.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>よーっし、これで一番の問題が解決
+したわ。お手柄よ古泉くん</value>
+  </data>
+  <data name="0044 (547.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それは良かったです</value>
+  </data>
+</root>

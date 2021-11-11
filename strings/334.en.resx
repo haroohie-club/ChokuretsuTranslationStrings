@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="0000 (334.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門は、時々不思議なことをするな</value>
+  </data>
+  <data name="0001 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう？　キョンにとって不思議なだ
+けで普通の女の子の行動じゃないの</value>
+  </data>
+  <data name="0002 (334.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、朝比奈さんが立ちすくんだ
+ときに、おまじないをやったんだ</value>
+  </data>
+  <data name="0003 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あははっ、有希も女の子だから
+おまじないが好きなのよ</value>
+  </data>
+  <data name="0004 (334.ja) KYON (キョン)" xml:space="preserve">
+    <value>なにを言ったのか知らないが、すぐ
+に朝比奈さんが歩けたのは驚いたね</value>
+  </data>
+  <data name="0005 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>母性本能ね。お母さんが子供に
+痛いの痛いの飛んでいけーってね</value>
+  </data>
+  <data name="0006 (334.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、そういう類のおまじないか</value>
+  </data>
+  <data name="0007 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンシー使いじゃないんだから
+おまじないで安心させただけよ</value>
+  </data>
+  <data name="0008 (334.ja) KYON (キョン)" xml:space="preserve">
+    <value>なるほどな</value>
+  </data>
+  <data name="0009 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなことも知らないキョンにも
+おまじないを掛けて欲しいわ</value>
+  </data>
+  <data name="0010 (334.ja) KYON (キョン)" xml:space="preserve">
+    <value>どんなまじないを？</value>
+  </data>
+  <data name="0011 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>おりこうさんになるようにって</value>
+  </data>
+  <data name="0012 (334.ja) KYON (キョン)" xml:space="preserve">
+    <value>エンリョさせてもらっとく</value>
+  </data>
+  <data name="0013 (334.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんからおまじないをして
+貰ったんですよ</value>
+  </data>
+  <data name="0014 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>おまじないってどんな？</value>
+  </data>
+  <data name="0015 (334.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>肝試しの時、怖くて足が震えて
+動けなくなってたんですけど、</value>
+  </data>
+  <data name="0016 (334.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうしたら、長門さんが大丈夫って
+何かつぶやいたら、動けたんです！</value>
+  </data>
+  <data name="0017 (334.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>よくわかりませんけど、すごい
+おまじないでした</value>
+  </data>
+  <data name="0018 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん、それはみくるちゃんの
+信じやすさを利用した暗示ね</value>
+  </data>
+  <data name="0019 (334.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっ、そうなんですか？</value>
+  </data>
+  <data name="0020 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>おまじないってそういうものよ</value>
+  </data>
+  <data name="0021 (334.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>暗示……かなぁ？</value>
+  </data>
+  <data name="0022 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>効いたんだからいいじゃない
+おまじないでも暗示でも</value>
+  </data>
+  <data name="0023 (334.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうですね。助かりました</value>
+  </data>
+  <data name="0024 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希に感謝ね。動けないほど怖がる
+なんてひとりで行かせて悪かったわ</value>
+  </data>
+  <data name="0025 (334.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、途中からひとりじゃなかった
+から平気ですよ</value>
+  </data>
+  <data name="0026 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、それって肝試しのルール違反
+じゃないかしら？　みくるちゃん？</value>
+  </data>
+  <data name="0027 (334.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ひゃうっ、す、すみませーーんっ！</value>
+  </data>
+  <data name="0028 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、もういいわよ。あたしも
+悪かったんだし</value>
+  </data>
+  <data name="0029 (334.ja) NAGATO (長門)" xml:space="preserve">
+    <value>この世界に伝わる“おまじない”の
+多くは、プラシーボ効果を利用した</value>
+  </data>
+  <data name="0030 (334.ja) NAGATO (長門)" xml:space="preserve">
+    <value>心理操作、もしくは自然現象の
+エネルギーを転用したもの</value>
+  </data>
+  <data name="0031 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。でも、中にはそうじゃない</value>
+  </data>
+  <data name="0032 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほんものの“おまじない”も存在
+すると思ったことはない？</value>
+  </data>
+  <data name="0033 (334.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0034 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたし、思うのよ</value>
+  </data>
+  <data name="0035 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そりゃほとんどはインチキやイカサ
+マかもしれないけど、もしかしたら</value>
+  </data>
+  <data name="0036 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その中にひとつくらいは本物が
+混じってるかも、って</value>
+  </data>
+  <data name="0037 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それなのに、他のインチキと一緒だ
+と決めつけて検証もしないなんて</value>
+  </data>
+  <data name="0038 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>馬鹿げてると思うわ！</value>
+  </data>
+  <data name="0039 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だからあたしは、みんながデタラメ
+だっていうような怪奇現象でも</value>
+  </data>
+  <data name="0040 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>調べて調べて調べまくってやるの！</value>
+  </data>
+  <data name="0041 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……って、興奮しちゃったわ
+さあ有希、先を急ぎましょう</value>
+  </data>
+  <data name="0042 (334.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……了解</value>
+  </data>
+  <data name="0043 (334.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ああ、そういえば――</value>
+  </data>
+  <data name="0044 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　なにかしら？</value>
+  </data>
+  <data name="0045 (334.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0046 (334.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……いえ、すみません。他愛もない
+話ですので、後でまたゆっくりと</value>
+  </data>
+  <data name="0047 (334.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう？</value>
+  </data>
+  <data name="0048 (334.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……長門さんの能力に関わる話は
+危険ですね。止めておきましょう</value>
+  </data>
+</root>

@@ -1,13 +1,50 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
+using System.Drawing.Imaging;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Media.Imaging;
 
 namespace HaruhiChokuretsuEditor
 {
     public static class Helpers
     {
+        public static BitmapImage GetBitmapImageFromBitmap(Bitmap bitmap)
+        {
+            BitmapImage bitmapImage = new BitmapImage();
+            using (MemoryStream memoryStream = new MemoryStream())
+            {
+                bitmap.Save(memoryStream, ImageFormat.Png);
+                memoryStream.Position = 0;
+                bitmapImage.BeginInit();
+                bitmapImage.StreamSource = memoryStream;
+                bitmapImage.CacheOption = BitmapCacheOption.OnLoad;
+                bitmapImage.EndInit();
+            }
+            return bitmapImage;
+        }
+
+        // redmean color distance formula with alpha term
+        public static double ColorDistance(Color color1, Color color2)
+        {
+            double redmean = (color1.R + color2.R) / 2.0;
+
+            return Math.Sqrt((2 + redmean / 256) * Math.Pow(color1.R - color2.R, 2)
+                + 4 * Math.Pow(color1.G - color2.G, 2)
+                + (2 + (255 - redmean) / 256) * Math.Pow(color1.B - color2.B, 2)
+                + Math.Pow(color1.A - color2.A, 2));
+        }
+
+        public static int ClosestColorIndex(List<Color> colors, Color color)
+        {
+            var colorDistances = colors.Select(c => ColorDistance(c, color)).ToList();
+
+            return colorDistances.IndexOf(colorDistances.Min());
+        }
+
         public static byte[] CompressData(byte[] decompressedData)
         {
             // nonsense hack to deal with a rare edge case where the last byte of a file could get dropped

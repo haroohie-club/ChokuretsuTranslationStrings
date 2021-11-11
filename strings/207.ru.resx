@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="0000 (207.ja) KYON (キョン)" xml:space="preserve">
+    <value>そういえば、古泉が言っていたな</value>
+  </data>
+  <data name="0001 (207.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒには、小さなことにこだわっ
+て欲しくないとさ</value>
+  </data>
+  <data name="0002 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>小さなこと？　どういう意味？</value>
+  </data>
+  <data name="0003 (207.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉のハルヒ論をまんま伝えるわけ
+にはいかないが……</value>
+  </data>
+  <data name="0004 (207.ja) KYON (キョン)" xml:space="preserve">
+    <value>つまり、だ</value>
+  </data>
+  <data name="0005 (207.ja) KYON (キョン)" xml:space="preserve">
+    <value>団長として、俺たちのリーダーと
+して、常に大局を見ていて欲しい</value>
+  </data>
+  <data name="0006 (207.ja) KYON (キョン)" xml:space="preserve">
+    <value>つまり、そういうことじゃないか？</value>
+  </data>
+  <data name="0007 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……あたし、小さなことにこだわっ
+たりした覚え、あんまり無いけど</value>
+  </data>
+  <data name="0008 (207.ja) KYON (キョン)" xml:space="preserve">
+    <value>例えばの話だ、例えばの</value>
+  </data>
+  <data name="0009 (207.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>些細なことで、その何でも実現する
+反則な力を使うなって話なんだが</value>
+  </data>
+  <data name="0010 (207.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>物は言い様だ。そうだろう古泉？</value>
+  </data>
+  <data name="0011 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>わかるような、わからないような話
+ね</value>
+  </data>
+  <data name="0012 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それって、でっかく構えてろって
+コト？</value>
+  </data>
+  <data name="0013 (207.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いやそこまで抽象的なことでも
+ないんだが……</value>
+  </data>
+  <data name="0014 (207.ja) KYON (キョン)" xml:space="preserve">
+    <value>ま、まあ、似たようなモンだ</value>
+  </data>
+  <data name="0015 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん……ま、元々あたしは
+細かいことにこだわらない性格だし</value>
+  </data>
+  <data name="0016 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今後も、そのように心がけるとする
+わ。団員を率いるリーダーとして</value>
+  </data>
+  <data name="0017 (207.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……いまいち伝わってないような
+気もするが、まあいいだろう</value>
+  </data>
+  <data name="0018 (207.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんが言ってました。涼宮さん
+は、大きな考え方の持ち主だって</value>
+  </data>
+  <data name="0019 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしが、大きな考え方の持ち主？</value>
+  </data>
+  <data name="0020 (207.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>些細なことにはこだわらない、組織
+のリーダーにふさわしい性格だって</value>
+  </data>
+  <data name="0021 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、そうね。確かに細かい
+ことには、こだわらないけど……</value>
+  </data>
+  <data name="0022 (207.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それって、すごく大切なことらしい
+です。団員がついていくために</value>
+  </data>
+  <data name="0023 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんか、よく意味がわからない
+けど……</value>
+  </data>
+  <data name="0024 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>トップに立つ者は夢を語れ、とか
+そういう話なのかしら？</value>
+  </data>
+  <data name="0025 (207.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あたしにも、その辺のことは
+分かりません</value>
+  </data>
+  <data name="0026 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふぅん……まあいいわ。まんざら
+的外れな意見でもないしね</value>
+  </data>
+  <data name="0027 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>とにかくＳＯＳ団団長として
+どっしり構えてろってことね</value>
+  </data>
+  <data name="0028 (207.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>たぶん、そうだと思います</value>
+  </data>
+  <data name="0029 (207.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#P06……小さなことにまで、その力を
+発揮したりしないためにも</value>
+  </data>
+  <data name="0030 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、今、何か言った？</value>
+  </data>
+  <data name="0031 (207.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>い、いえっ、なにもっ</value>
+  </data>
+  <data name="0032 (207.ja) NAGATO (長門)" xml:space="preserve">
+    <value>組織のリーダーは些末にこだわる
+べきではない</value>
+  </data>
+  <data name="0033 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>な、なに？　どうしたの急に？</value>
+  </data>
+  <data name="0034 (207.ja) NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹が言ってた</value>
+  </data>
+  <data name="0035 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんが？</value>
+  </data>
+  <data name="0036 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、あたし些末にこだわった
+りしてないわよ？</value>
+  </data>
+  <data name="0037 (207.ja) NAGATO (長門)" xml:space="preserve">
+    <value>してない</value>
+  </data>
+  <data name="0038 (207.ja) NAGATO (長門)" xml:space="preserve">
+    <value>だからリーダーにふさわしい</value>
+  </data>
+  <data name="0039 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>つまり、古泉くんが、あたしを
+褒めてたってこと？</value>
+  </data>
+  <data name="0040 (207.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう解釈できる</value>
+  </data>
+  <data name="0041 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんだ、だったらそう素直に
+言ってくれればいいのに</value>
+  </data>
+  <data name="0042 (207.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0043 (207.ja) NAGATO (長門)" xml:space="preserve">
+    <value>#P06些末な実現化までもが連鎖発生する
+と、あらゆる事象は崩壊する</value>
+  </data>
+  <data name="0044 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え、なに？　何が崩壊する？</value>
+  </data>
+  <data name="0045 (207.ja) NAGATO (長門)" xml:space="preserve">
+    <value>独り言</value>
+  </data>
+  <data name="0046 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、こら有希！　あたしを置いて
+先に行こうとしないの！</value>
+  </data>
+  <data name="0047 (207.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>常々、思っていたことがあります</value>
+  </data>
+  <data name="0048 (207.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんは、些細なことにはこだわ
+らない、大局観の持ち主ですね</value>
+  </data>
+  <data name="0049 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……どうしたの、唐突に？</value>
+  </data>
+  <data name="0050 (207.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、ＳＯＳ団も今や一つの組織
+ですから、色々考えてしまうのです</value>
+  </data>
+  <data name="0051 (207.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>もし涼宮さんが、些細なことにこだ
+わる方なら、息苦しくなるでしょう</value>
+  </data>
+  <data name="0052 (207.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>しかし、そうではなく、涼宮さんの
+大らかな性格が、ＳＯＳ団全体を</value>
+  </data>
+  <data name="0053 (207.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>うまくまとめているのではないかと</value>
+  </data>
+  <data name="0054 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、確かに細かいことには目くじ
+らを立てたりしない方だけど……</value>
+  </data>
+  <data name="0055 (207.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それが大事なんです、組織の頂点に
+立つ者にとって必須のスキルですよ</value>
+  </data>
+  <data name="0056 (207.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ぜひ、これからも大きく、大胆な
+発想で僕たちを率いて下さいね</value>
+  </data>
+  <data name="0057 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんだかよくわからないけど
+どっしり構えてろってことでしょ</value>
+  </data>
+  <data name="0058 (207.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、そういうことです</value>
+  </data>
+  <data name="0059 (207.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>#P06……どうか、小さなことにまで
+その力を発揮なさることの無い様に</value>
+  </data>
+  <data name="0060 (207.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何か言った？</value>
+  </data>
+  <data name="0061 (207.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、なにも</value>
+  </data>
+</root>

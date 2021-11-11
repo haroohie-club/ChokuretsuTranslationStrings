@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="0000 (283.ja) KYON (キョン)" xml:space="preserve">
+    <value>そう言えば、長門が言ってたんだ</value>
+  </data>
+  <data name="0001 (283.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺たちが何か困ったことになったら
+協力してくれるって</value>
+  </data>
+  <data name="0002 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何言ってんの？</value>
+  </data>
+  <data name="0003 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなの当たり前じゃない
+同じＳＯＳ団の一員なんだから</value>
+  </data>
+  <data name="0004 (283.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そりゃ、お前にとってはそうだろう</value>
+  </data>
+  <data name="0005 (283.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だが、長門の一言は、俺にはとても
+貴重なことのように思えたんだ</value>
+  </data>
+  <data name="0006 (283.ja) KYON (キョン)" xml:space="preserve">
+    <value>しかし、長門は元々ＳＯＳ団じゃ
+なくて、文芸部員じゃないか</value>
+  </data>
+  <data name="0007 (283.ja) KYON (キョン)" xml:space="preserve">
+    <value>それをお前が勝手に引き込んで
+部室も勝手に奪って</value>
+  </data>
+  <data name="0008 (283.ja) KYON (キョン)" xml:space="preserve">
+    <value>本来なら恨んでもおかしくない関係
+だぞ、俺たちと長門は</value>
+  </data>
+  <data name="0009 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに言ってるの？　キョン</value>
+  </data>
+  <data name="0010 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希はＳＯＳ団に入っていい、部室
+も使っていいって、言ったじゃない</value>
+  </data>
+  <data name="0011 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あの場にキョンもいたんだから
+忘れてないでしょ？</value>
+  </data>
+  <data name="0012 (283.ja) KYON (キョン)" xml:space="preserve">
+    <value>それはお前の剣幕に押されて、仕方
+なく言ったのかも</value>
+  </data>
+  <data name="0013 (283.ja) KYON (キョン)" xml:space="preserve">
+    <value>しれないじゃないか</value>
+  </data>
+  <data name="0014 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>嫌だったら嫌って言うわよ、普通</value>
+  </data>
+  <data name="0015 (283.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そりゃお前なら嫌なことをしぶしぶ
+承諾なんて、死んでもしないだろう</value>
+  </data>
+  <data name="0016 (283.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だが、世界中の人間すべてがお前と
+一緒だと思うなよ</value>
+  </data>
+  <data name="0017 (283.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうやって簡単に納得できるお前が
+うらやましいよ</value>
+  </data>
+  <data name="0018 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、褒められてる気がしないわ</value>
+  </data>
+  <data name="0019 (283.ja) KYON (キョン)" xml:space="preserve">
+    <value>そりゃそうだ、褒めてないからな</value>
+  </data>
+  <data name="0020 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……ほら、行くわよっ！</value>
+  </data>
+  <data name="0021 (283.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒは立ち止まっていたことを
+思い出して、ずかずかと歩く</value>
+  </data>
+  <data name="0022 (283.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その背中を見て、俺はこう思った</value>
+  </data>
+  <data name="0023 (283.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だがな、ハルヒ。最初はどうか知ら
+ないが、今の長門はすすんで俺達と</value>
+  </data>
+  <data name="0024 (283.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一緒にいるように見えるぜ</value>
+  </data>
+  <data name="0025 (283.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……結構、長門なりに楽しんでいる
+のかもな</value>
+  </data>
+  <data name="0026 (283.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、涼宮さん
+長門さんのことなんですけど……</value>
+  </data>
+  <data name="0027 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希がどうかした？</value>
+  </data>
+  <data name="0028 (283.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>いえ、長門さんって、文芸部の部員
+なんですよね？</value>
+  </data>
+  <data name="0029 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、立場上はそうね</value>
+  </data>
+  <data name="0030 (283.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それじゃあ、ほんとうはＳＯＳ団の
+団員じゃない、んですか……？</value>
+  </data>
+  <data name="0031 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何を今更言ってるのよ。有希はＳＯ
+Ｓ団の一員に決まってるじゃない</value>
+  </data>
+  <data name="0032 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>確かに書類上は文芸部員かもしれな
+いけれど――</value>
+  </data>
+  <data name="0033 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これだけの実績を作ってるんだから
+もはや疑う余地もないわ</value>
+  </data>
+  <data name="0034 (283.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですか……</value>
+  </data>
+  <data name="0035 (283.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……誰</value>
+  </data>
+  <data name="0036 (283.ja) NAGATO (長門)" xml:space="preserve">
+    <value>涼宮ハルヒに規定外の干渉をしよう
+とするものは――排除する</value>
+  </data>
+  <data name="0037 (283.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……！</value>
+  </data>
+  <data name="0038 (283.ja) NAGATO (長門)" xml:space="preserve">
+    <value>涼宮ハルヒを観察するためには
+イレギュラーな介入は望ましくない</value>
+  </data>
+  <data name="0039 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、立ち止まってどうしたの？</value>
+  </data>
+  <data name="0040 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんで消火器なんか持ってるわけ？</value>
+  </data>
+  <data name="0041 (283.ja) NAGATO (長門)" xml:space="preserve">
+    <value>襲いかかってきたから、おとなしく
+させた</value>
+  </data>
+  <data name="0042 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ぷ、なにそれ有希、もしかして
+ギャグのつもり？</value>
+  </data>
+  <data name="0043 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>珍しいわ、有希がギャグを言うなん
+て……あとでみんなに言わなきゃ</value>
+  </data>
+  <data name="0044 (283.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0045 (283.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんは不思議な方ですよね
+いつも無口で傍観者のような人だと</value>
+  </data>
+  <data name="0046 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ古泉くん、いきなり？</value>
+  </data>
+  <data name="0047 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうねえ、でも、有希はそれでいい
+のよ。良く喋る有希なんて、変だわ</value>
+  </data>
+  <data name="0048 (283.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど、それは……そうかも
+しれませんね</value>
+  </data>
+  <data name="0049 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ、考えるだけで笑える
+わよ、でしょ？</value>
+  </data>
+  <data name="0050 (283.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>#P06結局、長門さんの性格も、あなたが
+望んだ結果なのでしょうか……？</value>
+  </data>
+  <data name="0051 (283.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん、古泉くん、なんか言った？</value>
+  </data>
+  <data name="0052 (283.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえいえ、ただの独り言です</value>
+  </data>
+</root>

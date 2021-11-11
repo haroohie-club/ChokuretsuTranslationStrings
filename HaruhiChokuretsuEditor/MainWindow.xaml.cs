@@ -27,6 +27,8 @@ namespace HaruhiChokuretsuEditor
         private FileSystemFile<GraphicsFile> _grpFile;
         private FileSystemFile<DataFile> _datFile;
 
+        private int _currentImageWidth = 256;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -91,7 +93,7 @@ namespace HaruhiChokuretsuEditor
             editStackPanel.Children.Clear();
             frontPointersStackPanel.Children.Clear();
             endPointersStackPanel.Children.Clear();
-            if (eventsListBox.SelectedIndex > 0)
+            if (eventsListBox.SelectedIndex >= 0)
             {
                 EventFile selectedFile = (EventFile)eventsListBox.SelectedItem;
                 for (int i = 0; i < selectedFile.DialogueLines.Count; i++)
@@ -218,8 +220,53 @@ namespace HaruhiChokuretsuEditor
             if (openFileDialog.ShowDialog() == true)
             {
                 _grpFile = FileSystemFile<GraphicsFile>.FromFile(openFileDialog.FileName);
+                _grpFile.Files.First(f => f.Index == 0xE50).InitializeFontFile(); // initialize the font file
+                graphicsStatsStackPanel.Children.Clear();
                 graphicsListBox.ItemsSource = _grpFile.Files;
                 graphicsListBox.Items.Refresh();
+
+                // Gather stats on the header values for research purposes
+                Dictionary<int, Dictionary<ushort, int>> statsDictionaries = new();
+                for (int i = 0x06; i < 0x14; i += 2)
+                {
+                    statsDictionaries.Add(i, new Dictionary<ushort, int>());
+                }
+
+                foreach (GraphicsFile file in _grpFile.Files)
+                {
+                    if (file.Data is null || Encoding.ASCII.GetString(file.Data.Take(6).ToArray()) != "SHTXDS")
+                    {
+                        continue;
+                    }
+
+                    for (int i = 0x06; i < 0x14; i += 2)
+                    {
+                        ushort value = BitConverter.ToUInt16(file.Data.Skip(i).Take(2).ToArray());
+                        if (statsDictionaries[i].ContainsKey(value))
+                        {
+                            statsDictionaries[i][value]++;
+                        }
+                        else
+                        {
+                            statsDictionaries[i].Add(value, 1);
+                        }
+                    }
+                }
+
+                foreach (int offset in statsDictionaries.Keys)
+                {
+                    graphicsStatsStackPanel.Children.Add(new TextBlock { Text = $"0x{offset:X2}", FontSize = 16 });
+
+                    foreach (ushort value in statsDictionaries[offset].Keys)
+                    {
+                        StackPanel statStackPanel = new StackPanel { Orientation = Orientation.Horizontal };
+                        statStackPanel.Children.Add(new TextBlock { Text = string.Concat(BitConverter.GetBytes(value).Select(b => $"{b:X2} ")) });
+                        statStackPanel.Children.Add(new TextBlock { Text = $"{statsDictionaries[offset][value]}" });
+                        graphicsStatsStackPanel.Children.Add(statStackPanel);
+                    }
+
+                    graphicsStatsStackPanel.Children.Add(new Separator());
+                }
             }
         }
 
@@ -264,14 +311,72 @@ namespace HaruhiChokuretsuEditor
             }
         }
 
+        private void ExportGraphicsImageFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (graphicsListBox.SelectedIndex >= 0)
+            {
+                SaveFileDialog saveFileDialog = new()
+                {
+                    Filter = "PNG file|*.png"
+                };
+                if (saveFileDialog.ShowDialog() == true)
+                {
+                    GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
+                    System.Drawing.Bitmap bitmap = selectedFile.GetImage(_currentImageWidth);
+                    bitmap.Save(saveFileDialog.FileName, System.Drawing.Imaging.ImageFormat.Png);
+                }
+            }
+        }
+
+        private void ImportGraphicsImageFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (graphicsListBox.SelectedIndex >= 0 && (((GraphicsFile)graphicsListBox.SelectedItem).PixelData?.Count ?? 0) > 0)
+            {
+                OpenFileDialog openFileDialog = new()
+                {
+                    Filter = "PNG file|*.png"
+                };
+                if (openFileDialog.ShowDialog() == true)
+                {
+                    GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
+                    int width = selectedFile.SetImage(openFileDialog.FileName);
+                    tilesEditStackPanel.Children.RemoveAt(tilesEditStackPanel.Children.Count - 1);
+                    tilesEditStackPanel.Children.Add(new Image { Source = Helpers.GetBitmapImageFromBitmap(selectedFile.GetImage(width)), MaxWidth = 256 });
+                    _currentImageWidth = width;
+                }
+            }
+        }
+
         private void GraphicsListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            graphicsEditStackPanel.Children.Clear();
+            tilesEditStackPanel.Children.Clear();
             if (graphicsListBox.SelectedIndex >= 0)
             {
                 GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
-                graphicsEditStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.Data.Count} bytes" });
+                tilesEditStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.Data?.Count ?? 0} bytes" });
+                tilesEditStackPanel.Children.Add(new TextBlock { Text = $"{_grpFile.SecondHeaderNumbers[graphicsListBox.SelectedIndex]:X8}" });
+                if (selectedFile.PixelData is not null)
+                {
+                    ShtxdsWidthBox graphicsWidthBox = new ShtxdsWidthBox { Shtxds = selectedFile, Text = "256" };
+                    graphicsWidthBox.TextChanged += GraphicsWidthBox_TextChanged;
+                    tilesEditStackPanel.Children.Add(graphicsWidthBox);
+                    tilesEditStackPanel.Children.Add(new Image { Source = Helpers.GetBitmapImageFromBitmap(selectedFile.GetImage()), MaxWidth = 256 });
+                    _currentImageWidth = 256;
+                }
             }
+        }
+
+        private void GraphicsWidthBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            tilesEditStackPanel.Children.RemoveAt(tilesEditStackPanel.Children.Count - 1);
+            ShtxdsWidthBox widthBox = (ShtxdsWidthBox)sender;
+            bool successfulParse = int.TryParse(widthBox.Text, out int width);
+            if (!successfulParse)
+            {
+                width = 256;
+            }
+            tilesEditStackPanel.Children.Add(new Image { Source = Helpers.GetBitmapImageFromBitmap(widthBox.Shtxds.GetImage(width)), MaxWidth = 256 });
+            _currentImageWidth = width;
         }
 
         private void OpenDataFileButton_Click(object sender, RoutedEventArgs e)

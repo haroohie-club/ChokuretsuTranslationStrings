@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="0001 (354.ja) KYON (キョン)" xml:space="preserve">
+    <value>Hey</value>
+  </data>
+  <data name="0003 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>What greeted me after I opened the door, was that meaninglessly refreshing smile.</value>
+  </data>
+  <data name="0002 (354.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>Hey, how's it going?</value>
+  </data>
+  <data name="0004 (354.ja) KYON (キョン)" xml:space="preserve">
+    <value>Oh, it's just you?</value>
+  </data>
+  <data name="0005 (354.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>Indeed. No one was here when I arrived.</value>
+  </data>
+  <data name="0000 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>That was, after school one day.</value>
+  </data>
+  <data name="0006 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>I can't just turn my heel back.
+I sat down in a convenient position.</value>
+  </data>
+  <data name="0010 (354.ja) KYON (キョン)" xml:space="preserve">
+    <value>Huh? Chess</value>
+  </data>
+  <data name="0011 (354.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>You know the rules?</value>
+  </data>
+  <data name="0013 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>And by the way, I'll say this.
+I'm not afraid of any plans or appointments.</value>
+  </data>
+  <data name="0015 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>I said that and moved to the seat in front of Koizumi.</value>
+  </data>
+  <data name="0016 (354.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>Are you sure?
+Let's take the first move</value>
+  </data>
+  <data name="0017 (354.ja) KYON (キョン)" xml:space="preserve">
+    <value>Is it okay? Koizumi
+Give me that.</value>
+  </data>
+  <data name="0020 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>I moved the first pawn.</value>
+  </data>
+  <data name="0022 (354.ja) KYON (キョン)" xml:space="preserve">
+    <value>...... Ohh, sure</value>
+  </data>
+  <data name="0009 (354.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>By the way, if you like chess,
+would you like to have a partner?</value>
+  </data>
+  <data name="0012 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>How do other members still appear?
+I don't know at all.</value>
+  </data>
+  <data name="0014 (354.ja) KYON (キョン)" xml:space="preserve">
+    <value>...... Oh, okay.
+I'll join you, then.</value>
+  </data>
+  <data name="0018 (354.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>Don't worry about it.
+I've also improved my skills since then.</value>
+  </data>
+  <data name="0019 (354.ja) KYON (キョン)" xml:space="preserve">
+    <value>...... then don't hesitate</value>
+  </data>
+  <data name="0021 (354.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>This reminds me of the training camp.</value>
+  </data>
+  <data name="0023 (354.ja) KYON (キョン)" xml:space="preserve">
+    <value>I put it on something and played an important role.
+Because it's a substitute</value>
+  </data>
+  <data name="0025 (354.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>It was a pretty thrilling night.</value>
+  </data>
+  <data name="0026 (354.ja) KYON (キョン)" xml:space="preserve">
+    <value>Thrilling. I'm more of a doom and gloom kind of person.
+I think I'd be more comfortable with that.</value>
+  </data>
+  <data name="0028 (354.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>If you're thinking about the past,
+I think a little beautification is necessary.</value>
+  </data>
+  <data name="0027 (354.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>However, we're spending our days safely this way.</value>
+  </data>
+  <data name="0008 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>If you look at Koizumi, you'll see he is starting to line up chess pieces.</value>
+  </data>
+  <data name="0030 (354.ja) KYON (キョン)" xml:space="preserve">
+    <value>All right, thank you.</value>
+  </data>
+  <data name="0032 (354.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>Well, you did it</value>
+  </data>
+  <data name="0034 (354.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>I'm going to get serious from here.</value>
+  </data>
+  <data name="0036 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>No one has come to the club room yet.</value>
+  </data>
+  <data name="0037 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Before I knew it, I was passionate about playing chess with Koizumi.</value>
+  </data>
+  <data name="0039 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Well, I might have improved my skills a little bit.
+Maybe.</value>
+  </data>
+  <data name="0041 (354.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>What did you say?</value>
+  </data>
+  <data name="0043 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>This is how casual after school goes by.</value>
+  </data>
+  <data name="0029 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>How much to beautify that training camp
+I wonder if it will be a pleasant memory</value>
+  </data>
+  <data name="0031 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>My knight knocks out one of Koizumi's pawns from the top of the board.</value>
+  </data>
+  <data name="0033 (354.ja) KYON (キョン)" xml:space="preserve">
+    <value>Where did you raise your arm, where?</value>
+  </data>
+  <data name="0035 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>You say things that have no reliability.
+Koizumi also proceeded with Knight.</value>
+  </data>
+  <data name="0038 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>After all, Koizumi is weak and has some tension, but...…</value>
+  </data>
+  <data name="0040 (354.ja) KYON (キョン)" xml:space="preserve">
+    <value>...... Sometimes this kind of thing isn't so bad.</value>
+  </data>
+  <data name="0042 (354.ja) KYON (キョン)" xml:space="preserve">
+    <value>It's nothing. See, check it out!</value>
+  </data>
+  <data name="0024 (354.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>However, the memories are fun.
+It’s just a memory that I’m just tired of.</value>
+  </data>
+</root>

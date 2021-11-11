@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="0000 (084.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんは、時々自信がなさそう
+にすることがあるよな</value>
+  </data>
+  <data name="0001 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんはそれでいいのよ</value>
+  </data>
+  <data name="0002 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>自信満々なみくるちゃんって……
+それはそれで可愛いけどね</value>
+  </data>
+  <data name="0003 (084.ja) KYON (キョン)" xml:space="preserve">
+    <value>自信満々な朝比奈さんは、ちょっと
+想像しにくいな</value>
+  </data>
+  <data name="0004 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっぴり自信がなさそうで、少し
+ドジっ娘なのがチャーミングなのよ</value>
+  </data>
+  <data name="0005 (084.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、たしかにハルヒの言う通りだ</value>
+  </data>
+  <data name="0006 (084.ja) KYON (キョン)" xml:space="preserve">
+    <value>しかしな、その理屈で言うとハルヒ
+はチャーミングじゃないことになる</value>
+  </data>
+  <data name="0007 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしの魅力はあたしにしか出せな
+い独自のものなのよっ！</value>
+  </data>
+  <data name="0008 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんはあの子なりの魅力で
+全然別物なのよっ！</value>
+  </data>
+  <data name="0009 (084.ja) KYON (キョン)" xml:space="preserve">
+    <value>わかったわかった、おまえには
+おまえの魅力とやらがあるわけだ</value>
+  </data>
+  <data name="0010 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしの魅力がわからないのは
+キョンに見る目がない証拠ねっ！</value>
+  </data>
+  <data name="0011 (084.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺に見る目があったら、最初から
+近寄らなかっただろうよ</value>
+  </data>
+  <data name="0012 (084.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんって人に教えるのが上手
+ですよね</value>
+  </data>
+  <data name="0013 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え？　チェスのことかしら？</value>
+  </data>
+  <data name="0014 (084.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうです。チェスってすごく難しい
+ってイメージだったんですけど</value>
+  </data>
+  <data name="0015 (084.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんのおかげで、初心者でも
+自信喪失せずにやれましたから</value>
+  </data>
+  <data name="0016 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>複雑なゲームだから、全部一度に
+覚えようとしても無理なのよ</value>
+  </data>
+  <data name="0017 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>最初はゲームを楽しむ方法だけ
+わかればいいってことよ</value>
+  </data>
+  <data name="0018 (084.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい、楽しかったです</value>
+  </data>
+  <data name="0019 (084.ja) NAGATO (長門)" xml:space="preserve">
+    <value>過去に自信喪失の経験は</value>
+  </data>
+  <data name="0020 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたし？　そんなものないわよ</value>
+  </data>
+  <data name="0021 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんやキョンは、結構
+ありそうよね</value>
+  </data>
+  <data name="0022 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>揺るぎないものを持っている
+人間には自信喪失はないのよ！</value>
+  </data>
+  <data name="0023 (084.ja) NAGATO (長門)" xml:space="preserve">
+    <value>揺るぎないもの？</value>
+  </data>
+  <data name="0024 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは、人それぞれ違うでしょ
+それより、早く行きましょ！</value>
+  </data>
+  <data name="0025 (084.ja) NAGATO (長門)" xml:space="preserve">
+    <value>わかった</value>
+  </data>
+  <data name="0026 (084.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>何事も、初手が大切なのかもしれま
+せんね</value>
+  </data>
+  <data name="0027 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何のことかしら？</value>
+  </data>
+  <data name="0028 (084.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんが行った、朝比奈さんへの
+チェス指導のことですよ</value>
+  </data>
+  <data name="0029 (084.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんは朝比奈さんを誉めて
+誘導なさっていました</value>
+  </data>
+  <data name="0030 (084.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、あれねぇ。ほら、苦手意識を
+持たせちゃったら伸びないもの</value>
+  </data>
+  <data name="0031 (084.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>早い段階で自信を喪失してしまい
+ますからね</value>
+  </data>
+  <data name="0032 (084.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>しまったな。僕も初心者の時に
+涼宮さんから習うべきでした</value>
+  </data>
+</root>

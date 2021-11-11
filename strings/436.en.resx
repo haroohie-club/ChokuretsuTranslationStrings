@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="0000 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>下見もすんだし</value>
+  </data>
+  <data name="0001 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さあっ！　バーベキューセットを
+借りにいくわよっ！</value>
+  </data>
+  <data name="0002 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>空き地の検分が終わった団長殿は
+そう言い放って立ち上がったのだが</value>
+  </data>
+  <data name="0003 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>借りに行くって、あてがあるのか？</value>
+  </data>
+  <data name="0004 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにいってんのよ、あてがなければ
+バーベキューなんて賛成しないわよ</value>
+  </data>
+  <data name="0005 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>他のヤツならいざ知らず、ハルヒに
+限っては、かなり疑わしいね</value>
+  </data>
+  <data name="0006 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>で、誰に借りるんだ？</value>
+  </data>
+  <data name="0007 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アウトドア同好会に借りるのよ！</value>
+  </data>
+  <data name="0008 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そういえば先ほどアウトドア同好会
+のメンバーを見かけましたね</value>
+  </data>
+  <data name="0009 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>目ざといな</value>
+  </data>
+  <data name="0010 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんな同好会があることすら
+知らなかった</value>
+  </data>
+  <data name="0011 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>部員がいるのなら話は早いわね
+さっそく借りにいくわよ</value>
+  </data>
+  <data name="0012 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ちょっと待て、ハルヒにうろちょろ
+されるのは、まずいんじゃないか？</value>
+  </data>
+  <data name="0013 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>余計なことに首を突っ込んで事態を
+悪化させられたらかなわん</value>
+  </data>
+  <data name="0016 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、お前は動かなくていい</value>
+  </data>
+  <data name="0017 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺が借りてくるから、ここで
+留守番でもしているといい</value>
+  </data>
+  <data name="0018 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、ちょっとアンタ、熱でも
+あるんじゃないの？</value>
+  </data>
+  <data name="0019 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>熱なんかないって。俺もたまには
+優しい気持ちになることもある</value>
+  </data>
+  <data name="0020 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はあ！？</value>
+  </data>
+  <data name="0021 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒは大げさに驚きのリアク
+ションを取って見せた</value>
+  </data>
+  <data name="0022 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その拍子に、どこにしまっていた
+のか、ハルヒのリボンが落ちた</value>
+  </data>
+  <data name="0023 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>そこまで驚かなくてもいいだろうが</value>
+  </data>
+  <data name="0024 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>呆けているハルヒのリボンを拾った
+が、どうしたものやら</value>
+  </data>
+  <data name="0026 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉、ちょっと耳を貸せ</value>
+  </data>
+  <data name="0027 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なんでしょうか？</value>
+  </data>
+  <data name="0028 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒが好き放題にうろつくのは
+まずくないか？</value>
+  </data>
+  <data name="0029 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、僕もそう思います</value>
+  </data>
+  <data name="0031 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉、ちょっと相談があるから
+耳を貸せ</value>
+  </data>
+  <data name="0032 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>はい、なんでしょう</value>
+  </data>
+  <data name="0033 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒに動き回られるのはまずいと
+思わないか？</value>
+  </data>
+  <data name="0034 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕もそう思っていたところです</value>
+  </data>
+  <data name="0035 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そののぞき込むような#P05“視線”#P01は
+やめろ。なぜか背筋がぞくりとする</value>
+  </data>
+  <data name="0036 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺は今からバーベキューセットを
+借りに行く</value>
+  </data>
+  <data name="0037 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>だから、おまえはハルヒの見張りを
+兼ねてここに残れ</value>
+  </data>
+  <data name="0038 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>了解しました</value>
+  </data>
+  <data name="0039 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃあ、俺はアウトドア同好会まで
+道具を借りに行ってくる</value>
+  </data>
+  <data name="0040 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>わかったわ
+あんたに任せてあげるわ</value>
+  </data>
+  <data name="0041 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>行ってらっしゃい
+早く戻ってきなさいよ</value>
+  </data>
+  <data name="0042 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>行ってらっしゃい、か。こんな素直
+に見送られるとは思わなかったぜ</value>
+  </data>
+  <data name="0044 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうも、すみません。かならず
+きれいにして返しますので</value>
+  </data>
+  <data name="0045 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あっけなく借りられたのはいいが
+見た目が汚いな、こりゃ</value>
+  </data>
+  <data name="0046 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>使い込んでるから、なんて言って
+いたけど捨てる一歩手前だな</value>
+  </data>
+  <data name="0047 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>同好会ってのは部活とちがって
+備品は自腹ってのが辛いところだ</value>
+  </data>
+  <data name="0048 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>アウトドアライフを楽しみたまえ
+などと高笑いしていたが……</value>
+  </data>
+  <data name="0049 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>含みがある感じでちょっといやな
+予感がする</value>
+  </data>
+  <data name="0050 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし、一式借りられたのはあり
+がたい、と思うことにしよう</value>
+  </data>
+  <data name="0051 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>借りてきたぞ</value>
+  </data>
+  <data name="0052 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>早かったわね、キョン</value>
+  </data>
+  <data name="0053 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、すぐに貸してくれたからな
+ほらよ</value>
+  </data>
+  <data name="0054 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>準備万端、必要な物は揃ったな</value>
+  </data>
+  <data name="0055 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これでハルヒがバーベキューに熱中
+すれば一安心と言ったところか</value>
+  </data>
+  <data name="0056 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これ、ずいぶんと汚れてるわね</value>
+  </data>
+  <data name="0057 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、つい先日も使ったらしい</value>
+  </data>
+  <data name="0059 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>使い込んでいて、網がところどころ
+欠けてますね</value>
+  </data>
+  <data name="0060 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>網を食うわけじゃないんだから
+問題ないだろ？</value>
+  </data>
+  <data name="0062 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何言ってるのよ。網が欠けてたら
+お肉が落っこちるじゃない</value>
+  </data>
+  <data name="0063 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それは困る。それでは折角の肉が
+台無しだ</value>
+  </data>
+  <data name="0065 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ところで、着火材が見当たらない
+ようですが</value>
+  </data>
+  <data name="0066 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>着火材って？</value>
+  </data>
+  <data name="0067 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>火を着けるための燃料ですよ
+それにマッチもありませんね</value>
+  </data>
+  <data name="0068 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>そんなもん、その辺を探せばある
+だろ</value>
+  </data>
+  <data name="0070 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっとこれ、組み立てるのに必要
+な工具もついてないわよ</value>
+  </data>
+  <data name="0071 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>えっ？　一式揃ってるって言って
+たけど、揃ってないのか？</value>
+  </data>
+  <data name="0073 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>見たところ、固定ボルトが数本ない
+ようですよ</value>
+  </data>
+  <data name="0074 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>そのままじゃ使えないってことか？</value>
+  </data>
+  <data name="0075 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、残念ながらそのようです</value>
+  </data>
+  <data name="0076 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>残念がっているように見えない笑顔
+で軽く言うな</value>
+  </data>
+  <data name="0077 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もうっ、すぐに帰ってきたと思えば
+寸足らずな物を借りてくるんだから</value>
+  </data>
+  <data name="0078 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちゃんと確認してから借りて
+来なさいよねっ！</value>
+  </data>
+  <data name="0079 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>暑い中を借りに走ったのに、えらい
+言われようだ</value>
+  </data>
+  <data name="0080 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>足りない物を探してきましょうか？
+このままでは使えませんからね</value>
+  </data>
+  <data name="0081 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺が使えないみたいに聞こえるが
+探してくるしかないのか？</value>
+  </data>
+  <data name="0082 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>探しに行くしかなさそうだな</value>
+  </data>
+  <data name="0084 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あなたが探しに行くのなら、これを
+渡しておきましょう</value>
+  </data>
+  <data name="0085 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>これはなんだ？</value>
+  </data>
+  <data name="0086 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>直角に曲げた針金が２本？</value>
+  </data>
+  <data name="0087 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ダウジングですよ。#P05“探知機”#P00です</value>
+  </data>
+  <data name="0088 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それを両手で握って歩くと、金属に
+反応して開くんです</value>
+  </data>
+  <data name="0089 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、あの怪しげな探知機か</value>
+  </data>
+  <data name="0090 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>テレビで視たことがあるが、古泉と
+同じぐらいうさんくさい</value>
+  </data>
+  <data name="0091 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だいいち、こんな物を持っているの
+が、なによりうさんくさいね</value>
+  </data>
+  <data name="0094 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>あるもので代用出来ないか？</value>
+  </data>
+  <data name="0095 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>と辺りを見回すと、都合良く釘が
+落ちていた</value>
+  </data>
+  <data name="0096 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>かなり太い５寸釘だ</value>
+  </data>
+  <data name="0097 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>これならボルト代わりにできる
+んじゃないか？</value>
+  </data>
+  <data name="0098 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それが、足りないのは１カ所だけ
+じゃないのですよ</value>
+  </data>
+  <data name="0099 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>他に細い針金などがいりそうですね</value>
+  </data>
+  <data name="0100 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そうかい
+結局探しに行くしかなさそうだな</value>
+  </data>
+  <data name="0102 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こうなったら、みんなで手分けして
+探すまでよっ</value>
+  </data>
+  <data name="0103 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それをやられると面倒だから、俺が
+動くしかないんだろうが</value>
+  </data>
+  <data name="0104 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺の手落ちだ
+だから、俺が探してくる</value>
+  </data>
+  <data name="0105 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒと古泉は使えそうなものを
+探しておいてくれ</value>
+  </data>
+  <data name="0106 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>わかりました。着火材になりそうな
+ものを探しておきます</value>
+  </data>
+  <data name="0107 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃあ、いってくる</value>
+  </data>
+  <data name="0110 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>また学校へと逆戻りか
+やれやれだ</value>
+  </data>
+  <data name="0111 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>学校内なら着火材やボルトが手に
+入ると思っていたが、甘かった</value>
+  </data>
+  <data name="0112 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>アウトドア同好会の部室は、もう
+帰宅してしまったのか</value>
+  </data>
+  <data name="0113 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>カギが掛かっていて無人だった</value>
+  </data>
+  <data name="0114 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>ボルトの代わりに細い針金か</value>
+  </data>
+  <data name="0115 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しばるだけならナイロンでもいい
+だろう</value>
+  </data>
+  <data name="0116 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そう考え、コンピ研から結束ベルト
+をもらった</value>
+  </data>
+  <data name="0117 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>顔を見るなり嫌がられるのにも
+すっかり慣れてきちまった</value>
+  </data>
+  <data name="0118 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>ボルト代わりはこれでいいとして
+網の代わりになるものは……</value>
+  </data>
+  <data name="0119 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>園芸部の倉庫に何かないだろうか
+とにかく探してみよう</value>
+  </data>
+  <data name="0120 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんな訳で倉庫に来てみたのだが</value>
+  </data>
+  <data name="0121 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>カギが掛かっていて、どうしようも
+ない、という始末だ</value>
+  </data>
+  <data name="0122 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>色々道具がありそうな模型研究会
+なんてのはどうだ？</value>
+  </data>
+  <data name="0123 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ま、行くだけでも行ってみるか</value>
+  </data>
+  <data name="0124 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし、部室は夜逃げしたみたいに
+もぬけのカラだった……</value>
+  </data>
+  <data name="0125 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>実験室はどうだろう？</value>
+  </data>
+  <data name="0126 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>特殊教室はカギが掛かっていたよう
+な気がするが</value>
+  </data>
+  <data name="0127 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>化学部員が来ていればいいんだがな</value>
+  </data>
+  <data name="0128 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし、化学実験室は施錠されて
+いた。完全にムダ足だったか</value>
+  </data>
+  <data name="0129 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>暑い……</value>
+  </data>
+  <data name="0130 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おまけに喉もかわいていた</value>
+  </data>
+  <data name="0131 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ろくな収穫がない上にひたすら暑い</value>
+  </data>
+  <data name="0132 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これだけ暑いと、せめて涼しげな
+ものでも見て涼を取ろうと思うのは</value>
+  </data>
+  <data name="0133 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかるべき生存本能だと思うんだが
+どうだろうか</value>
+  </data>
+  <data name="0134 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そして今、その生存本能が功を奏す
+ることとなった</value>
+  </data>
+  <data name="0135 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>おっ、こんなところに工具箱が</value>
+  </data>
+  <data name="0136 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>プールのフェンス脇に、捨てられた
+らしい工具箱を見つけた</value>
+  </data>
+  <data name="0137 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>中には、錆びてはいるが
+簡単な組み立てに使うには</value>
+  </data>
+  <data name="0138 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>十分そうな道具もある</value>
+  </data>
+  <data name="0139 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>あと必要なものは……</value>
+  </data>
+  <data name="0140 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>網の代わりになりそうなものって
+なんだろう？</value>
+  </data>
+  <data name="0141 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>などと思いつつ見回すと、捨てられ
+たフェンスが目にとまった</value>
+  </data>
+  <data name="0142 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どこで使っていたかは知らないが
+目が細かく、肉を焼くには十分だ</value>
+  </data>
+  <data name="0143 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さいわいにも工具箱にブラシがある
+洗ってサビを落とせば使えそうだ</value>
+  </data>
+  <data name="0144 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>網の代わりになるな……</value>
+  </data>
+  <data name="0145 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>よし、もう一働きしますか</value>
+  </data>
+  <data name="0146 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>よくもまあ、こんなガラクタを集め
+てきたものね</value>
+  </data>
+  <data name="0147 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>しょうがないだろ、寄せ集めでなん
+とかするしかないんだから</value>
+  </data>
+  <data name="0149 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、これで十分ですよ。おかげで
+バーベキューが楽しめます</value>
+  </data>
+  <data name="0150 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ仕方ないわね</value>
+  </data>
+  <data name="0151 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>はい。とりあえずは必要なものは
+そろっていますからね</value>
+  </data>
+  <data name="0152 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>自分で集めてきたみたいにいうな</value>
+  </data>
+  <data name="0154 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ところで、少しいいでしょうか？</value>
+  </data>
+  <data name="0155 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだよ？</value>
+  </data>
+  <data name="0156 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>探してきたものの中に、火種が
+ありませんでした</value>
+  </data>
+  <data name="0157 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>……すまん、忘れてた</value>
+  </data>
+  <data name="0158 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>大丈夫です。使えそうな物をここで
+みつけたので、回収しておきました</value>
+  </data>
+  <data name="0159 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉に借りを作ってしまったか</value>
+  </data>
+  <data name="0160 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>いちおう、礼を言っておこう
+助かったぜ、古泉</value>
+  </data>
+  <data name="0161 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、お礼なんていいですよ
+それではこれをどうぞ</value>
+  </data>
+  <data name="0162 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>これは#P05“ロウマッチ”#P00か……</value>
+  </data>
+  <data name="0163 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>水にぬれても平気なマッチですね
+誰かが花火でもしたのでしょう</value>
+  </data>
+  <data name="0164 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>とにかくこれで大丈夫ってことだな</value>
+  </data>
+  <data name="0165 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>礼は言わないぞ</value>
+  </data>
+  <data name="0166 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、手分けして探したのですから</value>
+  </data>
+  <data name="0167 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉が火種を俺に手渡したが
+恩を売るつもりはないらしい</value>
+  </data>
+  <data name="0168 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>あれ……</value>
+  </data>
+  <data name="0169 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>空き地に古銭が落ちているが
+墓場跡でもあるまいに</value>
+  </data>
+  <data name="0170 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>めずらしいから拾っておくか</value>
+  </data>
+  <data name="0172 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>在り合わせのものでも、結構なんと
+かなるものね</value>
+  </data>
+  <data name="0173 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですね。まだ多少、面倒事が
+残っていますが</value>
+  </data>
+  <data name="0174 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>バーベキューの準備は、苦労の末に
+一応の体を整えることができた</value>
+  </data>
+  <data name="0175 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これでしばらくはハルヒを学校から
+遠ざけておくことが出来るな</value>
+  </data>
+  <data name="0176 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あとは食材が届くのを待つだけね</value>
+  </data>
+  <data name="0177 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんや有希がどんなものを
+買ってくるのか楽しみだわ</value>
+  </data>
+  <data name="0178 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉も同じ事を思っているのか
+やたらニコニコしていやがる</value>
+  </data>
+  <data name="0180 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それにしても、考えさせられたわ
+いい機会だったのかもね</value>
+  </data>
+  <data name="0181 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>考えたってなにをだ？</value>
+  </data>
+  <data name="0182 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>安直に手に入るもので満足しちゃ
+いけないっていう教訓よ</value>
+  </data>
+  <data name="0183 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒは重々しい口調でもっとも
+らしいことを口述し始めた</value>
+  </data>
+  <data name="0184 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>安直に手に入れようとしたのは
+どこの誰なんだと問いたいね</value>
+  </data>
+  <data name="0185 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これだけの苦労があってこそ
+バーベキューが楽しくなるんだわ！</value>
+  </data>
+  <data name="0186 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一番苦労したのは俺だと思うが</value>
+  </data>
+  <data name="0187 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>あ……</value>
+  </data>
+  <data name="0188 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの、キョン？</value>
+  </data>
+  <data name="0189 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、アウトドア同好会の連中が
+含みを持たせて言ったんだよな</value>
+  </data>
+  <data name="0190 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんて言ってたの？</value>
+  </data>
+  <data name="0191 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>アウトドアライフを楽しみたまえっ
+て、ニヤリと言ったんだ</value>
+  </data>
+  <data name="0192 (436.ja) KYON (キョン)" xml:space="preserve">
+    <value>あれはこの事だったのか……</value>
+  </data>
+  <data name="0194 (436.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それは一本取られましたね</value>
+  </data>
+  <data name="0195 (436.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やっぱり安直に満足してちゃいけ
+ないっていう教訓よ、キョン</value>
+  </data>
+  <data name="0196 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なぜ俺の教訓に加えねばならないの
+かは疑問ではあるが</value>
+  </data>
+  <data name="0197 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>バーベキューでハルヒが楽しめば
+ストレスもおさえられるってもんだ</value>
+  </data>
+  <data name="0198 (436.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>苦労したがハルヒの機嫌は良さそう
+だから、今のところ結果オーライか</value>
+  </data>
+</root>
