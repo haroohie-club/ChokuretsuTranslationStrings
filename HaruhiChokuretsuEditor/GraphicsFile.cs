@@ -106,6 +106,7 @@ namespace HaruhiChokuretsuEditor
                 && (Index < 0xBC9 || Index > 0xC1B)
                 && (Index < 0xC70 || Index > 0xC78)
                 && (Index < 0xCA3 || Index > 0xCA8)
+                && Index != 0xCAF
                 && (Index < 0xD02 || Index > 0xD9F)
                 && Index != 0xDF3
                 && (Index < 0xDFB || Index > 0xE08)
