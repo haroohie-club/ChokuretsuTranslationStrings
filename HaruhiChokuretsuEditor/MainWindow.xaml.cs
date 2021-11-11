@@ -314,13 +314,14 @@ namespace HaruhiChokuretsuEditor
         {
             if (graphicsListBox.SelectedIndex >= 0)
             {
+                GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
                 SaveFileDialog saveFileDialog = new()
                 {
-                    Filter = "PNG file|*.png"
+                    Filter = "PNG file|*.png",
+                    FileName = $"grp_{selectedFile.Index:D4}.png"
                 };
                 if (saveFileDialog.ShowDialog() == true)
                 {
-                    GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
                     System.Drawing.Bitmap bitmap = selectedFile.GetImage(_currentImageWidth);
                     bitmap.Save(saveFileDialog.FileName, System.Drawing.Imaging.ImageFormat.Png);
                 }

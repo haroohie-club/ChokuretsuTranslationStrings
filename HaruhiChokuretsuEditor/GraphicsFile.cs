@@ -90,6 +90,8 @@ namespace HaruhiChokuretsuEditor
         public bool IsTexture()
         {
             return (Index < 0x19E || Index > 0x1A7)
+                && Index != 0x2C0
+                && (Index < 0x2C4 || Index > 0x2C6)
                 && Index != 0x2C8 && Index != 0x2CA
                 && Index != 0x2CC && Index != 0x316
                 && Index != 0x318 && Index != 0x331
@@ -138,7 +140,7 @@ namespace HaruhiChokuretsuEditor
 
         public override string ToString()
         {
-            return $"{Index:X3} 0x{Offset:X8}";
+            return $"{Index:X3} {Index:D4} 0x{Offset:X8}";
         }
 
         public Bitmap GetImage(int width = 256)
@@ -237,11 +239,47 @@ namespace HaruhiChokuretsuEditor
         /// <returns>Width of new bitmap image</returns>
         public int SetImage(Bitmap bitmap)
         {
+            if (IsTexture())
+            {
+                return SetTexture(bitmap);
+            }
+            else
+            {
+                return SetTiles(bitmap);
+            }
+        }
+
+        public int SetTexture(Bitmap bitmap)
+        {
             if (!VALID_WIDTHS.Contains(bitmap.Width))
             {
                 throw new ArgumentException($"Image width {bitmap.Width} not a valid width.");
             }
-            int calculatedHeight = 4 * (PixelData.Count / (ImageTileForm == TileForm.GBA_4BPP ? 32 : 64));
+            int calculatedHeight = PixelData.Count / bitmap.Width;
+            if (bitmap.Height != calculatedHeight)
+            {
+                throw new ArgumentException($"Image height {bitmap.Height} does not match calculated height {calculatedHeight}.");
+            }
+
+            int i = 0;
+            for (int y = 0; y < bitmap.Height; y++)
+            {
+                for (int x = 0; x < bitmap.Width; x++)
+                {
+                    PixelData[i++] = (byte)Helpers.ClosestColorIndex(Palette, bitmap.GetPixel(x, y));
+                }
+            }
+
+            return bitmap.Width;
+        }
+
+        public int SetTiles(Bitmap bitmap)
+        {
+            if (!VALID_WIDTHS.Contains(bitmap.Width))
+            {
+                throw new ArgumentException($"Image width {bitmap.Width} not a valid width.");
+            }
+            int calculatedHeight = PixelData.Count / (bitmap.Width / (ImageTileForm == TileForm.GBA_4BPP ? 2 : 1));
             if (bitmap.Height != calculatedHeight)
             {
                 throw new ArgumentException($"Image height {bitmap.Height} does not match calculated height {calculatedHeight}.");
