@@ -6,6 +6,7 @@
 # Large test case files that can be ripped from the ROM directly
 evt.bin
 grp.bin
+dat.bin
 
 # User-specific files
 *.rsuser

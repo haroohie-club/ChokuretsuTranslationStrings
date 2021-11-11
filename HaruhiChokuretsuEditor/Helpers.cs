@@ -47,6 +47,11 @@ namespace HaruhiChokuretsuEditor
 
         public static byte[] CompressData(byte[] decompressedData)
         {
+            // nonsense hack to deal with a rare edge case where the last byte of a file could get dropped
+            List<byte> temp = decompressedData.ToList();
+            temp.Add(0x00);
+            decompressedData = temp.ToArray();
+
             List<byte> compressedData = new();
 
             int directBytesToWrite = 0;
@@ -290,6 +295,12 @@ namespace HaruhiChokuretsuEditor
                         backReferenceIndex += nextNumBytes;
                     }
                 }
+            }
+
+            // nonsense hack which corresponds to above nonsense hack
+            if (decompressedData.Count % 16 == 1 && decompressedData.Last() == 0x00)
+            {
+                decompressedData.RemoveAt(decompressedData.Count - 1);
             }
 
             while (decompressedData.Count % 0x10 != 0)

@@ -25,6 +25,15 @@ namespace HaruhiChokuretsuTests
             Console.WriteLine($"Efficiency: {(double)newGrpBytes.Length / File.ReadAllBytes(evtFile).Length * 100}%");
 
             FileSystemFile<GraphicsFile> newGrpFile = new(newGrpBytes);
+            Assert.AreEqual(grp.Files.Count, newGrpFile.Files.Count);
+            for (int i = 0; i < newGrpFile.Files.Count; i++)
+            {
+                if (grp.Files[i].Data is not null && newGrpFile.Files[i].Data is not null)
+                {
+                    Assert.AreEqual(grp.Files[i].Data, newGrpFile.Files[i].Data, $"Failed at file {i} (offset: 0x{grp.Files[i].Offset:X8}; index: {grp.Files[i].Index:X4}");
+                }
+            }
+
             Assert.AreEqual(newGrpBytes, newGrpFile.GetBytes());
         }
     }
