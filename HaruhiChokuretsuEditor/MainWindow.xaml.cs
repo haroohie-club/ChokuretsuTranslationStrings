@@ -25,6 +25,7 @@ namespace HaruhiChokuretsuEditor
     {
         private FileSystemFile<EventFile> _evtFile;
         private FileSystemFile<GraphicsFile> _grpFile;
+        private FileSystemFile<DataFile> _datFile;
 
         public MainWindow()
         {
@@ -270,6 +271,71 @@ namespace HaruhiChokuretsuEditor
             {
                 GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
                 graphicsEditStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.Data.Count} bytes" });
+            }
+        }
+
+        private void OpenDataFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openFileDialog = new()
+            {
+                Filter = "DAT file|dat*.bin"
+            };
+            if (openFileDialog.ShowDialog() == true)
+            {
+                _datFile = FileSystemFile<DataFile>.FromFile(openFileDialog.FileName);
+                dataListBox.ItemsSource = _datFile.Files;
+                dataListBox.Items.Refresh();
+            }
+        }
+
+        private void SaveDataFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            SaveFileDialog saveFileDialog = new()
+            {
+                Filter = "DAT file|dat*.bin"
+            };
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                File.WriteAllBytes(saveFileDialog.FileName, _datFile.GetBytes());
+                MessageBox.Show("Save completed!");
+            }
+        }
+
+        private void ExportDataFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            SaveFileDialog saveFileDialog = new()
+            {
+                Filter = "BIN file|*.bin"
+            };
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                File.WriteAllBytes(saveFileDialog.FileName, ((DataFile)dataListBox.SelectedItem).GetBytes());
+            }
+        }
+
+        private void ImportDataFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openFileDialog = new()
+            {
+                Filter = "BIN file|*.bin"
+            };
+            if (openFileDialog.ShowDialog() == true)
+            {
+                DataFile newDataFile = new();
+                newDataFile.Initialize(File.ReadAllBytes(openFileDialog.FileName), _datFile.Files[dataListBox.SelectedIndex].Offset);
+                newDataFile.Index = _datFile.Files[dataListBox.SelectedIndex].Index;
+                _datFile.Files[dataListBox.SelectedIndex] = newDataFile;
+                graphicsListBox.Items.Refresh();
+            }
+        }
+
+        private void DataListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            dataEditStackPanel.Children.Clear();
+            if (dataListBox.SelectedIndex >= 0)
+            {
+                DataFile selectedFile = (DataFile)dataListBox.SelectedItem;
+                dataEditStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.Data.Count} bytes" });
             }
         }
     }

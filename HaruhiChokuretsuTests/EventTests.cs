@@ -58,6 +58,12 @@ namespace HaruhiChokuretsuTests
             Console.WriteLine($"Efficiency: {(double)newEvtBytes.Length / File.ReadAllBytes(evtFile).Length * 100}%");
 
             FileSystemFile<EventFile> newEvtFile = new(newEvtBytes);
+            Assert.AreEqual(evt.Files.Count, newEvtFile.Files.Count);
+            for (int i = 0; i < newEvtFile.Files.Count; i++)
+            {
+                Assert.AreEqual(evt.Files[i].Data, newEvtFile.Files[i].Data, $"Failed at file {i} (offset: 0x{evt.Files[i].Offset:X8}; index: {evt.Files[i].Index:X4}");
+            }
+
             Assert.AreEqual(newEvtBytes, newEvtFile.GetBytes());
         }
     }
