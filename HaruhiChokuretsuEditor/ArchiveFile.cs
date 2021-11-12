@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace HaruhiChokuretsuEditor
 {
     public class ArchiveFile<T>
-        where T : IFile, new()
+        where T : FileInArchive, new()
     {
         public const int FirstHeaderPointerOffset = 0x1C;
 
@@ -16,13 +16,14 @@ namespace HaruhiChokuretsuEditor
 
         public int NumItems { get; set; }
         public int HeaderLength { get; set; }
-        public int OffsetMsbMultiplier { get; set; }
-        public int OffsetLsbMultiplier { get; set; }
-        public int OffsetLsbAnd { get; set; }
-        public int OffsetMsbShift { get; set; }
+        public int MagicIntegerMsbMultiplier { get; set; }
+        public int MagicIntegerLsbMultiplier { get; set; }
+        public int MagicIntegerLsbAnd { get; set; }
+        public int MagicIntegerMsbShift { get; set; }
         public List<uint> HeaderPointers { get; set; } = new();
         public List<uint> SecondHeaderNumbers { get; set; } = new();
         public List<T> Files { get; set; } = new();
+        public Dictionary<int, int> LengthToMagicIntegerMap { get; private set; } = new();
 
         public static ArchiveFile<T> FromFile(string fileName)
         {
@@ -48,11 +49,20 @@ namespace HaruhiChokuretsuEditor
 
             NumItems = BitConverter.ToInt32(fileSystemBytes.Take(4).ToArray());
 
-            OffsetMsbMultiplier = BitConverter.ToInt32(fileSystemBytes.Skip(0x04).Take(4).ToArray());
-            OffsetLsbMultiplier = BitConverter.ToInt32(fileSystemBytes.Skip(0x08).Take(4).ToArray());
+            MagicIntegerMsbMultiplier = BitConverter.ToInt32(fileSystemBytes.Skip(0x04).Take(4).ToArray());
+            MagicIntegerLsbMultiplier = BitConverter.ToInt32(fileSystemBytes.Skip(0x08).Take(4).ToArray());
 
-            OffsetLsbAnd = BitConverter.ToInt32(fileSystemBytes.Skip(0x10).Take(4).ToArray());
-            OffsetMsbShift = BitConverter.ToInt32(fileSystemBytes.Skip(0x0C).Take(4).ToArray());
+            MagicIntegerLsbAnd = BitConverter.ToInt32(fileSystemBytes.Skip(0x10).Take(4).ToArray());
+            MagicIntegerMsbShift = BitConverter.ToInt32(fileSystemBytes.Skip(0x0C).Take(4).ToArray());
+
+            for (int i = 0; i<= MagicIntegerLsbAnd; i++)
+            {
+                int length = GetFileLength((uint)i);
+                if (!LengthToMagicIntegerMap.ContainsKey(length))
+                {
+                    LengthToMagicIntegerMap.Add(length, i);
+                }
+            }
 
             HeaderLength = BitConverter.ToInt32(fileSystemBytes.Skip(0x1C).Take(4).ToArray()) + (NumItems * 2 + 8) * 4;
             for (int i = FirstHeaderPointerOffset; i < (NumItems * 4) + 0x20; i += 4)
@@ -91,7 +101,7 @@ namespace HaruhiChokuretsuEditor
                     file.Offset = offset;
                     file.MagicInteger = GetMagicInteger(file.Offset);
                     file.Index = GetFileIndex(file.MagicInteger);
-                    if (file.Index == 0x9A)
+                    if (file.Index == 0xE50)
                     {
                         Console.WriteLine("Here");
                     }
@@ -106,7 +116,7 @@ namespace HaruhiChokuretsuEditor
 
         public uint GetMagicInteger(int offset)
         {
-            uint msbToSearchFor = (uint)(offset / OffsetMsbMultiplier) << OffsetMsbShift;
+            uint msbToSearchFor = (uint)(offset / MagicIntegerMsbMultiplier) << MagicIntegerMsbShift;
             return HeaderPointers.FirstOrDefault(p => (p & 0xFFFF0000) == msbToSearchFor);
         }
 
@@ -118,31 +128,30 @@ namespace HaruhiChokuretsuEditor
         public int GetFileLength(uint magicInteger)
         {
             // absolutely unhinged routine
-            int magicLengthInt = 0x7FF + (int)((magicInteger & (uint)OffsetLsbAnd) * (uint)OffsetLsbMultiplier);
+            int magicLengthInt = 0x7FF + (int)((magicInteger & (uint)MagicIntegerLsbAnd) * (uint)MagicIntegerLsbMultiplier);
             int standardLengthIncrement = 0x800;
             if (magicLengthInt < standardLengthIncrement)
             {
-                standardLengthIncrement = magicLengthInt;
                 magicLengthInt = 0;
             }
             else
             {
                 int magicLengthIntLeftShift = 0x1C;
-                uint temp = (uint)magicLengthInt >> 0x04;
-                if (standardLengthIncrement <= temp >> 0x0C)
+                uint salt = (uint)magicLengthInt >> 0x04;
+                if (standardLengthIncrement <= salt >> 0x0C)
                 {
                     magicLengthIntLeftShift -= 0x10;
-                    temp >>= 0x10;
+                    salt >>= 0x10;
                 }
-                if (standardLengthIncrement <= temp >> 0x04)
+                if (standardLengthIncrement <= salt >> 0x04)
                 {
                     magicLengthIntLeftShift -= 0x08;
-                    temp >>= 0x08;
+                    salt >>= 0x08;
                 }
-                if (standardLengthIncrement <= temp)
+                if (standardLengthIncrement <= salt)
                 {
                     magicLengthIntLeftShift -= 0x04;
-                    temp >>= 0x04;
+                    salt >>= 0x04;
                 }
 
                 magicLengthInt = (int)((uint)magicLengthInt << magicLengthIntLeftShift);
@@ -151,16 +160,16 @@ namespace HaruhiChokuretsuEditor
                 bool carryFlag = Helpers.AddWillCauseCarry(magicLengthInt, magicLengthInt);
                 magicLengthInt *= 2;
 
-                int pcIncrement = (magicLengthIntLeftShift + magicLengthIntLeftShift * 2) * 4;
+                int pcIncrement = magicLengthIntLeftShift * 12;
 
                 for (; pcIncrement <= 0x174; pcIncrement += 0x0C)
                 {
-                    bool nextCarryFlag = Helpers.AddWillCauseCarry(standardLengthIncrement, (int)(temp << 1) + (carryFlag ? 1 : 0));
-                    temp = (uint)standardLengthIncrement + (temp << 1) + (uint)(carryFlag ? 1 : 0);
+                    bool nextCarryFlag = Helpers.AddWillCauseCarry(standardLengthIncrement, (int)(salt << 1) + (carryFlag ? 1 : 0));
+                    salt = (uint)standardLengthIncrement + (salt << 1) + (uint)(carryFlag ? 1 : 0);
                     carryFlag = nextCarryFlag;
                     if (!carryFlag)
                     {
-                        temp -= (uint)standardLengthIncrement;
+                        salt -= (uint)standardLengthIncrement;
                     }
                     nextCarryFlag = Helpers.AddWillCauseCarry(magicLengthInt, magicLengthInt + (carryFlag ? 1 : 0));
                     magicLengthInt = (magicLengthInt * 2) + (carryFlag ? 1 : 0);
@@ -177,7 +186,21 @@ namespace HaruhiChokuretsuEditor
             {
                 searchSet = Header;
             }
-            return (int)(BitConverter.ToUInt32(searchSet.Skip(FirstHeaderPointerOffset + (file.Index * 4)).Take(4).ToArray()) >> OffsetMsbShift) * OffsetMsbMultiplier;
+            return (int)(BitConverter.ToUInt32(searchSet.Skip(FirstHeaderPointerOffset + (file.Index * 4)).Take(4).ToArray()) >> MagicIntegerMsbShift) * MagicIntegerMsbMultiplier;
+        }
+
+        public uint GetNewMagicalInteger(T file, int compressedLength)
+        {
+            if (file.Data is null)
+            {
+                return file.MagicInteger;
+            }
+
+            uint offsetComponent = (uint)(file.Offset / MagicIntegerMsbMultiplier) << MagicIntegerMsbShift;
+            int newLength = (compressedLength + 0x7FF) & ~0x7FF;
+            int newLengthComponent = LengthToMagicIntegerMap[newLength];
+
+            return offsetComponent | (uint)newLengthComponent;
         }
 
         public byte[] GetBytes()
@@ -195,6 +218,13 @@ namespace HaruhiChokuretsuEditor
                 else
                 {
                     compressedBytes = Helpers.CompressData(Files[i].GetBytes());
+                    byte[] newMagicalIntegerBytes = BitConverter.GetBytes(GetNewMagicalInteger(Files[i], compressedBytes.Length));
+                    int pointerOffset = FirstHeaderPointerOffset + (Files[i].Index * 4);
+                    for (int j = 0; j < newMagicalIntegerBytes.Length; j++)
+                    {
+                        bytes[pointerOffset + j] = newMagicalIntegerBytes[j];
+                        Header[pointerOffset + j] = newMagicalIntegerBytes[j];
+                    }
                 }
                 bytes.AddRange(compressedBytes);
                 if (i < Files.Count - 1)
@@ -206,11 +236,11 @@ namespace HaruhiChokuretsuEditor
                     }
                     if (bytes.Count > Files[i + 1].Offset)
                     {
-                        pointerShift = ((bytes.Count - Files[i + 1].Offset) / OffsetMsbMultiplier) + 1;
+                        pointerShift = ((bytes.Count - Files[i + 1].Offset) / MagicIntegerMsbMultiplier) + 1;
                     }
                     if (pointerShift > 0)
                     {
-                        byte[] newPointer = BitConverter.GetBytes((uint)((Files[i + 1].Offset / OffsetMsbMultiplier) + pointerShift) << OffsetMsbShift);
+                        byte[] newPointer = BitConverter.GetBytes((uint)((Files[i + 1].Offset / MagicIntegerMsbMultiplier) + pointerShift) << MagicIntegerMsbShift);
                         int pointerOffset = FirstHeaderPointerOffset + (Files[i + 1].Index * 4);
                         bytes[pointerOffset + 2] = newPointer[2];
                         bytes[pointerOffset + 3] = newPointer[3];

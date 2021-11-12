@@ -15,6 +15,7 @@ namespace HaruhiChokuretsuTests
         public void GrpFileParserTest(string evtFile)
         {
             ArchiveFile<GraphicsFile> grp = ArchiveFile<GraphicsFile>.FromFile(evtFile);
+            grp.Files.First(f => f.Index == 0xE50).InitializeFontFile();
 
             foreach (GraphicsFile graphicsFile in grp.Files)
             {
@@ -25,6 +26,7 @@ namespace HaruhiChokuretsuTests
             Console.WriteLine($"Efficiency: {(double)newGrpBytes.Length / File.ReadAllBytes(evtFile).Length * 100}%");
 
             ArchiveFile<GraphicsFile> newGrpFile = new(newGrpBytes);
+            newGrpFile.Files.First(f => f.Index == 0xE50).InitializeFontFile();
             Assert.AreEqual(grp.Files.Count, newGrpFile.Files.Count);
             for (int i = 0; i < newGrpFile.Files.Count; i++)
             {

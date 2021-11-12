@@ -7,18 +7,12 @@ using System.Threading.Tasks;
 
 namespace HaruhiChokuretsuEditor
 {
-    public class GraphicsFile : IFile
+    public class GraphicsFile : FileInArchive
     {
-        public uint MagicInteger { get; set; }
-        public int Index { get; set; }
-        public int Offset { get; set; }
-        public int Length { get; set; }
-        public List<byte> Data { get; set; }
         public List<byte> PaletteData { get; set; }
         public List<Color> Palette { get; set; } = new();
         public List<byte> PixelData { get; set; }
         public TileForm ImageTileForm { get; set; }
-        public byte[] CompressedData { get; set; }
         public bool Shtxds { get; set; } = false;
 
         private readonly static int[] VALID_WIDTHS = new int[] { 8, 16, 32, 64, 128, 256, 512 };
@@ -30,7 +24,7 @@ namespace HaruhiChokuretsuEditor
             GBA_8BPP = 0x100,
         }
 
-        public void Initialize(byte[] decompressedData, int offset)
+        public override void Initialize(byte[] decompressedData, int offset)
         {
             Offset = offset;
             Data = decompressedData.ToList();
@@ -120,7 +114,7 @@ namespace HaruhiChokuretsuEditor
                 && Index != 0xE50;
         }
 
-        public byte[] GetBytes()
+        public override byte[] GetBytes()
         {
             if (Shtxds)
             {

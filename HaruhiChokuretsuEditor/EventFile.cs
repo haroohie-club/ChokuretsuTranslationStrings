@@ -8,14 +8,8 @@ using System.Threading.Tasks;
 
 namespace HaruhiChokuretsuEditor
 {
-    public class EventFile : IFile
+    public class EventFile : FileInArchive
     {
-        public uint MagicInteger { get; set; }
-        public int Index { get; set; }
-        public int Offset { get; set; }
-        public int Length { get; set; }
-        public byte[] CompressedData { get; set; }
-        public List<byte> Data { get; set; } = new();
         public List<int> FrontPointers { get; set; } = new();
         public int PointerToNumEndPointers { get; set; }
         public List<int> EndPointers { get; set; } = new();
@@ -30,7 +24,7 @@ namespace HaruhiChokuretsuEditor
         {
         }
 
-        public void Initialize(byte[] decompressedData, int offset = 0)
+        public override void Initialize(byte[] decompressedData, int offset = 0)
         {
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             Offset = offset;
@@ -83,7 +77,7 @@ namespace HaruhiChokuretsuEditor
             Title = Encoding.ASCII.GetString(decompressedData.Skip(titlePointer).TakeWhile(b => b != 0x00).ToArray());
         }
 
-        public byte[] GetBytes() => Data.ToArray();
+        public override byte[] GetBytes() => Data.ToArray();
 
         public void EditDialogueLine(int index, string newText)
         {

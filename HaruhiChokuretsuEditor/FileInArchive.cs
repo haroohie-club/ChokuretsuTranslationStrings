@@ -7,7 +7,7 @@ using System.Resources.NetStandard;
 
 namespace HaruhiChokuretsuEditor
 {
-    public interface IFile
+    public partial class FileInArchive
     {
         public uint MagicInteger { get; set; }
         public int Index { get; set; }
@@ -16,12 +16,21 @@ namespace HaruhiChokuretsuEditor
         public List<byte> Data { get; set; }
         public byte[] CompressedData { get; set; }
 
-        public abstract void Initialize(byte[] compressedData, int offset);
-        public abstract byte[] GetBytes();
+        public virtual void Initialize(byte[] compressedData, int offset)
+        {
+        }
+        public virtual byte[] GetBytes()
+        {
+            return null;
+        }
+
+        public FileInArchive()
+        {
+        }
     }
 
     public static class FileManager<T>
-        where T : IFile, new()
+        where T : FileInArchive, new()
     {
         public static T FromCompressedData(byte[] compressedData, int offset = 0)
         {

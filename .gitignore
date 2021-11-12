@@ -4,9 +4,10 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # Large test case files that can be ripped from the ROM directly
+dat.bin
 evt.bin
 grp.bin
-dat.bin
+scn.bin
 
 # User-specific files
 *.rsuser
