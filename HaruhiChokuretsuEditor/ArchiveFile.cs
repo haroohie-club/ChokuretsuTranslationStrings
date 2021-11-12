@@ -89,7 +89,13 @@ namespace HaruhiChokuretsuEditor
                         Console.WriteLine($"Failed to parse file at 0x{i:X8} due to index out of range exception (most likely during decompression)");
                     }
                     file.Offset = offset;
-                    file.Index = GetMagicIndex(file.Offset);
+                    file.MagicInteger = GetMagicInteger(file.Offset);
+                    file.Index = GetFileIndex(file.MagicInteger);
+                    if (file.Index == 0x9A)
+                    {
+                        Console.WriteLine("Here");
+                    }
+                    file.Length = GetFileLength(file.MagicInteger);
                     file.CompressedData = fileBytes.ToArray();
                     Files.Add(file);
                 }
@@ -98,16 +104,71 @@ namespace HaruhiChokuretsuEditor
             }
         }
 
-        public int GetMagicIndex(int offset)
+        public uint GetMagicInteger(int offset)
         {
             uint msbToSearchFor = (uint)(offset / OffsetMsbMultiplier) << OffsetMsbShift;
-            uint headerPointer = HeaderPointers.FirstOrDefault(p => (p & 0xFFFF0000) == msbToSearchFor);
-            return HeaderPointers.IndexOf(headerPointer);
+            return HeaderPointers.FirstOrDefault(p => (p & 0xFFFF0000) == msbToSearchFor);
         }
 
-        public int GetFileLength()
+        public int GetFileIndex(uint magicInteger)
         {
+            return HeaderPointers.IndexOf(magicInteger);
+        }
 
+        public int GetFileLength(uint magicInteger)
+        {
+            // absolutely unhinged routine
+            int magicLengthInt = 0x7FF + (int)((magicInteger & (uint)OffsetLsbAnd) * (uint)OffsetLsbMultiplier);
+            int standardLengthIncrement = 0x800;
+            if (magicLengthInt < standardLengthIncrement)
+            {
+                standardLengthIncrement = magicLengthInt;
+                magicLengthInt = 0;
+            }
+            else
+            {
+                int magicLengthIntLeftShift = 0x1C;
+                uint temp = (uint)magicLengthInt >> 0x04;
+                if (standardLengthIncrement <= temp >> 0x0C)
+                {
+                    magicLengthIntLeftShift -= 0x10;
+                    temp >>= 0x10;
+                }
+                if (standardLengthIncrement <= temp >> 0x04)
+                {
+                    magicLengthIntLeftShift -= 0x08;
+                    temp >>= 0x08;
+                }
+                if (standardLengthIncrement <= temp)
+                {
+                    magicLengthIntLeftShift -= 0x04;
+                    temp >>= 0x04;
+                }
+
+                magicLengthInt = (int)((uint)magicLengthInt << magicLengthIntLeftShift);
+                standardLengthIncrement = 0 - standardLengthIncrement;
+
+                bool carryFlag = Helpers.AddWillCauseCarry(magicLengthInt, magicLengthInt);
+                magicLengthInt *= 2;
+
+                int pcIncrement = (magicLengthIntLeftShift + magicLengthIntLeftShift * 2) * 4;
+
+                for (; pcIncrement <= 0x174; pcIncrement += 0x0C)
+                {
+                    bool nextCarryFlag = Helpers.AddWillCauseCarry(standardLengthIncrement, (int)(temp << 1) + (carryFlag ? 1 : 0));
+                    temp = (uint)standardLengthIncrement + (temp << 1) + (uint)(carryFlag ? 1 : 0);
+                    carryFlag = nextCarryFlag;
+                    if (!carryFlag)
+                    {
+                        temp -= (uint)standardLengthIncrement;
+                    }
+                    nextCarryFlag = Helpers.AddWillCauseCarry(magicLengthInt, magicLengthInt + (carryFlag ? 1 : 0));
+                    magicLengthInt = (magicLengthInt * 2) + (carryFlag ? 1 : 0);
+                    carryFlag = nextCarryFlag;
+                }
+            }
+
+            return magicLengthInt * 0x800;
         }
 
         public int RecalculateFileOffset(T file, byte[] searchSet = null)

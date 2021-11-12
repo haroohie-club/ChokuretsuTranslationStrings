@@ -45,6 +45,11 @@ namespace HaruhiChokuretsuEditor
             return colorDistances.IndexOf(colorDistances.Min());
         }
 
+        public static bool AddWillCauseCarry(int x, int y)
+        {
+            return (((x & 0xFFFFFFFFfL) + (y & 0xFFFFFFFFL)) & 0x1000000000) > 0;
+        }
+
         public static byte[] CompressData(byte[] decompressedData)
         {
             // nonsense hack to deal with a rare edge case where the last byte of a file could get dropped

@@ -9,6 +9,7 @@ namespace HaruhiChokuretsuEditor
 {
     public class GraphicsFile : IFile
     {
+        public uint MagicInteger { get; set; }
         public int Index { get; set; }
         public int Offset { get; set; }
         public int Length { get; set; }

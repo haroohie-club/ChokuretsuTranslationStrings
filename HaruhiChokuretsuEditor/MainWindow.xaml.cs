@@ -355,7 +355,7 @@ namespace HaruhiChokuretsuEditor
             {
                 GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
                 tilesEditStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.Data?.Count ?? 0} bytes" });
-                tilesEditStackPanel.Children.Add(new TextBlock { Text = $"{_grpFile.SecondHeaderNumbers[graphicsListBox.SelectedIndex]:X8}" });
+                tilesEditStackPanel.Children.Add(new TextBlock { Text = $"Actual compressed length: {selectedFile.CompressedData.Length:X}; Calculated length: {selectedFile.Length:X}" });
                 if (selectedFile.PixelData is not null)
                 {
                     ShtxdsWidthBox graphicsWidthBox = new ShtxdsWidthBox { Shtxds = selectedFile, Text = "256" };
@@ -442,6 +442,7 @@ namespace HaruhiChokuretsuEditor
             {
                 DataFile selectedFile = (DataFile)dataListBox.SelectedItem;
                 dataEditStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.Data.Count} bytes" });
+                dataEditStackPanel.Children.Add(new TextBlock { Text = $"Actual compressed length: {selectedFile.CompressedData.Length:X}; Calculated length: {selectedFile.Length:X}" });
             }
         }
     }
