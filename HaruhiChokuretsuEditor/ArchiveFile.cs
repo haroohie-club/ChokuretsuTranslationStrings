@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HaruhiChokuretsuEditor
 {
-    public class FileSystemFile<T>
+    public class ArchiveFile<T>
         where T : IFile, new()
     {
         public const int FirstHeaderPointerOffset = 0x1C;
@@ -24,13 +24,13 @@ namespace HaruhiChokuretsuEditor
         public List<uint> SecondHeaderNumbers { get; set; } = new();
         public List<T> Files { get; set; } = new();
 
-        public static FileSystemFile<T> FromFile(string fileName)
+        public static ArchiveFile<T> FromFile(string fileName)
         {
             byte[] evtBytes = File.ReadAllBytes(fileName);
-            return new FileSystemFile<T>(evtBytes);
+            return new ArchiveFile<T>(evtBytes);
         }
 
-        public FileSystemFile(byte[] fileSystemBytes)
+        public ArchiveFile(byte[] fileSystemBytes)
         {
             int endOfHeader = 0x00;
             for (int i = 0; i < fileSystemBytes.Length - 0x10; i++)
@@ -103,6 +103,11 @@ namespace HaruhiChokuretsuEditor
             uint msbToSearchFor = (uint)(offset / OffsetMsbMultiplier) << OffsetMsbShift;
             uint headerPointer = HeaderPointers.FirstOrDefault(p => (p & 0xFFFF0000) == msbToSearchFor);
             return HeaderPointers.IndexOf(headerPointer);
+        }
+
+        public int GetFileLength()
+        {
+
         }
 
         public int RecalculateFileOffset(T file, byte[] searchSet = null)

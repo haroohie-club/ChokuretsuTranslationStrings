@@ -23,9 +23,9 @@ namespace HaruhiChokuretsuEditor
     /// </summary>
     public partial class MainWindow : Window
     {
-        private FileSystemFile<EventFile> _evtFile;
-        private FileSystemFile<GraphicsFile> _grpFile;
-        private FileSystemFile<DataFile> _datFile;
+        private ArchiveFile<EventFile> _evtFile;
+        private ArchiveFile<GraphicsFile> _grpFile;
+        private ArchiveFile<DataFile> _datFile;
 
         private int _currentImageWidth = 256;
 
@@ -42,7 +42,7 @@ namespace HaruhiChokuretsuEditor
             };
             if (openFileDialog.ShowDialog() == true)
             {
-                _evtFile = FileSystemFile<EventFile>.FromFile(openFileDialog.FileName);
+                _evtFile = ArchiveFile<EventFile>.FromFile(openFileDialog.FileName);
                 eventsListBox.ItemsSource = _evtFile.Files;
                 eventsListBox.Items.Refresh();
             }
@@ -219,7 +219,7 @@ namespace HaruhiChokuretsuEditor
             };
             if (openFileDialog.ShowDialog() == true)
             {
-                _grpFile = FileSystemFile<GraphicsFile>.FromFile(openFileDialog.FileName);
+                _grpFile = ArchiveFile<GraphicsFile>.FromFile(openFileDialog.FileName);
                 _grpFile.Files.First(f => f.Index == 0xE50).InitializeFontFile(); // initialize the font file
                 graphicsStatsStackPanel.Children.Clear();
                 graphicsListBox.ItemsSource = _grpFile.Files;
@@ -388,7 +388,7 @@ namespace HaruhiChokuretsuEditor
             };
             if (openFileDialog.ShowDialog() == true)
             {
-                _datFile = FileSystemFile<DataFile>.FromFile(openFileDialog.FileName);
+                _datFile = ArchiveFile<DataFile>.FromFile(openFileDialog.FileName);
                 dataListBox.ItemsSource = _datFile.Files;
                 dataListBox.Items.Refresh();
             }

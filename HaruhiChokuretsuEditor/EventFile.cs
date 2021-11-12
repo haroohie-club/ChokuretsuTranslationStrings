@@ -12,6 +12,7 @@ namespace HaruhiChokuretsuEditor
     {
         public int Index { get; set; }
         public int Offset { get; set; }
+        public int Length { get; set; }
         public byte[] CompressedData { get; set; }
         public List<byte> Data { get; set; } = new();
         public List<int> FrontPointers { get; set; } = new();

@@ -14,7 +14,7 @@ namespace HaruhiChokuretsuTests
         [TestCase(".\\inputs\\grp.bin")]
         public void GrpFileParserTest(string evtFile)
         {
-            FileSystemFile<GraphicsFile> grp = FileSystemFile<GraphicsFile>.FromFile(evtFile);
+            ArchiveFile<GraphicsFile> grp = ArchiveFile<GraphicsFile>.FromFile(evtFile);
 
             foreach (GraphicsFile graphicsFile in grp.Files)
             {
@@ -24,7 +24,7 @@ namespace HaruhiChokuretsuTests
             byte[] newGrpBytes = grp.GetBytes();
             Console.WriteLine($"Efficiency: {(double)newGrpBytes.Length / File.ReadAllBytes(evtFile).Length * 100}%");
 
-            FileSystemFile<GraphicsFile> newGrpFile = new(newGrpBytes);
+            ArchiveFile<GraphicsFile> newGrpFile = new(newGrpBytes);
             Assert.AreEqual(grp.Files.Count, newGrpFile.Files.Count);
             for (int i = 0; i < newGrpFile.Files.Count; i++)
             {
