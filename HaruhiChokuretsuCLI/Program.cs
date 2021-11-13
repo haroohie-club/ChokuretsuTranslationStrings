@@ -172,7 +172,7 @@ namespace HaruhiChokuretsuCLI
             try
             {
                 var arc = ArchiveFile<FileInArchive>.FromFile(inputArc);
-                var files = Directory.EnumerateFiles(inputFolder);
+                var files = Directory.EnumerateFiles(inputFolder, "*.*", SearchOption.AllDirectories);
 
                 foreach (var filePath in files)
                 {
