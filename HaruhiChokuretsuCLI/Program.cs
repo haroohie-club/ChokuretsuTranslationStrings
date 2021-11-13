@@ -129,7 +129,7 @@ namespace HaruhiChokuretsuCLI
         /// <param name="arc"></param>
         /// <param name="filePath"></param>
         /// <param name="index"></param>
-        private static void ReplaceSingleGraphicFile(ArchiveFile<FileInArchive> arc, string filePath, int index)
+        private static void ReplaceSingleGraphicsFile(ArchiveFile<FileInArchive> arc, string filePath, int index)
         {
             var file = arc.Files.FirstOrDefault(x => x.Index == index);
 
@@ -187,7 +187,7 @@ namespace HaruhiChokuretsuCLI
                             if (filePath.ToLower().EndsWith(".bin"))
                                 ReplaceSingleFile(arc, filePath, index.Value);
                             else if (inputArcName.ToLower().StartsWith("grp"))
-                                ReplaceSingleGraphicFile(arc, filePath, index.Value);
+                                ReplaceSingleGraphicsFile(arc, filePath, index.Value);
 
                             Console.WriteLine("OK");
                         }

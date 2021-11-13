@@ -211,7 +211,7 @@ namespace HaruhiChokuretsuLib.Archive
             for (int i = 0; i < Files.Count; i++)
             {
                 byte[] compressedBytes;
-                if (Files[i].Data is null || Files[i].Data.Count == 0)
+                if (!Files[i].Edited || Files[i].Data is null || Files[i].Data.Count == 0)
                 {
                     compressedBytes = Files[i].CompressedData;
                 }

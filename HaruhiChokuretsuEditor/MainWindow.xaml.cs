@@ -86,6 +86,7 @@ namespace HaruhiChokuretsuEditor
                 EventFile newEventFile = new();
                 newEventFile.Initialize(File.ReadAllBytes(openFileDialog.FileName), _evtFile.Files[eventsListBox.SelectedIndex].Offset);
                 _evtFile.Files[eventsListBox.SelectedIndex] = newEventFile;
+                _evtFile.Files[eventsListBox.SelectedIndex].Edited = true;
                 eventsListBox.Items.Refresh();
             }
         }
@@ -151,6 +152,14 @@ namespace HaruhiChokuretsuEditor
             if (eventsListBox.SelectedIndex >= 0)
             {
                 EventFile selectedFile = (EventFile)eventsListBox.SelectedItem;
+                OpenFileDialog openFileDialog = new()
+                {
+                    Filter = "RESX files|*.resx"
+                };
+                if (openFileDialog.ShowDialog() == true)
+                {
+                    selectedFile.ImportResexFile(openFileDialog.FileName);
+                }
             }
         }
 
@@ -309,6 +318,7 @@ namespace HaruhiChokuretsuEditor
                 newGraphicsFile.Initialize(File.ReadAllBytes(openFileDialog.FileName), _grpFile.Files[graphicsListBox.SelectedIndex].Offset);
                 newGraphicsFile.Index = _grpFile.Files[graphicsListBox.SelectedIndex].Index;
                 _grpFile.Files[graphicsListBox.SelectedIndex] = newGraphicsFile;
+                _grpFile.Files[graphicsListBox.SelectedIndex].Edited = true;
                 graphicsListBox.Items.Refresh();
             }
         }
@@ -433,6 +443,7 @@ namespace HaruhiChokuretsuEditor
                 newDataFile.Initialize(File.ReadAllBytes(openFileDialog.FileName), _datFile.Files[dataListBox.SelectedIndex].Offset);
                 newDataFile.Index = _datFile.Files[dataListBox.SelectedIndex].Index;
                 _datFile.Files[dataListBox.SelectedIndex] = newDataFile;
+                _datFile.Files[dataListBox.SelectedIndex].Edited = true;
                 graphicsListBox.Items.Refresh();
             }
         }

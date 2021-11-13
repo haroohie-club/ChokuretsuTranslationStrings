@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -81,6 +82,7 @@ namespace HaruhiChokuretsuLib.Archive
 
         public void EditDialogueLine(int index, string newText)
         {
+            Edited = true;
             int oldLength = DialogueLines[index].Length;
             DialogueLines[index].Text = newText;
             int lengthDifference = DialogueLines[index].Length - oldLength;
@@ -144,6 +146,23 @@ namespace HaruhiChokuretsuLib.Archive
                     resxWriter.AddResource(new ResXDataNode($"{i:D4} ({Path.GetFileNameWithoutExtension(fileName)}) {DialogueLines[i].Speaker} ({DialogueLines[i].SpeakerName})",
                         DialogueLines[i].Text));
                 }
+            }
+        }
+
+        public void ImportResexFile(string fileName)
+        {
+            Edited = true;
+            string resxContents = File.ReadAllText(fileName);
+            resxContents.Replace("System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null");
+            resxContents.Replace("System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null");
+
+            using ResXResourceReader resxReader = new();
+            foreach (DictionaryEntry d in resxReader)
+            {
+                int dialogueIndex = int.Parse(((string)d.Key)[0..4]);
+                EditDialogueLine(dialogueIndex, (string)d.Value);
             }
         }
 
