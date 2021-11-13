@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HaruhiChokuretsuEditor", "H
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HaruhiChokuretsuTests", "HaruhiChokuretsuTests\HaruhiChokuretsuTests.csproj", "{B6B64437-5C36-482A-85D7-419302E0CF23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaruhiChokuretsuLib", "HaruhiChokuretsuLib\HaruhiChokuretsuLib.csproj", "{5ADB6BD3-B3D4-40FA-AA6E-66CD279C271B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HaruhiChokuretsuLib", "HaruhiChokuretsuLib\HaruhiChokuretsuLib.csproj", "{5ADB6BD3-B3D4-40FA-AA6E-66CD279C271B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaruhiChokuretsuCLI", "HaruhiChokuretsuCLI\HaruhiChokuretsuCLI.csproj", "{733B25DB-758C-4B2D-81E4-E3C80CA66E44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{5ADB6BD3-B3D4-40FA-AA6E-66CD279C271B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ADB6BD3-B3D4-40FA-AA6E-66CD279C271B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ADB6BD3-B3D4-40FA-AA6E-66CD279C271B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{733B25DB-758C-4B2D-81E4-E3C80CA66E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733B25DB-758C-4B2D-81E4-E3C80CA66E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733B25DB-758C-4B2D-81E4-E3C80CA66E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733B25DB-758C-4B2D-81E4-E3C80CA66E44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

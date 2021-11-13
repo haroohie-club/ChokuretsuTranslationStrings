@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HaruhiChokuretsuCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "-r \"E:\\dev\\projects\\nitro\\haruhi-chokuretsu-tl\\unpacked\\archives\\grp.bin\" \"E:\\dev\\projects\\nitro\\haruhi-chokuretsu-tl\\unpacked\\rom\\data\\grp.bin\" \"E:\\dev\\projects\\nitro\\haruhi-chokuretsu-tl\\unpacked\\archives\\grp_arc\""
+    }
+  }
+}
