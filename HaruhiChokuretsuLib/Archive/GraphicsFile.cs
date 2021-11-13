@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HaruhiChokuretsuEditor
+namespace HaruhiChokuretsuLib.Archive
 {
     public class GraphicsFile : FileInArchive
     {

@@ -1,4 +1,5 @@
-﻿using System.Windows.Controls;
+﻿using HaruhiChokuretsuLib.Archive;
+using System.Windows.Controls;
 
 namespace HaruhiChokuretsuEditor
 {

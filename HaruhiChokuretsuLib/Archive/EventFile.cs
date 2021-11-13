@@ -6,7 +6,7 @@ using System.Resources.NetStandard;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HaruhiChokuretsuEditor
+namespace HaruhiChokuretsuLib.Archive
 {
     public class EventFile : FileInArchive
     {

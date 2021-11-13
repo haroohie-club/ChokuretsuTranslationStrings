@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Resources.NetStandard;
 
-namespace HaruhiChokuretsuEditor
+namespace HaruhiChokuretsuLib.Archive
 {
     public partial class FileInArchive
     {
