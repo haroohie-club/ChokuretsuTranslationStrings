@@ -184,10 +184,10 @@ namespace HaruhiChokuretsuCLI
 
                         try
                         {
-                            if (inputName.ToLower().StartsWith("grp"))
-                                ReplaceSingleGraphicFile(arc, filePath, index.Value);
-                            else
+                            if (inputName.ToLower().EndsWith(".bin"))
                                 ReplaceSingleFile(arc, filePath, index.Value);
+                            else if (inputName.ToLower().StartsWith("grp"))
+                                ReplaceSingleGraphicFile(arc, filePath, index.Value);
 
                             Console.WriteLine("OK");
                         }
