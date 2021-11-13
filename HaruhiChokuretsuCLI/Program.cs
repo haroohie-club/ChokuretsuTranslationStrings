@@ -167,7 +167,7 @@ namespace HaruhiChokuretsuCLI
         /// <param name="outputArc"></param>
         private static void ReplaceFromFolder(string inputFolder, string inputArc, string outputArc)
         {
-            var inputName = new FileInfo(inputArc).Name;
+            var inputArcName = new FileInfo(inputArc).Name;
 
             try
             {
@@ -184,9 +184,9 @@ namespace HaruhiChokuretsuCLI
 
                         try
                         {
-                            if (inputName.ToLower().EndsWith(".bin"))
+                            if (filePath.ToLower().EndsWith(".bin"))
                                 ReplaceSingleFile(arc, filePath, index.Value);
-                            else if (inputName.ToLower().StartsWith("grp"))
+                            else if (inputArcName.ToLower().StartsWith("grp"))
                                 ReplaceSingleGraphicFile(arc, filePath, index.Value);
 
                             Console.WriteLine("OK");
