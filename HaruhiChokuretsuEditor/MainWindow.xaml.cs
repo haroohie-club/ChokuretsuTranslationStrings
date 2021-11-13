@@ -1,5 +1,6 @@
 ﻿using FolderBrowserEx;
 using Microsoft.Win32;
+using HaruhiChokuretsuLib;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -342,7 +343,7 @@ namespace HaruhiChokuretsuEditor
                     GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
                     int width = selectedFile.SetImage(openFileDialog.FileName);
                     tilesEditStackPanel.Children.RemoveAt(tilesEditStackPanel.Children.Count - 1);
-                    tilesEditStackPanel.Children.Add(new Image { Source = Helpers.GetBitmapImageFromBitmap(selectedFile.GetImage(width)), MaxWidth = 256 });
+                    tilesEditStackPanel.Children.Add(new Image { Source = GuiHelpers.GetBitmapImageFromBitmap(selectedFile.GetImage(width)), MaxWidth = 256 });
                     _currentImageWidth = width;
                 }
             }
@@ -361,7 +362,7 @@ namespace HaruhiChokuretsuEditor
                     ShtxdsWidthBox graphicsWidthBox = new ShtxdsWidthBox { Shtxds = selectedFile, Text = "256" };
                     graphicsWidthBox.TextChanged += GraphicsWidthBox_TextChanged;
                     tilesEditStackPanel.Children.Add(graphicsWidthBox);
-                    tilesEditStackPanel.Children.Add(new Image { Source = Helpers.GetBitmapImageFromBitmap(selectedFile.GetImage()), MaxWidth = 256 });
+                    tilesEditStackPanel.Children.Add(new Image { Source = GuiHelpers.GetBitmapImageFromBitmap(selectedFile.GetImage()), MaxWidth = 256 });
                     _currentImageWidth = 256;
                 }
             }
@@ -376,7 +377,7 @@ namespace HaruhiChokuretsuEditor
             {
                 width = 256;
             }
-            tilesEditStackPanel.Children.Add(new Image { Source = Helpers.GetBitmapImageFromBitmap(widthBox.Shtxds.GetImage(width)), MaxWidth = 256 });
+            tilesEditStackPanel.Children.Add(new Image { Source = GuiHelpers.GetBitmapImageFromBitmap(widthBox.Shtxds.GetImage(width)), MaxWidth = 256 });
             _currentImageWidth = width;
         }
 

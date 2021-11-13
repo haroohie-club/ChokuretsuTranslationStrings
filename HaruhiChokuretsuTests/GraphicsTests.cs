@@ -1,4 +1,4 @@
-﻿using HaruhiChokuretsuEditor;
+﻿using HaruhiChokuretsuLib;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
