@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HaruhiChokuretsuLib
+namespace HaruhiChokuretsuLib.Archive
 {
     public class ArchiveFile<T>
         where T : FileInArchive, new()

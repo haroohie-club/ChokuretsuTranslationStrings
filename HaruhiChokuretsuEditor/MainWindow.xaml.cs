@@ -1,6 +1,7 @@
 ﻿using FolderBrowserEx;
 using Microsoft.Win32;
 using HaruhiChokuretsuLib;
+using HaruhiChokuretsuLib.Archive;
 using System;
 using System.Collections.Generic;
 using System.IO;
