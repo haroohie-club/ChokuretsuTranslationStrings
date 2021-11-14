@@ -25,6 +25,90 @@ namespace HaruhiChokuretsuLib.Archive
         {
         }
 
+        public struct CharacterWithSpacing
+        {
+            public char Character { get; set; }
+            public int Width { get; set; }
+        }
+
+        private const int DIALOGUE_LINE_LENGTH = 200;
+        private static readonly Dictionary<char, CharacterWithSpacing> CharacterToLengthMap = new()
+        {
+            { '0', new CharacterWithSpacing { Character = '０', Width = 6 } },
+            { '1', new CharacterWithSpacing { Character = '１', Width = 6 } },
+            { '2', new CharacterWithSpacing { Character = '２', Width = 6 } },
+            { '3', new CharacterWithSpacing { Character = '３', Width = 6 } },
+            { '4', new CharacterWithSpacing { Character = '４', Width = 6 } },
+            { '5', new CharacterWithSpacing { Character = '５', Width = 6 } },
+            { '6', new CharacterWithSpacing { Character = '６', Width = 6 } },
+            { '7', new CharacterWithSpacing { Character = '７', Width = 6 } },
+            { '8', new CharacterWithSpacing { Character = '８', Width = 6 } },
+            { '9', new CharacterWithSpacing { Character = '９', Width = 6 } },
+            { 'A', new CharacterWithSpacing { Character = 'Ａ', Width = 5 } },
+            { 'B', new CharacterWithSpacing { Character = 'Ｂ', Width = 5 } },
+            { 'C', new CharacterWithSpacing { Character = 'Ｃ', Width = 6 } },
+            { 'D', new CharacterWithSpacing { Character = 'Ｄ', Width = 5 } },
+            { 'E', new CharacterWithSpacing { Character = 'Ｅ', Width = 5 } },
+            { 'F', new CharacterWithSpacing { Character = 'Ｆ', Width = 5 } },
+            { 'G', new CharacterWithSpacing { Character = 'Ｇ', Width = 6 } },
+            { 'H', new CharacterWithSpacing { Character = 'Ｈ', Width = 5 } },
+            { 'I', new CharacterWithSpacing { Character = 'Ｉ', Width = 4 } },
+            { 'J', new CharacterWithSpacing { Character = 'Ｊ', Width = 5 } },
+            { 'K', new CharacterWithSpacing { Character = 'Ｋ', Width = 6 } },
+            { 'L', new CharacterWithSpacing { Character = 'Ｌ', Width = 6 } },
+            { 'M', new CharacterWithSpacing { Character = 'Ｍ', Width = 5 } },
+            { 'N', new CharacterWithSpacing { Character = 'Ｎ', Width = 5 } },
+            { 'O', new CharacterWithSpacing { Character = 'Ｏ', Width = 6 } },
+            { 'P', new CharacterWithSpacing { Character = 'Ｐ', Width = 5 } },
+            { 'Q', new CharacterWithSpacing { Character = 'Ｑ', Width = 6 } },
+            { 'R', new CharacterWithSpacing { Character = 'Ｒ', Width = 5 } },
+            { 'S', new CharacterWithSpacing { Character = 'Ｓ', Width = 5 } },
+            { 'T', new CharacterWithSpacing { Character = 'Ｔ', Width = 5 } },
+            { 'U', new CharacterWithSpacing { Character = 'Ｕ', Width = 5 } },
+            { 'V', new CharacterWithSpacing { Character = 'Ｖ', Width = 5 } },
+            { 'W', new CharacterWithSpacing { Character = 'Ｗ', Width = 5 } },
+            { 'X', new CharacterWithSpacing { Character = 'Ｘ', Width = 5 } },
+            { 'Y', new CharacterWithSpacing { Character = 'Ｙ', Width = 5 } },
+            { 'Z', new CharacterWithSpacing { Character = 'Ｚ', Width = 5 } },
+            { 'a', new CharacterWithSpacing { Character = 'ａ', Width = 6 } },
+            { 'b', new CharacterWithSpacing { Character = 'ｂ', Width = 5 } },
+            { 'c', new CharacterWithSpacing { Character = 'ｃ', Width = 5 } },
+            { 'd', new CharacterWithSpacing { Character = 'ｄ', Width = 5 } },
+            { 'e', new CharacterWithSpacing { Character = 'ｅ', Width = 5 } },
+            { 'f', new CharacterWithSpacing { Character = 'ｆ', Width = 4 } },
+            { 'g', new CharacterWithSpacing { Character = 'ｇ', Width = 6 } },
+            { 'h', new CharacterWithSpacing { Character = 'ｈ', Width = 5 } },
+            { 'i', new CharacterWithSpacing { Character = 'ｉ', Width = 3 } },
+            { 'j', new CharacterWithSpacing { Character = 'ｊ', Width = 3 } },
+            { 'k', new CharacterWithSpacing { Character = 'ｋ', Width = 5 } },
+            { 'l', new CharacterWithSpacing { Character = 'ｌ', Width = 3 } },
+            { 'm', new CharacterWithSpacing { Character = 'ｍ', Width = 5 } },
+            { 'n', new CharacterWithSpacing { Character = 'ｎ', Width = 5 } },
+            { 'o', new CharacterWithSpacing { Character = 'ｏ', Width = 5 } },
+            { 'p', new CharacterWithSpacing { Character = 'ｐ', Width = 5 } },
+            { 'q', new CharacterWithSpacing { Character = 'ｑ', Width = 5 } },
+            { 'r', new CharacterWithSpacing { Character = 'ｒ', Width = 5 } },
+            { 's', new CharacterWithSpacing { Character = 'ｓ', Width = 5 } },
+            { 't', new CharacterWithSpacing { Character = 'ｔ', Width = 4 } },
+            { 'u', new CharacterWithSpacing { Character = 'ｕ', Width = 5 } },
+            { 'v', new CharacterWithSpacing { Character = 'ｖ', Width = 5 } },
+            { 'w', new CharacterWithSpacing { Character = 'ｗ', Width = 5 } },
+            { 'x', new CharacterWithSpacing { Character = 'ｘ', Width = 5 } },
+            { 'y', new CharacterWithSpacing { Character = 'ｙ', Width = 5 } },
+            { 'z', new CharacterWithSpacing { Character = 'ｚ', Width = 5 } },
+            { '.', new CharacterWithSpacing { Character = '。', Width = 2 } },
+            { ',', new CharacterWithSpacing { Character = '、', Width = 2 } },
+            { '?', new CharacterWithSpacing { Character = '？', Width = 2 } },
+            { '!', new CharacterWithSpacing { Character = '！', Width = 2 } },
+            { '-', new CharacterWithSpacing { Character = 'ー', Width = 2 } },
+            { '~', new CharacterWithSpacing { Character = '～', Width = 2 } },
+            { '\'', new CharacterWithSpacing { Character = '’', Width = 2 } },
+            { '"', new CharacterWithSpacing { Character = '“', Width = 2 } },
+            { '(', new CharacterWithSpacing { Character = '（', Width = 4 } },
+            { ')', new CharacterWithSpacing { Character = '）', Width = 4 } },
+            { ' ', new CharacterWithSpacing { Character = '　', Width = 2 } },
+        };
+
         public override void Initialize(byte[] decompressedData, int offset = 0)
         {
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
@@ -83,11 +167,20 @@ namespace HaruhiChokuretsuLib.Archive
         public void EditDialogueLine(int index, string newText)
         {
             Edited = true;
-            int oldLength = DialogueLines[index].Length;
+            int oldLength = DialogueLines[index].Length + DialogueLines[index].NumPaddingZeroes;
             DialogueLines[index].Text = newText;
-            int lengthDifference = DialogueLines[index].Length - oldLength;
+            DialogueLines[index].NumPaddingZeroes = 4 - (DialogueLines[index].Length % 4);
+            int lengthDifference = DialogueLines[index].Length + DialogueLines[index].NumPaddingZeroes - oldLength;
+            
+            List<byte> toWrite = new();
+            toWrite.AddRange(DialogueLines[index].Data);
+            for (int i = 0; i < DialogueLines[index].NumPaddingZeroes; i++)
+            {
+                toWrite.Add(0);
+            }
+            
             Data.RemoveRange(DialogueLines[index].Pointer, oldLength);
-            Data.InsertRange(DialogueLines[index].Pointer, DialogueLines[index].Data);
+            Data.InsertRange(DialogueLines[index].Pointer, toWrite);
 
             ShiftPointers(DialogueLines[index].Pointer, lengthDifference);
         }
@@ -153,16 +246,67 @@ namespace HaruhiChokuretsuLib.Archive
         {
             Edited = true;
             string resxContents = File.ReadAllText(fileName);
-            resxContents.Replace("System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+            resxContents = resxContents.Replace("System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null");
-            resxContents.Replace("System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+            resxContents = resxContents.Replace("System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null");
+            TextReader textReader = new StringReader(resxContents);
 
-            using ResXResourceReader resxReader = new();
+            using ResXResourceReader resxReader = new(textReader);
             foreach (DictionaryEntry d in resxReader)
             {
                 int dialogueIndex = int.Parse(((string)d.Key)[0..4]);
-                EditDialogueLine(dialogueIndex, (string)d.Value);
+                string dialogueText = (string)d.Value;
+
+                dialogueText = dialogueText.Replace("\r\n", "");
+                dialogueText = dialogueText.Replace("\n", "");
+
+                int lineLength = 0;
+                bool operatorActive = false;
+                for (int i = 0; i < dialogueText.Length; i++)
+                {
+                    if (operatorActive)
+                    {
+                        if (dialogueText[i] >= '0' || dialogueText[i] <= '9')
+                        {
+                            continue;
+                        }
+                    }
+
+                    if (dialogueText[i] == '$')
+                    {
+                        operatorActive = true;
+                        continue;
+                    }
+                    else if (dialogueText[i] == '#')
+                    {
+                        i++; // skip W
+                        operatorActive = true;
+                        continue;
+                    }
+
+                    if (CharacterToLengthMap.ContainsKey(dialogueText[i]))
+                    {
+                        char newCharacter = CharacterToLengthMap[dialogueText[i]].Character;
+                        if (dialogueText[i] == '"' && (i == dialogueText.Length - 1 || dialogueText[i + 1] == ' ' || dialogueText[i + 1] == '!' || dialogueText[i + 1] == '?'))
+                        {
+                            newCharacter = '”';
+                        }
+                        lineLength += CharacterToLengthMap[dialogueText[i]].Width;
+                        dialogueText = dialogueText.Remove(i, 1);
+                        dialogueText = dialogueText.Insert(i, $"{newCharacter}");
+                    }
+
+                    if (lineLength > DIALOGUE_LINE_LENGTH)
+                    {
+                        int indexOfMostRecentSpace = dialogueText[0..i].LastIndexOf('　'); // full-width space bc it's been replaced already
+                        dialogueText = dialogueText.Remove(indexOfMostRecentSpace, 1);
+                        dialogueText = dialogueText.Insert(indexOfMostRecentSpace, "\n");
+                        lineLength = 0;
+                    }
+                }
+
+                EditDialogueLine(dialogueIndex, dialogueText);
             }
         }
 
@@ -187,6 +331,7 @@ namespace HaruhiChokuretsuLib.Archive
     {
         public int Pointer { get; set; }
         public byte[] Data { get; set; }
+        public int NumPaddingZeroes { get; set; }
         public string Text { get => Encoding.GetEncoding("Shift-JIS").GetString(Data); set => Data = Encoding.GetEncoding("Shift-JIS").GetBytes(value); }
         public int Length => Data.Length;
 
@@ -202,6 +347,7 @@ namespace HaruhiChokuretsuLib.Archive
             SpeakerPointer = speakerPointer;
             Pointer = pointer;
             Data = file.Skip(pointer).TakeWhile(b => b != 0x00).ToArray();
+            NumPaddingZeroes = file.Skip(pointer + Data.Length).TakeWhile(b => b == 0x00).Count();
         }
 
         public override string ToString()

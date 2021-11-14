@@ -99,6 +99,8 @@ namespace HaruhiChokuretsuEditor
             if (eventsListBox.SelectedIndex >= 0)
             {
                 EventFile selectedFile = (EventFile)eventsListBox.SelectedItem;
+                frontPointersStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.Data?.Count ?? 0} bytes" });
+                frontPointersStackPanel.Children.Add(new TextBlock { Text = $"Actual compressed length: {selectedFile.CompressedData.Length:X}; Calculated length: {selectedFile.Length:X}" });
                 for (int i = 0; i < selectedFile.DialogueLines.Count; i++)
                 {
                     StackPanel dialogueStackPanel = new StackPanel { Orientation = Orientation.Horizontal };
