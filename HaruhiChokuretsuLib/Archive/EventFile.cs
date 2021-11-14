@@ -242,7 +242,7 @@ namespace HaruhiChokuretsuLib.Archive
             }
         }
 
-        public void ImportResexFile(string fileName)
+        public void ImportResxFile(string fileName)
         {
             Edited = true;
             string resxContents = File.ReadAllText(fileName);

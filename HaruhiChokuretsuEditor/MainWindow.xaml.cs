@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -160,7 +161,7 @@ namespace HaruhiChokuretsuEditor
                 };
                 if (openFileDialog.ShowDialog() == true)
                 {
-                    selectedFile.ImportResexFile(openFileDialog.FileName);
+                    selectedFile.ImportResxFile(openFileDialog.FileName);
                 }
             }
         }
@@ -176,6 +177,28 @@ namespace HaruhiChokuretsuEditor
                 foreach (EventFile eventFile in _evtFile.Files)
                 {
                     eventFile.WriteResxFile(System.IO.Path.Combine(folderBrowser.SelectedFolder, $"{eventFile.Index:D3}.ja.resx"));
+                }
+            }
+        }
+
+        private void ImportAllStringsEventsFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            LanguageCodeDialogBox languageCodeDialogBox = new();
+            if (languageCodeDialogBox.ShowDialog() == true)
+            {
+                FolderBrowserDialog folderBrowser = new()
+                {
+                    AllowMultiSelect = false
+                };
+                if (folderBrowser.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+                {
+                    string[] files = Directory.GetFiles(folderBrowser.SelectedFolder)
+                        .Where(f => f.EndsWith($".{languageCodeDialogBox.LanguageCode}.resx", StringComparison.OrdinalIgnoreCase)).ToArray();
+                    foreach (string file in files)
+                    {
+                        int fileIndex = int.Parse(Regex.Match(file, @"(\d{3})\.[\w-]+\.resx").Groups[1].Value, System.Globalization.NumberStyles.Integer);
+                        _evtFile.Files.FirstOrDefault(f => f.Index == fileIndex).ImportResxFile(file);
+                    }
                 }
             }
         }
