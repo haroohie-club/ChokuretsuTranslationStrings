@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,280 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (027.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒはキレイな花と道ばたに咲く
+花のどちらが好きだ？</value>
+  </data>
+  <data name="0001 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>唐突に何よ、それ？</value>
+  </data>
+  <data name="0002 (027.ja) KYON (キョン)" xml:space="preserve">
+    <value>さっき鶴屋さんに聞かれたんだが</value>
+  </data>
+  <data name="0003 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>心理テストとかなのかしら？</value>
+  </data>
+  <data name="0004 (027.ja) KYON (キョン)" xml:space="preserve">
+    <value>さあ？</value>
+  </data>
+  <data name="0005 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>解答はなかったの？</value>
+  </data>
+  <data name="0006 (027.ja) KYON (キョン)" xml:space="preserve">
+    <value>キレイは可憐で、道ばたは健気だと
+か言ってたかな？</value>
+  </data>
+  <data name="0007 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>単なる花の好みなのかしらね？</value>
+  </data>
+  <data name="0008 (027.ja) KYON (キョン)" xml:space="preserve">
+    <value>さあな</value>
+  </data>
+  <data name="0009 (027.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺に聞かれても、鶴屋さんのする
+ことはハルヒ並みによくわからん</value>
+  </data>
+  <data name="0010 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしはどっちも好きだけど、
+キョンは？</value>
+  </data>
+  <data name="0011 (027.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺は花のことはさっぱりだ</value>
+  </data>
+  <data name="0012 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、そんなところでしょうね</value>
+  </data>
+  <data name="0013 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんなら、花言葉とかまで
+知っていそうだけど</value>
+  </data>
+  <data name="0014 (027.ja) KYON (キョン)" xml:space="preserve">
+    <value>男は知らないのが普通だろ？</value>
+  </data>
+  <data name="0015 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だからキョンはモテないのよ</value>
+  </data>
+  <data name="0016 (027.ja) KYON (キョン)" xml:space="preserve">
+    <value>ほっとけ</value>
+  </data>
+  <data name="0017 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>音楽室の鍵を借りに行った帰りに
+鶴屋さんと会ったんですよ</value>
+  </data>
+  <data name="0018 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふぅん</value>
+  </data>
+  <data name="0019 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それで鶴屋さんがキョンくんに
+質問していたんですけど</value>
+  </data>
+  <data name="0020 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>質問ってどんな？</value>
+  </data>
+  <data name="0021 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キレイな花と道ばたに咲く花の
+どちらが好きかって</value>
+  </data>
+  <data name="0022 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何なのかしら？　心理テスト？</value>
+  </data>
+  <data name="0023 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうかもしれませんね。ヒントも
+ありましたし</value>
+  </data>
+  <data name="0024 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ヒントってどんなのだったの？</value>
+  </data>
+  <data name="0025 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええと、確か、キレイな花は思わず
+世話をしたくなるような可憐な花</value>
+  </data>
+  <data name="0026 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>道ばたの花は、小さくて目立たない
+けれど健気な花、だったと思います</value>
+  </data>
+  <data name="0027 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……意味深ねぇ。心理テストに
+しても何を表しているのか疑問だわ</value>
+  </data>
+  <data name="0028 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>鶴屋さんですからねぇ。真意は
+あたしには良くわかりません</value>
+  </data>
+  <data name="0029 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんの友達なのに？</value>
+  </data>
+  <data name="0030 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>友達でもです。何というか鶴屋さん
+スケールが大きすぎて……</value>
+  </data>
+  <data name="0031 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、そんな感じねー。わかるわ</value>
+  </data>
+  <data name="0032 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#P06涼宮さんに少し似てるかも……</value>
+  </data>
+  <data name="0033 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え？　何か言った？</value>
+  </data>
+  <data name="0034 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>い、いえっ、何でもありませんっ</value>
+  </data>
+  <data name="0035 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>で、キョンはどちらを選んだの？</value>
+  </data>
+  <data name="0036 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええと、部屋に飾るならキレイな
+花がいいと言いました</value>
+  </data>
+  <data name="0037 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それであたし、今度花を持っていく
+約束をしたんですが</value>
+  </data>
+  <data name="0038 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>心理テストにしては結果を教えて
+くれなかったんですよね</value>
+  </data>
+  <data name="0039 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0040 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>単にお花の趣味を聞いてたんで
+しょうか？</value>
+  </data>
+  <data name="0041 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと待って、みくるちゃん
+深読みし過ぎたかもしれないわ</value>
+  </data>
+  <data name="0042 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうなんですか？</value>
+  </data>
+  <data name="0043 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もっと単純な意味なのかも</value>
+  </data>
+  <data name="0044 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>一緒にいたの、キョンと有希よね？</value>
+  </data>
+  <data name="0045 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい、そうです</value>
+  </data>
+  <data name="0046 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは意味がわからない？</value>
+  </data>
+  <data name="0047 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はぁ……わかりません</value>
+  </data>
+  <data name="0048 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>…………ま、みくるちゃんだものね
+どうせ、有希もわからないだろうし</value>
+  </data>
+  <data name="0049 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あのぉ……？</value>
+  </data>
+  <data name="0050 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうせキョンも理解できたとは
+思えないしね</value>
+  </data>
+  <data name="0051 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの……涼宮さん……？</value>
+  </data>
+  <data name="0052 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そおぉ、キレイな花が好きねぇ……</value>
+  </data>
+  <data name="0053 (027.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……よくわからないけど、時間は
+だいぶ稼げましたね</value>
+  </data>
+  <data name="0054 (027.ja) NAGATO (長門)" xml:space="preserve">
+    <value>キレイな花と道ばたに咲く花の
+どちらが好みかと聞かれていた</value>
+  </data>
+  <data name="0055 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰に誰が？</value>
+  </data>
+  <data name="0056 (027.ja) NAGATO (長門)" xml:space="preserve">
+    <value>鶴屋さんに彼が</value>
+  </data>
+  <data name="0057 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん、鶴屋さんにキョンがね
+何の意味があるのかしら？</value>
+  </data>
+  <data name="0058 (027.ja) NAGATO (長門)" xml:space="preserve">
+    <value>キレイは可憐、道ばたは健気</value>
+  </data>
+  <data name="0059 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ヒント？　それヒントなの？</value>
+  </data>
+  <data name="0060 (027.ja) NAGATO (長門)" xml:space="preserve">
+    <value>彼女がそう言った</value>
+  </data>
+  <data name="0061 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>で、キョンはどっちだって？</value>
+  </data>
+  <data name="0062 (027.ja) NAGATO (長門)" xml:space="preserve">
+    <value>可憐な花が好きだと</value>
+  </data>
+  <data name="0063 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、有希。その時、あなたと
+みくるちゃんがキョンといたのね？</value>
+  </data>
+  <data name="0064 (027.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0065 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふ～ん、そうなんだ……</value>
+  </data>
+  <data name="0066 (027.ja) NAGATO (長門)" xml:space="preserve">
+    <value>なぜ、不機嫌？</value>
+  </data>
+  <data name="0067 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいこと、有希。あなたは賢くて
+とってもいい娘よ</value>
+  </data>
+  <data name="0068 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>少しだけ無口だけどね</value>
+  </data>
+  <data name="0069 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしが断言してあげる！</value>
+  </data>
+  <data name="0070 (027.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……？</value>
+  </data>
+  <data name="0071 (027.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんは、可憐な花と健気な花の
+どちらがお好みでしょう？</value>
+  </data>
+  <data name="0072 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにそれ？　どんな意味で聞いて
+いるの？</value>
+  </data>
+  <data name="0073 (027.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>鶴屋さんが彼に訊ねた
+ことなのですが</value>
+  </data>
+  <data name="0074 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>鶴屋さんが、キョンに？
+……意味深ね</value>
+  </data>
+  <data name="0075 (027.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、ご本人達は気づいてなさそう
+ですが、比喩的意味ではないかと</value>
+  </data>
+  <data name="0076 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>可憐な花がみくるちゃん？</value>
+  </data>
+  <data name="0077 (027.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>健気な花が長門さんでは
+ないでしょうか</value>
+  </data>
+  <data name="0078 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あの子たち、目の前で言われて
+気づいてないの？</value>
+  </data>
+  <data name="0079 (027.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>多分</value>
+  </data>
+  <data name="0080 (027.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>鈍感なんだから</value>
+  </data>
 </root>

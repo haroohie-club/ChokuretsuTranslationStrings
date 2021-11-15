@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,127 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0001 (135.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それじゃ始めましょうか</value>
+  </data>
+  <data name="0002 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>ここからは詰めチェスを解く為に
+『駒の守りと崩し』を説明して</value>
+  </data>
+  <data name="0003 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>いきます</value>
+  </data>
+  <data name="0004 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>まずはチェスの基本である“駒の
+守り”についてです</value>
+  </data>
+  <data name="0005 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>下画面のような局面の場合、“ルー
+ク”で“ビショップ”を取る事が</value>
+  </data>
+  <data name="0006 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>出来ますが、直に“ポーン”に取返
+されてしまいます</value>
+  </data>
+  <data name="0007 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>このような状態を『ビショップは
+ポーンに守られている』と言います</value>
+  </data>
+  <data name="0008 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“ルーク”と“ビショップ”の取り
+合いでは損をしてしまいますので</value>
+  </data>
+  <data name="0009 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>取りに行く事が出来ません。</value>
+  </data>
+  <data name="0010 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>このように、駒を別の駒で守る事で
+相手に駒を取られないようにして</value>
+  </data>
+  <data name="0011 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>いく事がチェスの重要な戦術になり
+ます</value>
+  </data>
+  <data name="0012 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>詰めチェスの問題とは『いかに“キ
+ング”の守りを崩すか』を追求する</value>
+  </data>
+  <data name="0013 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>問題といえます</value>
+  </data>
+  <data name="0014 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>では、相手の守りを崩すにはどうす
+れば良いのでしょうか？</value>
+  </data>
+  <data name="0015 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>答えは『動かさざるをえない局面を
+作る』です</value>
+  </data>
+  <data name="0016 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>２手で“チェックメイト”という下
+画面の問題を見てください</value>
+  </data>
+  <data name="0017 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>よろこんで白の“クイーン”で黒の
+“クイーン”を取ってしまうと</value>
+  </data>
+  <data name="0018 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>黒の“ルーク”で“チェックメイ
+ト”されてしまいます</value>
+  </data>
+  <data name="0019 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>この局面で重要なのは、白の“ク
+イーン”と“ナイト”を上手く活用</value>
+  </data>
+  <data name="0020 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>して、黒の“ルーク”を動かさざる
+をえなくさせるということです</value>
+  </data>
+  <data name="0021 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>ここで活躍するのは“クイーン”
+です</value>
+  </data>
+  <data name="0022 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>白の“クイーン”で“チェック”す
+ることで、黒は“ルーク”で取る</value>
+  </data>
+  <data name="0023 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>しか手がありません</value>
+  </data>
+  <data name="0024 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>こうすれば白の“ナイト”で“チェ
+ックメイト”することが出来るよう</value>
+  </data>
+  <data name="0025 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>になります</value>
+  </data>
+  <data name="0026 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“ナイト”を取る手段も“キング”
+の逃げ道もありません</value>
+  </data>
+  <data name="0027 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“チェックメイト”です</value>
+  </data>
+  <data name="0028 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>このように『敵の守りを崩す』こと
+は実戦でも役立つ重要な要素です</value>
+  </data>
+  <data name="0029 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>では実際にやってみてください</value>
+  </data>
+  <data name="0030 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>２手で“チェックメイト”
+してください</value>
+  </data>
+  <data name="0031 (135.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>正解です、キョンくん</value>
+  </data>
+  <data name="0032 (135.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“駒の守り”についての説明を
+終わります</value>
+  </data>
+  <data name="0033 (135.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>残念です、違ったみたいですね
+もう一度挑戦してみてください</value>
+  </data>
 </root>

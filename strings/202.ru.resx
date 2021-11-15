@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,230 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (202.ja) KYON (キョン)" xml:space="preserve">
+    <value>なあ、ハルヒ</value>
+  </data>
+  <data name="0001 (202.ja) KYON (キョン)" xml:space="preserve">
+    <value>そんなに怪奇現象の謎解きがしたい
+なら、古泉に任せたらどうだ？</value>
+  </data>
+  <data name="0002 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしてココで、古泉くんの名前が
+出るのよ？</value>
+  </data>
+  <data name="0003 (202.ja) KYON (キョン)" xml:space="preserve">
+    <value>あいつ、見かけによらず推理マニア
+だからな。喜んで協力してくれるぞ</value>
+  </data>
+  <data name="0004 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>見かけによるじゃない。古泉くんは
+そういうの得意そうだわ</value>
+  </data>
+  <data name="0005 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どこかの誰かさんとは違ってね</value>
+  </data>
+  <data name="0006 (202.ja) KYON (キョン)" xml:space="preserve">
+    <value>ご察しの通り、俺は推理なんてのは
+苦手中の苦手でね</value>
+  </data>
+  <data name="0007 (202.ja) KYON (キョン)" xml:space="preserve">
+    <value>面倒なことは、出来るやつに任せた
+方が早い。効率的だと思うぞ</value>
+  </data>
+  <data name="0008 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ただの怠けグセでしょーが</value>
+  </data>
+  <data name="0009 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バカなこと言ってないで、早く
+音楽室に行くわよ！</value>
+  </data>
+  <data name="0010 (202.ja) KYON (キョン)" xml:space="preserve">
+    <value>へいへい、仰せのままに団長どの</value>
+  </data>
+  <data name="0011 (202.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、涼宮さんって、推理が上手
+ですよね？</value>
+  </data>
+  <data name="0012 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしが推理上手？　どうして？</value>
+  </data>
+  <data name="0013 (202.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>だって、人喰い教室の件も、涼宮
+さんの推理で解決したし……</value>
+  </data>
+  <data name="0014 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、上手ってほどじゃないけど
+得意な方ではあるわね</value>
+  </data>
+  <data name="0015 (202.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>実は、古泉くんも推理が上手だって
+キョンくんが言ってました</value>
+  </data>
+  <data name="0016 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは、この前も
+面白いシナリオ考えてくれたでしょ</value>
+  </data>
+  <data name="0017 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんな仕掛けを考えるくらいだし
+相当な推理マニアと見たわ</value>
+  </data>
+  <data name="0018 (202.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ＳＯＳ団には、二人の名探偵が
+いることになりますね～</value>
+  </data>
+  <data name="0019 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>違うわ、みくるちゃん</value>
+  </data>
+  <data name="0020 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは、言わば名探偵をはるかに
+越えた超探偵だもの</value>
+  </data>
+  <data name="0021 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは、名探偵かもしれない
+けど</value>
+  </data>
+  <data name="0022 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、推理で謎を解き明かすよりも
+本当の怪奇現象に出会いたいわね</value>
+  </data>
+  <data name="0023 (202.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですね……</value>
+  </data>
+  <data name="0024 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今度こそ期待してるわ。待ってなさ
+い、音楽室！</value>
+  </data>
+  <data name="0025 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あーもうっ、音楽室って遠いわね！
+もっと近くに作りなさいよ、ったく</value>
+  </data>
+  <data name="0026 (202.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……急用？</value>
+  </data>
+  <data name="0027 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急用って、決まってるじゃない
+怪奇現象を見逃さないためでしょ</value>
+  </data>
+  <data name="0028 (202.ja) NAGATO (長門)" xml:space="preserve">
+    <value>またイタズラである可能性も否定
+できない</value>
+  </data>
+  <data name="0029 (202.ja) NAGATO (長門)" xml:space="preserve">
+    <value>事実、古泉一樹の推理では今回も
+何者かのイタズラが疑われている</value>
+  </data>
+  <data name="0030 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、古泉くんはそんな風に推理し
+てるのね。面白いじゃない</value>
+  </data>
+  <data name="0031 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしもバカじゃないわ。その可能
+性も考えてるけど……</value>
+  </data>
+  <data name="0032 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、実際に怪奇現象だった方が
+何万倍も面白いじゃない。でしょ？</value>
+  </data>
+  <data name="0033 (202.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0034 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希には分からないかしらね</value>
+  </data>
+  <data name="0035 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあいいわ、とにかく現場の確保と
+再調査が優先事項よ</value>
+  </data>
+  <data name="0036 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どっちに転んでも、楽しむのが
+ＳＯＳ団なんだから</value>
+  </data>
+  <data name="0037 (202.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>どうやら、涼宮さんも僕と同じタイ
+プのようですね</value>
+  </data>
+  <data name="0038 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>同じタイプ？　いきなり、なに？</value>
+  </data>
+  <data name="0039 (202.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>実は、アレコレと物事を推理して
+謎を追及するのが好きなんです</value>
+  </data>
+  <data name="0040 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ！　そういうことね！</value>
+  </data>
+  <data name="0041 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしも当然、そういうのは好きよ</value>
+  </data>
+  <data name="0042 (202.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>しかし驚きました。例の人喰い教室
+の一件では、見事な推理でしたね</value>
+  </data>
+  <data name="0043 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ当然の結果ね。あれだけ証拠が
+そろっていたもの</value>
+  </data>
+  <data name="0044 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしとしては、楽勝だったわ</value>
+  </data>
+  <data name="0045 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>怪奇現象じゃなかったことだけは
+残念だったけど……</value>
+  </data>
+  <data name="0046 (202.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>もしかすると、今回のピアノ騒動も
+怪奇現象ではないかもしれませんね</value>
+  </data>
+  <data name="0047 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だとしたら、また、あたしの名推理
+で謎を解き明かして見せるわ</value>
+  </data>
+  <data name="0048 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんも、もう色々と推理を始め
+てるんでしょ？</value>
+  </data>
+  <data name="0049 (202.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、ひそかに。今度は涼宮さん
+よりも早く、披露したいものです</value>
+  </data>
+  <data name="0050 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふっふーん、そうはいかないわ</value>
+  </data>
+  <data name="0051 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、とにかく今は、くだらない
+イタズラじゃなくて……</value>
+  </data>
+  <data name="0052 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>本当の怪奇現象であって欲しい
+わね。そのための合宿なんだし</value>
+  </data>
+  <data name="0053 (202.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですね……</value>
+  </data>
+  <data name="0054 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんとしては、イタズラ説に
+傾いてるわけ？</value>
+  </data>
+  <data name="0055 (202.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おっと、その手には乗りません
+ライバルに情報は与えませんよ</value>
+  </data>
+  <data name="0056 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なかなか手厳しいわね。面白く
+なってきたわ！</value>
+  </data>
+  <data name="0057 (202.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どっちにしても、現場は音楽室だわ
+急いで行きましょう！</value>
+  </data>
+  <data name="0058 (202.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0059 (202.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……涼宮さん、申し訳ありませんが
+怪奇現象では、困るんですよ</value>
+  </data>
+  <data name="0060 (202.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>世界が壊れてしまいますから</value>
+  </data>
 </root>

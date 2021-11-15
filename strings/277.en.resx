@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,67 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (277.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>な、夏は、おまんじゅうの美味しい
+季節ですよねっ？</value>
+  </data>
+  <data name="0001 (277.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0002 (277.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……年中、季節に関係なく美味しい
+と思うけど、どうしたの唐突に？</value>
+  </data>
+  <data name="0003 (277.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしはどっちかって言えば冬の方
+が美味しいような気がするわ</value>
+  </data>
+  <data name="0004 (277.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですかぁ</value>
+  </data>
+  <data name="0005 (277.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうして、突然おまんじゅうの話が
+飛び出したの？</value>
+  </data>
+  <data name="0006 (277.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、コンピ研に調査に行った時
+お茶菓子に、出してくれたんです</value>
+  </data>
+  <data name="0007 (277.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へーえ、あの連中、そういう気遣い
+も出来たりするのね</value>
+  </data>
+  <data name="0008 (277.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも、長門さんはそれを食べずに
+おみやげにしたみたいで……</value>
+  </data>
+  <data name="0009 (277.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>おみやげ？　おみやげねぇ
+ちょっと意味がわかんないんだけど</value>
+  </data>
+  <data name="0010 (277.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>食べずに、そのままキョンくんに
+渡して、おみやげだって言ったとか</value>
+  </data>
+  <data name="0011 (277.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>よく分からないけど、有希がヘンな
+子だっていう話？</value>
+  </data>
+  <data name="0012 (277.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>べ、別にそういう意味じゃなくてっ</value>
+  </data>
+  <data name="0013 (277.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ってことは、今でもキョンが、その
+おまんじゅうを持ってるのね？</value>
+  </data>
+  <data name="0014 (277.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>妹ちゃん、キョンから奪い取って
+二人で山分けしましょう</value>
+  </data>
+  <data name="0016 (277.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>わぁい、おまんじゅう好き～</value>
+  </data>
+  <data name="0017 (277.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくぅぅん、ごめんなさぁぁい</value>
+  </data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,159 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (269.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉の私物の話なんだが……</value>
+  </data>
+  <data name="0001 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういえば、あれ
+駒が足りなかったのよね</value>
+  </data>
+  <data name="0002 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしが借りたのはちゃんと
+返したのに……なんでかしら？</value>
+  </data>
+  <data name="0003 (269.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんでと言われてもな……</value>
+  </data>
+  <data name="0004 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>きっとこれは、何か秘密がある
+んじゃないかしら</value>
+  </data>
+  <data name="0005 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もしかして、消えた駒の種類が
+なにかのメッセージに……！？</value>
+  </data>
+  <data name="0006 (269.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、そんなバカな……</value>
+  </data>
+  <data name="0007 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいえ、そうに違いないわ！</value>
+  </data>
+  <data name="0008 (269.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんだか、余計に面倒なことに
+なった気が……</value>
+  </data>
+  <data name="0009 (269.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あのぅ、古泉くんの持ってきたあの
+チェス……</value>
+  </data>
+  <data name="0010 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ……みくるちゃんも気づいてし
+まったのね</value>
+  </data>
+  <data name="0011 (269.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>へ？　あの……</value>
+  </data>
+  <data name="0012 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうして駒が足りないのか……</value>
+  </data>
+  <data name="0013 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>
+そこには重大な秘密が隠されてる</value>
+  </data>
+  <data name="0014 (269.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうなんですかあ！？</value>
+  </data>
+  <data name="0015 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ、間違いないわ</value>
+  </data>
+  <data name="0016 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>おそらく、無くなっている駒の種類
+と数がキーワードね</value>
+  </data>
+  <data name="0017 (269.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はう……</value>
+  </data>
+  <data name="0018 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>この暗号の謎を解いた時、何かが
+起こる……そう確信しているわ</value>
+  </data>
+  <data name="0019 (269.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>な、なにかってなんですかあ</value>
+  </data>
+  <data name="0020 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは分からない
+けど、すごいことに決まってるわ！</value>
+  </data>
+  <data name="0021 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>例えばそう！　みくるちゃんが明日
+から男の子になるくらい！</value>
+  </data>
+  <data name="0022 (269.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えええ！？</value>
+  </data>
+  <data name="0023 (269.ja) NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹の私物が、部室に残って
+いた</value>
+  </data>
+  <data name="0024 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、チェスのこと</value>
+  </data>
+  <data name="0025 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それにしても、どうしてまた駒が
+足りなくなってたのかしら？</value>
+  </data>
+  <data name="0026 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしはちゃんと元に戻したはず
+なのに</value>
+  </data>
+  <data name="0027 (269.ja) NAGATO (長門)" xml:space="preserve">
+    <value>誰かが持ち出した</value>
+  </data>
+  <data name="0028 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう、それしか考えられない
+ってことは……</value>
+  </data>
+  <data name="0029 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これ事件かも！</value>
+  </data>
+  <data name="0030 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>後で調べてみましょ！</value>
+  </data>
+  <data name="0031 (269.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>チェスを調べていて知ったのですが
+アラビアチェスは少し違うんですよ</value>
+  </data>
+  <data name="0032 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>わかったわ、きっと将棋みたいな
+遊び方なのねっ</value>
+  </data>
+  <data name="0033 (269.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、アラビアのチェスの駒には
+クイーンが存在しないのです</value>
+  </data>
+  <data name="0034 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>えっ、そうだったの？
+キングは独身だったのかしらね</value>
+  </data>
+  <data name="0035 (269.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>理由は判りません、昔はクイーン
+抜きで遊んでいたそうです</value>
+  </data>
+  <data name="0036 (269.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>今はクイーンも使うようですが</value>
+  </data>
+  <data name="0037 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>世界的な遊びだと思っていたけど
+国によって違うのね</value>
+  </data>
+  <data name="0038 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>面白い話が聞けたわ</value>
+  </data>
+  <data name="0039 (269.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ただ、これは断言できる話ではなく
+残っている書からの推理だそうです</value>
+  </data>
+  <data name="0040 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>推理でも憶測でも、クイーン抜きで
+遊ぶチェスも楽しそうよね</value>
+  </data>
+  <data name="0041 (269.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですね。合宿が終わったら
+一度お手合わせ出来ればと思います</value>
+  </data>
+  <data name="0042 (269.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そのためにも、さっさと怪奇現象を
+突き止めなくちゃね</value>
+  </data>
 </root>

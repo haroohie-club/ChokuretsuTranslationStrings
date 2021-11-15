@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,30 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (186.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんってゲームはアナログの
+方が好きなんだそうですよ</value>
+  </data>
+  <data name="0001 (186.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうでしょうね。本人、ヘタの横好
+きと自称してるけどね</value>
+  </data>
+  <data name="0002 (186.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ヘタの横好き……古泉くんてあんな
+に賢いのに不思議ですよね</value>
+  </data>
+  <data name="0003 (186.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>どうして、ゲームは
+今ひとつなんでしょう</value>
+  </data>
+  <data name="0004 (186.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよね、今更だけど不思議だわ
+勝負運が足りないのかもね</value>
+  </data>
+  <data name="0005 (186.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>勝負運って涼宮さんが強そうです</value>
+  </data>
+  <data name="0006 (186.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあっ、当然よ！</value>
+  </data>
 </root>

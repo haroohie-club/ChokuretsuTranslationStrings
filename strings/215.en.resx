@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,192 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (215.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉がな、長門が言ってることが
+理解しにくい時があるから</value>
+  </data>
+  <data name="0001 (215.ja) KYON (キョン)" xml:space="preserve">
+    <value>虎の巻が欲しいとか言うんだよ</value>
+  </data>
+  <data name="0002 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>えっ、古泉くんがなの？　キョンが
+言うならすごくわかるんだけど</value>
+  </data>
+  <data name="0003 (215.ja) KYON (キョン)" xml:space="preserve">
+    <value>だよなぁ。長門を解説させたら古泉
+が第一人者だと認めるところだが</value>
+  </data>
+  <data name="0004 (215.ja) KYON (キョン)" xml:space="preserve">
+    <value>そのあいつが虎の巻とはね……</value>
+  </data>
+  <data name="0005 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>すごいわ、有希！　古泉くんに
+そうまで言わせるなんて</value>
+  </data>
+  <data name="0006 (215.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、ハルヒ。そこで感心するのも
+どうかと思うぞ</value>
+  </data>
+  <data name="0007 (215.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん。あの～、長門さんの
+虎の巻って</value>
+  </data>
+  <data name="0008 (215.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あったら便利だと思ったり
+しませんか？</value>
+  </data>
+  <data name="0009 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希の虎の巻？　なにそれ</value>
+  </data>
+  <data name="0010 (215.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんの話してることの意味が
+すんなりわかったり</value>
+  </data>
+  <data name="0011 (215.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>無表情でも気持ちが理解できたり
+したらいいと思うんです</value>
+  </data>
+  <data name="0012 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん。あたしは別に不便じゃ
+ないから必要ないわ</value>
+  </data>
+  <data name="0013 (215.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええっ、涼宮さんは理解できちゃう
+んですか。すごいです</value>
+  </data>
+  <data name="0014 (215.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>虎の巻が欲しいって言い出したのは
+古泉くんなんですよ</value>
+  </data>
+  <data name="0015 (215.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あんなに頭のいい古泉くんも理解に
+苦しむ時があると言ってましたよ</value>
+  </data>
+  <data name="0016 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん。有希を理解する必要
+はないのよ</value>
+  </data>
+  <data name="0017 (215.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうなんですか？</value>
+  </data>
+  <data name="0018 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>理解できなくても、信頼してれば
+それで十分だと思うわ</value>
+  </data>
+  <data name="0019 (215.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……そうですね！</value>
+  </data>
+  <data name="0020 (215.ja) NAGATO (長門)" xml:space="preserve">
+    <value>虎の巻が欲しいと言われた</value>
+  </data>
+  <data name="0021 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>虎の巻ってガイドブック？
+何のガイドブックかしらね</value>
+  </data>
+  <data name="0022 (215.ja) NAGATO (長門)" xml:space="preserve">
+    <value>長門有希</value>
+  </data>
+  <data name="0023 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希のガイドブック……ねぇ
+言ったのはキョン？</value>
+  </data>
+  <data name="0024 (215.ja) NAGATO (長門)" xml:space="preserve">
+    <value>違う。古泉一樹</value>
+  </data>
+  <data name="0025 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、古泉くんなの。古泉くんは
+有希にそんなに興味あったんだ</value>
+  </data>
+  <data name="0026 (215.ja) NAGATO (長門)" xml:space="preserve">
+    <value>興味？</value>
+  </data>
+  <data name="0027 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ガイドブックが欲しいほど、有希の
+ことを知りたいんでしょ</value>
+  </data>
+  <data name="0028 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふぅぅぅん、それはちょっと面白い
+わねぇ</value>
+  </data>
+  <data name="0029 (215.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0030 (215.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんの話すことを理解するため
+虎の巻が欲しいくらいだと言ったら</value>
+  </data>
+  <data name="0031 (215.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>たいそう驚かれてしまいました</value>
+  </data>
+  <data name="0032 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんらしくない話し方ね</value>
+  </data>
+  <data name="0033 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>確認するわよ。驚いたのはキョンで
+いいのね？</value>
+  </data>
+  <data name="0034 (215.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ああ、すみません。５Ｗ１Ｈの誰が
+抜けていましたね。失礼しました</value>
+  </data>
+  <data name="0035 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>通常会話で５Ｗ１Ｈを心がけるのは
+古泉くんぐらいだけどね</value>
+  </data>
+  <data name="0036 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まぁとにかく、有希の発言は時々
+難し過ぎて、</value>
+  </data>
+  <data name="0037 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういうのが欲しい時あるわよね</value>
+  </data>
+  <data name="0038 (215.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>欲しいですね。何せ長門さんは僕と
+は比べものにならない読書家ですし</value>
+  </data>
+  <data name="0039 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、なんで古泉くんのその発言で
+キョンが驚くのか</value>
+  </data>
+  <data name="0040 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしにはイマイチわからないんだ
+けど</value>
+  </data>
+  <data name="0041 (215.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕もいささか釈然としないので、
+涼宮さんにお話したのですが</value>
+  </data>
+  <data name="0042 (215.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>どうやら彼には、僕が長門さんの
+解説者と目されていたらしいですね</value>
+  </data>
+  <data name="0043 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そりゃあ、当然だけどキョンより
+理解力があるものね</value>
+  </data>
+  <data name="0044 (215.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>頼られていたと喜ぶべきなので
+しょうかね</value>
+  </data>
+  <data name="0045 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういうことにしておけば</value>
+  </data>
+  <data name="0046 (215.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>過度の期待に対して、応えられる
+自信はないのですが</value>
+  </data>
+  <data name="0047 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは真面目すぎなのよ</value>
+  </data>
+  <data name="0048 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうせキョンの方が頭悪くて
+わからないだけなんだから</value>
+  </data>
+  <data name="0049 (215.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>気にすることないわよ</value>
+  </data>
+  <data name="0050 (215.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんも彼も、考え方が大らか
+ですね……羨ましい限りですよ</value>
+  </data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,325 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい長門、まだ全部消してないのに
+元の空間に戻ったぞ</value>
+  </data>
+  <data name="0001 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>よし、戻ってきたぞ
+これで解決したってことか？</value>
+  </data>
+  <data name="0002 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>相手の本体が逃走した</value>
+  </data>
+  <data name="0003 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんてこった……もう少し早く
+消せれば逃げられなかったかもな</value>
+  </data>
+  <data name="0004 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>あなたのせいではない
+気にしなくていい</value>
+  </data>
+  <data name="0005 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、でも。このままじゃ
+まずいんじゃないのか？</value>
+  </data>
+  <data name="0006 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>次は逃がさない</value>
+  </data>
+  <data name="0007 (389.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>表面上はいつもの長門だが
+いつもとは何か違う雰囲気を感じる</value>
+  </data>
+  <data name="0008 (389.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしかして長門的に悔しがって
+いるのだろうか</value>
+  </data>
+  <data name="0010 (389.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくん！</value>
+  </data>
+  <data name="0011 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん……</value>
+  </data>
+  <data name="0012 (389.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>よかったぁ、無事だったんですね</value>
+  </data>
+  <data name="0013 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ご無事のようでなによりです</value>
+  </data>
+  <data name="0014 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうやら事情はわかってるって
+ことか</value>
+  </data>
+  <data name="0015 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、そうですね</value>
+  </data>
+  <data name="0016 (389.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>結局、ハルヒ以外は勢揃い
+ということは、ハルヒがらみか</value>
+  </data>
+  <data name="0017 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>まず朝比奈さんがあなたが消えた
+ことに気がつきました</value>
+  </data>
+  <data name="0018 (389.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>突然目の前からいなくなったんです
+びっくりしちゃいました……</value>
+  </data>
+  <data name="0019 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>何が起こったんだ？</value>
+  </data>
+  <data name="0020 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>空間だの位相がどうのと言われても
+俺にはさっぱり分からん</value>
+  </data>
+  <data name="0021 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あなたも知っている、あの閉鎖空間
+と感覚的には似ているのですが……</value>
+  </data>
+  <data name="0022 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>閉鎖空間？　ハルヒがストレスを
+溜め込むと発生させる、アレか？</value>
+  </data>
+  <data name="0023 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃあ、やっぱりハルヒの奴が
+原因なのか？</value>
+  </data>
+  <data name="0025 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>涼宮ハルヒを発生源とする
+閉鎖空間とは、似て非なるもの</value>
+  </data>
+  <data name="0026 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>だそうでして、さて……
+どう説明したらいいものでしょう</value>
+  </data>
+  <data name="0027 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>出来るだけわかりやすく頼む</value>
+  </data>
+  <data name="0028 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>現実空間から切り離された、いわば
+“異空間”とでも言うべきものが</value>
+  </data>
+  <data name="0029 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>発生しているのです</value>
+  </data>
+  <data name="0030 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それも、長門さんによると学校の
+いたるところに存在するようです</value>
+  </data>
+  <data name="0031 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>なに……？</value>
+  </data>
+  <data name="0032 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>あなたが迷い込んだのは空間が
+固定化される直前の状態</value>
+  </data>
+  <data name="0033 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>思いもよらず、絶体絶命の危機
+だったってわけか</value>
+  </data>
+  <data name="0034 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>残念ながら危機は未だ続いています</value>
+  </data>
+  <data name="0035 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なぜなら、今この瞬間も学校内で
+異空間が発生しています</value>
+  </data>
+  <data name="0036 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いつどこが先ほどの教室のように
+なってもおかしくないのですから</value>
+  </data>
+  <data name="0037 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ……それはさっき体験してきた
+ところだ</value>
+  </data>
+  <data name="0038 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、おまえの力でなんとか
+ならないのか</value>
+  </data>
+  <data name="0039 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>可能。しかし推奨はできない</value>
+  </data>
+  <data name="0040 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>どういうことだ？</value>
+  </data>
+  <data name="0041 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>現在、学校全体を含む空間の
+情報結合が不安定になっている</value>
+  </data>
+  <data name="0042 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>強制的に消去すれば周辺空間に
+歪みが生まれる可能性がある</value>
+  </data>
+  <data name="0043 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>要するに――</value>
+  </data>
+  <data name="0044 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>川の流れを急にせき止めれば
+周囲の環境に悪影響がでる</value>
+  </data>
+  <data name="0045 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ということでしょうね</value>
+  </data>
+  <data name="0046 (389.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やっぱり古泉に翻訳してもらう
+方がわかりやすくていい</value>
+  </data>
+  <data name="0049 (389.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも、それじゃどうしましょう……</value>
+  </data>
+  <data name="0050 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>確かに簡単にいかないのは分かった
+だったら、どうすればいい？</value>
+  </data>
+  <data name="0052 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>空間を創造する原因を特定して
+発生源を排除する</value>
+  </data>
+  <data name="0053 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そうすれば緩やかに自然消滅する</value>
+  </data>
+  <data name="0054 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>さっきの異空間でやったことを
+またやればいいってことか</value>
+  </data>
+  <data name="0055 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0057 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>でしたら早々に行動をおこさないと
+悠長にしている暇はありません</value>
+  </data>
+  <data name="0058 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうだ
+今からでも行った方がいいな</value>
+  </data>
+  <data name="0059 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>それは不可能</value>
+  </data>
+  <data name="0060 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>おいっ、ほっとくとマズイんじゃ
+ないのか！？</value>
+  </data>
+  <data name="0061 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>異空間を生成すると思われる
+情報生命体の正確な位置の特定が</value>
+  </data>
+  <data name="0062 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>困難。移動しているものと推測</value>
+  </data>
+  <data name="0063 (389.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いきなり肩すかしをくらった気分だ</value>
+  </data>
+  <data name="0064 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>位置特定にはもう少し時間がかかる</value>
+  </data>
+  <data name="0065 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃあ、そっちは長門に任せる</value>
+  </data>
+  <data name="0066 (389.ja) NAGATO (長門)" xml:space="preserve">
+    <value>分かった</value>
+  </data>
+  <data name="0068 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>となると、我々にできることは
+一つしかありませんね</value>
+  </data>
+  <data name="0069 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだ？　それは</value>
+  </data>
+  <data name="0070 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんをなんとかして学校から
+遠ざけるのです</value>
+  </data>
+  <data name="0071 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんの仕事をしやすくするため
+そして、万が一の事態を避けるため</value>
+  </data>
+  <data name="0072 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>万が一の事態？</value>
+  </data>
+  <data name="0073 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんが、この異常事態を目撃し
+てしまえば大変なことになります</value>
+  </data>
+  <data name="0074 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>さぞかし大喜びするだろうな</value>
+  </data>
+  <data name="0075 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それどころではありません</value>
+  </data>
+  <data name="0076 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんが異空間を目にし、それが
+存在することを認めてしまうと</value>
+  </data>
+  <data name="0077 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>異空間がそこらに存在することが
+当たり前の世界になりかねません</value>
+  </data>
+  <data name="0078 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>まさに世界の危機というわけです</value>
+  </data>
+  <data name="0079 (389.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は古泉の言うことを大げさだと
+片付けられなかった</value>
+  </data>
+  <data name="0080 (389.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>目の前で暴れ回る光の巨人――
+誰もいなくなった世界――</value>
+  </data>
+  <data name="0081 (389.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>全部、目の前で起こった事実なのだ</value>
+  </data>
+  <data name="0082 (389.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あれも含めてわけのわからん異世界
+が量産されるなんてまっぴらだ</value>
+  </data>
+  <data name="0084 (389.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも涼宮さん、怪奇現象を探すのに
+すごく乗り気でしたよね……</value>
+  </data>
+  <data name="0085 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんを学校から遠ざけるには
+いくつか方法があります</value>
+  </data>
+  <data name="0086 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>例えば、他に興味をひくようなもの
+を用意すること</value>
+  </data>
+  <data name="0087 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>もしくは、根本的にこの怪奇現象に
+興味をなくしてもらうか……</value>
+  </data>
+  <data name="0088 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>興味をなくす……か</value>
+  </data>
+  <data name="0089 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>どちらにせよ、我々には著しく
+情報が不足しています</value>
+  </data>
+  <data name="0090 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>もう少し、コンピ研の方々から
+話を聞いた方がいいかもしれません</value>
+  </data>
+  <data name="0091 (389.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そうだな……</value>
+  </data>
+  <data name="0092 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>コンピ研の聞き込みとハルヒを追う
+二手に分かれた方がいいかもな</value>
+  </data>
+  <data name="0093 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>難しいところですね</value>
+  </data>
+  <data name="0094 (389.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒと合流したときにメンバーが
+足りない言い訳も必要だな</value>
+  </data>
+  <data name="0095 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それは、素直にコンピ研へ聞き込み
+に向かったと言えば大丈夫かと</value>
+  </data>
+  <data name="0096 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>さて、どうしましょうか？</value>
+  </data>
 </root>

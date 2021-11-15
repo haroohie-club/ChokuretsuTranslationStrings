@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,254 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (340.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門の手ってちっちゃくてひんやり
+してたなあ</value>
+  </data>
+  <data name="0001 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっとキョン！　有希に変なこと
+したんじゃないでしょうね！？</value>
+  </data>
+  <data name="0002 (340.ja) KYON (キョン)" xml:space="preserve">
+    <value>するわけないだろ。長門の方から
+俺の手をにぎったんだよ</value>
+  </data>
+  <data name="0003 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうぅーん。有希も女の子だから
+怖くなったのかも知れないわね</value>
+  </data>
+  <data name="0004 (340.ja) KYON (キョン)" xml:space="preserve">
+    <value>そこまで俺にはわからん</value>
+  </data>
+  <data name="0005 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、女の子が怖がったりしたら
+ちゃんとかばってあげるのよ</value>
+  </data>
+  <data name="0006 (340.ja) KYON (キョン)" xml:space="preserve">
+    <value>女の子を怖がらせるようなハルヒに
+言われたくないね</value>
+  </data>
+  <data name="0007 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、あたしは面白がってるわけ
+じゃないのよっ</value>
+  </data>
+  <data name="0008 (340.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>面白がってたじゃないか
+あからさまに</value>
+  </data>
+  <data name="0009 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みんなが少しでも楽しめればと思っ
+てるだけよ</value>
+  </data>
+  <data name="0010 (340.ja) KYON (キョン)" xml:space="preserve">
+    <value>あれ。俺はてっきり、ハルヒは
+サディストかと思ってた</value>
+  </data>
+  <data name="0011 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、アンタは痛い目に合いたい
+らしいわね</value>
+  </data>
+  <data name="0012 (340.ja) KYON (キョン)" xml:space="preserve">
+    <value>ほらみろ、やっぱりサディストだろ</value>
+  </data>
+  <data name="0013 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうじゃないわよ、バカにされて
+黙っているわけないじゃないっ！</value>
+  </data>
+  <data name="0014 (340.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあそう怒るな。女性には優しく
+ってのは、俺も同感だ</value>
+  </data>
+  <data name="0015 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、急に改まっちゃって
+アンタ熱でも沸いてるんじゃないの</value>
+  </data>
+  <data name="0016 (340.ja) KYON (キョン)" xml:space="preserve">
+    <value>うるせえ。女の子に優しくするのは
+当然のことだろ</value>
+  </data>
+  <data name="0017 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん。どうだかね</value>
+  </data>
+  <data name="0018 (340.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえに対しても、ちょっとは
+気を遣っているつもりだが？</value>
+  </data>
+  <data name="0019 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どこがよ！　どういう神経してんの
+かしらコイツって</value>
+  </data>
+  <data name="0020 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もういいわ、さっさと行くわよっ！</value>
+  </data>
+  <data name="0021 (340.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだよ、人が話してるのに……</value>
+  </data>
+  <data name="0022 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うるさいわねえ、キリキリ歩く！</value>
+  </data>
+  <data name="0023 (340.ja) KYON (キョン)" xml:space="preserve">
+    <value>はいはい……</value>
+  </data>
+  <data name="0024 (340.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんの手って少しひんやり
+してるんだそうです</value>
+  </data>
+  <data name="0025 (340.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>握ったら気持ち良さそうですよね</value>
+  </data>
+  <data name="0026 (340.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも、長門さんがイヤがるかな？
+急に手を握ったら驚きますよね</value>
+  </data>
+  <data name="0027 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>女の子同士だもの、手ぐらい
+握っても問題ないでしょ、</value>
+  </data>
+  <data name="0028 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ところで</value>
+  </data>
+  <data name="0029 (340.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい、何でしょう</value>
+  </data>
+  <data name="0030 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希の手がひんやりしてるって言っ
+てたのはキョン？　キョンなのね？</value>
+  </data>
+  <data name="0031 (340.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はうっ……</value>
+  </data>
+  <data name="0032 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは早急に問い詰める必要がある
+わね。急ぐわよ、みくるちゃん！</value>
+  </data>
+  <data name="0033 (340.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくん、ごめんなさーーい</value>
+  </data>
+  <data name="0034 (340.ja) NAGATO (長門)" xml:space="preserve">
+    <value>階段は足元が不安定
+手を</value>
+  </data>
+  <data name="0035 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、ありがと……</value>
+  </data>
+  <data name="0036 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>って、有希
+あんたの手、すごく冷たいわ！</value>
+  </data>
+  <data name="0037 (340.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0038 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ、こんなに蒸し暑いのに、
+なんでそんなに冷たいわけ？</value>
+  </data>
+  <data name="0039 (340.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……血行が悪い</value>
+  </data>
+  <data name="0040 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だからって、冷たすぎよ……
+いいわ、しばらく握っててあげる</value>
+  </data>
+  <data name="0041 (340.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0042 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうだ。手の冷たい人は心が
+温かいっていうのよ。知ってた？</value>
+  </data>
+  <data name="0043 (340.ja) NAGATO (長門)" xml:space="preserve">
+    <value>特に根拠はない
+単なるレトリック</value>
+  </data>
+  <data name="0044 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうかもしれないけど、でもあたし
+は有希が優しいって知ってるわよ</value>
+  </data>
+  <data name="0045 (340.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……心配</value>
+  </data>
+  <data name="0046 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そ、有希が誰かに誤解されそうに
+なった時とか、</value>
+  </data>
+  <data name="0047 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしが守ってあげるわ</value>
+  </data>
+  <data name="0048 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしだけじゃなくて、ＳＯＳ団の
+総力を結集することになるわね</value>
+  </data>
+  <data name="0049 (340.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……彼も、朝比奈みくるも、古泉
+一樹も</value>
+  </data>
+  <data name="0050 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そりゃそうよ、だって、古泉くんも
+みくるちゃんも、キョンだって</value>
+  </data>
+  <data name="0051 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みんな、あなたの仲間なんだから</value>
+  </data>
+  <data name="0052 (340.ja) NAGATO (長門)" xml:space="preserve">
+    <value>仲間</value>
+  </data>
+  <data name="0053 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、あたしたちに遠慮とかした
+らダメだからね</value>
+  </data>
+  <data name="0054 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>思ったことは溜め込まないで全部
+言うの。判った？</value>
+  </data>
+  <data name="0055 (340.ja) NAGATO (長門)" xml:space="preserve">
+    <value>了解した。そうする</value>
+  </data>
+  <data name="0056 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うん、充分あったまったわね
+それじゃ、行きましょっか</value>
+  </data>
+  <data name="0057 (340.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……待って</value>
+  </data>
+  <data name="0058 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん、なに？</value>
+  </data>
+  <data name="0059 (340.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……手の冷たい人は心が温かい
+と、いうのなら……</value>
+  </data>
+  <data name="0060 (340.ja) NAGATO (長門)" xml:space="preserve">
+    <value>逆命題である“手の温かいひとは
+心が冷たい”は成立する？</value>
+  </data>
+  <data name="0061 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へ？　そうね、面白い問題ね
+もしかしたら、成立するかも</value>
+  </data>
+  <data name="0062 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうだわ！　あとでキョンの手を
+握って、</value>
+  </data>
+  <data name="0063 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あったかかったらお前は冷たいヤツ
+だって責めてやりましょう！</value>
+  </data>
+  <data name="0064 (340.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんの話なのですが……</value>
+  </data>
+  <data name="0065 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと待って！　今、あっちで
+何か物音がしたような気がするわ！</value>
+  </data>
+  <data name="0066 (340.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですか？　僕の耳には何も……</value>
+  </data>
+  <data name="0067 (340.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンたちのいる場所かもしれない
+わね！　もっと急ぎましょう！</value>
+  </data>
+  <data name="0068 (340.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ツイていませんね、どうも……</value>
+  </data>
 </root>

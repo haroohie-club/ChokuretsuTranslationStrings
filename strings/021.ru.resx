@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,147 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (021.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんを少しは安心させて
+やりたいんだが</value>
+  </data>
+  <data name="0001 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんが不安がってるの？</value>
+  </data>
+  <data name="0002 (021.ja) KYON (キョン)" xml:space="preserve">
+    <value>当たり前だろ。あんなに恐がりなの
+に怪談捜しなんかさせられてるんだ</value>
+  </data>
+  <data name="0003 (021.ja) KYON (キョン)" xml:space="preserve">
+    <value>ずっと緊張しっぱなしだろ</value>
+  </data>
+  <data name="0004 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうねえ。それはマズイわね</value>
+  </data>
+  <data name="0005 (021.ja) KYON (キョン)" xml:space="preserve">
+    <value>だろ？　だから今回はここらで
+止めにしてだな……</value>
+  </data>
+  <data name="0006 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>緩急は大切よね。ホラー映画でも
+ホッとさせたところで怪物が出るし</value>
+  </data>
+  <data name="0007 (021.ja) KYON (キョン)" xml:space="preserve">
+    <value>おいおい</value>
+  </data>
+  <data name="0008 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何か手を考えた方がいいわね</value>
+  </data>
+  <data name="0009 (021.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>意図してものとまったく逆に作用
+してしまったらしい</value>
+  </data>
+  <data name="0010 (021.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>今、ものすごくお茶を入れたいです</value>
+  </data>
+  <data name="0011 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>唐突ね、みくるちゃん</value>
+  </data>
+  <data name="0012 (021.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>緊張してるんです</value>
+  </data>
+  <data name="0013 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、苦手な怪談の現場に向かって
+いるから、緊張はするでしょうね</value>
+  </data>
+  <data name="0014 (021.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>緊張すると、お茶を入れたくなる
+んですよ。条件反射でしょうか</value>
+  </data>
+  <data name="0015 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>お茶を飲んで、一息入れたいって
+ことかしら？</value>
+  </data>
+  <data name="0016 (021.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうだと思います。安心したい
+んです。お茶を入れたいですぅ</value>
+  </data>
+  <data name="0017 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>も、もうちょっと待ってね、
+みくるちゃん</value>
+  </data>
+  <data name="0018 (021.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるを安心させていた</value>
+  </data>
+  <data name="0019 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンが？</value>
+  </data>
+  <data name="0020 (021.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0021 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何かしら？　恐がりのみくるちゃん
+が安心するようなことを言ったの？</value>
+  </data>
+  <data name="0022 (021.ja) NAGATO (長門)" xml:space="preserve">
+    <value>幽霊なんて存在しない、とか</value>
+  </data>
+  <data name="0023 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンなら言いそうだわ
+あいつは夢がないっていうか</value>
+  </data>
+  <data name="0024 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ロマンを理解していないのよ</value>
+  </data>
+  <data name="0025 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>現実的と言えば聞こえはいいけど、
+あれは単に無精なだけよね</value>
+  </data>
+  <data name="0026 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう思わない？　有希</value>
+  </data>
+  <data name="0027 (021.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……思わなくもない
+しかし現実的な意見なのも事実</value>
+  </data>
+  <data name="0028 (021.ja) NAGATO (長門)" xml:space="preserve">
+    <value>面倒だと言いながら付き合いはいい</value>
+  </data>
+  <data name="0029 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、そうかもね。積極的になって
+くれるともっといいんだけど</value>
+  </data>
+  <data name="0030 (021.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0031 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今のは団長としてのＳＯＳ団員への
+意見だからね、あくまでも！</value>
+  </data>
+  <data name="0032 (021.ja) NAGATO (長門)" xml:space="preserve">
+    <value>わかった</value>
+  </data>
+  <data name="0033 (021.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さん、彼は女性の
+気持ちを理解していますね</value>
+  </data>
+  <data name="0034 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンが女心を理解なんて、どう
+したらそんな誤解が生まれるの？</value>
+  </data>
+  <data name="0035 (021.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんの不安をうまく解消して
+安心させていましたよ</value>
+  </data>
+  <data name="0036 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんね。それはうまく
+やれるかも知れないわね</value>
+  </data>
+  <data name="0037 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>特別扱いしてるし、みくるちゃんは
+素直な子だしね</value>
+  </data>
+  <data name="0038 (021.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、キョンが女心を理解してるは
+まったくのデマ！　あり得ないわ</value>
+  </data>
+  <data name="0039 (021.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そこまでキッパリと否定できる
+のですね</value>
+  </data>
 </root>

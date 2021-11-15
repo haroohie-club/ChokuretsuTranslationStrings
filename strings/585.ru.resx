@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,189 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04アクシデント発生！</value>
+  </data>
+  <data name="0001 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“アクシデント”とは、上画面の
+“ハルヒルート”上にある</value>
+  </data>
+  <data name="0002 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>赤い“アクシデントポイント”に
+涼宮ハルヒが到達すると、</value>
+  </data>
+  <data name="0003 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>強制的に発生してしまうペナルティ
+イベントです</value>
+  </data>
+  <data name="0004 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“アクシデント”が発生すると制限
+時間が大幅に減少してしまいます</value>
+  </data>
+  <data name="0005 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“アクシデント”を回避するには
+２つの方法があります</value>
+  </data>
+  <data name="0006 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04１　対応する“メイントピック”を
+入手する</value>
+  </data>
+  <data name="0007 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04“トピック”とは、涼宮ハルヒの
+気を逸らして“足止め”する為の</value>
+  </data>
+  <data name="0008 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04“キーワード”や“アイテム”の
+総称です</value>
+  </data>
+  <data name="0009 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04ストーリー中に発生する団員配分
+によって発生するイベント中に入手</value>
+  </data>
+  <data name="0010 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04することが可能で、団員の配分
+パターンによって</value>
+  </data>
+  <data name="0011 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04それぞれ異なる“トピック”を
+入手できる可能性が発生します</value>
+  </data>
+  <data name="0012 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04トピックは４つの種類があります</value>
+  </data>
+  <data name="0013 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04ストーリーに関る
+“メイントピック”</value>
+  </data>
+  <data name="0014 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04涼宮ハルヒの個性に関る
+“ハルヒトピック”</value>
+  </data>
+  <data name="0015 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04ＳＯＳ団員の個性に関る
+“キャラトピック”</value>
+  </data>
+  <data name="0016 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04何気ない会話の断片を切り出した
+“サブトピック”の４種です</value>
+  </data>
+  <data name="0017 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04この中でも“メイントピック”
+を入手しておく事で</value>
+  </data>
+  <data name="0018 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04対応するアクシデントを自動的に
+“回避”する事が出来ます</value>
+  </data>
+  <data name="0019 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04２　“ハルヒトピック”を使用する</value>
+  </data>
+  <data name="0020 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>以降にある“目的配分”後の
+イベント中のキョンの行動によって</value>
+  </data>
+  <data name="0021 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04“ハルヒトピック”を入手する事が
+出来た場合</value>
+  </data>
+  <data name="0022 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04“メイントピック”を入手できずに
+回避不能なアクシデントに対して</value>
+  </data>
+  <data name="0023 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04使用する事で、強制的にアクシデン
+トを回避する事が出来ます</value>
+  </data>
+  <data name="0024 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04ただし、“ハルヒトピック”は他の
+トピックと比べて入手しにくいので</value>
+  </data>
+  <data name="0025 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04良く考えて使用してください</value>
+  </data>
+  <data name="0026 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04その代わり“ハルヒトピック”だけ
+は“エピソード間を持ち越す”事が</value>
+  </data>
+  <data name="0027 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04可能になっています</value>
+  </data>
+  <data name="0028 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04どうしてもアクシデントが回避出来
+ない場合、別の対応も可能です</value>
+  </data>
+  <data name="0029 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04ハルヒルート上の“イベントポイン
+ト”で“トピックを使用する”と</value>
+  </data>
+  <data name="0030 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04“足止めイベント”が発生します</value>
+  </data>
+  <data name="0031 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04涼宮ハルヒに“トピック”のキー
+ワードを提示することで、</value>
+  </data>
+  <data name="0032 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04短時間だけ気を逸らして足止めする
+事が可能です</value>
+  </data>
+  <data name="0033 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04足止め可能な時間はトピック内容と
+涼宮ハルヒに同行している団員の</value>
+  </data>
+  <data name="0034 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04組み合わせで変化しますが、
+だいたい次の順位になります</value>
+  </data>
+  <data name="0035 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04“ハルヒトピック”
+制限時間増加　『多い』</value>
+  </data>
+  <data name="0036 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04“キャラトピック”
+制限時間増加　『普通』</value>
+  </data>
+  <data name="0037 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04“サブトピック”
+制限時間増加　『少ない』</value>
+  </data>
+  <data name="0038 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04“ハルヒトピック”はアクシデント
+を打ち消す効果もありますが</value>
+  </data>
+  <data name="0039 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04足止めに使用する事で、大幅に
+制限時間を増やす事も可能です</value>
+  </data>
+  <data name="0040 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04解決パートでの選択肢を増やすため
+にも、探索パートで可能な限り</value>
+  </data>
+  <data name="0041 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04多くの“トピック”を入手するよう
+にしましょう</value>
+  </data>
+  <data name="0042 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04トピックの入手数は会話中の
+選択肢への受け答えも重要ですが</value>
+  </data>
+  <data name="0043 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04目的行動への団員配分が最も重要
+になります</value>
+  </data>
+  <data name="0044 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04各団員の特性を見極めて、誰が何を
+行う事が最適なのか良く考えて</value>
+  </data>
+  <data name="0045 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04配分するようにしてみてください</value>
+  </data>
+  <data name="0046 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04キョンに同行しない団員の行動も
+重要な要素になっています</value>
+  </data>
+  <data name="0047 (585.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04団員の配分をいろいろ試してベスト
+な配置を見つけましょう！</value>
+  </data>
 </root>

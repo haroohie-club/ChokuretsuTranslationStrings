@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,108 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (037.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんは、実に心優しい女性だ
+と常々思っていたんだが……</value>
+  </data>
+  <data name="0001 (037.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、脈絡もなくどうしたのよ</value>
+  </data>
+  <data name="0002 (037.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ聞け</value>
+  </data>
+  <data name="0003 (037.ja) KYON (キョン)" xml:space="preserve">
+    <value>さっき、買出しに行った時のことだ</value>
+  </data>
+  <data name="0004 (037.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんは、困っているお年寄り
+に道を教えてあげた上に……</value>
+  </data>
+  <data name="0005 (037.ja) KYON (キョン)" xml:space="preserve">
+    <value>そのお年寄りを、目的地まで丁寧に
+案内して差し上げたそうだ</value>
+  </data>
+  <data name="0006 (037.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほど、みくるちゃんらしいわね</value>
+  </data>
+  <data name="0007 (037.ja) KYON (キョン)" xml:space="preserve">
+    <value>お前だったらどうしてた？</value>
+  </data>
+  <data name="0008 (037.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、キョンに案内させるわ</value>
+  </data>
+  <data name="0009 (037.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ああ、そうかい</value>
+  </data>
+  <data name="0010 (037.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>買出しで外に出たとき、道に迷って
+困ってるお年寄りがいたんです</value>
+  </data>
+  <data name="0011 (037.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それで、その方の行き先までご一緒
+して、案内させてもらって……</value>
+  </data>
+  <data name="0012 (037.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>偉いわ、みくるちゃん。なかなか
+できる事じゃないものね</value>
+  </data>
+  <data name="0013 (037.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい……</value>
+  </data>
+  <data name="0014 (037.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>早くみんなと合流して、みくるちゃ
+んの活躍談を聞かせてあげましょう</value>
+  </data>
+  <data name="0015 (037.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの、えっとぉ……</value>
+  </data>
+  <data name="0016 (037.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるが道案内をしていた</value>
+  </data>
+  <data name="0017 (037.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんが？　いつの話？</value>
+  </data>
+  <data name="0018 (037.ja) NAGATO (長門)" xml:space="preserve">
+    <value>バーベキューの買い物の時
+道に迷った老人を、案内していた</value>
+  </data>
+  <data name="0019 (037.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんじゃなくても、お年寄
+りが困ってたら、助けるのは当然よ</value>
+  </data>
+  <data name="0020 (037.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく、キョンはなにをして
+いたのかしら</value>
+  </data>
+  <data name="0021 (037.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希も、お年寄りが道に迷ってたら
+ちゃんと案内してあげなさい</value>
+  </data>
+  <data name="0022 (037.ja) NAGATO (長門)" xml:space="preserve">
+    <value>わかった</value>
+  </data>
+  <data name="0023 (037.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんは、心の優しい方ですね</value>
+  </data>
+  <data name="0024 (037.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いきなり、どうしたの？</value>
+  </data>
+  <data name="0025 (037.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>先程、買出しで商店街に行った時の
+話だと聞いたのですが</value>
+  </data>
+  <data name="0026 (037.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>道に迷ったお年寄りを、その現地ま
+で案内なさったんだそうです</value>
+  </data>
+  <data name="0027 (037.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ……さすがみくるちゃんね</value>
+  </data>
+  <data name="0028 (037.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>同行してたキョンは、いったい何を
+してたのかしら</value>
+  </data>
+  <data name="0029 (037.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>合流したら、問い詰めてみましょう</value>
+  </data>
 </root>

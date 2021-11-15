@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,107 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (235.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉のやつ、遠まわしにイヤミを
+言おうとするんだが……</value>
+  </data>
+  <data name="0001 (235.ja) KYON (キョン)" xml:space="preserve">
+    <value>あれは、あいつの性格なのか？</value>
+  </data>
+  <data name="0002 (235.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは、言われたことないから
+わかんないわね</value>
+  </data>
+  <data name="0003 (235.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>案外、あんたの被害妄想なんじゃ
+ないの？</value>
+  </data>
+  <data name="0004 (235.ja) KYON (キョン)" xml:space="preserve">
+    <value>……身近に、遠まわしじゃなく直球
+でイヤミを言う人間がいたな</value>
+  </data>
+  <data name="0005 (235.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしのことを言ってるんなら
+即極刑よ</value>
+  </data>
+  <data name="0006 (235.ja) KYON (キョン)" xml:space="preserve">
+    <value>……せめて弁護士くらいつけてくれ</value>
+  </data>
+  <data name="0007 (235.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんに、イヤミを言われちゃい
+ました……さっき</value>
+  </data>
+  <data name="0008 (235.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ？　なにをしたの？</value>
+  </data>
+  <data name="0009 (235.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>その……えっと、暗いところが怖く
+て、あのぅ、キョンくんに……</value>
+  </data>
+  <data name="0010 (235.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……しがみついたって？</value>
+  </data>
+  <data name="0011 (235.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい……</value>
+  </data>
+  <data name="0012 (235.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはみくるちゃんが悪いわよ</value>
+  </data>
+  <data name="0013 (235.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>たかが暗闇が怖いなんて、たるんで
+るわっ！</value>
+  </data>
+  <data name="0014 (235.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ひうう、ご、ごめんなさい～</value>
+  </data>
+  <data name="0015 (235.ja) NAGATO (長門)" xml:space="preserve">
+    <value>彼が古泉一樹から、イヤミを言われ
+たと言っていた</value>
+  </data>
+  <data name="0016 (235.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふぅん、キョンもつまらない言い
+がかりをつけるもんだわ</value>
+  </data>
+  <data name="0017 (235.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんが、人にイヤミなんて
+言うわけないのにね</value>
+  </data>
+  <data name="0018 (235.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0019 (235.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、有希もキョンに言われたから
+って、信じなくてもいいのよ</value>
+  </data>
+  <data name="0020 (235.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は本当に純粋なんだから</value>
+  </data>
+  <data name="0021 (235.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さん、僕は口調がイヤミなので
+しょうか？</value>
+  </data>
+  <data name="0022 (235.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは別に気にならないけど
+キョンに何か言われたの？</value>
+  </data>
+  <data name="0023 (235.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>直接ではありませんが、そのような
+趣旨のことを言われたものですから</value>
+  </data>
+  <data name="0024 (235.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは丁寧な物言いをする
+じゃない？</value>
+  </data>
+  <data name="0025 (235.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それ、時と場合によっては慇懃無礼
+に聞こえちゃうのかもねー</value>
+  </data>
+  <data name="0026 (235.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>慇懃無礼ですか……
+なるほど、そうですか</value>
+  </data>
+  <data name="0027 (235.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>わかりました。気をつけるように
+心がけることにします</value>
+  </data>
 </root>

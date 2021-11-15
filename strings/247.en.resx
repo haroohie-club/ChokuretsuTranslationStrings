@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,113 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (247.ja) KYON (キョン)" xml:space="preserve">
+    <value>薬草、といえば何を思い浮かべる？</value>
+  </data>
+  <data name="0001 (247.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はあ？　いきなり何の話？</value>
+  </data>
+  <data name="0002 (247.ja) KYON (キョン)" xml:space="preserve">
+    <value>いいから、質問に答えてくれ</value>
+  </data>
+  <data name="0003 (247.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>薬草……ロールプレイングゲームの
+回復アイテム？</value>
+  </data>
+  <data name="0004 (247.ja) KYON (キョン)" xml:space="preserve">
+    <value>草の名前じゃないのかよ……</value>
+  </data>
+  <data name="0005 (247.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんなのよ、いったい</value>
+  </data>
+  <data name="0006 (247.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉が、雑草を見て“これは薬草”
+です……と言い出したんでな</value>
+  </data>
+  <data name="0007 (247.ja) KYON (キョン)" xml:space="preserve">
+    <value>実際に、漢方薬とかで使われている
+薬草だったらしいんだが……</value>
+  </data>
+  <data name="0008 (247.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん、古泉くんって植物にも詳し
+いのね</value>
+  </data>
+  <data name="0009 (247.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんに教わったんですけど、</value>
+  </data>
+  <data name="0010 (247.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>その辺に生えてる雑草が、薬草に
+なったりするんですって</value>
+  </data>
+  <data name="0011 (247.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、ものによっては、薬効が
+あるって聞くわね</value>
+  </data>
+  <data name="0012 (247.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>見分け方も教えて貰ったんですけど
+覚えられなくて……</value>
+  </data>
+  <data name="0013 (247.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは間違って毒草を鍋に
+入れそうだから、手を出さないでね</value>
+  </data>
+  <data name="0014 (247.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は……はい……</value>
+  </data>
+  <data name="0015 (247.ja) NAGATO (長門)" xml:space="preserve">
+    <value>中庭の花壇には薬草が植えられて
+いるらしい</value>
+  </data>
+  <data name="0016 (247.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は物知りね。ただの雑草に見え
+ても薬草があるみたいね</value>
+  </data>
+  <data name="0017 (247.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>薬草を見つけた人ってすごいわよね
+どうやって見つけたのかしら</value>
+  </data>
+  <data name="0018 (247.ja) NAGATO (長門)" xml:space="preserve">
+    <value>偶然の発見もあれば、統計として
+その草に効力があるとした例もある</value>
+  </data>
+  <data name="0019 (247.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんでもそうだけど、最初に発見し
+た人は尊敬出来るわね</value>
+  </data>
+  <data name="0020 (247.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしたちも学校の怪談を最初に証
+明して、ＳＯＳ団の力を示すのよ！</value>
+  </data>
+  <data name="0021 (247.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>中庭には、雑草に混じって薬草に
+分類される草があるようですよ</value>
+  </data>
+  <data name="0022 (247.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん。まあ、オオバコなんかは
+どこにでも生えてるものね</value>
+  </data>
+  <data name="0023 (247.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>さすが涼宮さん、おわかりでしたか</value>
+  </data>
+  <data name="0024 (247.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなの常識でしょ</value>
+  </data>
+  <data name="0025 (247.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼は知らなかったようで、渡したら
+ポケットに入れてましたが</value>
+  </data>
+  <data name="0026 (247.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンってば、乾燥させて煎じて
+飲む気かしら？</value>
+  </data>
+  <data name="0027 (247.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>生で食さないといいのですが</value>
+  </data>
+  <data name="0028 (247.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>薬草って、毒のことも多いしね
+お腹壊さないことを祈るわ</value>
+  </data>
+  <data name="0029 (247.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですね</value>
+  </data>
 </root>

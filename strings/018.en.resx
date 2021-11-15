@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,143 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (018.ja) KYON (キョン)" xml:space="preserve">
+    <value>信頼されるというのは大切だな</value>
+  </data>
+  <data name="0001 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へええ、誰に信頼されたのかしら</value>
+  </data>
+  <data name="0002 (018.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんにだが、言わない方が
+良さそうだな</value>
+  </data>
+  <data name="0003 (018.ja) KYON (キョン)" xml:space="preserve">
+    <value>誰というわけじゃなくて、まあ
+一般論としての話だ</value>
+  </data>
+  <data name="0004 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、信頼関係は築きたいもの
+だわ。特にキョンとね</value>
+  </data>
+  <data name="0005 (018.ja) KYON (キョン)" xml:space="preserve">
+    <value>お、俺とか？</value>
+  </data>
+  <data name="0006 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もっと、ＳＯＳ団団員として
+しっかりキッチリ、バッチリ働いて</value>
+  </data>
+  <data name="0007 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>団長であるあたしの信頼を
+勝ち取って欲しいわ</value>
+  </data>
+  <data name="0008 (018.ja) KYON (キョン)" xml:space="preserve">
+    <value>これ以上か？</value>
+  </data>
+  <data name="0009 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これ以下はないでしょ</value>
+  </data>
+  <data name="0010 (018.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やれやれ、やぶへびだったか</value>
+  </data>
+  <data name="0011 (018.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>信頼するって大切ですよね</value>
+  </data>
+  <data name="0012 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。でも信頼する相手は
+ちゃんと見極めないとダメよ</value>
+  </data>
+  <data name="0013 (018.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>だ、大丈夫な相手ですから</value>
+  </data>
+  <data name="0014 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>甘い！　その思いこみが危険だわ</value>
+  </data>
+  <data name="0015 (018.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>危険……ですか？</value>
+  </data>
+  <data name="0016 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ。うっかり連帯保証人に
+なって、借金を背負わされたり</value>
+  </data>
+  <data name="0017 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>濡れ衣を着せられて、牢屋に
+入れられたり</value>
+  </data>
+  <data name="0018 (018.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そんな高校生なのに
+それはあり得ませんって</value>
+  </data>
+  <data name="0019 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>心構えを言ってるのよ！</value>
+  </data>
+  <data name="0020 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>思いこみで信用しちゃダメよ</value>
+  </data>
+  <data name="0021 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは、簡単に騙されそう
+なんだから</value>
+  </data>
+  <data name="0022 (018.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ううっ、気をつけますぅ</value>
+  </data>
+  <data name="0023 (018.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるの信頼を勝ち得たと
+言っていた</value>
+  </data>
+  <data name="0024 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……キョンが？</value>
+  </data>
+  <data name="0025 (018.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0026 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんの信頼ねえ。いったい
+どういう状況だったのかしら</value>
+  </data>
+  <data name="0027 (018.ja) NAGATO (長門)" xml:space="preserve">
+    <value>詳細は聞いていない</value>
+  </data>
+  <data name="0028 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンに会ったら聞いてみるわ
+変なことしたんじゃないでしょうね</value>
+  </data>
+  <data name="0029 (018.ja) NAGATO (長門)" xml:space="preserve">
+    <value>それでは信頼はされない</value>
+  </data>
+  <data name="0030 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それもそうね</value>
+  </data>
+  <data name="0031 (018.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼は朝比奈さんにずいぶん信頼を
+されているようですね</value>
+  </data>
+  <data name="0032 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くん、それってキョンのこと？</value>
+  </data>
+  <data name="0033 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、みくるちゃんは古泉くんも
+すごく信頼してると思うけど？</value>
+  </data>
+  <data name="0034 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もちろん、有希のことも</value>
+  </data>
+  <data name="0035 (018.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕はあまり自信がありませんね</value>
+  </data>
+  <data name="0036 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、そうなの？　誰からも信頼
+されそうな古泉くんがねえ</value>
+  </data>
+  <data name="0037 (018.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼も朝比奈さんも、裏表のない性格
+ですから信頼しやすいのでしょう</value>
+  </data>
+  <data name="0038 (018.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それって誉めてる？　単純だと暗に
+示唆してたりする？</value>
+  </data>
+  <data name="0039 (018.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あははは
+言葉どおりに取ってください</value>
+  </data>
 </root>
