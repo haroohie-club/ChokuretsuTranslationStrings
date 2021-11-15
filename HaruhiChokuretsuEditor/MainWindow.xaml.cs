@@ -202,6 +202,14 @@ namespace HaruhiChokuretsuEditor
                 }
             }
         }
+        private void DialogueSearchBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            EventFile eventFile = _evtFile.Files.FirstOrDefault(f => f.DialogueLines.FirstOrDefault(d => d.Text.Contains(dialogueSearchBox.Text.ToLowerInvariant())) is not null);
+            if (eventFile is not null)
+            {
+                eventsListBox.SelectedIndex = _evtFile.Files.IndexOf(eventFile);
+            }
+        }
 
         private void CompressFileButton_Click(object sender, RoutedEventArgs e)
         {

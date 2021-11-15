@@ -23,6 +23,7 @@
                         <Button x:Name="importStringsEventsFileButton" Content="Import Strings" HorizontalAlignment="Left" Click="ImportStringsEventsFileButton_Click" />
                         <Button x:Name="exportAllStringsEventsFileButton" Content="Export All Strings" HorizontalAlignment="Left" Click="ExportAllStringsEventsFileButton_Click" />
                         <Button x:Name="importAllStringsEventsFileButton" Content="Import All Strings" HorizontalAlignment="Left" Click="ImportAllStringsEventsFileButton_Click" />
+                        <TextBox x:Name="dialogueSearchBox" Width="150" HorizontalAlignment="Left" TextChanged="DialogueSearchBox_TextChanged" />
                     </ToolBar>
                     <ListBox x:Name="eventsListBox" Margin="0,30,521,0" SelectionChanged="EventsListBox_SelectionChanged" Grid.ColumnSpan="2" />
                     <StackPanel Grid.Column="1" Margin="175,30,0,0">

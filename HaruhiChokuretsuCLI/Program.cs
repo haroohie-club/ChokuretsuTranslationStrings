@@ -1,53 +1,78 @@
 ﻿using HaruhiChokuretsuLib;
 using HaruhiChokuretsuLib.Archive;
+using Mono.Options;
 using System;
 using System.Drawing.Imaging;
 using System.Globalization;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace HaruhiChokuretsuCLI
 {
     class Program
     {
+        public enum Mode
+        {
+            UNPACK,
+            EXTRACT,
+            REPLACE,
+            IMPORT_RESX
+        }
+
         public static void Main(string[] args)
         {
-            if (args.Length < 3)
+            Mode mode = Mode.UNPACK;
+            int imageWidth = 0;
+            string inPath = "", outPath = "", replacementFolder = "", langCode = "";
+
+            OptionSet options = new()
             {
-                ShowHelp();
-                return;
+                "Usage: HaruhiChokuretsuCLI [-u|-x|-r|--import-resx] -i INPUT_FILE -o OUTPUT_FILE [OPTIONS]+",
+                { "u|unpack", m => mode = Mode.UNPACK },
+                { "x|extract", e => mode = Mode.EXTRACT },
+                { "r|replace", r => mode = Mode.REPLACE },
+                { "import-resx", r => mode = Mode.IMPORT_RESX },
+                { "i|input=", i => inPath = i},
+                { "o|output=", o => outPath = o },
+                { "f|folder=", f => replacementFolder = f },
+                { "image-width=", w => imageWidth = int.Parse(w) },
+                { "l|lang-code=", l => langCode = l },
+            };
+
+            try
+            {
+                options.Parse(args);
+            }
+            catch (OptionException e)
+            {
+                Console.WriteLine($"Error: {e.Message}");
+                options.WriteOptionDescriptions(Console.Out);
             }
 
-            var mode = args[0];
-            var inPath = args[1];
-            var outPath = args[2];
-
-            if (mode == "-u" || mode == "--unpack")
+            if (mode == Mode.UNPACK)
             {
                 UnpackAll(inPath, outPath);
             }
-            else if (mode == "-x" || mode == "--extract")
+            else if (mode == Mode.EXTRACT)
             {
-                if (args.Length == 4)
-                    ExtractSingle(inPath, outPath, int.Parse(args[3]));
+                if (imageWidth != 0)
+                    ExtractSingle(inPath, outPath, imageWidth);
                 else
                     ExtractSingle(inPath, outPath);
             }
-            else if ((mode == "-r" || mode == "--replace") && args.Length == 4)
+            else if (mode == Mode.REPLACE && !string.IsNullOrEmpty(replacementFolder))
             {
-                var inputFolder = args[3];
-
-                ReplaceFromFolder(inputFolder, inPath, outPath);
+                ReplaceFromFolder(replacementFolder, inPath, outPath);
+            }
+            else if (mode == Mode.IMPORT_RESX && !string.IsNullOrEmpty(replacementFolder) && !string.IsNullOrEmpty(langCode))
+            {
+                ImportResxFolder(replacementFolder, langCode, inPath, outPath);
             }
             else
             {
-                ShowHelp();
+                options.WriteOptionDescriptions(Console.Out);
             }
-        }
-
-        private static void ShowHelp()
-        {
-            //todo
         }
 
         private static int? GetIndexByFileName(string filePath)
@@ -199,6 +224,35 @@ namespace HaruhiChokuretsuCLI
                 }
 
                 File.WriteAllBytes(outputArc, arc.GetBytes());
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"Fatal error: {e.Message}");
+            }
+        }
+
+        /// <summary>
+        /// Imports a set of resx files from a folder given a specified language code and replaces the strings in a given evt file with them
+        /// </summary>
+        /// <param name="inputFolder"></param>
+        /// <param name="languageCode"></param>
+        /// <param name="inputArc"></param>
+        /// <param name="outputArc"></param>
+        private static void ImportResxFolder(string inputFolder, string languageCode, string inputArc, string outputArc)
+        {
+            try
+            {
+                ArchiveFile<EventFile> evtFile = ArchiveFile<EventFile>.FromFile(inputArc);
+                string[] files = Directory.GetFiles(inputFolder)
+                            .Where(f => f.EndsWith($".{languageCode}.resx", StringComparison.OrdinalIgnoreCase)).ToArray();
+                Console.Write($"Replacing strings for {files.Length} files...");
+                foreach (string file in files)
+                {
+                    int fileIndex = int.Parse(Regex.Match(file, @"(\d{3})\.[\w-]+\.resx").Groups[1].Value, NumberStyles.Integer);
+                    evtFile.Files.FirstOrDefault(f => f.Index == fileIndex).ImportResxFile(file);
+                }
+                File.WriteAllBytes(outputArc, evtFile.GetBytes());
+                Console.WriteLine("Done.");
             }
             catch (Exception e)
             {
