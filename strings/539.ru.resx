@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,99 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、部長さんじゃない</value>
+  </data>
+  <data name="0001 (539.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>団長さんか……</value>
+  </data>
+  <data name="0002 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、何か変わったことなかった？</value>
+  </data>
+  <data name="0003 (539.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>変わったこと？</value>
+  </data>
+  <data name="0004 (539.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>ああ、廊下の向こうが
+やけに騒がしかったけど……</value>
+  </data>
+  <data name="0005 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんですって！？</value>
+  </data>
+  <data name="0007 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん……？</value>
+  </data>
+  <data name="0008 (539.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、どうしたんですか？</value>
+  </data>
+  <data name="0009 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あそこにいるの、コンピ研の連中
+じゃない？</value>
+  </data>
+  <data name="0010 (539.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、そうですね</value>
+  </data>
+  <data name="0011 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっとあんたたち！</value>
+  </data>
+  <data name="0012 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなところでコソコソと
+なにやってるの！？</value>
+  </data>
+  <data name="0014 (539.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>し、しまった見られた！？</value>
+  </data>
+  <data name="0015 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>怪しいわね、今隠したものを
+差し出しなさい！</value>
+  </data>
+  <data name="0016 (539.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>う……</value>
+  </data>
+  <data name="0017 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、早く！</value>
+  </data>
+  <data name="0018 (539.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>こ、これだよ……</value>
+  </data>
+  <data name="0019 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにこれ？</value>
+  </data>
+  <data name="0020 (539.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>節水を呼びかける貼り紙さ</value>
+  </data>
+  <data name="0021 (539.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>うちが生徒会から委託をうけたんだ</value>
+  </data>
+  <data name="0022 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん……
+で、なんで貼り替えてるわけ？</value>
+  </data>
+  <data name="0023 (539.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>それは、ちょっとミスが……</value>
+  </data>
+  <data name="0024 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ミスってこれね？</value>
+  </data>
+  <data name="0025 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにこれ、字が思いっきり横に伸び
+ちゃってるじゃない</value>
+  </data>
+  <data name="0026 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>しかも普通に水って書けばいいのに
+わざわざ『Ｈ２Ｏ』なんて書いて</value>
+  </data>
+  <data name="0027 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういうの、やる気が空回りしてる
+って言うのよね</value>
+  </data>
+  <data name="0028 (539.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>う、うわーん！</value>
+  </data>
+  <data name="0029 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、泣いちゃった</value>
+  </data>
+  <data name="0030 (539.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく、だらしないわね</value>
+  </data>
 </root>

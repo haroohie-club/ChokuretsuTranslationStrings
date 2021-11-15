@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,164 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (087.ja) KYON (キョン)" xml:space="preserve">
+    <value>幸運ってのは、どこからが幸運なの
+か考えたことってあるか？</value>
+  </data>
+  <data name="0001 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何難しく考えてんのよ。幸運だと思
+った時がそうでいいんじゃないの？</value>
+  </data>
+  <data name="0002 (087.ja) KYON (キョン)" xml:space="preserve">
+    <value>それまでだって幸運かも知れないぞ</value>
+  </data>
+  <data name="0003 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>不幸中の幸いって言葉があるでしょ</value>
+  </data>
+  <data name="0004 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから幸運な時って、自分が幸運だ
+とはあんまり思っていないのよ</value>
+  </data>
+  <data name="0005 (087.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、そうかもな</value>
+  </data>
+  <data name="0006 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あとになって幸運だったなあって
+思う方が多いもの</value>
+  </data>
+  <data name="0007 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その時は不幸だと思っていても
+後から考えるとラッキーだったりね</value>
+  </data>
+  <data name="0008 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、幸運だと思ったところが
+幸運の始まりなのよ</value>
+  </data>
+  <data name="0009 (087.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒにしてはまともなことを言う
+な</value>
+  </data>
+  <data name="0010 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと、なによそれ！
+バカ言ってないで急ぐわよっ！</value>
+  </data>
+  <data name="0011 (087.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、キョンくんって神様に
+愛されてると思いませんか？</value>
+  </data>
+  <data name="0012 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はあ、キョンが神様にねぇ……</value>
+  </data>
+  <data name="0013 (087.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい</value>
+  </data>
+  <data name="0014 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんはそう思うわけ？</value>
+  </data>
+  <data name="0015 (087.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……なんとなくですけど</value>
+  </data>
+  <data name="0016 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは思わないけどなぁ</value>
+  </data>
+  <data name="0017 (087.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですか？</value>
+  </data>
+  <data name="0018 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンはたとえば、自販機の前で小
+銭を落とすと、転がって溝に落ち、</value>
+  </data>
+  <data name="0019 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>買おうと並んでると一人前で、売り
+切れる。そんなタイプだと思うわ！</value>
+  </data>
+  <data name="0020 (087.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>うう、微妙に納得してしまいそうな
+意見です……</value>
+  </data>
+  <data name="0021 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>神様なんてものがいたとして、愛す
+るなら怠け者なダメ男ではないわ！</value>
+  </data>
+  <data name="0022 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんみたいな美少女の方が
+贔屓されて当然じゃないかしら？</value>
+  </data>
+  <data name="0023 (087.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そういう基準じゃないんじゃ？</value>
+  </data>
+  <data name="0024 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だって、見かけだけじゃなく善良さ
+でもみくるちゃんの方が遥かに上よ</value>
+  </data>
+  <data name="0025 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これはもう比べるまでもないわね</value>
+  </data>
+  <data name="0026 (087.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ……ありがとうございます</value>
+  </data>
+  <data name="0027 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>涼宮ハルヒ認定ラッキーガールと
+してあげてもいいわ</value>
+  </data>
+  <data name="0028 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その魅力をＳＯＳ団のために磨いて
+ちょうだい！</value>
+  </data>
+  <data name="0029 (087.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……が、頑張ります</value>
+  </data>
+  <data name="0030 (087.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるはラッキーガール</value>
+  </data>
+  <data name="0031 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん、それは捉え方次第ね</value>
+  </data>
+  <data name="0032 (087.ja) NAGATO (長門)" xml:space="preserve">
+    <value>捉え方の意味</value>
+  </data>
+  <data name="0033 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だって、ドジっ娘メイドなら
+アンラッキーじゃないと！</value>
+  </data>
+  <data name="0034 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんには、その素質が
+充分あるわ！</value>
+  </data>
+  <data name="0035 (087.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0036 (087.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんは、朝比奈さんがラッキー
+ガールだと思われますか？</value>
+  </data>
+  <data name="0037 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんはラッキーガールよ！</value>
+  </data>
+  <data name="0038 (087.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おや、断言なさいますか</value>
+  </data>
+  <data name="0039 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ。みくるちゃんは自分の事を
+そう思ってないだろうけどね</value>
+  </data>
+  <data name="0040 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あの子は周りを幸せにする力がある
+子だと思うのよ</value>
+  </data>
+  <data name="0041 (087.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>本人ではなく、周りにとっての
+ラッキーガールですか</value>
+  </data>
+  <data name="0042 (087.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それは、本人的には複雑なのでは
+ないでしょうか？</value>
+  </data>
+  <data name="0043 (087.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大丈夫！　このあたしに見いだされ
+たこと自体がラッキーなんだから！</value>
+  </data>
+  <data name="0044 (087.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど。そうかもしれませんね</value>
+  </data>
 </root>

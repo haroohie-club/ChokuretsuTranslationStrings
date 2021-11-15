@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,234 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (299.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょっと待った！</value>
+  </data>
+  <data name="0001 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう、いきなりなによ</value>
+  </data>
+  <data name="0002 (299.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、おまえ腹減ってないか？</value>
+  </data>
+  <data name="0003 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>は？　いきなりなに？</value>
+  </data>
+  <data name="0004 (299.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、食後のデザート代わりに
+買っておいたんだ</value>
+  </data>
+  <data name="0005 (299.ja) KYON (キョン)" xml:space="preserve">
+    <value>ほら、これ</value>
+  </data>
+  <data name="0006 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにこれ？</value>
+  </data>
+  <data name="0007 (299.ja) KYON (キョン)" xml:space="preserve">
+    <value>見てのとおり、カレーパンだ</value>
+  </data>
+  <data name="0008 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……キョン、あんたね</value>
+  </data>
+  <data name="0009 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さっきさんざん食べたばっかり
+でしょーが！</value>
+  </data>
+  <data name="0010 (299.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、それは分かってるんだが……</value>
+  </data>
+  <data name="0011 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>百歩譲ってデザートにするにしても
+カレーパンってなんなの！？</value>
+  </data>
+  <data name="0012 (299.ja) KYON (キョン)" xml:space="preserve">
+    <value>や、やっぱりダメか？</value>
+  </data>
+  <data name="0013 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ダメに決まってるでしょ！</value>
+  </data>
+  <data name="0014 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ていうか、いつの間にこんなもの
+買ったのよ</value>
+  </data>
+  <data name="0015 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まさか買い出しの資金で買った
+んじゃないでしょうね？</value>
+  </data>
+  <data name="0016 (299.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、そのまさかなんだが</value>
+  </data>
+  <data name="0017 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにやってんのよ！
+資金は大事に使いなさいよ！</value>
+  </data>
+  <data name="0018 (299.ja) KYON (キョン)" xml:space="preserve">
+    <value>し、しかし、長門のやつが
+どうしてもって……</value>
+  </data>
+  <data name="0019 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>人のせいにしない！</value>
+  </data>
+  <data name="0020 (299.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>足止めのためとはいえ
+とんだとばっちりだな……</value>
+  </data>
+  <data name="0021 (299.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん！
+お、お腹空きませんか！？</value>
+  </data>
+  <data name="0022 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの？　急に</value>
+  </data>
+  <data name="0023 (299.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>じ、実は、あたしカレーパンを
+持ってるんです</value>
+  </data>
+  <data name="0024 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>カレーパン……？</value>
+  </data>
+  <data name="0025 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんでまた、そんなもの
+持ち歩いてるの？</value>
+  </data>
+  <data name="0026 (299.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>へ？　えっと、それは……</value>
+  </data>
+  <data name="0027 (299.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんにもらいました！</value>
+  </data>
+  <data name="0028 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希に？</value>
+  </data>
+  <data name="0029 (299.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい</value>
+  </data>
+  <data name="0030 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希ったら、なんでカレーパン
+なんか持ってたのかしら</value>
+  </data>
+  <data name="0031 (299.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>す、好きだからじゃないですか？</value>
+  </data>
+  <data name="0032 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん……ま、いいわ
+ありがたくもらっとくわ</value>
+  </data>
+  <data name="0033 (299.ja) NAGATO (長門)" xml:space="preserve">
+    <value>待って</value>
+  </data>
+  <data name="0034 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの？　有希</value>
+  </data>
+  <data name="0035 (299.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これ</value>
+  </data>
+  <data name="0036 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、これ</value>
+  </data>
+  <data name="0037 (299.ja) NAGATO (長門)" xml:space="preserve">
+    <value>カレーパン</value>
+  </data>
+  <data name="0038 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは見れば分かるけどさ</value>
+  </data>
+  <data name="0039 (299.ja) NAGATO (長門)" xml:space="preserve">
+    <value>あげる</value>
+  </data>
+  <data name="0040 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え？　あたしにくれるの？</value>
+  </data>
+  <data name="0041 (299.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0042 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>くれるって言うなら、有り難く
+もらっておくけど……</value>
+  </data>
+  <data name="0043 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんでこんなもの持ってるの？</value>
+  </data>
+  <data name="0044 (299.ja) NAGATO (長門)" xml:space="preserve">
+    <value>買った</value>
+  </data>
+  <data name="0045 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>買ったって……
+さっきの買い出しの時に？</value>
+  </data>
+  <data name="0046 (299.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0047 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう、いくらお任せにしたからって
+こんなの買ってどうするのよ</value>
+  </data>
+  <data name="0048 (299.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0049 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>余計な買い物をしちゃダメでしょ</value>
+  </data>
+  <data name="0050 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ていうか、いつ食べる気だったの？
+夜食だったら後でもよかったのに</value>
+  </data>
+  <data name="0051 (299.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……焼く</value>
+  </data>
+  <data name="0052 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>焼くって……？</value>
+  </data>
+  <data name="0053 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、確かに温めれば美味しくなる
+かもしれないけど</value>
+  </data>
+  <data name="0054 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、なんでカレーパンなの？</value>
+  </data>
+  <data name="0055 (299.ja) NAGATO (長門)" xml:space="preserve">
+    <value>カレーは栄養価が高い</value>
+  </data>
+  <data name="0056 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……それだけ？</value>
+  </data>
+  <data name="0057 (299.ja) NAGATO (長門)" xml:space="preserve">
+    <value>それだけ</value>
+  </data>
+  <data name="0058 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>…………そう</value>
+  </data>
+  <data name="0059 (299.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0060 (299.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さん、こんなものはいかがです
+か？</value>
+  </data>
+  <data name="0061 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにこれ？　カレーパン？</value>
+  </data>
+  <data name="0062 (299.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>はい。夜食にでもと思い、買って
+おきました</value>
+  </data>
+  <data name="0063 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さすが古泉くん、気が利くわね</value>
+  </data>
+  <data name="0064 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、なんでまたこんなところで？</value>
+  </data>
+  <data name="0065 (299.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>これなんですが、珍しく長門さんが
+買いたいと言い出したんですよ</value>
+  </data>
+  <data name="0066 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、有希が……</value>
+  </data>
+  <data name="0067 (299.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もしかして、有希の好物なの
+かしら？</value>
+  </data>
+  <data name="0068 (299.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕にも分かりませんが
+そうかも知れませんね</value>
+  </data>
 </root>

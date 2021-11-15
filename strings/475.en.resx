@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,337 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>かつて、これほど全速力で部室に
+舞い戻ったことが、あっただろうか</value>
+  </data>
+  <data name="0001 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は、持てる限りの脚力を駆使して
+部室へと引き返した</value>
+  </data>
+  <data name="0002 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>このドアの向こうには、順番を待つ
+ハルヒがいるはずだ</value>
+  </data>
+  <data name="0003 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>少しの間――ここに閉じこもって
+もらうことにしよう</value>
+  </data>
+  <data name="0004 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>……すまん、ハルヒ</value>
+  </data>
+  <data name="0005 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部室の中から出られないように
+ドアノブをしっかり握って引く</value>
+  </data>
+  <data name="0006 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そのままドアの前に居座っていれば
+ハルヒも外に出られないだろう</value>
+  </data>
+  <data name="0007 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>ふぅ……</value>
+  </data>
+  <data name="0008 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれ？　誰かそこにいるの？</value>
+  </data>
+  <data name="0009 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>げ。ハルヒに存在を気づかれた！？</value>
+  </data>
+  <data name="0010 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰？　みくるちゃん？　有希？</value>
+  </data>
+  <data name="0011 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もしかして、キョン？　古泉君？</value>
+  </data>
+  <data name="0012 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0013 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もちろん、返事なんか出来ない</value>
+  </data>
+  <data name="0014 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>気のせいかしら……</value>
+  </data>
+  <data name="0015 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれ？　開かないわ</value>
+  </data>
+  <data name="0016 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>カギ……は、かかってないわね
+なんで？</value>
+  </data>
+  <data name="0017 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと、誰かそこにいるの？
+もしかして、ドアノブ押さえてる？</value>
+  </data>
+  <data name="0018 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>勘の鋭いヤツだ</value>
+  </data>
+  <data name="0019 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>違う？　ドアの故障？　あれ？</value>
+  </data>
+  <data name="0020 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんか、半端にドアノブが回るわね</value>
+  </data>
+  <data name="0021 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>回そうとしたら、反対側に回そうと
+する力が伝わってくるわよ！</value>
+  </data>
+  <data name="0022 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰かいるんでしょ！　開けなさい！</value>
+  </data>
+  <data name="0023 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>すまんハルヒ、今は無理な注文だ</value>
+  </data>
+  <data name="0024 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんせ、校内を奇妙な連中が徘徊し
+てるからな</value>
+  </data>
+  <data name="0025 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン！？　キョンでしょう！？</value>
+  </data>
+  <data name="0026 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……なんで分かるんだ？</value>
+  </data>
+  <data name="0027 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まさか、コンピ研の連中じゃ
+ないでしょうね！？</value>
+  </data>
+  <data name="0028 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一応、復讐されるかもしれない
+心当たりはあるんだな。ハルヒよ</value>
+  </data>
+  <data name="0029 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいわ。それなら強行突破よ！
+せぇーのっ！</value>
+  </data>
+  <data name="0030 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あ、あいつ体当たりし始めやがった</value>
+  </data>
+  <data name="0031 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そこをどきなさいっ！</value>
+  </data>
+  <data name="0032 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>む、無茶苦茶だ、ハルヒのやつ</value>
+  </data>
+  <data name="0033 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部室のドアをぶっ壊す気か？</value>
+  </data>
+  <data name="0034 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう。あーっそう。わかったわ！</value>
+  </data>
+  <data name="0035 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>とことん、あたしに挑戦するつもり
+なのね。受けて立つわ！</value>
+  </data>
+  <data name="0036 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>この机を、思いっきりドアにぶつけ
+て、突破してやるわ！</value>
+  </data>
+  <data name="0037 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おいおいおいおいおいっ</value>
+  </data>
+  <data name="0038 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＯＳ団の団長を舐めた報いを
+その身に刻み込んで――</value>
+  </data>
+  <data name="0039 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>ま、待て待てっ！</value>
+  </data>
+  <data name="0040 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>思わず、声を出してしまった</value>
+  </data>
+  <data name="0041 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>っ！？　キョンなの！？</value>
+  </data>
+  <data name="0042 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ああ……バレてしまった</value>
+  </data>
+  <data name="0043 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんのツモリ！？　説明しなさい！</value>
+  </data>
+  <data name="0044 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>待て、説明するから突破は禁止だ</value>
+  </data>
+  <data name="0045 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だったら早く、ここ開けなさいよ！</value>
+  </data>
+  <data name="0046 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>いま開ける、すぐ開けるから</value>
+  </data>
+  <data name="0047 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>仕方なく、俺はドアノブを放して
+ゆっくりと立ち上がった</value>
+  </data>
+  <data name="0048 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>中に入るぞ？　入るからな？</value>
+  </data>
+  <data name="0049 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>宣言しておかないと、入った瞬間
+机が突進してきそうだからな……</value>
+  </data>
+  <data name="0051 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0052 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今のハルヒを彫像にしてタイトルを
+つけるなら“憤怒”がピッタリだな</value>
+  </data>
+  <data name="0053 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……一体なんのつもりなの？</value>
+  </data>
+  <data name="0054 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょっと脅かそうと思っただけだ</value>
+  </data>
+  <data name="0055 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>肝試しなんだから、誰かを脅かすの
+は定石中の定石だろ？</value>
+  </data>
+  <data name="0056 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>我ながら苦しい言い訳だとは思う</value>
+  </data>
+  <data name="0057 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしを怖がらせようとしたって
+わけ？</value>
+  </data>
+  <data name="0058 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>他に理由があるか？
+まさか怒り出すとは思わなかったが</value>
+  </data>
+  <data name="0059 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だったら、みくるちゃんとか
+有希とか、他に相手がいるでしょ！</value>
+  </data>
+  <data name="0060 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>そこが盲点だと思い至ったのさ</value>
+  </data>
+  <data name="0061 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>事実、ハルヒはノーマークだった
+からな</value>
+  </data>
+  <data name="0062 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんか……微妙に納得いかないわね</value>
+  </data>
+  <data name="0063 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>で？　少しは怖がってもらえたか？</value>
+  </data>
+  <data name="0064 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>最高にムカついたわ</value>
+  </data>
+  <data name="0065 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>危うく、ドアを破壊される寸前まで
+いきかけたからな……</value>
+  </data>
+  <data name="0066 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>それにしても、よくわかったな</value>
+  </data>
+  <data name="0067 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにが？</value>
+  </data>
+  <data name="0068 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>一番最初だ。どうやってドアの前に
+人がいると察知したんだ？</value>
+  </data>
+  <data name="0069 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、そのこと</value>
+  </data>
+  <data name="0070 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたし、勘が鋭いのよ。周囲に異変
+があったら、すぐ気づくわ</value>
+  </data>
+  <data name="0071 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>…………そうかい</value>
+  </data>
+  <data name="0072 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今まさに、色々な場所で異変が起き
+てるんだが……</value>
+  </data>
+  <data name="0073 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>自分の周囲に特異な人間が集まって
+ることにも気づいてないようだし</value>
+  </data>
+  <data name="0074 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、その疑いのまなざしは
+本当に、鋭いんだからね！</value>
+  </data>
+  <data name="0075 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>ま、そうかもな。確かに俺の存在を
+言い当てた訳だし</value>
+  </data>
+  <data name="0076 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>わかれば、それでいいわ</value>
+  </data>
+  <data name="0077 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんとなく、ピンときちゃうのよ
+上手く説明できないけど</value>
+  </data>
+  <data name="0078 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしかすると、本当に、そんな力が
+ハルヒにはあるのかもしれない</value>
+  </data>
+  <data name="0079 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんや長門をＳＯＳ団に入れ
+たのは他でもない、ハルヒだからな</value>
+  </data>
+  <data name="0080 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>……そうか？</value>
+  </data>
+  <data name="0081 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>さっき、ドアを閉めてた俺に対して
+コンピ研の復讐だとか言ってたぞ？</value>
+  </data>
+  <data name="0082 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0083 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そろそろ頃合いかなって思ったのよ</value>
+  </data>
+  <data name="0084 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>無茶苦茶だな、おい</value>
+  </data>
+  <data name="0085 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あとで、釘を刺しておかないと……
+ホント紛らわしいんだから</value>
+  </data>
+  <data name="0086 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それは逆恨みって言うんだぞハルヒ</value>
+  </data>
+  <data name="0087 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あーもう、つまんないことでエキサ
+イトしちゃったわ</value>
+  </data>
+  <data name="0088 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>子供みたいなイタズラ仕掛けて
+何が楽しいのよ、まったく</value>
+  </data>
+  <data name="0089 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その言葉そっくりそのままお前さん
+に返したい</value>
+  </data>
+  <data name="0090 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だいたい、キョン！　あんた肝試し
+はどうしたのよ</value>
+  </data>
+  <data name="0091 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>あ、いや、それは……</value>
+  </data>
+  <data name="0092 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やってないのね</value>
+  </data>
+  <data name="0093 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>う……</value>
+  </data>
+  <data name="0094 (475.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さっさと肝試しに行って来なさい！</value>
+  </data>
+  <data name="0096 (475.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>早く行って来い、と部室から叩き出
+された</value>
+  </data>
+  <data name="0097 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ、どのみち古泉たちと合流し
+なければならなかったんだ</value>
+  </data>
+  <data name="0098 (475.ja) KYON (キョン)" xml:space="preserve">
+    <value>好都合と言えば、好都合……か？</value>
+  </data>
 </root>

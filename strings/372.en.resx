@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,545 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんとキョン、それから
+妹ちゃんね！</value>
+  </data>
+  <data name="0001 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>子供は霊感が強いっていうし、ぜひ
+妹ちゃんには活躍して欲しいわ</value>
+  </data>
+  <data name="0002 (372.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>うん、がんばるー！</value>
+  </data>
+  <data name="0003 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あまり頑張らないでくれ、妹よ
+兄は今、隠蔽工作に必死なんだ</value>
+  </data>
+  <data name="0005 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええと、どこから調査しますか？</value>
+  </data>
+  <data name="0006 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>んー、そうね……キョン、どこが
+いいと思う？　直感で答えなさい！</value>
+  </data>
+  <data name="0007 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>霊的なモノを探すなら旧館だろ</value>
+  </data>
+  <data name="0008 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>と、さりげなく１年の教室がある
+本館からハルヒを遠ざけようとする</value>
+  </data>
+  <data name="0009 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バカね、そっちは有希や古泉くんが
+聞き込みしてくれてるでしょーが</value>
+  </data>
+  <data name="0010 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ずばり、１年の教室がある本館が
+全体的に怪しいわ！</value>
+  </data>
+  <data name="0011 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だったら俺の意見を聞くなと、文句
+を言ってもバチは当たるまい</value>
+  </data>
+  <data name="0012 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>というわけで、行きましょう</value>
+  </data>
+  <data name="0013 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>怪奇現象のオンパレードよ、きっと</value>
+  </data>
+  <data name="0014 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふぇぇっ、オンパレードですかぁ？</value>
+  </data>
+  <data name="0015 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ほれ見ろ、すっかり朝比奈さんが
+怯えちまってるだろうが</value>
+  </data>
+  <data name="0017 (372.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>かーいきげんしょー、やってこーい</value>
+  </data>
+  <data name="0018 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あはは！　その調子よ、妹ちゃん！</value>
+  </data>
+  <data name="0019 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……勘弁してくれ、いやマジで</value>
+  </data>
+  <data name="0022 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>本館といっても広いわ。全部を回る
+のは難しいところね</value>
+  </data>
+  <data name="0023 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>妹ちゃんは、どこが怪しいと思う？</value>
+  </data>
+  <data name="0024 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、ウチの妹を怪奇現象レーダー
+扱いするのは止めてくれ</value>
+  </data>
+  <data name="0025 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいじゃない、別に</value>
+  </data>
+  <data name="0026 (372.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>ん～、この部屋は？</value>
+  </data>
+  <data name="0027 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>１年６組ね。６っていう数字がいい
+わ。悪魔の数字っぽくて</value>
+  </data>
+  <data name="0028 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>余計な妄想を膨らませないでくれ
+現実になりかねん</value>
+  </data>
+  <data name="0030 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>な、なんとなく薄暗くて怖いですぅ</value>
+  </data>
+  <data name="0031 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>当たり前よ、電気がついてないもの
+さっさと入りましょう、ほら、早く</value>
+  </data>
+  <data name="0032 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふえぇぇぇっ！？</value>
+  </data>
+  <data name="0033 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>く、暗いですよぉ……涼宮さぁぁん</value>
+  </data>
+  <data name="0034 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>雰囲気があっていいわ。まさに怪奇
+現象発生地にふさわしい空気よ</value>
+  </data>
+  <data name="0036 (372.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>あれぇ、何か動いてるよ？</value>
+  </data>
+  <data name="0037 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0ひぅ！？　な、なんですかぁ！？</value>
+  </data>
+  <data name="0038 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>目を凝らすと、薄い暗闇の中で
+何かユラユラと揺れている……</value>
+  </data>
+  <data name="0039 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どこ！？</value>
+  </data>
+  <data name="0041 (372.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>ほら、あそこ。窓のところだよ</value>
+  </data>
+  <data name="0042 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>窓のところ……？</value>
+  </data>
+  <data name="0043 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんだ、カーテンが揺れてるだけ
+じゃない</value>
+  </data>
+  <data name="0045 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>カ、カーテン？　ホントですか？</value>
+  </data>
+  <data name="0046 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>よほど心配なのか、朝比奈さんは
+窓の方を見ようともしない</value>
+  </data>
+  <data name="0047 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>かなり、オカルトが苦手らしい</value>
+  </data>
+  <data name="0048 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>ええ、本当です、少し開いた窓から
+吹き込む風で、揺れてるみたいです</value>
+  </data>
+  <data name="0049 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>窓が……開いてるんですかぁ？</value>
+  </data>
+  <data name="0050 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>妖怪の仕業ね！　間違いないわ！
+きっと妖怪“窓開け”の仲間よ！</value>
+  </data>
+  <data name="0051 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>妖怪“窓開け”なんか聞いたことも
+ないぞ、適当なことを言うな</value>
+  </data>
+  <data name="0052 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、あたし、ホントにそういうの
+ダメで……怖くて</value>
+  </data>
+  <data name="0053 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>わかります。でも安心してください
+本当にただのカーテンですから</value>
+  </data>
+  <data name="0054 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>よかったぁぁ……</value>
+  </data>
+  <data name="0055 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>オカルトが苦手、なんてところも
+実に朝比奈さんらしい</value>
+  </data>
+  <data name="0056 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>カーテンであることは間違いないん
+ですが……それにしても妙だな</value>
+  </data>
+  <data name="0057 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>な、なにが妙なんですかぁ！？</value>
+  </data>
+  <data name="0058 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>窓が少し開いてるんです。そこから
+吹き込む風で揺れてるようで……</value>
+  </data>
+  <data name="0059 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>夏休みに、誰も使っていない教室の
+窓が開いてるのがおかしい</value>
+  </data>
+  <data name="0060 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やっぱり、霊の仕業に違いないわ！</value>
+  </data>
+  <data name="0061 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0ふぇぇぇぇぇぇぇっ！？</value>
+  </data>
+  <data name="0062 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ちょっとしたイタズラ心だったが
+朝比奈さんが、本当に怯えている</value>
+  </data>
+  <data name="0063 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>反省しよう……</value>
+  </data>
+  <data name="0064 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ、誰か窓を閉め忘れて、その
+まま帰ってしまったんでしょう</value>
+  </data>
+  <data name="0065 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>夏休みとはいっても、部活やら
+補習やら、色々ありますから</value>
+  </data>
+  <data name="0066 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ……そっか、そうですよね</value>
+  </data>
+  <data name="0067 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく、ただのカーテンとは
+期待はずれにもほどがあるわ</value>
+  </data>
+  <data name="0068 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>てっきり、首を吊った幽霊か何か
+だと思って期待したのに</value>
+  </data>
+  <data name="0069 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>よくまあ、そこまでえげつないモノ
+を想像できるな</value>
+  </data>
+  <data name="0070 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>別に不思議な話じゃないもの。よく
+ある話でしょ、そういうの</value>
+  </data>
+  <data name="0071 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>成績が悪くて、悩んだ末に教室で
+首を吊って……</value>
+  </data>
+  <data name="0072 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>成仏できずに恨みが残って、学校を
+さまよい続ける地縛霊に……！</value>
+  </data>
+  <data name="0073 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SE003#SK0涼宮さん、やめて下さぁい！</value>
+  </data>
+  <data name="0074 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、やめろ
+朝比奈さんが怯えてる</value>
+  </data>
+  <data name="0075 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その姿を見た者で、生きて帰った者
+は誰一人としていないと評判なのよ</value>
+  </data>
+  <data name="0076 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃあどうして、噂が広まるんだ？
+目撃者は全員死んでるハズなのに</value>
+  </data>
+  <data name="0077 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0078 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……そこが怪奇現象なのよ、きっと</value>
+  </data>
+  <data name="0079 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>また適当なことを言い出したな</value>
+  </data>
+  <data name="0080 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ダメね、暗いだけで何も無いわ</value>
+  </data>
+  <data name="0081 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>次の場所を捜しましょう</value>
+  </data>
+  <data name="0082 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>つ、次もあるんですかぁ……？</value>
+  </data>
+  <data name="0083 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>当然よ。さ、妹ちゃん、次はどこに
+するか決めてちょーだい</value>
+  </data>
+  <data name="0085 (372.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>んー……ええとねぇ</value>
+  </data>
+  <data name="0086 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>もう帰りたいと言ってやれ</value>
+  </data>
+  <data name="0087 (372.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>まだ平気だよぉ？</value>
+  </data>
+  <data name="0088 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>兄の真意を汲んでくれないとは
+哀しいぞ、妹よ</value>
+  </data>
+  <data name="0089 (372.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>あ、そうだ。図書室はどう？</value>
+  </data>
+  <data name="0090 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>図書室ね……なるほど、悪くないわ
+ちょうど下の階にあるし</value>
+  </data>
+  <data name="0091 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>よし、じゃあ図書室にしましょう</value>
+  </data>
+  <data name="0092 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>しましょう……って、鍵かかってる
+はずだぞ、夏休み中は</value>
+  </data>
+  <data name="0093 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>同じ階に職員室があるじゃない
+そこで借りればいいのよ</value>
+  </data>
+  <data name="0094 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……やれやれ、そのバイタリティを
+もっと他のことに費やして欲しいな</value>
+  </data>
+  <data name="0095 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>例えば、俺の夏休みの宿題を手伝う
+とか、色々あるだろうに</value>
+  </data>
+  <data name="0098 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの宣言通り図書室の鍵を借り
+て来たのだが……</value>
+  </data>
+  <data name="0099 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、ハルヒ</value>
+  </data>
+  <data name="0100 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ？</value>
+  </data>
+  <data name="0101 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>オマエ……図書室の鍵、どうやって
+借りてきたか、正直に言ってみろ</value>
+  </data>
+  <data name="0102 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>借りまーすって言って、借りたわよ</value>
+  </data>
+  <data name="0103 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>どこの誰に</value>
+  </data>
+  <data name="0104 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さあ
+誰もいなかったわね</value>
+  </data>
+  <data name="0105 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そういうのはな、許可を取ったとは
+言わないんだ、世間一般では</value>
+  </data>
+  <data name="0106 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>こ、ここも暗いですぅ</value>
+  </data>
+  <data name="0107 (372.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>電気つけるの？　どこだろ～？</value>
+  </data>
+  <data name="0108 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、ここのスイッチわかりにくい
+のよね、どこだったかしら</value>
+  </data>
+  <data name="0109 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくぅ～ん……</value>
+  </data>
+  <data name="0110 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>大丈夫ですよ、俺もいますから</value>
+  </data>
+  <data name="0112 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし、見事に不気味な暗さだな</value>
+  </data>
+  <data name="0113 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>人のいない校舎ってのは
+こんなに気味が悪いのか……</value>
+  </data>
+  <data name="0114 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0ひゃああっ！？</value>
+  </data>
+  <data name="0115 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>ど、どうしました</value>
+  </data>
+  <data name="0116 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0い、いま、窓がガタガタって</value>
+  </data>
+  <data name="0117 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ポルターガイストね！</value>
+  </data>
+  <data name="0118 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ぽ、ぽるたあがいすと？</value>
+  </data>
+  <data name="0119 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>悪霊の怨念がラップ音を奏でたのよ</value>
+  </data>
+  <data name="0120 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>ただの風だろう</value>
+  </data>
+  <data name="0121 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>想像力が薄いわね、そんなことじゃ
+うちの団員は務まらないわよ</value>
+  </data>
+  <data name="0122 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、悪霊の怨念なんでしょうかぁ？</value>
+  </data>
+  <data name="0123 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>絶対に違うと断言できます。合宿が
+終わったら証明して見せますから</value>
+  </data>
+  <data name="0124 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はいぃぃ……</value>
+  </data>
+  <data name="0125 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>すっかり怯えきっているようだ</value>
+  </data>
+  <data name="0126 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一方、ハルヒはというと、上機嫌で
+怪奇現象探索を楽しんでやがる</value>
+  </data>
+  <data name="0127 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>フォローしたほうが、良さそうだな</value>
+  </data>
+  <data name="0128 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、ハルヒ</value>
+  </data>
+  <data name="0129 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>あまり朝比奈さんを怖がらせるな
+肝心の調査も、進まなくなるだろ</value>
+  </data>
+  <data name="0130 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうだけど、怖がる人が側にいると
+期待に応えてあげたくなるじゃない</value>
+  </data>
+  <data name="0131 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>別に期待はされてないと思うんだが</value>
+  </data>
+  <data name="0132 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>そういうオマエも、何か怖いモノが
+あったりするんじゃないのか？</value>
+  </data>
+  <data name="0133 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたし？　あるわけないでしょ
+ＳＯＳ団団長よ？</value>
+  </data>
+  <data name="0134 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>本当に無いのか？　絶対に？</value>
+  </data>
+  <data name="0135 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>無いわよ。断言してもいいわ</value>
+  </data>
+  <data name="0136 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……まあ、あの巨大な“神人”を見
+てさえ、わりと落ち着いてたからな</value>
+  </data>
+  <data name="0137 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は古泉に見せられた時、多少は
+びびったモンだが……</value>
+  </data>
+  <data name="0138 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん、あまり怖がらなくても
+大丈夫ですから、ご心配なく</value>
+  </data>
+  <data name="0139 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺もいますし、校内には長門や古泉
+もいるんですから</value>
+  </data>
+  <data name="0140 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>あの二人がいれば、たいていの事は
+心配いりません。大丈夫ですよ</value>
+  </data>
+  <data name="0141 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですね、長門さんもいます
+もんね</value>
+  </data>
+  <data name="0142 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やはりその面子の中で一番頼れるの
+は長門らしい</value>
+  </data>
+  <data name="0143 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>まぁ、仕方ないか</value>
+  </data>
+  <data name="0146 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん！　うしろ！！</value>
+  </data>
+  <data name="0147 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ひぃぃぅっ！？</value>
+  </data>
+  <data name="0148 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ウソよ、ゴメンね！</value>
+  </data>
+  <data name="0149 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>び、びび、びっくりしたじゃない
+ですかぁぁぁ～～～～</value>
+  </data>
+  <data name="0150 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>っ！？　みくるちゃん足元！</value>
+  </data>
+  <data name="0151 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0ふえぇぇぇぇぇっ！？</value>
+  </data>
+  <data name="0152 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なーんてね、ほんとカワイイん
+だから、みくるちゃんは</value>
+  </data>
+  <data name="0153 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0や、やめてくださいぃぃ</value>
+  </data>
+  <data name="0154 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>せっかく人が慰めたというのに
+振り出しに戻っちまった</value>
+  </data>
+  <data name="0155 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やれやれ……</value>
+  </data>
+  <data name="0157 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん、図書室の本にも１年１０組
+の手がかりらしいものは無いわね</value>
+  </data>
+  <data name="0158 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それらしい現象や霊も現れないし</value>
+  </data>
+  <data name="0159 (372.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>ごめんね、ハルにゃん</value>
+  </data>
+  <data name="0160 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>妹ちゃんは何も悪くないわよ
+悪いのは発生しない怪奇現象だわ</value>
+  </data>
+  <data name="0161 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さあ、もう少し探検してみましょう
+ちょっと楽しくなってきたわ</value>
+  </data>
+  <data name="0163 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺はうんざりしてきた</value>
+  </data>
+  <data name="0164 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>せめて朝比奈さんだけでも、部室に
+帰してあげたほうがよさそうだ</value>
+  </data>
+  <data name="0165 (372.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん……</value>
+  </data>
+  <data name="0166 (372.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0ひぅぅぅぅ！？</value>
+  </data>
+  <data name="0167 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ちょっと声をかけただけで、この
+有様である。よほど怖いらしい</value>
+  </data>
+  <data name="0168 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>同情しますよ、朝比奈さん……</value>
+  </data>
+  <data name="0169 (372.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>次は美術室、行ってみようかしら！
+あそこは怪しいわ！</value>
+  </data>
+  <data name="0170 (372.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おいっ、勘弁してくれ
+……いやマジで</value>
+  </data>
 </root>

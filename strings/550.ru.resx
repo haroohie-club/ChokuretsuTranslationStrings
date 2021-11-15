@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,151 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だいぶ時間をくっちゃったわね</value>
+  </data>
+  <data name="0001 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>早く戻らないと、宇宙船が着陸する
+とこを見逃しちゃうわ</value>
+  </data>
+  <data name="0002 (550.ja) KYON (キョン)" xml:space="preserve">
+    <value>幽霊に怪奇現象の次は宇宙人か……</value>
+  </data>
+  <data name="0003 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、急ぐわよ、キョン</value>
+  </data>
+  <data name="0004 (550.ja) KYON (キョン)" xml:space="preserve">
+    <value>それより、さっき見たんだが
+今日はいい満月だったぞ</value>
+  </data>
+  <data name="0005 (550.ja) KYON (キョン)" xml:space="preserve">
+    <value>しかも、いつもより色が濃いって
+いうか……むしろ赤かったな</value>
+  </data>
+  <data name="0006 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へぇ、それは何かあるかも</value>
+  </data>
+  <data name="0007 (550.ja) KYON (キョン)" xml:space="preserve">
+    <value>そこから覗いてみたらどうだ？</value>
+  </data>
+  <data name="0008 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……なによ、確かに満月だけど
+ぜんぜん赤くないじゃない</value>
+  </data>
+  <data name="0009 (550.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうか？　俺の見間違いかな</value>
+  </data>
+  <data name="0010 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく、キョンはアテにならない
+わねえ</value>
+  </data>
+  <data name="0011 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急ぎましょ、みくるちゃん</value>
+  </data>
+  <data name="0013 (550.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、それよりも今日はキレイな
+満月でしたよ</value>
+  </data>
+  <data name="0014 (550.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>宇宙人もいいですけど、お月見も
+いいんじゃないかなって……</value>
+  </data>
+  <data name="0015 (550.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ほら、満月の日って何か起るって
+言うじゃないですか</value>
+  </data>
+  <data name="0016 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、そこまで言うならちょっと
+覗いてみましょうか</value>
+  </data>
+  <data name="0017 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0018 (550.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0019 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>確かに満月だけど、大して何も
+変わらないわね</value>
+  </data>
+  <data name="0020 (550.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あう……</value>
+  </data>
+  <data name="0021 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、多少は神秘的な気分になった
+ような気もするけど</value>
+  </data>
+  <data name="0022 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急ぎましょ、有希</value>
+  </data>
+  <data name="0024 (550.ja) NAGATO (長門)" xml:space="preserve">
+    <value>待って</value>
+  </data>
+  <data name="0025 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの？　空なんか見上げて</value>
+  </data>
+  <data name="0026 (550.ja) NAGATO (長門)" xml:space="preserve">
+    <value>満月</value>
+  </data>
+  <data name="0027 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、ほんとね……</value>
+  </data>
+  <data name="0028 (550.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0029 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>って、それだけ？</value>
+  </data>
+  <data name="0030 (550.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0031 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>確かに、有希らしいって気はする
+けど、タイミングを考えてよね</value>
+  </data>
+  <data name="0032 (550.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0033 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はぁ……なんか気合いが抜け
+ちゃったわ</value>
+  </data>
+  <data name="0034 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急ぎましょ、古泉くん</value>
+  </data>
+  <data name="0036 (550.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>少しよろしいですか？</value>
+  </data>
+  <data name="0037 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの？</value>
+  </data>
+  <data name="0038 (550.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、今日は満月でしたか？</value>
+  </data>
+  <data name="0039 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それがどうしたの？</value>
+  </data>
+  <data name="0040 (550.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>記憶が定かではないのですが月齢で
+今日は満月ではない気がしまして</value>
+  </data>
+  <data name="0041 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうなの？　でも、どこか欠けてる
+感じもしないし、確かにあれ満月よ</value>
+  </data>
+  <data name="0042 (550.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>では、僕の勘違いだったのでしょう</value>
+  </data>
+  <data name="0043 (550.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>少し神経質になっていたのかも
+しれませんね</value>
+  </data>
+  <data name="0044 (550.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>満月と言えば、昔から不可思議な
+現象が起りやすいという話ですし</value>
+  </data>
+  <data name="0045 (550.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>確かにそうね。狼男も満月に出て
+くるものね</value>
+  </data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,774 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉、ニセ怪談と言っていたが何か
+仕掛けは考えてるんだろうな？</value>
+  </data>
+  <data name="0001 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、簡単なトラップをいくつか
+考えています</value>
+  </data>
+  <data name="0002 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの、学校の怪談ってほかに
+どんなのがあるんでしょう？</value>
+  </data>
+  <data name="0003 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは恐る恐る聞いておいで
+だが、そりゃあ自爆だと思う</value>
+  </data>
+  <data name="0004 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>どこの学校でも必ず似たような怪談
+がありますね</value>
+  </data>
+  <data name="0005 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>あれはなんだろうな。都市伝説みた
+いなもんでネットとかで流れるのか</value>
+  </data>
+  <data name="0006 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>インターネットが確立する以前から
+そうした話はあるようですよ</value>
+  </data>
+  <data name="0007 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>口コミで広がるんでしょうか？</value>
+  </data>
+  <data name="0008 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>夏休みの帰省で聞いたり話したりで
+広がったのかも知れませんね</value>
+  </data>
+  <data name="0010 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの、キョンくんは、どんな話
+を聞いたことがありますか？</value>
+  </data>
+  <data name="0011 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ますます地雷を踏みに来る朝比奈さ
+んだが、怖いもの見たさなのか</value>
+  </data>
+  <data name="0012 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうですね、俺が聞いた話では……</value>
+  </data>
+  <data name="0013 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>動く人体模型って話ですね</value>
+  </data>
+  <data name="0014 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>う、動くって、勝手に動いたり……
+とか？</value>
+  </data>
+  <data name="0015 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>理科室などの人体模型が笑ったり
+歩き回るっていう話です</value>
+  </data>
+  <data name="0016 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0いやあああ！</value>
+  </data>
+  <data name="0017 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは耳をふさいでその場に
+座り込んでしまった</value>
+  </data>
+  <data name="0018 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それでも聞きたがるのは、やっぱり
+怖いもの見たさの好奇心か</value>
+  </data>
+  <data name="0020 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>その話、使えそうですよ</value>
+  </data>
+  <data name="0021 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうか？　かなり子供だましの話だ
+と思うけどなあ</value>
+  </data>
+  <data name="0022 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いいアイデアを頂きました。早速
+準備にかかりましょう</value>
+  </data>
+  <data name="0023 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あた、あたしは怖いからここで待っ
+てますぅ</value>
+  </data>
+  <data name="0024 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>１人で大丈夫ですか？</value>
+  </data>
+  <data name="0025 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0ひっ……キョンくぅん……</value>
+  </data>
+  <data name="0026 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さん、そんな目で見つめられ
+たら守りたくなるじゃないですか</value>
+  </data>
+  <data name="0027 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>すまん古泉
+１人でなんとかなるか？</value>
+  </data>
+  <data name="0028 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、おそらく。では人体模型を
+取りに行ってきます</value>
+  </data>
+  <data name="0029 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0怖いよぅ、怖いよぅ……</value>
+  </data>
+  <data name="0030 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは廊下でびくびくと
+怯えていらっしゃる</value>
+  </data>
+  <data name="0031 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>ここにいれば大丈夫ですよ</value>
+  </data>
+  <data name="0032 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0……はわわあっ！！</value>
+  </data>
+  <data name="0033 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ど、どうしたんです朝比奈さんっ？</value>
+  </data>
+  <data name="0034 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0あ、あ、あれ、あれ……</value>
+  </data>
+  <data name="0035 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんが泣きそうな顔で指差し
+た先には……</value>
+  </data>
+  <data name="0037 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>……おいおい</value>
+  </data>
+  <data name="0038 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いつの間にか、廊下に人体模型が
+立っている</value>
+  </data>
+  <data name="0039 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>どうです、使えそうだと思いません
+か？</value>
+  </data>
+  <data name="0040 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>なあ、古泉。そういう登場の仕方は
+悪趣味だからやめろ</value>
+  </data>
+  <data name="0041 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あはは、驚いていただけましたか？
+お２人の反応を見たくてちょっと</value>
+  </data>
+  <data name="0042 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>確信犯だな、おまえ</value>
+  </data>
+  <data name="0045 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0はわわ……</value>
+  </data>
+  <data name="0046 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえが驚かすから、朝比奈さんが
+おびえてるじゃないか</value>
+  </data>
+  <data name="0047 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>申し訳ありません。しかしそれだけ
+のインパクトがあるということです</value>
+  </data>
+  <data name="0048 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ものは言いようだな</value>
+  </data>
+  <data name="0049 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こいつは朝比奈さんを驚かして
+喜んでいるだけじゃないのか</value>
+  </data>
+  <data name="0050 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0キョンくん、怖いですっ、お人形が
+こっちを見てますぅ！</value>
+  </data>
+  <data name="0051 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ああ、朝比奈さんが人体模型を見て
+引きつっていらっしゃる</value>
+  </data>
+  <data name="0052 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>それにしても小汚い人体模型だな</value>
+  </data>
+  <data name="0053 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ。しまい込まれてずいぶんと
+経っているようでホコリまみれです</value>
+  </data>
+  <data name="0054 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>その分迫力が増したってところか</value>
+  </data>
+  <data name="0055 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0迫力ありすぎますよぅ</value>
+  </data>
+  <data name="0056 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>トイレにまつわる怪談ですね</value>
+  </data>
+  <data name="0058 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ああ、その手の怪談はどこにでもあ
+りますね</value>
+  </data>
+  <data name="0059 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>奥からいくつ目かの個室をノックす
+ると誰もいないのに返事があるとか</value>
+  </data>
+  <data name="0060 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0はうぅぅぅ……</value>
+  </data>
+  <data name="0061 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>トイレといえば、職員用トイレには
+炭の消臭剤がありましたね</value>
+  </data>
+  <data name="0062 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんでそんなこと知ってるんだ？</value>
+  </data>
+  <data name="0063 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、ちょっとした成り行きで知り
+まして</value>
+  </data>
+  <data name="0064 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なにがどう成り行けば職員用トイレ
+の情報を得るんだか知りたいね</value>
+  </data>
+  <data name="0065 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>で、その消臭剤がどうしたんだ？</value>
+  </data>
+  <data name="0066 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>雰囲気作りに使えるかと思いまして</value>
+  </data>
+  <data name="0067 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんの雰囲気なんだよ</value>
+  </data>
+  <data name="0068 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>とにかくお２人はここにいて下さい
+消臭剤は僕が回収してきます</value>
+  </data>
+  <data name="0069 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたし、怖くてトイレに行けなくな
+ってしまいそうです……</value>
+  </data>
+  <data name="0070 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>大丈夫ですよ。根拠のない子供の
+作り話ですから</value>
+  </data>
+  <data name="0071 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>学校って元は墓地だったり古戦場跡
+だって聞いたことがありますよぅ</value>
+  </data>
+  <data name="0072 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺もそういう話を聞きましたけど
+都市伝説じゃないですかね</value>
+  </data>
+  <data name="0073 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>だといいんですけど……</value>
+  </data>
+  <data name="0074 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ん？</value>
+  </data>
+  <data name="0075 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0はううぅっ、お線香の匂いがする！</value>
+  </data>
+  <data name="0076 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>うわ……本当だ</value>
+  </data>
+  <data name="0078 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>消臭剤を回収してきました</value>
+  </data>
+  <data name="0079 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>もしかして、それの匂いなのか？</value>
+  </data>
+  <data name="0080 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>はい、線香のような香りの消臭剤な
+ので、ニセ怪談にもってこいです</value>
+  </data>
+  <data name="0081 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>うう、お線香かと思ってゾッとしま
+した</value>
+  </data>
+  <data name="0082 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺もまさかと思いましたよ</value>
+  </data>
+  <data name="0085 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>これにいろいろと仕掛けを足せば
+ニセ怪奇現象の出来上がりですよ</value>
+  </data>
+  <data name="0086 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>で、どんな仕掛けをするつもりだ？
+これを置いておくだけでも充分だろ</value>
+  </data>
+  <data name="0087 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんがその程度で納得しない
+ことは、あなたもご承知でしょう</value>
+  </data>
+  <data name="0088 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>引っかかる言い回しだな、おい</value>
+  </data>
+  <data name="0089 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ははっ、すみません</value>
+  </data>
+  <data name="0090 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>笑い事じゃない、まったく</value>
+  </data>
+  <data name="0091 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>で、具体的にどうするんだ？</value>
+  </data>
+  <data name="0092 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>これにワイヤーをつないで、足を
+引っかけると音を出します</value>
+  </data>
+  <data name="0093 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どこから持って来たのかラジカセの
+登場だ</value>
+  </data>
+  <data name="0094 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>これはまた古いラジカセだな
+音はちゃんと鳴るのか？</value>
+  </data>
+  <data name="0095 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>もちろんです。使えないと無意味
+なので、物置で確認しておきました</value>
+  </data>
+  <data name="0096 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ああさようですか。聞いた俺がバカ
+みたいじゃないか</value>
+  </data>
+  <data name="0098 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの、音を鳴らすって、どんな
+音を鳴らすんでしょう？</value>
+  </data>
+  <data name="0099 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんはパニックから少し立ち
+直ったご様子で聞いていらっしゃる</value>
+  </data>
+  <data name="0100 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そこで朝比奈さんにひとつお願いが
+あるのです</value>
+  </data>
+  <data name="0101 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>聞いて頂けますか、朝比奈さん</value>
+  </data>
+  <data name="0102 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっ、あ、あの、はい……</value>
+  </data>
+  <data name="0103 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ありがとうございます。朝比奈さん
+のご協力に感謝します</value>
+  </data>
+  <data name="0104 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おいおい、断りにくい頼み方をして
+おいてよく言うね</value>
+  </data>
+  <data name="0105 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>とりあえず仕掛けを設置する場所へ
+移動してから相談しましょう</value>
+  </data>
+  <data name="0106 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ここで相談してもよさそうなものを
+何をもったいぶる必要があるんだ？</value>
+  </data>
+  <data name="0107 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あうぅ……まだちょっと怖いですぅ</value>
+  </data>
+  <data name="0108 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>大丈夫です朝比奈さん。俺がついて
+いますから</value>
+  </data>
+  <data name="0109 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ありがとう、キョンくん……</value>
+  </data>
+  <data name="0110 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それで、あたしはなにを手伝えば
+いいんでしょう？</value>
+  </data>
+  <data name="0111 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>じつは、絹を裂くような女性の悲鳴
+を朝比奈さんにお願いしたいのです</value>
+  </data>
+  <data name="0112 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>その悲鳴を録音して、トラップに
+仕掛けて驚かそうという作戦です</value>
+  </data>
+  <data name="0113 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>またえらく悪趣味な仕掛けだな</value>
+  </data>
+  <data name="0114 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>悲鳴を上げるだけでいいんですか？</value>
+  </data>
+  <data name="0115 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、よろしくお願いします</value>
+  </data>
+  <data name="0116 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>マイクまで用意していやがる
+準備万端じゃないか、古泉</value>
+  </data>
+  <data name="0117 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……はい、どうぞ</value>
+  </data>
+  <data name="0118 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0きゃああ</value>
+  </data>
+  <data name="0119 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>うーん。ちょっと迫力に欠けますね
+もう少し本気でお願いします</value>
+  </data>
+  <data name="0120 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい、あたしなりに本気ですが
+足りなくてごめんなさい……</value>
+  </data>
+  <data name="0121 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい古泉、朝比奈さんは一所懸命
+やってるだろ</value>
+  </data>
+  <data name="0122 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、朝比奈さんの尽力にはとても
+感謝しています</value>
+  </data>
+  <data name="0123 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>でも結果がすべてってか？</value>
+  </data>
+  <data name="0124 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>残念ながら、今の悲鳴では誰も
+驚かないでしょう</value>
+  </data>
+  <data name="0125 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はうぅ……ごめんなさい……</value>
+  </data>
+  <data name="0126 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんはしょげてしまわれた</value>
+  </data>
+  <data name="0127 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……おや？</value>
+  </data>
+  <data name="0128 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだよ、いきなり真顔で</value>
+  </data>
+  <data name="0129 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ。僕の気のせいかも知れません</value>
+  </data>
+  <data name="0130 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>こっ、怖いのはイヤですぅ……</value>
+  </data>
+  <data name="0131 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>言いかけて飲み込むな。朝比奈さん
+がおびえるだろうが</value>
+  </data>
+  <data name="0132 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……言わない方がいいかと思います</value>
+  </data>
+  <data name="0133 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>いやああっ、言ってもらったほうが
+怖くないと思うんですぅぅ！</value>
+  </data>
+  <data name="0134 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですか……</value>
+  </data>
+  <data name="0135 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>もったいぶらずに言えよ、古泉</value>
+  </data>
+  <data name="0136 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんの後ろを人が横切った
+ように見えたのですが……</value>
+  </data>
+  <data name="0137 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ん？　もしかして長い髪の少女か？</value>
+  </data>
+  <data name="0138 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>きっと気のせいですね。朝比奈さん
+怖い思いをさせてすみませんでした</value>
+  </data>
+  <data name="0139 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0あうぅ……聞かなければよかったぁ</value>
+  </data>
+  <data name="0140 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今の話だけでも、朝比奈さんは
+大いにおびえておいでだ</value>
+  </data>
+  <data name="0141 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あぁっ！</value>
+  </data>
+  <data name="0142 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0#P05きゃあああああああああっ！！
+いやあああああああああっ！！</value>
+  </data>
+  <data name="0143 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ありがとうございます、朝比奈さん
+おかげさまでいい悲鳴が録れました</value>
+  </data>
+  <data name="0144 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉っ、おまえな！
+優男ヅラしてとんだサディストだ</value>
+  </data>
+  <data name="0145 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>すみません。これが一番効果的な
+演出だと思ったのですよ</value>
+  </data>
+  <data name="0146 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>悪趣味にもほどがあるぞ！
+朝比奈さん、大丈夫ですか？</value>
+  </data>
+  <data name="0148 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0はうぅ……腰が抜けて歩けませぇん</value>
+  </data>
+  <data name="0149 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>みろ古泉、お前のせいで朝比奈さん
+が一大事だ</value>
+  </data>
+  <data name="0152 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい。おまえも男なら女性を脅かす
+ようなことはやめろ</value>
+  </data>
+  <data name="0153 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>申し訳ありません、ここまで驚くと
+は思ってもみなくて……</value>
+  </data>
+  <data name="0154 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょっと考えれば分かるだろ</value>
+  </data>
+  <data name="0155 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>本当に申し訳ないです、朝比奈さん</value>
+  </data>
+  <data name="0156 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>#P05“ヒンシュク”#P01をかってしまって
+から謝ってもおそいんだよ</value>
+  </data>
+  <data name="0157 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん、とにかくおちついて
+深呼吸して下さい</value>
+  </data>
+  <data name="0158 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい、すぅ、すぅ……</value>
+  </data>
+  <data name="0159 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>い、息がつまってしまいますぅ</value>
+  </data>
+  <data name="0160 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>吸った息は吐かないとダメですよ
+朝比奈さんっ！</value>
+  </data>
+  <data name="0161 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうでした、はあ、ふう……</value>
+  </data>
+  <data name="0162 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは#P05“パニック”#P01状態の
+ご様子だ</value>
+  </data>
+  <data name="0165 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>申し訳ありません。いざともなれば
+僕が背負って差し上げます</value>
+  </data>
+  <data name="0166 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それは俺の仕事だから横取りするな</value>
+  </data>
+  <data name="0168 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>配線はこれでよし。あとはトラップ
+を仕掛けるだけですね</value>
+  </data>
+  <data name="0169 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉。これでハルヒが引っかからな
+かったらどうするつもりだ？</value>
+  </data>
+  <data name="0170 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>他の手も考えてありますから、二重
+三重に設置します</value>
+  </data>
+  <data name="0171 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>複数あれば、どれかのトラップには
+引っかかってもらえるかと</value>
+  </data>
+  <data name="0172 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なにしろ涼宮さんの好奇心は半端で
+はありませんからね</value>
+  </data>
+  <data name="0173 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>その部分ついては同意する。怪しげ
+なものにはすぐ飛びつくだろうしな</value>
+  </data>
+  <data name="0175 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんだ？　どこで音がしたんだ！？</value>
+  </data>
+  <data name="0176 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0きゃああああっ！</value>
+  </data>
+  <data name="0177 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>うわっ、あ、朝比奈さんっ！</value>
+  </data>
+  <data name="0178 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0怖いですぅ、キョンくん、怖いぃ</value>
+  </data>
+  <data name="0179 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>大丈夫です、ただの音ですからっ</value>
+  </data>
+  <data name="0180 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0でもっ、でもっ！</value>
+  </data>
+  <data name="0181 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こう暗いと、朝比奈さんの恐がりも
+５割増しだ</value>
+  </data>
+  <data name="0182 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>たしか、廊下に非常用の懐中電灯が
+あったはずだが……</value>
+  </data>
+  <data name="0183 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>足枷のごとくしがみつく朝比奈さん
+を引きずりつつ、壁際を手で探る</value>
+  </data>
+  <data name="0184 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>お、あったあった</value>
+  </data>
+  <data name="0185 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん、懐中電灯がありました
+ひとまずこれで</value>
+  </data>
+  <data name="0186 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0きゃあああああっ、でたぁぁぁ！</value>
+  </data>
+  <data name="0187 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これはまずい、照らした先が
+トラップのひとつだったとは</value>
+  </data>
+  <data name="0188 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0いやあああっ、怖いよぅぅぅっ！</value>
+  </data>
+  <data name="0189 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは怖さのあまり俺に抱き
+ついておられる</value>
+  </data>
+  <data name="0190 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0キョンくぅんっ、怖いですぅキョン
+くぅんっ！</value>
+  </data>
+  <data name="0191 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>お、落ち着いて下さい、朝比奈さん</value>
+  </data>
+  <data name="0192 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>不謹慎だが朝比奈さんを怯えさせた
+古泉に少し感謝してやってもいい</value>
+  </data>
+  <data name="0195 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その古泉は苦笑して俺たちを見て
+いやがる</value>
+  </data>
+  <data name="0196 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしかして、さっきの物音もこいつ
+の仕業だったんじゃないか？</value>
+  </data>
+  <data name="0197 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは俺に抱きついたままだ
+心境的には不都合はないのだが……</value>
+  </data>
+  <data name="0198 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とはいえ、ちょっと動きにくいので
+名残惜しいが放して頂こう</value>
+  </data>
+  <data name="0201 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん、すみませんが放して
+頂かないと作業が出来ません</value>
+  </data>
+  <data name="0202 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あっ、ご、ごめんなさいぃ</value>
+  </data>
+  <data name="0204 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは恥ずかしそうに俺から
+離れた</value>
+  </data>
+  <data name="0205 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんのぬくもりが残って
+いて幸福気分だね</value>
+  </data>
+  <data name="0208 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉、なんとかしてくれないか</value>
+  </data>
+  <data name="0209 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さん、それでは彼が作業でき
+ませんよ</value>
+  </data>
+  <data name="0211 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの、ごめんなさいっ！
+怖くて、つい……</value>
+  </data>
+  <data name="0212 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、謝られなくても大丈夫です
+僕が抱きつかれたわけではないので</value>
+  </data>
+  <data name="0213 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こいつ、さくっとイヤミを言い
+やがったな</value>
+  </data>
+  <data name="0214 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0きゃあっ、人の足音がっ！</value>
+  </data>
+  <data name="0215 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>ん？</value>
+  </data>
+  <data name="0216 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>今のはコンピ研の方たちでは？</value>
+  </data>
+  <data name="0217 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>コンピ研の……？</value>
+  </data>
+  <data name="0218 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうらしいですよ、朝比奈さん</value>
+  </data>
+  <data name="0219 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>おばけじゃなかったんですね……</value>
+  </data>
+  <data name="0220 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんはよほど怪談が苦手な
+ご様子だ</value>
+  </data>
+  <data name="0221 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>あいつら何やってるんだ？</value>
+  </data>
+  <data name="0223 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>さあ……先ほどの物音と関係があり
+そうですね</value>
+  </data>
+  <data name="0224 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>コンピ研の連中に見つかると、後々
+面倒になりかねん</value>
+  </data>
+  <data name="0225 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どこからハルヒの耳に入るかわから
+んしな。ここはさっさと戻るに限る</value>
+  </data>
+  <data name="0226 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>あ、そうだ
+この懐中電灯はどうするかな……</value>
+  </data>
+  <data name="0227 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>懐中電灯は返しておくか</value>
+  </data>
+  <data name="0228 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>フックに戻そうとして見ると、壁に
+ありかを示す蛍光板が２枚あった</value>
+  </data>
+  <data name="0229 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんで２枚も貼ってあるんだ？</value>
+  </data>
+  <data name="0230 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>さあ？　余っていたのではないで
+しょうか</value>
+  </data>
+  <data name="0231 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>何かに使えそうだな……</value>
+  </data>
+  <data name="0232 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>余ったらしき#P05“蛍光板”#P01を拝借した</value>
+  </data>
+  <data name="0233 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>懐中電灯は念のために持っておくか
+暗がりでも作業しやすいしな</value>
+  </data>
+  <data name="0234 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あとで返せば問題ないでしょう</value>
+  </data>
+  <data name="0235 (465.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0明かりはあった方がいいですっ
+安心ですっ</value>
+  </data>
+  <data name="0236 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃ、#P05“懐中電灯”#P00は借りておき
+ましょう</value>
+  </data>
+  <data name="0239 (465.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉、あとはどこに仕掛ける？</value>
+  </data>
+  <data name="0240 (465.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あちこちに点在させた方がいいです
+から、もう少し離れましょう</value>
+  </data>
+  <data name="0241 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉の指示であれこれトラップを
+仕掛けておいたが</value>
+  </data>
+  <data name="0242 (465.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これでハルヒがどれかに引っかかっ
+てくれればラッキーだな</value>
+  </data>
 </root>

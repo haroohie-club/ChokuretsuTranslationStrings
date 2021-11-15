@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,461 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺たちは自らの手で怪奇現象を作り
+あげるため</value>
+  </data>
+  <data name="0001 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>校舎内に仕掛けを施すことにした</value>
+  </data>
+  <data name="0002 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>とにかく涼宮さんの興味をプール
+から逸らさないといけません</value>
+  </data>
+  <data name="0003 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうだな。このまま放っておいても
+状況は改善しないんだよな、長門</value>
+  </data>
+  <data name="0004 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>情報結合は不安定なまま。異空間が
+発生する確率は上昇中</value>
+  </data>
+  <data name="0006 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>怪異の発生率の上昇は、そのまま
+涼宮さんに目撃される危険の上昇</value>
+  </data>
+  <data name="0007 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>となります。ヘタをすれば、今
+現在のこの世界とはお別れです</value>
+  </data>
+  <data name="0008 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>明日の僕が存在したとしても
+それは今の僕ではない可能性がある</value>
+  </data>
+  <data name="0009 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>まあ、いるだけマシな方かも
+しれませんが</value>
+  </data>
+  <data name="0010 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>笑顔を浮かべたまま、おっかない
+ことを言うな</value>
+  </data>
+  <data name="0011 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうならないように、努力しに
+来てるんだろうが</value>
+  </data>
+  <data name="0012 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですね。さて、どんな怪異を
+でっちあげることにしましょうか？</value>
+  </data>
+  <data name="0013 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうだな……</value>
+  </data>
+  <data name="0018 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>この状況でどんなモノが作れる？</value>
+  </data>
+  <data name="0019 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ムダに知識が豊富なんだ
+今こそ役立ててもらおう</value>
+  </data>
+  <data name="0020 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>時間も材料も足りませんから
+単純なものがいいでしょうね</value>
+  </data>
+  <data name="0021 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>単純なもの……と言ってもな</value>
+  </data>
+  <data name="0024 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうすりゃいいと思う？</value>
+  </data>
+  <data name="0025 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は長門に問いかけた。こいつの
+力があれば何でもできそうだが</value>
+  </data>
+  <data name="0026 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>積極的関与は、立場上、してくれ
+ないんだろうな</value>
+  </data>
+  <data name="0027 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>質問に具体性がないため、返答不能</value>
+  </data>
+  <data name="0028 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>……悪かったよ</value>
+  </data>
+  <data name="0031 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>人間とは不思議なもので、恐怖感を
+感じるにも順列があるらしいです</value>
+  </data>
+  <data name="0032 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉のウンチクが始まったか</value>
+  </data>
+  <data name="0033 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その話はちゃんとでっちあげの
+仕込みに繋がるんだろうな？</value>
+  </data>
+  <data name="0034 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>まずは匂い、それから音、そして
+感触、最後に視覚と</value>
+  </data>
+  <data name="0035 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>この順番で感じるのが、一番恐怖心
+が増すのだそうです</value>
+  </data>
+  <data name="0036 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ホラー映画やお化け屋敷の作りは
+これに準拠しているんだそうですよ</value>
+  </data>
+  <data name="0037 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>なるほどな。けどそれを全部用意
+するのは無理だろ？</value>
+  </data>
+  <data name="0038 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>この準備期間の短さでは
+不可能でしょうね</value>
+  </data>
+  <data name="0039 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これ</value>
+  </data>
+  <data name="0040 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門が手に持っていた本を差し出す</value>
+  </data>
+  <data name="0041 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>この本がどうかしたのか、長門？</value>
+  </data>
+  <data name="0042 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>本に仕掛けの作り方でも載っている
+のだろうか？</value>
+  </data>
+  <data name="0043 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>要素が全てそろっている</value>
+  </data>
+  <data name="0044 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>は？　要素って何のだ？</value>
+  </data>
+  <data name="0045 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>本の匂い</value>
+  </data>
+  <data name="0046 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そして長門は本を開く</value>
+  </data>
+  <data name="0047 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>ページをめくる音</value>
+  </data>
+  <data name="0048 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>紙の感触</value>
+  </data>
+  <data name="0049 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門の指がページをめくり、紙の
+感触を確かめるようになでる</value>
+  </data>
+  <data name="0050 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>視覚情報</value>
+  </data>
+  <data name="0051 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門……</value>
+  </data>
+  <data name="0052 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>完璧</value>
+  </data>
+  <data name="0053 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>無表情なくせになぜか誇らしげな
+気持ちが伝わってくる</value>
+  </data>
+  <data name="0054 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、そうじゃなくてだな……</value>
+  </data>
+  <data name="0055 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門が本好きなのは良くわかって
+いるが、この場合は違うんだよ</value>
+  </data>
+  <data name="0057 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さん、前提が違いますよ</value>
+  </data>
+  <data name="0058 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕たちは今恐怖を感じさせるための
+ファクターの話をしているのです</value>
+  </data>
+  <data name="0059 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>恐怖……</value>
+  </data>
+  <data name="0060 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門は恐怖という感情がよく理解
+できないのだろうな</value>
+  </data>
+  <data name="0061 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>えーとだな、要素がそろっていれば
+いいというわけじゃないんだ</value>
+  </data>
+  <data name="0062 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう……</value>
+  </data>
+  <data name="0063 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門の返事が、何か残念そうに
+聞こえた</value>
+  </data>
+  <data name="0064 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>とにかく、話を戻そう</value>
+  </data>
+  <data name="0065 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>全ての要素を盛り込む仕掛けを作る
+には時間がないということでしたね</value>
+  </data>
+  <data name="0066 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、だからどれかをピックアップ
+して作るしかないだろうな</value>
+  </data>
+  <data name="0067 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>どれがいいでしょうね？</value>
+  </data>
+  <data name="0068 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>どれかひとつなら、最後の視覚だな
+いかにも怪談くさいし</value>
+  </data>
+  <data name="0069 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>しかし、視覚的に怖いモノを用意
+する必要がありますよ</value>
+  </data>
+  <data name="0070 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>校内にその条件を満たすものは
+何があるでしょうか？</value>
+  </data>
+  <data name="0071 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>校内にある一番怖そうなモノって
+いったら『人体模型』だろ</value>
+  </data>
+  <data name="0072 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ああ、確かにそうですね。昼間で
+さえも不気味なものですし</value>
+  </data>
+  <data name="0073 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>夜の学校なら効果は抜群だろ
+長門はどう思う？</value>
+  </data>
+  <data name="0074 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>昼でも夜でも視覚的情報は同じ</value>
+  </data>
+  <data name="0075 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>……そうか。長門以外は怖いと
+感じると思うぞ</value>
+  </data>
+  <data name="0076 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0077 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そういうものですよ、長門さん</value>
+  </data>
+  <data name="0078 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃあ『人体模型』を持ってきて
+廊下に置いておこう</value>
+  </data>
+  <data name="0079 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>感触だな</value>
+  </data>
+  <data name="0080 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>感触ですか。難しいものを選択
+しますね</value>
+  </data>
+  <data name="0081 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>ぬれ雑巾ならいけるんじゃないか？</value>
+  </data>
+  <data name="0082 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>吊したぬれ雑巾に触れたら、ぎょっ
+とすると思うぞ</value>
+  </data>
+  <data name="0083 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>しかし、どうやって触れさせましょ
+うか？</value>
+  </data>
+  <data name="0084 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>箒の上にでも乗せて、引っかけると
+倒れてくる仕掛けでも作るか</value>
+  </data>
+  <data name="0085 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>音かな</value>
+  </data>
+  <data name="0086 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>音ですか。音なら視界も関係なく、
+少々離れていても認識できますね</value>
+  </data>
+  <data name="0087 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>廊下に糸を張って、それを引っ張る
+とバケツが転がるってのはどうだ？</value>
+  </data>
+  <data name="0088 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それなら簡単に作れそうですね</value>
+  </data>
+  <data name="0089 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>その程度のことでしたら、いくつか
+用意できそうですね</value>
+  </data>
+  <data name="0090 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうだな。ひとつの大がかりな
+仕掛けは無理だとしても</value>
+  </data>
+  <data name="0091 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょっとした仕掛けを何個も作るか</value>
+  </data>
+  <data name="0092 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>では、仕掛けに必要なものを集めて
+来ましょう</value>
+  </data>
+  <data name="0093 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>その前にまず灯りだ
+懐中電灯を探そう</value>
+  </data>
+  <data name="0094 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>照明をつけてハルヒに見つかる
+わけにはいかない</value>
+  </data>
+  <data name="0095 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だからといって、真っ暗な校内で
+手際よく作業できるはずもない</value>
+  </data>
+  <data name="0098 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、懐中電灯を見つけて
+くれないか？</value>
+  </data>
+  <data name="0099 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>非常用に備えて、どこかに置いて
+あると思うんだよ</value>
+  </data>
+  <data name="0100 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>了解</value>
+  </data>
+  <data name="0101 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こう暗いと、探すだけでも一苦労
+だからな</value>
+  </data>
+  <data name="0102 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>本を読みながらでも周りの状況を
+把握できる長門なら大丈夫だろう</value>
+  </data>
+  <data name="0103 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>見つけた、これ</value>
+  </data>
+  <data name="0104 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>はやいな！</value>
+  </data>
+  <data name="0105 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門はさっさと懐中電灯を見つけて
+戻ってきた。有能だな、長門</value>
+  </data>
+  <data name="0108 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>懐中電灯を探してくれ、古泉</value>
+  </data>
+  <data name="0109 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>懐中電灯ですか。いいですよ</value>
+  </data>
+  <data name="0110 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉は暗い中を危なげなく歩き出す</value>
+  </data>
+  <data name="0111 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>聞いたら校内のマップは頭に入って
+います、くらいは言いそうだ</value>
+  </data>
+  <data name="0112 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>お待たせしました</value>
+  </data>
+  <data name="0113 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>待つことしばし、古泉が戻ってきた</value>
+  </data>
+  <data name="0114 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>お待たせってほど待ってない
+ずいぶん早かったな</value>
+  </data>
+  <data name="0115 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>手近な場所のものを持ってきました</value>
+  </data>
+  <data name="0116 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ですから光度は余り高いものでは
+ありませんよ</value>
+  </data>
+  <data name="0117 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>軍隊使用なごとき大型を持って
+来られてもバレやすくなるだけだろ</value>
+  </data>
+  <data name="0118 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>これで十分だろ</value>
+  </data>
+  <data name="0119 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉の有能ぶりにはまいるぜ</value>
+  </data>
+  <data name="0122 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺たちは掃除用具入れから道具を
+取り出し、仕掛けを作った</value>
+  </data>
+  <data name="0123 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>明るい所で見たら、笑ってしまう
+ような、たわいのない小細工だ</value>
+  </data>
+  <data name="0124 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だが、夜の校内なら、まあ、少しは
+驚いてくれるんじゃないだろうか</value>
+  </data>
+  <data name="0125 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒが相手じゃ希望的観測だがな</value>
+  </data>
+  <data name="0126 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんはユーモアがわからない人
+ではありませんからね</value>
+  </data>
+  <data name="0127 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>モップや雑巾で作った仕掛けでも
+楽しんでくれると期待しましょう</value>
+  </data>
+  <data name="0128 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>だといいが</value>
+  </data>
+  <data name="0129 (466.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これが怪奇現象</value>
+  </data>
+  <data name="0130 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>突っ込みたいのはわかるが、今は
+これが精一杯なんだよ、長門</value>
+  </data>
+  <data name="0131 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>これで準備は終了ですね</value>
+  </data>
+  <data name="0132 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんに怪しまれないうちに
+引き上げますか</value>
+  </data>
+  <data name="0133 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ……そうだ、借りてた懐中電灯
+はどうしようか</value>
+  </data>
+  <data name="0134 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まだ使いそうだし、念のために
+持っておこう</value>
+  </data>
+  <data name="0135 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は懐中電灯を返さずにいる
+ことにした</value>
+  </data>
+  <data name="0136 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>うまくこれでハルヒの注意を
+そらせればいいんだがな</value>
+  </data>
+  <data name="0137 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>返してきた方がいいな。ハルヒに
+見られたら何かと聞かれそうだ</value>
+  </data>
+  <data name="0138 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>この懐中電灯を返してきたら
+全て終了だな</value>
+  </data>
+  <data name="0139 (466.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おや、ずいぶん真面目ですね</value>
+  </data>
+  <data name="0140 (466.ja) KYON (キョン)" xml:space="preserve">
+    <value>学校の備品だしな</value>
+  </data>
+  <data name="0141 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>最後に俺たちは懐中電灯を返しに
+行ったのだった</value>
+  </data>
+  <data name="0142 (466.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この仕掛けでうまくハルヒの気を
+そらすことができればいいんだが</value>
+  </data>
 </root>

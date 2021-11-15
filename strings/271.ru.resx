@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,143 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (271.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あのっ、前から聞きたいと
+思ってたことがあるんですけど</value>
+  </data>
+  <data name="0001 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　なんなの？　みくるちゃん</value>
+  </data>
+  <data name="0002 (271.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さん、のコトなんですけど……</value>
+  </data>
+  <data name="0003 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希がどうかしたの？</value>
+  </data>
+  <data name="0004 (271.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええと、長門さんって、今でもまだ
+文芸部の部員……なんですよね？</value>
+  </data>
+  <data name="0005 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに言ってるの、みくるちゃん
+有希はＳＯＳ団員よ</value>
+  </data>
+  <data name="0006 (271.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、それはそうなんですけど、でも
+一応、あの部室も文芸部のモノだし</value>
+  </data>
+  <data name="0007 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ形としてはね。でも実際には
+ＳＯＳ団の部室なの。間違いないわ</value>
+  </data>
+  <data name="0008 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そもそも、文芸部ってのは有希一人
+しかいなかった幽霊部なのよ</value>
+  </data>
+  <data name="0009 (271.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ゆ、ゆうれいぶ？</value>
+  </data>
+  <data name="0010 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あー、今あたしが適当に作った言葉
+たった一人で活動は無理でしょ？</value>
+  </data>
+  <data name="0011 (271.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そう、ですね。それは確かに……</value>
+  </data>
+  <data name="0012 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だったら、有効活用しなきゃじゃ
+ない！</value>
+  </data>
+  <data name="0013 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>オマケに、有希は貴重な人材だわ！
+文芸部にはもったいないキャラよ！</value>
+  </data>
+  <data name="0014 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>妹ちゃんも、そう思わない？</value>
+  </data>
+  <data name="0016 (271.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>うん！　思う思う！</value>
+  </data>
+  <data name="0017 (271.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あはは……</value>
+  </data>
+  <data name="0018 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そーゆーワケだから、有希はうちの
+貴重な団員</value>
+  </data>
+  <data name="0019 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あの部室も、うちの貴重な拠点</value>
+  </data>
+  <data name="0020 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>秘密基地とか、司令部とか、もっと
+それらしい名称にしてもいいわね</value>
+  </data>
+  <data name="0021 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、それはさておき。でもどうし
+て、そんなことが気になったの？</value>
+  </data>
+  <data name="0022 (271.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふぇ？　え、えっと……それは……</value>
+  </data>
+  <data name="0023 (271.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>せ、生徒会の人たちが、怒ったり
+しないかなぁって、そう思って</value>
+  </data>
+  <data name="0024 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なーんだ、そういうこと</value>
+  </data>
+  <data name="0025 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは心配性ね、大丈夫
+絶対、手出しなんかさせないわ</value>
+  </data>
+  <data name="0026 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いざとなったら、生徒会とＳＯＳ団
+で抗争勃発よ！</value>
+  </data>
+  <data name="0028 (271.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>こうそうぼっぱつー！</value>
+  </data>
+  <data name="0029 (271.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そういう意味じゃなくて……</value>
+  </data>
+  <data name="0030 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そもそも、今の生徒会に、そんな
+バイタリティはないわね</value>
+  </data>
+  <data name="0031 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちゃんと活動してるのかどうかも
+怪しいもんだわ</value>
+  </data>
+  <data name="0032 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もっと、敵としてやりがいのある
+相手だったら、燃えるのにね</value>
+  </data>
+  <data name="0033 (271.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#P06……あたしは平和が一番ですぅ</value>
+  </data>
+  <data name="0034 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにか言った？</value>
+  </data>
+  <data name="0035 (271.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>い、いえ、なにもっ</value>
+  </data>
+  <data name="0036 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そ。じゃあ質問タイム終了ね</value>
+  </data>
+  <data name="0037 (271.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ……うぅ</value>
+  </data>
+  <data name="0038 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急がなきゃ、キョンたちがサボって
+るかもしれないし</value>
+  </data>
+  <data name="0039 (271.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>行きましょ、妹ちゃん</value>
+  </data>
+  <data name="0040 (271.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>うんっ</value>
+  </data>
+  <data name="0041 (271.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ちょ、ちょっとは時間、稼げたかな</value>
+  </data>
 </root>

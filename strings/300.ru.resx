@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,102 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (300.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、バナナ食うか？</value>
+  </data>
+  <data name="0001 (300.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんた、なんでそんなもん持って
+歩いてるのよ？</value>
+  </data>
+  <data name="0002 (300.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、小腹が減ったときのためにな</value>
+  </data>
+  <data name="0003 (300.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それでバナナ？　ばっかじゃないの
+猿じゃないんだから</value>
+  </data>
+  <data name="0004 (300.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……猿呼ばわりされてしまった</value>
+  </data>
+  <data name="0005 (300.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>バナナイコール猿ってのはちょっと
+直球すぎやしないか？</value>
+  </data>
+  <data name="0006 (300.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうだわ、このバナナの皮で、涼宮
+さんに転んでもらえば……</value>
+  </data>
+  <data name="0007 (300.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あむ、もぐ、もぐ</value>
+  </data>
+  <data name="0008 (300.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……ちょっと、みくるちゃん？
+立ち食いなんてお行儀が悪いわよ</value>
+  </data>
+  <data name="0009 (300.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふわ！　ご、ごめんなさい……</value>
+  </data>
+  <data name="0010 (300.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、食べたら行くわよ！</value>
+  </data>
+  <data name="0011 (300.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はいい……</value>
+  </data>
+  <data name="0012 (300.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0013 (300.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの、有希？</value>
+  </data>
+  <data name="0014 (300.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これ</value>
+  </data>
+  <data name="0015 (300.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　バナナ？</value>
+  </data>
+  <data name="0016 (300.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0017 (300.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>くれるの？</value>
+  </data>
+  <data name="0018 (300.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0019 (300.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ありがと、いただくわ</value>
+  </data>
+  <data name="0020 (300.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バナナって食べながらでも歩ける
+から手頃よね</value>
+  </data>
+  <data name="0021 (300.ja) NAGATO (長門)" xml:space="preserve">
+    <value>食べ歩きは、行儀が良くない</value>
+  </data>
+  <data name="0022 (300.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　なんか言った？
+ほら、早く行きましょう！</value>
+  </data>
+  <data name="0023 (300.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0024 (300.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さん、長門さんが食後のデザー
+トにバナナを用意していますよ</value>
+  </data>
+  <data name="0025 (300.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バナナ？</value>
+  </data>
+  <data name="0026 (300.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>気遣いは有りがたいけど、さっき
+お腹いっぱい食べたばかりだもの</value>
+  </data>
+  <data name="0027 (300.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バナナはあとで食べましょ
+今は目的地へ急ぐわよ！</value>
+  </data>
+  <data name="0028 (300.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……やはりバナナごときでは
+釣られませんか</value>
+  </data>
 </root>

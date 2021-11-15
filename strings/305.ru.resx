@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,105 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (305.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門の知識ってのも大したもんだよ
+野菜の産地なんかぴたりだぜ</value>
+  </data>
+  <data name="0001 (305.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へー。あの娘にそんな特技がある
+なんて知らなかったわ</value>
+  </data>
+  <data name="0002 (305.ja) KYON (キョン)" xml:space="preserve">
+    <value>野菜鑑定選手権とかあったらチャン
+ピオンになれるんじゃないかね</value>
+  </data>
+  <data name="0003 (305.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいわね、そういう大会があったら
+ＳＯＳ団として出場しなくちゃ</value>
+  </data>
+  <data name="0004 (305.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>楽しそうに夢を語るハルヒだが、
+足取りはあまり変わらない</value>
+  </data>
+  <data name="0005 (305.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こりゃ、ネタ振りをしくじったか？</value>
+  </data>
+  <data name="0006 (305.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんの知識って、本当に
+すごいですよね</value>
+  </data>
+  <data name="0007 (305.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>お野菜の産地とか、見ただけで
+全部当てちゃったそうですよ</value>
+  </data>
+  <data name="0008 (305.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へぇ、有希の目利きって
+けっこうすごいのねぇ</value>
+  </data>
+  <data name="0009 (305.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>将来は意外とカリスマ主婦に
+なったりするのかもしれないわね</value>
+  </data>
+  <data name="0010 (305.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>野菜を見ただけで調理法とか
+パパッと考えついちゃうとか！</value>
+  </data>
+  <data name="0011 (305.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……そ、そうでしょうか？
+ちょっと想像しづらいですぅ</value>
+  </data>
+  <data name="0012 (305.ja) NAGATO (長門)" xml:space="preserve">
+    <value>野菜は産地が重要
+栄養分も異なる</value>
+  </data>
+  <data name="0013 (305.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へー、そうなんだ。やっぱ緯度とか
+経度とか、気候が大事なのかしら</value>
+  </data>
+  <data name="0014 (305.ja) NAGATO (長門)" xml:space="preserve">
+    <value>植物にとって気温や日照時間は重要
+それと土壌の違い</value>
+  </data>
+  <data name="0015 (305.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほどね、勉強になるわ</value>
+  </data>
+  <data name="0016 (305.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>野菜を買い物に行くときは、有希に
+聞いてからにするわ</value>
+  </data>
+  <data name="0017 (305.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>常々思うのですが、長門さんの知識
+の豊富さには驚かされますね</value>
+  </data>
+  <data name="0018 (305.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、有希ってばいろんなことを
+知ってるわよね</value>
+  </data>
+  <data name="0019 (305.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やっぱりたくさん本を読んでると
+物知りになっていくのかしら</value>
+  </data>
+  <data name="0020 (305.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>我々も、もっと本を読んだ方がいい
+かも知れませんね</value>
+  </data>
+  <data name="0021 (305.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>んー、それは人それぞれじゃない
+かしら</value>
+  </data>
+  <data name="0022 (305.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>本からでなくても知識は得られる
+でしょ</value>
+  </data>
+  <data name="0023 (305.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>実体験などからも知識を得られます
+が、本がもっとも手軽に思います</value>
+  </data>
+  <data name="0024 (305.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>手軽に得た知識じゃ、いざという
+時に役に立たないかもね</value>
+  </data>
+  <data name="0025 (305.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど。そうかもしれませんね</value>
+  </data>
 </root>
