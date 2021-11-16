@@ -323,7 +323,7 @@ namespace HaruhiChokuretsuLib.Archive
 
                 if (dialogueText.Count(c => c == '\n') > 1)
                 {
-                    Console.WriteLine($"File {Index} has dialogue line too long ({dialogueIndex}) (starting with: {dialogueText[0..Math.Min(5, dialogueText.Length - 1)]})");
+                    Console.WriteLine($"File {Index} has dialogue line too long ({dialogueIndex}) (starting with: {dialogueText[0..Math.Min(15, dialogueText.Length - 1)]})");
                 }
 
                 EditDialogueLine(dialogueIndex, dialogueText);
