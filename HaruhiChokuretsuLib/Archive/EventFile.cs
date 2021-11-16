@@ -31,7 +31,7 @@ namespace HaruhiChokuretsuLib.Archive
             public int Width { get; set; }
         }
 
-        private const int DIALOGUE_LINE_LENGTH = 215;
+        private const int DIALOGUE_LINE_LENGTH = 230;
         private static readonly Dictionary<char, CharacterWithSpacing> CharacterToLengthMap = new()
         {
             { '0', new CharacterWithSpacing { Character = '０', Width = 6 } },
