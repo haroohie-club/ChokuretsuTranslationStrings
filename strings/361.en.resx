@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,76 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0002 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>It's about yesterday at the Café.</value>
+  </data>
+  <data name="0003 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Haruhi's ears pricked up when she heard "unnatural phenomenon".</value>
+  </data>
+  <data name="0005 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>"Tomorrow morning, we'll meet at school! Bring whatever you need for staying the night!"</value>
+  </data>
+  <data name="0004 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>She stole my phone, and after interrogating Taniguchi...</value>
+  </data>
+  <data name="0007 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Though, with a few too many bonuses included.</value>
+  </data>
+  <data name="0008 (361.ja) KYON (キョン)" xml:space="preserve">
+    <value>Sorry, I'm a little late.</value>
+  </data>
+  <data name="0009 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>You're late, Kyon!</value>
+  </data>
+  <data name="0010 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Didn't I tell you that anyone who's late gets the death penalty!?</value>
+  </data>
+  <data name="0011 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>The punishment for making the SOS Brigade leader wait under the burning sun is severe!</value>
+  </data>
+  <data name="0012 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>The death penalty for being just 5 minutes late, you say?</value>
+  </data>
+  <data name="0014 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Incidentally, the rest of the group is already assembled. As always.</value>
+  </data>
+  <data name="0015 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>They're all genuinely incredible when it comes to following orders, with room to spare.</value>
+  </data>
+  <data name="0017 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Of course, to Asahina. Oh and you too Nagato, sorry.</value>
+  </data>
+  <data name="0018 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Ok Kyon, prepare yourself!</value>
+  </data>
+  <data name="0019 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>First we'll drag you around the school grounds, then we'll behead you.</value>
+  </data>
+  <data name="0020 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Koizumi, I'll let you do the execution.</value>
+  </data>
+  <data name="0021 (361.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>It is an honour.</value>
+  </data>
+  <data name="0022 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……You call that an honour?</value>
+  </data>
+  <data name="0025 (361.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>Ehehe, morning!</value>
+  </data>
+  <data name="0000 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>With that being said, it was the next morning.</value>
+  </data>
+  <data name="0001 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>It's called a summer break, yet right now I've come to school. Brigade leader's orders of course.</value>
+  </data>
+  <data name="0006 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Since she said so, I came from early in the morning to climb this stupidly long hill road.</value>
+  </data>
+  <data name="0013 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Don't you know our ancestor's great proverb, "condemn the offense, but not the offender"?</value>
+  </data>
+  <data name="0016 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Though, it's hard to deny that even though it's the morning, these harsh rays of sun are hard to endure.</value>
+  </data>
 </root>
