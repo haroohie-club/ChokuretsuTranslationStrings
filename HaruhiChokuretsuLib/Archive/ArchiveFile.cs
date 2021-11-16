@@ -31,29 +31,29 @@ namespace HaruhiChokuretsuLib.Archive
             return new ArchiveFile<T>(evtBytes);
         }
 
-        public ArchiveFile(byte[] fileSystemBytes)
+        public ArchiveFile(byte[] archiveBytes)
         {
             int endOfHeader = 0x00;
-            for (int i = 0; i < fileSystemBytes.Length - 0x10; i++)
+            for (int i = 0; i < archiveBytes.Length - 0x10; i++)
             {
-                if (fileSystemBytes.Skip(i).Take(0x10).All(b => b == 0x00))
+                if (archiveBytes.Skip(i).Take(0x10).All(b => b == 0x00))
                 {
                     endOfHeader = i;
                     break;
                 }
             }
-            int numZeroes = fileSystemBytes.Skip(endOfHeader).TakeWhile(b => b == 0x00).Count();
+            int numZeroes = archiveBytes.Skip(endOfHeader).TakeWhile(b => b == 0x00).Count();
             int firstFileOffset = endOfHeader + numZeroes;
 
-            Header = fileSystemBytes.Take(firstFileOffset).ToArray();
+            Header = archiveBytes.Take(firstFileOffset).ToArray();
 
-            NumItems = BitConverter.ToInt32(fileSystemBytes.Take(4).ToArray());
+            NumItems = BitConverter.ToInt32(archiveBytes.Take(4).ToArray());
 
-            MagicIntegerMsbMultiplier = BitConverter.ToInt32(fileSystemBytes.Skip(0x04).Take(4).ToArray());
-            MagicIntegerLsbMultiplier = BitConverter.ToInt32(fileSystemBytes.Skip(0x08).Take(4).ToArray());
+            MagicIntegerMsbMultiplier = BitConverter.ToInt32(archiveBytes.Skip(0x04).Take(4).ToArray());
+            MagicIntegerLsbMultiplier = BitConverter.ToInt32(archiveBytes.Skip(0x08).Take(4).ToArray());
 
-            MagicIntegerLsbAnd = BitConverter.ToInt32(fileSystemBytes.Skip(0x10).Take(4).ToArray());
-            MagicIntegerMsbShift = BitConverter.ToInt32(fileSystemBytes.Skip(0x0C).Take(4).ToArray());
+            MagicIntegerLsbAnd = BitConverter.ToInt32(archiveBytes.Skip(0x10).Take(4).ToArray());
+            MagicIntegerMsbShift = BitConverter.ToInt32(archiveBytes.Skip(0x0C).Take(4).ToArray());
 
             for (int i = 0; i<= MagicIntegerLsbAnd; i++)
             {
@@ -64,26 +64,26 @@ namespace HaruhiChokuretsuLib.Archive
                 }
             }
 
-            HeaderLength = BitConverter.ToInt32(fileSystemBytes.Skip(0x1C).Take(4).ToArray()) + (NumItems * 2 + 8) * 4;
+            HeaderLength = BitConverter.ToInt32(archiveBytes.Skip(0x1C).Take(4).ToArray()) + (NumItems * 2 + 8) * 4;
             for (int i = FirstHeaderPointerOffset; i < (NumItems * 4) + 0x20; i += 4)
             {
-                HeaderPointers.Add(BitConverter.ToUInt32(fileSystemBytes.Skip(i).Take(4).ToArray()));
+                HeaderPointers.Add(BitConverter.ToUInt32(archiveBytes.Skip(i).Take(4).ToArray()));
             }
             int firstNextPointer = FirstHeaderPointerOffset + HeaderPointers.Count * 4;
             for (int i = firstNextPointer; i < (NumItems * 4) + firstNextPointer; i += 4)
             {
-                SecondHeaderNumbers.Add(BitConverter.ToUInt32(fileSystemBytes.Skip(i).Take(4).ToArray()));
+                SecondHeaderNumbers.Add(BitConverter.ToUInt32(archiveBytes.Skip(i).Take(4).ToArray()));
             }
 
-            for (int i = firstFileOffset; i < fileSystemBytes.Length;)
+            for (int i = firstFileOffset; i < archiveBytes.Length;)
             {
                 int offset = i;
                 List<byte> fileBytes = new();
-                byte[] nextLine = fileSystemBytes.Skip(i).Take(0x10).ToArray();
+                byte[] nextLine = archiveBytes.Skip(i).Take(0x10).ToArray();
                 for (i += 0x10; !nextLine.All(b => b == 0x00); i += 0x10)
                 {
                     fileBytes.AddRange(nextLine);
-                    nextLine = fileSystemBytes.Skip(i).Take(0x10).ToArray();
+                    nextLine = archiveBytes.Skip(i).Take(0x10).ToArray();
                 }
                 if (fileBytes.Count > 0)
                 {
@@ -109,7 +109,7 @@ namespace HaruhiChokuretsuLib.Archive
                     file.CompressedData = fileBytes.ToArray();
                     Files.Add(file);
                 }
-                byte[] zeroes = fileSystemBytes.Skip(i).TakeWhile(b => b == 0x00).ToArray();
+                byte[] zeroes = archiveBytes.Skip(i).TakeWhile(b => b == 0x00).ToArray();
                 i += zeroes.Length;
             }
         }
@@ -211,7 +211,7 @@ namespace HaruhiChokuretsuLib.Archive
             for (int i = 0; i < Files.Count; i++)
             {
                 byte[] compressedBytes;
-                if (Files[i].Data is null || Files[i].Data.Count == 0)
+                if (!Files[i].Edited || Files[i].Data is null || Files[i].Data.Count == 0)
                 {
                     compressedBytes = Files[i].CompressedData;
                 }

@@ -14,6 +14,7 @@ namespace HaruhiChokuretsuLib.Archive
         public int Length { get; set; }
         public List<byte> Data { get; set; }
         public byte[] CompressedData { get; set; }
+        public bool Edited { get; set; } = false;
 
         public virtual void Initialize(byte[] compressedData, int offset)
         {

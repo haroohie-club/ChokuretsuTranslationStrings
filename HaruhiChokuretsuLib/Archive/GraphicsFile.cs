@@ -226,6 +226,7 @@ namespace HaruhiChokuretsuLib.Archive
         /// <returns>Width of new bitmap image</returns>
         public int SetImage(string bitmapFile)
         {
+            Edited = true;
             return SetImage(new Bitmap(bitmapFile));
         }
 

@@ -29,7 +29,7 @@ namespace HaruhiChokuretsuTests
         [TestCase(TestVariables.EVT_66_DECOMPRESSED)]
         [TestCase(TestVariables.EVT_MEMORYCARD_DECOMPRESSED)]
         [TestCase(TestVariables.EVT_TEST_DECOMPRESSED)]
-        public void EventFileMovePointersTest(string eventFile)
+        public void EventFileMovePointersIdempotentTest(string eventFile)
         {
             byte[] eventFileOnDisk = File.ReadAllBytes(eventFile);
             EventFile @event = new();
