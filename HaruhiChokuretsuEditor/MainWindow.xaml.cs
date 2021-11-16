@@ -208,6 +208,31 @@ namespace HaruhiChokuretsuEditor
             if (eventFile is not null)
             {
                 eventsListBox.SelectedIndex = _evtFile.Files.IndexOf(eventFile);
+                DialogueLine dialogueLine = eventFile.DialogueLines.FirstOrDefault(d => d.Text.Contains(dialogueSearchBox.Text.ToLowerInvariant()));
+                EventTextBox searchedBox = null;
+                foreach (var child in editStackPanel.Children)
+                {
+                    if (child.GetType() == typeof(StackPanel))
+                    {
+                        var childStackPanel = (StackPanel)child;
+                        foreach (var grandchild in childStackPanel.Children)
+                        {
+                            if (grandchild.GetType() == typeof(EventTextBox))
+                            {
+                                var textBox = (EventTextBox)grandchild;
+                                if (textBox.DialogueIndex == eventFile.DialogueLines.IndexOf(dialogueLine))
+                                {
+                                    searchedBox = textBox;
+                                }
+                            }
+                        }
+                        
+                    }
+                }
+                if (searchedBox is not null)
+                {
+                    searchedBox.BringIntoView();
+                }
             }
         }
 

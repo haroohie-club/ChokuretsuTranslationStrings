@@ -29,7 +29,7 @@
                     <StackPanel Grid.Column="1" Margin="175,30,0,0">
                         <TabControl>
                             <TabItem Header="Dialogue">
-                                <ScrollViewer Grid.Column="1" Height="350" >
+                                <ScrollViewer x:Name="eventEditScrollViewer"  Grid.Column="1" Height="350" >
                                     <DockPanel>
                                         <StackPanel x:Name="editStackPanel"/>
                                     </DockPanel>
