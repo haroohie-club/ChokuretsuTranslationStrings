@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="0000 (500.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9結局、#W40どれもこれもただの噂か
+勘違いだったってわけね#W20…#W10…</value>
+  </data>
+  <data name="0001 (500.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>$9で、#W10でも、#W40肝試しは楽しかった
+ですよね！</value>
+  </data>
+  <data name="0002 (500.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$9暗がりに怯えて泣いていた方の
+発言とは思えないが#W20…#W10…</value>
+  </data>
+  <data name="0003 (500.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$9おそらくは、#W20$8必死にハルヒを盛り
+上げようとなさっているのだろう</value>
+  </data>
+  <data name="0005 (500.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10確かに#W20ちょっとは楽しかったけどね</value>
+  </data>
+  <data name="0006 (500.ja) KYON (キョン)" xml:space="preserve">
+    <value>$8ならいいんじゃないか</value>
+  </data>
+  <data name="0007 (500.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8でも、#W20有希が怖がることなんてある
+のかしら？</value>
+  </data>
+  <data name="0008 (500.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8まあ、#W20みくるちゃんが怖がるのは
+いつものことだしね</value>
+  </data>
+  <data name="0009 (500.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10相変わらず、注文の多いことだ</value>
+  </data>
+  <data name="0010 (500.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9これだけ待ってるんだから</value>
+  </data>
+  <data name="0011 (500.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8一度くらい#W20怪談っぽいことが
+起きてもいいと思わない？#W20</value>
+  </data>
+  <data name="0012 (500.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$8思わんし、#W20起きてもらっちゃ困る</value>
+  </data>
+  <data name="0013 (500.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8あーっ、もうっ！#W10
+ムシャクシャする！</value>
+  </data>
+  <data name="0014 (500.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$7こんなんじゃ、ぜんぜん
+納得できないわ！</value>
+  </data>
+  <data name="0015 (500.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10それは残念だったな、ハルヒ</value>
+  </data>
+  <data name="0016 (500.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$9おまえが納得できようができまいが#W10
+$10時間は刻一刻となくなっていく</value>
+  </data>
+  <data name="0017 (500.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$9おまけに、#W20残る怪異はあと一つ#W40
+それさえ乗り切れば#W20…#W10…</value>
+  </data>
+  <data name="0019 (500.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10次は、#W10鏡から分身が現れるっていう
+話だったわね</value>
+  </data>
+  <data name="0020 (500.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10今度こそ見逃さないように
+今から鏡の前で待ちかまえてやるわ</value>
+  </data>
+  <data name="0021 (500.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10な、#W40なに#W20…#W10…</value>
+  </data>
+  <data name="0022 (500.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10待てよ、#W30$8そんなことになったら#W20…#W10…</value>
+  </data>
+  <data name="0023 (500.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$8マズイことになりましたね</value>
+  </data>
+  <data name="0024 (500.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10古泉っ</value>
+  </data>
+  <data name="0025 (500.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$9今の状況なら、#W30涼宮さんの目の前で
+分身が現れるのは#W30間違いありません</value>
+  </data>
+  <data name="0026 (500.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>$10ええ！？　じゃ、#W10じゃあ</value>
+  </data>
+  <data name="0027 (500.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10古泉の言うとおりだ</value>
+  </data>
+  <data name="0028 (500.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$8もはやこの学校は#W50情報生命体とやら
+と、#W30涼宮ハルヒの独壇場だ</value>
+  </data>
+  <data name="0029 (500.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10まったく、#W40$8対処するこっちの身にも
+なれってもんだ</value>
+  </data>
+  <data name="0030 (500.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$8ぼやいていも仕方ありません</value>
+  </data>
+  <data name="0031 (500.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$8我々には#W40涼宮さんの精神安定という#W40
+重大な使命が課せられていますから</value>
+  </data>
+  <data name="0032 (500.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10その使命ってのを、#W20$8できればこの場
+で返上したいんだがな#W20…#W10…</value>
+  </data>
+  <data name="0033 (500.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9みんな、#W20最後の現場に向かうわよ！</value>
+  </data>
+  <data name="0034 (500.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9今度こそ、#W20$8この目で不思議を
+拝んでやるわ！</value>
+  </data>
+</root>
