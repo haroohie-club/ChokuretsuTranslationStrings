@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows;
@@ -18,6 +19,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using HaruhiChokuretsuLib.Font;
 
 namespace HaruhiChokuretsuEditor
 {
@@ -47,6 +49,10 @@ namespace HaruhiChokuretsuEditor
             {
                 _evtFile = ArchiveFile<EventFile>.FromFile(openFileDialog.FileName);
                 _evtFile.Files.Where(f => f.Index >= 580 && f.Index <= 581).ToList().ForEach(f => f.InitializeDialogueForSpecialFiles());
+                FontReplacementDictionary fontReplacementDictionary = new();
+                fontReplacementDictionary.AddRange(JsonSerializer.Deserialize<List<FontReplacement>>(File.ReadAllText("Font/font_replacement.json")));
+                _evtFile.Files.ForEach(e => e.FontReplacementMap = fontReplacementDictionary);
+
                 eventsListBox.ItemsSource = _evtFile.Files;
                 eventsListBox.Items.Refresh();
             }

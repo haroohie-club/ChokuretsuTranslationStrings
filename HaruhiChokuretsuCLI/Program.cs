@@ -1,11 +1,14 @@
 ﻿using HaruhiChokuretsuLib;
 using HaruhiChokuretsuLib.Archive;
+using HaruhiChokuretsuLib.Font;
 using Mono.Options;
 using System;
+using System.Collections.Generic;
 using System.Drawing.Imaging;
 using System.Globalization;
 using System.IO;
 using System.Linq;
+using System.Text.Json;
 using System.Text.RegularExpressions;
 
 namespace HaruhiChokuretsuCLI
@@ -24,7 +27,7 @@ namespace HaruhiChokuretsuCLI
         {
             Mode mode = Mode.UNPACK;
             int imageWidth = 0;
-            string inPath = "", outPath = "", replacementFolder = "", langCode = "";
+            string inPath = "", outPath = "", replacementFolder = "", langCode = "", fontMapPath = "";
 
             OptionSet options = new()
             {
@@ -38,6 +41,7 @@ namespace HaruhiChokuretsuCLI
                 { "f|folder=", f => replacementFolder = f },
                 { "image-width=", w => imageWidth = int.Parse(w) },
                 { "l|lang-code=", l => langCode = l },
+                { "font-map=", f => fontMapPath = f },
             };
 
             try
@@ -67,7 +71,7 @@ namespace HaruhiChokuretsuCLI
             }
             else if (mode == Mode.IMPORT_RESX && !string.IsNullOrEmpty(replacementFolder) && !string.IsNullOrEmpty(langCode))
             {
-                ImportResxFolder(replacementFolder, langCode, inPath, outPath);
+                ImportResxFolder(replacementFolder, langCode, fontMapPath, inPath, outPath);
             }
             else
             {
@@ -238,12 +242,16 @@ namespace HaruhiChokuretsuCLI
         /// <param name="languageCode"></param>
         /// <param name="inputArc"></param>
         /// <param name="outputArc"></param>
-        private static void ImportResxFolder(string inputFolder, string languageCode, string inputArc, string outputArc)
+        private static void ImportResxFolder(string inputFolder, string languageCode, string fontMapPath, string inputArc, string outputArc)
         {
             try
             {
                 ArchiveFile<EventFile> evtFile = ArchiveFile<EventFile>.FromFile(inputArc);
                 evtFile.Files.Where(f => f.Index >= 580 && f.Index <= 581).ToList().ForEach(f => f.InitializeDialogueForSpecialFiles());
+                FontReplacementDictionary fontReplacementDictionary = new();
+                fontReplacementDictionary.AddRange(JsonSerializer.Deserialize<List<FontReplacement>>(File.ReadAllText(fontMapPath)));
+                evtFile.Files.ForEach(e => e.FontReplacementMap = fontReplacementDictionary);
+
                 string[] files = Directory.GetFiles(inputFolder)
                             .Where(f => f.EndsWith($".{languageCode}.resx", StringComparison.OrdinalIgnoreCase)).ToArray();
                 Console.Write($"Replacing strings for {files.Length} files...");

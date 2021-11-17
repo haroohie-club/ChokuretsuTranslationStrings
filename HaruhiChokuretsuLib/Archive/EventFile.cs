@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HaruhiChokuretsuLib.Font;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
@@ -25,104 +26,9 @@ namespace HaruhiChokuretsuLib.Archive
         {
         }
 
-        public struct CharacterWithSpacing
-        {
-            public char Character { get; set; }
-            public int Width { get; set; }
-        }
+        public FontReplacementDictionary FontReplacementMap { get; set; } = new();
 
         private const int DIALOGUE_LINE_LENGTH = 230;
-        private static readonly Dictionary<char, CharacterWithSpacing> CharacterToLengthMap = new()
-        {
-            { '0', new CharacterWithSpacing { Character = '０', Width = 6 } },
-            { '1', new CharacterWithSpacing { Character = '１', Width = 3 } },
-            { '2', new CharacterWithSpacing { Character = '２', Width = 6 } },
-            { '3', new CharacterWithSpacing { Character = '３', Width = 6 } },
-            { '4', new CharacterWithSpacing { Character = '４', Width = 7 } },
-            { '5', new CharacterWithSpacing { Character = '５', Width = 6 } },
-            { '6', new CharacterWithSpacing { Character = '６', Width = 6 } },
-            { '7', new CharacterWithSpacing { Character = '７', Width = 6 } },
-            { '8', new CharacterWithSpacing { Character = '８', Width = 6 } },
-            { '9', new CharacterWithSpacing { Character = '９', Width = 6 } },
-            { 'A', new CharacterWithSpacing { Character = 'Ａ', Width = 6 } },
-            { 'B', new CharacterWithSpacing { Character = 'Ｂ', Width = 6 } },
-            { 'C', new CharacterWithSpacing { Character = 'Ｃ', Width = 7 } },
-            { 'D', new CharacterWithSpacing { Character = 'Ｄ', Width = 6 } },
-            { 'E', new CharacterWithSpacing { Character = 'Ｅ', Width = 6 } },
-            { 'F', new CharacterWithSpacing { Character = 'Ｆ', Width = 6 } },
-            { 'G', new CharacterWithSpacing { Character = 'Ｇ', Width = 7 } },
-            { 'H', new CharacterWithSpacing { Character = 'Ｈ', Width = 6 } },
-            { 'I', new CharacterWithSpacing { Character = 'Ｉ', Width = 4 } },
-            { 'J', new CharacterWithSpacing { Character = 'Ｊ', Width = 6 } },
-            { 'K', new CharacterWithSpacing { Character = 'Ｋ', Width = 7 } },
-            { 'L', new CharacterWithSpacing { Character = 'Ｌ', Width = 7 } },
-            { 'M', new CharacterWithSpacing { Character = 'Ｍ', Width = 6 } },
-            { 'N', new CharacterWithSpacing { Character = 'Ｎ', Width = 6 } },
-            { 'O', new CharacterWithSpacing { Character = 'Ｏ', Width = 7 } },
-            { 'P', new CharacterWithSpacing { Character = 'Ｐ', Width = 6 } },
-            { 'Q', new CharacterWithSpacing { Character = 'Ｑ', Width = 7 } },
-            { 'R', new CharacterWithSpacing { Character = 'Ｒ', Width = 6 } },
-            { 'S', new CharacterWithSpacing { Character = 'Ｓ', Width = 6 } },
-            { 'T', new CharacterWithSpacing { Character = 'Ｔ', Width = 6 } },
-            { 'U', new CharacterWithSpacing { Character = 'Ｕ', Width = 6 } },
-            { 'V', new CharacterWithSpacing { Character = 'Ｖ', Width = 6 } },
-            { 'W', new CharacterWithSpacing { Character = 'Ｗ', Width = 6 } },
-            { 'X', new CharacterWithSpacing { Character = 'Ｘ', Width = 6 } },
-            { 'Y', new CharacterWithSpacing { Character = 'Ｙ', Width = 6 } },
-            { 'Z', new CharacterWithSpacing { Character = 'Ｚ', Width = 6 } },
-            { 'a', new CharacterWithSpacing { Character = 'ａ', Width = 7 } },
-            { 'b', new CharacterWithSpacing { Character = 'ｂ', Width = 6 } },
-            { 'c', new CharacterWithSpacing { Character = 'ｃ', Width = 6 } },
-            { 'd', new CharacterWithSpacing { Character = 'ｄ', Width = 6 } },
-            { 'e', new CharacterWithSpacing { Character = 'ｅ', Width = 6 } },
-            { 'f', new CharacterWithSpacing { Character = 'ｆ', Width = 5 } },
-            { 'g', new CharacterWithSpacing { Character = 'ｇ', Width = 7 } },
-            { 'h', new CharacterWithSpacing { Character = 'ｈ', Width = 6 } },
-            { 'i', new CharacterWithSpacing { Character = 'ｉ', Width = 2 } },
-            { 'j', new CharacterWithSpacing { Character = 'ｊ', Width = 4 } },
-            { 'k', new CharacterWithSpacing { Character = 'ｋ', Width = 6 } },
-            { 'l', new CharacterWithSpacing { Character = 'ｌ', Width = 2 } },
-            { 'm', new CharacterWithSpacing { Character = 'ｍ', Width = 6 } },
-            { 'n', new CharacterWithSpacing { Character = 'ｎ', Width = 6 } },
-            { 'o', new CharacterWithSpacing { Character = 'ｏ', Width = 6 } },
-            { 'p', new CharacterWithSpacing { Character = 'ｐ', Width = 6 } },
-            { 'q', new CharacterWithSpacing { Character = 'ｑ', Width = 6 } },
-            { 'r', new CharacterWithSpacing { Character = 'ｒ', Width = 5 } },
-            { 's', new CharacterWithSpacing { Character = 'ｓ', Width = 6 } },
-            { 't', new CharacterWithSpacing { Character = 'ｔ', Width = 6 } },
-            { 'u', new CharacterWithSpacing { Character = 'ｕ', Width = 6 } },
-            { 'v', new CharacterWithSpacing { Character = 'ｖ', Width = 6 } },
-            { 'w', new CharacterWithSpacing { Character = 'ｗ', Width = 6 } },
-            { 'x', new CharacterWithSpacing { Character = 'ｘ', Width = 6 } },
-            { 'y', new CharacterWithSpacing { Character = 'ｙ', Width = 6 } },
-            { 'z', new CharacterWithSpacing { Character = 'ｚ', Width = 6 } },
-            { '@', new CharacterWithSpacing { Character = '＠', Width = 7 } },
-            { ',', new CharacterWithSpacing { Character = '、', Width = 3 } },
-            { '。', new CharacterWithSpacing { Character = '。', Width = 5 } },
-            { '.', new CharacterWithSpacing { Character = '．', Width = 4 } },
-            { '・', new CharacterWithSpacing { Character = '・', Width = 9 } },
-            { ':', new CharacterWithSpacing { Character = '：', Width = 5 } },
-            { '?', new CharacterWithSpacing { Character = '？', Width = 6 } },
-            { '!', new CharacterWithSpacing { Character = '！', Width = 4 } },
-            { '_', new CharacterWithSpacing { Character = '＿', Width = 8 } },
-            { '-', new CharacterWithSpacing { Character = '―', Width = 6 } },
-            { '~', new CharacterWithSpacing { Character = '～', Width = 7 } },
-            { '…', new CharacterWithSpacing { Character = '…', Width = 7 } },
-            { '\'', new CharacterWithSpacing { Character = '’', Width = 2 } },
-            { '"', new CharacterWithSpacing { Character = '“', Width = 6 } },
-            { '(', new CharacterWithSpacing { Character = '（', Width = 6 } },
-            { ')', new CharacterWithSpacing { Character = '）', Width = 6 } },
-            { '+', new CharacterWithSpacing { Character = '＋', Width = 6 } },
-            { '×', new CharacterWithSpacing { Character = '×', Width = 12 } },
-            { '=', new CharacterWithSpacing { Character = '＝', Width = 6 } },
-            { '°', new CharacterWithSpacing { Character = '°', Width = 5 } },
-            { '%', new CharacterWithSpacing { Character = '％', Width = 7 } },
-            { '&', new CharacterWithSpacing { Character = '＆', Width = 7 } },
-            { '☆', new CharacterWithSpacing { Character = '☆', Width = 14 } },
-            { '■', new CharacterWithSpacing { Character = '■', Width = 14 } },
-            { '♪', new CharacterWithSpacing { Character = '♪', Width = 11 } },
-            { ' ', new CharacterWithSpacing { Character = '　', Width = 3 } },
-        };
 
         public override void Initialize(byte[] decompressedData, int offset = 0)
         {
@@ -309,14 +215,14 @@ namespace HaruhiChokuretsuLib.Archive
                         continue;
                     }
 
-                    if (CharacterToLengthMap.ContainsKey(dialogueText[i]))
+                    if (FontReplacementMap.ContainsKey(dialogueText[i]))
                     {
-                        char newCharacter = CharacterToLengthMap[dialogueText[i]].Character;
+                        char newCharacter = FontReplacementMap[dialogueText[i]].OriginalCharacter;
                         if (dialogueText[i] == '"' && (i == dialogueText.Length - 1 || dialogueText[i + 1] == ' ' || dialogueText[i + 1] == '!' || dialogueText[i + 1] == '?'))
                         {
                             newCharacter = '”';
                         }
-                        lineLength += CharacterToLengthMap[dialogueText[i]].Width;
+                        lineLength += FontReplacementMap[dialogueText[i]].Offset;
                         dialogueText = dialogueText.Remove(i, 1);
                         dialogueText = dialogueText.Insert(i, $"{newCharacter}");
                     }
