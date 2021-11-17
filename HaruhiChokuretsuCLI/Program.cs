@@ -243,6 +243,7 @@ namespace HaruhiChokuretsuCLI
             try
             {
                 ArchiveFile<EventFile> evtFile = ArchiveFile<EventFile>.FromFile(inputArc);
+                evtFile.Files.Where(f => f.Index >= 580 && f.Index <= 581).ToList().ForEach(f => f.InitializeDialogueForSpecialFiles());
                 string[] files = Directory.GetFiles(inputFolder)
                             .Where(f => f.EndsWith($".{languageCode}.resx", StringComparison.OrdinalIgnoreCase)).ToArray();
                 Console.Write($"Replacing strings for {files.Length} files...");
