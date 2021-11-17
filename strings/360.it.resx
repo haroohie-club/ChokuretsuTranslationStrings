@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,112 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0001 (360.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Tutto ebbe inizio da una singola frase pronunciata da Haruhi…</value>
+  </data>
+  <data name="0002 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Le storie sui fantasmi sono la cosa più adatta in estate, come la neve a Natale!</value>
+  </data>
+  <data name="0003 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Dunque vi presento la classe che non dovrebbe esistere: "Classe 1-10".</value>
+  </data>
+  <data name="0004 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Una leggendaria "classe mangiauomini" dalla quale nessuno è mai tornato.</value>
+  </data>
+  <data name="0005 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Essendo nuova tra le sette meraviglie della North High, noi, la brigata SOS, andremo a investigare!</value>
+  </data>
+  <data name="0008 (360.ja) KYON (キョン)" xml:space="preserve">
+    <value>Ehi, ehi, un secondo, mi state prendendo in giro?</value>
+  </data>
+  <data name="0009 (360.ja) NAGATO (長門)" xml:space="preserve">
+    <value>La giuntura delle informazioni dell'intera scuola è diventata instabile.</value>
+  </data>
+  <data name="0010 (360.ja) NAGATO (長門)" xml:space="preserve">
+    <value>Il simbolo disegnato da Haruhi Suzumiya ha agito da innesco.</value>
+  </data>
+  <data name="0011 (360.ja) NAGATO (長門)" xml:space="preserve">
+    <value>Ha causato un aumento delle attività nelle forme vita di dati.</value>
+  </data>
+  <data name="0012 (360.ja) NAGATO (長門)" xml:space="preserve">
+    <value>Com'è successo in precedenza.</value>
+  </data>
+  <data name="0017 (360.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>S-sì, Suzumiya!</value>
+  </data>
+  <data name="0018 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Una classe mangiauomini, eh? Semplice ma inquietante.</value>
+  </data>
+  <data name="0019 (360.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>V-Verremo tutti divorati vivi?</value>
+  </data>
+  <data name="0021 (360.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Uhhhh?!</value>
+  </data>
+  <data name="0025 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>Le parole di Suzumiya stanno iniziando ad avere effetto sul mondo reale.</value>
+  </data>
+  <data name="0026 (360.ja) KYON (キョン)" xml:space="preserve">
+    <value>Che cosa intendi……?</value>
+  </data>
+  <data name="0027 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>Vuole che tutto ciò si avveri.</value>
+  </data>
+  <data name="0028 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>Aspettiamoci di vedere fantasmi o altri fenomeni paranormali davanti ai nostri occhi.</value>
+  </data>
+  <data name="0030 (360.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>Ahhh, ho pauuura!</value>
+  </data>
+  <data name="0031 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Bella espressione, Mikuru!</value>
+  </data>
+  <data name="0035 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>Cerchiamo di distogliere la sua attenzione da noi il più possibile.</value>
+  </data>
+  <data name="0036 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>Finchè Suzumiya si gode il campo estivo, la nostra situazione non dovrebbe peggiorare.</value>
+  </data>
+  <data name="0037 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>Nel frattempo, ci occuperemo dello spazio anormale che è apparso.</value>
+  </data>
+  <data name="0040 (360.ja) KYON (キョン)" xml:space="preserve">
+    <value>C-Cos'è questa?! Non è mai stata qui prima!</value>
+  </data>
+  <data name="0041 (360.ja) NAGATO (長門)" xml:space="preserve">
+    <value>Le parole di Haruhi Suzumiya stanno influenzando lo spazio.</value>
+  </data>
+  <data name="0042 (360.ja) KYON (キョン)" xml:space="preserve">
+    <value>C-Cosa faccio, Nagato?</value>
+  </data>
+  <data name="0043 (360.ja) NAGATO (長門)" xml:space="preserve">
+    <value>I punti che assicurano lo spazio devono essere distrutti.</value>
+  </data>
+  <data name="0044 (360.ja) KYON (キョン)" xml:space="preserve">
+    <value>Vuoi che io faccia tutto ciò?</value>
+  </data>
+  <data name="0045 (360.ja) NAGATO (長門)" xml:space="preserve">
+    <value>Va tutto bene. Sarò di supporto.</value>
+  </data>
+  <data name="0000 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>È ora il momento del secondo atto del campo estivo della brigata SOS!</value>
+  </data>
+  <data name="0006 (360.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Nessuno ancora aveva capito che le cose avrebbero preso una brutta piega di lì a breve.</value>
+  </data>
+  <data name="0016 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Prima di tutto, dobbiamo investigare la scena. Vieni, Mikuru!</value>
+  </data>
+  <data name="0020 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>La prima a morire è sempre la bella fanciulla. Un caposaldo nelle storie dell'orrore.</value>
+  </data>
+  <data name="0032 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Sarà perfetta quando la inserirò nel registro delle attività della brigata SOS!</value>
+  </data>
+  <data name="0038 (360.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>Be', si può dire che è tutto sotto controllo.</value>
+  </data>
+  <data name="0046 (360.ja) KYON (キョン)" xml:space="preserve">
+    <value>Ma stiamo scherzando…</value>
+  </data>
 </root>
