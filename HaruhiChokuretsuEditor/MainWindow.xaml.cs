@@ -46,6 +46,7 @@ namespace HaruhiChokuretsuEditor
             if (openFileDialog.ShowDialog() == true)
             {
                 _evtFile = ArchiveFile<EventFile>.FromFile(openFileDialog.FileName);
+                _evtFile.Files.Where(f => f.Index >= 580 && f.Index <= 581).ToList().ForEach(f => f.InitializeDialogueForSpecialFiles());
                 eventsListBox.ItemsSource = _evtFile.Files;
                 eventsListBox.Items.Refresh();
             }

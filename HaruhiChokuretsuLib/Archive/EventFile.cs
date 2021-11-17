@@ -177,6 +177,15 @@ namespace HaruhiChokuretsuLib.Archive
             Title = Encoding.ASCII.GetString(decompressedData.Skip(titlePointer).TakeWhile(b => b != 0x00).ToArray());
         }
 
+        public void InitializeDialogueForSpecialFiles()
+        {
+            DialogueLines.Clear();
+            for (int i = 0; i < EndPointerPointers.Count; i++)
+            {
+                DialogueLines.Add(new DialogueLine(Speaker.INFO, "INFO", 0, EndPointerPointers[i], Data.ToArray()));
+            }
+        }
+
         public override byte[] GetBytes() => Data.ToArray();
 
         public void EditDialogueLine(int index, string newText)

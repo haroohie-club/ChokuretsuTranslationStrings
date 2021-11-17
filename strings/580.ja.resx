@@ -58,152 +58,826 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
-  <data name="0001 (580.ja) 11932 ()" xml:space="preserve">
-    <value>.&#x1;/&#x1;c&#x2;d&#x2;</value>
+  <data name="0000 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>聞き込み</value>
   </data>
-  <data name="0003 (580.ja) 1128 ()" xml:space="preserve">
-    <value>1&#x1;c&#x2;</value>
-  </data>
-  <data name="0005 (580.ja) 1164 ()" xml:space="preserve">
-    <value>5&#x1;&#x1;c&#x2;</value>
-  </data>
-  <data name="0008 (580.ja) TSURUYA ()" xml:space="preserve">
-    <value>ｸ.</value>
-  </data>
-  <data name="0011 (580.ja) 1240 ()" xml:space="preserve">
-    <value>&#x10;&#x6;</value>
-  </data>
-  <data name="0013 (580.ja) 2272 ()" xml:space="preserve">
-    <value>:&#x1;・・</value>
-  </data>
-  <data name="0015 (580.ja) 2292 ()" xml:space="preserve">
-    <value>&lt;&#x1;・・</value>
-  </data>
-  <data name="0017 (580.ja) 2328 ()" xml:space="preserve">
-    <value>&#x2;&#x2;・</value>
-  </data>
-  <data name="0019 (580.ja) 2348 ()" xml:space="preserve">
-    <value>｢&#x1;｣&#x1;､&#x1;ｦ&#x2;ｧ&#x2;ｨ&#x2;</value>
-  </data>
-  <data name="0020 (580.ja) TSURUYA ()" xml:space="preserve">
-    <value>ｸ.</value>
-  </data>
-  <data name="0021 (580.ja) 2380 ()" xml:space="preserve">
-    <value>&#x6;&#x2;ｦ&#x2;</value>
-  </data>
-  <data name="0023 (580.ja) 2412 ()" xml:space="preserve">
-    <value>E&#x1;F&#x1;ｫ&#x2;ｴ&#x2;</value>
-  </data>
-  <data name="0025 (580.ja) 2436 ()" xml:space="preserve">
-    <value>G&#x1;ｮ&#x2;ｱ&#x2;</value>
-  </data>
-  <data name="0027 (580.ja) 2476 ()" xml:space="preserve">
-    <value>G&#x1;&#xE;&#x2;ｫ&#x2;ｱ&#x2;</value>
-  </data>
-  <data name="0029 (580.ja) 2996 ()" xml:space="preserve">
-    <value>ﾈ&#xE;</value>
-  </data>
-  <data name="0031 (580.ja) 3996 ()" xml:space="preserve">
-    <value>ｾ&#x2;</value>
-  </data>
-  <data name="0033 (580.ja) 4024 ()" xml:space="preserve">
-    <value>O&#x1;&#x15;&#x2;ﾆ&#x2;ﾇ&#x2;</value>
-  </data>
-  <data name="0037 (580.ja) 4068 ()" xml:space="preserve">
-    <value>&#x1A;&#x2;&#x1B;&#x2;&#x1C;&#x2;</value>
-  </data>
-  <data name="0039 (580.ja) 4092 ()" xml:space="preserve">
-    <value>ｻ&#x1;ｼ&#x1;&#x1F;&#x2; &#x2;ﾐ&#x2;ﾑ&#x2;</value>
-  </data>
-  <data name="0040 (580.ja) TSURUYA ()" xml:space="preserve">
-    <value>ｸ.</value>
-  </data>
-  <data name="0041 (580.ja) 4124 ()" xml:space="preserve">
-    <value>P&#x13;</value>
-  </data>
-  <data name="0045 (580.ja) 5192 ()" xml:space="preserve">
-    <value>]&#x1;ﾘ&#x2;</value>
-  </data>
-  <data name="0047 (580.ja) 5220 ()" xml:space="preserve">
-    <value>・</value>
-  </data>
-  <data name="0049 (580.ja) 6120 ()" xml:space="preserve">
-    <value>ﾟ&#x2;</value>
-  </data>
-  <data name="0053 (580.ja) 6168 ()" xml:space="preserve">
-    <value>*&#x2;ﾅ&#x1;・</value>
-  </data>
-  <data name="0055 (580.ja) 6188 ()" xml:space="preserve">
-    <value>・</value>
-  </data>
-  <data name="0057 (580.ja) 6212 ()" xml:space="preserve">
-    <value>D&#x1B;</value>
-  </data>
-  <data name="0061 (580.ja) 7640 ()" xml:space="preserve">
-    <value>k&#x1;</value>
-  </data>
-  <data name="0063 (580.ja) 7660 ()" xml:space="preserve">
-    <value>・&#x3;&#x3;</value>
-  </data>
-  <data name="0065 (580.ja) 7676 ()" xml:space="preserve">
-    <value>ﾏ&#x1;</value>
-  </data>
-  <data name="0067 (580.ja) 7696 ()" xml:space="preserve">
-    <value>5&#x2;&#xE;&#x3;</value>
-  </data>
-  <data name="0068 (580.ja) MIKURU ()" xml:space="preserve">
-    <value>ｸ.</value>
-  </data>
-  <data name="0071 (580.ja) 7732 ()" xml:space="preserve">
-    <value>:&#x2;;&#x2;&#x16;&#x3;</value>
-  </data>
-  <data name="0073 (580.ja) 7760 ()" xml:space="preserve">
-    <value>ﾜ&#x1;ﾝ&#x1;?&#x2;@&#x2;&#x14;&#x3;&#x16;&#x3;</value>
-  </data>
-  <data name="0075 (580.ja) 7796 ()" xml:space="preserve">
-    <value>・</value>
-  </data>
-  <data name="0077 (580.ja) 9312 ()" xml:space="preserve">
-    <value>|&#x1;}&#x1;&#x1A;&#x3;&#x1B;&#x3;</value>
-  </data>
-  <data name="0081 (580.ja) 9372 ()" xml:space="preserve">
-    <value>F&#x2;$&#x3;%&#x3;</value>
-  </data>
-  <data name="0083 (580.ja) 9400 ()" xml:space="preserve">
-    <value>*&#x3;+&#x3;</value>
-  </data>
-  <data name="0084 (580.ja) MIKURU ()" xml:space="preserve">
-    <value>ｸ.</value>
-  </data>
-  <data name="0085 (580.ja) 9432 ()" xml:space="preserve">
-    <value>・0&#x3;1&#x3;</value>
-  </data>
-  <data name="0086 (580.ja) NAGATO ()" xml:space="preserve">
-    <value>ｸ.</value>
-  </data>
-  <data name="0087 (580.ja) 9464 ()" xml:space="preserve">
-    <value>,&amp;</value>
-  </data>
-  <data name="0089 (580.ja) 10368 ()" xml:space="preserve">
-    <value>l+</value>
-  </data>
-  <data name="0090 (580.ja) KYON ()" xml:space="preserve">
-    <value>T&#x4;</value>
-  </data>
-  <data name="0104 (580.ja) 617 ()" xml:space="preserve">
+  <data name="0001 (580.ja) INFO (INFO)" xml:space="preserve">
     <value>詳しい情報を求めて
 コンピ研に再度聞き込み</value>
   </data>
-  <data name="0111 (580.ja) 67109229 ()" xml:space="preserve">
+  <data name="0002 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>詳しい情報を求めて
+コンピ研で再度聞き込みを行った</value>
+  </data>
+  <data name="0004 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>単独行動</value>
+  </data>
+  <data name="0005 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>.&#x1;/&#x1;c&#x2;d&#x2;</value>
+  </data>
+  <data name="0006 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>みくると一緒に</value>
+  </data>
+  <data name="0007 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>c&#x2;</value>
+  </data>
+  <data name="0008 (580.ja) INFO (INFO)" xml:space="preserve">
     <value>長門と共に</value>
   </data>
-  <data name="0112 (580.ja) 34 ()" xml:space="preserve">
+  <data name="0009 (580.ja) INFO (INFO)" xml:space="preserve">
     <value>・・c&#x2;d&#x2;</value>
   </data>
-  <data name="0115 (580.ja) 67305840 ()" xml:space="preserve">
+  <data name="0010 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>古泉と行動</value>
+  </data>
+  <data name="0011 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>1&#x1;c&#x2;</value>
+  </data>
+  <data name="0012 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>両手に花？</value>
+  </data>
+  <data name="0014 (580.ja) INFO (INFO)" xml:space="preserve">
     <value>古泉の一計</value>
   </data>
-  <data name="0116 (580.ja) 50 ()" xml:space="preserve">
+  <data name="0015 (580.ja) INFO (INFO)" xml:space="preserve">
     <value>・c&#x2;</value>
+  </data>
+  <data name="0016 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>クールな２人</value>
+  </data>
+  <data name="0017 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>5&#x1;&#x1;c&#x2;</value>
+  </data>
+  <data name="0018 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>全員でコンピ研へ</value>
+  </data>
+  <data name="0019 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>現場調査</value>
+  </data>
+  <data name="0020 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>噂の１年１０組を探すため
+本館校舎を調査</value>
+  </data>
+  <data name="0021 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>１年１０組を探すため
+本館校舎を現場調査した</value>
+  </data>
+  <data name="0023 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒと２人で</value>
+  </data>
+  <data name="0024 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>f&#x2;</value>
+  </data>
+  <data name="0025 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>かしまし少女</value>
+  </data>
+  <data name="0027 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒと長門</value>
+  </data>
+  <data name="0028 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&#x1;f&#x2;g&#x2;</value>
+  </data>
+  <data name="0029 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>比較対象</value>
+  </data>
+  <data name="0030 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>・f&#x2;</value>
+  </data>
+  <data name="0031 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>下調べ</value>
+  </data>
+  <data name="0033 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ＳＯＳ団活動記録</value>
+  </data>
+  <data name="0034 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>・&#x1;&#x2;f&#x2;g&#x2;</value>
+  </data>
+  <data name="0035 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>再襲撃</value>
+  </data>
+  <data name="0037 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>集結</value>
+  </data>
+  <data name="0038 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>張り込み</value>
+  </data>
+  <data name="0039 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>音楽室前で張り込み
+（最低１名配置してください）</value>
+  </data>
+  <data name="0040 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>音楽室の前で張り込みを行った</value>
+  </data>
+  <data name="0042 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>再確認</value>
+  </data>
+  <data name="0043 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>:&#x1;・・</value>
+  </data>
+  <data name="0044 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>相談</value>
+  </data>
+  <data name="0045 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>・・</value>
+  </data>
+  <data name="0046 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒを説得するために</value>
+  </data>
+  <data name="0048 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>古泉の提案</value>
+  </data>
+  <data name="0049 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&lt;&#x1;・・</value>
+  </data>
+  <data name="0050 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>古びた音色</value>
+  </data>
+  <data name="0051 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>=&#x1;&#x4;&#x2;・・｡&#x2;</value>
+  </data>
+  <data name="0052 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>コンピ研の秘密</value>
+  </data>
+  <data name="0053 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&#x5;&#x2;｡&#x2;｢&#x2;</value>
+  </data>
+  <data name="0054 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>怪しい行動</value>
+  </data>
+  <data name="0055 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&#x2;&#x2;・</value>
+  </data>
+  <data name="0056 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>存在しない場所</value>
+  </data>
+  <data name="0057 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>資料検索</value>
+  </data>
+  <data name="0058 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>図書室から持ってきた資料を元に
+調べる</value>
+  </data>
+  <data name="0059 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>図書室から持ってきた資料を調べた</value>
+  </data>
+  <data name="0061 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>本の山の中で</value>
+  </data>
+  <data name="0062 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>､&#x2;ｧ&#x2;</value>
+  </data>
+  <data name="0063 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>雑用係</value>
+  </data>
+  <data name="0064 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>｢&#x1;｣&#x1;､&#x1;ｦ&#x2;ｧ&#x2;ｨ&#x2;</value>
+  </data>
+  <data name="0065 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>読書の時間</value>
+  </data>
+  <data name="0066 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&#x6;&#x2;ｦ&#x2;ｨ&#x2;</value>
+  </data>
+  <data name="0067 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ヒエラルキー</value>
+  </data>
+  <data name="0068 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>｢&#x1;｣&#x1;ｨ&#x2;ｧ&#x2;</value>
+  </data>
+  <data name="0069 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>存在しない場所</value>
+  </data>
+  <data name="0070 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&#x6;&#x2;ｦ&#x2;</value>
+  </data>
+  <data name="0071 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>存在しない場所</value>
+  </data>
+  <data name="0072 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>､&#x1;&#x6;&#x2;､&#x2;ｧ&#x2;</value>
+  </data>
+  <data name="0073 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>存在しない場所</value>
+  </data>
+  <data name="0074 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>鍵入手</value>
+  </data>
+  <data name="0075 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>職員室に音楽室の鍵を借りに行く
+（最低１名配置してください）</value>
+  </data>
+  <data name="0076 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>職員室で音楽室の鍵を借りてきた</value>
+  </data>
+  <data name="0078 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>キョン奮闘</value>
+  </data>
+  <data name="0079 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>E&#x1;F&#x1;ｫ&#x2;ｴ&#x2;</value>
+  </data>
+  <data name="0080 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>みくる大活躍</value>
+  </data>
+  <data name="0081 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ｬ&#x2;ｳ&#x2;</value>
+  </data>
+  <data name="0082 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>いつの間にやら</value>
+  </data>
+  <data name="0083 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&#x2;&#xE;&#x2;ｭ&#x2;ｲ&#x2;</value>
+  </data>
+  <data name="0084 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>先回り</value>
+  </data>
+  <data name="0085 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>G&#x1;ｮ&#x2;ｱ&#x2;</value>
+  </data>
+  <data name="0086 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ポスター</value>
+  </data>
+  <data name="0088 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>作曲コンテスト</value>
+  </data>
+  <data name="0089 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&#x10;&#x2;ｱ&#x2;ｴ&#x2;</value>
+  </data>
+  <data name="0090 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>北高のＯＢ</value>
+  </data>
+  <data name="0091 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>G&#x1;&#xE;&#x2;ｫ&#x2;ｱ&#x2;</value>
+  </data>
+  <data name="0092 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>存在しない場所</value>
+  </data>
+  <data name="0093 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>買い出し</value>
+  </data>
+  <data name="0094 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>バーベキュー用の
+食材を買いに行く</value>
+  </data>
+  <data name="0095 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>商店街でバーベキュー用の
+食材を買ってきた</value>
+  </data>
+  <data name="0097 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>キョンと迷い猫</value>
+  </data>
+  <data name="0099 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>うっかり、みくる</value>
+  </data>
+  <data name="0100 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ｾ&#x2;</value>
+  </data>
+  <data name="0101 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>微妙なチョイス</value>
+  </data>
+  <data name="0102 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&#x12;&#x2;ﾁ&#x2;</value>
+  </data>
+  <data name="0103 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>福引き券？</value>
+  </data>
+  <data name="0104 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>M&#x1;ﾄ&#x2;</value>
+  </data>
+  <data name="0105 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>両手に花、ふたたび</value>
+  </data>
+  <data name="0106 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>O&#x1;&#x15;&#x2;ﾆ&#x2;ﾇ&#x2;</value>
+  </data>
+  <data name="0107 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>みくると迷い猫</value>
+  </data>
+  <data name="0108 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&#x17;&#x2;ﾉ&#x2;</value>
+  </data>
+  <data name="0109 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>店主のオマケ</value>
+  </data>
+  <data name="0110 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>Q&#x1;&#x19;&#x2;ﾌ&#x2;</value>
+  </data>
+  <data name="0111 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>買いすぎ</value>
+  </data>
+  <data name="0112 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>道具調達</value>
+  </data>
+  <data name="0113 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>バーベキューに使う道具を探す</value>
+  </data>
+  <data name="0114 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒと一緒に、バーベキュー用の
+道具を調達してきた</value>
+  </data>
+  <data name="0116 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>行き当たりばったり</value>
+  </data>
+  <data name="0118 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>メイドさんはスラッガー</value>
+  </data>
+  <data name="0119 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ｶ&#x1;ｷ&#x1;ｸ&#x1;</value>
+  </data>
+  <data name="0120 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>無駄な努力</value>
+  </data>
+  <data name="0121 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&#x1A;&#x2;&#x1B;&#x2;&#x1C;&#x2;</value>
+  </data>
+  <data name="0122 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>手抜かり山盛り</value>
+  </data>
+  <data name="0123 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ｹ&#x1;ﾍ&#x2;</value>
+  </data>
+  <data name="0124 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>困った時のコンピ研</value>
+  </data>
+  <data name="0125 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&#x1D;&#x2;ﾎ&#x2;</value>
+  </data>
+  <data name="0126 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>脱線</value>
+  </data>
+  <data name="0127 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ｻ&#x1;ｼ&#x1;&#x1F;&#x2; &#x2;ﾐ&#x2;ﾑ&#x2;</value>
+  </data>
+  <data name="0128 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>手作り</value>
+  </data>
+  <data name="0129 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ｽ&#x1;!&#x2;ﾒ&#x2;</value>
+  </data>
+  <data name="0130 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ささいで大きな問題</value>
+  </data>
+  <data name="0131 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>料理準備</value>
+  </data>
+  <data name="0132 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒと一緒にバーベキューの
+食材の下ごしらえ</value>
+  </data>
+  <data name="0133 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒと一緒にバーベキューの
+食材の下ごしらえをした</value>
+  </data>
+  <data name="0135 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>下ごしらえを</value>
+  </data>
+  <data name="0137 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>見たこともない</value>
+  </data>
+  <data name="0139 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>つまらない話</value>
+  </data>
+  <data name="0140 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>$&#x2;ﾔ&#x2;</value>
+  </data>
+  <data name="0141 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>大迷惑</value>
+  </data>
+  <data name="0142 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>学校へ</value>
+  </data>
+  <data name="0143 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>みくると一緒に学校へ
+鶴屋さんを迎えに行く</value>
+  </data>
+  <data name="0144 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>鶴屋さんと合流できた</value>
+  </data>
+  <data name="0146 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>デート気分</value>
+  </data>
+  <data name="0147 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>]&#x1;ﾘ&#x2;</value>
+  </data>
+  <data name="0148 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>長門と妹</value>
+  </data>
+  <data name="0149 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>_&#x1;ﾚ&#x2;</value>
+  </data>
+  <data name="0150 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>みくるの災難</value>
+  </data>
+  <data name="0151 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ﾛ&#x2;</value>
+  </data>
+  <data name="0152 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>異常事態</value>
+  </data>
+  <data name="0153 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>プール調査</value>
+  </data>
+  <data name="0154 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>プールで異変が発生しないか
+監視と調査を行う</value>
+  </data>
+  <data name="0155 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>プールで異変が発生しないか
+監視と調査を行った</value>
+  </data>
+  <data name="0157 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>プールサイド</value>
+  </data>
+  <data name="0158 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ﾟ&#x2;</value>
+  </data>
+  <data name="0159 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>月はどっちだ</value>
+  </data>
+  <data name="0161 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>宇宙のお友達へ</value>
+  </data>
+  <data name="0162 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ﾃ&#x1;・</value>
+  </data>
+  <data name="0163 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>存在しない場所</value>
+  </data>
+  <data name="0164 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>校舎へ</value>
+  </data>
+  <data name="0165 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒをプールから引き離すため
+古泉と校舎で仕掛けを準備</value>
+  </data>
+  <data name="0166 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒをプールから引き離すため
+古泉と校舎で仕掛けを準備した</value>
+  </data>
+  <data name="0168 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>共同作業</value>
+  </data>
+  <data name="0169 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>*&#x2;・</value>
+  </data>
+  <data name="0170 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>理科室のアイツ</value>
+  </data>
+  <data name="0171 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>,&#x2;ﾅ&#x1;・</value>
+  </data>
+  <data name="0172 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>恐怖の科学</value>
+  </data>
+  <data name="0173 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>*&#x2;ﾅ&#x1;・</value>
+  </data>
+  <data name="0174 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>存在しない場所</value>
+  </data>
+  <data name="0175 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>買い出し</value>
+  </data>
+  <data name="0176 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>夜食の買い出しに行く
+（最低１名配置してください）</value>
+  </data>
+  <data name="0177 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>夜食の買い出しに行ってきた</value>
+  </data>
+  <data name="0179 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>夜のコンビニへ</value>
+  </data>
+  <data name="0181 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>みくるのお買い物</value>
+  </data>
+  <data name="0182 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="0183 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>長門の欲しい物</value>
+  </data>
+  <data name="0184 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>h&#x1;・</value>
+  </data>
+  <data name="0185 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>両手に買い物袋</value>
+  </data>
+  <data name="0186 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>足止め</value>
+  </data>
+  <data name="0187 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒが部室から出ないように
+なんとか足止め</value>
+  </data>
+  <data name="0188 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒが部室から出ないように
+なんとか足止めした</value>
+  </data>
+  <data name="0190 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>最後の抵抗</value>
+  </data>
+  <data name="0192 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>絆創膏</value>
+  </data>
+  <data name="0194 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>長門の怖い物？</value>
+  </data>
+  <data name="0196 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>肝試しのルール</value>
+  </data>
+  <data name="0197 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>k&#x1;</value>
+  </data>
+  <data name="0198 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>影の王国</value>
+  </data>
+  <data name="0199 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>l&#x1;&#x3;&#x3;</value>
+  </data>
+  <data name="0200 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>納得できない</value>
+  </data>
+  <data name="0202 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>やり直し</value>
+  </data>
+  <data name="0203 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>・&#x3;&#x3;</value>
+  </data>
+  <data name="0204 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>存在しない場所</value>
+  </data>
+  <data name="0205 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>捕獲</value>
+  </data>
+  <data name="0206 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>コンピ研部員たちを捕獲
+（最低１名配置してください）</value>
+  </data>
+  <data name="0207 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>様子がおかしくなった
+コンピ研部員たちを捕獲した</value>
+  </data>
+  <data name="0209 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>自画自賛</value>
+  </data>
+  <data name="0211 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>頼りない相棒</value>
+  </data>
+  <data name="0212 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ﾏ&#x1;</value>
+  </data>
+  <data name="0213 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>頼りになる相棒</value>
+  </data>
+  <data name="0215 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>持ちつ持たれつ</value>
+  </data>
+  <data name="0216 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ﾒ&#x1;</value>
+  </data>
+  <data name="0217 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>両極端</value>
+  </data>
+  <data name="0218 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>5&#x2;&#xE;&#x3;</value>
+  </data>
+  <data name="0219 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>大ピンチ！？</value>
+  </data>
+  <data name="0220 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ﾔ&#x1;7&#x2;&#xF;&#x3;</value>
+  </data>
+  <data name="0221 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>意外な再会</value>
+  </data>
+  <data name="0222 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ﾖ&#x1;9&#x2;&#x10;&#x3;</value>
+  </data>
+  <data name="0223 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>痕跡</value>
+  </data>
+  <data name="0224 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>駒の回収</value>
+  </data>
+  <data name="0225 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>肝試し完遂の証
+チェスの駒を取ってくる</value>
+  </data>
+  <data name="0226 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>肝試し完遂の証
+チェスの駒を取ってきた</value>
+  </data>
+  <data name="0228 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>さらなる被害者</value>
+  </data>
+  <data name="0230 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>奪われたモノ</value>
+  </data>
+  <data name="0232 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>容赦ない人</value>
+  </data>
+  <data name="0233 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>:&#x2;;&#x2;&#x16;&#x3;</value>
+  </data>
+  <data name="0234 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ヤツらを追って</value>
+  </data>
+  <data name="0235 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ﾚ&#x1;&#x3;</value>
+  </data>
+  <data name="0236 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>予想外</value>
+  </data>
+  <data name="0237 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>=&#x2;&#x8;&#x3;</value>
+  </data>
+  <data name="0238 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>違和感</value>
+  </data>
+  <data name="0239 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ﾜ&#x1;ﾝ&#x1;?&#x2;@&#x2;&#x14;&#x3;&#x16;&#x3;</value>
+  </data>
+  <data name="0240 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>誰もいない</value>
+  </data>
+  <data name="0241 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ﾚ&#x1;@&#x2;&#x14;&#x3;&#x15;&#x3;</value>
+  </data>
+  <data name="0242 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>存在しない場所</value>
+  </data>
+  <data name="0243 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>足止め</value>
+  </data>
+  <data name="0244 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>部室でハルヒを足止めする
+（最低１名配置してください）</value>
+  </data>
+  <data name="0245 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>部室でハルヒを足止めした</value>
+  </data>
+  <data name="0247 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ゲーム</value>
+  </data>
+  <data name="0248 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>|&#x1;}&#x1;&#x1A;&#x3;&#x1B;&#x3;</value>
+  </data>
+  <data name="0249 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>誤算</value>
+  </data>
+  <data name="0250 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>A&#x2;B&#x2;&#x1A;&#x3;&#x1C;&#x3;</value>
+  </data>
+  <data name="0251 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>白熱</value>
+  </data>
+  <data name="0253 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>トーナメント</value>
+  </data>
+  <data name="0254 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>時計に細工</value>
+  </data>
+  <data name="0255 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>異変の起こる時間を避けるため
+時計の針に細工する</value>
+  </data>
+  <data name="0256 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>異変の起こる時間を避けるため
+時計の針に細工を行った</value>
+  </data>
+  <data name="0258 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>孤独な作業</value>
+  </data>
+  <data name="0259 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>"&#x3;#&#x3;</value>
+  </data>
+  <data name="0260 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ニアミス</value>
+  </data>
+  <data name="0262 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>身近な盲点</value>
+  </data>
+  <data name="0263 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>F&#x2;$&#x3;%&#x3;</value>
+  </data>
+  <data name="0264 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>存在しない場所</value>
+  </data>
+  <data name="0265 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>鏡に細工</value>
+  </data>
+  <data name="0266 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒに見られないように
+鏡に細工をする</value>
+  </data>
+  <data name="0267 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒに見られないように
+鏡に細工を行った</value>
+  </data>
+  <data name="0269 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>地道な作業</value>
+  </data>
+  <data name="0271 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>異常事態</value>
+  </data>
+  <data name="0272 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>*&#x3;+&#x3;</value>
+  </data>
+  <data name="0273 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>二者択一</value>
+  </data>
+  <data name="0274 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>・(&#x3;+&#x3;</value>
+  </data>
+  <data name="0275 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>存在しない場所</value>
+  </data>
+  <data name="0276 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>特異点設置</value>
+  </data>
+  <data name="0277 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>長門製の特異点となる
+チェスの駒を設置する</value>
+  </data>
+  <data name="0278 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>特異点（チェスの駒）を設置した</value>
+  </data>
+  <data name="0280 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>異変を辿って</value>
+  </data>
+  <data name="0281 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>・0&#x3;1&#x3;</value>
+  </data>
+  <data name="0282 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ひとりきり</value>
+  </data>
+  <data name="0283 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>・2&#x3;4&#x3;</value>
+  </data>
+  <data name="0284 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>東奔西走</value>
+  </data>
+  <data name="0285 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>-&#x3;-&#x3;3&#x3;</value>
+  </data>
+  <data name="0286 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>存在しない場所</value>
+  </data>
+  <data name="0287 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&#x10;&#x6;</value>
+  </data>
+  <data name="0288 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&#x18;&#x8;</value>
+  </data>
+  <data name="0289 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="0290 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="0291 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ﾈ&#xE;</value>
+  </data>
+  <data name="0292 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>H&#x11;</value>
+  </data>
+  <data name="0293 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>P&#x13;</value>
+  </data>
+  <data name="0294 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="0295 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>h&#x17;</value>
+  </data>
+  <data name="0296 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>p&#x19;</value>
+  </data>
+  <data name="0297 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>D&#x1B;</value>
+  </data>
+  <data name="0298 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>$&#x1D;</value>
+  </data>
+  <data name="0299 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>&#x1F;</value>
+  </data>
+  <data name="0300 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="0301 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>・</value>
+  </data>
+  <data name="0302 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>,&amp;</value>
+  </data>
+  <data name="0303 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ﾜ'</value>
+  </data>
+  <data name="0304 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>ｬ)</value>
+  </data>
+  <data name="0305 (580.ja) INFO (INFO)" xml:space="preserve">
+    <value>l+</value>
   </data>
 </root>
