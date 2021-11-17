@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,186 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (310.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門はパソコンに興味とかあるの
+かね？</value>
+  </data>
+  <data name="0001 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうかしらね</value>
+  </data>
+  <data name="0002 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしやキョンが触ってるときも
+別に興味無さそうに本読んでるけど</value>
+  </data>
+  <data name="0003 (310.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうだよなあ……</value>
+  </data>
+  <data name="0004 (310.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そのわりにコンピ研のパソコンの
+不調をぴたりと当ててたな</value>
+  </data>
+  <data name="0005 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん、それがどうかしたの？</value>
+  </data>
+  <data name="0006 (310.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、ちょっと気になっただけだ</value>
+  </data>
+  <data name="0007 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>変なの。そんなことよりほら、
+さっさと行きましょ</value>
+  </data>
+  <data name="0008 (310.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あのバーベキュー道具を借りた
+時のことなんですけど</value>
+  </data>
+  <data name="0009 (310.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>コンピ研の人たちが困っていて</value>
+  </data>
+  <data name="0010 (310.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>その時、長門さんがすごく頼りに
+なったんですよ</value>
+  </data>
+  <data name="0011 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へぇ、有希がねぇ
+大人しい子なのに、意外だわね</value>
+  </data>
+  <data name="0012 (310.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>パソコンが動かなくなった時に……</value>
+  </data>
+  <data name="0013 (310.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんが、接触不良だって
+トラブルの指摘をしたら</value>
+  </data>
+  <data name="0014 (310.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>まさにそのとおりだったんですよ</value>
+  </data>
+  <data name="0015 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ありがちなミスよね</value>
+  </data>
+  <data name="0016 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>小むずかしい原因ばかり考えてる
+と、初歩的なミスに気づかない</value>
+  </data>
+  <data name="0017 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、有希みたいな素直な子が
+先に気づくってわけね</value>
+  </data>
+  <data name="0018 (310.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え、ええ、あたしもそう思いますぅ</value>
+  </data>
+  <data name="0019 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それにしても、一緒に行ったはずの
+キョンは気づかなかったの？</value>
+  </data>
+  <data name="0020 (310.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっ？　あ、あの……その……</value>
+  </data>
+  <data name="0021 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>パソコンが苦手なみくるちゃんなら
+ともかく</value>
+  </data>
+  <data name="0022 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンが気づかないなんて、
+ＳＯＳ団員としてはずかしいわ</value>
+  </data>
+  <data name="0023 (310.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はぅぅ</value>
+  </data>
+  <data name="0024 (310.ja) NAGATO (長門)" xml:space="preserve">
+    <value>待って</value>
+  </data>
+  <data name="0025 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうかした？</value>
+  </data>
+  <data name="0026 (310.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そこ
+濡れていて危険</value>
+  </data>
+  <data name="0027 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ……ほんとだわ、ありがと
+暗いから気付かなかったわ</value>
+  </data>
+  <data name="0028 (310.ja) NAGATO (長門)" xml:space="preserve">
+    <value>迂回するべき
+転倒すれば怪我をする</value>
+  </data>
+  <data name="0029 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね……こんなの踏んづけたら
+転んで怪我するわね</value>
+  </data>
+  <data name="0030 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それにしても……有希、良く気が
+ついたわね</value>
+  </data>
+  <data name="0031 (310.ja) NAGATO (長門)" xml:space="preserve">
+    <value>明かりの反射で発見した</value>
+  </data>
+  <data name="0032 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほどね……それにしても、有希
+はたいしたものだわ</value>
+  </data>
+  <data name="0033 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>トラブルの原因を見付けて指摘する
+ことにかけてはエキスパートね</value>
+  </data>
+  <data name="0034 (310.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0035 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、有希のことを今日からＳＯ
+Ｓ団の危機管理委員に任命するわ</value>
+  </data>
+  <data name="0036 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どう？　なかなかの役職でしょ？</value>
+  </data>
+  <data name="0037 (310.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……辞退を希望</value>
+  </data>
+  <data name="0038 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、あら？　そう？</value>
+  </data>
+  <data name="0039 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……いいアイディアだと思ったんだ
+けどなあ</value>
+  </data>
+  <data name="0040 (310.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>コンピ研で長門さんが
+コンピューターのトラブルを</value>
+  </data>
+  <data name="0041 (310.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>指摘したそうですよ</value>
+  </data>
+  <data name="0042 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうせ接触不良かなにかでトラブっ
+てただけしょ</value>
+  </data>
+  <data name="0043 (310.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……驚きました、涼宮さん</value>
+  </data>
+  <data name="0044 (310.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>まさに、その接触不良が原因だった
+そうですよ。よく分かりましたね</value>
+  </data>
+  <data name="0045 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>簡単なことよ。専門家って難しく
+考えすぎて根っこが抜けてるのよね</value>
+  </data>
+  <data name="0046 (310.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>確かにそうした傾向はあるようです</value>
+  </data>
+  <data name="0047 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>トンネルに屋根がつかえて動けなく
+なったトラックの話があるでしょ</value>
+  </data>
+  <data name="0048 (310.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>タイヤの空気を抜けば通ることが
+出来ると子供が言った話ですね</value>
+  </data>
+  <data name="0049 (310.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれと同じよ。凝り固まった視野
+じゃあ本質は見抜けないのよねっ</value>
+  </data>
+  <data name="0050 (310.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いや、恐れ入りました</value>
+  </data>
 </root>

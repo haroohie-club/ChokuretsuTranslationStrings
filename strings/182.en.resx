@@ -58,29 +58,33 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="0000 (148.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>よろしくね、キョンくん
-手加減はしないですよ</value>
+  <data name="0000 (182.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんってお世辞がお上手なん
+ですよね</value>
   </data>
-  <data name="0001 (148.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>それじゃ始めましょうか</value>
+  <data name="0001 (182.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、古泉くんがメンバーで
+一番世慣れてる感じがするものね</value>
   </data>
-  <data name="0002 (148.ja) INFO (インフォ)" xml:space="preserve">
-    <value>２手で“チェックメイト”
-してください</value>
+  <data name="0002 (182.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>意外じゃないわね</value>
   </data>
-  <data name="0003 (148.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>正解です、キョンくん</value>
+  <data name="0003 (182.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>お世辞が上手い方が色々と便利なん
+でしょうか？</value>
   </data>
-  <data name="0004 (148.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>残念です、違ったみたいですね
-もう一度挑戦してみてください</value>
+  <data name="0004 (182.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんはそのままでいいわよ
+天然の魅力を磨くといいわ</value>
   </data>
-  <data name="0005 (148.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>“駒得”出来なかったみたいです</value>
+  <data name="0005 (182.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたし……天然なんですか？</value>
   </data>
-  <data name="0006 (148.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>駒同士の得点に気をつけてみて
-くださいね</value>
+  <data name="0006 (182.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>自覚がないところが、またいいのよ
+お世辞なんて言わなくていいのよ</value>
+  </data>
+  <data name="0007 (182.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……そうですか</value>
   </data>
 </root>
