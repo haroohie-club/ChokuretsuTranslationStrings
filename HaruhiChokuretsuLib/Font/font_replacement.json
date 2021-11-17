@@ -97,13 +97,13 @@
   },
   {
     "OriginalCharacter": "’",
-    "ReplacedCharacter": "’",
+    "ReplacedCharacter": "'",
     "Code": 33126,
     "Offset": 2
   },
   {
     "OriginalCharacter": "“",
-    "ReplacedCharacter": "“",
+    "ReplacedCharacter": "\"",
     "Code": 33127,
     "Offset": 6
   },

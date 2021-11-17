@@ -210,7 +210,7 @@ namespace HaruhiChokuretsuLib.Archive
                     }
                     else if (dialogueText[i] == '#')
                     {
-                        i++; // skip W
+                        i++; // skip W or P
                         operatorActive = true;
                         continue;
                     }
