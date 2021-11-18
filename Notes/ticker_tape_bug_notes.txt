@@ -1,0 +1,3 @@
+[0216A3A0..0216A3BF]? -- Initial ticker tape text in memory (original ROM)
+020703C8 -- ticker tape routine??
+[02198924..01298925] -- timer (countdown to ticker starting moving)
