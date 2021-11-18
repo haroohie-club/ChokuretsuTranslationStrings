@@ -57,12 +57,31 @@ namespace HaruhiChokuretsuEditor
                 eventsListBox.Items.Refresh();
             }
         }
+        private void OpenEventsDatFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openFileDialog = new()
+            {
+                Filter = "DAT File|dat*.bin"
+            };
+            if (openFileDialog.ShowDialog() == true)
+            {
+                _evtFile = ArchiveFile<EventFile>.FromFile(openFileDialog.FileName);
+                _evtFile.Files.ForEach(f => f.InitializeDialogueForSpecialFiles());
+                FontReplacementDictionary fontReplacementDictionary = new();
+                fontReplacementDictionary.AddRange(JsonSerializer.Deserialize<List<FontReplacement>>(File.ReadAllText("Font/font_replacement.json")));
+                _evtFile.Files.ForEach(e => e.FontReplacementMap = fontReplacementDictionary);
+
+                eventsListBox.ItemsSource = _evtFile.Files;
+                eventsListBox.Items.Refresh();
+            }
+        }
 
         private void SaveEventsFileButton_Click(object sender, RoutedEventArgs e)
         {
+            string filter = _evtFile.FileName.StartsWith("dat") ? "DAT file|dat*.bin" : "EVT file|evt*.bin";
             SaveFileDialog saveFileDialog = new()
             {
-                Filter = "EVT file|evt*.bin"
+                Filter = filter
             };
             if (saveFileDialog.ShowDialog() == true)
             {
@@ -181,9 +200,10 @@ namespace HaruhiChokuretsuEditor
             };
             if (folderBrowser.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
+                string prefix = _evtFile.FileName.StartsWith("dat") ? "dat_" : "";
                 foreach (EventFile eventFile in _evtFile.Files)
                 {
-                    eventFile.WriteResxFile(System.IO.Path.Combine(folderBrowser.SelectedFolder, $"{eventFile.Index:D3}.ja.resx"));
+                    eventFile.WriteResxFile(System.IO.Path.Combine(folderBrowser.SelectedFolder, $"{prefix}{eventFile.Index:D3}.ja.resx"));
                 }
             }
         }
@@ -199,12 +219,15 @@ namespace HaruhiChokuretsuEditor
                 };
                 if (folderBrowser.ShowDialog() == System.Windows.Forms.DialogResult.OK)
                 {
+                    string prefix = _evtFile.FileName.StartsWith("dat") ? "dat_" : "^";
                     string[] files = Directory.GetFiles(folderBrowser.SelectedFolder)
                         .Where(f => f.EndsWith($".{languageCodeDialogBox.LanguageCode}.resx", StringComparison.OrdinalIgnoreCase)).ToArray();
                     foreach (string file in files)
                     {
-                        int fileIndex = int.Parse(Regex.Match(file, @"(\d{3})\.[\w-]+\.resx").Groups[1].Value, System.Globalization.NumberStyles.Integer);
-                        _evtFile.Files.FirstOrDefault(f => f.Index == fileIndex).ImportResxFile(file);
+                        if (int.TryParse(Regex.Match(file, prefix + @"(\d{3})\.[\w-]+\.resx").Groups[1].Value, out int fileIndex))
+                        {
+                            _evtFile.Files.FirstOrDefault(f => f.Index == fileIndex).ImportResxFile(file);
+                        }
                     }
                 }
             }

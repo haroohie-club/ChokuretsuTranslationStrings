@@ -14,6 +14,7 @@ namespace HaruhiChokuretsuLib.Archive
 
         public byte[] Header { get; set; }
 
+        public string FileName { get; set; }
         public int NumItems { get; set; }
         public int HeaderLength { get; set; }
         public int MagicIntegerMsbMultiplier { get; set; }
@@ -28,7 +29,7 @@ namespace HaruhiChokuretsuLib.Archive
         public static ArchiveFile<T> FromFile(string fileName)
         {
             byte[] evtBytes = File.ReadAllBytes(fileName);
-            return new ArchiveFile<T>(evtBytes);
+            return new ArchiveFile<T>(evtBytes) { FileName = Path.GetFileName(fileName) };
         }
 
         public ArchiveFile(byte[] archiveBytes)
