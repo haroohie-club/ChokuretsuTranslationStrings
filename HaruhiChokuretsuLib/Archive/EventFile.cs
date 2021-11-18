@@ -186,10 +186,14 @@ namespace HaruhiChokuretsuLib.Archive
             foreach (DictionaryEntry d in resxReader)
             {
                 int dialogueIndex = int.Parse(((string)d.Key)[0..4]);
+                bool datFile = ((string)d.Key).Contains("dat_");
                 string dialogueText = (string)d.Value;
 
-                dialogueText = dialogueText.Replace("\r\n", " ");
-                dialogueText = dialogueText.Replace("\n", " ");
+                if (!datFile)
+                {
+                    dialogueText = dialogueText.Replace("\r\n", " ");
+                    dialogueText = dialogueText.Replace("\n", " ");
+                }
 
                 int lineLength = 0;
                 bool operatorActive = false;
@@ -227,7 +231,7 @@ namespace HaruhiChokuretsuLib.Archive
                         dialogueText = dialogueText.Insert(i, $"{newCharacter}");
                     }
 
-                    if (lineLength > DIALOGUE_LINE_LENGTH)
+                    if (!datFile && lineLength > DIALOGUE_LINE_LENGTH)
                     {
                         int indexOfMostRecentSpace = dialogueText[0..i].LastIndexOf('　'); // full-width space bc it's been replaced already
                         dialogueText = dialogueText.Remove(indexOfMostRecentSpace, 1);

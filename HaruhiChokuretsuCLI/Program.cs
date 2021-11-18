@@ -247,14 +247,21 @@ namespace HaruhiChokuretsuCLI
             try
             {
                 ArchiveFile<EventFile> evtFile = ArchiveFile<EventFile>.FromFile(inputArc);
-                evtFile.Files.Where(f => f.Index >= 580 && f.Index <= 581).ToList().ForEach(f => f.InitializeDialogueForSpecialFiles());
+                if (Path.GetFileName(inputArc).StartsWith("dat"))
+                {
+                    evtFile.Files.ForEach(f => f.InitializeDialogueForSpecialFiles());
+                }
+                else
+                {
+                    evtFile.Files.Where(f => f.Index >= 580 && f.Index <= 581).ToList().ForEach(f => f.InitializeDialogueForSpecialFiles());
+                }
                 FontReplacementDictionary fontReplacementDictionary = new();
                 fontReplacementDictionary.AddRange(JsonSerializer.Deserialize<List<FontReplacement>>(File.ReadAllText(fontMapPath)));
                 evtFile.Files.ForEach(e => e.FontReplacementMap = fontReplacementDictionary);
 
                 string[] files = Directory.GetFiles(inputFolder)
                             .Where(f => f.EndsWith($".{languageCode}.resx", StringComparison.OrdinalIgnoreCase)).ToArray();
-                Console.Write($"Replacing strings for {files.Length} files...");
+                Console.WriteLine($"Replacing strings for {files.Length} files...");
                 foreach (string file in files)
                 {
                     int fileIndex = int.Parse(Regex.Match(file, @"(\d{3})\.[\w-]+\.resx").Groups[1].Value, NumberStyles.Integer);
