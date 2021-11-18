@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,122 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (285.ja) KYON (キョン)" xml:space="preserve">
+    <value>そう言えば、さっき長門が古泉に
+文句を言ってたな。痛快だったぜ</value>
+  </data>
+  <data name="0001 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>文句？　有希が？
+珍しいこともあるもんね</value>
+  </data>
+  <data name="0002 (285.ja) KYON (キョン)" xml:space="preserve">
+    <value>いつも薄ら笑いで気色悪いとか
+いくらなんでもゲーム弱すぎるとか</value>
+  </data>
+  <data name="0003 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……ちょっと、それホントに有希が
+言ったの？</value>
+  </data>
+  <data name="0004 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>全部あんたが古泉くんに言ってるよ
+うなことばかりじゃない</value>
+  </data>
+  <data name="0005 (285.ja) KYON (キョン)" xml:space="preserve">
+    <value>う……ばれたか</value>
+  </data>
+  <data name="0006 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんで有希が言ってるなんて言うの
+あんた本当に最低ね</value>
+  </data>
+  <data name="0007 (285.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒを怒らせてしまったようだ
+本心を言っただけなのだが……</value>
+  </data>
+  <data name="0008 (285.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふぅ、ふぅ</value>
+  </data>
+  <data name="0009 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの？　みくるちゃん
+もう疲れたの？</value>
+  </data>
+  <data name="0010 (285.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい……</value>
+  </data>
+  <data name="0011 (285.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんとか、いつも文句ひとつ
+言わずに、偉いと思います……</value>
+  </data>
+  <data name="0012 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうねえ、でも、もしかしたら心の
+中では不満を溜め込んでたりしてね</value>
+  </data>
+  <data name="0013 (285.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんがですか？
+……そんな風には、見えないです</value>
+  </data>
+  <data name="0014 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>見えないからこそ、もしかしたらよ</value>
+  </data>
+  <data name="0015 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は溜め込むタイプに見えるから
+たまには発散させてあげなきゃね</value>
+  </data>
+  <data name="0016 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>休憩できた？　じゃあ、行くわよ！</value>
+  </data>
+  <data name="0017 (285.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、待ってください～</value>
+  </data>
+  <data name="0018 (285.ja) NAGATO (長門)" xml:space="preserve">
+    <value>もっと文句を言えと
+助言を受けた</value>
+  </data>
+  <data name="0019 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンに？</value>
+  </data>
+  <data name="0020 (285.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0021 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふ～ん、キョンらしいわね</value>
+  </data>
+  <data name="0022 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、キョンは多すぎかもね
+有希はどう思うの？</value>
+  </data>
+  <data name="0023 (285.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0024 (285.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんは無口で無表情ですが
+一人、細かな表情を読み取ることが</value>
+  </data>
+  <data name="0025 (285.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>できる人物がいるようですね</value>
+  </data>
+  <data name="0026 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それって、キョンのこと？</value>
+  </data>
+  <data name="0027 (285.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>その様です、ただ……</value>
+  </data>
+  <data name="0028 (285.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>たまに、自分の都合のいい方向に
+曲解することもあるようですがね</value>
+  </data>
+  <data name="0029 (285.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>先ほども、長門さんをダシにして
+色々とご意見を</value>
+  </data>
+  <data name="0030 (285.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>言われてしまいました</value>
+  </data>
+  <data name="0031 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンはそんなレベルの低いことを
+してるの</value>
+  </data>
+  <data name="0032 (285.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいわ
+あとでとっちめてやる！</value>
+  </data>
 </root>
