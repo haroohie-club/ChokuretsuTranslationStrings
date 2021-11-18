@@ -1,0 +1,571 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0000 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>今日も最高！</value>
+  </data>
+  <data name="0001 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>いつもの歩調</value>
+  </data>
+  <data name="0002 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>いまここにある平和</value>
+  </data>
+  <data name="0003 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>マックスリラックス</value>
+  </data>
+  <data name="0004 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>超直線的行動力</value>
+  </data>
+  <data name="0005 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ホントのところ</value>
+  </data>
+  <data name="0006 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>かくして俺は馬鹿を見る</value>
+  </data>
+  <data name="0007 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>緊迫</value>
+  </data>
+  <data name="0008 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ミステリーのはじまり</value>
+  </data>
+  <data name="0009 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>彼女の受難</value>
+  </data>
+  <data name="0010 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>徒労は絶えない</value>
+  </data>
+  <data name="0011 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ホワイトデイドリーム</value>
+  </data>
+  <data name="0012 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>未完のソナタ</value>
+  </data>
+  <data name="0013 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>静かに密かに</value>
+  </data>
+  <data name="0014 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>苦労の宿命</value>
+  </data>
+  <data name="0015 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>俺は悪くない</value>
+  </data>
+  <data name="0016 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>最終大清掃</value>
+  </data>
+  <data name="0017 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ギリギリ</value>
+  </data>
+  <data name="0018 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>なせばなる</value>
+  </data>
+  <data name="0019 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>なさねばならぬ</value>
+  </data>
+  <data name="0020 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>大物は、遅れて登場</value>
+  </data>
+  <data name="0021 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>変わりない花顔</value>
+  </data>
+  <data name="0022 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>変わりない真顔</value>
+  </data>
+  <data name="0023 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>変わりない厚顔</value>
+  </data>
+  <data name="0024 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>そろったところで報告会</value>
+  </data>
+  <data name="0025 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>猛烈爆裂</value>
+  </data>
+  <data name="0026 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>指の圧力と書いて「指圧」</value>
+  </data>
+  <data name="0027 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>そこに地面はあるのかい？</value>
+  </data>
+  <data name="0028 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>あるはずのない、あるもの</value>
+  </data>
+  <data name="0029 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>はじめます</value>
+  </data>
+  <data name="0030 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>足の使い方</value>
+  </data>
+  <data name="0031 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>正統派リアクション</value>
+  </data>
+  <data name="0032 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>睡眠学習ノススメ</value>
+  </data>
+  <data name="0033 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>涙の訳は……</value>
+  </data>
+  <data name="0034 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>行動力と制動力</value>
+  </data>
+  <data name="0035 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>どうする？</value>
+  </data>
+  <data name="0036 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>どうするッ？？</value>
+  </data>
+  <data name="0037 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>こんにちは</value>
+  </data>
+  <data name="0038 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>いらっしゃい</value>
+  </data>
+  <data name="0039 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>これがっ人喰い教室だっ！</value>
+  </data>
+  <data name="0040 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ちょっとお時間ありますか</value>
+  </data>
+  <data name="0041 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>はい、あーん</value>
+  </data>
+  <data name="0042 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>いま、このあたり。</value>
+  </data>
+  <data name="0043 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>瞬発力ハイレベル</value>
+  </data>
+  <data name="0044 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>決断力もハイレベル</value>
+  </data>
+  <data name="0045 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>斜め読みの達人</value>
+  </data>
+  <data name="0046 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>良からぬ閃き</value>
+  </data>
+  <data name="0047 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>釣られた魚は大きいぞ</value>
+  </data>
+  <data name="0048 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>やんわりエスパーボーイ</value>
+  </data>
+  <data name="0049 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ふんわりエスパーボール</value>
+  </data>
+  <data name="0050 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>試聴会</value>
+  </data>
+  <data name="0051 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>緊張感たっぷり</value>
+  </data>
+  <data name="0052 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>これを「お約束」という</value>
+  </data>
+  <data name="0053 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>幸せすぎて恐い　Ｐｔ．１</value>
+  </data>
+  <data name="0054 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>違いのわかる女</value>
+  </data>
+  <data name="0055 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ＦＬＯＷＥＲＳ</value>
+  </data>
+  <data name="0056 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>魅惑のウィンク</value>
+  </data>
+  <data name="0057 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>チーズとネズミに似た関係</value>
+  </data>
+  <data name="0058 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>暗号さながら</value>
+  </data>
+  <data name="0059 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ちょろっといっちょやる</value>
+  </data>
+  <data name="0060 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>求む！　ハデな怪談！</value>
+  </data>
+  <data name="0061 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>なにかいい感じ</value>
+  </data>
+  <data name="0062 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>当たるも八卦</value>
+  </data>
+  <data name="0063 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>これもユニフォーム</value>
+  </data>
+  <data name="0064 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>サバイバル入門</value>
+  </data>
+  <data name="0065 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>超料理長</value>
+  </data>
+  <data name="0066 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>先生、こうですか？</value>
+  </data>
+  <data name="0067 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>究極のひと串</value>
+  </data>
+  <data name="0068 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>インスタレーション</value>
+  </data>
+  <data name="0069 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>団員冥利に尽きる</value>
+  </data>
+  <data name="0070 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>掃除のおばちゃんへの感謝</value>
+  </data>
+  <data name="0071 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>星空のバーベキュー大会</value>
+  </data>
+  <data name="0072 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>これも「お約束」という</value>
+  </data>
+  <data name="0073 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>妹思い……妹重い……</value>
+  </data>
+  <data name="0074 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>無言の追従</value>
+  </data>
+  <data name="0075 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ストーカーではない</value>
+  </data>
+  <data name="0076 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ストーカーではないよ</value>
+  </data>
+  <data name="0077 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>パスファインダー</value>
+  </data>
+  <data name="0078 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>爽やかガイド</value>
+  </data>
+  <data name="0079 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>パイプ椅子マジック・１</value>
+  </data>
+  <data name="0080 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>パイプ椅子マジック・２</value>
+  </data>
+  <data name="0081 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>パイプ椅子マジック・多</value>
+  </data>
+  <data name="0082 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>超校長の卒業式</value>
+  </data>
+  <data name="0083 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>え？</value>
+  </data>
+  <data name="0084 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>フッ</value>
+  </data>
+  <data name="0085 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>船頭さんは大変そうだ</value>
+  </data>
+  <data name="0086 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>横波注意</value>
+  </data>
+  <data name="0087 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>明日のためのその１</value>
+  </data>
+  <data name="0088 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>見事な成果</value>
+  </data>
+  <data name="0089 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>漫才あるいは腹話術</value>
+  </data>
+  <data name="0090 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>図工の評価はどうだったか</value>
+  </data>
+  <data name="0091 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>束の間の幸福</value>
+  </data>
+  <data name="0092 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>夏は花火</value>
+  </data>
+  <data name="0093 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>豪邸の庭</value>
+  </data>
+  <data name="0094 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>保養、保養、男の子♪</value>
+  </data>
+  <data name="0095 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>気分は海中探査隊</value>
+  </data>
+  <data name="0096 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>問いたい背中</value>
+  </data>
+  <data name="0097 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ギャグだと言ってくれ</value>
+  </data>
+  <data name="0098 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ドアの向こうは……</value>
+  </data>
+  <data name="0099 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ファーストエイド！</value>
+  </data>
+  <data name="0100 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>観念しな～</value>
+  </data>
+  <data name="0101 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>観念？</value>
+  </data>
+  <data name="0102 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>おまえが、な。</value>
+  </data>
+  <data name="0103 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>撃ち方よーい</value>
+  </data>
+  <data name="0104 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>勲章ものだぞ！</value>
+  </data>
+  <data name="0105 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>お花畑の実現</value>
+  </data>
+  <data name="0106 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>幸せすぎて恐い　Ｐｔ．２</value>
+  </data>
+  <data name="0107 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>これなら怖くない</value>
+  </data>
+  <data name="0108 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>木はどこに行った？</value>
+  </data>
+  <data name="0109 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>見ーつけた</value>
+  </data>
+  <data name="0110 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>なんてこったい</value>
+  </data>
+  <data name="0111 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>チチェローネ</value>
+  </data>
+  <data name="0112 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>５度目の正直！</value>
+  </data>
+  <data name="0113 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>はてさてんっんー</value>
+  </data>
+  <data name="0114 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>赤いフードが見える気が…</value>
+  </data>
+  <data name="0115 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>インテレクチュアル</value>
+  </data>
+  <data name="0116 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>注目のカード</value>
+  </data>
+  <data name="0117 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>こんなこともあろうかと</value>
+  </data>
+  <data name="0118 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>目と目で通じ合う</value>
+  </data>
+  <data name="0119 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>目と目で通じ合……</value>
+  </data>
+  <data name="0120 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ショーウィンドウさながら</value>
+  </data>
+  <data name="0121 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>早くも店じまい</value>
+  </data>
+  <data name="0122 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ここが現場ですか</value>
+  </data>
+  <data name="0123 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>凶行？　強行！</value>
+  </data>
+  <data name="0124 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>魔法の駒</value>
+  </data>
+  <data name="0125 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>無法の鍵</value>
+  </data>
+  <data name="0126 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>騒々しい創造の女神</value>
+  </data>
+  <data name="0127 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>きれい？</value>
+  </data>
+  <data name="0128 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>きれいだよ</value>
+  </data>
+  <data name="0129 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ちょっとそのコ誰よ？</value>
+  </data>
+  <data name="0130 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ご機嫌、斜め４５度</value>
+  </data>
+  <data name="0131 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>みっくるげんがー</value>
+  </data>
+  <data name="0132 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>５人揃ってゴ……ゴー！</value>
+  </data>
+  <data name="0133 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ぐっすり眠れるだろうか</value>
+  </data>
+  <data name="0134 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>グッドモーニングコール</value>
+  </data>
+  <data name="0135 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>フラットモーニングコール</value>
+  </data>
+  <data name="0136 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>バッドモーニングコール</value>
+  </data>
+  <data name="0137 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>起こすな危険！</value>
+  </data>
+  <data name="0138 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>起きた。危険！！</value>
+  </data>
+  <data name="0139 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>猛烈爆裂　Ｐｔ．２</value>
+  </data>
+  <data name="0140 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>残念な結果</value>
+  </data>
+  <data name="0141 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>あの星をおまえにやろう</value>
+  </data>
+  <data name="0142 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>目撃するまでが合宿よ</value>
+  </data>
+  <data name="0143 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>今は前を走る</value>
+  </data>
+  <data name="0144 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>それは陽炎のように</value>
+  </data>
+  <data name="0145 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ゆめかまぼろしか</value>
+  </data>
+  <data name="0146 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>新しい朝が来た</value>
+  </data>
+  <data name="0147 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>あの夏の想い出</value>
+  </data>
+  <data name="0148 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>忘れ物と拾い主</value>
+  </data>
+  <data name="0149 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>団長殿の大演説</value>
+  </data>
+  <data name="0150 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>団長殿の死刑宣告</value>
+  </data>
+  <data name="0151 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>かくして日常は続く</value>
+  </data>
+  <data name="0152 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>「さ、行くわよ！」</value>
+  </data>
+  <data name="0153 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>「アンタはいいのよ」</value>
+  </data>
+  <data name="0154 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>「禁則事項です」</value>
+  </data>
+  <data name="0155 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>「…………」</value>
+  </data>
+  <data name="0156 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>「なに」</value>
+  </data>
+  <data name="0157 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>「よろしければチェスを」</value>
+  </data>
+  <data name="0158 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>「ごめんよ、売り切れさ」</value>
+  </data>
+  <data name="0159 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>悲壮な決意</value>
+  </data>
+  <data name="0160 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>別に。</value>
+  </data>
+  <data name="0161 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ルーティンワーク</value>
+  </data>
+  <data name="0162 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒトピックを全て収集</value>
+  </data>
+  <data name="0163 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>みくるトピックを全て収集</value>
+  </data>
+  <data name="0164 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>長門トピックを全て収集</value>
+  </data>
+  <data name="0165 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>古泉トピックを全て収集</value>
+  </data>
+  <data name="0166 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>メイントピックを全て収集</value>
+  </data>
+  <data name="0167 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>チェス全問クリア</value>
+  </data>
+  <data name="0168 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>ひと夏のひとコマ</value>
+  </data>
+  <data name="0169 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>遊んでくれてありがとう！</value>
+  </data>
+</root>
