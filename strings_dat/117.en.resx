@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>#P02</value>
+  </data>
+  <data name="0001 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>#P03</value>
+  </data>
+  <data name="0002 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Main Topic</value>
+  </data>
+  <data name="0010 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆Start from the first episode☆　　　</value>
+  </data>
+  <data name="0003 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Haruhi Topic</value>
+  </data>
+  <data name="0004 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Character Topic</value>
+  </data>
+  <data name="0005 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Sub-Topic</value>
+  </data>
 </root>
