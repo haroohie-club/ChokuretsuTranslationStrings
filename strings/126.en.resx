@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,152 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (126.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ではこれからチェスのルールを
+説明して行きましょう</value>
+  </data>
+  <data name="0001 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>特殊ルール“キャスリング”の
+説明を行います</value>
+  </data>
+  <data name="0002 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“キャスリング”とは、“キング”
+と“ルーク”を使用した</value>
+  </data>
+  <data name="0003 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>特殊な移動ルールです</value>
+  </data>
+  <data name="0004 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“キャスリング”を行うには
+いくつかの条件が必要になります</value>
+  </data>
+  <data name="0005 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>１．『キングとルークが一度も移動
+していない』</value>
+  </data>
+  <data name="0006 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“キング”と“ルーク”がゲーム
+開始後一度も移動していない必要が</value>
+  </data>
+  <data name="0007 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>あります。ルークは左右のどちらか
+移動していないほうを使用出来ます</value>
+  </data>
+  <data name="0008 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>２．『チェックされていない』</value>
+  </data>
+  <data name="0009 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“キング”がチェックされていない
+状態である必要があります</value>
+  </data>
+  <data name="0010 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>つまり、チェックされた時の“緊急
+回避”としては使用できません</value>
+  </data>
+  <data name="0011 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>３．『“キング”の移動範囲が敵に
+攻撃されていない』</value>
+  </data>
+  <data name="0012 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>キャスリング時に“キング”が移動
+する範囲が敵の駒の攻撃範囲内に</value>
+  </data>
+  <data name="0013 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>入っていない必要があります</value>
+  </data>
+  <data name="0014 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>４．『“キング”と“ルーク”の
+間に別の駒が無い』</value>
+  </data>
+  <data name="0015 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“キャスリング”を行う“キング”
+と“ルーク”の間に移動を邪魔する</value>
+  </data>
+  <data name="0016 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>駒が無く、空いている状態である
+必要があります</value>
+  </data>
+  <data name="0017 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>上記４つの条件を満たせば
+“キャスリング”が可能です</value>
+  </data>
+  <data name="0018 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“キャスリング”とは、通常１マス
+のみ移動できる“キング”を</value>
+  </data>
+  <data name="0019 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>一気に２マス移動させ、同時にその
+隣に“ルーク”を移動させるという</value>
+  </data>
+  <data name="0020 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>特殊な移動ルールです</value>
+  </data>
+  <data name="0021 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>実際に駒を動かしてみます
+下画面をご覧ください</value>
+  </data>
+  <data name="0022 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>これが“キャスリング”です
+唯一１手で駒が２つ動くルールです</value>
+  </data>
+  <data name="0023 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>反対側にも“キャスリング”する事
+が可能です</value>
+  </data>
+  <data name="0024 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>右側の“キャスリング”に対して
+“ルーク”の移動距離が少し</value>
+  </data>
+  <data name="0025 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>違いますが、『キングが２マス移動
+してその隣にルークを移動』と</value>
+  </data>
+  <data name="0026 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>覚えてください</value>
+  </data>
+  <data name="0027 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>先ほどの“キャスリング”の条件
+でも説明しましたが</value>
+  </data>
+  <data name="0028 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“キング”が移動する範囲が敵の駒
+に攻撃されている場合には</value>
+  </data>
+  <data name="0029 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“キャスリング”出来ません</value>
+  </data>
+  <data name="0030 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>味方の駒で守るか、排除してから
+“キャスリング”してください</value>
+  </data>
+  <data name="0031 (126.ja) INFO (インフォ)" xml:space="preserve">
+    <value>以上で“キャスリング”の説明を
+終了します</value>
+  </data>
+  <data name="0032 (126.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>１手で“ナイトを獲得”
+してください　（仮）</value>
+  </data>
+  <data name="0033 (126.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>正解です、さすがですね　（仮）</value>
+  </data>
+  <data name="0034 (126.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>次の問題も頑張ってください
+（仮）</value>
+  </data>
+  <data name="0035 (126.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>残念、違いましたね　（仮）</value>
+  </data>
+  <data name="0036 (126.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>もう一度挑戦してみてください
+（仮）</value>
+  </data>
+  <data name="0037 (126.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>“駒得”出来なかったようですね
+　（仮）</value>
+  </data>
+  <data name="0038 (126.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ポイントの高い駒を奪われない様に
+気をつけてください　（仮）</value>
+  </data>
 </root>
