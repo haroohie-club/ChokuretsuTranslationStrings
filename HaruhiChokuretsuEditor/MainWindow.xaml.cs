@@ -162,7 +162,7 @@ namespace HaruhiChokuretsuEditor
 
         private void ExportStringsEventsFileButton_Click(object sender, RoutedEventArgs e)
         {
-            if (eventsListBox.SelectedIndex > 0)
+            if (eventsListBox.SelectedIndex >= 0)
             {
                 EventFile selectedFile = (EventFile)eventsListBox.SelectedItem;
                 SaveFileDialog saveFileDialog = new()
@@ -200,10 +200,9 @@ namespace HaruhiChokuretsuEditor
             };
             if (folderBrowser.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
-                string prefix = _evtFile.FileName.StartsWith("dat") ? "dat_" : "";
                 foreach (EventFile eventFile in _evtFile.Files)
                 {
-                    eventFile.WriteResxFile(System.IO.Path.Combine(folderBrowser.SelectedFolder, $"{prefix}{eventFile.Index:D3}.ja.resx"));
+                    eventFile.WriteResxFile(System.IO.Path.Combine(folderBrowser.SelectedFolder, $"{eventFile.Index:D3}.ja.resx"));
                 }
             }
         }
@@ -219,12 +218,11 @@ namespace HaruhiChokuretsuEditor
                 };
                 if (folderBrowser.ShowDialog() == System.Windows.Forms.DialogResult.OK)
                 {
-                    string prefix = _evtFile.FileName.StartsWith("dat") ? "dat_" : "^";
                     string[] files = Directory.GetFiles(folderBrowser.SelectedFolder)
                         .Where(f => f.EndsWith($".{languageCodeDialogBox.LanguageCode}.resx", StringComparison.OrdinalIgnoreCase)).ToArray();
                     foreach (string file in files)
                     {
-                        if (int.TryParse(Regex.Match(file, prefix + @"(\d{3})\.[\w-]+\.resx").Groups[1].Value, out int fileIndex))
+                        if (int.TryParse(Regex.Match(file, @"(\d{3})\.[\w-]+\.resx").Groups[1].Value, out int fileIndex))
                         {
                             _evtFile.Files.FirstOrDefault(f => f.Index == fileIndex).ImportResxFile(file);
                         }

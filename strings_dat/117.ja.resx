@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="0000 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>#P02</value>
+  </data>
+  <data name="0001 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>#P03</value>
+  </data>
+  <data name="0002 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>メイントピック</value>
+  </data>
+  <data name="0003 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒトピック</value>
+  </data>
+  <data name="0004 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>キャラトピック</value>
+  </data>
+  <data name="0005 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>サブトピック</value>
+  </data>
+  <data name="0006 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>キャラクター分配</value>
+  </data>
+  <data name="0007 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>探索パートリザルト</value>
+  </data>
+  <data name="0008 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>同行者選択</value>
+  </data>
+  <data name="0009 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>目的に団員を分配してください。
+（アイコンをスライドします）</value>
+  </data>
+  <data name="0010 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆エピソードを最初から始めます☆　　　</value>
+  </data>
+  <data name="0011 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆セーブした場所から再開します☆　　　</value>
+  </data>
+  <data name="0012 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆エクストラモードへ移行します☆　　　</value>
+  </data>
+  <data name="0013 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆オプション設定を行います☆　　　</value>
+  </data>
+  <data name="0014 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆セーブした場所から再開します。現在のプレイ内容は破棄されます☆　　　</value>
+  </data>
+  <data name="0015 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆コンフィグ設定を行います☆　　　</value>
+  </data>
+  <data name="0016 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆現在のプレイ状態を破棄してタイトル画面へ戻ります☆　　　</value>
+  </data>
+  <data name="0017 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>人喰い教室</value>
+  </data>
+  <data name="0018 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>未完のソナタ</value>
+  </data>
+  <data name="0019 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>真夏の卒業式</value>
+  </data>
+  <data name="0020 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>ビッグ・マム・フラワー</value>
+  </data>
+  <data name="0021 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>誰も寝てはならない</value>
+  </data>
+  <data name="0022 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>二度と出られない謎の教室　　　</value>
+  </data>
+  <data name="0023 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>誰もいない音楽室からピアノの音が！？　　　</value>
+  </data>
+  <data name="0024 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>楽しいパーティーのハズが……　　　</value>
+  </data>
+  <data name="0025 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>光るプールに隠された陰謀とは！？　　　</value>
+  </data>
+  <data name="0026 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>謎の少女の正体は！？　　　</value>
+  </data>
+  <data name="0027 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>セーブデータがありません。</value>
+  </data>
+  <data name="0028 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>セーブデータがありません。再開できません。　　　</value>
+  </data>
+  <data name="0029 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>セーブデータをロードして再開します　　　</value>
+  </data>
+  <data name="0030 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>保存する箇所を選んでください。</value>
+  </data>
+  <data name="0031 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>はい</value>
+  </data>
+  <data name="0032 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>いいえ</value>
+  </data>
+  <data name="0033 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>このセーブデータをロードしますか？</value>
+  </data>
+  <data name="0034 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>これまでの状態を保存しますか？
+保存しない場合、エクストラ等に
+プレイ内容が反映されません</value>
+  </data>
+  <data name="0035 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>これまでの状態を保存しますか？
+保存しない場合、エクストラ等に
+クリア情報が反映されず
+タイトル画面に戻ります</value>
+  </data>
+  <data name="0036 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>セーブデータを保存します。
+よろしいですか？</value>
+  </data>
+  <data name="0037 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>セーブデータを上書きします。
+よろしいですか？</value>
+  </data>
+  <data name="0038 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>ロードしています。
+電源を切らないでください。</value>
+  </data>
+  <data name="0039 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>保存しています。
+電源を切らないでください。</value>
+  </data>
+  <data name="0040 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>セーブデータにアクセスしています。
+電源を切らないでください。</value>
+  </data>
+  <data name="0041 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>ロードしました。</value>
+  </data>
+  <data name="0042 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>保存しました。</value>
+  </data>
+  <data name="0043 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>タイトル画面へ戻ります。
+今までの進行状態は破棄されますが
+よろしいですか？</value>
+  </data>
+  <data name="0044 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>もう一度挑戦しますか？</value>
+  </data>
+  <data name="0045 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>中断セーブしますか？</value>
+  </data>
+  <data name="0046 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>セーブデータを初期化しています。
+電源を切らないでください。</value>
+  </data>
+  <data name="0047 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>全てのデータを消去しています。
+電源を切らないでください。</value>
+  </data>
+  <data name="0048 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>セーブデータを読めませんでした。
+電源を切って、
+カードを差し込み直してください。</value>
+  </data>
+  <data name="0049 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>セーブデータを書けませんでした
+電源を切って、
+カードを差し込み直してください</value>
+  </data>
+  <data name="0050 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>セーブデータが破損しています
+　
+セーブデータを初期化しています
+電源を切らないでください</value>
+  </data>
+  <data name="0051 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>システムデータが破損しています
+　
+システムデータを初期化しています
+電源を切らないでください</value>
+  </data>
+  <data name="0052 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>セーブデータ１が破損しています
+　
+セーブデータ１を初期化しています
+電源を切らないでください</value>
+  </data>
+  <data name="0053 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>セーブデータ２が破損しています
+　
+セーブデータ２を初期化しています
+電源を切らないでください</value>
+  </data>
+  <data name="0054 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>中断セーブデータが破損しています
+　
+中断セーブデータを初期化しています
+電源を切らないでください</value>
+  </data>
+  <data name="0055 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>誰をハルヒに同行させますか？</value>
+  </data>
+  <data name="0056 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>キョンが同行します。</value>
+  </data>
+  <data name="0057 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>朝比奈さんに同行してもらう。</value>
+  </data>
+  <data name="0058 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>長門に同行してもらう。</value>
+  </data>
+  <data name="0059 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>古泉に同行してもらう。</value>
+  </data>
+  <data name="0060 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>異空間の対応を誰に任せますか？</value>
+  </data>
+  <data name="0061 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>朝比奈さんに任せる</value>
+  </data>
+  <data name="0062 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>長門に任せる</value>
+  </data>
+  <data name="0063 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>古泉に任せる</value>
+  </data>
+  <data name="0064 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>サウンド</value>
+  </data>
+  <data name="0065 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>システム～探索パート</value>
+  </data>
+  <data name="0066 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>システム～解決パート</value>
+  </data>
+  <data name="0067 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>初期状態に戻す</value>
+  </data>
+  <data name="0068 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>データ消去</value>
+  </data>
+  <data name="0069 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>サウンド関係の設定を変更します　　　</value>
+  </data>
+  <data name="0070 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>システム関係の設定を変更します　　　</value>
+  </data>
+  <data name="0071 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>システム関係の設定を変更します　　　</value>
+  </data>
+  <data name="0072 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>オプション設定を初期状態に戻します　　　</value>
+  </data>
+  <data name="0073 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>全てのデータを消去します　　　</value>
+  </data>
+  <data name="0074 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>ＢＧＭの音量を変更します　　　</value>
+  </data>
+  <data name="0075 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>ＳＥの音量を変更します　　　</value>
+  </data>
+  <data name="0076 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>メッセージＳＥの音量を変更します　　　</value>
+  </data>
+  <data name="0077 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>ボイスの音量を変更します　　　</value>
+  </data>
+  <data name="0078 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>システムボイスのキャラクターを設定します　　　</value>
+  </data>
+  <data name="0079 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>キョンのシステムボイスを切り替えます　　　</value>
+  </data>
+  <data name="0080 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒのシステムボイスを切り替えます　　　</value>
+  </data>
+  <data name="0081 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>みくるのシステムボイスを切り替えます　　　</value>
+  </data>
+  <data name="0082 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>長門のシステムボイスを切り替えます　　　</value>
+  </data>
+  <data name="0083 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>古泉のシステムボイスを切り替えます　　　</value>
+  </data>
+  <data name="0084 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>キョンの妹のシステムボイスを切り替えます　　　</value>
+  </data>
+  <data name="0085 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>鶴屋さんのシステムボイスを切り替えます　　　</value>
+  </data>
+  <data name="0086 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>谷口のシステムボイスを切り替えます　　　</value>
+  </data>
+  <data name="0087 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>国木田のシステムボイスを切り替えます　　　</value>
+  </data>
+  <data name="0088 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>謎の少女のシステムボイスを切り替えます　　　</value>
+  </data>
+  <data name="0089 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>オプション設定を初期状態に戻します
+よろしいですか？</value>
+  </data>
+  <data name="0090 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>全てのデータを消去します
+消去すると元に戻せません
+よろしいですか？</value>
+  </data>
+  <data name="0091 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>消去すると元に戻せません
+本当によろしいですか？</value>
+  </data>
+  <data name="0092 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>初期状態に戻しました</value>
+  </data>
+  <data name="0093 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>全てのデータを消去しました</value>
+  </data>
+  <data name="0094 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>メッセージ一括表示</value>
+  </data>
+  <data name="0095 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>メッセージスキップ</value>
+  </data>
+  <data name="0096 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>解決パートイベント</value>
+  </data>
+  <data name="0097 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>トピックストックモード</value>
+  </data>
+  <data name="0098 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>イベント中のメッセージを一括表示するかどうかです　　　</value>
+  </data>
+  <data name="0099 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>メッセージスキップについて　　　</value>
+  </data>
+  <data name="0100 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>ＯＮ＝全て再生　ＯＦＦ＝全てスキップ　未読のみ＝未読イベントのみ再生　　　</value>
+  </data>
+  <data name="0101 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>探索パートで入手したことのあるトピックを全て使用できます　　　</value>
+  </data>
+  <data name="0102 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>ＯＦＦ</value>
+  </data>
+  <data name="0103 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>ＯＮ</value>
+  </data>
+  <data name="0104 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>ＯＦＦ</value>
+  </data>
+  <data name="0105 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>未読のみ</value>
+  </data>
+  <data name="0106 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>ＯＮ</value>
+  </data>
+  <data name="0107 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>早送り</value>
+  </data>
+  <data name="0108 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>既読スキップ</value>
+  </data>
+  <data name="0109 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>#P07さて・・・・
+どうしたものか</value>
+  </data>
+  <data name="0110 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>#P08</value>
+  </data>
+  <data name="0111 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>この配分は考え直そう</value>
+  </data>
+  <data name="0112 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>#P07さて・・・・
+どうしたものか</value>
+  </data>
+  <data name="0113 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>#P07</value>
+  </data>
+  <data name="0114 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>　＠、。．・：？！＿々ー―～…‘’“”（）《》「」『』－＝％☆♪</value>
+  </data>
+  <data name="0115 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>エクストラにチェスモードが
+追加されました</value>
+  </data>
+  <data name="0116 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>エクストラに涼宮ハルヒの
+イベントが追加されました</value>
+  </data>
+  <data name="0117 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>エクストラに朝比奈みくるの
+イベントが追加されました</value>
+  </data>
+  <data name="0118 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>エクストラに長門有希の
+イベントが追加されました</value>
+  </data>
+  <data name="0119 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>エクストラに古泉一樹の
+イベントが追加されました</value>
+  </data>
+  <data name="0120 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>エクストラに鶴屋さんの
+イベントが追加されました</value>
+  </data>
+  <data name="0121 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>ハルヒトピックを全て入手しました！
+アルバムにイベント絵が追加されます</value>
+  </data>
+  <data name="0122 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>みくるトピックを全て入手しました！
+アルバムにイベント絵が追加されます</value>
+  </data>
+  <data name="0123 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>長門トピックを全て入手しました！
+アルバムにイベント絵が追加されます</value>
+  </data>
+  <data name="0124 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>古泉トピックを全て入手しました！
+アルバムにイベント絵が追加されます</value>
+  </data>
+  <data name="0125 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>メイントピックを全て入手しました！
+アルバムにイベント絵が追加されます</value>
+  </data>
+  <data name="0126 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>すべてのチェス問題をクリアしました！
+アルバムにイベント絵が追加されます</value>
+  </data>
+  <data name="0127 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>おめでとうございます
+全ての要素を入手して
+達成率が１００％になりました！</value>
+  </data>
+  <data name="0128 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>タイトルメニューのエクストラが選択
+可能になりました</value>
+  </data>
+  <data name="0129 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>コンフィグのサウンド項目内に
+“謎の少女”のシステムボイスが
+追加されました</value>
+  </data>
+</root>
