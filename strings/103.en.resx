@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,253 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (103.ja) KYON (キョン)" xml:space="preserve">
+    <value>なあ、ハルヒ</value>
+  </data>
+  <data name="0001 (103.ja) KYON (キョン)" xml:space="preserve">
+    <value>気になってたんだが、ＳＯＳ団にお
+ける俺の立場はどの辺りなんだ？</value>
+  </data>
+  <data name="0002 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、そんな事を気にしてたの？</value>
+  </data>
+  <data name="0003 (103.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そりゃ、集団の中でのヒエラルキー
+ってのは多少は気になるもんだろ</value>
+  </data>
+  <data name="0004 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、簡単に言うと……</value>
+  </data>
+  <data name="0005 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ただひたすらに低いわね</value>
+  </data>
+  <data name="0006 (103.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、ちょっと待て
+何故なんだよ？</value>
+  </data>
+  <data name="0007 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんみたいに優秀でもないし
+みくるちゃんみたいに可愛くない</value>
+  </data>
+  <data name="0008 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希みたいなキャラクター性も
+限りなくゼロに近い</value>
+  </data>
+  <data name="0009 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>取り立てて面白いポイントが足りな
+いのよね</value>
+  </data>
+  <data name="0010 (103.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえ、それは本人を目の前にして
+言うようなことじゃないだろ</value>
+  </data>
+  <data name="0011 (103.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ちょっと悲しくなってきた</value>
+  </data>
+  <data name="0012 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、ちょっとは落ち込んだの？</value>
+  </data>
+  <data name="0013 (103.ja) KYON (キョン)" xml:space="preserve">
+    <value>んなことで落ち込むか</value>
+  </data>
+  <data name="0014 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その態度が落ち込んでるって
+言うのよ</value>
+  </data>
+  <data name="0015 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう、しょうがないわね</value>
+  </data>
+  <data name="0016 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アンタはアンタで、ちょっとは
+役に立ってるわよ</value>
+  </data>
+  <data name="0017 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>このＳＯＳ団を作ったのも、アンタ
+のひと言がキッカケだし</value>
+  </data>
+  <data name="0018 (103.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そういや、そんなこともあったな</value>
+  </data>
+  <data name="0019 (103.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今思えば、俺はなんて迂闊な発言を
+してしまったんだ</value>
+  </data>
+  <data name="0020 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、今は低い立場でも今後の働き
+いかんでは昇進を考えてもいいわ</value>
+  </data>
+  <data name="0021 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>期待してるわよ、キョン</value>
+  </data>
+  <data name="0022 (103.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ああ、せいぜい頑張るよ</value>
+  </data>
+  <data name="0023 (103.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、キョンくんには特別
+厳しい時がありますよね</value>
+  </data>
+  <data name="0024 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、それは間違いね</value>
+  </data>
+  <data name="0025 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは、あたしが厳しいんじゃなく
+て、厳しくせざるを得ないのよ</value>
+  </data>
+  <data name="0026 (103.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えと、どういうことですか？</value>
+  </data>
+  <data name="0027 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アイツはＳＯＳ団の一員でありなが
+らやる気はないし</value>
+  </data>
+  <data name="0028 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>態度もよくないし</value>
+  </data>
+  <data name="0029 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>非常に問題だらけなの</value>
+  </data>
+  <data name="0030 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなだから、アイツはＳＯＳ団の
+最底辺にいるワケね</value>
+  </data>
+  <data name="0031 (103.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうなんですか</value>
+  </data>
+  <data name="0032 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>むぅ、考えてたらなんかムカついて
+きたわっ</value>
+  </data>
+  <data name="0033 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと今からキョンに面倒な雑用
+とか押しつけようかしら</value>
+  </data>
+  <data name="0034 (103.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、それはあんまりじゃ……</value>
+  </data>
+  <data name="0035 (103.ja) NAGATO (長門)" xml:space="preserve">
+    <value>彼に対して特定な作業を指示する
+ケースが多い</value>
+  </data>
+  <data name="0036 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は、あたしがキョンのことを
+コキ使っていると言いたいの？</value>
+  </data>
+  <data name="0037 (103.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0038 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは、ある意味しょうがないのよ</value>
+  </data>
+  <data name="0039 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんせ、アイツはＳＯＳ団において
+最も立場の低い団員なんだから</value>
+  </data>
+  <data name="0040 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、あたしがキョンに雑用を押し
+つけるのには大きな意味があるのよ</value>
+  </data>
+  <data name="0041 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>雑用を与えることで、キョンには
+チャンスを与えてあげているのよ</value>
+  </data>
+  <data name="0042 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>単純な雑用でも上手くこなせば、団
+員としての評価の対象になるでしょ</value>
+  </data>
+  <data name="0043 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは、キョンの働きぶりを
+審査してるわけ</value>
+  </data>
+  <data name="0044 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希なら分かるでしょ</value>
+  </data>
+  <data name="0045 (103.ja) NAGATO (長門)" xml:space="preserve">
+    <value>理解した</value>
+  </data>
+  <data name="0046 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なら良かったわ</value>
+  </data>
+  <data name="0047 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、そうだ</value>
+  </data>
+  <data name="0048 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょうどいいから、また何か
+キョンに重要な雑用を与えましょう</value>
+  </data>
+  <data name="0049 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みんなの分の飲み物を買ってくる
+とかどうかしら？</value>
+  </data>
+  <data name="0050 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希も、ノド乾いてるでしょ？</value>
+  </data>
+  <data name="0051 (103.ja) NAGATO (長門)" xml:space="preserve">
+    <value>少し</value>
+  </data>
+  <data name="0052 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃ、決まりね</value>
+  </data>
+  <data name="0053 (103.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>我々ＳＯＳ団においての
+それぞれのポジションというのは</value>
+  </data>
+  <data name="0054 (103.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あるのでしょうか</value>
+  </data>
+  <data name="0055 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ポジションねえ</value>
+  </data>
+  <data name="0056 (103.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>例えば、朝比奈さんはどうでしょう</value>
+  </data>
+  <data name="0057 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは、マスコットよね</value>
+  </data>
+  <data name="0058 (103.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど</value>
+  </data>
+  <data name="0059 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は……秘密兵器ってとこかしら</value>
+  </data>
+  <data name="0060 (103.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>では、彼は？</value>
+  </data>
+  <data name="0061 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンは下っ端、足軽
+兼雑用係</value>
+  </data>
+  <data name="0062 (103.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それはつまり限りなく低いという
+ことでしょうか</value>
+  </data>
+  <data name="0063 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、そういうことね</value>
+  </data>
+  <data name="0064 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、これはある意味キョンのため
+なのよ</value>
+  </data>
+  <data name="0065 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>常日頃からやる気と真剣さに欠ける
+アイツを教育してあげてるんだから</value>
+  </data>
+  <data name="0066 (103.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど、そこまでお考えでしたか
+さすがは涼宮さんです</value>
+  </data>
+  <data name="0067 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういうことね</value>
+  </data>
+  <data name="0068 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あー、なんだかキョンに教育的な
+雑用でも指示したい気分だわ</value>
+  </data>
+  <data name="0069 (103.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、古泉くんだったら、何がいい
+と思う？</value>
+  </data>
+  <data name="0070 (103.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>流石に僕としては、意見は控えさせ
+ていただきたく思いますが……</value>
+  </data>
 </root>
