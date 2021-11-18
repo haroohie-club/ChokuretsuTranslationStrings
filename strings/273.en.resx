@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,72 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (273.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ……そういえば……</value>
+  </data>
+  <data name="0001 (273.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの、みくるちゃん？
+急に立ち止まったりして</value>
+  </data>
+  <data name="0002 (273.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>さっき、コンピ研の皆さんに、お茶
+をお出ししたんですけど……</value>
+  </data>
+  <data name="0003 (273.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんが？　コンピ研に？</value>
+  </data>
+  <data name="0004 (273.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい。ええと、長門さんと一緒に</value>
+  </data>
+  <data name="0005 (273.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>皆さん、すごく喜んで下さいました</value>
+  </data>
+  <data name="0006 (273.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希も一緒に！？　どうして！？</value>
+  </data>
+  <data name="0007 (273.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふぇ？　ど、どうして……って？</value>
+  </data>
+  <data name="0008 (273.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは、うちの看板娘なん
+だから</value>
+  </data>
+  <data name="0009 (273.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>軽々しいマネはしちゃダメでしょ</value>
+  </data>
+  <data name="0010 (273.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>しかも有希も一緒に、だなんて
+サービス過剰も甚だしいわ</value>
+  </data>
+  <data name="0011 (273.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もったいない</value>
+  </data>
+  <data name="0012 (273.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希にも、きちんと言っておかなく
+ちゃ</value>
+  </data>
+  <data name="0013 (273.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの。長門さんは、ポット
+のボタンを押してただけで……</value>
+  </data>
+  <data name="0014 (273.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんとなくわかるような気がするわ
+冷静に、ボタン押してたんでしょ？</value>
+  </data>
+  <data name="0015 (273.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい。ホントに、ただそれだけです</value>
+  </data>
+  <data name="0016 (273.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それでも十分にサービス過剰だわ
+別途特別料金ものよ！</value>
+  </data>
+  <data name="0017 (273.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>相手はただのコンピ研なんだから</value>
+  </data>
+  <data name="0018 (273.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>後で、びしっと指導しておかなきゃ</value>
+  </data>
+  <data name="0019 (273.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はぅ、なんだか話が別の方向に……</value>
+  </data>
 </root>

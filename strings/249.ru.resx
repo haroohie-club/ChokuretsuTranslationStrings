@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,120 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (249.ja) KYON (キョン)" xml:space="preserve">
+    <value>なあ、ハルヒ。古泉が恩返しをして
+くれるとしたら、何だと思う？</value>
+  </data>
+  <data name="0001 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>またいきなり、わけのわからない話
+を始めたわね。古泉くんの恩返し？</value>
+  </data>
+  <data name="0002 (249.ja) KYON (キョン)" xml:space="preserve">
+    <value>感謝の印、と言い換えてもいいが</value>
+  </data>
+  <data name="0003 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。ご飯でもおごってくれるん
+じゃない？</value>
+  </data>
+  <data name="0004 (249.ja) KYON (キョン)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0005 (249.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉と二人でメシ、なんてのは余り
+想像したくない光景なんだが……</value>
+  </data>
+  <data name="0006 (249.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんが、古泉くんの感謝は
+判りにくいってぼやいてました</value>
+  </data>
+  <data name="0007 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに言ってんのかしらね、自分こそ
+人に感謝の気持ちなんかないくせに</value>
+  </data>
+  <data name="0008 (249.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですか？</value>
+  </data>
+  <data name="0009 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ、みくるちゃんにだって、
+お茶を入れて貰って当然って顔！</value>
+  </data>
+  <data name="0010 (249.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうでしたっけ？　むしろ他の
+人の方がわかりにくいかも……</value>
+  </data>
+  <data name="0011 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんか言った？</value>
+  </data>
+  <data name="0012 (249.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>い、いいえ</value>
+  </data>
+  <data name="0013 (249.ja) NAGATO (長門)" xml:space="preserve">
+    <value>人に感謝の気持ちを告げる時には
+照れくさい気持ちになるという</value>
+  </data>
+  <data name="0014 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほどね。有希は誰かに感謝の
+気持ちを伝えたいのね</value>
+  </data>
+  <data name="0015 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>照れくさいって言うのは、きっと
+その相手が好きだからに違いないわ</value>
+  </data>
+  <data name="0016 (249.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0017 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希が感謝の気持ちを伝えたい相手
+って、誰なのっ？</value>
+  </data>
+  <data name="0018 (249.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……今は誰もいない。感情の変化に
+について聞きたかっただけ</value>
+  </data>
+  <data name="0019 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なあんだ、そうだったの
+ちょっとドキドキしちゃったわよ</value>
+  </data>
+  <data name="0020 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さ、はやく先に進むわよ、有希</value>
+  </data>
+  <data name="0021 (249.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>先程、彼に助けていただきました</value>
+  </data>
+  <data name="0022 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>助けてって何かピンチだったわけ？</value>
+  </data>
+  <data name="0023 (249.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>肝試しの時ですね。真っ暗だった
+ものですから、</value>
+  </data>
+  <data name="0024 (249.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>少々危ない目に遭いそうになりまし
+てね</value>
+  </data>
+  <data name="0025 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんでもそうなの？</value>
+  </data>
+  <data name="0026 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それじゃ、確かにみくるちゃんには
+荷が重かったわね。まずかったわ</value>
+  </data>
+  <data name="0027 (249.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そこで感謝の意を表明したのですが
+邪険にあしらわれてしまいました</value>
+  </data>
+  <data name="0028 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それって、照れてたのかもよ</value>
+  </data>
+  <data name="0029 (249.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>後ほど再度お礼を言うつもりなの
+ですが、よいものかどうか……</value>
+  </data>
+  <data name="0030 (249.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うんと丁寧に言うといいわ
+きっとすごくイヤがるから！</value>
+  </data>
+  <data name="0031 (249.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>むろん、そうするつもりですよ</value>
+  </data>
 </root>

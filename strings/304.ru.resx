@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,119 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (304.ja) KYON (キョン)" xml:space="preserve">
+    <value>なあ、長門がため息をつくこと
+なんてあると思うか？</value>
+  </data>
+  <data name="0001 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによそれ？</value>
+  </data>
+  <data name="0002 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、沈着冷静な有希のことだから
+そんなことないように思えるわね</value>
+  </data>
+  <data name="0003 (304.ja) KYON (キョン)" xml:space="preserve">
+    <value>だろう？　だけど、さっき長門が
+ため息をついたところを見たんだ</value>
+  </data>
+  <data name="0004 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうせあんたが間抜けなことをして
+有希が呆れたんでしょう？</value>
+  </data>
+  <data name="0005 (304.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>う、否定できん</value>
+  </data>
+  <data name="0006 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなことだろうと思ったわ</value>
+  </data>
+  <data name="0007 (304.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あのそういえばキョンくんから
+聞いたんですけど</value>
+  </data>
+  <data name="0008 (304.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんが、珍しくため息をついて
+いたみたいだって言ってました</value>
+  </data>
+  <data name="0009 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希がため息をつくだなんて
+よっぽどのことだわね</value>
+  </data>
+  <data name="0010 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>きっと、キョンのやつがバカばっか
+やってたんでしょ</value>
+  </data>
+  <data name="0011 (304.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>い、いえ、そういうわけじゃ
+ないと思うんですけど</value>
+  </data>
+  <data name="0012 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>絶対そうよ！　さすがの有希も
+いよいよ呆れ果てたに違いないわ</value>
+  </data>
+  <data name="0013 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>後で詳しく聞かなくっちゃ</value>
+  </data>
+  <data name="0014 (304.ja) NAGATO (長門)" xml:space="preserve">
+    <value>ふう</value>
+  </data>
+  <data name="0015 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へ？　なにそれ</value>
+  </data>
+  <data name="0016 (304.ja) NAGATO (長門)" xml:space="preserve">
+    <value>溜息</value>
+  </data>
+  <data name="0017 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それが溜息？</value>
+  </data>
+  <data name="0018 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、あなた女の子なんだから
+もうちょっと可愛くできないの？</value>
+  </data>
+  <data name="0019 (304.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0020 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、もう一回やってみて</value>
+  </data>
+  <data name="0021 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今度は、もっと気持ちを込めて</value>
+  </data>
+  <data name="0022 (304.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……ふう</value>
+  </data>
+  <data name="0023 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ぜんぜんダメね</value>
+  </data>
+  <data name="0024 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もっと練習しときなさい</value>
+  </data>
+  <data name="0025 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>溜息ひとつで男子がソワソワする
+ようになれば一人前よ</value>
+  </data>
+  <data name="0026 (304.ja) NAGATO (長門)" xml:space="preserve">
+    <value>わかった</value>
+  </data>
+  <data name="0027 (304.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ちょっと小耳に挟んだのですが
+長門さんがため息をついたとか</value>
+  </data>
+  <data name="0028 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希だってため息ぐらいつくわよ</value>
+  </data>
+  <data name="0029 (304.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>もちろんそうでしょう。ですが今ま
+でに見たことがないので驚きました</value>
+  </data>
+  <data name="0030 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにかよほど呆れるようなことでも
+あったのかしらね</value>
+  </data>
+  <data name="0031 (304.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>さあ、そこまでは聞いていません</value>
+  </data>
+  <data name="0032 (304.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>きっとキョンがバカなことをやって
+有希を呆れさせたに違いないわ</value>
+  </data>
 </root>

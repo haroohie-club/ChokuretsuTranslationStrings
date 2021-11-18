@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,123 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (293.ja) KYON (キョン)" xml:space="preserve">
+    <value>鍵を借りたときにな、長門が予備の
+申請書を持ってきて、言うんだ</value>
+  </data>
+  <data name="0001 (293.ja) KYON (キョン)" xml:space="preserve">
+    <value>書き損じがあったらいけないから
+もう一枚用意しておけって</value>
+  </data>
+  <data name="0002 (293.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺ってそんなに失敗しそうに見える
+かね？</value>
+  </data>
+  <data name="0003 (293.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>見えるわよ、あったりまえじゃない
+キョンが失敗しなくて誰がするの</value>
+  </data>
+  <data name="0004 (293.ja) KYON (キョン)" xml:space="preserve">
+    <value>ひどいな、その言い方はないんじゃ
+ないのか？</value>
+  </data>
+  <data name="0005 (293.ja) KYON (キョン)" xml:space="preserve">
+    <value>実際、失敗せずに書いたんだぞ</value>
+  </data>
+  <data name="0006 (293.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなのできて当たり前でしょ</value>
+  </data>
+  <data name="0007 (293.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>当たり前のことを心配されるくらい
+頼りないって自覚しなさいよね</value>
+  </data>
+  <data name="0008 (293.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺は長門に心配されるくらい頼りな
+いのか……ちょっとショックだ</value>
+  </data>
+  <data name="0009 (293.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんっていつも手際が良くて
+いいですよね……</value>
+  </data>
+  <data name="0010 (293.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたしもあんな風に手際よくなりた
+いです</value>
+  </data>
+  <data name="0011 (293.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは今のままでいいのよ</value>
+  </data>
+  <data name="0012 (293.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんが手際よくなっちゃっ
+たら、そんなの別人よ</value>
+  </data>
+  <data name="0013 (293.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですか……</value>
+  </data>
+  <data name="0014 (293.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>なんだか、ちょっと
+複雑な気分です……</value>
+  </data>
+  <data name="0015 (293.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>褒めてるんじゃないの。それより
+早くいかないと遅刻になっちゃうわ</value>
+  </data>
+  <data name="0016 (293.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はいっ！
+待ってください～……</value>
+  </data>
+  <data name="0017 (293.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0018 (293.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、なに握りしめてんの？</value>
+  </data>
+  <data name="0019 (293.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……書類</value>
+  </data>
+  <data name="0020 (293.ja) NAGATO (長門)" xml:space="preserve">
+    <value>音楽室の鍵を借りる際、書き損じて
+しまったときのための、予備</value>
+  </data>
+  <data name="0021 (293.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>予備って……なにも書いてないじゃ
+ない？　使わずに済んだの？</value>
+  </data>
+  <data name="0022 (293.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0023 (293.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>使わなかったんなら
+もういらないでしょ</value>
+  </data>
+  <data name="0024 (293.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0025 (293.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0026 (293.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたのよ？　有希
+ま、いいわ。さあ、行きましょ</value>
+  </data>
+  <data name="0027 (293.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんはああ見えて、なかなか
+手際の良いところがありますね</value>
+  </data>
+  <data name="0028 (293.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう？</value>
+  </data>
+  <data name="0029 (293.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ。先ほども、鍵を借り受ける際
+書き損じても平気なように</value>
+  </data>
+  <data name="0030 (293.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>申請書を複数用意していたそうです</value>
+  </data>
+  <data name="0031 (293.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん……ま、有希は書き損じとか
+元々あんまりなさそうだけど</value>
+  </data>
+  <data name="0032 (293.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それもそうですね</value>
+  </data>
 </root>

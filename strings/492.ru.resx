@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,431 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒが取ってこいと言っていた
+証拠の品、チェスの駒</value>
+  </data>
+  <data name="0001 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それを回収するため長門と２人で
+やってきたのだが……</value>
+  </data>
+  <data name="0002 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0003 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>相変わらず長門は黙っていてなにも
+話さない</value>
+  </data>
+  <data name="0004 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こちらから話しかけないと、話す
+ことはないのかと思えてくる</value>
+  </data>
+  <data name="0005 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、なにを考えてる？</value>
+  </data>
+  <data name="0006 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>現在の状況を解析している</value>
+  </data>
+  <data name="0007 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>解析ね……なにかわかったことは
+あるか？</value>
+  </data>
+  <data name="0008 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>まだ結論は出ていない。収集した
+情報を分析しているところ</value>
+  </data>
+  <data name="0009 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>涼宮ハルヒの行動により未知の状況
+が発生し続けている。解析が困難</value>
+  </data>
+  <data name="0010 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうか……</value>
+  </data>
+  <data name="0011 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門がやってることを俺があれこれ
+考えてもわからんだろうな</value>
+  </data>
+  <data name="0012 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そうでもない</value>
+  </data>
+  <data name="0013 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>ん？</value>
+  </data>
+  <data name="0014 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>人は時に不足した情報を経験と感情
+によって補い状況を判断する</value>
+  </data>
+  <data name="0015 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>そりゃつまり、直感ってことか</value>
+  </data>
+  <data name="0016 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0017 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>直感なんて、アテにするようなもん
+じゃないと思うがな</value>
+  </data>
+  <data name="0018 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>逆にハルヒは直感とその場の
+思いつきだけで行動しているが</value>
+  </data>
+  <data name="0020 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門と話しているうちに本館の
+踊り場についたが……</value>
+  </data>
+  <data name="0021 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>チェスの駒はここにあるはずなん
+だが……影もかたちもないな</value>
+  </data>
+  <data name="0022 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>まさか、ハルヒのやつ置き忘れた
+とかいうんじゃないだろうな？</value>
+  </data>
+  <data name="0023 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、あいつに限ってそれはないな</value>
+  </data>
+  <data name="0024 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0025 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>うん？　どうした？</value>
+  </data>
+  <data name="0026 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>あなたは今、それはないと断言した</value>
+  </data>
+  <data name="0027 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>それはあなたが経験から導いた
+回答ということ？</value>
+  </data>
+  <data name="0028 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>えーっと……</value>
+  </data>
+  <data name="0029 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>すまん長門、なんの話だ？</value>
+  </data>
+  <data name="0030 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>さっき言った直感の話</value>
+  </data>
+  <data name="0031 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>あなたは直感で涼宮ハルヒの行動を
+予測し、可能性を否定した</value>
+  </data>
+  <data name="0032 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、まあそうだが……</value>
+  </data>
+  <data name="0033 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>やはり、人間は判断の基準に直感を
+重視している</value>
+  </data>
+  <data name="0034 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>言われてみればそうかもしれん</value>
+  </data>
+  <data name="0035 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>涼宮ハルヒも同じ
+行動に規則性がない</value>
+  </data>
+  <data name="0036 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ、あいつは直感だけで生きてる
+ようなふしがあるからな</value>
+  </data>
+  <data name="0037 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>それってさっきの直感の話か？</value>
+  </data>
+  <data name="0038 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0039 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>あなたの直感と、わたしの予測
+どちらを重視すればいい？</value>
+  </data>
+  <data name="0040 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺に聞くのか</value>
+  </data>
+  <data name="0041 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>涼宮ハルヒに関して、わたしの
+行動予測だけでは対応が困難</value>
+  </data>
+  <data name="0042 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>そう言われても、俺だってあいつの
+考えてることは予測できん</value>
+  </data>
+  <data name="0043 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、気にせずおまえの予測の方を
+信じよう</value>
+  </data>
+  <data name="0044 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0045 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>ん？　どうした、長門？</value>
+  </data>
+  <data name="0046 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……階上に人がいる</value>
+  </data>
+  <data name="0047 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>階上って、屋上か？</value>
+  </data>
+  <data name="0048 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう。２人いる</value>
+  </data>
+  <data name="0049 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>２人？　コンピ研の誰かが残って
+いるのか、それとも逃げたのか？</value>
+  </data>
+  <data name="0050 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>駒は回収出来ていないし
+どうするかな……</value>
+  </data>
+  <data name="0051 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今は放っておくか……？</value>
+  </data>
+  <data name="0052 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>とりあえず、屋上のカギをしめて
+立ち去るってのはどうだ？</value>
+  </data>
+  <data name="0053 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>その選択は推奨しない</value>
+  </data>
+  <data name="0054 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>屋上にいるのは、人間の可能性が
+高い。対処すべき</value>
+  </data>
+  <data name="0055 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>や、やっぱり……？</value>
+  </data>
+  <data name="0056 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>涼宮ハルヒと接触する可能性がある
+以上、無視はできない</value>
+  </data>
+  <data name="0057 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>だよな……</value>
+  </data>
+  <data name="0058 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>くそ、正直気は進まないが
+行くしかないか</value>
+  </data>
+  <data name="0060 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、ここにいろ。俺が調べてくる</value>
+  </data>
+  <data name="0061 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0062 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ん？</value>
+  </data>
+  <data name="0064 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>#P05“長門の手”#P01が俺の手をつかんだ
+小さくてちょっとひんやりしている</value>
+  </data>
+  <data name="0065 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>一緒に行く方がいい</value>
+  </data>
+  <data name="0066 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>危険なのか？</value>
+  </data>
+  <data name="0067 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0068 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>黙ってしまった</value>
+  </data>
+  <data name="0069 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まあ、危険なら危険と言うだろう</value>
+  </data>
+  <data name="0070 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>暗くてよく見えないな</value>
+  </data>
+  <data name="0071 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>あそこにいる</value>
+  </data>
+  <data name="0072 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門が指さした先に２つの人影が
+見えた</value>
+  </data>
+  <data name="0073 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>人間のようだが、ちょっと妙だ</value>
+  </data>
+  <data name="0074 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、ありゃ人間だよな？</value>
+  </data>
+  <data name="0075 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0076 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>人間か。どうするかな……</value>
+  </data>
+  <data name="0078 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>声をかけるついでに、携帯で写真を
+撮ってみるか</value>
+  </data>
+  <data name="0079 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、誰かいるのか？</value>
+  </data>
+  <data name="0080 (492.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>俺だよ、谷口だよ</value>
+  </data>
+  <data name="0081 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>谷口だったのか！？
+おまえ、帰ったんじゃなかったのか</value>
+  </data>
+  <data name="0082 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>谷口出現に驚いたせいで、携帯カメ
+ラのシャッターを押してしまった</value>
+  </data>
+  <data name="0083 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>げっ、#P05“谷口の写真”#P01を撮って
+しまった。なんてマヌケな顔なんだ</value>
+  </data>
+  <data name="0084 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そっと近付いて様子を見ることに
+したのだが……</value>
+  </data>
+  <data name="0085 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>待って</value>
+  </data>
+  <data name="0086 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門の制止で足を止めた
+なにかあるんだろうか？</value>
+  </data>
+  <data name="0088 (492.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>よう、キョンじゃねえかあ……</value>
+  </data>
+  <data name="0089 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>谷口……？
+おまえ、帰ったんじゃ……</value>
+  </data>
+  <data name="0091 (492.ja) 9 (国木田)" xml:space="preserve">
+    <value>僕もいるよ</value>
+  </data>
+  <data name="0092 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>国木田も一緒だったのか……</value>
+  </data>
+  <data name="0093 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>２人いると聞いてもしやとも思った
+が、谷口と国木田とはな</value>
+  </data>
+  <data name="0094 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえら、何やってるんだ？</value>
+  </data>
+  <data name="0095 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>などと聞くまでもなく、理由は
+ハッキリとしている</value>
+  </data>
+  <data name="0096 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>頭の花がなにを意味するのか</value>
+  </data>
+  <data name="0097 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おそらくこいつらもコンピ研と同じ
+ようなことになっているのだろう</value>
+  </data>
+  <data name="0098 (492.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>そうだ、こんなものを拾ったんだ</value>
+  </data>
+  <data name="0099 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>谷口の手にはハルヒが置いた駒
+が握られている</value>
+  </data>
+  <data name="0100 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>それ、ちょっと必要なんで返して
+もらえないか？</value>
+  </data>
+  <data name="0101 (492.ja) 9 (国木田)" xml:space="preserve">
+    <value>とんでもない。これ、きらきらして
+きれいなんだよね</value>
+  </data>
+  <data name="0102 (492.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>ああ、光っていてきれいだよな</value>
+  </data>
+  <data name="0103 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なにを言ってるんだ、こいつら？</value>
+  </data>
+  <data name="0104 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>とにかくそれを渡してくれ。それは
+ハルヒのものなんだ</value>
+  </data>
+  <data name="0105 (492.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>涼宮のもんなのかあ？</value>
+  </data>
+  <data name="0106 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ。それを返してもらわないと
+ややこしいことになるんだよ</value>
+  </data>
+  <data name="0107 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>すでに十分ややこしくなっているが</value>
+  </data>
+  <data name="0108 (492.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>……お断りだ</value>
+  </data>
+  <data name="0109 (492.ja) 9 (国木田)" xml:space="preserve">
+    <value>欲しければ、力尽くでも取り返せば
+いいじゃないか</value>
+  </data>
+  <data name="0110 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おかしいな。ハルヒとは関わりたく
+ないはずなのに、返さないとは</value>
+  </data>
+  <data name="0113 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、あいつらから無理やり取り返
+しても問題ないか？</value>
+  </data>
+  <data name="0114 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>問題ない</value>
+  </data>
+  <data name="0115 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>よし、じゃあ押さえ込んで取り返す</value>
+  </data>
+  <data name="0116 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>わかった</value>
+  </data>
+  <data name="0118 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は谷口に飛びかかると、長門が
+国木田を押さえ込んだ</value>
+  </data>
+  <data name="0119 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>怪我をさせたくないから、力加減は
+しているけれど……</value>
+  </data>
+  <data name="0120 (492.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>いやだいやだっ
+それを返せ！</value>
+  </data>
+  <data name="0121 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だだっ子かよ、こいつは</value>
+  </data>
+  <data name="0123 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……回収した</value>
+  </data>
+  <data name="0124 (492.ja) 9 (国木田)" xml:space="preserve">
+    <value>僕のを返してくれよ～！</value>
+  </data>
+  <data name="0125 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>国木田までだだっ子状態か</value>
+  </data>
+  <data name="0128 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、２人を屋上に閉じこめて
+戻ろう</value>
+  </data>
+  <data name="0129 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>わかった</value>
+  </data>
+  <data name="0131 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>２人を振りきってドアをくぐると
+すかさずカギをかけた</value>
+  </data>
+  <data name="0132 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>ここを閉めれば屋上からは逃げられ
+ないはずだ。戻るぞ、長門</value>
+  </data>
+  <data name="0133 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これ……</value>
+  </data>
+  <data name="0134 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門から回収した駒を受け取る</value>
+  </data>
+  <data name="0135 (492.ja) KYON (キョン)" xml:space="preserve">
+    <value>ありがとうな、長門</value>
+  </data>
+  <data name="0136 (492.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
 </root>
