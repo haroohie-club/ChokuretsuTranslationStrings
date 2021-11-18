@@ -222,7 +222,8 @@ namespace HaruhiChokuretsuLib.Archive
                     if (FontReplacementMap.ContainsKey(dialogueText[i]))
                     {
                         char newCharacter = FontReplacementMap[dialogueText[i]].OriginalCharacter;
-                        if (dialogueText[i] == '"' && (i == dialogueText.Length - 1 || dialogueText[i + 1] == ' ' || dialogueText[i + 1] == '!' || dialogueText[i + 1] == '?'))
+                        if (dialogueText[i] == '"' && (i == dialogueText.Length - 1 
+                            || dialogueText[i + 1] == ' ' || dialogueText[i + 1] == '!' || dialogueText[i + 1] == '?' || dialogueText[i + 1] == '.'))
                         {
                             newCharacter = '”';
                         }
