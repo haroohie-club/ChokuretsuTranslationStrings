@@ -79,4 +79,43 @@
   <data name="0005 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Sub-Topic</value>
   </data>
+  <data name="0012 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆Switch to Extra Mode☆　　　</value>
+  </data>
+  <data name="0014 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆Resume from save. Current progress will be lost.☆　　　</value>
+  </data>
+  <data name="0013 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆Go to options☆　　　</value>
+  </data>
+  <data name="0015 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆Go to config☆　　　</value>
+  </data>
+  <data name="0017 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>The Man-Eating Classroom</value>
+  </data>
+  <data name="0029 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Load and resume save.　　　</value>
+  </data>
+  <data name="0031 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="0032 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="0033 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Load this save?</value>
+  </data>
+  <data name="0011 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆Restart from a save☆　　　</value>
+  </data>
+  <data name="0016 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆Return to title screen. Progress will be lost.☆　　　</value>
+  </data>
+  <data name="0028 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>There is no save. Cannot resume.　　　</value>
+  </data>
+  <data name="0027 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>There is no save.</value>
+  </data>
 </root>
