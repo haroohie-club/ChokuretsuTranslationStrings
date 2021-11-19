@@ -83,7 +83,7 @@
     <value>☆Switch to Extra Mode☆　　　</value>
   </data>
   <data name="0014 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>☆Resume from save. Current progress will be lost.☆　　　</value>
+    <value>☆Load save (progress lost)☆　　　</value>
   </data>
   <data name="0013 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>☆Go to options☆　　　</value>
@@ -110,12 +110,12 @@
     <value>☆Restart from a save☆　　　</value>
   </data>
   <data name="0016 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>☆Return to title screen. Progress will be lost.☆　　　</value>
+    <value>☆Go to title (progress lost)☆　　　</value>
   </data>
   <data name="0028 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>There is no save. Cannot resume.　　　</value>
+    <value>No saves. Cannot resume.　　　</value>
   </data>
   <data name="0027 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>There is no save.</value>
+    <value>No save data.</value>
   </data>
 </root>
