@@ -118,4 +118,64 @@
   <data name="0027 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>No save data.</value>
   </data>
+  <data name="0018 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>The Unfinished Sonata</value>
+  </data>
+  <data name="0022 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>A room from which none return…　　　</value>
+  </data>
+  <data name="0023 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Piano sounds from an empty room?!　　　</value>
+  </data>
+  <data name="0065 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>System ~ Dialogue</value>
+  </data>
+  <data name="0074 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Background music volume　　　</value>
+  </data>
+  <data name="0075 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Sound effect volume　　　</value>
+  </data>
+  <data name="0077 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Voiced dialogue volume　　　</value>
+  </data>
+  <data name="0078 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Character voice toggle　　　</value>
+  </data>
+  <data name="0079 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Toggle Kyon's voice　　　</value>
+  </data>
+  <data name="0080 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Toggle Haruhi's voice　　　</value>
+  </data>
+  <data name="0081 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Toggle Mikuru's voice　　　</value>
+  </data>
+  <data name="0082 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Toggle Nagato's voice　　　</value>
+  </data>
+  <data name="0084 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Toggle Kyon's sister's voice　　　</value>
+  </data>
+  <data name="0085 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Toggle Tsuruya's voice　　　</value>
+  </data>
+  <data name="0086 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Toggle Taniguchi's voice　　　</value>
+  </data>
+  <data name="0087 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Toggle Kunikida's voice　　　</value>
+  </data>
+  <data name="0064 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Sound</value>
+  </data>
+  <data name="0068 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Erase Data</value>
+  </data>
+  <data name="0076 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Unvoiced dialogue volume　　　</value>
+  </data>
+  <data name="0083 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Toggle Koizumi's voice　　　</value>
+  </data>
 </root>
