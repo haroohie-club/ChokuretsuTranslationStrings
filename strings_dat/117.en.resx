@@ -128,7 +128,7 @@
     <value>Piano sounds from an empty room?!　　　</value>
   </data>
   <data name="0065 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>System ~ Dialogue</value>
+    <value>System ~ Exploration</value>
   </data>
   <data name="0074 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Background music volume　　　</value>
@@ -177,5 +177,96 @@
   </data>
   <data name="0083 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Toggle Koizumi's voice　　　</value>
+  </data>
+  <data name="0102 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="0103 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="0104 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="0105 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Unread</value>
+  </data>
+  <data name="0106 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="0107 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Fast Forward</value>
+  </data>
+  <data name="0030 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Select a save slot.</value>
+  </data>
+  <data name="0090 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>All data will be erased.
+This cannot be undone.
+Would you like to proceed?</value>
+  </data>
+  <data name="0066 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>System ~ Solution</value>
+  </data>
+  <data name="0067 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Reset to Default</value>
+  </data>
+  <data name="0069 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Change sound settings　　　</value>
+  </data>
+  <data name="0070 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Change system settings　　　</value>
+  </data>
+  <data name="0071 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Change system settings　　　</value>
+  </data>
+  <data name="0072 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Reset config to default settings　　　</value>
+  </data>
+  <data name="0073 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Erase all data　　　</value>
+  </data>
+  <data name="0088 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Toggle Mysterious Girl's voice　　　</value>
+  </data>
+  <data name="0089 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Would you like to return all
+settings to their original state?</value>
+  </data>
+  <data name="0091 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Deleting this cannot be undone.
+Do you want to proceed?</value>
+  </data>
+  <data name="0092 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Reset to original state.</value>
+  </data>
+  <data name="0093 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>All data erased.</value>
+  </data>
+  <data name="0094 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Batch Dialogue Display</value>
+  </data>
+  <data name="0095 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Dialogue Skipping</value>
+  </data>
+  <data name="0096 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Story Solution Part</value>
+  </data>
+  <data name="0097 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Stock Topic Mode</value>
+  </data>
+  <data name="0098 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Toggle displaying all dialogue　　　</value>
+  </data>
+  <data name="0100 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Hopefully self-explanatory　　　</value>
+  </data>
+  <data name="0101 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>All obtained topics usable　　　</value>
+  </data>
+  <data name="0099 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Dialogue to skip　　　</value>
+  </data>
+  <data name="0108 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Skip already read</value>
   </data>
 </root>
