@@ -33,6 +33,7 @@ namespace HaruhiChokuretsuEditor
         private ArchiveFile<DataFile> _datFile;
 
         private int _currentImageWidth = 256;
+        private int _currentSearchIndex = 0;
 
         public MainWindow()
         {
@@ -121,11 +122,13 @@ namespace HaruhiChokuretsuEditor
         private void EventsListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             editStackPanel.Children.Clear();
+            eventsChoicesStackPanel.Children.Clear();
             frontPointersStackPanel.Children.Clear();
             endPointersStackPanel.Children.Clear();
             if (eventsListBox.SelectedIndex >= 0)
             {
                 EventFile selectedFile = (EventFile)eventsListBox.SelectedItem;
+                mainWindow.Title = $"Suzumiya Haruhi no Chokuretsu Editor - Event 0x{selectedFile.Index:X3}";
                 frontPointersStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.Data?.Count ?? 0} bytes" });
                 frontPointersStackPanel.Children.Add(new TextBlock { Text = $"Actual compressed length: {selectedFile.CompressedData.Length:X}; Calculated length: {selectedFile.Length:X}" });
                 for (int i = 0; i < selectedFile.DialogueLines.Count; i++)
@@ -232,31 +235,51 @@ namespace HaruhiChokuretsuEditor
         }
         private void DialogueSearchBox_TextChanged(object sender, TextChangedEventArgs e)
         {
-            if (!string.IsNullOrWhiteSpace(dialogueSearchBox.Text))
+            if (_evtFile is not null && !string.IsNullOrWhiteSpace(dialogueSearchBox.Text))
             {
-                EventFile eventFile = _evtFile.Files.FirstOrDefault(f => f.DialogueLines.FirstOrDefault(d => d.Text.Contains(dialogueSearchBox.Text.ToLowerInvariant())) is not null);
-                if (eventFile is not null)
+                List<EventFile> filteredEventFiles = _evtFile.Files
+                    .Where(f => f.DialogueLines.FirstOrDefault(d => d.Text.Contains(dialogueSearchBox.Text.ToLowerInvariant())) is not null).ToList();
+                SearchDialogue(filteredEventFiles);
+            }
+        }
+
+        private void DialogueNextSearchButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (_evtFile is not null && !string.IsNullOrWhiteSpace(dialogueSearchBox.Text))
+            {
+                List<EventFile> filteredEventFiles = _evtFile.Files
+                    .Where(f => f.DialogueLines.FirstOrDefault(d => d.Text.Contains(dialogueSearchBox.Text.ToLowerInvariant())) is not null).ToList();
+                if (++_currentSearchIndex >= filteredEventFiles.Count)
                 {
-                    eventsListBox.SelectedIndex = _evtFile.Files.IndexOf(eventFile);
-                    DialogueLine dialogueLine = eventFile.DialogueLines.FirstOrDefault(d => d.Text.Contains(dialogueSearchBox.Text.ToLowerInvariant()));
-                    foreach (var child in editStackPanel.Children)
+                    _currentSearchIndex = 0;
+                }
+                SearchDialogue(filteredEventFiles);
+            }
+        }
+
+        private void SearchDialogue(List<EventFile> filteredEventFiles)
+        {
+            if (filteredEventFiles.Count > 0)
+            {
+                EventFile eventFile = filteredEventFiles[_currentSearchIndex];
+                eventsListBox.SelectedIndex = _evtFile.Files.IndexOf(eventFile);
+                DialogueLine dialogueLine = eventFile.DialogueLines.FirstOrDefault(d => d.Text.Contains(dialogueSearchBox.Text.ToLowerInvariant()));
+                foreach (var child in editStackPanel.Children)
+                {
+                    if (child.GetType() == typeof(StackPanel))
                     {
-                        if (child.GetType() == typeof(StackPanel))
+                        var childStackPanel = (StackPanel)child;
+                        foreach (var grandchild in childStackPanel.Children)
                         {
-                            var childStackPanel = (StackPanel)child;
-                            foreach (var grandchild in childStackPanel.Children)
+                            if (grandchild.GetType() == typeof(EventTextBox))
                             {
-                                if (grandchild.GetType() == typeof(EventTextBox))
+                                var textBox = (EventTextBox)grandchild;
+                                if (textBox.DialogueIndex == eventFile.DialogueLines.IndexOf(dialogueLine))
                                 {
-                                    var textBox = (EventTextBox)grandchild;
-                                    if (textBox.DialogueIndex == eventFile.DialogueLines.IndexOf(dialogueLine))
-                                    {
-                                        textBox.BringIntoView();
-                                        break;
-                                    }
+                                    textBox.BringIntoView();
+                                    break;
                                 }
                             }
-
                         }
                     }
                 }

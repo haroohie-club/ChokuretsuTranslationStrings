@@ -34,6 +34,11 @@ Loop first int times, incrementing by 8 bytes each time, checking 0x0C from that
 0xBB4 in ev1_000 read by routine 0205132C
 
 
+ev1_001 (in modded rom)
+021C18D0 (start of file)
+[021C1C00..021C1D0F]?
+
+
 
 $10 determines text speed
 #W20 is a wait command, causes the text to pause before continuing

@@ -1,11 +1,12 @@
 ﻿<Window x:Class="HaruhiChokuretsuEditor.MainWindow"
+        x:Name="mainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HaruhiChokuretsuEditor"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Suzumiya Haruhi no Chokuretsu Editor" Height="450" Width="800">
     <Grid>
         <TabControl x:Name="mainTabControl">
             <TabItem Header="Events">
@@ -25,6 +26,7 @@
                         <Button x:Name="exportAllStringsEventsFileButton" Content="Export All Strings" HorizontalAlignment="Left" Click="ExportAllStringsEventsFileButton_Click" />
                         <Button x:Name="importAllStringsEventsFileButton" Content="Import All Strings" HorizontalAlignment="Left" Click="ImportAllStringsEventsFileButton_Click" />
                         <TextBox x:Name="dialogueSearchBox" Width="150" HorizontalAlignment="Left" TextChanged="DialogueSearchBox_TextChanged" />
+                        <Button x:Name="dialogueNextSearchButton" Content="Next" HorizontalAlignment="Left" Click="DialogueNextSearchButton_Click" />
                     </ToolBar>
                     <ListBox x:Name="eventsListBox" Margin="0,30,521,0" SelectionChanged="EventsListBox_SelectionChanged" Grid.ColumnSpan="2" />
                     <StackPanel Grid.Column="1" Margin="175,30,0,0">
@@ -33,6 +35,13 @@
                                 <ScrollViewer x:Name="eventEditScrollViewer"  Grid.Column="1" Height="350" >
                                     <DockPanel>
                                         <StackPanel x:Name="editStackPanel"/>
+                                    </DockPanel>
+                                </ScrollViewer>
+                            </TabItem>
+                            <TabItem Header="Choices">
+                                <ScrollViewer x:Name="eventChoicesScrollViewer"  Grid.Column="1" Height="350" >
+                                    <DockPanel>
+                                        <StackPanel x:Name="eventsChoicesStackPanel"/>
                                     </DockPanel>
                                 </ScrollViewer>
                             </TabItem>

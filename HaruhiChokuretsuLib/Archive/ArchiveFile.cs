@@ -102,10 +102,6 @@ namespace HaruhiChokuretsuLib.Archive
                     file.Offset = offset;
                     file.MagicInteger = GetMagicInteger(file.Offset);
                     file.Index = GetFileIndex(file.MagicInteger);
-                    if (file.Index == 0xE50)
-                    {
-                        Console.WriteLine("Here");
-                    }
                     file.Length = GetFileLength(file.MagicInteger);
                     file.CompressedData = fileBytes.ToArray();
                     Files.Add(file);
