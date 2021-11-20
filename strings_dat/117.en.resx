@@ -269,4 +269,26 @@ Do you want to proceed?</value>
   <data name="0108 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Skip already read</value>
   </data>
+  <data name="0045 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Save progress?</value>
+  </data>
+  <data name="0039 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Saving.
+Do not turn off the power.</value>
+  </data>
+  <data name="0040 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Accessing save data.
+Do not turn off the power.</value>
+  </data>
+  <data name="0041 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Save loaded.</value>
+  </data>
+  <data name="0042 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Saved game.</value>
+  </data>
+  <data name="0043 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>If you return to the title screen,
+unsaved progress will be lost.
+Do you want to proceed?</value>
+  </data>
 </root>
