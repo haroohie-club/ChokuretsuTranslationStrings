@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,109 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Dopo tutto ciò, si era già fatto il mattino successivo.</value>
+  </data>
+  <data name="0001 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Sono le vacanze estive, eppure sono qui a scuola. Ordini del capo brigata ovviamente.</value>
+  </data>
+  <data name="0006 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Perciò sono venuto prestissimo e mi sono fatto questa stupida lunga salita in collina.</value>
+  </data>
+  <data name="0012 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Pena di morte solo per essere 5 minuti in ritardo, mi dici?</value>
+  </data>
+  <data name="0015 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Sono tutti così incredibilmente diligenti quando si tratta di seguire gli ordini.</value>
+  </data>
+  <data name="0022 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……E questo lo chiameresti onore?</value>
+  </data>
+  <data name="0027 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>La peste cacciò la testa da dietro la mia schiena e salutò come se niente fosse.</value>
+  </data>
+  <data name="0031 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Quindi, con la trappola per orsi ben legata alla mia gamba…</value>
+  </data>
+  <data name="0028 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Appena ha saputo che sono stato chiamato da Haruhi, mia sorella ha iniziato a frignare perché voleva per forza venire.</value>
+  </data>
+  <data name="0002 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Riguarda quanto detto ieri al bar.</value>
+  </data>
+  <data name="0003 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Le orecchie di Haruhi si drizzarono alla prima menzione di "fenomeno paranormale".</value>
+  </data>
+  <data name="0004 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Mi rubò il telefono e dopo aver interrogato Taniguchi...</value>
+  </data>
+  <data name="0005 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>"Domattina ci incontreremo a scuola! Portate tutto ciò che serve per rimanere la notte!"</value>
+  </data>
+  <data name="0009 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Sei in ritardo, Kyon!</value>
+  </data>
+  <data name="0008 (361.ja) KYON (キョン)" xml:space="preserve">
+    <value>Scusate, sono un pochino in ritardo.</value>
+  </data>
+  <data name="0010 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Ti ho già detto che chiunque è in ritardo va incontro alla pena di morte!?</value>
+  </data>
+  <data name="0011 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>La pena per aver fatto aspettare il capo della brigata SOS sotto al sole cocente è severa!</value>
+  </data>
+  <data name="0013 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Non conosci l'antico proverbio: "Odia il peccato e non il peccatore"?</value>
+  </data>
+  <data name="0014 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Tra l'altro il resto del gruppo era già lì. Come sempre.</value>
+  </data>
+  <data name="0016 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Non c'è dubbio, però, che questo sole sia davvero difficile da tollerare, nonostante sia mattina.</value>
+  </data>
+  <data name="0017 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Certamente, per Asahina. Oh e anche te Nagato, scusa.</value>
+  </data>
+  <data name="0018 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Va bene Kyon, tieniti forte!</value>
+  </data>
+  <data name="0019 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Come prima cosa ti trascineremo per il cortile della scuola, poi ti decapiteremo.</value>
+  </data>
+  <data name="0020 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>Koizumi, lascerò a te il compito.</value>
+  </data>
+  <data name="0021 (361.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>È un onore.</value>
+  </data>
+  <data name="0025 (361.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>Ehehe, buongiorno!</value>
+  </data>
+  <data name="0029 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Ho provato di tutto, ma non sono riuscito a convincerla a starsene buona.</value>
+  </data>
+  <data name="0030 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Tenersi alla mia gamba va bene, ma addirittura mordermela…</value>
+  </data>
+  <data name="0032 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Mi sono sbrigato per incontrare il gruppo a scuola.</value>
+  </data>
+  <data name="0033 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Inoltre, visto l'inclusione di mia sorella, è improbabile che Haruhi proponga cose troppo assurde.</value>
+  </data>
+  <data name="0034 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Non negherò che la pensavo davvero così.</value>
+  </data>
+  <data name="0036 (361.ja) MIKURU (朝比奈)" xml:space="preserve">
+    <value>Ciao.</value>
+  </data>
+  <data name="0038 (361.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>Ah, Mikuru è qui!</value>
+  </data>
+  <data name="0026 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>O cielo, guarda chi c'è!</value>
+  </data>
+  <data name="0007 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Anche se, sono qui con una peste.</value>
+  </data>
 </root>

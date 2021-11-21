@@ -65,13 +65,13 @@
     <value>Le storie sui fantasmi sono la cosa più adatta in estate, come la neve a Natale!</value>
   </data>
   <data name="0003 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Dunque vi presento la classe che non dovrebbe esistere: "Classe 1-10".</value>
+    <value>Dunque vi presento la classe che non dovrebbe esistere: la "Classe 1-10".</value>
   </data>
   <data name="0004 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Una leggendaria "classe mangiauomini" dalla quale nessuno è mai tornato.</value>
   </data>
   <data name="0005 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Una nuova meraviglia della North High, noi, la brigata SOS, andremo a investigare!</value>
+    <value>Una nuova meraviglia della North High. Noi della brigata SOS andremo a investigare!</value>
   </data>
   <data name="0008 (360.ja) KYON (キョン)" xml:space="preserve">
     <value>Ehi, ehi, un secondo, mi state prendendo in giro?</value>
@@ -80,7 +80,7 @@
     <value>La giuntura delle informazioni dell'intera scuola è diventata instabile.</value>
   </data>
   <data name="0010 (360.ja) NAGATO (長門)" xml:space="preserve">
-    <value>Il simbolo disegnato da Haruhi Suzumiya ha agito da innesco.</value>
+    <value>Il simbolo disegnato da Haruhi Suzumiya ha innescato la reazione.</value>
   </data>
   <data name="0011 (360.ja) NAGATO (長門)" xml:space="preserve">
     <value>Ha causato un aumento delle attività nelle forme vita di dati.</value>
@@ -146,16 +146,16 @@
     <value>Va tutto bene. Ti sarò di supporto.</value>
   </data>
   <data name="0000 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>È ora il momento del secondo atto del campo estivo della brigata SOS!</value>
+    <value>È giunto il momento del secondo atto del campo estivo della brigata SOS!</value>
   </data>
   <data name="0006 (360.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Nessuno ancora aveva capito che le cose avrebbero preso una brutta piega di lì a breve.</value>
+    <value>Nessuno capì che le cose avrebbero preso una brutta piega di lì a breve.</value>
   </data>
   <data name="0016 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Prima di tutto, dobbiamo investigare la scena. Vieni, Mikuru!</value>
   </data>
   <data name="0020 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>La prima a morire è sempre la bella fanciulla. Un caposaldo nelle storie dell'orrore.</value>
+    <value>La prima a morire è sempre una bella fanciulla. Come in tutte le storie d'orrore.</value>
   </data>
   <data name="0032 (360.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Sarà perfetta quando la inserirò nel registro delle attività della brigata SOS!</value>
@@ -165,5 +165,8 @@
   </data>
   <data name="0046 (360.ja) KYON (キョン)" xml:space="preserve">
     <value>Ma stiamo scherzando…</value>
+  </data>
+  <data name="0047 (360.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>Riguardo Haruhi</value>
   </data>
 </root>

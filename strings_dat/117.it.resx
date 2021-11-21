@@ -71,7 +71,7 @@
     <value>☆Ricomincia da un salvataggio☆　　　</value>
   </data>
   <data name="0014 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>☆Carica (perderai i progressi)☆　　　</value>
+    <value>☆Carica salvataggio☆　　　</value>
   </data>
   <data name="0025 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Una cospirazione che si cela nella piscina?!　　　</value>
@@ -80,8 +80,8 @@
     <value>Caricare questo salvataggio?</value>
   </data>
   <data name="0043 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Se si torna allo schermo del titolo,
-tutti i progressi non salvati verranno persi.
+    <value>Se si torna allo schermo del titolo
+perderai i progressi.
 Vuoi continuare?</value>
   </data>
   <data name="0064 (dat_117.ja) INFO (INFO)" xml:space="preserve">
@@ -108,7 +108,7 @@ Vuoi procedere?</value>
     <value>Parte soluzione storia</value>
   </data>
   <data name="0100 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Scegliere se e come saltare i dialoghi　　　</value>
+    <value>Soluzione storia　　　</value>
   </data>
   <data name="0002 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Principale</value>
@@ -165,7 +165,7 @@ Vuoi procedere?</value>
     <value>Nessun dato. Impossibile continuare.　　　</value>
   </data>
   <data name="0029 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Carica e ricomincia dal salvataggio.　　　</value>
+    <value>Ricomincia dal salvataggio.　　　</value>
   </data>
   <data name="0030 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Seleziona uno slot.</value>
@@ -194,7 +194,7 @@ Non spegnere la console.</value>
 Non spegnere la console.</value>
   </data>
   <data name="0016 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>☆Torna al titolo (perderai i progressi)☆　　　</value>
+    <value>☆Torna al titolo☆　　　</value>
   </data>
   <data name="0065 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Gioco ~ Storia</value>
@@ -215,7 +215,7 @@ Non spegnere la console.</value>
     <value>Cambia impostazioni di sistema　　　</value>
   </data>
   <data name="0072 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Ripristina alle impostazioni iniziali　　　</value>
+    <value>Ripristina impostazioni iniziali　　　</value>
   </data>
   <data name="0074 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Volume musica　　　</value>
@@ -265,7 +265,7 @@ di tutte le impostazioni?</value>
 Vuoi procedere?</value>
   </data>
   <data name="0092 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Ripristina stato originario</value>
+    <value>Impostazioni ripristinate.</value>
   </data>
   <data name="0093 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Tutti i dati sono stati eliminati.</value>
