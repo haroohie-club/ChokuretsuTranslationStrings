@@ -67,4 +67,246 @@
   <data name="0010 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>☆Inizia dal primo episodio☆　　　</value>
   </data>
+  <data name="0011 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆Ricomincia da un salvataggio☆　　　</value>
+  </data>
+  <data name="0014 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆Carica (perderai i progressi)☆　　　</value>
+  </data>
+  <data name="0025 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Una cospirazione che si cela nella piscina?!　　　</value>
+  </data>
+  <data name="0033 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Caricare questo salvataggio?</value>
+  </data>
+  <data name="0043 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Se si torna allo schermo del titolo,
+tutti i progressi non salvati verranno persi.
+Vuoi continuare?</value>
+  </data>
+  <data name="0064 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Suono</value>
+  </data>
+  <data name="0069 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Cambia impostazioni suono　　　</value>
+  </data>
+  <data name="0073 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Elimina tutti i dati　　　</value>
+  </data>
+  <data name="0080 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Voce di Haruhi　　　</value>
+  </data>
+  <data name="0088 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Voce della ragazza misteriosa　　　</value>
+  </data>
+  <data name="0090 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Tutti i dati verranno eliminati.
+Questa operazione non è reversibile.
+Vuoi procedere?</value>
+  </data>
+  <data name="0096 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Parte soluzione storia</value>
+  </data>
+  <data name="0100 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Scegliere se e come saltare i dialoghi　　　</value>
+  </data>
+  <data name="0002 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Principale</value>
+  </data>
+  <data name="0003 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Haruhi</value>
+  </data>
+  <data name="0004 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Personaggio</value>
+  </data>
+  <data name="0005 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Sotto-argomento</value>
+  </data>
+  <data name="0012 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆Cambia a Modalità Extra☆　　　</value>
+  </data>
+  <data name="0013 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆Cambia le impostazioni☆　　　</value>
+  </data>
+  <data name="0015 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆Cambia le impostazioni☆　　　</value>
+  </data>
+  <data name="0017 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>La classe mangiauomini</value>
+  </data>
+  <data name="0018 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>La sonata incompiuta</value>
+  </data>
+  <data name="0019 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>La cerimonia di diploma di mezza estate</value>
+  </data>
+  <data name="0020 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Big Mum Flower</value>
+  </data>
+  <data name="0021 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Nessun dorma</value>
+  </data>
+  <data name="0022 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>La stanza da cui nessuno fece ritorno…　　　</value>
+  </data>
+  <data name="0023 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Il suono del pianoforte da una stanza vuota?!　　　</value>
+  </data>
+  <data name="0024 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Sarebbe dovuta essere una bella festa…　　　</value>
+  </data>
+  <data name="0026 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>La vera forma della ragazza misteriosa?!　　　</value>
+  </data>
+  <data name="0027 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Nessun dato.</value>
+  </data>
+  <data name="0028 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Nessun dato. Impossibile continuare.　　　</value>
+  </data>
+  <data name="0029 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Carica e ricomincia dal salvataggio.　　　</value>
+  </data>
+  <data name="0030 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Seleziona uno slot.</value>
+  </data>
+  <data name="0031 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Sì</value>
+  </data>
+  <data name="0032 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="0039 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Salvataggio.
+Non spegnere la console.</value>
+  </data>
+  <data name="0041 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Salvataggio caricato.</value>
+  </data>
+  <data name="0042 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Gioco salvato.</value>
+  </data>
+  <data name="0045 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Salvare i progressi?</value>
+  </data>
+  <data name="0040 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Caricamento dati.
+Non spegnere la console.</value>
+  </data>
+  <data name="0016 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>☆Torna al titolo (perderai i progressi)☆　　　</value>
+  </data>
+  <data name="0065 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Gioco ~ Storia</value>
+  </data>
+  <data name="0066 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Gioco ~ Puzzle</value>
+  </data>
+  <data name="0067 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Reimposta predefiniti</value>
+  </data>
+  <data name="0068 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Elimina dati</value>
+  </data>
+  <data name="0070 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Cambia impostazioni di sistema　　　</value>
+  </data>
+  <data name="0071 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Cambia impostazioni di sistema　　　</value>
+  </data>
+  <data name="0072 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Ripristina alle impostazioni iniziali　　　</value>
+  </data>
+  <data name="0074 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Volume musica　　　</value>
+  </data>
+  <data name="0075 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Volume effetti sonori　　　</value>
+  </data>
+  <data name="0076 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Volume effetti sonori messaggi　　　</value>
+  </data>
+  <data name="0077 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Volume dialoghi　　　</value>
+  </data>
+  <data name="0078 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Voce personaggi　　　</value>
+  </data>
+  <data name="0079 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Voce di Kyon　　　</value>
+  </data>
+  <data name="0081 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Voce di Mikuru　　　</value>
+  </data>
+  <data name="0082 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Voce di Nagato　　　</value>
+  </data>
+  <data name="0083 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Voce di Koizumi　　　</value>
+  </data>
+  <data name="0084 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Voce della sorellina di Kyon　　　</value>
+  </data>
+  <data name="0085 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Voce di Tsuruya　　　</value>
+  </data>
+  <data name="0086 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Voce di Taniguchi　　　</value>
+  </data>
+  <data name="0087 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Voce di Kunikida　　　</value>
+  </data>
+  <data name="0089 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Vuoi ripristinare lo stato iniziale
+di tutte le impostazioni?</value>
+  </data>
+  <data name="0091 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>La cancellazione non è reversibile.
+Vuoi procedere?</value>
+  </data>
+  <data name="0092 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Ripristina stato originario</value>
+  </data>
+  <data name="0093 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Tutti i dati sono stati eliminati.</value>
+  </data>
+  <data name="0094 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Visualizza dialoghi in blocco</value>
+  </data>
+  <data name="0095 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Salta dialoghi</value>
+  </data>
+  <data name="0097 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Modalità argomenti stock</value>
+  </data>
+  <data name="0098 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Visualizza tutti i dialoghi　　　</value>
+  </data>
+  <data name="0099 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Dialogo da saltare　　　</value>
+  </data>
+  <data name="0101 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Tutti gli argomenti ottenuti utilizzabili　　　</value>
+  </data>
+  <data name="0102 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="0103 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="0104 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="0105 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Non letti</value>
+  </data>
+  <data name="0106 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="0107 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Avanti veloce</value>
+  </data>
+  <data name="0108 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Salta già letti</value>
+  </data>
 </root>

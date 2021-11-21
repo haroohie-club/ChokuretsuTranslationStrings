@@ -65,7 +65,7 @@
     <value>Little sister, follow me!</value>
   </data>
   <data name="0002 (362.ja) KYON_SIS (妹)" xml:space="preserve">
-    <value>yeah...</value>
+    <value>Coming!</value>
   </data>
   <data name="0003 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Haruhi showing crazy motivation leads everyone forcibly.</value>
@@ -83,29 +83,28 @@
     <value>She is not easily flattered…</value>
   </data>
   <data name="0008 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>Something was outside the window…</value>
+    <value>Huh, something's outside the window…</value>
   </data>
   <data name="0009 (362.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>What's up?</value>
+    <value>Yes, what is it?</value>
   </data>
   <data name="0010 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Not like a bird. It was about the size of a man.</value>
+    <value>Not like a bird. It was about the size of a human.</value>
   </data>
   <data name="0011 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>……Man?
-I can't believe it……</value>
+    <value>……About the size of a human? That's ridiculous, no way that could--</value>
   </data>
   <data name="0013 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>What……!?</value>
+    <value>Whoa……?!</value>
   </data>
   <data name="0014 (362.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>Kyon!? What!? What!?</value>
+    <value>E-Eh, Kyon, what is it?</value>
   </data>
   <data name="0015 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>I, I think it's my mistake……</value>
+    <value>M-My eyes are playing tricks on me…</value>
   </data>
   <data name="0016 (362.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>What's happened, Kyon?</value>
+    <value>What's going on, Kyon?</value>
   </data>
   <data name="0017 (362.ja) KYON (キョン)" xml:space="preserve">
     <value>……sorry, it may be my bad.</value>
@@ -130,73 +129,61 @@ Let's go, Asahina-san.</value>
     <value>Yes……</value>
   </data>
   <data name="0025 (362.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>……よくわからないけど、遅れると
-涼宮さんに怒られちゃいますね</value>
+    <value>…y…yes…If we were late, Suzumiya-san would get angry.</value>
   </data>
   <data name="0026 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>不思議そうな顔をしていた
-朝比奈さんだったが</value>
+    <value>Asahina-san seems to be wondering</value>
   </data>
   <data name="0027 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ハルヒの名前を出すと苦笑をうかべ
-賛同してくれた</value>
+    <value>But she agreed when she heard the name "Haruhi".</value>
   </data>
   <data name="0029 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>さて、とっとと追いついて――</value>
+    <value>Well, let us follow them…</value>
   </data>
   <data name="0030 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>う……っ！？</value>
+    <value>What……?</value>
   </data>
   <data name="0031 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>なんだ……急に目眩が……</value>
+    <value>What's happened?…I'm dizzy……</value>
   </data>
   <data name="0033 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>え……</value>
+    <value>Ah……</value>
   </data>
   <data name="0034 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>我が目を疑うってのは、人生に
-そう何度もあることじゃないだろう</value>
+    <value>I don't think it happens often that I doubt my eyes.</value>
   </data>
   <data name="0035 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>にもかかわらず俺は、わずか数分で
-それを２度も体験したわけだ</value>
+    <value>But I experienced it twice in just a few minutes.</value>
   </data>
   <data name="0036 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>……なんて、冷静に解説している
-場合じゃないな</value>
+    <value>……I shouldn't calmly explain the current situation.</value>
   </data>
   <data name="0037 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>ここは……本館か？</value>
+    <value>Is this the……main building?</value>
   </data>
   <data name="0038 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ついさっきまで、部室棟から中館へ
-繋がる渡り廊下にいたはずなんだが</value>
+    <value>Just a while ago, I was moving from the club room building to the middle building.</value>
   </data>
   <data name="0039 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>それが一瞬のうちに１年の廊下に
-移動していた</value>
+    <value>But I moved to the corridor of the first grade in an instant.</value>
   </data>
   <data name="0040 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>それに、近くにいた朝比奈さんも
-いなくなっている</value>
+    <value>Besides, Asahina-san has gone.</value>
   </data>
   <data name="0041 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>いや、いなくなったのは俺の方か？</value>
+    <value>No, am I gone?</value>
   </data>
   <data name="0042 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>瞬間移動？　それとも別の何か？
-そもそもなぜこんなことに？</value>
+    <value>Teleport? Something else happened? Why did this happen?</value>
   </data>
   <data name="0043 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>……分からん</value>
+    <value>……I have no idea.</value>
   </data>
   <data name="0044 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>だいたい、こういうのは
-古泉あたりの役目だろう</value>
+    <value>This is probably Koizumi's role.</value>
   </data>
   <data name="0045 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>とりあえず、部室棟の方へ
-戻ってみるか</value>
+    <value>Well, I go back to the club room building.</value>
   </data>
   <data name="0046 (362.ja) KYON (キョン)" xml:space="preserve">
     <value>…………</value>
@@ -205,21 +192,19 @@ Let's go, Asahina-san.</value>
     <value>…………</value>
   </data>
   <data name="0048 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>……待て待て待て待て！</value>
+    <value>……Wait! Wait!</value>
   </data>
   <data name="0049 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>いくらなんでもおかしいだろ！</value>
+    <value>What on earth happened!?</value>
   </data>
   <data name="0050 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>歩いても歩いても廊下が続いている
-そんなことあってたまるか！</value>
+    <value>Infinite corridor!? I won't believe it!!</value>
   </data>
   <data name="0051 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>なんとなく気づいてはいたが
-ここは普通の場所じゃないらしい</value>
+    <value>This is not an ordinary space.</value>
   </data>
   <data name="0052 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>そうだ、窓を開けて外に出れば……</value>
+    <value>Yes, get outside of the window……</value>
   </data>
   <data name="0053 (362.ja) KYON (キョン)" xml:space="preserve">
     <value>くそっ、ビクともしないか</value>

@@ -128,7 +128,7 @@
     <value>Piano sounds from an empty room?!　　　</value>
   </data>
   <data name="0065 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>System ~ Exploration</value>
+    <value>Game ~ Story</value>
   </data>
   <data name="0074 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Background music volume　　　</value>
@@ -205,7 +205,7 @@ This cannot be undone.
 Would you like to proceed?</value>
   </data>
   <data name="0066 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>System ~ Solution</value>
+    <value>Game ~ Puzzle</value>
   </data>
   <data name="0067 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Reset to Default</value>
@@ -249,13 +249,13 @@ Do you want to proceed?</value>
     <value>Dialogue Skipping</value>
   </data>
   <data name="0096 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Story Solution Part</value>
+    <value>Puzzle Parts</value>
   </data>
   <data name="0097 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Stock Topic Mode</value>
+    <value>Topic Stock Mode</value>
   </data>
   <data name="0098 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Toggle displaying all dialogue　　　</value>
+    <value>Toggle displaying all dialogue at once　　　</value>
   </data>
   <data name="0100 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Hopefully self-explanatory　　　</value>
@@ -290,5 +290,23 @@ Do not turn off the power.</value>
     <value>If you return to the title screen,
 unsaved progress will be lost.
 Do you want to proceed?</value>
+  </data>
+  <data name="0019 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Midsummer Graduation Ceremony</value>
+  </data>
+  <data name="0024 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>It should've been a fun party…　　　</value>
+  </data>
+  <data name="0026 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>The mysterious girl's true form?!　　　</value>
+  </data>
+  <data name="0020 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Big Mum Flower</value>
+  </data>
+  <data name="0021 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>None May Sleep</value>
+  </data>
+  <data name="0025 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>A conspiracy hidden in the pool?!　　　</value>
   </data>
 </root>
