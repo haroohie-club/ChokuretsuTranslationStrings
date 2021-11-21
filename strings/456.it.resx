@@ -122,4 +122,7 @@
   <data name="0019 (456.ja) KYON (キョン)" xml:space="preserve">
     <value>なんでおまえは、元気なんだ</value>
   </data>
+  <data name="0020 (456.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>テスト選択肢</value>
+  </data>
 </root>

@@ -983,4 +983,16 @@
     <value>しかし、やっぱりハルヒにとっては
 ＵＦＯも流しのタクシー扱いなのか</value>
   </data>
+  <data name="0282 (463.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒにツッコミ</value>
+  </data>
+  <data name="0283 (463.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>屋上に行く</value>
+  </data>
+  <data name="0284 (463.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>プールを見張る</value>
+  </data>
+  <data name="0285 (463.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>俺のしわざ</value>
+  </data>
 </root>

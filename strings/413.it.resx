@@ -628,4 +628,13 @@
   <data name="0161 (413.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>参ったな</value>
   </data>
+  <data name="0162 (413.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ＯＢ名簿を見せてもらう</value>
+  </data>
+  <data name="0163 (413.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>あきらめる</value>
+  </data>
+  <data name="0164 (413.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に苦情を言う</value>
+  </data>
 </root>

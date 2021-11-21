@@ -607,4 +607,16 @@
     <value>さて、向こうは何か有用な情報を
 手に入れてるんだろうか</value>
   </data>
+  <data name="0151 (371.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>情報収集しようと言う</value>
+  </data>
+  <data name="0152 (371.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>思い出話をしてみる</value>
+  </data>
+  <data name="0153 (371.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>仕方ない、戻そう</value>
+  </data>
+  <data name="0154 (371.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ポケットに隠そう</value>
+  </data>
 </root>

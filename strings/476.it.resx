@@ -526,4 +526,16 @@
   <data name="0138 (476.ja) MIKURU (みくる)" xml:space="preserve">
     <value>はい</value>
   </data>
+  <data name="0139 (476.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに助言する</value>
+  </data>
+  <data name="0140 (476.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>助言しない</value>
+  </data>
+  <data name="0141 (476.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒを慰める</value>
+  </data>
+  <data name="0142 (476.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ほっとく</value>
+  </data>
 </root>

@@ -1254,4 +1254,19 @@ I wonder if they could be spending all night looking at things on the internet.<
   <data name="0445 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Well, I've heard everyone's story, but…… I'll just say it as it is. I want to go home right away.</value>
   </data>
+  <data name="0450 (361.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>Go swimming</value>
+  </data>
+  <data name="0451 (361.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>Go camping</value>
+  </data>
+  <data name="0452 (361.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>Do a training camp</value>
+  </data>
+  <data name="0453 (361.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>No, not yet</value>
+  </data>
+  <data name="0454 (361.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>Of course</value>
+  </data>
 </root>

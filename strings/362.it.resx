@@ -614,4 +614,10 @@
     <value>#P04これより解決パートのチュートリア
 ルを開始します。</value>
   </data>
+  <data name="0161 (362.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>チュートリアルを飛ばす</value>
+  </data>
+  <data name="0162 (362.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>チュートリアルをプレイする</value>
+  </data>
 </root>

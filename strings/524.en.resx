@@ -663,4 +663,7 @@
   <data name="0177 (524.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……やるしかないか</value>
   </data>
+  <data name="0178 (524.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>テスト選択肢</value>
+  </data>
 </root>

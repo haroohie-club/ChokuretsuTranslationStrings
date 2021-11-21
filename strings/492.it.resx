@@ -351,9 +351,6 @@
     <value>谷口……？
 おまえ、帰ったんじゃ……</value>
   </data>
-  <data name="0091 (492.ja) 9 (国木田)" xml:space="preserve">
-    <value>僕もいるよ</value>
-  </data>
   <data name="0092 (492.ja) KYON (キョン)" xml:space="preserve">
     <value>国木田も一緒だったのか……</value>
   </data>
@@ -386,10 +383,6 @@
     <value>それ、ちょっと必要なんで返して
 もらえないか？</value>
   </data>
-  <data name="0101 (492.ja) 9 (国木田)" xml:space="preserve">
-    <value>とんでもない。これ、きらきらして
-きれいなんだよね</value>
-  </data>
   <data name="0102 (492.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>ああ、光っていてきれいだよな</value>
   </data>
@@ -412,10 +405,6 @@
   </data>
   <data name="0108 (492.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>……お断りだ</value>
-  </data>
-  <data name="0109 (492.ja) 9 (国木田)" xml:space="preserve">
-    <value>欲しければ、力尽くでも取り返せば
-いいじゃないか</value>
   </data>
   <data name="0110 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>おかしいな。ハルヒとは関わりたく
@@ -452,9 +441,6 @@
   <data name="0123 (492.ja) NAGATO (長門)" xml:space="preserve">
     <value>……回収した</value>
   </data>
-  <data name="0124 (492.ja) 9 (国木田)" xml:space="preserve">
-    <value>僕のを返してくれよ～！</value>
-  </data>
   <data name="0125 (492.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>国木田までだだっ子状態か</value>
   </data>
@@ -484,5 +470,28 @@
   </data>
   <data name="0136 (492.ja) NAGATO (長門)" xml:space="preserve">
     <value>…………</value>
+  </data>
+  <data name="0091 (492.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>僕もいるよ</value>
+  </data>
+  <data name="0101 (492.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>とんでもない。これ、きらきらして
+きれいなんだよね</value>
+  </data>
+  <data name="0109 (492.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>欲しければ、力尽くでも取り返せば
+いいじゃないか</value>
+  </data>
+  <data name="0124 (492.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>僕のを返してくれよ～！</value>
+  </data>
+  <data name="0137 (492.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>なんの話だ？</value>
+  </data>
+  <data name="0138 (492.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>さっきの話か？</value>
+  </data>
+  <data name="0139 (492.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>そっと近付く</value>
   </data>
 </root>

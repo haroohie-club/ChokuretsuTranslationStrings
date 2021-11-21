@@ -430,4 +430,13 @@
     <value>朝比奈さんの身が持たない
 気がする……</value>
   </data>
+  <data name="0100 (394.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>自分から話す</value>
+  </data>
+  <data name="0101 (394.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに聞く</value>
+  </data>
+  <data name="0102 (394.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>考えすぎだと注意する</value>
+  </data>
 </root>

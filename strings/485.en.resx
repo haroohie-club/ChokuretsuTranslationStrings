@@ -491,4 +491,13 @@
   <data name="0138 (485.ja) KYON (キョン)" xml:space="preserve">
     <value>ああ、ひとまずは……な</value>
   </data>
+  <data name="0139 (485.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>言わないだろ</value>
+  </data>
+  <data name="0140 (485.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>そうかもな</value>
+  </data>
+  <data name="0141 (485.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>これも超能力？</value>
+  </data>
 </root>

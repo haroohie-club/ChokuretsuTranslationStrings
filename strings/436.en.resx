@@ -705,4 +705,19 @@
     <value>苦労したがハルヒの機嫌は良さそう
 だから、今のところ結果オーライか</value>
   </data>
+  <data name="0199 (436.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒを止める</value>
+  </data>
+  <data name="0200 (436.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉と相談する</value>
+  </data>
+  <data name="0201 (436.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>あるもので代用</value>
+  </data>
+  <data name="0202 (436.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>園芸部倉庫</value>
+  </data>
+  <data name="0203 (436.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>実験室</value>
+  </data>
 </root>

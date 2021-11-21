@@ -578,4 +578,25 @@
   <data name="0147 (464.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>上手くいけば、いいんだが……</value>
   </data>
+  <data name="0148 (464.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>俺のせいにするな</value>
+  </data>
+  <data name="0149 (464.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に任せる</value>
+  </data>
+  <data name="0150 (464.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>作業を手伝う</value>
+  </data>
+  <data name="0151 (464.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒは神様？</value>
+  </data>
+  <data name="0152 (464.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>あてにならない</value>
+  </data>
+  <data name="0153 (464.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>一応、持っておく</value>
+  </data>
+  <data name="0154 (464.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>元の場所に返却</value>
+  </data>
 </root>

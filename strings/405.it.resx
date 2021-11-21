@@ -696,4 +696,16 @@
     <value>全員ハルヒ捜索隊として校内を
 うろつくことになったのだった</value>
   </data>
+  <data name="0206 (405.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに詫びる</value>
+  </data>
+  <data name="0207 (405.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に詫びる</value>
+  </data>
+  <data name="0208 (405.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるを捜す</value>
+  </data>
+  <data name="0209 (405.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉を捜す</value>
+  </data>
 </root>

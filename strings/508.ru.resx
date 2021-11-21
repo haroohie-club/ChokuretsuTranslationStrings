@@ -466,4 +466,22 @@
     <value>俺はハルヒの#P05“携帯電話”#P01を
 ポケットに押し込んだ</value>
   </data>
+  <data name="0129 (508.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>メモする</value>
+  </data>
+  <data name="0130 (508.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>メモしない</value>
+  </data>
+  <data name="0131 (508.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>隙を見て返す</value>
+  </data>
+  <data name="0132 (508.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるを部室に配置・仮</value>
+  </data>
+  <data name="0133 (508.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉を部室に配置・仮</value>
+  </data>
+  <data name="0134 (508.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくると古泉・仮</value>
+  </data>
 </root>

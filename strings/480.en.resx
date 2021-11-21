@@ -593,4 +593,13 @@
   <data name="0178 (480.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>すっかり軽くなっていた</value>
   </data>
+  <data name="0179 (480.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに聞く</value>
+  </data>
+  <data name="0180 (480.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に聞く</value>
+  </data>
+  <data name="0181 (480.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ただの影</value>
+  </data>
 </root>

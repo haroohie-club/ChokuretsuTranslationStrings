@@ -745,4 +745,19 @@
   <data name="0199 (365.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>さて、これからどうしたものやら</value>
   </data>
+  <data name="0200 (365.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>もう少し聞いてみる</value>
+  </data>
+  <data name="0201 (365.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>これ以上聞かない</value>
+  </data>
+  <data name="0202 (365.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>詳しくは聞かない</value>
+  </data>
+  <data name="0203 (365.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>もう少し残るか？</value>
+  </data>
+  <data name="0204 (365.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>気のせいだろう</value>
+  </data>
 </root>

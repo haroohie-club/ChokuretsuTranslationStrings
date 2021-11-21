@@ -306,4 +306,10 @@
     <value>長門が示した場所、そこは今まさに
 ハルヒがいる部室棟の３階だった</value>
   </data>
+  <data name="0078 (497.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>仮・駒を未回収</value>
+  </data>
+  <data name="0079 (497.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>仮・回収済み</value>
+  </data>
 </root>

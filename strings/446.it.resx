@@ -236,10 +236,6 @@
     <value>な？　ここはこういう風につなげ
 ばバッチリだろ？</value>
   </data>
-  <data name="0062 (446.ja) 9 (国木田)" xml:space="preserve">
-    <value>えぇっ、そうかなぁ？
-かなりちがう気がするんだけど</value>
-  </data>
   <data name="0063 (446.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>谷口たちがグリルを組み立てて
 いるらしいのだが</value>
@@ -358,9 +354,6 @@
   <data name="0093 (446.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>了解しました</value>
   </data>
-  <data name="0094 (446.ja) 9 (国木田)" xml:space="preserve">
-    <value>うん、わかったよキョン</value>
-  </data>
   <data name="0097 (446.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>おい、なんで俺をのけ者にするんだ</value>
   </data>
@@ -405,14 +398,6 @@
   <data name="0108 (446.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>それは失礼しました
 今まで聞かれなかったもので</value>
-  </data>
-  <data name="0109 (446.ja) 9 (国木田)" xml:space="preserve">
-    <value>そういえば、誰も出してと
-言わなかったもんね</value>
-  </data>
-  <data name="0110 (446.ja) 9 (国木田)" xml:space="preserve">
-    <value>でも、これで一気に組み立て
-られるね</value>
   </data>
   <data name="0111 (446.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まあ、何はともあれ
@@ -557,5 +542,26 @@
   <data name="0150 (446.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>お前が持ってきたんだ。お前が責任
 持って返しに行くか持って帰れよ</value>
+  </data>
+  <data name="0062 (446.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>えぇっ、そうかなぁ？
+かなりちがう気がするんだけど</value>
+  </data>
+  <data name="0094 (446.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>うん、わかったよキョン</value>
+  </data>
+  <data name="0109 (446.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>そういえば、誰も出してと
+言わなかったもんね</value>
+  </data>
+  <data name="0110 (446.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>でも、これで一気に組み立て
+られるね</value>
+  </data>
+  <data name="0151 (446.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に声をかける</value>
+  </data>
+  <data name="0152 (446.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>使うことにする</value>
   </data>
 </root>

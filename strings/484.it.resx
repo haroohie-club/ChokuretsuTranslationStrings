@@ -741,4 +741,16 @@
   <data name="0230 (484.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まだまだ、問題は山積みだが……</value>
   </data>
+  <data name="0231 (484.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒに注意しろ</value>
+  </data>
+  <data name="0232 (484.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>メシをおごる</value>
+  </data>
+  <data name="0233 (484.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>散歩する</value>
+  </data>
+  <data name="0234 (484.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>……なんでもない</value>
+  </data>
 </root>

@@ -91,9 +91,6 @@
     <value>知るか
 俺はハルヒの保護者じゃない</value>
   </data>
-  <data name="0010 (451.ja) 9 (国木田)" xml:space="preserve">
-    <value>こういうのも結構楽しいもんだね</value>
-  </data>
   <data name="0011 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>と、いざバーベキューが始まって
 しまえば、</value>
@@ -246,22 +243,8 @@
     <value>なにをひとりではしゃいでるんだ
 谷口のやつは</value>
   </data>
-  <data name="0051 (451.ja) 9 (国木田)" xml:space="preserve">
-    <value>まあ、許してあげてよ</value>
-  </data>
-  <data name="0052 (451.ja) 9 (国木田)" xml:space="preserve">
-    <value>この夏はなんにも予定がないって
-ひとりでイジケてたからさ</value>
-  </data>
-  <data name="0053 (451.ja) 9 (国木田)" xml:space="preserve">
-    <value>嬉しくてしょうがないんだよ</value>
-  </data>
   <data name="0054 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>不憫なやつ……</value>
-  </data>
-  <data name="0055 (451.ja) 9 (国木田)" xml:space="preserve">
-    <value>こんな時でもないと、女の子と
-接する機会がないんだよねぇ</value>
   </data>
   <data name="0056 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>国木田はなにげに辛辣だ</value>
@@ -1662,5 +1645,22 @@
   </data>
   <data name="0480 (451.ja) KYON (キョン)" xml:space="preserve">
     <value>とりあえず……学校に戻ってみるか</value>
+  </data>
+  <data name="0010 (451.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>こういうのも結構楽しいもんだね</value>
+  </data>
+  <data name="0051 (451.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>まあ、許してあげてよ</value>
+  </data>
+  <data name="0052 (451.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>この夏はなんにも予定がないって
+ひとりでイジケてたからさ</value>
+  </data>
+  <data name="0053 (451.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>嬉しくてしょうがないんだよ</value>
+  </data>
+  <data name="0055 (451.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>こんな時でもないと、女の子と
+接する機会がないんだよねぇ</value>
   </data>
 </root>

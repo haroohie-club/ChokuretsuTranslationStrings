@@ -756,4 +756,19 @@
     <value>静けさが戻った部室で、俺は
 散らばった本を集めるのだった</value>
   </data>
+  <data name="0205 (401.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに提案</value>
+  </data>
+  <data name="0206 (401.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>現実を指摘する</value>
+  </data>
+  <data name="0207 (401.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>現実を指摘しない</value>
+  </data>
+  <data name="0208 (401.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるを庇う</value>
+  </data>
+  <data name="0209 (401.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒを労る</value>
+  </data>
 </root>

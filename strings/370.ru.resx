@@ -877,4 +877,16 @@
     <value>とりあえず集めた情報からなんとか
 する他はなかろう</value>
   </data>
+  <data name="0250 (370.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>誤字を伝える</value>
+  </data>
+  <data name="0251 (370.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに聞く</value>
+  </data>
+  <data name="0252 (370.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に聞く</value>
+  </data>
+  <data name="0253 (370.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>そっと返す</value>
+  </data>
 </root>

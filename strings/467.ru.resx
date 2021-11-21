@@ -337,4 +337,16 @@
   <data name="0075 (467.ja) KYON (キョン)" xml:space="preserve">
     <value>やれやれ……</value>
   </data>
+  <data name="0076 (467.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ビーチボール</value>
+  </data>
+  <data name="0077 (467.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>週刊誌</value>
+  </data>
+  <data name="0078 (467.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>花火セット</value>
+  </data>
+  <data name="0079 (467.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ソフト野球セット</value>
+  </data>
 </root>

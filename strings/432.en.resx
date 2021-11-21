@@ -822,4 +822,16 @@
     <value>のら猫に手を振る妹を引きずるよう
 にして俺たちはその場を立ち去った</value>
   </data>
+  <data name="0250 (432.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉はどこだ</value>
+  </data>
+  <data name="0251 (432.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ＣＤをもらう</value>
+  </data>
+  <data name="0252 (432.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>エサをやる</value>
+  </data>
+  <data name="0253 (432.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>エサをやらない</value>
+  </data>
 </root>

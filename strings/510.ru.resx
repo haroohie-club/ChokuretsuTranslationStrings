@@ -561,4 +561,19 @@
   <data name="0151 (510.ja) KYON (キョン)" xml:space="preserve">
     <value>昇降口に戻ってハルヒを連れ戻すか</value>
   </data>
+  <data name="0152 (510.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>冗談</value>
+  </data>
+  <data name="0153 (510.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>俺がやる</value>
+  </data>
+  <data name="0154 (510.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉がやれ</value>
+  </data>
+  <data name="0155 (510.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉にサイン</value>
+  </data>
+  <data name="0156 (510.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>なんとかする</value>
+  </data>
 </root>

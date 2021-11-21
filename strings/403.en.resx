@@ -516,4 +516,16 @@
     <value>面倒極まりないが、これはきちんと
 解決する必要がありそうだな……</value>
   </data>
+  <data name="0129 (403.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に教える</value>
+  </data>
+  <data name="0130 (403.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に教えない</value>
+  </data>
+  <data name="0131 (403.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>資料に目を通す</value>
+  </data>
+  <data name="0132 (403.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に任せる</value>
+  </data>
 </root>

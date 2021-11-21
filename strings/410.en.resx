@@ -447,4 +447,16 @@
   <data name="0114 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>……ですね</value>
   </data>
+  <data name="0115 (410.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>もう一度頼んでみる</value>
+  </data>
+  <data name="0116 (410.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に任せる</value>
+  </data>
+  <data name="0117 (410.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>噂をすれば……</value>
+  </data>
+  <data name="0118 (410.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>考えすぎだ</value>
+  </data>
 </root>

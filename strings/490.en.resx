@@ -173,17 +173,11 @@
   <data name="0034 (490.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>なんだ、キョンじゃないか～</value>
   </data>
-  <data name="0035 (490.ja) 9 (国木田)" xml:space="preserve">
-    <value>やあ、こんばんは～</value>
-  </data>
   <data name="0036 (490.ja) KYON (キョン)" xml:space="preserve">
     <value>おまえら帰ったんじゃ……</value>
   </data>
   <data name="0037 (490.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>いろいろあってよぉ</value>
-  </data>
-  <data name="0038 (490.ja) 9 (国木田)" xml:space="preserve">
-    <value>学校から出られないんだよねぇ</value>
   </data>
   <data name="0039 (490.ja) KYON (キョン)" xml:space="preserve">
     <value>お、おまえら、まさか……</value>
@@ -217,9 +211,6 @@
   <data name="0047 (490.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>だったら、もちろんお断りだ</value>
   </data>
-  <data name="0048 (490.ja) 9 (国木田)" xml:space="preserve">
-    <value>なんだか気持ちいいよねぇ</value>
-  </data>
   <data name="0049 (490.ja) KYON (キョン)" xml:space="preserve">
     <value>ええい、うっとりした顔で言うな</value>
   </data>
@@ -233,9 +224,6 @@
   </data>
   <data name="0052 (490.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>なあ、キョンもこいよ～</value>
-  </data>
-  <data name="0053 (490.ja) 9 (国木田)" xml:space="preserve">
-    <value>あははは</value>
   </data>
   <data name="0054 (490.ja) KYON (キョン)" xml:space="preserve">
     <value>こ、こら、やめろ、近付くな</value>
@@ -307,9 +295,6 @@
     <value>俺は、同じように国木田の頭からも
 花を取り去った</value>
   </data>
-  <data name="0080 (490.ja) 9 (国木田)" xml:space="preserve">
-    <value>はうっ</value>
-  </data>
   <data name="0081 (490.ja) KYON (キョン)" xml:space="preserve">
     <value>これでよし……と
 あとで長門に見てもらおう</value>
@@ -335,5 +320,23 @@
   <data name="0087 (490.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>しかし、なんであいつら戻ってきた
 んだ……？</value>
+  </data>
+  <data name="0035 (490.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>やあ、こんばんは～</value>
+  </data>
+  <data name="0038 (490.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>学校から出られないんだよねぇ</value>
+  </data>
+  <data name="0048 (490.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>なんだか気持ちいいよねぇ</value>
+  </data>
+  <data name="0053 (490.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>あははは</value>
+  </data>
+  <data name="0080 (490.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>はうっ</value>
+  </data>
+  <data name="0088 (490.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>気にしない</value>
   </data>
 </root>

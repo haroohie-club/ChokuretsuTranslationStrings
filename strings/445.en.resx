@@ -86,10 +86,6 @@
   <data name="0008 (445.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>おい、国木田もなんか言え</value>
   </data>
-  <data name="0010 (445.ja) 9 (国木田)" xml:space="preserve">
-    <value>べつに、準備くらいいいじゃない
-それでこそ、バーベキューだよ</value>
-  </data>
   <data name="0011 (445.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>う、裏切り者！
 ……おい、キョン</value>
@@ -132,10 +128,6 @@
   <data name="0026 (445.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>それじゃあ、あたしは洗った野菜や
 肉を切って串に刺していくから！</value>
-  </data>
-  <data name="0027 (445.ja) 9 (国木田)" xml:space="preserve">
-    <value>串って、これも一度洗った方がいい
-よね？</value>
   </data>
   <data name="0028 (445.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>もちろんよ</value>
@@ -257,14 +249,6 @@
   <data name="0064 (445.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>俺が串を洗って渡せばいいんだな</value>
   </data>
-  <data name="0065 (445.ja) 9 (国木田)" xml:space="preserve">
-    <value>じゃあ僕が食材を一口サイズに切る
-係をやるよ</value>
-  </data>
-  <data name="0066 (445.ja) 9 (国木田)" xml:space="preserve">
-    <value>キョンと涼宮さんが串に刺す係を
-やればいいんじゃないかな</value>
-  </data>
   <data name="0067 (445.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>そうね、それが効率的だと思うわ</value>
   </data>
@@ -274,9 +258,6 @@
   </data>
   <data name="0070 (445.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>ほらよ</value>
-  </data>
-  <data name="0071 (445.ja) 9 (国木田)" xml:space="preserve">
-    <value>はい、どうぞ</value>
   </data>
   <data name="0072 (445.ja) KYON (キョン)" xml:space="preserve">
     <value>はいよ</value>
@@ -356,9 +337,6 @@
   <data name="0094 (445.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>井戸に身を投げて死んでしまった！</value>
   </data>
-  <data name="0095 (445.ja) 9 (国木田)" xml:space="preserve">
-    <value>串くらいで自殺？</value>
-  </data>
   <data name="0096 (445.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>そういう時代だったんだよ</value>
   </data>
@@ -402,9 +380,6 @@
   <data name="0109 (445.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>世が世なら、あんた絞首刑か市中
 引き回しの上打ち首獄門ね</value>
-  </data>
-  <data name="0110 (445.ja) 9 (国木田)" xml:space="preserve">
-    <value>う～ん、ちょっと弁護できないなあ</value>
   </data>
   <data name="0111 (445.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>あ～あ、ほんっと、時間の無駄だっ
@@ -622,5 +597,36 @@
   <data name="0190 (445.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>珍しく、古泉と意見が一致した瞬間
 だった</value>
+  </data>
+  <data name="0010 (445.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>べつに、準備くらいいいじゃない
+それでこそ、バーベキューだよ</value>
+  </data>
+  <data name="0027 (445.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>串って、これも一度洗った方がいい
+よね？</value>
+  </data>
+  <data name="0065 (445.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>じゃあ僕が食材を一口サイズに切る
+係をやるよ</value>
+  </data>
+  <data name="0066 (445.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>キョンと涼宮さんが串に刺す係を
+やればいいんじゃないかな</value>
+  </data>
+  <data name="0071 (445.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>はい、どうぞ</value>
+  </data>
+  <data name="0095 (445.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>串くらいで自殺？</value>
+  </data>
+  <data name="0110 (445.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>う～ん、ちょっと弁護できないなあ</value>
+  </data>
+  <data name="0191 (445.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉や妹と野菜洗い</value>
+  </data>
+  <data name="0192 (445.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒや谷口たちと食材準備</value>
   </data>
 </root>

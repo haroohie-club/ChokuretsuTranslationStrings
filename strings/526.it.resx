@@ -322,4 +322,7 @@ $7ちょっと貸しなさい</value>
     <value>$8とにかく、#W10帰宅の任務に就こうぜ#W50
 $9みんな待ってるからな</value>
   </data>
+  <data name="0081 (526.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>テスト選択肢</value>
+  </data>
 </root>

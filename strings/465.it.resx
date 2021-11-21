@@ -828,4 +828,19 @@
     <value>これでハルヒがどれかに引っかかっ
 てくれればラッキーだな</value>
   </data>
+  <data name="0243 (465.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>トイレの怪</value>
+  </data>
+  <data name="0244 (465.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉を叱る</value>
+  </data>
+  <data name="0245 (465.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるを励ます</value>
+  </data>
+  <data name="0246 (465.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるを説得する</value>
+  </data>
+  <data name="0247 (465.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に頼む</value>
+  </data>
 </root>

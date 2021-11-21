@@ -413,9 +413,6 @@
   <data name="0103 (491.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>あー、キョンかぁ</value>
   </data>
-  <data name="0104 (491.ja) 9 (国木田)" xml:space="preserve">
-    <value>ほんとだぁ、キョンだぁ</value>
-  </data>
   <data name="0105 (491.ja) KYON (キョン)" xml:space="preserve">
     <value>……どう見ても、正気じゃないな</value>
   </data>
@@ -446,9 +443,6 @@
   <data name="0116 (491.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>…………</value>
   </data>
-  <data name="0117 (491.ja) 9 (国木田)" xml:space="preserve">
-    <value>…………</value>
-  </data>
   <data name="0118 (491.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ふたりがぴたりと動きを止めて、
 名前を呼んだ俺を無表情で見つめた</value>
@@ -463,9 +457,6 @@
   </data>
   <data name="0121 (491.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>あははは……</value>
-  </data>
-  <data name="0122 (491.ja) 9 (国木田)" xml:space="preserve">
-    <value>ふふふ……</value>
   </data>
   <data name="0123 (491.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>と、にやにや笑うだけだ</value>
@@ -571,9 +562,6 @@
   <data name="0156 (491.ja) KYON (キョン)" xml:space="preserve">
     <value>国木田も、すまん！</value>
   </data>
-  <data name="0157 (491.ja) 9 (国木田)" xml:space="preserve">
-    <value>うふふう～……</value>
-  </data>
   <data name="0158 (491.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>続いて国木田も倒し、俺は朝比奈
 さんに振り返った</value>
@@ -658,9 +646,6 @@
   <data name="0181 (491.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>えへへえ～</value>
   </data>
-  <data name="0182 (491.ja) 9 (国木田)" xml:space="preserve">
-    <value>うふふう～</value>
-  </data>
   <data name="0183 (491.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺たちがホースを持って近寄ると、
 俺たちの作戦に気がついたのか、</value>
@@ -675,9 +660,6 @@
     <value>一本のホースで同時に二人を絡め取
 るのは、なかなか難しい</value>
   </data>
-  <data name="0187 (491.ja) 9 (国木田)" xml:space="preserve">
-    <value>うふうふう～</value>
-  </data>
   <data name="0188 (491.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>えへえへえ～</value>
   </data>
@@ -689,9 +671,6 @@
   </data>
   <data name="0191 (491.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>えへへへへえ～</value>
-  </data>
-  <data name="0192 (491.ja) 9 (国木田)" xml:space="preserve">
-    <value>うふふふふう～</value>
   </data>
   <data name="0193 (491.ja) KYON (キョン)" xml:space="preserve">
     <value>朝比奈さん、右に回り込んで！</value>
@@ -720,9 +699,6 @@
     <value>思いっきりホースを引っ張り、二人
 の足をすくう！</value>
   </data>
-  <data name="0201 (491.ja) 9 (国木田)" xml:space="preserve">
-    <value>うふふっ？</value>
-  </data>
   <data name="0202 (491.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>えへへっ？</value>
   </data>
@@ -742,9 +718,6 @@
   </data>
   <data name="0207 (491.ja) KYON (キョン)" xml:space="preserve">
     <value>さあ、それを渡して貰うぞ</value>
-  </data>
-  <data name="0208 (491.ja) 9 (国木田)" xml:space="preserve">
-    <value>うふふふふ</value>
   </data>
   <data name="0209 (491.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>えへへへへ</value>
@@ -779,5 +752,44 @@
   <data name="0219 (491.ja) KYON (キョン)" xml:space="preserve">
     <value>仕事は片付けました、さあ、戻りま
 しょう</value>
+  </data>
+  <data name="0104 (491.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>ほんとだぁ、キョンだぁ</value>
+  </data>
+  <data name="0117 (491.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0122 (491.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>ふふふ……</value>
+  </data>
+  <data name="0157 (491.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>うふふう～……</value>
+  </data>
+  <data name="0182 (491.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>うふふう～</value>
+  </data>
+  <data name="0187 (491.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>うふうふう～</value>
+  </data>
+  <data name="0192 (491.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>うふふふふう～</value>
+  </data>
+  <data name="0201 (491.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>うふふっ？</value>
+  </data>
+  <data name="0208 (491.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>うふふふふ</value>
+  </data>
+  <data name="0220 (491.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>もう少し探す</value>
+  </data>
+  <data name="0221 (491.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>さっさと諦める</value>
+  </data>
+  <data name="0222 (491.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>モップ</value>
+  </data>
+  <data name="0223 (491.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ホース</value>
   </data>
 </root>

@@ -599,4 +599,16 @@
     <value>おいっ、勘弁してくれ
 ……いやマジで</value>
   </data>
+  <data name="0171 (372.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>安心させる</value>
+  </data>
+  <data name="0172 (372.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>少し怖がらせる</value>
+  </data>
+  <data name="0173 (372.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒをなだめる</value>
+  </data>
+  <data name="0174 (372.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるを慰める</value>
+  </data>
 </root>

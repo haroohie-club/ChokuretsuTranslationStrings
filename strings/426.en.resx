@@ -668,4 +668,16 @@
     <value>へいへい
 わかってますよ</value>
   </data>
+  <data name="0188 (426.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>トウモロコシ</value>
+  </data>
+  <data name="0189 (426.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ヤキモチ</value>
+  </data>
+  <data name="0190 (426.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>一緒に慌てる</value>
+  </data>
+  <data name="0191 (426.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>再確認</value>
+  </data>
 </root>

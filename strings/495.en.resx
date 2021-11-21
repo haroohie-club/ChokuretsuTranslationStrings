@@ -829,4 +829,10 @@
     <value>気を失った谷口と国木田はそのまま
 放置するしかない。悪く思うなよ</value>
   </data>
+  <data name="0253 (495.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に話を合わせる</value>
+  </data>
+  <data name="0254 (495.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉と屋上を調べに行く</value>
+  </data>
 </root>

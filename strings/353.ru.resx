@@ -317,4 +317,7 @@
   <data name="0073 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>やれやれだ</value>
   </data>
+  <data name="0074 (353.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>テスト選択肢</value>
+  </data>
 </root>

@@ -671,4 +671,10 @@
     <value>なんだか腑に落ちないが、とにかく
 別働隊と合流することにしよう</value>
   </data>
+  <data name="0191 (367.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>指摘する</value>
+  </data>
+  <data name="0192 (367.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>指摘しない</value>
+  </data>
 </root>

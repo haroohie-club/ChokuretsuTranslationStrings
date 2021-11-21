@@ -724,4 +724,13 @@
     <value>おっと、早く部室に戻らないと
 またハルヒが携帯を鳴らしそうだ</value>
   </data>
+  <data name="0192 (375.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに助けを求める</value>
+  </data>
+  <data name="0193 (375.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>持ち歩く</value>
+  </data>
+  <data name="0194 (375.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>その辺りに隠しておく</value>
+  </data>
 </root>

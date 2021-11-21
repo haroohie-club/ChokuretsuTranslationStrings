@@ -623,4 +623,13 @@
     <value>それを持って空き地に戻るまで
 続いたのだった</value>
   </data>
+  <data name="0184 (438.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるが怖がる</value>
+  </data>
+  <data name="0185 (438.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉が怖がる</value>
+  </data>
+  <data name="0186 (438.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に聞く</value>
+  </data>
 </root>
