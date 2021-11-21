@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,104 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (282.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門っていつも本読んでるよな</value>
+  </data>
+  <data name="0001 (282.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。でも文芸部だもの、読書は
+部活動の一環なんじゃない？</value>
+  </data>
+  <data name="0002 (282.ja) KYON (キョン)" xml:space="preserve">
+    <value>それもそうか……</value>
+  </data>
+  <data name="0003 (282.ja) KYON (キョン)" xml:space="preserve">
+    <value>でな、おもしろそうだったんで
+今度貸してくれって頼んだんだ</value>
+  </data>
+  <data name="0004 (282.ja) KYON (キョン)" xml:space="preserve">
+    <value>面白かったら教えてやるよ</value>
+  </data>
+  <data name="0005 (282.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>別にあんたなんかに紹介される必要
+はないけど……</value>
+  </data>
+  <data name="0006 (282.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、有希のお奨めだったら読んで
+みてもいいわね</value>
+  </data>
+  <data name="0007 (282.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そういえば、キョンくんが長門さん
+に本を借りるんだって言ってました</value>
+  </data>
+  <data name="0008 (282.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、あいつも本なんか読むんだ
+で、それがどうかした？</value>
+  </data>
+  <data name="0009 (282.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、ええと、その、あの
+い、いいなあって……</value>
+  </data>
+  <data name="0010 (282.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、みくるちゃんも読みたいなら
+キョンの次に借りればいいじゃない</value>
+  </data>
+  <data name="0011 (282.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですね……はう……</value>
+  </data>
+  <data name="0012 (282.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0013 (282.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと有希！　歩きながら本なん
+か読まない方がいいわよ！</value>
+  </data>
+  <data name="0014 (282.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……この後に、貸す約束をした</value>
+  </data>
+  <data name="0015 (282.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>貸すって、誰に？
+もしかして、キョン？</value>
+  </data>
+  <data name="0016 (282.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0017 (282.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あいつに気を使って急いで読むこと
+なんてないわよ！</value>
+  </data>
+  <data name="0018 (282.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それより、階段を踏み外したり、壁
+に頭をぶつけたりしたら大変だわ</value>
+  </data>
+  <data name="0019 (282.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>本は、今はしまっておきなさい</value>
+  </data>
+  <data name="0020 (282.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……判った</value>
+  </data>
+  <data name="0021 (282.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんはＳＦ小説がお好きなよう
+ですね</value>
+  </data>
+  <data name="0022 (282.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希？　なんでも読んでる気がする
+けど……そうね、ＳＦが多いかも</value>
+  </data>
+  <data name="0023 (282.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんはＳＦはいかがです？</value>
+  </data>
+  <data name="0024 (282.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは……そうねえ、結局は絵空
+事の作り話でしょ？</value>
+  </data>
+  <data name="0025 (282.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それだったら、あたしは現実の怪奇
+現象とかを追いかけた方が</value>
+  </data>
+  <data name="0026 (282.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有意義だと思うわ</value>
+  </data>
+  <data name="0027 (282.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど、一理ありますね</value>
+  </data>
 </root>

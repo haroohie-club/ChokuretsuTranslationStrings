@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,142 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (314.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門は浮世離れしてるっていうか、
+どうも常識が通じない時があるなあ</value>
+  </data>
+  <data name="0001 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あら、それも有希の魅力じゃないの</value>
+  </data>
+  <data name="0002 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いつも無口な文学少女にはそれくら
+いの個性があって丁度いいのよ</value>
+  </data>
+  <data name="0003 (314.ja) KYON (キョン)" xml:space="preserve">
+    <value>……そ、そうか</value>
+  </data>
+  <data name="0004 (314.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの中ではそれで構わないらし
+い……やれやれ</value>
+  </data>
+  <data name="0005 (314.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>浮世ばなれって、あまり聞かない
+言葉ですよね</value>
+  </data>
+  <data name="0006 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。誰かに言われたの？</value>
+  </data>
+  <data name="0007 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>君のそのミリョクは、浮世ばなれ
+してる</value>
+  </data>
+  <data name="0008 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>とか真顔で言うヤツが居たら、
+遠慮無く殴ってもいいわよ</value>
+  </data>
+  <data name="0009 (314.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そんなことは言われたこと
+ないですよぅ</value>
+  </data>
+  <data name="0010 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう？　でも、みくるちゃんって
+食べちゃいたいくらい可愛いから</value>
+  </data>
+  <data name="0011 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こうやって、あーん、って感じで</value>
+  </data>
+  <data name="0012 (314.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ひゃあん、たっ、食べないで
+くださいぃぃ</value>
+  </data>
+  <data name="0013 (314.ja) NAGATO (長門)" xml:space="preserve">
+    <value>バナナマシュマロ串焼きは栄養価
+については問題がない</value>
+  </data>
+  <data name="0014 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、おいしいかどうかは微妙よね</value>
+  </data>
+  <data name="0015 (314.ja) NAGATO (長門)" xml:space="preserve">
+    <value>味覚は個人の感覚に依存する
+数値のみで表現することは困難</value>
+  </data>
+  <data name="0016 (314.ja) NAGATO (長門)" xml:space="preserve">
+    <value>しかし、栄養価は高い
+数値で比較することも可能</value>
+  </data>
+  <data name="0017 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>栄養価ねえ……</value>
+  </data>
+  <data name="0018 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ有希
+ちょっと聞きたいんだけど</value>
+  </data>
+  <data name="0019 (314.ja) NAGATO (長門)" xml:space="preserve">
+    <value>なに</value>
+  </data>
+  <data name="0020 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>食べ物を選ぶときの基準って、普通
+おいしさとかじゃない？</value>
+  </data>
+  <data name="0021 (314.ja) NAGATO (長門)" xml:space="preserve">
+    <value>一般的には、そうかもしれない</value>
+  </data>
+  <data name="0022 (314.ja) NAGATO (長門)" xml:space="preserve">
+    <value>栄養が過不足なく、効率的に摂取
+できる食物が理想的</value>
+  </data>
+  <data name="0023 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……そんなんじゃ、ご飯食べても
+楽しくないんじゃないの？</value>
+  </data>
+  <data name="0024 (314.ja) NAGATO (長門)" xml:space="preserve">
+    <value>食事に楽しむ必要性を
+あまり認めない</value>
+  </data>
+  <data name="0025 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなことないわよ</value>
+  </data>
+  <data name="0026 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいわ、今度みんなでまた、何か
+食べに行きましょう</value>
+  </data>
+  <data name="0027 (314.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……みんなで</value>
+  </data>
+  <data name="0028 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ、悪くないアイディアでしょ</value>
+  </data>
+  <data name="0029 (314.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんは時々浮き世ばなれした
+風に見えることがありますね</value>
+  </data>
+  <data name="0030 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう？　本をたくさん読んでるから
+世の中に興味がないワケじゃないわ</value>
+  </data>
+  <data name="0031 (314.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、僕もそう思うのですが、ふと
+そんな風に思いまして</value>
+  </data>
+  <data name="0032 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>浮き世ばなれしていたら、ＳＯＳ団
+に興味もたないでしょ</value>
+  </data>
+  <data name="0033 (314.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>たしかに、その通りです</value>
+  </data>
+  <data name="0034 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>無口だし、積極的には見えないけど
+あの子なりに興味はあると思うわ</value>
+  </data>
+  <data name="0035 (314.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ。僕の思い違いかも知れません</value>
+  </data>
+  <data name="0036 (314.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くん、人を見た目で判断する
+なんて、あなたらしくないわね</value>
+  </data>
+  <data name="0037 (314.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>まったくです、気をつけます</value>
+  </data>
 </root>

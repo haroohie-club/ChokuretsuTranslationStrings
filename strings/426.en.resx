@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,614 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんなわけで、朝比奈さんと食材の
+買い出しに出かけることになった</value>
+  </data>
+  <data name="0001 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ゴタゴタとしたややこしい合宿に
+一服の清涼剤といったところか</value>
+  </data>
+  <data name="0002 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、バーベキューってどんな
+ものを焼くのがいいんでしょう？</value>
+  </data>
+  <data name="0003 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうですね、焼いて食えるものなら
+なんでもいいんじゃないですか</value>
+  </data>
+  <data name="0004 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>うーん、なにがいいのかな……</value>
+  </data>
+  <data name="0005 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは歩きながらもあれこれ
+考えておられるご様子だ</value>
+  </data>
+  <data name="0006 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ここはひとつアイデアを出した方が
+いいかも知れないな</value>
+  </data>
+  <data name="0007 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>定番だと、トウモロコシなんて
+どうです？</value>
+  </data>
+  <data name="0008 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あっ、キョンくん
+それはおいしそうですね</value>
+  </data>
+  <data name="0009 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そういうどっしりしたお野菜も
+いいかもしれませんね</value>
+  </data>
+  <data name="0010 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>他には何がいいかなぁ……</value>
+  </data>
+  <data name="0011 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんはトウモロコシから
+買うものを連想していらっしゃる</value>
+  </data>
+  <data name="0012 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#P05“レシピ”#P00をメモにしましょう</value>
+  </data>
+  <data name="0013 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんの#P05“レシピ”#P01か</value>
+  </data>
+  <data name="0014 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そいつは役に立ちそうな気がするな</value>
+  </data>
+  <data name="0016 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>ヤキモチなんてどうです？</value>
+  </data>
+  <data name="0017 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あはは、キョンくんったら</value>
+  </data>
+  <data name="0018 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それはワンちゃんも食べないですよ</value>
+  </data>
+  <data name="0019 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは俺の冗談にウケて
+おられるようだが……</value>
+  </data>
+  <data name="0020 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん、犬も食わないのは
+夫婦ゲンカじゃなかったですか？</value>
+  </data>
+  <data name="0021 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え？　あ、あれ？　間違えちゃい
+ました？　は、恥ずかしい……</value>
+  </data>
+  <data name="0022 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんが恥ずかしがる様子は
+どんな#P05“ツッコミ”#P01より素敵です</value>
+  </data>
+  <data name="0023 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この恥じらう様子も、ハルヒの言う
+ところの萌え要素なんだろうな</value>
+  </data>
+  <data name="0025 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ふたりで歩いているうちに
+青果店に到着した</value>
+  </data>
+  <data name="0026 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>いらっしゃい！</value>
+  </data>
+  <data name="0027 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>すみません、見せて下さいな</value>
+  </data>
+  <data name="0028 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>どうぞごゆっくり！</value>
+  </data>
+  <data name="0029 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>店のオヤジさんはやたらに威勢よく
+声をかけてきた</value>
+  </data>
+  <data name="0032 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんが引き気味なのが
+おかしいやらかわいいやら</value>
+  </data>
+  <data name="0034 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>君ら、北高の学生さんだろ？</value>
+  </data>
+  <data name="0035 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい</value>
+  </data>
+  <data name="0036 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>今は夏休みじゃないのかい？</value>
+  </data>
+  <data name="0037 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい、夏休み中です</value>
+  </data>
+  <data name="0038 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>なにか学校の行事でもあるのかい？
+夏休み中に制服で買い物なんて</value>
+  </data>
+  <data name="0039 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっ、ちょっと部活動の関係で……</value>
+  </data>
+  <data name="0040 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>オヤジさんは朝比奈さんばかりに
+話しかけているが、気持ちはわかる</value>
+  </data>
+  <data name="0041 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>日がな一日、とうの立ったご婦人を
+相手にしているのだろう</value>
+  </data>
+  <data name="0042 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>キャベツ畑に天使降臨なわけで
+そりゃあ舞い上がらないはずもない</value>
+  </data>
+  <data name="0044 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>そっちの兄さんは、荷物持ちかい？</value>
+  </data>
+  <data name="0045 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>……まあ、そんなところです</value>
+  </data>
+  <data name="0046 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いきなり俺に話を振ったと思えば
+お愛想程度の会話か</value>
+  </data>
+  <data name="0048 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくん、トウモロコシとか
+キャベツなんかでいいですか？</value>
+  </data>
+  <data name="0049 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>あとはタマネギとかピーマンも
+あると見た目もいいですね</value>
+  </data>
+  <data name="0050 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そっかあ、見た目も大事ですね</value>
+  </data>
+  <data name="0051 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>食欲をそそる色があるといいかも
+知れないですよ。赤いものとか</value>
+  </data>
+  <data name="0052 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>トマトとかでしょうか</value>
+  </data>
+  <data name="0053 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>トマトを焼いたらぐずぐずになり
+そうな気がしますけど……</value>
+  </data>
+  <data name="0054 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>軽く焼いたトマトはおいしいですよ</value>
+  </data>
+  <data name="0055 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんが言うのであればそう
+でしょう。それはぜひ試してみたい</value>
+  </data>
+  <data name="0056 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>じゃあ、これとこれと……
+あと、これも買っていきましょう</value>
+  </data>
+  <data name="0057 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>そんなに買って大丈夫ですか？</value>
+  </data>
+  <data name="0058 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい、ちゃんと計算してますから</value>
+  </data>
+  <data name="0059 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どこから出したのか、朝比奈さんは
+電卓を片手に計算していた</value>
+  </data>
+  <data name="0060 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>携帯に電卓はついているはずだけど
+可愛いミニ電卓が朝比奈さんらしい</value>
+  </data>
+  <data name="0061 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あれ？
+どこにいっちゃったんだろう……？</value>
+  </data>
+  <data name="0062 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうしたんです、朝比奈さん？</value>
+  </data>
+  <data name="0063 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの、えっと、預かってきた
+お金を入れたお財布がないんです</value>
+  </data>
+  <data name="0064 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>ええっ！？</value>
+  </data>
+  <data name="0065 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>どこかに落としたんでしょうか……</value>
+  </data>
+  <data name="0066 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは一気に涙目になって
+オロオロとしていらっしゃる</value>
+  </data>
+  <data name="0067 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>ど、どうしましょうか？</value>
+  </data>
+  <data name="0068 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>大変ですぅ</value>
+  </data>
+  <data name="0069 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一緒になって慌てていると、足元に
+レシートが落ちているのを見つけた</value>
+  </data>
+  <data name="0070 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>……なんだこの高額なレシートは？</value>
+  </data>
+  <data name="0071 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そのレシートはよく見ると、えらく
+長い上にこの店の名前が入っていた</value>
+  </data>
+  <data name="0072 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>金額は……６桁？</value>
+  </data>
+  <data name="0073 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>青果店で十万も買い物をするとは
+ちょっとしたショックだな</value>
+  </data>
+  <data name="0074 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これはハルヒに見せたら面白がる
+かもしれん</value>
+  </data>
+  <data name="0075 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は拾った#P05“高額レシート”#P01を
+ポケットに押し込んだ</value>
+  </data>
+  <data name="0076 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん、ひとまず落ち着いて
+下さい。慌てても仕方ありません</value>
+  </data>
+  <data name="0077 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい。キョンくんごめんなさい
+ちょっとこれを持ってて下さい</value>
+  </data>
+  <data name="0078 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんが手渡してきたのは
+キーホルダーサイズの#P05“電卓”#P01だ</value>
+  </data>
+  <data name="0079 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とりあえず預かっておくとするか
+落ち着いたら返すとしよう</value>
+  </data>
+  <data name="0080 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ここにもないし、ここにもない……</value>
+  </data>
+  <data name="0081 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>女子の制服にはそんなにも財布を
+入れる場所があるのかと驚いたね</value>
+  </data>
+  <data name="0082 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>どこかで落としたという可能性は？</value>
+  </data>
+  <data name="0083 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうかも知れません……</value>
+  </data>
+  <data name="0084 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>涙目で地面を見つめる朝比奈さん</value>
+  </data>
+  <data name="0085 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんな目で見られたら地面も途方に
+くれるのではないかと思う</value>
+  </data>
+  <data name="0086 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふえぇ……どうしようキョンくん</value>
+  </data>
+  <data name="0087 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺の手持ちで足りればいいですが
+あいにく微妙な金額でして</value>
+  </data>
+  <data name="0088 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんの気持ちがバーベキューに
+向いてよかったと喜んだのに……</value>
+  </data>
+  <data name="0089 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>これで少しでも危険が回避出来ると
+思ったのに……</value>
+  </data>
+  <data name="0090 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは涙目を通り越して
+今にも泣き出しそうだった</value>
+  </data>
+  <data name="0091 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>見ているこっちがいたたまれなく
+なるお姿だ</value>
+  </data>
+  <data name="0092 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんとかして差し上げたいところだ
+が、持ち合わせが無いのが情けない</value>
+  </data>
+  <data name="0093 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今の俺の財政状況は、野菜か肉の
+どちらかしか買えない程度しかない</value>
+  </data>
+  <data name="0094 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>とにかく、まだダメだと決まった
+わけじゃないですから</value>
+  </data>
+  <data name="0095 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>で、でもぉ……</value>
+  </data>
+  <data name="0096 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>方法はあるはずです。あきらめず
+頑張りましょう、朝比奈さん</value>
+  </data>
+  <data name="0097 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい……頑張ります</value>
+  </data>
+  <data name="0098 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんから#P05“頑張り”#P01ますと
+言う言葉が聞けただけで安心だ</value>
+  </data>
+  <data name="0099 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>もう一度再確認してみては？</value>
+  </data>
+  <data name="0100 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はいぃ……</value>
+  </data>
+  <data name="0101 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ポケットを探す朝比奈さんだが
+小さな鈴を見つけたらしい</value>
+  </data>
+  <data name="0102 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>それはなんです？</value>
+  </data>
+  <data name="0103 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>何かの鈴みたいですね</value>
+  </data>
+  <data name="0104 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>財布についていたものですかね？</value>
+  </data>
+  <data name="0105 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>よく分かりませんけど……あたしの
+ものじゃありません</value>
+  </data>
+  <data name="0106 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんから#P05“鈴”#P01を受け取った</value>
+  </data>
+  <data name="0107 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いつ朝比奈さんのポケットに
+まぎれ込んだのだろう？</value>
+  </data>
+  <data name="0109 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>どうしたんだい、財布がないのかい</value>
+  </data>
+  <data name="0110 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>ええ、ちょっと……</value>
+  </data>
+  <data name="0111 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>取り込み中に声を掛けないで欲しい
+のだが、商売なのだから仕方がない</value>
+  </data>
+  <data name="0113 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>お金がなくなってバーベキューが
+中止になったら、あたしのせいです</value>
+  </data>
+  <data name="0114 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>と、とにかく落ち着いて下さい</value>
+  </data>
+  <data name="0115 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ここでマジ泣きをされたら大変だ</value>
+  </data>
+  <data name="0116 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんとか朝比奈さんをなぐさめて
+金を工面しないとまずいな</value>
+  </data>
+  <data name="0117 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>いったん戻って古泉と相談するしか
+ないかもしれませんね</value>
+  </data>
+  <data name="0118 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ご、ごめんなさいキョンくん……</value>
+  </data>
+  <data name="0119 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>戻りがてらに財布が見つかれば
+それはそれでラッキーですから</value>
+  </data>
+  <data name="0121 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>だから、財布がないのかい？</value>
+  </data>
+  <data name="0122 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>すみません、落としたらしくて</value>
+  </data>
+  <data name="0123 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>じゃあ、あとでいいよ</value>
+  </data>
+  <data name="0124 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>はい？</value>
+  </data>
+  <data name="0125 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>そっちの可愛いお嬢ちゃんに免じて
+お金は後でいいよ</value>
+  </data>
+  <data name="0126 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふ、ふえぇ？</value>
+  </data>
+  <data name="0127 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>北高の生徒さんだってわかってるし
+なにしろお嬢ちゃん、可愛いから</value>
+  </data>
+  <data name="0128 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>後ろ一行は激しく同意である</value>
+  </data>
+  <data name="0129 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>だから後でいいよ。帰りにでも
+寄って、払ってくれりゃあいい</value>
+  </data>
+  <data name="0130 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え、でも、いいんですか？</value>
+  </data>
+  <data name="0131 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>ああ、いいとも。部活に使うもの
+なんだろうから、持ってお行き</value>
+  </data>
+  <data name="0132 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは美少女だけに、店主の
+親切心を引き出したのであろう</value>
+  </data>
+  <data name="0133 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんな朝比奈さんは、青果店の主
+からうやうやしく野菜を受け取った</value>
+  </data>
+  <data name="0134 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>ありがとうございます、必ずあとで
+届けますから</value>
+  </data>
+  <data name="0135 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>帰りが遅くなるようだったら
+明日でもいいよ、お嬢ちゃん</value>
+  </data>
+  <data name="0136 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ほんとうにいいんですか？</value>
+  </data>
+  <data name="0137 (426.ja) GROCER (八百屋)" xml:space="preserve">
+    <value>あ～あ、いいとも。お嬢ちゃんは
+人を裏切るような子じゃないだろ</value>
+  </data>
+  <data name="0138 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それにも大いに同意である</value>
+  </data>
+  <data name="0139 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん、後払いならなんとか
+出来ると思いますよ</value>
+  </data>
+  <data name="0140 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですか……</value>
+  </data>
+  <data name="0141 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>だから、安心して受け取って
+行きましょう</value>
+  </data>
+  <data name="0142 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい</value>
+  </data>
+  <data name="0143 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ありがとうございます、あとで
+必ずお金を持ってきますね</value>
+  </data>
+  <data name="0144 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ぺこぺことお辞儀をする朝比奈さん
+と共に、俺も挨拶をしておいた</value>
+  </data>
+  <data name="0147 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>何はともあれ材料は手に入った
+後は軍資金をどうするかだ</value>
+  </data>
+  <data name="0148 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>とりあえず野菜は何とかなりました
+肉は、俺が立て替えておきます</value>
+  </data>
+  <data name="0149 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>それで学校に戻りましょう</value>
+  </data>
+  <data name="0150 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい、キョンくん</value>
+  </data>
+  <data name="0152 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>来た道をじっくりと探しながら
+歩いたが、財布は見あたらなかった</value>
+  </data>
+  <data name="0154 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは財布をなくした責任を
+感じてか、道中はずっと涙目だった</value>
+  </data>
+  <data name="0156 (426.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>おそすぎるわよ、キョン！</value>
+  </data>
+  <data name="0157 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>帰りがおそいと我が団長殿は不機嫌
+きわまりない様子でいらっしゃる</value>
+  </data>
+  <data name="0158 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>すまん、ちょっと事情があってな</value>
+  </data>
+  <data name="0159 (426.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、事情ってこれのこと？</value>
+  </data>
+  <data name="0161 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、それはぁ！</value>
+  </data>
+  <data name="0162 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの手に握られていたのは
+なくしたはずの財布だった</value>
+  </data>
+  <data name="0163 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうしてその財布をおまえが持って
+いるのか、説明してもらおうか</value>
+  </data>
+  <data name="0164 (426.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしてお財布を忘れても買い物を
+済ませてこれたのか説明しなさいよ</value>
+  </data>
+  <data name="0165 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>団長様は今なんと仰った？</value>
+  </data>
+  <data name="0166 (426.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんがお財布を忘れたのよ</value>
+  </data>
+  <data name="0167 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふえぇぇ？</value>
+  </data>
+  <data name="0168 (426.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、あんた立て替えれるほど
+お金持ってたわけ？</value>
+  </data>
+  <data name="0169 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、じつは青果店のオヤジが
+朝比奈さんが可愛いからって</value>
+  </data>
+  <data name="0170 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>ツケでいいって言い出したんだ</value>
+  </data>
+  <data name="0171 (426.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それ何の冗談？</value>
+  </data>
+  <data name="0172 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>冗談じゃない、マジだ</value>
+  </data>
+  <data name="0173 (426.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>マジで？</value>
+  </data>
+  <data name="0174 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>大マジだ</value>
+  </data>
+  <data name="0175 (426.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうなの、みくるちゃん？</value>
+  </data>
+  <data name="0176 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい。後で持ってきたらいいよ
+って言ってくれました</value>
+  </data>
+  <data name="0177 (426.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>えらいっ、みくるちゃん！
+あなた、すごいわ！</value>
+  </data>
+  <data name="0178 (426.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ど、どうしてですか？</value>
+  </data>
+  <data name="0179 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>財布を忘れてほめられるのは
+俺としても納得がいかん</value>
+  </data>
+  <data name="0180 (426.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これはみくるちゃんの可愛さの
+勝利だわ！</value>
+  </data>
+  <data name="0181 (426.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さすがはあたしがスカウトした
+団員ねっ！</value>
+  </data>
+  <data name="0182 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なるほど、そこをほめたわけか</value>
+  </data>
+  <data name="0183 (426.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>青果店の主人も見る目があるわっ</value>
+  </data>
+  <data name="0184 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒはいたって上機嫌である</value>
+  </data>
+  <data name="0185 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いろいろ大変だったが不機嫌になる
+よりはマシなのだろう</value>
+  </data>
+  <data name="0186 (426.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それじゃ、あとであんたがお金を
+払いに行ってきなさいよ、キョン</value>
+  </data>
+  <data name="0187 (426.ja) KYON (キョン)" xml:space="preserve">
+    <value>へいへい
+わかってますよ</value>
+  </data>
 </root>

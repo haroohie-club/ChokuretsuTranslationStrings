@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,94 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (232.ja) KYON (キョン)" xml:space="preserve">
+    <value>あの古泉でも、いざという時は幸運
+の女神に祈ったりするそうだ</value>
+  </data>
+  <data name="0001 (232.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>人間、誰だってそうじゃないの？</value>
+  </data>
+  <data name="0002 (232.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ、そうかもな</value>
+  </data>
+  <data name="0003 (232.ja) KYON (キョン)" xml:space="preserve">
+    <value>ってことはハルヒ、お前もか？</value>
+  </data>
+  <data name="0004 (232.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたし？　あたしは無いわ</value>
+  </data>
+  <data name="0005 (232.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>自分の力でなんとかしてみせる自信
+があるもの</value>
+  </data>
+  <data name="0006 (232.ja) KYON (キョン)" xml:space="preserve">
+    <value>……だろうな</value>
+  </data>
+  <data name="0007 (232.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんっていつも冷静だから、</value>
+  </data>
+  <data name="0008 (232.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>神頼みするようなイメージじゃない
+ですよね</value>
+  </data>
+  <data name="0009 (232.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうかもね。なんでも自分の力で
+解決するぞ！　って気概があるわね</value>
+  </data>
+  <data name="0010 (232.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく、キョンも少しはあの気持
+ちを見習えばいいのに</value>
+  </data>
+  <data name="0011 (232.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですね……あはは……</value>
+  </data>
+  <data name="0012 (232.ja) NAGATO (長門)" xml:space="preserve">
+    <value>彼と古泉一樹が、幸運の女神に
+ついて話をしていた</value>
+  </data>
+  <data name="0013 (232.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>幸運の女神ねぇ。願かけとしては
+面白いかもしれないけど</value>
+  </data>
+  <data name="0014 (232.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希も幸運の女神に祈ったり
+するの？</value>
+  </data>
+  <data name="0015 (232.ja) NAGATO (長門)" xml:space="preserve">
+    <value>しない</value>
+  </data>
+  <data name="0016 (232.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよね。会ったことがない女神
+に頼んでもアテにならないもんね</value>
+  </data>
+  <data name="0017 (232.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>幸運の女神はいると思われますか？</value>
+  </data>
+  <data name="0018 (232.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いてもいいんじゃないの？</value>
+  </data>
+  <data name="0019 (232.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いてもいい、ですか</value>
+  </data>
+  <data name="0020 (232.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>神頼みはあたしの趣味じゃないから
+いなくてもいいんだけど</value>
+  </data>
+  <data name="0021 (232.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、世の中には必要な人だって
+いるでしょ？</value>
+  </data>
+  <data name="0022 (232.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何でもありがいいと思うのよね</value>
+  </data>
+  <data name="0023 (232.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど、幽霊と同じで神様もいた
+ほうがいいということですね</value>
+  </data>
+  <data name="0024 (232.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だってその方が面白そうでしょ</value>
+  </data>
+  <data name="0025 (232.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうかもしれませんね</value>
+  </data>
 </root>

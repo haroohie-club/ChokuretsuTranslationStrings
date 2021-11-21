@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,208 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (014.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、実は告白しなきゃならない
+ことがある</value>
+  </data>
+  <data name="0001 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何よ？　つまんないこと言ったら
+死刑だからね</value>
+  </data>
+  <data name="0002 (014.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんを泣かせてしまったんだ</value>
+  </data>
+  <data name="0003 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、ちょっとあんたみくるちゃ
+んにいったい何をしたのよ！？</value>
+  </data>
+  <data name="0004 (014.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの足が止まった、よし</value>
+  </data>
+  <data name="0005 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>事と次第によっちゃ、死刑なんて
+生やさしいって目に合わすからね</value>
+  </data>
+  <data name="0006 (014.ja) KYON (キョン)" xml:space="preserve">
+    <value>それも仕方ないかもしれないな</value>
+  </data>
+  <data name="0007 (014.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺はなんと残酷なことをして
+しまったのだろう</value>
+  </data>
+  <data name="0008 (014.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>セリフが棒読みになるのは
+いたしかたないだろう</value>
+  </data>
+  <data name="0009 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいからさっさと白状しなさい！</value>
+  </data>
+  <data name="0010 (014.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もう少し足止めしておきたいが
+ハルヒをあまり怒らせるのもマズイ</value>
+  </data>
+  <data name="0011 (014.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんに俺が知ってる怪談を
+話してしまったんだ</value>
+  </data>
+  <data name="0012 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はあ？</value>
+  </data>
+  <data name="0013 (014.ja) KYON (キョン)" xml:space="preserve">
+    <value>大して怖い話でもなかったんだが</value>
+  </data>
+  <data name="0014 (014.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それに話の核心に触れる前に拒絶
+されてしまったんだが</value>
+  </data>
+  <data name="0015 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それだけ？</value>
+  </data>
+  <data name="0016 (014.ja) KYON (キョン)" xml:space="preserve">
+    <value>それだけだ</value>
+  </data>
+  <data name="0017 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>本当に、それだけ？</value>
+  </data>
+  <data name="0018 (014.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>重々しくうなずいてみる</value>
+  </data>
+  <data name="0019 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。それはイケナイわね</value>
+  </data>
+  <data name="0020 (014.ja) KYON (キョン)" xml:space="preserve">
+    <value>うむ……まずかった。罪を認めよう</value>
+  </data>
+  <data name="0021 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>一番の罪は、みくるちゃんが泣く程
+怖い怪談を知っていながら</value>
+  </data>
+  <data name="0022 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしに話さなかったってことね！
+さあ、今すぐ話しなさい！</value>
+  </data>
+  <data name="0024 (014.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺はハイキョの怪談を話してみた
+学校から興味を移すことを祈るが</value>
+  </data>
+  <data name="0025 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……なにそれ
+怖くも何ともないじゃない</value>
+  </data>
+  <data name="0026 (014.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一刀両断だが、時間を稼げただけ
+よしとしよう</value>
+  </data>
+  <data name="0027 (014.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、あたし、キョンくんの
+前で泣いてしまったんです</value>
+  </data>
+  <data name="0028 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>えっ、みくるちゃん、キョンに何か
+泣くようなことされたの！？</value>
+  </data>
+  <data name="0029 (014.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ち、違います……あれ？　された
+んでしょうか？</value>
+  </data>
+  <data name="0030 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンは死刑ね！</value>
+  </data>
+  <data name="0031 (014.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ひゃうっ、死刑って大げさですよお</value>
+  </data>
+  <data name="0032 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だって何かされたんでしょう？</value>
+  </data>
+  <data name="0033 (014.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんに怖い話を聞かされ
+そうになって、それで……</value>
+  </data>
+  <data name="0034 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>怖い話……恐がりのみくるちゃんに
+それはイケナイわ。死刑決定ね！</value>
+  </data>
+  <data name="0035 (014.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ああ～、やめてください～、泣いて
+しまったあたしが悪いんですうっ！</value>
+  </data>
+  <data name="0036 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>冗談よ</value>
+  </data>
+  <data name="0037 (014.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>うっ……冗談ですか？　ホントに？</value>
+  </data>
+  <data name="0038 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でもみくるちゃん、一言いいかしら</value>
+  </data>
+  <data name="0039 (014.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい</value>
+  </data>
+  <data name="0040 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>涙は乙女の最後の武器なんだから
+軽々しく流したらダメよ</value>
+  </data>
+  <data name="0041 (014.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涙って……武器……なんですか？</value>
+  </data>
+  <data name="0042 (014.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるが、泣いたらしい</value>
+  </data>
+  <data name="0043 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、有希
+なんで、みくるちゃんが泣いたの？</value>
+  </data>
+  <data name="0044 (014.ja) NAGATO (長門)" xml:space="preserve">
+    <value>怪談を聞かされたから</value>
+  </data>
+  <data name="0045 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰に？
+まさかキョンじゃないでしょうね？</value>
+  </data>
+  <data name="0046 (014.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0047 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなに怖い怪談なのかしら</value>
+  </data>
+  <data name="0048 (014.ja) NAGATO (長門)" xml:space="preserve">
+    <value>内容は聞いていない</value>
+  </data>
+  <data name="0049 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンったら、そういう話はまず
+あたしにするべきだわ</value>
+  </data>
+  <data name="0050 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>会ったら、きっちり問い詰めて
+やらなくちゃ</value>
+  </data>
+  <data name="0051 (014.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんが涙を浮かべていた
+そうですよ</value>
+  </data>
+  <data name="0052 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんが？　何で泣いたり
+したのかしら？</value>
+  </data>
+  <data name="0053 (014.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それなんですが、怪談を聞いて
+怯えたせいらしいです</value>
+  </data>
+  <data name="0054 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>恐がりのみくるちゃんを怯えさせる
+なんて、誰がそんな意地悪をしたの</value>
+  </data>
+  <data name="0055 (014.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼は意地悪のつもりではなかった
+ようですが</value>
+  </data>
+  <data name="0056 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>彼って、キョンがやったのね</value>
+  </data>
+  <data name="0057 (014.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そういうことらしいですね</value>
+  </data>
+  <data name="0058 (014.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンをとっちめてやらなくちゃ！</value>
+  </data>
 </root>

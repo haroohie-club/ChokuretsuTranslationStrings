@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,368 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>トイレにハルヒが入る可能性を
+考えると大変だ</value>
+  </data>
+  <data name="0001 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どこのトイレに入るかなんて予想も
+出来ないならな</value>
+  </data>
+  <data name="0002 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一通り細工をするほかはない</value>
+  </data>
+  <data name="0003 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>ドライバー１本で外れるのは簡単だ
+数もそんなに多いわけじゃない</value>
+  </data>
+  <data name="0004 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……よし、外れた
+清掃用具入れに鏡を隠せば終わりだ</value>
+  </data>
+  <data name="0005 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>ここのトイレで一通り終わりか</value>
+  </data>
+  <data name="0006 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あとは昇降口の鏡だけだな</value>
+  </data>
+  <data name="0007 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>……これはどうにもならんだろう</value>
+  </data>
+  <data name="0008 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>外すとしても大きすぎる</value>
+  </data>
+  <data name="0009 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>１人じゃ支えきれないだろうし
+外せたところで隠す場所もない</value>
+  </data>
+  <data name="0010 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんとか外して、どこかの教室に
+隠すしかないのか</value>
+  </data>
+  <data name="0011 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし、鏡の重さがわからない
+無理して壊してしまう可能性もある</value>
+  </data>
+  <data name="0012 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうすりゃいいんだろうな……</value>
+  </data>
+  <data name="0013 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>このままにしておいて、万が一にも
+ハルヒに怪奇現象を見られたら……</value>
+  </data>
+  <data name="0014 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>世界の危機、だよな</value>
+  </data>
+  <data name="0015 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こんなことで危機に陥る世界も
+どうかと思うが</value>
+  </data>
+  <data name="0016 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>やらなくちゃまずいんだろうな</value>
+  </data>
+  <data name="0017 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とはいえ、どうする？</value>
+  </data>
+  <data name="0018 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>世界の危機だから、鏡の１枚ぐらい
+犠牲にしてもいいのか？</value>
+  </data>
+  <data name="0019 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0020 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>１人で外してどこかへ隠す間に
+割ってしまうこともあるだろう</value>
+  </data>
+  <data name="0021 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それを考えれば、最終手段しかない</value>
+  </data>
+  <data name="0022 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>グズグズしている暇はないな</value>
+  </data>
+  <data name="0023 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>蹴り飛ばして割れてくれればいいが</value>
+  </data>
+  <data name="0024 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>びくともしない</value>
+  </data>
+  <data name="0025 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この程度では割れないのか</value>
+  </data>
+  <data name="0026 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ドライバーで叩いてみるか</value>
+  </data>
+  <data name="0027 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>傷ひとつついていない</value>
+  </data>
+  <data name="0028 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>強化ガラスで出来ているのか？</value>
+  </data>
+  <data name="0029 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>かくなるうえは……</value>
+  </data>
+  <data name="0030 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>勢いをつけて、両足で飛び蹴りする
+しかない</value>
+  </data>
+  <data name="0031 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ウソだろ</value>
+  </data>
+  <data name="0032 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>人間１人が勢いつけて飛び蹴りを
+しても、割れないなんて</value>
+  </data>
+  <data name="0033 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>それほど丈夫ってことなのか</value>
+  </data>
+  <data name="0034 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どうすればいいんだろう……</value>
+  </data>
+  <data name="0035 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門に相談するしかないのか？</value>
+  </data>
+  <data name="0036 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>なにか異常な感じもするし、長門
+に相談するのがよさそうだな</value>
+  </data>
+  <data name="0037 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門を探すのは時間が掛かりそう
+だが、背に腹は代えられん</value>
+  </data>
+  <data name="0038 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>探すしかないな</value>
+  </data>
+  <data name="0040 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>屋上で長門を見つけた</value>
+  </data>
+  <data name="0041 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、聞きたいことがあるんだ</value>
+  </data>
+  <data name="0042 (511.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……なに</value>
+  </data>
+  <data name="0043 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>昇降口の鏡なんだが、蹴ろうが
+突こうがびくともしないんだ</value>
+  </data>
+  <data name="0044 (511.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0045 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうすればいいと思う？</value>
+  </data>
+  <data name="0046 (511.ja) NAGATO (長門)" xml:space="preserve">
+    <value>校舎はすでに異空間に近い属性を
+持っている</value>
+  </data>
+  <data name="0047 (511.ja) NAGATO (長門)" xml:space="preserve">
+    <value>物理的な手段で鏡を破壊することは
+現状において不可能</value>
+  </data>
+  <data name="0048 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>ということは、諦めるしかないのか</value>
+  </data>
+  <data name="0049 (511.ja) NAGATO (長門)" xml:space="preserve">
+    <value>特異点を消すモップ</value>
+  </data>
+  <data name="0050 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、これか？</value>
+  </data>
+  <data name="0051 (511.ja) NAGATO (長門)" xml:space="preserve">
+    <value>それに#P05“新機能”#P00を追加する</value>
+  </data>
+  <data name="0052 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>#P05“新機能”#P00って……</value>
+  </data>
+  <data name="0053 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いきなりモップが光りやがった</value>
+  </data>
+  <data name="0054 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>な、なんだっ！？</value>
+  </data>
+  <data name="0055 (511.ja) NAGATO (長門)" xml:space="preserve">
+    <value>モップで擦った所に限り、一時的に
+空間の構成情報が正常化される</value>
+  </data>
+  <data name="0056 (511.ja) NAGATO (長門)" xml:space="preserve">
+    <value>すぐに異常に復帰するが、その間に
+破壊することが可能</value>
+  </data>
+  <data name="0057 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>なるほど……
+ありがとうな、長門</value>
+  </data>
+  <data name="0058 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さっそくこのモップで鏡を割ろう</value>
+  </data>
+  <data name="0060 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>モップで擦って、すぐに叩けば……</value>
+  </data>
+  <data name="0061 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>ていっ！</value>
+  </data>
+  <data name="0062 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>よしっ！</value>
+  </data>
+  <data name="0063 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>鏡が割れた。これでハルヒが鏡を
+みることはない</value>
+  </data>
+  <data name="0064 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>少々手荒だったが、仕方がないな</value>
+  </data>
+  <data name="0065 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>な、なんだ……
+割れた鏡が元通りにっ！？</value>
+  </data>
+  <data name="0066 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>粉々に割れた鏡は、みるみるうちに
+繋ぎ合わさって元に戻ってゆく</value>
+  </data>
+  <data name="0067 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門は一時的に正常化されるって
+言ってたな</value>
+  </data>
+  <data name="0068 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし、まさか再生するとは……</value>
+  </data>
+  <data name="0069 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>そんな時間はないな、長門がどこに
+いるのかも今はわからないし</value>
+  </data>
+  <data name="0070 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>力尽くで蹴り倒すしかないだろう</value>
+  </data>
+  <data name="0071 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>連続で蹴れば、いずれ割れるかも</value>
+  </data>
+  <data name="0072 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>くそっ！</value>
+  </data>
+  <data name="0073 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どうだっ！</value>
+  </data>
+  <data name="0074 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……足がジンジンしてきた
+#P05“足のしびれ”#P01だけで割れやしない</value>
+  </data>
+  <data name="0075 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうすることもできないのか……</value>
+  </data>
+  <data name="0076 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0077 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ちょっと待て、割らずに隠す方法が
+ないこともない</value>
+  </data>
+  <data name="0078 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なにかで鏡をおおってやれば、割る
+までもないんじゃないのか？</value>
+  </data>
+  <data name="0079 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>先に気付けばよかったな……</value>
+  </data>
+  <data name="0080 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とはいえ、大きな鏡を隠せるだけの
+ものには、なにがある？</value>
+  </data>
+  <data name="0081 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>カーテン、緞帳、テントとかシート
+ぐらいしか思いつかないな</value>
+  </data>
+  <data name="0082 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>どこを探すだかだな……</value>
+  </data>
+  <data name="0083 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>……体育館で探すか</value>
+  </data>
+  <data name="0084 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>体育館なら、大きなカーテンや緞帳
+があるはずだ</value>
+  </data>
+  <data name="0085 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……あそこへまた行くのはちょっと
+嫌なのだが</value>
+  </data>
+  <data name="0086 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>行くしかないな</value>
+  </data>
+  <data name="0087 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>またアレが出たりしないだろうな</value>
+  </data>
+  <data name="0088 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>手っ取り早く探して引き返そう</value>
+  </data>
+  <data name="0089 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>カーテンか緞帳か
+大きくて手頃な布はないかな</value>
+  </data>
+  <data name="0090 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>おっ、#P05“カーテン”#P00発見</value>
+  </data>
+  <data name="0091 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>鏡を覆うのに充分な大きさがあり
+そうな#P05“カーテン”#P01だな</value>
+  </data>
+  <data name="0092 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>よし、これを借りてさっさと退却
+しよう</value>
+  </data>
+  <data name="0093 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>体育館はなんとなくなあ</value>
+  </data>
+  <data name="0094 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>また奇っ怪な事が起きると嫌だ
+から、手っ取り早く本館で探そう</value>
+  </data>
+  <data name="0095 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>雨漏りでも避けていたのかな</value>
+  </data>
+  <data name="0096 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>手頃な#P05“ビニールシート”#P01を発見し
+た</value>
+  </data>
+  <data name="0097 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>特に濡れている様子もないし
+借りていっても問題ないか</value>
+  </data>
+  <data name="0098 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>よし、これで鏡を覆えば一時しのぎ
+にはなりそうだ</value>
+  </data>
+  <data name="0099 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>これを鏡に被せて……</value>
+  </data>
+  <data name="0100 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>覆いを被せたら、弾かれるかとも
+思ったが……</value>
+  </data>
+  <data name="0101 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>しっかりと覆いで目隠しできてるな</value>
+  </data>
+  <data name="0102 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これでハルヒが鏡を直視することは
+避けられそうだ</value>
+  </data>
+  <data name="0103 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>午前２時２２分２２秒</value>
+  </data>
+  <data name="0104 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その瞬間だけ鏡を見せなければ
+怪奇現象は起きないはずだ</value>
+  </data>
+  <data name="0105 (511.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒのやつ、これはなによとか
+騒いで暴れそうだな</value>
+  </data>
+  <data name="0106 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その時は体を張って、力尽くで
+押さえ込むしかあるまい</value>
+  </data>
+  <data name="0107 (511.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ひとまず、これはこれで良しとする
+しかないな</value>
+  </data>
 </root>

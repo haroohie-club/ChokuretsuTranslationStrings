@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,171 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (278.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あのっ、キョンくんから聞いた
+んですけどっ</value>
+  </data>
+  <data name="0001 (278.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんが、猫に似てるとか、似て
+ないとか……</value>
+  </data>
+  <data name="0002 (278.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そんな話を、コンピ研に行った時に
+涼宮さんがしてたって</value>
+  </data>
+  <data name="0003 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、その話。そうそう、有希って
+なんとなく猫っぽいイメージでしょ</value>
+  </data>
+  <data name="0004 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>見た目も、なんかそんな感じがする
+のよね。そう思わない？</value>
+  </data>
+  <data name="0005 (278.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そう……ですね、ちょっと雰囲気が
+似てるかもしれませんね</value>
+  </data>
+  <data name="0007 (278.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>有希ちゃん、ニャンコに似てるぅ？</value>
+  </data>
+  <data name="0008 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>妹ちゃんには、いまいちピンと
+来ないかしら？</value>
+  </data>
+  <data name="0009 (278.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>ん～、わかんないかも……</value>
+  </data>
+  <data name="0010 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、こういう風に想像してみて</value>
+  </data>
+  <data name="0011 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希が、可愛い猫の耳をつけてるの
+鈴のついた首輪と、尻尾もセットで</value>
+  </data>
+  <data name="0012 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>似合うと思わない？</value>
+  </data>
+  <data name="0013 (278.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>うん、すっごく似合うと思う</value>
+  </data>
+  <data name="0014 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしのイメージとしては、有希は
+真っ白な猫なんだけど</value>
+  </data>
+  <data name="0015 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、意外に黒猫も悪くないのよね
+みくるちゃんは、どっち派？</value>
+  </data>
+  <data name="0017 (278.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっ？　あ、あたしですかぁ？</value>
+  </data>
+  <data name="0018 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>黒猫だと、ちょっとイタズラっぽい
+感じがするじゃない？</value>
+  </data>
+  <data name="0019 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それって、有希とは少し違う感じも
+するし……けど似合いそうだし</value>
+  </data>
+  <data name="0020 (278.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ど、どっちも似合うと思います</value>
+  </data>
+  <data name="0021 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうねえ、白も黒も捨てがたいわ
+この問題は保留にしておきましょう</value>
+  </data>
+  <data name="0023 (278.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>有希ちゃんが猫だったら、みくる
+ちゃんは、どんなイメージ？</value>
+  </data>
+  <data name="0024 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん？　う～ん……</value>
+  </data>
+  <data name="0025 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは、やっぱりウサギね
+これは外せないと思うの！</value>
+  </data>
+  <data name="0027 (278.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あたし、ウサギですかぁ？</value>
+  </data>
+  <data name="0028 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バニースーツは、ばっちり似合って
+たわ！　あたしの読み通りに！</value>
+  </data>
+  <data name="0029 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、今度ぜひ、有希に猫耳の
+ヘアバンドをつけましょう</value>
+  </data>
+  <data name="0030 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>体にぴったりフィットする、全身用
+の猫スーツも売ってるし……</value>
+  </data>
+  <data name="0031 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>猫コスプレの有希、バニーガールの
+みくるちゃんと揃えば</value>
+  </data>
+  <data name="0032 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>萌え的には最強ね！</value>
+  </data>
+  <data name="0034 (278.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>ハルにゃんは、どうするの？</value>
+  </data>
+  <data name="0035 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたし？　あたしは……そうねえ</value>
+  </data>
+  <data name="0036 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バニースーツがもう一着あるけど
+みくるちゃんと同じになっちゃうし</value>
+  </data>
+  <data name="0037 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やっぱり、ここは狼かしらね
+狼スーツって売ってるのかしら？</value>
+  </data>
+  <data name="0039 (278.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>その前に、長門さんが猫の格好を
+してくれるかどうか……</value>
+  </data>
+  <data name="0040 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>してくれるわよ</value>
+  </data>
+  <data name="0041 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>というか、有希なら
+だまってうなずいてくれそうだけど</value>
+  </data>
+  <data name="0042 (278.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですね。そんな気がします</value>
+  </data>
+  <data name="0043 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希の猫スーツは、なかなか良い
+アイデアね。いつか実行しましょう</value>
+  </data>
+  <data name="0044 (278.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#P06……長門さん、ごめんなさい</value>
+  </data>
+  <data name="0045 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにか言った？</value>
+  </data>
+  <data name="0046 (278.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>い、いえ、なにもっ</value>
+  </data>
+  <data name="0047 (278.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>キョンくんは、何が似合うかなあ？</value>
+  </data>
+  <data name="0048 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン？　決まってるじゃない</value>
+  </data>
+  <data name="0049 (278.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ナマケモノ。他に選択肢は無いわ</value>
+  </data>
+  <data name="0051 (278.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あはは……</value>
+  </data>
+  <data name="0052 (278.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>なんだか、ヘンな方向に話が逸れた
+けど、時間は稼げたみたいだし……</value>
+  </data>
+  <data name="0053 (278.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくん、今のうちにがんばって
+ください</value>
+  </data>
 </root>

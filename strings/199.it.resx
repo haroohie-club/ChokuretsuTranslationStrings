@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,178 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (199.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、ハルヒ。疲れているときは
+糖分をとると良いらしいな</value>
+  </data>
+  <data name="0001 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>またいきなり……何の話よ？</value>
+  </data>
+  <data name="0002 (199.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉が、そういって俺にアメ玉を
+くれたんだ。常備しているらしいな</value>
+  </data>
+  <data name="0003 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ？　古泉くんって、そんなもの
+持ち歩いてたのね。知らなかったわ</value>
+  </data>
+  <data name="0004 (199.ja) KYON (キョン)" xml:space="preserve">
+    <value>で、ココにそのアメ玉があるんだが</value>
+  </data>
+  <data name="0005 (199.ja) KYON (キョン)" xml:space="preserve">
+    <value>欲しかったら、やるぞ</value>
+  </data>
+  <data name="0006 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>別に疲れてないし、欲しくないわよ</value>
+  </data>
+  <data name="0007 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなこと言って、ちょっとでも
+休憩しようとしてるんでしょ</value>
+  </data>
+  <data name="0008 (199.ja) KYON (キョン)" xml:space="preserve">
+    <value>……俺は疲れてるからな</value>
+  </data>
+  <data name="0009 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあキョン、あんたが食べなさい
+その古泉くんにもらったアメ玉</value>
+  </data>
+  <data name="0010 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ただし、歩きながら食べること</value>
+  </data>
+  <data name="0011 (199.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、俺も今は遠慮しておこう</value>
+  </data>
+  <data name="0012 (199.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうだ。涼宮さん、アメでも
+食べませんかぁ？</value>
+  </data>
+  <data name="0013 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アメ？　アメって、アメ玉のこと？</value>
+  </data>
+  <data name="0014 (199.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい。古泉くんにもらったんです</value>
+  </data>
+  <data name="0015 (199.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>正確に言うと、古泉くんにもらった
+キョンくんから、もらいました</value>
+  </data>
+  <data name="0016 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにそれ。キョンのやつ、人から
+もらった物を横流ししたの？</value>
+  </data>
+  <data name="0017 (199.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>よ、横流しとは少し違うと思います
+けど……</value>
+  </data>
+  <data name="0018 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アメ玉ねえ……まあ、今は遠慮して
+おくわ</value>
+  </data>
+  <data name="0019 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>この後、お昼ご飯も食べなくちゃ
+いけないし</value>
+  </data>
+  <data name="0020 (199.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうですかぁ……</value>
+  </data>
+  <data name="0021 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それより、みくるちゃん。もっと
+ペース上げて走らなきゃ！</value>
+  </data>
+  <data name="0022 (199.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、走るんですかぁ？</value>
+  </data>
+  <data name="0023 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>早歩きでもいいけど、急ぐわよ！</value>
+  </data>
+  <data name="0024 (199.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はぁぁい……</value>
+  </data>
+  <data name="0025 (199.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これ、食べて</value>
+  </data>
+  <data name="0026 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え、なに？　突然どうしたの？
+これって……アメ玉？</value>
+  </data>
+  <data name="0027 (199.ja) NAGATO (長門)" xml:space="preserve">
+    <value>糖分を補給。脳神経、シナプス活動
+はエネルギーを大量に消費する</value>
+  </data>
+  <data name="0028 (199.ja) NAGATO (長門)" xml:space="preserve">
+    <value>食べて</value>
+  </data>
+  <data name="0029 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希が持ってきたの？　これ</value>
+  </data>
+  <data name="0030 (199.ja) NAGATO (長門)" xml:space="preserve">
+    <value>わたしじゃない</value>
+  </data>
+  <data name="0031 (199.ja) NAGATO (長門)" xml:space="preserve">
+    <value>所持していたのは、古泉一樹</value>
+  </data>
+  <data name="0032 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、古泉くんが……人は見かけに
+よらないわね</value>
+  </data>
+  <data name="0033 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、今はいいわ。それは有希が
+食べちゃいなさい</value>
+  </data>
+  <data name="0034 (199.ja) NAGATO (長門)" xml:space="preserve">
+    <value>わたしはいい</value>
+  </data>
+  <data name="0035 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう？　じゃあもらっておくわ
+後で食べるから</value>
+  </data>
+  <data name="0036 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今はそれより、音楽室よ！</value>
+  </data>
+  <data name="0037 (199.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0038 (199.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さん、少しお疲れではありませ
+んか？　調査に続く調査で……</value>
+  </data>
+  <data name="0039 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ううん、別に疲れてはいないけど</value>
+  </data>
+  <data name="0040 (199.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですか。もしお疲れでしたら
+これを差し上げようと思いまして</value>
+  </data>
+  <data name="0041 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにそれ？　アメ玉？</value>
+  </data>
+  <data name="0042 (199.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ。疲れているとき……特に頭脳
+労働には糖分が一番です</value>
+  </data>
+  <data name="0043 (199.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>推理一つとっても、脳内では活発に
+神経細胞が動いてますからね</value>
+  </data>
+  <data name="0044 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>気持ちだけで十分だわ。あたしの脳
+は、ヤワには出来てないから</value>
+  </data>
+  <data name="0045 (199.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おみそれいたしました</value>
+  </data>
+  <data name="0046 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも古泉くん、そんなモノずっと
+持ち歩いてるの？</value>
+  </data>
+  <data name="0047 (199.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、たまたまですよ</value>
+  </data>
+  <data name="0048 (199.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンの妹ちゃんにあげたら、喜ぶ
+かもしれないわ</value>
+  </data>
+  <data name="0049 (199.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうしましょう</value>
+  </data>
 </root>

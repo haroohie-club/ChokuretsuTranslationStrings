@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,131 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (072.ja) KYON (キョン)" xml:space="preserve">
+    <value>なあ。朝比奈さんって結構天然が
+入ってるよな？</value>
+  </data>
+  <data name="0001 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、みくるちゃんがなんかボケ
+やってくれたの？</value>
+  </data>
+  <data name="0002 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>楽しそうな話ね、それ聞かせなさい</value>
+  </data>
+  <data name="0003 (072.ja) KYON (キョン)" xml:space="preserve">
+    <value>よし、あのな……ってその、なんだ</value>
+  </data>
+  <data name="0004 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの？</value>
+  </data>
+  <data name="0005 (072.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>花咲くコンピ研部員の話はできない
+し、さてどう話したものか</value>
+  </data>
+  <data name="0006 (072.ja) KYON (キョン)" xml:space="preserve">
+    <value>コンピ研部員が倒れてたんだよ</value>
+  </data>
+  <data name="0007 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんで？</value>
+  </data>
+  <data name="0008 (072.ja) KYON (キョン)" xml:space="preserve">
+    <value>知らん。寝不足だったんじゃないか</value>
+  </data>
+  <data name="0009 (072.ja) KYON (キョン)" xml:space="preserve">
+    <value>倒れてた部員のデコに上履き乗せて
+こうすれば大丈夫だって言ってた</value>
+  </data>
+  <data name="0010 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほど、みくるちゃんらしい
+ボケだわ</value>
+  </data>
+  <data name="0011 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、どういう意図なのかしらね
+後で聞かなくっちゃ</value>
+  </data>
+  <data name="0012 (072.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>すみません、朝比奈さん
+でっち上げてしまいました</value>
+  </data>
+  <data name="0013 (072.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、あたしって時々
+ボケたりしてるんでしょうか？</value>
+  </data>
+  <data name="0014 (072.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの……してませんよね？</value>
+  </data>
+  <data name="0015 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大丈夫よ。もちろんしてるわ</value>
+  </data>
+  <data name="0016 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>
+って、今さら気づいたの？</value>
+  </data>
+  <data name="0017 (072.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はぅっ、そ、そんなぁ
+あたしはそんなつもりじゃないのに</value>
+  </data>
+  <data name="0018 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ボケもボケ、天然成分１００％って
+感じね</value>
+  </data>
+  <data name="0019 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも喜びなさい。天然ボケも重要な
+萌えポイントよ</value>
+  </data>
+  <data name="0020 (072.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうなんですかぁ？</value>
+  </data>
+  <data name="0021 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ、だから安心してこれからも
+ボケをかましてちょうだい</value>
+  </data>
+  <data name="0022 (072.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、それは困りますぅ</value>
+  </data>
+  <data name="0023 (072.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるはウカツなことが多い</value>
+  </data>
+  <data name="0024 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>違うわ、有希。ああいうのはウカツ
+じゃなくてボケっていうのよ</value>
+  </data>
+  <data name="0025 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>しかも天然。おいしいキャラだわ！</value>
+  </data>
+  <data name="0026 (072.ja) NAGATO (長門)" xml:space="preserve">
+    <value>天然……無意識にやっているという
+こと</value>
+  </data>
+  <data name="0027 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう。みくるちゃんの鋭いボケは
+あれは計算には見えないわ</value>
+  </data>
+  <data name="0028 (072.ja) NAGATO (長門)" xml:space="preserve">
+    <value>では、見習えない</value>
+  </data>
+  <data name="0029 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね
+……見習わない方が、いいと思うわ</value>
+  </data>
+  <data name="0030 (072.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いやはや、朝比奈さんにもなかなか
+お茶目なところがおありですね</value>
+  </data>
+  <data name="0031 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>知らなかったの？　みくるちゃんの
+天然なキャラクター性を？</value>
+  </data>
+  <data name="0032 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>自覚なしにボケをかましてくれるか
+ら、つい油断して笑っちゃうのよね</value>
+  </data>
+  <data name="0033 (072.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それもまた、朝比奈さんの魅力の
+一つ、といったところでしょうか</value>
+  </data>
+  <data name="0034 (072.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうそう。だって可愛いじゃない
+そういう抜けたところも</value>
+  </data>
 </root>

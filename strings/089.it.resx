@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,136 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (089.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんだけどな、時々えらく
+ナイスな時があるな</value>
+  </data>
+  <data name="0001 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もうちょっと何か言い方があると思
+うけど、その意見には同意するわ</value>
+  </data>
+  <data name="0002 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>可愛いし、お茶はおいしいし、いい
+ところでドジってくれるし！</value>
+  </data>
+  <data name="0003 (089.ja) KYON (キョン)" xml:space="preserve">
+    <value>それはそうだが、ナイスアイデアを
+出してくれる時があってな</value>
+  </data>
+  <data name="0004 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしが連れてきたんだから
+当然よねっ</value>
+  </data>
+  <data name="0005 (089.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>無理矢理だろ。あれは連れてきたと
+言うより強制連行だ</value>
+  </data>
+  <data name="0006 (089.ja) KYON (キョン)" xml:space="preserve">
+    <value>念のために聞くが、俺は？</value>
+  </data>
+  <data name="0007 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>念のために言っとくけど、ナイスな
+ところを見せてから聞きなさいよね</value>
+  </data>
+  <data name="0008 (089.ja) KYON (キョン)" xml:space="preserve">
+    <value>はいはい、聞いた俺がバカでした</value>
+  </data>
+  <data name="0009 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>わかったら、テキパキ歩く！</value>
+  </data>
+  <data name="0010 (089.ja) KYON (キョン)" xml:space="preserve">
+    <value>はいよ</value>
+  </data>
+  <data name="0011 (089.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>人から褒めて貰えるのは、嬉しい
+ですね</value>
+  </data>
+  <data name="0012 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしはそれほどでもないけどね</value>
+  </data>
+  <data name="0013 (089.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっ、そうなんですか？</value>
+  </data>
+  <data name="0014 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしの場合、出来ることは出来て
+当たり前っていう感覚なのよ</value>
+  </data>
+  <data name="0015 (089.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はぁ。何て言うか、やっぱり
+涼宮さんはすごいですね</value>
+  </data>
+  <data name="0016 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、それって個人差だもの</value>
+  </data>
+  <data name="0017 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんはみくるちゃんの
+感覚でいいと思うわ</value>
+  </data>
+  <data name="0018 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんが褒められてうれしい
+のなら、いくらでも褒めてあげるわ</value>
+  </data>
+  <data name="0019 (089.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、ありがとうございます……</value>
+  </data>
+  <data name="0020 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>早く昇降口に行かなくちゃ！</value>
+  </data>
+  <data name="0021 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どんな風にしてもう一人の自分が
+鏡から出てくるのか、楽しみね！</value>
+  </data>
+  <data name="0022 (089.ja) NAGATO (長門)" xml:space="preserve">
+    <value>待って
+情報伝達の必要がある</value>
+  </data>
+  <data name="0023 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、どうかした？</value>
+  </data>
+  <data name="0024 (089.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるが、ナイスなアイデア
+を出したと言っていた</value>
+  </data>
+  <data name="0025 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>怪奇現象を早く見られる方法とか？
+だとしたら本当にナイスアイデアね</value>
+  </data>
+  <data name="0026 (089.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そのようには聞いていない</value>
+  </data>
+  <data name="0027 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふぅん、じゃ今はいいわ</value>
+  </data>
+  <data name="0028 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんには悪いけど
+今は鏡の事で頭が一杯だからね！</value>
+  </data>
+  <data name="0029 (089.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0030 (089.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんがナイスだと誉められた
+と喜んでいましたよ</value>
+  </data>
+  <data name="0031 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そのダサイ誉め言葉はキョンね？</value>
+  </data>
+  <data name="0032 (089.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そのようですね</value>
+  </data>
+  <data name="0033 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もうキョンったら、もう少し気の
+利いた発言はできないのかしらね</value>
+  </data>
+  <data name="0034 (089.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>当意即妙な言動は彼らしくない
+僕はそう思いますがね</value>
+  </data>
+  <data name="0035 (089.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いっそ素朴でほのぼのとして
+きませんか？</value>
+  </data>
+  <data name="0036 (089.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……古泉くんの趣味も変だわね</value>
+  </data>
 </root>

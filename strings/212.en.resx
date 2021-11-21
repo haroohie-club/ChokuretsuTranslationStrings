@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,123 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (212.ja) KYON (キョン)" xml:space="preserve">
+    <value>なあ、ハルヒ</value>
+  </data>
+  <data name="0001 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ？</value>
+  </data>
+  <data name="0002 (212.ja) KYON (キョン)" xml:space="preserve">
+    <value>商店街で買い物した時に福引き券を
+もらったんだよ</value>
+  </data>
+  <data name="0003 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、賞品は何かしら？　商店街の
+じゃ、たいした物はなさそうだけど</value>
+  </data>
+  <data name="0004 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>世界一周旅行くらいあるかしら？</value>
+  </data>
+  <data name="0005 (212.ja) KYON (キョン)" xml:space="preserve">
+    <value>商店街の福引きに、そんな景品が
+あるわけないだろ</value>
+  </data>
+  <data name="0006 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>つまんないわね</value>
+  </data>
+  <data name="0007 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でもまあ、一応これはもらっとくわ</value>
+  </data>
+  <data name="0008 (212.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、古泉くんとキョンくんが
+お買い物に行きましたよね</value>
+  </data>
+  <data name="0009 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ、そうね。それが？</value>
+  </data>
+  <data name="0010 (212.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>商店街の福引き券をたくさん
+貰ったそうなんですよ</value>
+  </data>
+  <data name="0011 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へぇ、商店街の福引きねぇ</value>
+  </data>
+  <data name="0012 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>で、一等の賞品はなんなの？</value>
+  </data>
+  <data name="0013 (212.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>さあ、そこまでは……</value>
+  </data>
+  <data name="0014 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんったら
+そこが一番重要なんじゃない</value>
+  </data>
+  <data name="0015 (212.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>す、すみません</value>
+  </data>
+  <data name="0016 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、いいわ
+あとで古泉くんに聞いてみましょ</value>
+  </data>
+  <data name="0017 (212.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい。何があるのかなぁ</value>
+  </data>
+  <data name="0018 (212.ja) NAGATO (長門)" xml:space="preserve">
+    <value>買い物で福引き券を貰ったと
+言っていた</value>
+  </data>
+  <data name="0019 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>買い物で？　古泉くんとキョンが？</value>
+  </data>
+  <data name="0020 (212.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0021 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん、なんで直接あたしに報告
+しないのかしらね</value>
+  </data>
+  <data name="0022 (212.ja) NAGATO (長門)" xml:space="preserve">
+    <value>理由は不明</value>
+  </data>
+  <data name="0023 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあいいわ</value>
+  </data>
+  <data name="0024 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＯＳ団の買い物でもらったものは
+団長であるあたしが預かっておくわ</value>
+  </data>
+  <data name="0025 (212.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0026 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ところで、賞品はどんなのがあるの
+かしら？</value>
+  </data>
+  <data name="0027 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>我がＳＯＳ団の活動に役立つものが
+あるといいんだけど</value>
+  </data>
+  <data name="0028 (212.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さん、先程商店街での買い物で
+福引き券を頂ましたのでどうぞ</value>
+  </data>
+  <data name="0029 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、賞品はどんなものが用意され
+てるのかしらね？</value>
+  </data>
+  <data name="0030 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>目玉賞品はあった？　でも、商店街
+の福引き程度じゃ大物はないわよね</value>
+  </data>
+  <data name="0031 (212.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>特賞がディナークルーズの招待券
+だそうですよ</value>
+  </data>
+  <data name="0032 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>自分から『豪華』だなんて書くとこ
+がうさんくさいわね</value>
+  </data>
+  <data name="0033 (212.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、でも一応貰っておくわ</value>
+  </data>
 </root>

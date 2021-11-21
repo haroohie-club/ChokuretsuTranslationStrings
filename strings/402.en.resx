@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,730 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、キョン、しっかりしなさい！</value>
+  </data>
+  <data name="0001 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>きりきり運ぶ！</value>
+  </data>
+  <data name="0002 (402.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>きりきりはこぶー！</value>
+  </data>
+  <data name="0003 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>あーはいはい</value>
+  </data>
+  <data name="0004 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>必要な資料を図書室から部室へ運び
+込むと決まったあたりでイヤな予感</value>
+  </data>
+  <data name="0005 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>がしたが、やっぱり俺は小間使いと
+して立ち働かされるという役回りか</value>
+  </data>
+  <data name="0006 (402.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>ほらキョンくん、こっちの本も
+運ばなくちゃ</value>
+  </data>
+  <data name="0007 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえは手伝わなくてもいいから
+そのへんで本でも読んでろ</value>
+  </data>
+  <data name="0008 (402.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>はーい</value>
+  </data>
+  <data name="0010 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>返事は素直でいいが、妹を連れて
+来て正解だったか悩ましいところだ</value>
+  </data>
+  <data name="0011 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにボヤッとしてるのよ、テキパキ
+運んで内容に目を通しなさいっ！</value>
+  </data>
+  <data name="0012 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>あのなあ。これだけの本に目を通す
+のに、どれだけ時間が掛かるんだよ</value>
+  </data>
+  <data name="0013 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから早く読みなさいっていって
+るんでしょうに</value>
+  </data>
+  <data name="0014 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>１分間で１冊ぐらい読まないと
+調査しているうちに夜になるわよ！</value>
+  </data>
+  <data name="0015 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>そんなに早く読めるわけないだろ</value>
+  </data>
+  <data name="0016 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにいってるのよ。有希なんてもう
+３冊ぐらい読んでるわよ</value>
+  </data>
+  <data name="0017 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……これで４冊目</value>
+  </data>
+  <data name="0018 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>すごいわ有希！　人間離れした
+速さねっ！</value>
+  </data>
+  <data name="0019 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、あんたも有希を見習って
+１分１冊の記録に挑戦よ！</value>
+  </data>
+  <data name="0020 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>見習えといわれても無理な相談だ</value>
+  </data>
+  <data name="0021 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そもそも調査しに来ているはずで
+速読しに来たわけじゃない</value>
+  </data>
+  <data name="0023 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、ハルヒが音楽室に行かなく
+なるようにする情報はありそうか？</value>
+  </data>
+  <data name="0024 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>北高と接点のある音楽家の情報は
+現時点で見つかっていない</value>
+  </data>
+  <data name="0025 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>はあ……読むしかないのか</value>
+  </data>
+  <data name="0026 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この本の山を攻略するのにどれだけ
+時間が掛かるんだか</value>
+  </data>
+  <data name="0027 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……速く読めるようになりたい？</value>
+  </data>
+  <data name="0028 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょっと待て、そんなことが出来る
+のか？</value>
+  </data>
+  <data name="0029 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……可能</value>
+  </data>
+  <data name="0030 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>そんなにあっさり肯定するか</value>
+  </data>
+  <data name="0031 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どうしようかな……長門に頼んで
+なんとかしてもらうか？</value>
+  </data>
+  <data name="0032 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃあ、そいつをひとつ頼もうかな</value>
+  </data>
+  <data name="0033 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……わかった</value>
+  </data>
+  <data name="0035 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょ、ちょっと待った！　まさか
+噛みつくとかそういうのか？</value>
+  </data>
+  <data name="0036 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0037 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>やめておく。ハルヒに見られたら
+いらん誤解を生みそうだ</value>
+  </data>
+  <data name="0039 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>……いや、やめておくよ</value>
+  </data>
+  <data name="0040 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>じゃあ、これ</value>
+  </data>
+  <data name="0041 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだ、この本は？</value>
+  </data>
+  <data name="0042 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>速読術の教本</value>
+  </data>
+  <data name="0043 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>#P05“超速読術教本”#P00か……
+これを読むだけで精一杯な気がする</value>
+  </data>
+  <data name="0045 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はいっ、１冊読破っ！</value>
+  </data>
+  <data name="0046 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえ、ちゃんと読んでるのか？</value>
+  </data>
+  <data name="0047 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>サブリミナル効果を利用した読書法
+で、瞬間でサラッと読んだわ</value>
+  </data>
+  <data name="0048 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだそれ？　速読法か？</value>
+  </data>
+  <data name="0049 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしが今考えついた速読法よ</value>
+  </data>
+  <data name="0050 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだよ、思いつきか……</value>
+  </data>
+  <data name="0051 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>文をイメージで頭に焼き付けるのよ
+あんたも今すぐ身につけなさい</value>
+  </data>
+  <data name="0052 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>妙な読書法を考えつくのはいいと
+して、身に付くまでにどれだけの</value>
+  </data>
+  <data name="0053 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>訓練が必要なのか考えてないな</value>
+  </data>
+  <data name="0054 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふむふむ……</value>
+  </data>
+  <data name="0055 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これはちょっと興味深いわね</value>
+  </data>
+  <data name="0056 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さすがに即席の速読は無理らしく
+真剣に読んでいるが……</value>
+  </data>
+  <data name="0057 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>静かになってちょうどいい</value>
+  </data>
+  <data name="0058 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これ、さっき有希が読んでたわね？</value>
+  </data>
+  <data name="0059 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……読み終えている</value>
+  </data>
+  <data name="0060 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>この本に書いてある音楽家のこと
+だけど、有希はどう思う？</value>
+  </data>
+  <data name="0061 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>それは想像上の人物で出来事は虚構</value>
+  </data>
+  <data name="0062 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふ～ん。あたしは実在の人物が
+体験したことを書いていると思うの</value>
+  </data>
+  <data name="0063 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>主人公も登場人物も、歴史的に存在
+を確認できない</value>
+  </data>
+  <data name="0064 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>また、舞台となる町も架空のもの</value>
+  </data>
+  <data name="0065 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、そうなんだ……</value>
+  </data>
+  <data name="0066 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そこで納得して、すっきりした
+気持ちで合宿を終えてしまうんだ</value>
+  </data>
+  <data name="0067 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒが考え込んでいる間に長門と
+こっそり打ち合わせだな</value>
+  </data>
+  <data name="0069 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、今の話は本当か？</value>
+  </data>
+  <data name="0070 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>作者、物語の登場人物、場所などの
+情報と私の保有情報と照合した</value>
+  </data>
+  <data name="0071 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まぎれもない事実ってところか</value>
+  </data>
+  <data name="0072 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>……まさかとは思うけど、この本は
+じつはハルヒが望んだものとか？</value>
+  </data>
+  <data name="0073 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>この本は以前からここにあった</value>
+  </data>
+  <data name="0074 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうなのか？</value>
+  </data>
+  <data name="0075 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>ただ、涼宮ハルヒが偶然つかんだ本
+がこの一冊というだけ</value>
+  </data>
+  <data name="0076 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>待て待て、最初は長門が手にして
+読んだんだろ？</value>
+  </data>
+  <data name="0077 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>読んだあと、この本の山に戻した</value>
+  </data>
+  <data name="0078 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この山の中から選び出したってこと
+なのか？　無意識で？</value>
+  </data>
+  <data name="0079 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>この本を選ぶ確率は低くはない
+積んだ冊数分の１の確率だから</value>
+  </data>
+  <data name="0080 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃあ、なにが興味深いんだ？</value>
+  </data>
+  <data name="0081 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>涼宮ハルヒが想像をふくらませる
+だけの内容を包括している本を</value>
+  </data>
+  <data name="0082 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>無意識下で選び出したことに意味
+がある</value>
+  </data>
+  <data name="0083 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>よくはわからんが、ハルヒが自分を
+盛り上げる本を偶然に手にしたって</value>
+  </data>
+  <data name="0084 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そういうことなのか、長門よ</value>
+  </data>
+  <data name="0085 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>それはどのぐらいの確率に
+なるんだ？</value>
+  </data>
+  <data name="0086 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>現在まで出版された全ての書籍から
+うちの図書室の蔵書になる確率と</value>
+  </data>
+  <data name="0087 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>さらに音楽に関する書籍の……</value>
+  </data>
+  <data name="0088 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>すまん、長門。頭が痛くなってきた</value>
+  </data>
+  <data name="0089 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……これ</value>
+  </data>
+  <data name="0090 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>このメモはなんだ？</value>
+  </data>
+  <data name="0091 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>確率をメモした</value>
+  </data>
+  <data name="0092 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>#P05“確率のメモ”#P00か。後で見てみるよ</value>
+  </data>
+  <data name="0093 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この天文学的数値に意味があるのか
+わからないが、聞いたのは俺だ</value>
+  </data>
+  <data name="0094 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ありがたくもらっておくとしよう</value>
+  </data>
+  <data name="0095 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>あー、それで長門</value>
+  </data>
+  <data name="0096 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>なに？</value>
+  </data>
+  <data name="0097 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、確率を聞こうかと思ったけど
+難しいことはわからんから、いい</value>
+  </data>
+  <data name="0098 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0099 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>すまんな、長門</value>
+  </data>
+  <data name="0101 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたはなにおしゃべりしてるの</value>
+  </data>
+  <data name="0102 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、長門と内容分析してたんだ</value>
+  </data>
+  <data name="0103 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたし、読み進めて思ったんだけど</value>
+  </data>
+  <data name="0104 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なにやら怪しい雲行きの予感がする</value>
+  </data>
+  <data name="0105 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これ、本当にある町だと思うのよ</value>
+  </data>
+  <data name="0106 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>きっとこの町が舞台のモデルなのね</value>
+  </data>
+  <data name="0107 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0108 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なにを根拠に言っているのかわから
+ないって様子だな、長門</value>
+  </data>
+  <data name="0109 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>それはなんの話なんだ、ハルヒ？</value>
+  </data>
+  <data name="0110 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>音楽家が自分の曲を演奏したら
+その音楽がカギになっていてね</value>
+  </data>
+  <data name="0111 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>……それで？</value>
+  </data>
+  <data name="0112 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>演奏するたびに、別の時代に
+タイムスリップするってお話よ</value>
+  </data>
+  <data name="0113 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……その話のどこに実在の人物とか
+この町がモデルになっているとか</value>
+  </data>
+  <data name="0114 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんな要素がひとつもありえない
+ＳＦ小説じゃないか</value>
+  </data>
+  <data name="0115 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これ、きっと実話よ！</value>
+  </data>
+  <data name="0116 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>おいおい、それはＳＦだって。長門
+も虚構だっていってるだろうが</value>
+  </data>
+  <data name="0117 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなことないわっ！　舞台の町は
+この町の雰囲気とそっくりだし</value>
+  </data>
+  <data name="0118 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや待て、その本が書かれたのは
+かなり昔じゃないのか？</value>
+  </data>
+  <data name="0119 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、あんたには想像力って
+ものが足りないわねっ！</value>
+  </data>
+  <data name="0120 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒほどぶっ飛んだ夢想家じゃ
+ないことに間違いはないな</value>
+  </data>
+  <data name="0121 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いい？　この音楽家は演奏するたび
+ほかの時代にいってるのよ？</value>
+  </data>
+  <data name="0122 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>書いたのは昔でも、今のこの世界を
+見てるかも知れないじゃないっ！</value>
+  </data>
+  <data name="0123 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>いくらなんでもそれはないって
+突飛すぎる発想だと思わないのか？</value>
+  </data>
+  <data name="0124 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、あたしの発想が間違ってる
+証拠はどこにあるのよ？</value>
+  </data>
+  <data name="0125 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>何月何日、何時何分何十秒に言った
+のかと追求する小学生並みだな</value>
+  </data>
+  <data name="0126 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>アヒル顔になっているあたりに
+その片鱗を見た気がする</value>
+  </data>
+  <data name="0127 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、なんとか言ってやれよ</value>
+  </data>
+  <data name="0128 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>この本の作者はアメリカ合衆国出身
+資料によれば国外に出たことはない</value>
+  </data>
+  <data name="0129 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>作者は時層転移ものを得意とし
+著書の大半はタイムスリップもの</value>
+  </data>
+  <data name="0130 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>……だ、そうだ</value>
+  </data>
+  <data name="0131 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ、そうなのよ！
+わかったわ！</value>
+  </data>
+  <data name="0132 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>納得したのか？</value>
+  </data>
+  <data name="0133 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>きっとタイムスリップした作曲家が
+渡米して作者と友達になったのよ！</value>
+  </data>
+  <data name="0134 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なにがどう転べばそういう展開に
+なるのかのロジックを追求したい</value>
+  </data>
+  <data name="0135 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>作曲家が経験を話して聞かせて
+作者が本を書いたんだわ！</value>
+  </data>
+  <data name="0136 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、あんなこと言ってるぞ？</value>
+  </data>
+  <data name="0137 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……可能性は皆無ではない</value>
+  </data>
+  <data name="0138 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>おいおい、肯定してどうするんだよ</value>
+  </data>
+  <data name="0139 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>きっとそうよ！　今でも音楽家は
+時空の旅人としてさまよってるの</value>
+  </data>
+  <data name="0140 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それで、時々ここの音楽室でピアノ
+を弾いているんだわ！</value>
+  </data>
+  <data name="0141 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>おいおい……</value>
+  </data>
+  <data name="0142 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>幽霊じゃないにしても、これは
+まごうことなき超常現象よ！！</value>
+  </data>
+  <data name="0143 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まったく、そんな話はでっち上げだ
+という証拠を集めているのに</value>
+  </data>
+  <data name="0144 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒのヤツはとんでもない展開に
+結びつけていやがる</value>
+  </data>
+  <data name="0145 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう考えると、おかしな時間に
+音楽室のピアノが鳴るのはアリね</value>
+  </data>
+  <data name="0146 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>幽霊がどうって言うよりも説得力が
+あるわっ！</value>
+  </data>
+  <data name="0147 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どのあたりに説得力というものが
+潜伏しているのか見てみたいね</value>
+  </data>
+  <data name="0148 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>わけのわかんない幽霊より、ずっと
+リアリティがあるわっ！</value>
+  </data>
+  <data name="0149 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一番わけがわからないのはハルヒ
+おまえだと言うことに気付け</value>
+  </data>
+  <data name="0150 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、あんたはどう思う？</value>
+  </data>
+  <data name="0151 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>どう思うもなにも、そりゃただの
+空想物語だろ？</value>
+  </data>
+  <data name="0152 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>違うわよ、だって見てきたように
+リアルに書いてるもの</value>
+  </data>
+  <data name="0153 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>そりゃおまえ、そう書くのが作家の
+仕事だろうが</value>
+  </data>
+  <data name="0154 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの超展開に開いた口がふさが
+らないが、音楽室に行かせないため</value>
+  </data>
+  <data name="0155 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は徹底してハルヒの話を否定する</value>
+  </data>
+  <data name="0156 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>で、その作曲家はどうなったんだ？</value>
+  </data>
+  <data name="0157 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>この物語では、作曲家は神の国と
+仮定する世界へと旅だっている</value>
+  </data>
+  <data name="0158 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>推測では作曲家は死んだことになる</value>
+  </data>
+  <data name="0159 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>ほら、この物語が事実と仮定しても
+作曲家はとっくに死んでるんだ</value>
+  </data>
+  <data name="0160 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>だから、この話と音楽室の怪とは
+まったく無関係だって</value>
+  </data>
+  <data name="0161 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>死んだと思わせて別の時代に生きて
+いるとも考えられるわよ</value>
+  </data>
+  <data name="0162 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんのために？</value>
+  </data>
+  <data name="0163 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>時空の旅をしていて、なにかの秘密
+をつかんでしまって組織に追われて</value>
+  </data>
+  <data name="0164 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>死んだことにしたに違いないわ！</value>
+  </data>
+  <data name="0165 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>そりゃいったいなんの組織だよ</value>
+  </data>
+  <data name="0166 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今もご近所で侘び住まいをしている
+かも知れないじゃないっ！</value>
+  </data>
+  <data name="0167 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>侘び住まいって……あのなあ</value>
+  </data>
+  <data name="0168 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんな発想が出てくるのがなにより
+不思議な謎だと思うね</value>
+  </data>
+  <data name="0169 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>同じ本を読んでも、長門とまったく
+違う結果になるとは……</value>
+  </data>
+  <data name="0170 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>想像力豊かなのはいいけど、もう
+少し現実的な話をしろよな</value>
+  </data>
+  <data name="0171 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、現実的な話って</value>
+  </data>
+  <data name="0172 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>そもそもだ。コンピ研が体験した
+怪奇現象だって疑わしいぞ</value>
+  </data>
+  <data name="0173 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>みんな徹夜で頑張ってるみたいだし
+それで寝ぼけて幻覚を見たとか</value>
+  </data>
+  <data name="0174 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>寝ぼけてるのはあんたじゃないの？</value>
+  </data>
+  <data name="0175 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>散々ないいっぷりだな</value>
+  </data>
+  <data name="0176 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>とにかくコンピ研の勘違いで
+怪奇現象なんてなかったんだ</value>
+  </data>
+  <data name="0177 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに決めつけてるのよっ！</value>
+  </data>
+  <data name="0178 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>怪奇現象が起きたって証拠もないし
+合宿なんて無意味だろ？</value>
+  </data>
+  <data name="0179 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あのね、キョン
+その証拠を探してるんじゃないの！</value>
+  </data>
+  <data name="0180 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>というわけで合宿を終了し速やかに
+自宅に帰って残りの夏休みを</value>
+  </data>
+  <data name="0181 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>有意義に過ごすのが健全な高校生の
+然るべき姿だと思うぞ</value>
+  </data>
+  <data name="0182 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はあーっ。あんたには想像力とか
+夢とかっていう人間に与えられた</value>
+  </data>
+  <data name="0183 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>素晴らしい機能が足りてないのね</value>
+  </data>
+  <data name="0184 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おいおい、えらい言いぐさだな</value>
+  </data>
+  <data name="0185 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門だって現実的なことを的確に
+言ってるだけだろう</value>
+  </data>
+  <data name="0186 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0187 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希はあんたのいった通り現実的で
+あんたのは想像力欠如なのよ</value>
+  </data>
+  <data name="0188 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どこがどう違うのか俺にはわからん
+念のために聞いてみるか</value>
+  </data>
+  <data name="0189 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>どういう意味か分かるか、長門？</value>
+  </data>
+  <data name="0190 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>それを想像しろと言う意味を含むと
+解釈する事が妥当</value>
+  </data>
+  <data name="0191 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>それって#P05“ヒント”#P00なのか？</value>
+  </data>
+  <data name="0192 (402.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0193 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>ありがとうよ、長門
+さっぱりわからんけどな</value>
+  </data>
+  <data name="0194 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>どういう意味かわからんぞ？</value>
+  </data>
+  <data name="0195 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は分析しただけで、あんたは
+分析もなしに否定してるだけでしょ</value>
+  </data>
+  <data name="0196 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ぐぅっ、なにも言い返せない
+なにしろまだその本を読んでないし</value>
+  </data>
+  <data name="0197 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから想像力がないって言ってるの</value>
+  </data>
+  <data name="0198 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>分析なしに否定したら想像力がない
+って理屈がわからんが？</value>
+  </data>
+  <data name="0199 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしがそういったらそうなのよ</value>
+  </data>
+  <data name="0200 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>とんでもない#P05“理屈”#P00だな、おい</value>
+  </data>
+  <data name="0201 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>とにかく！</value>
+  </data>
+  <data name="0202 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンは夢も希望もない青少年って
+ことで決定ね</value>
+  </data>
+  <data name="0203 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>想像力だけならまだしも、希望まで
+ないとか勝手に決めつけるな</value>
+  </data>
+  <data name="0204 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ここへ調査しに来て分かったことが
+キョンは想像力皆無ってこととはね</value>
+  </data>
+  <data name="0205 (402.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はあ～っ、先が思いやられるわ</value>
+  </data>
+  <data name="0206 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>先が思いやられるってところは
+そのままそっくりお返ししたいぞ</value>
+  </data>
+  <data name="0209 (402.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>キョンくん、あきたー</value>
+  </data>
+  <data name="0210 (402.ja) KYON (キョン)" xml:space="preserve">
+    <value>はいはい、もうじき用事が済むから
+あと少し待ってろ</value>
+  </data>
+  <data name="0211 (402.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>はーい</value>
+  </data>
+  <data name="0212 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この本を読んでいるうちに、ハルヒ
+の目的が変わってくれればなあ</value>
+  </data>
+  <data name="0213 (402.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしくは妹みたいに飽きてくれれば
+ありがたいところだ</value>
+  </data>
 </root>

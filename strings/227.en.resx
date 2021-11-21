@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,213 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (227.ja) KYON (キョン)" xml:space="preserve">
+    <value>よし、恐ろしい話をしてやろう</value>
+  </data>
+  <data name="0001 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>怖い話？　今までさんざん聞かされ
+たようなくだらない話はやめてよね</value>
+  </data>
+  <data name="0002 (227.ja) KYON (キョン)" xml:space="preserve">
+    <value>リアル実体験物だ</value>
+  </data>
+  <data name="0003 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん、どんなのよ？</value>
+  </data>
+  <data name="0004 (227.ja) KYON (キョン)" xml:space="preserve">
+    <value>それはバーベキューの下ごしらえ
+の時だった</value>
+  </data>
+  <data name="0005 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え、さっきの話なの？</value>
+  </data>
+  <data name="0006 (227.ja) KYON (キョン)" xml:space="preserve">
+    <value>リアル実体験と言っただろうが
+谷口が妹相手に怪談をしていた時だ</value>
+  </data>
+  <data name="0007 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あー、してたしてた。あんまりにも
+つまんないんで聞く気もおきない奴</value>
+  </data>
+  <data name="0008 (227.ja) KYON (キョン)" xml:space="preserve">
+    <value>それが古泉の気に触ったらしいんだ</value>
+  </data>
+  <data name="0009 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは賢いから、頭悪い話が
+気に入らなかったのよ、きっと</value>
+  </data>
+  <data name="0010 (227.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉は笑顔ですっと谷口に近づき
+耳元で何かを囁いたんだな</value>
+  </data>
+  <data name="0011 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなことしてたんだ</value>
+  </data>
+  <data name="0012 (227.ja) KYON (キョン)" xml:space="preserve">
+    <value>見る見るうちに、谷口は青ざめて
+冷や汗を流し始めた</value>
+  </data>
+  <data name="0013 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほど、それで？</value>
+  </data>
+  <data name="0014 (227.ja) KYON (キョン)" xml:space="preserve">
+    <value>むろん、古泉はあの爽やかな笑顔の
+ままだ。谷口は大げさに頷き</value>
+  </data>
+  <data name="0015 (227.ja) KYON (キョン)" xml:space="preserve">
+    <value>それから、アホな怪談はぴたりと
+止めてしまったんだ</value>
+  </data>
+  <data name="0016 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは良かったけど……</value>
+  </data>
+  <data name="0017 (227.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉はちょっとした忠告をしたん
+だと言うが……</value>
+  </data>
+  <data name="0018 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねぇねぇ、古泉くん何を言ったの？</value>
+  </data>
+  <data name="0019 (227.ja) KYON (キョン)" xml:space="preserve">
+    <value>聞いてない</value>
+  </data>
+  <data name="0020 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによそれっ！
+なんで聞いてないのよ！</value>
+  </data>
+  <data name="0021 (227.ja) KYON (キョン)" xml:space="preserve">
+    <value>なあ、そんな霊験あらたかな忠告っ
+て、どんなだと思う？</value>
+  </data>
+  <data name="0022 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>知らないわよ！　キョンが聞いて
+あたしに教えてくれるべきでしょう</value>
+  </data>
+  <data name="0023 (227.ja) KYON (キョン)" xml:space="preserve">
+    <value>想像すると怖いだろ？ な？</value>
+  </data>
+  <data name="0024 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>オチはどうなのよ、オチは？</value>
+  </data>
+  <data name="0025 (227.ja) KYON (キョン)" xml:space="preserve">
+    <value>ない</value>
+  </data>
+  <data name="0026 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったくがっかりだわ！　あーあ、
+話させるんじゃなかったわねっ</value>
+  </data>
+  <data name="0027 (227.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんから聞いたんですけど</value>
+  </data>
+  <data name="0028 (227.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんが、谷口くんに忠告した
+そうなんですよ</value>
+  </data>
+  <data name="0029 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え、そんなこといつしてたのかしら
+全っ然気付かなかったわ</value>
+  </data>
+  <data name="0030 (227.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんが耳元で囁いたら、谷口
+くん真っ青になって黙ったそうです</value>
+  </data>
+  <data name="0031 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう言えば、バカ怪談を途中で
+やめたような気もするわね</value>
+  </data>
+  <data name="0032 (227.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>いったいどんな忠告したのか</value>
+  </data>
+  <data name="0033 (227.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんは教えてくれなかったって
+言ってました</value>
+  </data>
+  <data name="0034 (227.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ちょっと気になりますよね？</value>
+  </data>
+  <data name="0035 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん、あたしが目を離した隙に
+そんな愉快なことがあったとはね</value>
+  </data>
+  <data name="0036 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんだか悔しいわ</value>
+  </data>
+  <data name="0037 (227.ja) NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹の忠告は非常に効果的</value>
+  </data>
+  <data name="0038 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうなの？　誰が忠告されたの
+かしら？　キョン？</value>
+  </data>
+  <data name="0039 (227.ja) NAGATO (長門)" xml:space="preserve">
+    <value>違う。彼のクラスメート</value>
+  </data>
+  <data name="0040 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>谷口と国木田？</value>
+  </data>
+  <data name="0041 (227.ja) NAGATO (長門)" xml:space="preserve">
+    <value>前者</value>
+  </data>
+  <data name="0042 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>谷口ね。何かバカなことでもした
+んでしょうね</value>
+  </data>
+  <data name="0043 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ところで、古泉くんの忠告って
+どんなだったの？</value>
+  </data>
+  <data name="0044 (227.ja) NAGATO (長門)" xml:space="preserve">
+    <value>聞かなかったと彼が言っていた</value>
+  </data>
+  <data name="0045 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それじゃちっとも判らないけど</value>
+  </data>
+  <data name="0046 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>効果絶大ってことは、谷口は少しは
+懲らしめられたってことね</value>
+  </data>
+  <data name="0047 (227.ja) NAGATO (長門)" xml:space="preserve">
+    <value>蒼白になり震えていたと聞いた</value>
+  </data>
+  <data name="0048 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん、それは忠告というレベル
+じゃないのかもね</value>
+  </data>
+  <data name="0049 (227.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0050 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、谷口だもん。同情は禁物ね</value>
+  </data>
+  <data name="0051 (227.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>先程、谷口さんに僭越ながら
+忠告させていただいたのですが</value>
+  </data>
+  <data name="0052 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>んー、谷口がくだらない怪談を
+妹ちゃんにしてた時ね</value>
+  </data>
+  <data name="0053 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう言えば、いつの間にか黙り
+こんでいたわね</value>
+  </data>
+  <data name="0054 (227.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>幼い妹さんをいたずらに怯えさせる
+作り話はどうかと思ったもので</value>
+  </data>
+  <data name="0055 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>妹ちゃんは、けっこう度胸座ってる
+から、谷口の話程度なら平気でしょ</value>
+  </data>
+  <data name="0056 (227.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですか。余計な事をして
+しまったかもしれませんね</value>
+  </data>
+  <data name="0057 (227.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしも聞くに堪えなかったもの
+谷口を黙らせてくれて感謝だわ</value>
+  </data>
+  <data name="0058 (227.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>お役に立てたのなら本望ですよ</value>
+  </data>
 </root>

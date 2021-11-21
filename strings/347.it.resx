@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,131 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (347.ja) KYON (キョン)" xml:space="preserve">
+    <value>なあ、ハルヒ</value>
+  </data>
+  <data name="0001 (347.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえは先のことまで
+ちゃんと考えて行動してるのか？</value>
+  </data>
+  <data name="0002 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バカにしないでちょうだい！</value>
+  </data>
+  <data name="0003 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンじゃあるまいし
+当然でしょ</value>
+  </data>
+  <data name="0004 (347.ja) KYON (キョン)" xml:space="preserve">
+    <value>……そうはとても思えないんだが</value>
+  </data>
+  <data name="0005 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにか言った！？</value>
+  </data>
+  <data name="0006 (347.ja) KYON (キョン)" xml:space="preserve">
+    <value>いいや、気のせいだろ</value>
+  </data>
+  <data name="0007 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく、忙しいんだから
+つまらないこと聞かないで欲しいわ</value>
+  </data>
+  <data name="0008 (347.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんは先読みが得意みたいです
+けど、</value>
+  </data>
+  <data name="0009 (347.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そういうのって、なにかコツみたい
+なのがあるんでしょうか？</value>
+  </data>
+  <data name="0010 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大量の情報と、それらをベースに
+判断する経験値がポイントかしら</value>
+  </data>
+  <data name="0011 (347.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それだけなんですか？</value>
+  </data>
+  <data name="0012 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もちろん、情報をつなぎ合わせて
+組み立てる論理とかセンスも必要ね</value>
+  </data>
+  <data name="0013 (347.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ひとつの要素ではどうにもなり
+ませんもんね……</value>
+  </data>
+  <data name="0014 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何ごとも経験がものをいうのよ</value>
+  </data>
+  <data name="0015 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、ＳＯＳ団でしっかり経験を
+積むのよ、いいわねみくるちゃんっ</value>
+  </data>
+  <data name="0016 (347.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はいぃ……頑張りますぅ</value>
+  </data>
+  <data name="0017 (347.ja) NAGATO (長門)" xml:space="preserve">
+    <value>人間はどの程度まで先読みが出来れ
+ば安心できるのか</value>
+  </data>
+  <data name="0018 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、あんまり先まで読めても
+人生楽しくないと思うけど</value>
+  </data>
+  <data name="0019 (347.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0020 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大予言なんてのも面白いけれど
+もっと身近なところがいいわね</value>
+  </data>
+  <data name="0021 (347.ja) NAGATO (長門)" xml:space="preserve">
+    <value>たとえば？</value>
+  </data>
+  <data name="0022 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>待ち合わせにキョンが来る時間を
+先読みして、待ち伏せるとか</value>
+  </data>
+  <data name="0023 (347.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0024 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>買い物の内容をみて、お夕飯の
+メニューを読んでみるとか</value>
+  </data>
+  <data name="0025 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その程度の先読みが気楽でいいわ</value>
+  </data>
+  <data name="0026 (347.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0027 (347.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ふと思い浮かんだ事があるのですが</value>
+  </data>
+  <data name="0028 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにかしら？</value>
+  </data>
+  <data name="0029 (347.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>先読みという言葉がありますが</value>
+  </data>
+  <data name="0030 (347.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>人は、どの程度まで推測が出来る
+ものなのでしょうね</value>
+  </data>
+  <data name="0031 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>予知能力みたいなものとか？</value>
+  </data>
+  <data name="0032 (347.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、そういった超常能力的なもの
+ではなく、一般的な範囲での話です</value>
+  </data>
+  <data name="0033 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういうのって、結局のところ統計
+学や経験則によるものでしょ？</value>
+  </data>
+  <data name="0034 (347.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうせだったら予知能力じゃないと
+そのうち超能力者を捕まえるわよ！</value>
+  </data>
+  <data name="0035 (347.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>#P06……この話題を出したのは失敗
+でしたか</value>
+  </data>
 </root>

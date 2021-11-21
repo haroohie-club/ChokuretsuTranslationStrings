@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,283 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>買出し班、と言うと聞こえはいいが
+構成員は俺一人だけのソロ活動だ</value>
+  </data>
+  <data name="0001 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>身軽に動ける分、多少は気分転換に
+なるかもしれない</value>
+  </data>
+  <data name="0002 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ま、ハルヒの方は長門や古泉が側に
+いるわけだし、心配ないだろう</value>
+  </data>
+  <data name="0003 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>むしろ、朝比奈さんの身が心配だ
+何事も無ければいいんだが……</value>
+  </data>
+  <data name="0004 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さて、ここに一枚のメモ用紙がある</value>
+  </data>
+  <data name="0005 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>買出しで購入すべき品物のリストが
+びっしりと書き込まれている</value>
+  </data>
+  <data name="0006 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>夜食、菓子、飲み物……</value>
+  </data>
+  <data name="0007 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>アバウトに『夜食』とだけ書かれて
+も正直困るのだが</value>
+  </data>
+  <data name="0008 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>サンドイッチとか、惣菜パンとか
+具体的に書いて欲しいもんだ</value>
+  </data>
+  <data name="0009 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……それから、もう一つ</value>
+  </data>
+  <data name="0010 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>わざわざ、赤い太ペンで記された
+一文が、やけに存在を主張している</value>
+  </data>
+  <data name="0011 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>#P05眠気覚ましのドリンク剤を大量に！#P01</value>
+  </data>
+  <data name="0012 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……これはハルヒの書いた文字だ</value>
+  </data>
+  <data name="0013 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>つまり、アレだ。今夜は一睡もさせ
+ないぞって事か</value>
+  </data>
+  <data name="0014 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒのやつ、どうやら、まだまだ
+学校に居座るつもりらしい</value>
+  </data>
+  <data name="0015 (467.ja) KYON (キョン)" xml:space="preserve">
+    <value>勘弁してくれよ……</value>
+  </data>
+  <data name="0016 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>実際に怪奇現象が起こっている様子
+を、ハルヒに目撃されたら終わりだ</value>
+  </data>
+  <data name="0017 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いざとなったら、ハルヒを無理にで
+も校外に連れ出すしかない</value>
+  </data>
+  <data name="0018 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とにかく今は、ハルヒが必要以上に
+不機嫌にならないよう注意して……</value>
+  </data>
+  <data name="0019 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これ以上、事態が悪化しないように
+知恵を絞らなければならない</value>
+  </data>
+  <data name="0020 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>後は、ハルヒの興味を怪奇現象以外
+のモノに向けさせなければ……</value>
+  </data>
+  <data name="0021 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長い坂を下って、ようやくコンビニ
+に到着したとき、俺の携帯が鳴った</value>
+  </data>
+  <data name="0022 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>液晶画面にはハルヒの名前が表示
+されている。イヤな予感がする</value>
+  </data>
+  <data name="0023 (467.ja) KYON (キョン)" xml:space="preserve">
+    <value>もしもし？</value>
+  </data>
+  <data name="0024 (467.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ついでに買ってきて欲しいものが
+あるの</value>
+  </data>
+  <data name="0025 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>相変わらず挨拶抜きで用件を言って
+きやがる。こっちの状況も無視だし</value>
+  </data>
+  <data name="0026 (467.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだ？　眠気覚ましの他に精力剤
+も買ってこい、とか。そんな話か？</value>
+  </data>
+  <data name="0027 (467.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>違うわよ。あたしが頼みたいのは
+もっと別の品物よ</value>
+  </data>
+  <data name="0028 (467.ja) KYON (キョン)" xml:space="preserve">
+    <value>だから、なんだ？</value>
+  </data>
+  <data name="0029 (467.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何かスイカ的なモノが欲しいわ</value>
+  </data>
+  <data name="0030 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>スイカ“的”なモノって……</value>
+  </data>
+  <data name="0031 (467.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>夏といえば、スイカ割りでしょ
+外せないイベントよね</value>
+  </data>
+  <data name="0032 (467.ja) KYON (キョン)" xml:space="preserve">
+    <value>そこは海でも川でもない、学校だぞ
+校内でスイカ割りするつもりか</value>
+  </data>
+  <data name="0033 (467.ja) KYON (キョン)" xml:space="preserve">
+    <value>そもそも、コンビニにスイカ１玉
+丸ごと売ってるとは思えん</value>
+  </data>
+  <data name="0034 (467.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、その辺はアンタのセンスに
+任せるわよ</value>
+  </data>
+  <data name="0035 (467.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>無かったら……そうね、諦めるわ
+こんな時間だしね</value>
+  </data>
+  <data name="0036 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>仕方なくだったら
+最初から諦めてくれ……</value>
+  </data>
+  <data name="0037 (467.ja) KYON (キョン)" xml:space="preserve">
+    <value>……探すだけは、探しとく</value>
+  </data>
+  <data name="0038 (467.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>勘定は後でワリカンね。レシートを
+ちゃんともらって帰ってきなさい</value>
+  </data>
+  <data name="0039 (467.ja) KYON (キョン)" xml:space="preserve">
+    <value>言われなくてもわかってる</value>
+  </data>
+  <data name="0040 (467.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、頼んだわよ</value>
+  </data>
+  <data name="0041 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……また無茶なことを言い出した
+校内でスイカ割り？　正気か？</value>
+  </data>
+  <data name="0042 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>頭を抱えながら、俺はコンビニの
+自動ドアをくぐった……</value>
+  </data>
+  <data name="0043 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さて、菓子や飲み物は適当でもいい
+だろう</value>
+  </data>
+  <data name="0044 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>出来るだけ、校内の自販機では買え
+ない種類の飲み物を選ぶとして……</value>
+  </data>
+  <data name="0045 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>夜食は……カップ麺でもいいか</value>
+  </data>
+  <data name="0046 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おにぎりと、サンドイッチも買うか</value>
+  </data>
+  <data name="0047 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>んで、眠気覚ましのドリンク剤……
+一人一本もあれば十分だろう</value>
+  </data>
+  <data name="0048 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>後は……</value>
+  </data>
+  <data name="0049 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まあ、スイカ１玉なんて、置いてあ
+るはずが無いよな</value>
+  </data>
+  <data name="0050 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>代わりに、ハルヒの気を引きそうな
+モノがあればいいんだが……</value>
+  </data>
+  <data name="0051 (467.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ん？</value>
+  </data>
+  <data name="0052 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ふと、陳列棚の前で足が止まった</value>
+  </data>
+  <data name="0053 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>スイカとは程遠いが、これならば
+ハルヒの気を引けるかもしれない</value>
+  </data>
+  <data name="0054 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ビーチボール、か……</value>
+  </data>
+  <data name="0055 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>運動なんて全力で遠慮したい気分だ
+が、この状況では仕方ない</value>
+  </data>
+  <data name="0056 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ボール状のアイテムだし、一応は
+スイカの代用品と呼べなくもない</value>
+  </data>
+  <data name="0057 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>よし、ビーチボールにしよう</value>
+  </data>
+  <data name="0058 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒがどんな雑誌を読むのか
+知らんが、適当に選ぼう</value>
+  </data>
+  <data name="0059 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>読んでる間くらいは、おとなしく
+部室で時間を潰してくれるだろう</value>
+  </data>
+  <data name="0060 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は手を伸ばし、それを買い物カゴ
+へと突っ込んだ</value>
+  </data>
+  <data name="0061 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これをハルヒが喜ぶかどうか、大い
+に疑問だが……値段も手ごろだしな</value>
+  </data>
+  <data name="0062 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いざという時は、自腹で買い取ろう</value>
+  </data>
+  <data name="0063 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>念のため、もう一つくらい、ハルヒ
+の興味を引きそうな物を選ぶか……</value>
+  </data>
+  <data name="0064 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さて、どれにする？</value>
+  </data>
+  <data name="0065 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>花火か……悪くないな</value>
+  </data>
+  <data name="0066 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>例の、バーベキューをした場所なら
+花火で遊んでも怒られないだろう</value>
+  </data>
+  <data name="0067 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一応、買っておくか……</value>
+  </data>
+  <data name="0068 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>体力の有り余ってるハルヒには
+この手の運動グッズが一番だろう</value>
+  </data>
+  <data name="0069 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし懐かしいなオイ、ビニール製
+のバットに、柔らかいボール</value>
+  </data>
+  <data name="0070 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>最近のコンビニじゃ、こんな物まで
+売ってたりするんだな……</value>
+  </data>
+  <data name="0071 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>アレコレと頭を悩ませつつ、買い物
+カゴに物を放り込み……</value>
+  </data>
+  <data name="0072 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>気がつくと、カゴは結構な重さに
+なっていた</value>
+  </data>
+  <data name="0073 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>菓子や夜食はともかく、飲み物が
+とてつもなく重たい</value>
+  </data>
+  <data name="0074 (467.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この大荷物を、俺一人で抱えて
+あの長い坂道を登るのか……</value>
+  </data>
+  <data name="0075 (467.ja) KYON (キョン)" xml:space="preserve">
+    <value>やれやれ……</value>
+  </data>
 </root>

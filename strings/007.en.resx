@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,69 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (007.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>コンピューター研の皆さん、親切に
+いろいろ教えてくれたんです</value>
+  </data>
+  <data name="0001 (007.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>騙されちゃダメよ！
+みくるちゃん！</value>
+  </data>
+  <data name="0002 (007.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>へ？　え？</value>
+  </data>
+  <data name="0003 (007.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうやってみくるちゃんを懐柔して
+ＳＯＳ団の情報を集める気よ！</value>
+  </data>
+  <data name="0004 (007.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうなんですかぁ？</value>
+  </data>
+  <data name="0005 (007.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>間違いないわ
+それって諜報活動の基本よ？</value>
+  </data>
+  <data name="0006 (007.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、安心して</value>
+  </data>
+  <data name="0007 (007.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>このあたしの目の黒いうちは、連中
+なんかに好きにさせないから</value>
+  </data>
+  <data name="0008 (007.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はぁ……</value>
+  </data>
+  <data name="0009 (007.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんも、もっと警戒心を
+持たないとダメよ</value>
+  </data>
+  <data name="0010 (007.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でないと、そのうち悪い人たちに
+さらわれたりするわよ</value>
+  </data>
+  <data name="0011 (007.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あたしさらわれちゃうん
+ですかぁ！？</value>
+  </data>
+  <data name="0012 (007.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ないとは言い切れないわ
+みくるちゃん可愛いし</value>
+  </data>
+  <data name="0013 (007.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それに、なんかみくるちゃんって
+簡単にさらえそうだもの</value>
+  </data>
+  <data name="0014 (007.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はうう……</value>
+  </data>
+  <data name="0015 (007.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、お菓子をあげるとか
+言われてもついてっちゃダメよ？</value>
+  </data>
+  <data name="0016 (007.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そんなのについて行きませんよぉ</value>
+  </data>
+  <data name="0017 (007.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それならいいけど</value>
+  </data>
 </root>

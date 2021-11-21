@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,207 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それにしても……
+日が落ちても蒸し暑いわねえ</value>
+  </data>
+  <data name="0001 (565.ja) KYON (キョン)" xml:space="preserve">
+    <value>夏なんだからしょうがないだろう</value>
+  </data>
+  <data name="0002 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いくら休みだからって、校舎の中を
+閉めきってるのが悪いのよ</value>
+  </data>
+  <data name="0003 (565.ja) KYON (キョン)" xml:space="preserve">
+    <value>それこそ、仕方がないと思うが</value>
+  </data>
+  <data name="0004 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、もうっ！</value>
+  </data>
+  <data name="0005 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>早いところ玄関に行って涼しい風に
+当たりたいわ……</value>
+  </data>
+  <data name="0006 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……ん？</value>
+  </data>
+  <data name="0007 (565.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうした？</value>
+  </data>
+  <data name="0008 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今、そこで白いものがひらひらって
+動いた気がするのよ</value>
+  </data>
+  <data name="0009 (565.ja) KYON (キョン)" xml:space="preserve">
+    <value>なに……？</value>
+  </data>
+  <data name="0010 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>行ってみましょ！</value>
+  </data>
+  <data name="0012 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これは……</value>
+  </data>
+  <data name="0013 (565.ja) KYON (キョン)" xml:space="preserve">
+    <value>カーテン……だな</value>
+  </data>
+  <data name="0014 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もうっ、誰よこんなとこにカーテン
+出したやつは！</value>
+  </data>
+  <data name="0015 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>一瞬、幽霊かと思ったじゃない</value>
+  </data>
+  <data name="0016 (565.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どうやら、教室から持ってきた
+カーテンが役に立ったみたいだな</value>
+  </data>
+  <data name="0018 (565.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>夏だからしょうがないんじゃ……</value>
+  </data>
+  <data name="0019 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいえ、みくるちゃん</value>
+  </data>
+  <data name="0020 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いくら休みだからって、校舎の中を
+閉めきってるのが悪いのよ</value>
+  </data>
+  <data name="0021 (565.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>で、でも、カギを閉めておかないと
+ドロボウが……</value>
+  </data>
+  <data name="0022 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、もうっ！</value>
+  </data>
+  <data name="0023 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>早いところ玄関に行って涼しい風に
+当たりたいわ……</value>
+  </data>
+  <data name="0024 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あっ！</value>
+  </data>
+  <data name="0025 (565.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ど、どうしたんですかっ</value>
+  </data>
+  <data name="0026 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いま、そこをなにかが通った
+気がするのよ</value>
+  </data>
+  <data name="0027 (565.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええっ！？</value>
+  </data>
+  <data name="0028 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>追いかけるわよ！　みくるちゃん</value>
+  </data>
+  <data name="0031 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと、なによこれ</value>
+  </data>
+  <data name="0032 (565.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>カーテン……みたいですね</value>
+  </data>
+  <data name="0033 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もうっ、誰よこんなとこに
+カーテン出したのは！</value>
+  </data>
+  <data name="0034 (565.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ほっ……</value>
+  </data>
+  <data name="0035 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうして夏とか冬とかあるの
+かしらっ</value>
+  </data>
+  <data name="0036 (565.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0037 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いつでも春なら衣替えもしなくて
+すむのにっ</value>
+  </data>
+  <data name="0038 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあいいわ
+早く玄関に行って涼みましょ、有希</value>
+  </data>
+  <data name="0039 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……ん？　有希、今の見た？</value>
+  </data>
+  <data name="0040 (565.ja) NAGATO (長門)" xml:space="preserve">
+    <value>見ていない</value>
+  </data>
+  <data name="0041 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そこを、なにか白くてひらひらした
+ものが通ったのよ！</value>
+  </data>
+  <data name="0042 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>追いかけるわよ！</value>
+  </data>
+  <data name="0045 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによこれ……</value>
+  </data>
+  <data name="0046 (565.ja) NAGATO (長門)" xml:space="preserve">
+    <value>カーテン</value>
+  </data>
+  <data name="0047 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなの見れば分かるわよ</value>
+  </data>
+  <data name="0048 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしが言いたいのは誰がこんなと
+こにカーテンを出したかってこと！</value>
+  </data>
+  <data name="0049 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく、余計な時間を食ったわ！</value>
+  </data>
+  <data name="0051 (565.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>昼間閉めきっていたせいで熱が
+こもっているのでしょうね</value>
+  </data>
+  <data name="0052 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だったら窓を全開にしちゃえばいい
+のに</value>
+  </data>
+  <data name="0053 (565.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それは防犯上問題があるのでしょう</value>
+  </data>
+  <data name="0054 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああっ、もう！</value>
+  </data>
+  <data name="0055 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>とにかく玄関へ急ぎましょ</value>
+  </data>
+  <data name="0056 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あそこならちょっとは涼しいはずよ</value>
+  </data>
+  <data name="0057 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……あれ？</value>
+  </data>
+  <data name="0058 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉君、今の見た？</value>
+  </data>
+  <data name="0059 (565.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、僕はなにも</value>
+  </data>
+  <data name="0060 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そこを白いひらひらしたのが通った
+のよ！</value>
+  </data>
+  <data name="0061 (565.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>白い、ひらひらしたもの……
+ですか？</value>
+  </data>
+  <data name="0062 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>とにかく追いかけましょ！</value>
+  </data>
+  <data name="0065 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによこれ……カーテンじゃない</value>
+  </data>
+  <data name="0066 (565.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>本当ですね
+誰がこんなところに……</value>
+  </data>
+  <data name="0067 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく、まぎらわしいわね！
+走ったら余計に暑くなったし</value>
+  </data>
+  <data name="0068 (565.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰がやったか知らないけど
+人騒がせなヤツね、まったく！</value>
+  </data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,80 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (280.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、そうだ……</value>
+  </data>
+  <data name="0001 (280.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、さっきのたくさんあった
+資料、ぜんぶ読みました？</value>
+  </data>
+  <data name="0002 (280.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほとんど目は通したと思うけど
+でも、どうして？</value>
+  </data>
+  <data name="0003 (280.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんが、資料の中からユニーク
+な絵の記事を見つけて……</value>
+  </data>
+  <data name="0004 (280.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あー、あの下手くそな絵ね</value>
+  </data>
+  <data name="0005 (280.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>北高のＯＢが描いたらしいんだけど
+まるでセンスが無いわ</value>
+  </data>
+  <data name="0006 (280.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれならまだ、あたしが美術の時間
+に描いた絵の方がマシね</value>
+  </data>
+  <data name="0008 (280.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>ハルにゃん、お絵かきしたの？</value>
+  </data>
+  <data name="0009 (280.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>学校の授業でね。我ながら上手に
+描けてたわ</value>
+  </data>
+  <data name="0011 (280.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>どんな絵だったんですか？</value>
+  </data>
+  <data name="0012 (280.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね……例えるなら、</value>
+  </data>
+  <data name="0013 (280.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>革命ね！</value>
+  </data>
+  <data name="0014 (280.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>かく……めい？</value>
+  </data>
+  <data name="0015 (280.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>つまらない世の中を、根底から
+ひっくり返すようなデザインよ</value>
+  </data>
+  <data name="0017 (280.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>よくわかんない……</value>
+  </data>
+  <data name="0018 (280.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん～、説明が難しいわね</value>
+  </data>
+  <data name="0019 (280.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、とにかくあんな下手っぴな
+絵よりは、ずっと上手な絵だったわ</value>
+  </data>
+  <data name="0020 (280.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、今度、ＳＯＳ団の部室にも
+何か新しい絵を飾りましょうか</value>
+  </data>
+  <data name="0022 (280.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>わぁ、それすごくいいですね</value>
+  </data>
+  <data name="0023 (280.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしの画力は、ＳＯＳ団のロゴを
+見てもらえば、想像がつくでしょ</value>
+  </data>
+  <data name="0024 (280.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0025 (280.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……やっぱり、止めておいたほうが</value>
+  </data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,412 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>じゃあ、行ってきますね</value>
+  </data>
+  <data name="0001 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんと買い物とは、なんとも
+うれしいことだ</value>
+  </data>
+  <data name="0002 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とはいえ、喜んでいる場合でもない</value>
+  </data>
+  <data name="0003 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>買い物をしながら、ハルヒの
+気をそらす作戦を考えましょう</value>
+  </data>
+  <data name="0004 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうですね。たくさんアイデアが
+あった方がいいでしょうし</value>
+  </data>
+  <data name="0005 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>買う物もたくさんありますから
+考える時間もありそうですよ</value>
+  </data>
+  <data name="0006 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんと２人きりでいられる
+時間なら、永遠でも問題ない</value>
+  </data>
+  <data name="0007 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし残念ながら居心地の悪い合宿
+にさっさとケリをつける方が重要だ</value>
+  </data>
+  <data name="0009 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんはドリンク剤でしたね</value>
+  </data>
+  <data name="0010 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>あれ以上元気になってもらうのも
+なんとも困りものですが</value>
+  </data>
+  <data name="0011 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>なんでも眠気覚ましに
+使うらしいですよ</value>
+  </data>
+  <data name="0012 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は朝比奈さんの笑顔だけで
+何日でも起きていられそうです</value>
+  </data>
+  <data name="0013 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そうだ。朝比奈さんはドリンク剤は
+必要ないのだろうか？</value>
+  </data>
+  <data name="0014 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんは眠気覚ましを飲まな
+いんですか？</value>
+  </data>
+  <data name="0015 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ドリンク剤は、あんまり飲んだこと
+がないです</value>
+  </data>
+  <data name="0016 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>たしかに、朝比奈さんがドリンク剤
+をあおっている姿は想像がつかない</value>
+  </data>
+  <data name="0017 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんにはおやつでもあれば
+いいのかな……</value>
+  </data>
+  <data name="0018 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>#P05“わらびもち”#P01でも買っておくか</value>
+  </data>
+  <data name="0019 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんが食べなくても誰かが
+食べるだろう</value>
+  </data>
+  <data name="0020 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いや待て、朝比奈さんにドリンク剤
+というのは似合わない気がする</value>
+  </data>
+  <data name="0021 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんのドリンク剤は、目覚まし
+だけでいいと思いますか？</value>
+  </data>
+  <data name="0022 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうですね……他にもなにかあれば
+いいかも知れませんね</value>
+  </data>
+  <data name="0023 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ブルーベリーの#P05“ドリンク”#P00なんて
+どうでしょう。目に優しいですから</value>
+  </data>
+  <data name="0024 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>それはいいですね、#P05“ドリンク”#P00で
+ムダに元気になられても困りますし</value>
+  </data>
+  <data name="0025 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あと、古泉くんの工具ですけど
+何を買えばいいのでしょう？</value>
+  </data>
+  <data name="0026 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>ニセ怪談の仕掛けを作るためなので
+材料も含めて俺が見つくろいますよ</value>
+  </data>
+  <data name="0027 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>じゃあ、あたしは長門さんの雑誌を
+買いますね</value>
+  </data>
+  <data name="0028 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>小道具作りの工具が案外重いな</value>
+  </data>
+  <data name="0029 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>雑誌もかさばりますね</value>
+  </data>
+  <data name="0030 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>手分けして買い物をしたけれど
+思ったより大変な量になりそうだ</value>
+  </data>
+  <data name="0031 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>おやつや夜食だけでもかなりの量で
+両手いっぱいになりますね</value>
+  </data>
+  <data name="0032 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうですね、人数がいますから</value>
+  </data>
+  <data name="0034 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>控えめにしても荷物は増える一方だ</value>
+  </data>
+  <data name="0035 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの目をそらす作戦どころじゃ
+なくなってきたが、どうしようか</value>
+  </data>
+  <data name="0036 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……適当に買っておくか</value>
+  </data>
+  <data name="0037 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>気が乗らないまま色々と物色してい
+ると発光するおもちゃを見つけた</value>
+  </data>
+  <data name="0038 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>#P05“蛍光スティック”#P00か……
+ニセの怪談とかに使えるかもな</value>
+  </data>
+  <data name="0040 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>相談しておいた方がよさそうだな</value>
+  </data>
+  <data name="0041 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん、ハルヒの目をそらす
+ようなものは、なにがいいです？</value>
+  </data>
+  <data name="0042 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>むずかしいですねえ……なにが
+興味を引くのかわかりませんし</value>
+  </data>
+  <data name="0043 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>意外なものを無視したり、どうでも
+いいようなものに引かれますからね</value>
+  </data>
+  <data name="0044 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、これなんてどうでしょう？</value>
+  </data>
+  <data name="0045 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>おもちゃの携帯電話ですけど
+ぱっとみると本物みたいですよ</value>
+  </data>
+  <data name="0046 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>本当だ。よく出来ているが、これは
+オモチャの携帯電話だ</value>
+  </data>
+  <data name="0047 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>着信音だけで使えない携帯ですから
+面白がるかも知れません</value>
+  </data>
+  <data name="0048 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>なるほど……</value>
+  </data>
+  <data name="0049 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>効果的に使えば、ハルヒの気を引く
+ことが出来るかも知れないな</value>
+  </data>
+  <data name="0050 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>ありがとう、朝比奈さん。相談して
+よかったですよ</value>
+  </data>
+  <data name="0051 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ほかにもなにか涼宮さんの気を引く
+ものを買っておいた方がいいですね</value>
+  </data>
+  <data name="0052 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうですね。しかし、なにがいい
+ものやら……</value>
+  </data>
+  <data name="0053 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、花火なんてどうでしょう</value>
+  </data>
+  <data name="0054 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>花火ですか……</value>
+  </data>
+  <data name="0055 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>世界の危機かも知れない状況で花火
+ってのはどうなんだろう？</value>
+  </data>
+  <data name="0056 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いくら朝比奈さんの提案とはいえ
+のんびり花火って場合じゃないよな</value>
+  </data>
+  <data name="0057 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とはいえハルヒの興味がそれるかも
+知れないし……</value>
+  </data>
+  <data name="0058 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>買いましょう。ハルヒの気が花火に
+向いてくれたらラッキーですから</value>
+  </data>
+  <data name="0059 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい、じゃあ#P05“花火”#P00をカゴに入れ
+ますね</value>
+  </data>
+  <data name="0060 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>#P05“花火”#P01みたいにハルヒの意欲が
+パッと散ってくれるとありがたいね</value>
+  </data>
+  <data name="0061 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>花火は場所の問題もありますし
+ほかのものにしませんか？</value>
+  </data>
+  <data name="0062 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうですね……じゃあ#P05“漫画雑誌”#P00
+を買っていきましょうか</value>
+  </data>
+  <data name="0063 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>面白おかしいマンガがいいですね
+この#P05“漫画雑誌”#P00がいいかも</value>
+  </data>
+  <data name="0064 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>これなら涼宮さんの気持ちが怪談話
+からそれそうですね</value>
+  </data>
+  <data name="0065 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒが手に取ったとたん、座り
+込んで読みふけりそうな気がする</value>
+  </data>
+  <data name="0066 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それはそれで安泰ってことか</value>
+  </data>
+  <data name="0067 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>お買い物、これで終わりでしょう
+か？</value>
+  </data>
+  <data name="0068 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>一通り必要なものは揃いましたね
+清算を済ませて戻りましょう</value>
+  </data>
+  <data name="0069 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>せっかく朝比奈さんと２人きりで
+ただ戻るのも面白くないな……</value>
+  </data>
+  <data name="0070 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どこかに立ち寄る余裕なんていまは
+ないけど、せめて一服の清涼剤を</value>
+  </data>
+  <data name="0071 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>暑いからアイスでも買いましょうか</value>
+  </data>
+  <data name="0072 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それは名案ですねっ</value>
+  </data>
+  <data name="0073 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんが喜ぶ顔をみるだけでも
+一服した気分になるね</value>
+  </data>
+  <data name="0074 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃ、アイスを２つ買いましょう</value>
+  </data>
+  <data name="0075 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>買い出しにきたごほうびってことで
+これぐらいは許されるだろう</value>
+  </data>
+  <data name="0076 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>はい、朝比奈さんの分です</value>
+  </data>
+  <data name="0077 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ありがとう、キョン君</value>
+  </data>
+  <data name="0079 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんとアイスを食べながら
+学校へと向かう</value>
+  </data>
+  <data name="0080 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>このまま時間が止まって欲しいね</value>
+  </data>
+  <data name="0081 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>この時間になっても外は暑いですね</value>
+  </data>
+  <data name="0082 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>毎年暑くなっている気がしますね</value>
+  </data>
+  <data name="0083 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>やっぱり温暖化の影響ですかね
+未来はもっと暑くなってますか？</value>
+  </data>
+  <data name="0084 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それはっ、き、禁則事項でふっ</value>
+  </data>
+  <data name="0085 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>アイスをくわえて禁則事項か……
+何をやっても朝比奈さんは可愛いね</value>
+  </data>
+  <data name="0086 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>合宿が無事に終わるとありがたい
+ですね、朝比奈さん</value>
+  </data>
+  <data name="0087 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうですね、おばけとか出ないで
+無事に終わって欲しいです</value>
+  </data>
+  <data name="0088 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの願いが実現するよりも
+おばけの方が怖いのか……</value>
+  </data>
+  <data name="0089 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それが朝比奈さんの本音なのかを
+聞いてみたい気がするな</value>
+  </data>
+  <data name="0090 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……聞いてみるか</value>
+  </data>
+  <data name="0091 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんの本音としてはおばけが
+ハルヒより怖いと？</value>
+  </data>
+  <data name="0092 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、いえ、そうじゃなくって……</value>
+  </data>
+  <data name="0093 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ちょっと怖い思いをして以来ずっと
+おばけが怖いんですぅ</value>
+  </data>
+  <data name="0094 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>え？　朝比奈さんが怪奇現象に？</value>
+  </data>
+  <data name="0095 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっ、あのっ、たぶん見間違いだと
+思うんですけど……</value>
+  </data>
+  <data name="0096 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>ふむふむ</value>
+  </data>
+  <data name="0097 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんの#P05“体験談”#P01を聞いたが
+意味がよく分からなかった</value>
+  </data>
+  <data name="0098 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>話しながらも怖くなったらしく
+内容は支離滅裂だったのだ</value>
+  </data>
+  <data name="0099 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>それはきっと見間違いということで</value>
+  </data>
+  <data name="0100 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい、見間違いです、きっと</value>
+  </data>
+  <data name="0101 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いつかしっかりと内容を聞いて
+みたいところだね</value>
+  </data>
+  <data name="0102 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もっとも、生理的にダメなものって
+のもあるだろうからな</value>
+  </data>
+  <data name="0103 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>聞かない方がいいかも知れない</value>
+  </data>
+  <data name="0104 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、こんな本があったので買って
+おきましたけど、使えますか？</value>
+  </data>
+  <data name="0105 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>#P05“占星術の本”#P00ですか。もしかする
+とハルヒが喜ぶかもしれませんね</value>
+  </data>
+  <data name="0106 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>買っておいてよかったです</value>
+  </data>
+  <data name="0107 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ポケットサイズだしなにかの時に
+使えるかも知れない</value>
+  </data>
+  <data name="0108 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>役に立たなければ長門にあげれば
+いいよな</value>
+  </data>
+  <data name="0110 (468.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>うまく涼宮さんの興味をそらすこと
+が出来るといいですね</value>
+  </data>
+  <data name="0111 (468.ja) KYON (キョン)" xml:space="preserve">
+    <value>ええ、そうでないと大変なことに
+なりそうですから</value>
+  </data>
+  <data name="0112 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんとアイスを食べながら
+こうして歩く平和な時間か</value>
+  </data>
+  <data name="0113 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この平和が続いてくれるとうれしい
+が、そうもいかないのが恨めしい</value>
+  </data>
+  <data name="0114 (468.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ドリンク剤で気合いを入れる団長殿
+のことを考えると気が重いね</value>
+  </data>
 </root>

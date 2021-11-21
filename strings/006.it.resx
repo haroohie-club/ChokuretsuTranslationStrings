@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (006.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしがみくるちゃんを脅して
+るですって！？</value>
+  </data>
+  <data name="0001 (006.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの、ちゃんと違うって
+言っておきましたからっ</value>
+  </data>
+  <data name="0002 (006.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>当然よ！</value>
+  </data>
+  <data name="0003 (006.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それにしても、ひとのことを
+冷徹な独裁者みたいに……</value>
+  </data>
+  <data name="0004 (006.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>許さないわ！　天誅よ、天誅！</value>
+  </data>
 </root>

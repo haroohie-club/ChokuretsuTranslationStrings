@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,41 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (008.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>さっき、コンピューター研の
+人たちにパソコンを習ったんです</value>
+  </data>
+  <data name="0001 (008.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>調査中になにをやってたの……
+って追及なしにしといてあげるわ</value>
+  </data>
+  <data name="0002 (008.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あう……</value>
+  </data>
+  <data name="0003 (008.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>で、なにを教わったの？</value>
+  </data>
+  <data name="0004 (008.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、絵を描いたりとか</value>
+  </data>
+  <data name="0005 (008.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんですって！？</value>
+  </data>
+  <data name="0006 (008.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その絵はどうしたの！</value>
+  </data>
+  <data name="0007 (008.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、コンピューター研の人が
+持ってますけど</value>
+  </data>
+  <data name="0008 (008.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんてこと！</value>
+  </data>
+  <data name="0009 (008.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんの描いた絵なら
+男どもに高く売れたのに！</value>
+  </data>
+  <data name="0010 (008.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>う、売っちゃダメですよぉ……</value>
+  </data>
 </root>

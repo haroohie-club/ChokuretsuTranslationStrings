@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,224 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いま、体育館の方から何か聞こえ
+なかった！？</value>
+  </data>
+  <data name="0001 (549.ja) KYON (キョン)" xml:space="preserve">
+    <value>聞こえたって何がだ？</value>
+  </data>
+  <data name="0002 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何か、歌みたいなのよ！</value>
+  </data>
+  <data name="0003 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これはもしかすると……！？</value>
+  </data>
+  <data name="0004 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>体育館へ急ぐわよ！　キョン</value>
+  </data>
+  <data name="0005 (549.ja) KYON (キョン)" xml:space="preserve">
+    <value>待て待て、聞こえたってのは
+きっとあれだ</value>
+  </data>
+  <data name="0006 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれ？　あれって何よ
+アンタ、なんか知ってるの？</value>
+  </data>
+  <data name="0007 (549.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ、いいからちょっと来い</value>
+  </data>
+  <data name="0009 (549.ja) KYON (キョン)" xml:space="preserve">
+    <value>見ろ、あれが歌の正体だ</value>
+  </data>
+  <data name="0010 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どっかの部活の子たち？　帰り支度
+してるみたいだけど……あっ</value>
+  </data>
+  <data name="0011 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれ、ウチのクラスの佐伯と阪中
+じゃない</value>
+  </data>
+  <data name="0012 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう言えばコーラス部に仮入部した
+とき、あの二人を見かけたわ</value>
+  </data>
+  <data name="0013 (549.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺も、コーラス部が夏休みに部活が
+あるって話を聞いてたんだ</value>
+  </data>
+  <data name="0014 (549.ja) KYON (キョン)" xml:space="preserve">
+    <value>つまり、さっきおまえが聞いたのは
+連中の歌声ってことだ</value>
+  </data>
+  <data name="0015 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……まったく、紛らわしいわね</value>
+  </data>
+  <data name="0016 (549.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やれやれ、なんとか誤魔化せたか</value>
+  </data>
+  <data name="0018 (549.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え？　え？</value>
+  </data>
+  <data name="0019 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何か、歌みたいな……</value>
+  </data>
+  <data name="0020 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>間違いないわ！　今度こそ本物の
+怪奇現象よ！</value>
+  </data>
+  <data name="0021 (549.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの、たぶん違うと思います</value>
+  </data>
+  <data name="0022 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>違うって？
+みくるちゃん、何か知ってるの？</value>
+  </data>
+  <data name="0023 (549.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えと、お昼に聞いたんですけど</value>
+  </data>
+  <data name="0024 (549.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>今日はコーラス部の人達が練習
+してるって</value>
+  </data>
+  <data name="0025 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>コーラス部……？</value>
+  </data>
+  <data name="0028 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あそこにいるのは……
+ウチのクラスの佐伯と阪中じゃない</value>
+  </data>
+  <data name="0029 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>確か、あの２人はコーラス部だった
+わね。仮入部の時に見たわ</value>
+  </data>
+  <data name="0030 (549.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>歌は、あたしも聞こえたんです
+けど、方向が違うかなって思って</value>
+  </data>
+  <data name="0031 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんも聞こえてたなら
+そうなのかもね</value>
+  </data>
+  <data name="0032 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それにしても、この忙しい時に
+紛らわしいわね</value>
+  </data>
+  <data name="0033 (549.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ほっ……</value>
+  </data>
+  <data name="0034 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>行くわよ、みくるちゃん</value>
+  </data>
+  <data name="0035 (549.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい</value>
+  </data>
+  <data name="0037 (549.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0038 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何か、歌みたいな……</value>
+  </data>
+  <data name="0039 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>間違いないわ！　今度こそ本物の
+怪奇現象よ！</value>
+  </data>
+  <data name="0040 (549.ja) NAGATO (長門)" xml:space="preserve">
+    <value>待って</value>
+  </data>
+  <data name="0041 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、有希
+急がないと、見逃しちゃうわ！</value>
+  </data>
+  <data name="0042 (549.ja) NAGATO (長門)" xml:space="preserve">
+    <value>それは違う</value>
+  </data>
+  <data name="0043 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>違う？</value>
+  </data>
+  <data name="0044 (549.ja) NAGATO (長門)" xml:space="preserve">
+    <value>ついて来て</value>
+  </data>
+  <data name="0047 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どっかの部活の子たち？　帰り支度
+してるみたいだけど……あっ</value>
+  </data>
+  <data name="0048 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれ、ウチのクラスの佐伯と阪中
+じゃない</value>
+  </data>
+  <data name="0049 (549.ja) NAGATO (長門)" xml:space="preserve">
+    <value>コーラス部
+練習をしていた</value>
+  </data>
+  <data name="0050 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、歌声って……</value>
+  </data>
+  <data name="0051 (549.ja) NAGATO (長門)" xml:space="preserve">
+    <value>彼女たち</value>
+  </data>
+  <data name="0052 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんだ……紛らわしいわね、もう</value>
+  </data>
+  <data name="0053 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さあ行きましょ、有希</value>
+  </data>
+  <data name="0054 (549.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0056 (549.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>聞こえたというのは？</value>
+  </data>
+  <data name="0057 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何か、歌みたいなのよ</value>
+  </data>
+  <data name="0058 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>間違いないわ！　今度こそ本物の
+怪奇現象よ！</value>
+  </data>
+  <data name="0059 (549.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、それは人間の声なのではない
+かと思われます</value>
+  </data>
+  <data name="0060 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……どういうこと？</value>
+  </data>
+  <data name="0061 (549.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>少し、寄り道をさせてください</value>
+  </data>
+  <data name="0064 (549.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あれをご覧下さい</value>
+  </data>
+  <data name="0065 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれは……どこかの部活の人たち？</value>
+  </data>
+  <data name="0066 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、ウチのクラスの佐伯と阪中も
+いるじゃない</value>
+  </data>
+  <data name="0067 (549.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おそらく、コーラス部ではないかと</value>
+  </data>
+  <data name="0068 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>コーラス部？</value>
+  </data>
+  <data name="0069 (549.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>はい。昼間、練習しているという話
+を耳にしたもので</value>
+  </data>
+  <data name="0070 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、さっきの歌声って……</value>
+  </data>
+  <data name="0071 (549.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おそらく彼女たちかと</value>
+  </data>
+  <data name="0072 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんだ……もう紛らわしいわね</value>
+  </data>
+  <data name="0073 (549.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>行きましょ、古泉くん</value>
+  </data>
+  <data name="0074 (549.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>はい</value>
+  </data>
 </root>

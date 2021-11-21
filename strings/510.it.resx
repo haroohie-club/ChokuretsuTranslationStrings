@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,507 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉と手分けをして時計を遅らせる
+作戦に出たわけだが</value>
+  </data>
+  <data name="0001 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>こうしてみると、時計の数が多いな</value>
+  </data>
+  <data name="0002 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>学校という場所が、いかに時間に
+束縛されているのかが分かる</value>
+  </data>
+  <data name="0003 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんなことを考えながら、黙々と
+作業を進める</value>
+  </data>
+  <data name="0004 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>よし、俺の担当分はここまでだ</value>
+  </data>
+  <data name="0005 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>意外と早く済んだのはラッキーだ
+古泉と手分けしたのは正解だった</value>
+  </data>
+  <data name="0006 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>最後は昇降口か</value>
+  </data>
+  <data name="0007 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉か俺か、先に終わった方が
+昇降口付近の時計に細工をする</value>
+  </data>
+  <data name="0008 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>単純作業は古泉の方が早そうだな</value>
+  </data>
+  <data name="0009 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あいつにはこんな作業が向いて
+いそうだと心底思うね</value>
+  </data>
+  <data name="0010 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とりあえず昇降口に向かおう</value>
+  </data>
+  <data name="0012 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>早いな、古泉</value>
+  </data>
+  <data name="0013 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>こちらはあらかた細工を終えました</value>
+  </data>
+  <data name="0014 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺が予測した通り、古泉はすでに
+昇降口で時計の針を遅らせていた</value>
+  </data>
+  <data name="0015 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえをそっちにまわしたのは
+正解だったな</value>
+  </data>
+  <data name="0016 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺は、人事に向いているかも知れん</value>
+  </data>
+  <data name="0017 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>確かに、今回はあなたの采配が事態
+に大きく影響しましたね</value>
+  </data>
+  <data name="0018 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ですが、人事に向いているかどうか
+で言えば、僕は逆だと思いますよ</value>
+  </data>
+  <data name="0019 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>思い上がるなってことか</value>
+  </data>
+  <data name="0020 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、能力云々というより性格的な
+ことです</value>
+  </data>
+  <data name="0021 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>人を使うということは時に冷徹な
+判断も必要ということです</value>
+  </data>
+  <data name="0022 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>個人的感想ですが、あなたには
+そういった仕事は似合わないかと</value>
+  </data>
+  <data name="0023 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺は褒められてるのか……？</value>
+  </data>
+  <data name="0024 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>どうでしょう？</value>
+  </data>
+  <data name="0025 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>少なくとも、僕はあなたの性格が
+嫌いではありませんよ</value>
+  </data>
+  <data name="0026 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>気味の悪いことを言うな</value>
+  </data>
+  <data name="0027 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>冷たいですね。同じＳＯＳ団の
+男子部員ではないですか</value>
+  </data>
+  <data name="0028 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>だから、そういう発言が気味悪いと
+言ってるんだ……</value>
+  </data>
+  <data name="0029 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんだか妙な話になってきた</value>
+  </data>
+  <data name="0030 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>無駄話はこのくらいにしておこう</value>
+  </data>
+  <data name="0031 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですね。今は一時でも惜しい
+ですから</value>
+  </data>
+  <data name="0032 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>冗談。言ってみただけだ</value>
+  </data>
+  <data name="0033 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉の話に付き合ってる時間もない
+からな</value>
+  </data>
+  <data name="0034 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>それで、時計は全部遅らせたん
+だな？</value>
+  </data>
+  <data name="0035 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ。ここであなたが来るのを
+待っていたんですよ</value>
+  </data>
+  <data name="0036 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうか</value>
+  </data>
+  <data name="0037 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>すれ違いになるのを防いだってこと
+らしいが、なんとなく悔しいね</value>
+  </data>
+  <data name="0038 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それはそうと、ひとつ気になること
+があるんですよ</value>
+  </data>
+  <data name="0039 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>もったいぶらずに言えよ</value>
+  </data>
+  <data name="0040 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんの目につきそうな時計は
+すべて遅らせておきましたが……</value>
+  </data>
+  <data name="0041 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>だから、なんなんだ</value>
+  </data>
+  <data name="0042 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんが身につけている時計は
+どうすればいいでしょうか</value>
+  </data>
+  <data name="0043 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>あ……携帯か！</value>
+  </data>
+  <data name="0044 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ。涼宮さんの携帯だけは
+どうしようもないですね……</value>
+  </data>
+  <data name="0045 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>なぜ俺を見る</value>
+  </data>
+  <data name="0046 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、特に理由はありません</value>
+  </data>
+  <data name="0047 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そういう危険なことは俺にやらせる
+つもりなのだろう</value>
+  </data>
+  <data name="0048 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>わかった、ハルヒの携帯は俺がなん
+とかする</value>
+  </data>
+  <data name="0049 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですか、どうしようかと思案に
+暮れていたところでした</value>
+  </data>
+  <data name="0050 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺にふったくせに、こいつはよく
+言うね</value>
+  </data>
+  <data name="0051 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いやあ、やはり持つべきものは友人
+といったところでしょうか</value>
+  </data>
+  <data name="0052 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉の友情など願い下げだが
+この際仕方がないだろう</value>
+  </data>
+  <data name="0053 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえがなんとかしたらどうだ？</value>
+  </data>
+  <data name="0054 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、色々と方法を考えたのですが
+これといった案が浮かばないのです</value>
+  </data>
+  <data name="0055 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あなたなら出来るのではないかと
+思いますが、いかがでしょう？</value>
+  </data>
+  <data name="0056 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なにを根拠に俺なら出来ると思うか
+説明してもらいたいね</value>
+  </data>
+  <data name="0057 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あ、そうだ。携帯の身代わりにこれ
+を使ってはいかがでしょう</value>
+  </data>
+  <data name="0058 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだこのやたらでかい消しゴムは</value>
+  </data>
+  <data name="0059 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>さきほど拾ったものです。携帯の
+代わりにちょうど良い大きさかと</value>
+  </data>
+  <data name="0060 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こんなものまで用意しておいて
+俺にやらせるかね</value>
+  </data>
+  <data name="0061 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>まさか……</value>
+  </data>
+  <data name="0062 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんでしょうね、あの足音は</value>
+  </data>
+  <data name="0063 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと、鏡はどうなのよっ</value>
+  </data>
+  <data name="0064 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>出やがったか</value>
+  </data>
+  <data name="0065 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、キョン、なにが出たのっ！
+包み隠さず言いなさいよ！</value>
+  </data>
+  <data name="0066 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえが出たって言ってるんだよ
+部室でおとなしくしてろよな</value>
+  </data>
+  <data name="0067 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だって、時間を無視して飛び出して
+来るかも知れないでしょ！</value>
+  </data>
+  <data name="0068 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえじゃないんだから大丈夫だろ</value>
+  </data>
+  <data name="0069 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>失礼ねっ、どうしてあたしが時間を
+無視して飛び出すって言うのよっ！</value>
+  </data>
+  <data name="0070 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>現に、ここにいるじゃないか</value>
+  </data>
+  <data name="0073 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くん、あたしが来るとなにか
+困るようなことをしてるの？</value>
+  </data>
+  <data name="0074 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ごまかして古泉に話をふるか</value>
+  </data>
+  <data name="0075 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、滅相もありません。異変が
+ないか２人で見回り中でしたので</value>
+  </data>
+  <data name="0076 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん。信じておくわね、キョン</value>
+  </data>
+  <data name="0077 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なぜ俺に言う</value>
+  </data>
+  <data name="0078 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃ、あたしは他を見回ってみるわ</value>
+  </data>
+  <data name="0079 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ちょっと待て！
+校舎内をうろつかれてはたまらんぞ</value>
+  </data>
+  <data name="0080 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こういう時は古泉にサインを送って
+ハルヒをごまかしてもらうか</value>
+  </data>
+  <data name="0083 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0084 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0085 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉にサインを送ると、ウインクで
+返してきやがった</value>
+  </data>
+  <data name="0086 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まあ、#P05“現場の判断”#P01としては
+これが最善策か</value>
+  </data>
+  <data name="0087 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺がなんとかするしかないんだろう</value>
+  </data>
+  <data name="0090 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0091 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんだ、古泉のやつ、俺にウインク
+をしてきやがった</value>
+  </data>
+  <data name="0092 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉なりの#P05“流儀”#P01でなんとかする
+つもりらしい</value>
+  </data>
+  <data name="0095 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おや？</value>
+  </data>
+  <data name="0096 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なになに、どうしたの、古泉くん！
+鏡に変化があったのっ！？</value>
+  </data>
+  <data name="0097 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、なんとなく写った像が揺らい
+だ様な気がしまして</value>
+  </data>
+  <data name="0098 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉はハルヒをうろつかせまいと
+芝居を打っている</value>
+  </data>
+  <data name="0099 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やっぱりこういうペテンは、古泉に
+任せるのが一番だな</value>
+  </data>
+  <data name="0100 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ホント！？
+……おかしいわね</value>
+  </data>
+  <data name="0101 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>特におかしな感じはしないわよ</value>
+  </data>
+  <data name="0102 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>たしかに揺らいで見えたのですが
+僕の勘違いだったのでしょうか</value>
+  </data>
+  <data name="0103 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンならともかく、古泉くんが
+そう思うのなら気になるところね</value>
+  </data>
+  <data name="0104 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だから俺ならともかくとか言うな</value>
+  </data>
+  <data name="0105 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それにしても</value>
+  </data>
+  <data name="0106 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの携帯を、どうやって手に
+入れるかが問題だ</value>
+  </data>
+  <data name="0107 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>肌身離さず持っていたら、まず
+手に入れるのは無理だな</value>
+  </data>
+  <data name="0108 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……カマ掛けてみるか</value>
+  </data>
+  <data name="0109 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、今何時だ？</value>
+  </data>
+  <data name="0110 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたし、携帯を部室に置いてきた
+から、時間はわからないわよ</value>
+  </data>
+  <data name="0111 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そこに時計があるから自分で見れば
+いいじゃないっ</value>
+  </data>
+  <data name="0112 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、そうだったな。眠くてぼーっ
+としてた</value>
+  </data>
+  <data name="0113 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いつだってボーっとしてるじゃない</value>
+  </data>
+  <data name="0114 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>えらい言われようだが、ハルヒの
+携帯は部室にあるってことだ</value>
+  </data>
+  <data name="0115 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おや？　またなにか……</value>
+  </data>
+  <data name="0116 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今度はなに、古泉くんっ！</value>
+  </data>
+  <data name="0117 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、鏡がまた歪んだような……
+やはり、僕の気のせいでしょうか</value>
+  </data>
+  <data name="0118 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>一度ならそうかも知れないけど
+立て続けだからきっと怪奇現象ね！</value>
+  </data>
+  <data name="0119 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あなたはどう思いますか？</value>
+  </data>
+  <data name="0120 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>つまり、今のうちにハルヒの携帯に
+細工をしろってことだろう</value>
+  </data>
+  <data name="0121 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>見間違いだろ。そんなに都合よく
+怪奇現象が起きるはずはないね</value>
+  </data>
+  <data name="0122 (510.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですか、たしかに見たように
+思うのですが……</value>
+  </data>
+  <data name="0123 (510.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どんな風に見えたの、あたしにも
+見えるかしら！</value>
+  </data>
+  <data name="0124 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒは古泉に乗せられて、鏡に
+貼り付いていやがる</value>
+  </data>
+  <data name="0125 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今がチャンスだな</value>
+  </data>
+  <data name="0128 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>……あったあった</value>
+  </data>
+  <data name="0129 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部室を見渡すと、ハルヒの携帯は
+すぐに見つかった</value>
+  </data>
+  <data name="0130 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>時間を遅れさせればいいんだな……</value>
+  </data>
+  <data name="0131 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……ちょっと待て</value>
+  </data>
+  <data name="0132 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この機種のことはよく知らないが
+自動で時計を合わせる携帯もある</value>
+  </data>
+  <data name="0133 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>狂わせたところで、元に戻されて
+しまう可能性もあるってことだ</value>
+  </data>
+  <data name="0134 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうするかだな……</value>
+  </data>
+  <data name="0135 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>時計を狂わせておいて、時刻修正の
+機能がないことを祈るか……</value>
+  </data>
+  <data name="0136 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>厄介なことになるのを覚悟で
+しばらく拝借しておくかだな</value>
+  </data>
+  <data name="0137 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>時間を狂わせたら、返しておくか</value>
+  </data>
+  <data name="0138 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしも自動修正されたとしても
+他の時計がすべて遅れていれば……</value>
+  </data>
+  <data name="0139 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒが他の時計を信じることを
+祈るしかないな</value>
+  </data>
+  <data name="0140 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>時間を遅らせて……と</value>
+  </data>
+  <data name="0141 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ん？</value>
+  </data>
+  <data name="0142 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>メールが着信しているらしい</value>
+  </data>
+  <data name="0143 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>覗き見はいかんが、このアドレスは
+妙だな、どのキャリアからでもない</value>
+  </data>
+  <data name="0144 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>#P05“謎のアドレス”#P00からの発信か……</value>
+  </data>
+  <data name="0145 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>見ていないことにして戻しておこう</value>
+  </data>
+  <data name="0146 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>いちおう時間は狂わせておくとして
+然るべき時まで預かっておくか</value>
+  </data>
+  <data name="0147 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>危険と言えば危険だが、自動修正
+されては元も子もないからな</value>
+  </data>
+  <data name="0148 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの#P05“携帯電話”#P01を拝借して
+おこう</value>
+  </data>
+  <data name="0149 (510.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あとでそっと戻しておけばいい</value>
+  </data>
+  <data name="0150 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>さて、と</value>
+  </data>
+  <data name="0151 (510.ja) KYON (キョン)" xml:space="preserve">
+    <value>昇降口に戻ってハルヒを連れ戻すか</value>
+  </data>
 </root>

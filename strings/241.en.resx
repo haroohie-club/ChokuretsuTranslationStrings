@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,101 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (241.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺の怪奇体験談は、そんなにダメ
+だったのか？</value>
+  </data>
+  <data name="0001 (241.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まだ引っ張ってるの、その話？</value>
+  </data>
+  <data name="0002 (241.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉に至っては、６０点だと酷評さ
+れたんだが……辛口すぎるだろう</value>
+  </data>
+  <data name="0003 (241.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どこが酷評よ。辛口でも何でもない
+めちゃくちゃ甘口の身内びいきよ</value>
+  </data>
+  <data name="0004 (241.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんなの０点、もしくはマイナスね</value>
+  </data>
+  <data name="0005 (241.ja) KYON (キョン)" xml:space="preserve">
+    <value>マイナスて……</value>
+  </data>
+  <data name="0006 (241.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんって、いつも物腰が柔らか
+いのに、</value>
+  </data>
+  <data name="0007 (241.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ときどき人が変わったように辛口
+ですよね……</value>
+  </data>
+  <data name="0008 (241.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうかしら？　まあ、それはきっと
+みくるちゃんに落ち度があったのよ</value>
+  </data>
+  <data name="0009 (241.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あたしにですかあ……？</value>
+  </data>
+  <data name="0010 (241.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そ。落ち度を見付けて指摘してくれ
+る友人がいることに感謝なさい</value>
+  </data>
+  <data name="0011 (241.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それって貴重なんだから</value>
+  </data>
+  <data name="0012 (241.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい、そうですか……</value>
+  </data>
+  <data name="0013 (241.ja) NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹からの評価は、辛口だと
+言っていた</value>
+  </data>
+  <data name="0014 (241.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰が？　って辛口な評価を受けそう
+なのはキョンくらいよね</value>
+  </data>
+  <data name="0015 (241.ja) NAGATO (長門)" xml:space="preserve">
+    <value>その認識は正しい</value>
+  </data>
+  <data name="0016 (241.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希もよくわかってるわね！</value>
+  </data>
+  <data name="0017 (241.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほめるとつけあがるから、キョンは
+辛口評価でちょうどいいのよ</value>
+  </data>
+  <data name="0018 (241.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0019 (241.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕の評価は辛口であると言われて
+しまいました</value>
+  </data>
+  <data name="0020 (241.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなこと言うのはキョンかしら？</value>
+  </data>
+  <data name="0021 (241.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうです。彼ですね</value>
+  </data>
+  <data name="0022 (241.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンも古泉くんには辛口だから
+お互い様ってことにしておけば</value>
+  </data>
+  <data name="0023 (241.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>お互い様ですか。僕は彼に対して
+辛くしているつもりはないのですが</value>
+  </data>
+  <data name="0024 (241.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……いや、しているかもしれません
+彼に対してだけは</value>
+  </data>
+  <data name="0025 (241.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは自己基準が高いからね
+他人にも高い要求しちゃうんでしょ</value>
+  </data>
+  <data name="0026 (241.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼にはつい、本気で期待してしまう
+んです</value>
+  </data>
 </root>

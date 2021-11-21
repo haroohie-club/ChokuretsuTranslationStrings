@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,151 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (324.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、ちょっと待て</value>
+  </data>
+  <data name="0001 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急いでるのになによっ</value>
+  </data>
+  <data name="0002 (324.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ待て、急ぐのはわかっているが
+ちょっと糖分補給だ</value>
+  </data>
+  <data name="0003 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたチョコ持ち歩いてるの？</value>
+  </data>
+  <data name="0004 (324.ja) KYON (キョン)" xml:space="preserve">
+    <value>たまたまだ。おやつに持ってきて
+たんだよ</value>
+  </data>
+  <data name="0005 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>おやつって、合宿は遠足じゃないの
+よ！</value>
+  </data>
+  <data name="0006 (324.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃあお前にはやらん</value>
+  </data>
+  <data name="0007 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいから寄こしなさいっ</value>
+  </data>
+  <data name="0008 (324.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、勝手に奪うな……まったく</value>
+  </data>
+  <data name="0009 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何も全部もらおうなんて思ってない
+ちゃんとあんたの分も残すわよ</value>
+  </data>
+  <data name="0010 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたの頭の血の巡りに必要な分
+ぐらいはね</value>
+  </data>
+  <data name="0011 (324.ja) KYON (キョン)" xml:space="preserve">
+    <value>頭の血の巡りとチョコと、どういう
+関係があるんだよ</value>
+  </data>
+  <data name="0012 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>糖分が脳の栄養になるのよ。アンタ
+の脳みそは栄養失調みたいだしね</value>
+  </data>
+  <data name="0013 (324.ja) KYON (キョン)" xml:space="preserve">
+    <value>さんざんな言いようだな、おい……</value>
+  </data>
+  <data name="0014 (324.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんが買い出しでチョコを
+欲しがったんだそうですよ</value>
+  </data>
+  <data name="0015 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希ってチョコ好きだったの？</value>
+  </data>
+  <data name="0016 (324.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>好きというか、チョコは栄養価に
+すぐれた食品だからだそうですよ</value>
+  </data>
+  <data name="0017 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんはチョコは好き？</value>
+  </data>
+  <data name="0018 (324.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい、チョコレートは好きです</value>
+  </data>
+  <data name="0019 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよね、チョコが嫌いって女の子
+ってあんまし聞かないわよね</value>
+  </data>
+  <data name="0020 (324.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも、夏はとけるのでちょっと……</value>
+  </data>
+  <data name="0021 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うんうん、あれ困るわよー</value>
+  </data>
+  <data name="0022 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>非常食で用意してても、ドロドロに
+なっちゃっててね</value>
+  </data>
+  <data name="0023 (324.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、あの、どうして
+非常食が必要なんでしょう？</value>
+  </data>
+  <data name="0024 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だって備えあれば憂いなしでしょ</value>
+  </data>
+  <data name="0025 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いつ遭難したり、ＵＦＯにさらわれ
+たりしてもいいようによ！</value>
+  </data>
+  <data name="0026 (324.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そんな前提、考えないでください～</value>
+  </data>
+  <data name="0027 (324.ja) NAGATO (長門)" xml:space="preserve">
+    <value>チョコ</value>
+  </data>
+  <data name="0028 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　くれるの？</value>
+  </data>
+  <data name="0029 (324.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0030 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ありがと、うん、おいしいわ</value>
+  </data>
+  <data name="0031 (324.ja) NAGATO (長門)" xml:space="preserve">
+    <value>チョコレートの糖分は短期間にエネ
+ルギーを摂取するのに適している</value>
+  </data>
+  <data name="0032 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういえば、山登りに持っていくっ
+ていうものね</value>
+  </data>
+  <data name="0033 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うん、今みたいな状況には最適だわ</value>
+  </data>
+  <data name="0034 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>暑いから、どろどろにならないよう
+に注意しないといけないけどね</value>
+  </data>
+  <data name="0035 (324.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんの希望で、買出しの際に
+チョコレートを購入したそうです</value>
+  </data>
+  <data name="0036 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいんじゃない？　夜はまだ長いし
+お菓子はいくつあっても足りないわ</value>
+  </data>
+  <data name="0037 (324.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>糖分は頭脳労働に不可欠ですからね</value>
+  </data>
+  <data name="0038 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>甘いものばかりあっても困るけど</value>
+  </data>
+  <data name="0039 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>スナックとか、ちゃんとバランスを
+考えて買ったのかしら……？</value>
+  </data>
+  <data name="0040 (324.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>その辺のことは、心配ないようです
+僕も中身を確認しましたから</value>
+  </data>
+  <data name="0041 (324.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なら安心ね。でもあんまり食べると
+太るから気をつけないとダメね</value>
+  </data>
 </root>

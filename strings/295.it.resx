@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,161 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (295.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ポケットに手を突っ込んだら、そこ
+に何かがある感触</value>
+  </data>
+  <data name="0001 (295.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>引っ張り出してみると、それは小さ
+なしおりだった</value>
+  </data>
+  <data name="0002 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにそれ？　押し花？
+キョン、あんた変な趣味があるのね</value>
+  </data>
+  <data name="0003 (295.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺じゃない、俺が作ったんじゃない
+これは長門がくれたんだ</value>
+  </data>
+  <data name="0004 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希が？
+……なんであんたなんかに</value>
+  </data>
+  <data name="0005 (295.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺が読書に興味を持ってたからじゃ
+ねーかな</value>
+  </data>
+  <data name="0006 (295.ja) KYON (キョン)" xml:space="preserve">
+    <value>これ使ってたくさん読んでくれって
+ことじゃないか？</value>
+  </data>
+  <data name="0007 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そ、そうよね</value>
+  </data>
+  <data name="0008 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希のことだもん、実用的なアイテ
+ムに決まってるわよね</value>
+  </data>
+  <data name="0009 (295.ja) KYON (キョン)" xml:space="preserve">
+    <value>そりゃそうだろう。実用する以外に
+どんな使い道があるんだよ</value>
+  </data>
+  <data name="0010 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ないわよ。しおりなんだから本に
+はさむに決まってるでしょ</value>
+  </data>
+  <data name="0011 (295.ja) KYON (キョン)" xml:space="preserve">
+    <value>だよな</value>
+  </data>
+  <data name="0012 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、せいぜいたくさん本を読んで
+頭が良くなるようがんばりなさい</value>
+  </data>
+  <data name="0013 (295.ja) KYON (キョン)" xml:space="preserve">
+    <value>今、良くないみたいな言い方だな</value>
+  </data>
+  <data name="0014 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>違うの？</value>
+  </data>
+  <data name="0015 (295.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……くそ、ああ言えばこう言う
+口の減らないやつだ</value>
+  </data>
+  <data name="0016 (295.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そういえば、キョンくんが長門さん
+から、押し花のしおりをもらって</value>
+  </data>
+  <data name="0017 (295.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>いましたね……きれいだったな</value>
+  </data>
+  <data name="0018 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん、キョンに押し花ねえ……
+猫に小判っていうのよ、そういうの</value>
+  </data>
+  <data name="0019 (295.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>す、涼宮さん、歩くの速いですよっ
+待ってください～！</value>
+  </data>
+  <data name="0020 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>早く戻るわよ、バカキョンがまた
+有希にイタズラをする前に！</value>
+  </data>
+  <data name="0021 (295.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>きょ、キョンくんはそんなことしま
+せんよう</value>
+  </data>
+  <data name="0022 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうだか！</value>
+  </data>
+  <data name="0023 (295.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>待ってえ～！</value>
+  </data>
+  <data name="0024 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん、有希？
+何か落としたわよ？</value>
+  </data>
+  <data name="0025 (295.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……押し花</value>
+  </data>
+  <data name="0026 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>きれいね、有希が作ったの？</value>
+  </data>
+  <data name="0027 (295.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう
+しおりにもできる</value>
+  </data>
+  <data name="0028 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>本好きの有希らしいわ
+これ、もらっていい？</value>
+  </data>
+  <data name="0029 (295.ja) NAGATO (長門)" xml:space="preserve">
+    <value>構わない
+もう一枚は、彼が持っている</value>
+  </data>
+  <data name="0030 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>彼って……キョン？</value>
+  </data>
+  <data name="0031 (295.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0032 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……キョンが持ってるのね
+じゃあ、やっぱりいらないわ</value>
+  </data>
+  <data name="0033 (295.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0034 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほ、ほんとにいらないんだからね！</value>
+  </data>
+  <data name="0035 (295.ja) NAGATO (長門)" xml:space="preserve">
+    <value>諒解した</value>
+  </data>
+  <data name="0036 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0037 (295.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんには押し花の趣味がある
+ようですね</value>
+  </data>
+  <data name="0038 (295.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>しおりにして、プレゼントしていま
+したよ</value>
+  </data>
+  <data name="0039 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふ、ふうん……キョンにプレゼント
+なんて、有希も物好きね</value>
+  </data>
+  <data name="0040 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あいつ、本なんて読みもしないのに
+しおりなんて使うわけないじゃない</value>
+  </data>
+  <data name="0041 (295.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕も小耳に挟んだだけなので、詳し
+い状況は判らないのですけれどね</value>
+  </data>
+  <data name="0042 (295.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうせキョンが無理矢理くれって
+ねだったに決まってるわ</value>
+  </data>
 </root>

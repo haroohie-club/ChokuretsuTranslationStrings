@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,617 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>英雄色を好む
+ましてや凡人においてをや、だ</value>
+  </data>
+  <data name="0001 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>なんのお話ですか？</value>
+  </data>
+  <data name="0002 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>いやいや、こっちの話です</value>
+  </data>
+  <data name="0003 (367.ja) NAGATO (長門)" xml:space="preserve">
+    <value>行動の指示を</value>
+  </data>
+  <data name="0004 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>特になにかしろとは言わないさ</value>
+  </data>
+  <data name="0005 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>コンピ研の面々と友好的にしていて
+くれれば、それで効果抜群のはずだ</value>
+  </data>
+  <data name="0006 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>言っちゃ悪いが、コンピ研の面々が
+女性に対する免疫が高いとは思えん</value>
+  </data>
+  <data name="0007 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これで態度が軟化してくれれば話も
+聞きやすくなるはずだ</value>
+  </data>
+  <data name="0008 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>さあ、行くか</value>
+  </data>
+  <data name="0011 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>こんちわー</value>
+  </data>
+  <data name="0012 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>ま、また君たちか！</value>
+  </data>
+  <data name="0013 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>何度来られても、これ以上話すこと
+なんてないぞ！</value>
+  </data>
+  <data name="0014 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>今だ、朝比奈さん、長門！</value>
+  </data>
+  <data name="0015 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はいっ</value>
+  </data>
+  <data name="0016 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え、えっとお……陣中見舞い、です
+合宿、ご苦労様です～</value>
+  </data>
+  <data name="0017 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>……へ？</value>
+  </data>
+  <data name="0019 (367.ja) NAGATO (長門)" xml:space="preserve">
+    <value>お茶
+どうぞ</value>
+  </data>
+  <data name="0020 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんはぎこちないし、長門は
+完全に棒読みだ</value>
+  </data>
+  <data name="0021 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だが、とりあえずアピールは成功
+したようだ</value>
+  </data>
+  <data name="0022 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>見ろ、あのコンピ研の連中の顔を
+頬を染めたり、そわそわしたり……</value>
+  </data>
+  <data name="0023 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>明らかに、二人のアピールを喜んで
+いるじゃないか</value>
+  </data>
+  <data name="0025 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの、お茶を入れさせていただ
+きに来たんです</value>
+  </data>
+  <data name="0026 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>大したものじゃありませんけど……</value>
+  </data>
+  <data name="0027 (367.ja) NAGATO (長門)" xml:space="preserve">
+    <value>ポットもある
+コンセントを使用する</value>
+  </data>
+  <data name="0028 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>コンピ研よ、喜べ</value>
+  </data>
+  <data name="0029 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門と朝比奈さんがタッグで攻めて
+来るなんてそうそうない</value>
+  </data>
+  <data name="0030 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>夢のような組み合わせなんだからな</value>
+  </data>
+  <data name="0031 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>い、いやあ、すまないなあ……なん
+だか気をつかわせてしまって</value>
+  </data>
+  <data name="0032 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>いやいや、うちの団長がいつも迷惑
+掛けてますから、そのお詫びですよ</value>
+  </data>
+  <data name="0033 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>うちの部には女子はいないから</value>
+  </data>
+  <data name="0034 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>こういうのは新鮮でいいかも
+しれないなあ……</value>
+  </data>
+  <data name="0035 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部長氏のうっとりとした視線が、
+長門と朝比奈さんに向けられている</value>
+  </data>
+  <data name="0038 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門はいつも通りのポーカーフェイ
+スだが</value>
+  </data>
+  <data name="0041 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは部長氏と目が合うたび
+に恥ずかしそうに顔を伏せている</value>
+  </data>
+  <data name="0042 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……以前、ハルヒの策略で、コンピ
+研からパソコン一式を頂いた時だ</value>
+  </data>
+  <data name="0043 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この部長氏にものすごいことをされ
+た時の記憶がよみがえるのだろう</value>
+  </data>
+  <data name="0045 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一方部長氏はというと</value>
+  </data>
+  <data name="0046 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>この二人のうち、どちらか一人でも
+入部してくれたらなあ……</value>
+  </data>
+  <data name="0047 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>などと呟いている</value>
+  </data>
+  <data name="0050 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だんぜん、朝比奈さんだな</value>
+  </data>
+  <data name="0051 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>彼女の淹れてくれるお茶さえあれば
+修羅場も乗り切れる気がするね</value>
+  </data>
+  <data name="0052 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その辺は、コンピ研の連中も同意見
+らしく</value>
+  </data>
+  <data name="0053 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さっきから朝比奈さんをチラチラと
+盗み見ている</value>
+  </data>
+  <data name="0054 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>単に、メイド服が気になるだけかも
+しれないが</value>
+  </data>
+  <data name="0057 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ、どちらかと言えば長門かな</value>
+  </data>
+  <data name="0058 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは癒しにはなるだろうが
+この状況の解決にはならんだろうし</value>
+  </data>
+  <data name="0059 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし長門ならいつものように冷静
+かつ迅速にこなしてくれるだろう</value>
+  </data>
+  <data name="0062 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんもお茶、いりますか？</value>
+  </data>
+  <data name="0063 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どうやら、朝比奈さんはいつの間
+にか給仕に夢中になっている</value>
+  </data>
+  <data name="0064 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>性格によるところなのか、それとも
+一種の職業病みたいなものか</value>
+  </data>
+  <data name="0065 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>などと夢想し、朝比奈さんのお茶を
+飲みつつ何気なく周囲を見渡す</value>
+  </data>
+  <data name="0066 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>色んな書類が散らばってるな……</value>
+  </data>
+  <data name="0067 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうですね。このポスターは、パソ
+コンで作ったものでしょうか？</value>
+  </data>
+  <data name="0068 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんが机上に置いてあったポ
+スターを指さすと、部員が頷いた</value>
+  </data>
+  <data name="0069 (367.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>こ、このくらいなら軽いもんだよ
+誰だってすぐできる。簡単だよ</value>
+  </data>
+  <data name="0070 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その割には得意気な顔をしている
+どんなポスターか一応見てみよう</value>
+  </data>
+  <data name="0071 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>……へぇ</value>
+  </data>
+  <data name="0072 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>“水を大切に！”
+校内の節水を呼びかける貼り紙か</value>
+  </data>
+  <data name="0073 (367.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>生徒会に頼まれたんだ
+なかなかの出来だろう？</value>
+  </data>
+  <data name="0074 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あんな原始的なデバイスでこんなに
+きれいなポスターが作れるんですね</value>
+  </data>
+  <data name="0075 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは目を丸くして感心
+しきりにうなずいている</value>
+  </data>
+  <data name="0076 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だけど、その感心のしかたは良く
+ありません。気をつけてください</value>
+  </data>
+  <data name="0077 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし……この貼り紙を見ている
+と、何かがひっかかる</value>
+  </data>
+  <data name="0078 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ＣＧでデザインされた“Ｈ２Ｏ”つ
+まり“水”の記号が書かれているが</value>
+  </data>
+  <data name="0079 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どこかおかしな印象を受けるのだ
+一体なんだろう？</value>
+  </data>
+  <data name="0080 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……あ
+判ったぞ</value>
+  </data>
+  <data name="0081 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>“Ｈ２Ｏ”と書くべきところが</value>
+  </data>
+  <data name="0082 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>“２”が抜けて“ＨＯ”になって
+しまっているのだ</value>
+  </data>
+  <data name="0083 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それに、“Ｈ”が横長にデザインさ
+れすぎている</value>
+  </data>
+  <data name="0084 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>見ようによっては“ＨＯ”ですら
+なく“１－１０”のように見える</value>
+  </data>
+  <data name="0085 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>指摘した方がいいのだろうか？</value>
+  </data>
+  <data name="0086 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんと長門の接待で気分を
+良くしているというのに</value>
+  </data>
+  <data name="0087 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>指摘してしまっては水を差すことに
+なるんじゃないだろうか？</value>
+  </data>
+  <data name="0088 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さて、どうしたものか……</value>
+  </data>
+  <data name="0089 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>あー、ちょっといいですか</value>
+  </data>
+  <data name="0090 (367.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>……なんだい？</value>
+  </data>
+  <data name="0091 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>うん、気持ちは良く判る</value>
+  </data>
+  <data name="0092 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんと楽しく話していたとこ
+ろをジャマされた気分だよな</value>
+  </data>
+  <data name="0093 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>すみませんね
+この貼り紙なんですが……</value>
+  </data>
+  <data name="0094 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>これ、“Ｈ２Ｏ”の“２”が抜けて
+ないですか？</value>
+  </data>
+  <data name="0095 (367.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>えっ！？　まさかそんなはずは……</value>
+  </data>
+  <data name="0096 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部員氏は貼り紙を手に取り
+目の前で広げてみせる</value>
+  </data>
+  <data name="0097 (367.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>……ああっ、本当だ！</value>
+  </data>
+  <data name="0098 (367.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>バックと同じ色で描いてるせいで、
+全然見えなくなってる！</value>
+  </data>
+  <data name="0099 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>それに、いくらなんでも“Ｈ”の字
+が横に長すぎですよ</value>
+  </data>
+  <data name="0100 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>これじゃあＨじゃなくて……
+“１－１”みたいに見える</value>
+  </data>
+  <data name="0101 (367.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>そ、それも言われてみれば……</value>
+  </data>
+  <data name="0102 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>“Ｈ２Ｏ”だったんですかあ</value>
+  </data>
+  <data name="0103 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたしてっきり、“１－１０”って
+書いてあるんだと思ってました</value>
+  </data>
+  <data name="0104 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>このままじゃ貼り紙が訴えたい
+ことが伝わらないと思いますよ</value>
+  </data>
+  <data name="0105 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>貼ってある貼り紙は撤去した
+ほうがいいんじゃないですか</value>
+  </data>
+  <data name="0106 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>急いで作り直したほうがいい
+今ならきっと誰も気付きませんよ</value>
+  </data>
+  <data name="0107 (367.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>うう、そうかも……まあ、作り直す
+のは簡単だけど</value>
+  </data>
+  <data name="0108 (367.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>全部はがすのは大変そうだなあ
+……うう</value>
+  </data>
+  <data name="0109 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>落胆している部員氏は同情して
+あげるとしよう</value>
+  </data>
+  <data name="0110 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おかげでハルヒをごまかすいい材料
+を手にいれたかもしれないからな</value>
+  </data>
+  <data name="0113 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あっ、お茶のお代わりはいかがです
+か？</value>
+  </data>
+  <data name="0114 (367.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>い、いいんですか？
+じゃあ、いただきます</value>
+  </data>
+  <data name="0115 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい、ちょっと待っててくださいね</value>
+  </data>
+  <data name="0116 (367.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これを</value>
+  </data>
+  <data name="0117 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ひゃ！</value>
+  </data>
+  <data name="0118 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……あらかじめ、用意していたんで
+すか？</value>
+  </data>
+  <data name="0119 (367.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0120 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、ありがとうございます
+はい、お茶どうぞ</value>
+  </data>
+  <data name="0121 (367.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>ありがとう……ああ、おいしいなあ</value>
+  </data>
+  <data name="0122 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門と朝比奈さんの接待を受けて、</value>
+  </data>
+  <data name="0123 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>コンピ研はほんわかとしたムードに
+包まれている</value>
+  </data>
+  <data name="0124 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>わざわざミスを指摘して、このムー
+ドを崩すことはないか……</value>
+  </data>
+  <data name="0126 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>君たちの団は、いつもこんな感じな
+のかい？</value>
+  </data>
+  <data name="0127 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>こんな感じとは？</value>
+  </data>
+  <data name="0128 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部長氏の視線は、部員達にお茶を入
+れて回る長門と朝比奈さんに注がれ</value>
+  </data>
+  <data name="0129 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ている</value>
+  </data>
+  <data name="0130 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ……どうでしょうね</value>
+  </data>
+  <data name="0131 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんが甲斐甲斐しくお茶を淹
+れているのはいつも通りの光景だが</value>
+  </data>
+  <data name="0132 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門がお茶を淹れるというのは、
+なかなか珍しい光景のように思う</value>
+  </data>
+  <data name="0133 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>半分程度は、こんな感じだと思いま
+すけど</value>
+  </data>
+  <data name="0134 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>君たちはいいねえ……楽しそうで
+うちは散々だよ</value>
+  </data>
+  <data name="0135 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>女子部員がいないだけなら別に
+いいさ</value>
+  </data>
+  <data name="0136 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>君のところの団長にセクハラの
+濡れ衣を着せられるわ</value>
+  </data>
+  <data name="0137 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>せっかく部費で買ったパソコンは
+強奪されるわ</value>
+  </data>
+  <data name="0138 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>一学期はさんざんな目にあったから
+ね……</value>
+  </data>
+  <data name="0139 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部長氏は肩を落としてぶつぶつと
+呟き始めた</value>
+  </data>
+  <data name="0140 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やばいな、このままでは愚痴に付き
+合わされそうな予感がする</value>
+  </data>
+  <data name="0141 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>適当にお茶を濁してごまかそう
+長門か朝比奈さんを呼んで……と</value>
+  </data>
+  <data name="0142 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>お～い、長門！
+部長さんにお茶のお代わりを頼む</value>
+  </data>
+  <data name="0143 (367.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……どうぞ</value>
+  </data>
+  <data name="0144 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>はやっ！</value>
+  </data>
+  <data name="0146 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>あ、ありがとう</value>
+  </data>
+  <data name="0147 (367.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0148 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>ん、どうした？
+パソコンなんか見つめて</value>
+  </data>
+  <data name="0149 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>も、もしかしてパソコンに興味が
+あるのかい？</value>
+  </data>
+  <data name="0150 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>なんなら、教えてあげようか？</value>
+  </data>
+  <data name="0151 (367.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……いい</value>
+  </data>
+  <data name="0152 (367.ja) NAGATO (長門)" xml:space="preserve">
+    <value>今は興味はない</value>
+  </data>
+  <data name="0153 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>そ、そう……</value>
+  </data>
+  <data name="0154 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>にべもなく断られて、部長氏が肩を
+落とした</value>
+  </data>
+  <data name="0155 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……お世辞でも、興味あるんです～
+とか言えばいいのに</value>
+  </data>
+  <data name="0156 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……まあ、長門がそんなことを言う
+なんて、想像もつかないが</value>
+  </data>
+  <data name="0159 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さ～ん！</value>
+  </data>
+  <data name="0160 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>部長さんにお茶のお代わりをくださ
+い～</value>
+  </data>
+  <data name="0161 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はあい、今行きますね</value>
+  </data>
+  <data name="0162 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>若干うわずった声で返事をし
+朝比奈さんは、急須をもってくる</value>
+  </data>
+  <data name="0164 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ど……どうぞ</value>
+  </data>
+  <data name="0165 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんはすぐに来てくれたが
+どうもその態度がぎこちない</value>
+  </data>
+  <data name="0166 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしかして、ハルヒのせいでコンピ
+研部長氏にとんでもないことを</value>
+  </data>
+  <data name="0167 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>された、あの件を思い出して
+しまったのだろうか</value>
+  </data>
+  <data name="0168 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>大丈夫です、朝比奈さん</value>
+  </data>
+  <data name="0169 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒはここにいませんから
+何も起こったりしませんよ</value>
+  </data>
+  <data name="0170 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですよね……</value>
+  </data>
+  <data name="0171 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>……い、いつもそんなにひどい目に
+あわされてるのかい！？</value>
+  </data>
+  <data name="0172 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>そんなひどい団は辞めてしまえば
+いいのに……</value>
+  </data>
+  <data name="0173 (367.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ごめんなさい、あたし、そういうわ
+けにはいかない事情があって……</value>
+  </data>
+  <data name="0174 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>な、なるほど……
+なんてひどいやつだ……</value>
+  </data>
+  <data name="0175 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部長氏はどうも、朝比奈さんがハル
+ヒに弱味でも握られ、脅されている</value>
+  </data>
+  <data name="0176 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>などと勘違いしているような気がす
+るが……まあ訂正することもないか</value>
+  </data>
+  <data name="0179 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし、コンピ研内の雰囲気は明る
+くなったが</value>
+  </data>
+  <data name="0180 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>かといって、特に新しい情報を
+得ることはなかった</value>
+  </data>
+  <data name="0181 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なにしろ一度聞き込みには来ている
+んだからな</value>
+  </data>
+  <data name="0182 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒが洗いざらい吐かせた後だ
+そうそう新情報なんてあるわけない</value>
+  </data>
+  <data name="0183 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん、長門
+そろそろ戻りましょう</value>
+  </data>
+  <data name="0184 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>一体君たちは何をしに来たんだ？</value>
+  </data>
+  <data name="0185 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>ほんとうに、お茶をごちそうしに来
+たのか？</value>
+  </data>
+  <data name="0186 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>不本意ながら、どうやらそうみたい
+ですね</value>
+  </data>
+  <data name="0187 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>肩をすくめた俺のこたえになにかを
+察して、部長氏はため息をついた</value>
+  </data>
+  <data name="0188 (367.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>そうか……君たちも大変なんだな
+お察しするよ</value>
+  </data>
+  <data name="0189 (367.ja) KYON (キョン)" xml:space="preserve">
+    <value>そりゃどうも</value>
+  </data>
+  <data name="0190 (367.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんだか腑に落ちないが、とにかく
+別働隊と合流することにしよう</value>
+  </data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,143 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (088.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんがポジティブなことを
+言ったことがあってな</value>
+  </data>
+  <data name="0001 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは別にネガティブじゃ
+ないでしょ</value>
+  </data>
+  <data name="0002 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そりゃあ、ちょっとはおどおどと
+している時はあるけど</value>
+  </data>
+  <data name="0003 (088.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒ……
+それはおまえに怯えてるんだって</value>
+  </data>
+  <data name="0004 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたの言うポジティブが何なのか
+すごく気になるわね</value>
+  </data>
+  <data name="0005 (088.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょっと複雑な事情があって
+詳しくは言えないんだがな</value>
+  </data>
+  <data name="0006 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それじゃ、急いでみくるちゃんと
+合流して聞いてみるわよっ！</value>
+  </data>
+  <data name="0007 (088.ja) KYON (キョン)" xml:space="preserve">
+    <value>人のプライバシーに首を突っ込む
+のはどうかと思うぞ？</value>
+  </data>
+  <data name="0008 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>プライベートなことなの？
+それはうっかり聞けないわね</value>
+  </data>
+  <data name="0009 (088.ja) KYON (キョン)" xml:space="preserve">
+    <value>だから、聞くのはよせ</value>
+  </data>
+  <data name="0010 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、最初に話を振ったのは
+あんたじゃないっ！</value>
+  </data>
+  <data name="0011 (088.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ、そうだったな。すまん</value>
+  </data>
+  <data name="0012 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もういいわ、さっさと行くわよ！</value>
+  </data>
+  <data name="0013 (088.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>前向きな姿勢で頑張ることは大切
+ですよね？</value>
+  </data>
+  <data name="0014 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、まあ後ろ向きに頑張るって
+言われても</value>
+  </data>
+  <data name="0015 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはそれで面白いでしょうけど</value>
+  </data>
+  <data name="0016 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ネガティブなのは、あたしの性に
+合わないし</value>
+  </data>
+  <data name="0017 (088.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたしもポジティブな方が好きです
+すぐくじけそうになるんですけど</value>
+  </data>
+  <data name="0018 (088.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>気持ちくらいは……ポジティブに</value>
+  </data>
+  <data name="0019 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、何ごとにも頑張ろうって姿勢
+は良いと思うわ</value>
+  </data>
+  <data name="0020 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>無気力なのは我慢できないしね
+キョンももっと前向きになるべきよ</value>
+  </data>
+  <data name="0021 (088.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんは前向きだと思いますよ</value>
+  </data>
+  <data name="0022 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いーや、まだまだ、だわ！</value>
+  </data>
+  <data name="0023 (088.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……キョンくんには厳しいですね</value>
+  </data>
+  <data name="0024 (088.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるはポジティブである
+という評価を聞いた</value>
+  </data>
+  <data name="0025 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ有希、その通りだわ！</value>
+  </data>
+  <data name="0026 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＯＳ団たるもの、常にポジティブ
+であるべきよ！</value>
+  </data>
+  <data name="0027 (088.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0028 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ！　謎を解き明かすには
+ポジティブな姿勢が必要なのよ！</value>
+  </data>
+  <data name="0029 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ネガティブな言動は、この団長の
+あたしが許さないわ！</value>
+  </data>
+  <data name="0030 (088.ja) NAGATO (長門)" xml:space="preserve">
+    <value>了解した</value>
+  </data>
+  <data name="0031 (088.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そう言えば朝比奈さんが前向きな姿
+勢で頑張っていたと言ってましたよ</value>
+  </data>
+  <data name="0032 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、古泉くん
+それって何に対してなのかしら？</value>
+  </data>
+  <data name="0033 (088.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>鏡を見張っていた時の話題ですから
+恐がりを克服しようとされたのでは</value>
+  </data>
+  <data name="0034 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんには、そこをすんなり
+克服されると</value>
+  </data>
+  <data name="0035 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっとつまらないけどね</value>
+  </data>
+  <data name="0036 (088.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>悲鳴を上げてくれる役者がいないと
+怪談も盛り上がらないわね</value>
+  </data>
+  <data name="0037 (088.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど。それは言えますね</value>
+  </data>
 </root>

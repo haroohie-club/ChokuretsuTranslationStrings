@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,170 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (306.ja) KYON (キョン)" xml:space="preserve">
+    <value>さっき買い出しの時に、長門にどん
+な料理がいいか聞いたら……</value>
+  </data>
+  <data name="0001 (306.ja) KYON (キョン)" xml:space="preserve">
+    <value>カレーって言うんだぜ
+バーベキューだっていうのにな</value>
+  </data>
+  <data name="0002 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希って、カレー好きなのかしら？</value>
+  </data>
+  <data name="0003 (306.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうだろうな</value>
+  </data>
+  <data name="0004 (306.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門にも好物なんてものがあるのだ
+ろうか？</value>
+  </data>
+  <data name="0005 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、有希とカレーって合わないわ
+よね？</value>
+  </data>
+  <data name="0006 (306.ja) KYON (キョン)" xml:space="preserve">
+    <value>ん？　なんでだ？</value>
+  </data>
+  <data name="0007 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だって、カレーが好物の人って太め
+ってイメージがあるじゃない</value>
+  </data>
+  <data name="0008 (306.ja) KYON (キョン)" xml:space="preserve">
+    <value>そんなのはじめて聞いたぞ</value>
+  </data>
+  <data name="0009 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>カレー好きって言ったらぽっちゃり
+なイエローって決まってるでしょ！</value>
+  </data>
+  <data name="0010 (306.ja) KYON (キョン)" xml:space="preserve">
+    <value>まてまてまて</value>
+  </data>
+  <data name="0011 (306.ja) KYON (キョン)" xml:space="preserve">
+    <value>ぽっちゃりはともかく、その
+イエローってのはなんだ？</value>
+  </data>
+  <data name="0012 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに言ってるのよ！</value>
+  </data>
+  <data name="0013 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>レッド、ブルーは別格としても
+ブラックに匹敵するレギュラー色よ</value>
+  </data>
+  <data name="0014 (306.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、さっぱり分からんのだが</value>
+  </data>
+  <data name="0015 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……あんたにはガッカリだわ</value>
+  </data>
+  <data name="0016 (306.ja) KYON (キョン)" xml:space="preserve">
+    <value>な、なぜガッカリされるんだ</value>
+  </data>
+  <data name="0017 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はぁ……</value>
+  </data>
+  <data name="0018 (306.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかも盛大な溜息まで……</value>
+  </data>
+  <data name="0019 (306.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんが言ってたんですけど</value>
+  </data>
+  <data name="0020 (306.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんってカレーが
+好きなんでしょうか？</value>
+  </data>
+  <data name="0021 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんな話は聞いたことないけど……
+カレーは美味しいものね</value>
+  </data>
+  <data name="0022 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希じゃなくても、人類の定番好物
+に違いないわ！</value>
+  </data>
+  <data name="0023 (306.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あたしも好きですよ
+あまり辛いのはダメですけど</value>
+  </data>
+  <data name="0024 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう？　でもカレーなんだし
+辛い方がいいじゃない</value>
+  </data>
+  <data name="0025 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしはあれこれ面白そうな
+具材を入れて作ったやつが好きよ</value>
+  </data>
+  <data name="0026 (306.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの、あれこれって……
+何を入れるんですかぁ？</value>
+  </data>
+  <data name="0027 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはその辺にあったやつ次第ね
+料理は勢いが大事だから</value>
+  </data>
+  <data name="0028 (306.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えぇっ、勢いですかぁ……</value>
+  </data>
+  <data name="0029 (306.ja) NAGATO (長門)" xml:space="preserve">
+    <value>カレーは優秀な食品</value>
+  </data>
+  <data name="0030 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>カレー？　確かに嫌いな人って
+あんまりいないと思うけど</value>
+  </data>
+  <data name="0031 (306.ja) NAGATO (長門)" xml:space="preserve">
+    <value>具材によって味も栄養もバランスを
+調整できる</value>
+  </data>
+  <data name="0032 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんだ、有希もカレー好きなのね</value>
+  </data>
+  <data name="0033 (306.ja) NAGATO (長門)" xml:space="preserve">
+    <value>嫌いではない</value>
+  </data>
+  <data name="0034 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、次はみんなでカレーでも
+作りましょうか</value>
+  </data>
+  <data name="0035 (306.ja) NAGATO (長門)" xml:space="preserve">
+    <value>賛成</value>
+  </data>
+  <data name="0036 (306.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんはカレーはお好きですか？</value>
+  </data>
+  <data name="0037 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>カレー嫌いの人って、めったに聞い
+たことがないわ</value>
+  </data>
+  <data name="0038 (306.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>はは、そうでしょうね</value>
+  </data>
+  <data name="0039 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんもカレーは好きでしょ？
+カレーは国民食みたいなものだもの</value>
+  </data>
+  <data name="0040 (306.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、人並みに好んでいます</value>
+  </data>
+  <data name="0041 (306.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんもカレーがお好きだと聞き
+ました</value>
+  </data>
+  <data name="0042 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、やっぱりね</value>
+  </data>
+  <data name="0043 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は辛口好みかしら。それとも
+甘口が好きなのかも</value>
+  </data>
+  <data name="0044 (306.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そこまでは聞いていませんが……</value>
+  </data>
+  <data name="0045 (306.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>甘口はみくるちゃん、有希は中辛が
+好きなのかも知れないわね</value>
+  </data>
+  <data name="0046 (306.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>イメージとしてはそんなところで
+しょうね</value>
+  </data>
 </root>

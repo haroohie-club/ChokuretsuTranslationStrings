@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,120 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (335.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、おまえは人から太鼓判を
+捺されるのってどう思う？</value>
+  </data>
+  <data name="0001 (335.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしはあたしだもの、人がどう思
+おうとなにも変わらないわよ</value>
+  </data>
+  <data name="0002 (335.ja) KYON (キョン)" xml:space="preserve">
+    <value>だとしても、人から認められること
+ってのはうれしくないか？</value>
+  </data>
+  <data name="0003 (335.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>普通はうれしいものかもね</value>
+  </data>
+  <data name="0004 (335.ja) KYON (キョン)" xml:space="preserve">
+    <value>えらくクールな回答だな、おい</value>
+  </data>
+  <data name="0005 (335.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だって人から認められるだけのこと
+をしたってことでしょ</value>
+  </data>
+  <data name="0006 (335.ja) KYON (キョン)" xml:space="preserve">
+    <value>テストで良い点取ってもうれしくは
+ないのか？</value>
+  </data>
+  <data name="0007 (335.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>勉強して良い点を取れても当然の
+結果だもの</value>
+  </data>
+  <data name="0008 (335.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>遊んでいて良い点が取れたら、それ
+はうれしいでしょうけど</value>
+  </data>
+  <data name="0009 (335.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺のコトみたいに見つめて言うな</value>
+  </data>
+  <data name="0010 (335.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんって頼もしいですよね</value>
+  </data>
+  <data name="0011 (335.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あら、みくるちゃんもそう思う？</value>
+  </data>
+  <data name="0012 (335.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたしと違って、何ごとにも動揺
+しないじゃないですか</value>
+  </data>
+  <data name="0013 (335.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>気休めも言わない人だから</value>
+  </data>
+  <data name="0014 (335.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんに大丈夫って太鼓判貰う
+と、大丈夫なんだって安心します</value>
+  </data>
+  <data name="0015 (335.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。でもみくるちゃんは動揺
+するからいいのよ？</value>
+  </data>
+  <data name="0016 (335.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希みたいにみんなが静観してたら
+驚かせがいがないんだもの</value>
+  </data>
+  <data name="0017 (335.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたし、びっくり班ですかぁ？</value>
+  </data>
+  <data name="0018 (335.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あははっ、いいわね、びっくり班！</value>
+  </data>
+  <data name="0019 (335.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんみたいに落ち着いてたい
+んですよ、あたしだって……</value>
+  </data>
+  <data name="0020 (335.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だめよ、そんな無理したって
+あなたのキャラに合わないわ</value>
+  </data>
+  <data name="0021 (335.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>無理、ですか……くすん</value>
+  </data>
+  <data name="0022 (335.ja) NAGATO (長門)" xml:space="preserve">
+    <value>こっち</value>
+  </data>
+  <data name="0023 (335.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……あれ、そっちだっけ？
+あっちのような気がするんだけど</value>
+  </data>
+  <data name="0024 (335.ja) NAGATO (長門)" xml:space="preserve">
+    <value>大丈夫、こっち</value>
+  </data>
+  <data name="0025 (335.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう、有希が言うならそうよね
+有希が間違うわけがないもの</value>
+  </data>
+  <data name="0026 (335.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>人徳、というものでしょうか――</value>
+  </data>
+  <data name="0027 (335.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんに“大丈夫だ”と太鼓判を
+押されると、安心できますね</value>
+  </data>
+  <data name="0028 (335.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うん、それはあるわね。あの子は
+めったにそんなこと言わないし</value>
+  </data>
+  <data name="0029 (335.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕などが“大丈夫です”と言ったと
+ころで、信用はイマイチですから</value>
+  </data>
+  <data name="0030 (335.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうでもないわよ。古泉くんの的確
+な進言は、貴重な団の財産よ</value>
+  </data>
+  <data name="0031 (335.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ありがとうございます
+そう言って頂けると、光栄ですね</value>
+  </data>
 </root>

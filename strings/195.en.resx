@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,192 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (195.ja) KYON (キョン)" xml:space="preserve">
+    <value>ふと思ったんだが</value>
+  </data>
+  <data name="0001 (195.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉のやつ、人の提案にケチをつけ
+させたらＳＯＳ団イチだよな</value>
+  </data>
+  <data name="0002 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はあ？　なんの話よ？</value>
+  </data>
+  <data name="0003 (195.ja) KYON (キョン)" xml:space="preserve">
+    <value>例えば俺が、あれこれ提案するだろ</value>
+  </data>
+  <data name="0004 (195.ja) KYON (キョン)" xml:space="preserve">
+    <value>その度に、重箱の隅を突くような
+意見ばかりしてくる</value>
+  </data>
+  <data name="0005 (195.ja) KYON (キョン)" xml:space="preserve">
+    <value>あれは古泉の性格なんだろうな</value>
+  </data>
+  <data name="0006 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……何を言いたいのか、さっぱり
+わからないけど</value>
+  </data>
+  <data name="0007 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは単に、キョン、あんたの提案
+が粗だらけなんじゃないの？</value>
+  </data>
+  <data name="0008 (195.ja) KYON (キョン)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0009 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ついでに言うと、古泉くんは優秀な
+参謀タイプだわ</value>
+  </data>
+  <data name="0010 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>自分の未熟を、古泉くんのせいにし
+てちゃ、一生ヒラの団員のままね</value>
+  </data>
+  <data name="0011 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっとは古泉くんを見習いなさい</value>
+  </data>
+  <data name="0012 (195.ja) KYON (キョン)" xml:space="preserve">
+    <value>ヤブを突いたら、なんとやらだ……</value>
+  </data>
+  <data name="0013 (195.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ＳＯＳ団って、ほんと、いろんな人
+が集まってますよね、タイプ別に</value>
+  </data>
+  <data name="0014 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>また突然、なんの話？</value>
+  </data>
+  <data name="0015 (195.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ちょっと思ったんです。長門さんの
+ような物静かな人もいるし……</value>
+  </data>
+  <data name="0016 (195.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんみたいな、意見派の人も
+いて、バリエーション豊富だなって</value>
+  </data>
+  <data name="0017 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は無口キャラだし、古泉くんは
+参謀タイプのキャラだってことね？</value>
+  </data>
+  <data name="0018 (195.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>さ、参謀っていうのは、よくわかり
+ませんけど……</value>
+  </data>
+  <data name="0019 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>トップの提案に、適切なツッコミを
+入れて、作戦の穴を埋める人のこと</value>
+  </data>
+  <data name="0020 (195.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、そんな感じのニュアンスです</value>
+  </data>
+  <data name="0021 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>他にも、ぐうたらで文句ばかりの
+キャラとかも、いるけど</value>
+  </data>
+  <data name="0022 (195.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>だ、誰のことでしょう……？</value>
+  </data>
+  <data name="0023 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんみたいな、怖がりな
+ドジっ娘キャラもそろってるしね</value>
+  </data>
+  <data name="0024 (195.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はぅぅぅ……</value>
+  </data>
+  <data name="0025 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、無駄口叩いてないで、音楽室
+に急がなきゃ！　ダッシュよ！</value>
+  </data>
+  <data name="0026 (195.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はぁい</value>
+  </data>
+  <data name="0027 (195.ja) NAGATO (長門)" xml:space="preserve">
+    <value>意識調査
+古泉一樹について聞きたい</value>
+  </data>
+  <data name="0028 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……どうしたの、急に？</value>
+  </data>
+  <data name="0029 (195.ja) NAGATO (長門)" xml:space="preserve">
+    <value>なんとなく</value>
+  </data>
+  <data name="0030 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>珍しいわね、有希が思いつきで
+発言するなんて。いいわよ、なに？</value>
+  </data>
+  <data name="0031 (195.ja) NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹は意見派？</value>
+  </data>
+  <data name="0032 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>意見派……って、初耳だわ
+どういう派閥なの？</value>
+  </data>
+  <data name="0033 (195.ja) NAGATO (長門)" xml:space="preserve">
+    <value>提案に対し、その粗を見抜いて
+辛辣な意見を述べるタイプ</value>
+  </data>
+  <data name="0034 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、そういう意味。そうね……
+確かに、そんなところあるわよね</value>
+  </data>
+  <data name="0035 (195.ja) NAGATO (長門)" xml:space="preserve">
+    <value>慣用表現では、重箱の隅を突く
+タイプ？</value>
+  </data>
+  <data name="0036 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それ、キョンが言ってたんでしょ</value>
+  </data>
+  <data name="0037 (195.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0038 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく、キョンにも困ったものね
+後で説教しておかなきゃ</value>
+  </data>
+  <data name="0039 (195.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんにお聞きしたいことが
+あるのですが……</value>
+  </data>
+  <data name="0040 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしに？　なにかしら？</value>
+  </data>
+  <data name="0041 (195.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ごく個人的なことになります。先に
+おわびを申し上げておきます</value>
+  </data>
+  <data name="0042 (195.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あまり自覚はないのですが、僕は
+余計な一言を挟む癖があるらしくて</value>
+  </data>
+  <data name="0043 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>余計な一言？</value>
+  </data>
+  <data name="0044 (195.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、余計な一言です</value>
+  </data>
+  <data name="0045 (195.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>例えば、人の提案に対して、意見を
+述べる際のことですが……</value>
+  </data>
+  <data name="0046 (195.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>平たくいえば、ケチをつけることが
+多いと、そう思われているようです</value>
+  </data>
+  <data name="0047 (195.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんも、そうお思いですか？</value>
+  </data>
+  <data name="0048 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたし？　あたしは全然、そんな風
+に思ったことはないけど</value>
+  </data>
+  <data name="0049 (195.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それを聞いて安心しました</value>
+  </data>
+  <data name="0050 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなこと言ってるのは、キョンね
+キョン以外に考えられないわ</value>
+  </data>
+  <data name="0051 (195.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>後で、バシっと説教しとくわね</value>
+  </data>
+  <data name="0052 (195.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>これは……参りましたね、いやはや</value>
+  </data>
 </root>

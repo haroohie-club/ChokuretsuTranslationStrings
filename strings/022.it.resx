@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,154 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (022.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、その、だな</value>
+  </data>
+  <data name="0001 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何よ、キョン？</value>
+  </data>
+  <data name="0002 (022.ja) KYON (キョン)" xml:space="preserve">
+    <value>……いや、なんでもない</value>
+  </data>
+  <data name="0003 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと、中途半端に声なんか
+かけないでよ、気持ち悪い</value>
+  </data>
+  <data name="0004 (022.ja) KYON (キョン)" xml:space="preserve">
+    <value>悪い</value>
+  </data>
+  <data name="0005 (022.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんの感触は柔らかかった
+などと発言してしまったら</value>
+  </data>
+  <data name="0006 (022.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒからどれだけ罵倒されるか
+これは言わない方がいいネタだな</value>
+  </data>
+  <data name="0007 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、あんたあたしに何か隠し
+てることがあるでしょう？</value>
+  </data>
+  <data name="0008 (022.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、ないぞ</value>
+  </data>
+  <data name="0009 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あるわね。視線が泳いでるもの
+さっさと白状して楽になりなさい</value>
+  </data>
+  <data name="0010 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でないと長く苦しい目に合うわよ</value>
+  </data>
+  <data name="0011 (022.ja) KYON (キョン)" xml:space="preserve">
+    <value>うわ、これはマズったな</value>
+  </data>
+  <data name="0012 (022.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>部室で本が崩れた時に、キョン
+くんが助けてくれたじゃないですか</value>
+  </data>
+  <data name="0013 (022.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>すごいですよね。とっさに庇って
+くれるなんて</value>
+  </data>
+  <data name="0014 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんを助けてにやけて
+たのがマイナスポイントだけどね</value>
+  </data>
+  <data name="0015 (022.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっ、にやけてなんていました？</value>
+  </data>
+  <data name="0016 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんみたいな美少女を
+助けられたら無理もないかしらね</value>
+  </data>
+  <data name="0017 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>で、みくるちゃんは何を言おうと
+してたの？</value>
+  </data>
+  <data name="0018 (022.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええと……その……</value>
+  </data>
+  <data name="0019 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの？</value>
+  </data>
+  <data name="0020 (022.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……この話題はもういいです</value>
+  </data>
+  <data name="0021 (022.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるの感触は柔らかい
+と言っていた</value>
+  </data>
+  <data name="0022 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと待って、有希</value>
+  </data>
+  <data name="0023 (022.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0024 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは誰が言ったのかしら？
+まさかキョンじゃないわよね？</value>
+  </data>
+  <data name="0025 (022.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0026 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あのバカ、言うにことかいて
+なに口走ってるのかしらっ</value>
+  </data>
+  <data name="0027 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これはもうお説教なり断罪なりしな
+いと許されないわね</value>
+  </data>
+  <data name="0028 (022.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるの硬度が低いのは事実
+発言が問題とされる理由が不明</value>
+  </data>
+  <data name="0029 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>問題にしてるのは内容じゃなくて
+口にした人間</value>
+  </data>
+  <data name="0030 (022.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0031 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>事実だろうがなんだろうが男が
+言った時点で万死に値するわ</value>
+  </data>
+  <data name="0032 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>というわけだから、いずれキョンに
+相応の罰を与えないと</value>
+  </data>
+  <data name="0033 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いつもの奢りじゃ面白くないし……
+なにがいいかしら？</value>
+  </data>
+  <data name="0034 (022.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんは、彼が朝比奈さん
+を本が崩れるのから庇った時</value>
+  </data>
+  <data name="0035 (022.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>側にいたのですよね？</value>
+  </data>
+  <data name="0036 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンがみくるちゃんを庇ったって
+資料を探してた時のことかしら？</value>
+  </data>
+  <data name="0037 (022.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それだと思われます</value>
+  </data>
+  <data name="0038 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うん、いたわよ。キョンが腕を引い
+て助けたのよね</value>
+  </data>
+  <data name="0039 (022.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>事実だったのですか</value>
+  </data>
+  <data name="0040 (022.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど、ずいぶんと格好のいい
+ことをしましたね</value>
+  </data>
+  <data name="0041 (022.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうかしら？　それほど大したこと
+とも思えないけどね</value>
+  </data>
 </root>

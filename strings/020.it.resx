@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,163 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (020.ja) KYON (キョン)" xml:space="preserve">
+    <value>そう言えば、本をぶつけた頭は
+大丈夫だったのか？</value>
+  </data>
+  <data name="0001 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>本をぶつけた頭？</value>
+  </data>
+  <data name="0002 (020.ja) KYON (キョン)" xml:space="preserve">
+    <value>こぶになってたりしないか？</value>
+  </data>
+  <data name="0003 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、さっきぶつけたところね
+ちょっと痛かったけど平気よ</value>
+  </data>
+  <data name="0004 (020.ja) KYON (キョン)" xml:space="preserve">
+    <value>頑丈な頭で良かったな</value>
+  </data>
+  <data name="0005 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それ、石頭だと言いたいわけ？</value>
+  </data>
+  <data name="0006 (020.ja) KYON (キョン)" xml:space="preserve">
+    <value>いやいや、文字どおりの意味だ
+気にするな</value>
+  </data>
+  <data name="0007 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……疑わしいわ。ま、でもけっこう
+面白かったわよね</value>
+  </data>
+  <data name="0008 (020.ja) KYON (キョン)" xml:space="preserve">
+    <value>おいおい、朝比奈さんはたいそう
+へこんでたのにそれはないだろう</value>
+  </data>
+  <data name="0009 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>平然としてたら可愛くもなんとも
+ないでしょ？</value>
+  </data>
+  <data name="0010 (020.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門みたいなのか？</value>
+  </data>
+  <data name="0011 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希はあれでいいの。クールな
+キャラが売りなんだから</value>
+  </data>
+  <data name="0012 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>我ながら、良い人材を集めたものね
+さすがあたしだわ！</value>
+  </data>
+  <data name="0013 (020.ja) KYON (キョン)" xml:space="preserve">
+    <value>はいはい</value>
+  </data>
+  <data name="0014 (020.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、さっきはすみませんでし
+た本をぶつけてしまって……</value>
+  </data>
+  <data name="0015 (020.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、こぶにとかなってません
+よね？</value>
+  </data>
+  <data name="0016 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん……別になってないから平気よ</value>
+  </data>
+  <data name="0017 (020.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたしに気を使って我慢したり
+しないでくださいね</value>
+  </data>
+  <data name="0018 (020.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、そうだ！　保健室で治療した
+方がいいかもしれません</value>
+  </data>
+  <data name="0019 (020.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>後で腫れてくるかもしれないし</value>
+  </data>
+  <data name="0020 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ホントに大丈夫よ……</value>
+  </data>
+  <data name="0021 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、くくっ</value>
+  </data>
+  <data name="0022 (020.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>す、涼宮さん？</value>
+  </data>
+  <data name="0023 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>面白かったわ、みくるちゃんのドジ
+っぷり</value>
+  </data>
+  <data name="0024 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ドジっ娘免許皆伝って感じ！</value>
+  </data>
+  <data name="0025 (020.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ううっ、そんな免許いりません～</value>
+  </data>
+  <data name="0026 (020.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるが失敗した</value>
+  </data>
+  <data name="0027 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、うん。したわね、失敗
+それも、連鎖的に</value>
+  </data>
+  <data name="0028 (020.ja) NAGATO (長門)" xml:space="preserve">
+    <value>本人は落ち込んで反省していた</value>
+  </data>
+  <data name="0029 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしの頭に本がぶつかったのは
+痛かったけどね</value>
+  </data>
+  <data name="0030 (020.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0031 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう平気よ。心配しなくても
+いいわよ、有希</value>
+  </data>
+  <data name="0032 (020.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるを責めている？</value>
+  </data>
+  <data name="0033 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>責めてないわよ。あたしの心は
+そんなに狭くないわ</value>
+  </data>
+  <data name="0034 (020.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう。良かった</value>
+  </data>
+  <data name="0035 (020.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さん、本をぶつけたという
+頭部は、大丈夫なのですか？</value>
+  </data>
+  <data name="0036 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、あれね。平気よ、こぶにも
+ならなかったしね</value>
+  </data>
+  <data name="0037 (020.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それならいいんですが</value>
+  </data>
+  <data name="0038 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんのドジを聞いたの？</value>
+  </data>
+  <data name="0039 (020.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>聞かせてもらいました</value>
+  </data>
+  <data name="0040 (020.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>申し訳ないのですが、僕も居合わせ
+たかったですね</value>
+  </data>
+  <data name="0041 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うん、ハタからみてたらお笑い番組
+みたいだったと思うわ</value>
+  </data>
+  <data name="0042 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれを素でやっちゃうみくるちゃん
+ってすごいわよ</value>
+  </data>
+  <data name="0043 (020.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんには悪いんだけど
+面白かったわ！</value>
+  </data>
+  <data name="0044 (020.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>その場にいなかったのが
+本当に惜しいです</value>
+  </data>
 </root>

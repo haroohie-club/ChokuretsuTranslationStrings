@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,138 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>今の光はなんだったんだ？</value>
+  </data>
+  <data name="0001 (522.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしかして、ハルヒが校舎内に
+移動したせいか？</value>
+  </data>
+  <data name="0002 (522.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門の言っていた“エラー”って
+のが起こったのか……？</value>
+  </data>
+  <data name="0003 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>くそっ……なんてこった！</value>
+  </data>
+  <data name="0005 (522.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくん！　無事だったんですね
+よかったぁ……</value>
+  </data>
+  <data name="0006 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>ええ、これからハルヒを追いかけよ
+うとしていたところです</value>
+  </data>
+  <data name="0008 (522.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>残念ながら、追いかけるのは困難な
+状況のようです</value>
+  </data>
+  <data name="0009 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>どういうことだ？</value>
+  </data>
+  <data name="0010 (522.ja) NAGATO (長門)" xml:space="preserve">
+    <value>正常化が完了する直前に涼宮ハルヒ
+が影響範囲内へ侵入した</value>
+  </data>
+  <data name="0011 (522.ja) NAGATO (長門)" xml:space="preserve">
+    <value>正常化のシーケンス中にエラーが
+発生し強制停止を余儀なくされた</value>
+  </data>
+  <data name="0012 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>やっぱりそうか……</value>
+  </data>
+  <data name="0013 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>それで、被害とか影響とかは？
+ハルヒは無事なのか？</value>
+  </data>
+  <data name="0014 (522.ja) NAGATO (長門)" xml:space="preserve">
+    <value>涼宮ハルヒは無事。今のところ彼女
+の身に問題は発生していない</value>
+  </data>
+  <data name="0015 (522.ja) NAGATO (長門)" xml:space="preserve">
+    <value>しかし、校舎内のいたるところで
+異空間が発生している</value>
+  </data>
+  <data name="0016 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ということは</value>
+  </data>
+  <data name="0017 (522.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>これまでの努力がすべて水泡に帰し
+てしまった、ということです</value>
+  </data>
+  <data name="0018 (522.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それはつまり、ハルヒを留めて
+おけなかった俺の責任なのか</value>
+  </data>
+  <data name="0019 (522.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>不幸中の幸いは、涼宮さんが空間の
+修正に巻き込まれなかったことです</value>
+  </data>
+  <data name="0020 (522.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも今のままだと、いつ涼宮さんが
+異空間と遭遇するかわかりません</value>
+  </data>
+  <data name="0021 (522.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>たしかに朝比奈さんの言う通りだ
+まだやることは残ってるんだ</value>
+  </data>
+  <data name="0022 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>まず、なにから手をつけるかだな</value>
+  </data>
+  <data name="0023 (522.ja) NAGATO (長門)" xml:space="preserve">
+    <value>先ほど各所に配置した特異点で
+停止しているものだけを探し出す</value>
+  </data>
+  <data name="0024 (522.ja) NAGATO (長門)" xml:space="preserve">
+    <value>停止した特異点を再起動して正常化
+を再開する必要がある</value>
+  </data>
+  <data name="0025 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>それが最優先か</value>
+  </data>
+  <data name="0026 (522.ja) NAGATO (長門)" xml:space="preserve">
+    <value>それと</value>
+  </data>
+  <data name="0027 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだ、長門？</value>
+  </data>
+  <data name="0028 (522.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これまで怪異が起きた場所すべてに
+異空間が再発生している</value>
+  </data>
+  <data name="0030 (522.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんが異空間と接触する前に
+再起動しなくてはなりませんね</value>
+  </data>
+  <data name="0031 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒを無理矢理にでも外に連れ出
+して、特異点を再起動ってことか</value>
+  </data>
+  <data name="0033 (522.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そのためには全員で頑張らないと
+いけませんね</value>
+  </data>
+  <data name="0035 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>ここまで来て失敗は許されないな</value>
+  </data>
+  <data name="0036 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>みんなで慎重にことを運ばないと
+えらいことになりそうだからな</value>
+  </data>
+  <data name="0037 (522.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>気を引き締めていきましょう</value>
+  </data>
+  <data name="0038 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、ハルヒが異空間と接触する
+までが勝負だからな</value>
+  </data>
+  <data name="0040 (522.ja) NAGATO (長門)" xml:space="preserve">
+    <value>あまり時間がない</value>
+  </data>
+  <data name="0041 (522.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたしも頑張りますっ</value>
+  </data>
+  <data name="0042 (522.ja) KYON (キョン)" xml:space="preserve">
+    <value>よし、みんなでなんとかしよう</value>
+  </data>
 </root>

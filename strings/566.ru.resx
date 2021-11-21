@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,197 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……急に耳鳴りがしてきた</value>
+  </data>
+  <data name="0001 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これは……きっとなにかあるわね</value>
+  </data>
+  <data name="0002 (566.ja) KYON (キョン)" xml:space="preserve">
+    <value>耳鳴りがしただけで、いったい
+どんな根拠があるってんだ</value>
+  </data>
+  <data name="0003 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>この先になにかがあるって
+あたしのカンがそう言ってるのよ</value>
+  </data>
+  <data name="0004 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いくわよ！</value>
+  </data>
+  <data name="0005 (566.ja) KYON (キョン)" xml:space="preserve">
+    <value>いいことを教えてやろう、ハルヒ</value>
+  </data>
+  <data name="0006 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ</value>
+  </data>
+  <data name="0007 (566.ja) KYON (キョン)" xml:space="preserve">
+    <value>この辺りは“スポット”なんだ</value>
+  </data>
+  <data name="0008 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>スポット？</value>
+  </data>
+  <data name="0009 (566.ja) KYON (キョン)" xml:space="preserve">
+    <value>電波が干渉し合ってる場所らしい</value>
+  </data>
+  <data name="0010 (566.ja) KYON (キョン)" xml:space="preserve">
+    <value>その証拠に、この近くだと携帯も
+つながらないんだ</value>
+  </data>
+  <data name="0011 (566.ja) KYON (キョン)" xml:space="preserve">
+    <value>耳鳴りもその影響かも知れないぞ</value>
+  </data>
+  <data name="0012 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>知らなかった、北高にそんな場所
+あっただなんて</value>
+  </data>
+  <data name="0014 (566.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>耳鳴りですか……？</value>
+  </data>
+  <data name="0015 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしのカンが告げているわ
+この先になにかあるって！</value>
+  </data>
+  <data name="0016 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いくわよ、みくるちゃん！</value>
+  </data>
+  <data name="0017 (566.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、そ、そうだっ</value>
+  </data>
+  <data name="0018 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに？　みくるちゃん</value>
+  </data>
+  <data name="0019 (566.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えと、ここは“スポット”だって
+言ってましたっ</value>
+  </data>
+  <data name="0020 (566.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ちょうど電波が重なる場所だから
+携帯が入らなかったり</value>
+  </data>
+  <data name="0021 (566.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>耳鳴りとかお腹がいたくなったり
+することがあるそうです</value>
+  </data>
+  <data name="0022 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなの誰から聞いたの？</value>
+  </data>
+  <data name="0023 (566.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えと……キョンくんです</value>
+  </data>
+  <data name="0024 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン？　なんだかウソくさいわね</value>
+  </data>
+  <data name="0025 (566.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>本当だと、キョンくんは言ってまし
+たけど</value>
+  </data>
+  <data name="0026 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあいいわ</value>
+  </data>
+  <data name="0027 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンもたまにはおもしろい情報を
+持ってくるじゃない</value>
+  </data>
+  <data name="0028 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしてかしら、もう一度鏡を
+調べたくなってきたわ</value>
+  </data>
+  <data name="0029 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急ぎましょう、有希</value>
+  </data>
+  <data name="0031 (566.ja) NAGATO (長門)" xml:space="preserve">
+    <value>待って</value>
+  </data>
+  <data name="0032 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたのよ、早く行かないと</value>
+  </data>
+  <data name="0033 (566.ja) NAGATO (長門)" xml:space="preserve">
+    <value>ここは“スポット”になっている</value>
+  </data>
+  <data name="0034 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>スポット？</value>
+  </data>
+  <data name="0035 (566.ja) NAGATO (長門)" xml:space="preserve">
+    <value>電波緩衝地帯。電磁波の位相が
+重なっている</value>
+  </data>
+  <data name="0036 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どういうこと？</value>
+  </data>
+  <data name="0037 (566.ja) NAGATO (長門)" xml:space="preserve">
+    <value>携帯電話が使えなくなる</value>
+  </data>
+  <data name="0038 (566.ja) NAGATO (長門)" xml:space="preserve">
+    <value>また可聴領域外の音が発生している</value>
+  </data>
+  <data name="0039 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>つまり、それが耳鳴りの原因だって
+言いたいのね</value>
+  </data>
+  <data name="0040 (566.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0041 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほど……怪談とは違うけど
+それはそれでおもしろい現象ね</value>
+  </data>
+  <data name="0042 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>待ってて、いろいろ試してみる
+から！</value>
+  </data>
+  <data name="0043 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんだか無性に昇降口の鏡を
+調べたくなってきたわ</value>
+  </data>
+  <data name="0044 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くん、急ぎましょう</value>
+  </data>
+  <data name="0046 (566.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>お待ちください、涼宮さん</value>
+  </data>
+  <data name="0047 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに？　急ぎたいんだけど</value>
+  </data>
+  <data name="0048 (566.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>実は、面白い話を耳にしたのですが</value>
+  </data>
+  <data name="0049 (566.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>この辺りに、電波のスポットがある
+らしいのです</value>
+  </data>
+  <data name="0050 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>スポット？</value>
+  </data>
+  <data name="0051 (566.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>街中なのに、急に携帯電話の電波が
+届かなくなる</value>
+  </data>
+  <data name="0052 (566.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そんな体験をしたことは？</value>
+  </data>
+  <data name="0053 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはあるけど……</value>
+  </data>
+  <data name="0054 (566.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>つまり、それがスポットです</value>
+  </data>
+  <data name="0055 (566.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>校内に、そんな場所があると聞いた
+ことがあります</value>
+  </data>
+  <data name="0056 (566.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おそらく、この辺りがそうなので
+しょう</value>
+  </data>
+  <data name="0057 (566.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ……おもしろいわね</value>
+  </data>
+  <data name="0058 (566.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>たまたまそうなったのか、それとも
+なにか理由があるのか……</value>
+  </data>
+  <data name="0059 (566.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いずれにせよ、調べてみると面白い
+かもしれません</value>
+  </data>
 </root>

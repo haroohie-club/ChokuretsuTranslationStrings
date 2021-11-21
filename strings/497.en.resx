@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,252 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>とりあえず、校内をうろついていた
+犠牲者の方々は拘束できました</value>
+  </data>
+  <data name="0001 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>一応、全員無事です</value>
+  </data>
+  <data name="0002 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>まったく、谷口や国木田までやられ
+てるとは思わなかったな</value>
+  </data>
+  <data name="0003 (497.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>どうしてまた学校に戻ってきたん
+でしょう？</value>
+  </data>
+  <data name="0004 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>もしかするとバーベキューの時点で
+こうなっていたのかもしれません</value>
+  </data>
+  <data name="0005 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>そんな様子は微塵もなかったぞ</value>
+  </data>
+  <data name="0006 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>確かに、その通りですが……</value>
+  </data>
+  <data name="0008 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さん、あの花について、なにか
+判りましたか？</value>
+  </data>
+  <data name="0009 (497.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これはただの受信部</value>
+  </data>
+  <data name="0010 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>受信部？</value>
+  </data>
+  <data name="0011 (497.ja) NAGATO (長門)" xml:space="preserve">
+    <value>本体から分離した一部であり、宿主
+と本体を結ぶもの</value>
+  </data>
+  <data name="0012 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>よく分からんが、宿主ってのは谷口
+やコンピ研の連中のことか</value>
+  </data>
+  <data name="0013 (497.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0014 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃあ、本体ってのはなんだ……？</value>
+  </data>
+  <data name="0015 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……そうか、分かりましたよ</value>
+  </data>
+  <data name="0016 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>この花は、一種のアンテナのような
+ものなのですね</value>
+  </data>
+  <data name="0017 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>本体からの指令を受信し、それを
+彼らの脳に送信する――</value>
+  </data>
+  <data name="0018 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そういうことですか？</value>
+  </data>
+  <data name="0019 (497.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0020 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>アンテナ……なるほどね</value>
+  </data>
+  <data name="0021 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そう言われれば、頭の上に花が咲い
+ている姿は</value>
+  </data>
+  <data name="0022 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>パラボラアンテナか何かに見えなく
+もない</value>
+  </data>
+  <data name="0023 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>しかし、なんで花なんだ？</value>
+  </data>
+  <data name="0024 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうせならもっとらしい姿形って
+もんがあるだろう</value>
+  </data>
+  <data name="0025 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>犠牲になったやつらには悪いが
+正直、失笑を禁じ得ない</value>
+  </data>
+  <data name="0027 (497.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも、よく見ると可愛いですよ？</value>
+  </data>
+  <data name="0028 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あの姿を『可愛い』と言えてしまう
+朝比奈さんの感性は気になるが</value>
+  </data>
+  <data name="0029 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>きっと、未来人のセンスでは、あれ
+は可愛いものなんだ、としておこう</value>
+  </data>
+  <data name="0031 (497.ja) NAGATO (長門)" xml:space="preserve">
+    <value>植物の形を模しているのは本体の
+構成情報に影響を受けているため</value>
+  </data>
+  <data name="0032 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>その本体とやらはどこにあるんだ？</value>
+  </data>
+  <data name="0033 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……そういうことですか</value>
+  </data>
+  <data name="0034 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉……？</value>
+  </data>
+  <data name="0035 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>植物のようなアンテナ端末
+そして、元凶たる本体の存在</value>
+  </data>
+  <data name="0036 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>この２つを結びつける、情報を我々
+はすでに持っています</value>
+  </data>
+  <data name="0037 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>どういうことだ……？</value>
+  </data>
+  <data name="0038 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>思い出してください。肝試しをはじ
+める際、涼宮さんが言ったことを</value>
+  </data>
+  <data name="0040 (497.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ……中庭の……</value>
+  </data>
+  <data name="0041 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そう、中庭の木が、夜中ひとりでに
+歩き出すというあの話です</value>
+  </data>
+  <data name="0042 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おそらく、本体というのは中庭の
+木のことでしょう</value>
+  </data>
+  <data name="0043 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>なら、その本体ってのをなんとかす
+れば、みんな元に戻るってことか</value>
+  </data>
+  <data name="0044 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ</value>
+  </data>
+  <data name="0045 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>なら、ハルヒに見つかる前に中庭の
+元凶をなんとかしよう</value>
+  </data>
+  <data name="0046 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あのハルヒがいつまでも大人しく
+部室に止まっているはずがない</value>
+  </data>
+  <data name="0047 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そのうち痺れを切らして飛び出して
+くるに決まっている</value>
+  </data>
+  <data name="0048 (497.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あのう……</value>
+  </data>
+  <data name="0049 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>出発しようとした時、朝比奈さんが
+おずおずと俺たちを呼び止めた</value>
+  </data>
+  <data name="0050 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうしたんです？</value>
+  </data>
+  <data name="0051 (497.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>チェスの駒を取ってこないと
+涼宮さんに怒られるんじゃ……</value>
+  </data>
+  <data name="0052 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そういえば、それを忘れていた</value>
+  </data>
+  <data name="0053 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>だったら、中庭に向かう前に
+そっちを回収してこよう</value>
+  </data>
+  <data name="0056 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>よし、これで安心だ</value>
+  </data>
+  <data name="0057 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>踊り場からチェスの駒を回収して
+俺たちは改めて中庭へと向かった</value>
+  </data>
+  <data name="0060 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>中庭にやってきた俺たちが目の当た
+りにしたものは――</value>
+  </data>
+  <data name="0061 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>考えた中でも、最悪の状況だった</value>
+  </data>
+  <data name="0062 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、こりゃあ一体どういうことだ
+……！？</value>
+  </data>
+  <data name="0063 (497.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、ありませんよう……！？</value>
+  </data>
+  <data name="0064 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>中庭、木が植えられているはずの場
+所にはぽっかりと穴が開いていた</value>
+  </data>
+  <data name="0065 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まるで――</value>
+  </data>
+  <data name="0066 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>『木が自ら抜け出して、どこかへ
+歩いて行ったかのように……』</value>
+  </data>
+  <data name="0067 (497.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>これは、一足遅かったということ
+ですね</value>
+  </data>
+  <data name="0068 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さすがに古泉も深刻そうだ</value>
+  </data>
+  <data name="0069 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、これも情報生命体だかの仕業
+なんだろ？</value>
+  </data>
+  <data name="0070 (497.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0071 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>なら、木がどこへ行っちまったか
+分からないか？</value>
+  </data>
+  <data name="0072 (497.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0073 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門はコンマ１秒ほど目をふせたか
+と思うと</value>
+  </data>
+  <data name="0074 (497.ja) NAGATO (長門)" xml:space="preserve">
+    <value>あそこ</value>
+  </data>
+  <data name="0075 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>背後にある建物の一角を指差した</value>
+  </data>
+  <data name="0076 (497.ja) KYON (キョン)" xml:space="preserve">
+    <value>って、あそこは……</value>
+  </data>
+  <data name="0077 (497.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門が示した場所、そこは今まさに
+ハルヒがいる部室棟の３階だった</value>
+  </data>
 </root>

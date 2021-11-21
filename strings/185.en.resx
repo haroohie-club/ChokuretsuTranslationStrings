@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,33 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (185.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんパソコンに詳しいんですね</value>
+  </data>
+  <data name="0001 (185.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、みくるちゃんよりは詳しいと
+思うけどどうして？</value>
+  </data>
+  <data name="0002 (185.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>コンピ研の部長さんとパソコンの話
+を仲良くしていたんですよ</value>
+  </data>
+  <data name="0003 (185.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたしにはわからない単語で話が
+進んでいくんです</value>
+  </data>
+  <data name="0004 (185.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん、古泉くんがねえ</value>
+  </data>
+  <data name="0005 (185.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ご本人はたしなむ程度と謙遜して
+ましたけど……</value>
+  </data>
+  <data name="0006 (185.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね</value>
+  </data>
+  <data name="0007 (185.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは美味しいお茶が入れ
+られるからいいのよ！</value>
+  </data>
 </root>

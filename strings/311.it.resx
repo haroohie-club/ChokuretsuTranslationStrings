@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,111 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (311.ja) KYON (キョン)" xml:space="preserve">
+    <value>例えばな、ハルヒ</value>
+  </data>
+  <data name="0001 (311.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ？</value>
+  </data>
+  <data name="0002 (311.ja) KYON (キョン)" xml:space="preserve">
+    <value>鍋ややかんに手足が生えて歩き出す
+……なんて妄想、したことあるか？</value>
+  </data>
+  <data name="0003 (311.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにそれ？　子供じゃあるまいし</value>
+  </data>
+  <data name="0004 (311.ja) KYON (キョン)" xml:space="preserve">
+    <value>だよな</value>
+  </data>
+  <data name="0005 (311.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒが気軽にそんなことを妄想
+し始めたら、世界は大混乱だ</value>
+  </data>
+  <data name="0006 (311.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>お湯ひとつ沸かすにも大捕物しない
+といけないんだからな</value>
+  </data>
+  <data name="0007 (311.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ブリキのおもちゃって、
+かわいいですよね</value>
+  </data>
+  <data name="0008 (311.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>兵隊さんとか、並んでいるのを
+見た時にはワクワクしました</value>
+  </data>
+  <data name="0009 (311.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、アレ？　レトロブームとか
+で目にするようになったわよね</value>
+  </data>
+  <data name="0010 (311.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは、小さいころに
+ブリキの兵隊で遊んでたの？</value>
+  </data>
+  <data name="0011 (311.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>い、いえ、あたしは、その……
+一度もないです</value>
+  </data>
+  <data name="0012 (311.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふぅん、ケガしたら危ないとか
+言われてしまわれてたのかしら</value>
+  </data>
+  <data name="0013 (311.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え、えっと、えっと……</value>
+  </data>
+  <data name="0014 (311.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、今でも親が持ってる方が
+珍しいし、そんなものよね</value>
+  </data>
+  <data name="0015 (311.ja) NAGATO (長門)" xml:space="preserve">
+    <value>バーベキューの道具が自分から
+動き出す確率は、ほとんど０</value>
+  </data>
+  <data name="0016 (311.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そりゃ、そうよね
+というか、完全に０じゃないの？</value>
+  </data>
+  <data name="0017 (311.ja) NAGATO (長門)" xml:space="preserve">
+    <value>完全に０、ということは有り得ない</value>
+  </data>
+  <data name="0018 (311.ja) NAGATO (長門)" xml:space="preserve">
+    <value>確率的には、どんなことでも起きる
+可能性はある</value>
+  </data>
+  <data name="0019 (311.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん……そんなものかしら</value>
+  </data>
+  <data name="0020 (311.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0021 (311.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やっぱり、そうよね</value>
+  </data>
+  <data name="0022 (311.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>不思議なことがある方が
+楽しいわよね！</value>
+  </data>
+  <data name="0023 (311.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いつ頃からか、ブリキのおもちゃに
+人気があるそうですね</value>
+  </data>
+  <data name="0024 (311.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>金魚とか兵隊さんの人形とか、たま
+におもちゃ屋さんで見かけるわね</value>
+  </data>
+  <data name="0025 (311.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ああしたおもちゃに心惹かれること
+はありますか、涼宮さん</value>
+  </data>
+  <data name="0026 (311.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>心を惹かれるのは、やっぱり不思議
+な現象よっ！</value>
+  </data>
+  <data name="0027 (311.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ブリキのおもちゃは可愛いけれど
+怪奇現象の方に夢中になっちゃうわ</value>
+  </data>
+  <data name="0028 (311.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですか
+それは涼宮さんらしいですね</value>
+  </data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,142 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (527.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>$8ねえねえ、ハルにゃん#W30
+$10昨日の夜は#W10なにしてたのー？</value>
+  </data>
+  <data name="0001 (527.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9そうね、#W40肝試ししたり#W20ゲームしたり#W20
+あと、#W20天体観測もしたわね</value>
+  </data>
+  <data name="0002 (527.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>$14いいなー、#W30$12あたしも一緒に
+遊びたかったなー</value>
+  </data>
+  <data name="0003 (527.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9また誘ってあげるわ</value>
+  </data>
+  <data name="0004 (527.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8だから、#W10今度は寝ちゃわないように
+がんばるのよ</value>
+  </data>
+  <data name="0005 (527.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>$10うん！　わかった！</value>
+  </data>
+  <data name="0007 (527.ja) KYON (キョン)" xml:space="preserve">
+    <value>$5……$9しかし、#W40俺たちは夜通し#W20$8何を
+やってたんだろうな</value>
+  </data>
+  <data name="0008 (527.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10結局、#W30$8ただ遊んでただけな気がする
+な</value>
+  </data>
+  <data name="0009 (527.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>$14あはは、$8ほんとですね</value>
+  </data>
+  <data name="0010 (527.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$10いえいえ、#W50我々は世界を救った――</value>
+  </data>
+  <data name="0011 (527.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$8そういう見方もできるかと思われま
+すがね</value>
+  </data>
+  <data name="0012 (527.ja) KYON (キョン)" xml:space="preserve">
+    <value>$14世界を救うねぇ#W20…#W10…</value>
+  </data>
+  <data name="0013 (527.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$8どうしてもそんな大げさなことを
+したような実感がない</value>
+  </data>
+  <data name="0017 (527.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10まあ、#W30なんにせよ長門には#W10$8また
+助けてもらっちまったな</value>
+  </data>
+  <data name="0018 (527.ja) KYON (キョン)" xml:space="preserve">
+    <value>$8ありがとな、#W20長門</value>
+  </data>
+  <data name="0019 (527.ja) NAGATO (長門)" xml:space="preserve">
+    <value>$10別に、#W30いい</value>
+  </data>
+  <data name="0020 (527.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$8いつものように、#W10そっけない返事だ</value>
+  </data>
+  <data name="0021 (527.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10いや、#W40もしかして、#W20照れてるのか？</value>
+  </data>
+  <data name="0022 (527.ja) NAGATO (長門)" xml:space="preserve">
+    <value>$5……$10なに？</value>
+  </data>
+  <data name="0023 (527.ja) KYON (キョン)" xml:space="preserve">
+    <value>$14い、いや、#W20$8なんでもない</value>
+  </data>
+  <data name="0024 (527.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$8すべてを見透かしてしまいそうな
+そんな目が、#W40俺を見つめ返した</value>
+  </data>
+  <data name="0026 (527.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10はーい、みんな注目！</value>
+  </data>
+  <data name="0027 (527.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10ん#W20…#W10…#W10？</value>
+  </data>
+  <data name="0028 (527.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$12昨晩は、#W10$14と～っ$12ても退屈な一晩
+だったわ</value>
+  </data>
+  <data name="0029 (527.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$8あれをもって退屈と言ってしまえる
+おまえの根性には#W10$10感服するよ</value>
+  </data>
+  <data name="0030 (527.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8それで、#W30あたしは気づいたのよ#W20…#W10…</value>
+  </data>
+  <data name="0031 (527.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$7やっぱり、#W20不思議っていうのは$8身近
+なところから探していくべき$10だって</value>
+  </data>
+  <data name="0032 (527.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10一晩も周囲を引っかき回して出た
+結論がそれか#W20…#W10…</value>
+  </data>
+  <data name="0033 (527.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$12というわけで</value>
+  </data>
+  <data name="0034 (527.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8この後、#W20$10駅前に集合よ！</value>
+  </data>
+  <data name="0035 (527.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10なっ#W20…#W10…#W10！？</value>
+  </data>
+  <data name="0036 (527.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>$12こ、#W20これからまた$10……ですかぁ？</value>
+  </data>
+  <data name="0037 (527.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10当然よ！</value>
+  </data>
+  <data name="0038 (527.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9夕べ、成果がなかった分を
+$8取り返さないといけないんだから</value>
+  </data>
+  <data name="0039 (527.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8それじゃ、#W10いったん家に帰ってから
+駅前のいつもの場所に集合！</value>
+  </data>
+  <data name="0040 (527.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8いいわね、#W10$10遅刻したら死刑だからね</value>
+  </data>
+  <data name="0041 (527.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10死刑#W10…#W10…#W10ね</value>
+  </data>
+  <data name="0042 (527.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10この耐え難いまでの眠気と#W40
+$8それはどっちがより辛いのだろうか</value>
+  </data>
+  <data name="0043 (527.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$9そんな思考をめぐらせながら――</value>
+  </data>
+  <data name="0044 (527.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10俺は#W40ちぎれた雲の浮かぶ空を見上げ#W20
+深い、#W30深い#W20溜息をつくのだった</value>
+  </data>
 </root>
