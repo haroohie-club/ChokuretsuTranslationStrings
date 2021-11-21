@@ -82,7 +82,7 @@ namespace HaruhiChokuretsuLib.Archive
             int titlePointer = BitConverter.ToInt32(decompressedData.Skip(0x08).Take(4).ToArray());
             Title = Encoding.ASCII.GetString(decompressedData.Skip(titlePointer).TakeWhile(b => b != 0x00).ToArray());
 
-            for (int i = 0; DramatisPersonae.Count > 0 && EndPointerPointers[i] < DramatisPersonae.Keys.First(); i++)
+            for (int i = 0; EndPointerPointers.Count > 0 && DramatisPersonae.Count > 0 && EndPointerPointers[i] < DramatisPersonae.Keys.First(); i++)
             {
                 if (decompressedData[EndPointerPointers[i]] >= 0x81 && decompressedData[EndPointerPointers[i]] <= 0x8F)
                 {
