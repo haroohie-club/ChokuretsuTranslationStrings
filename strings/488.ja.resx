@@ -540,7 +540,7 @@
   <data name="0167 (488.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>う、うう……うまい</value>
   </data>
-  <data name="0168 (488.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0168 (488.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>あっさりとしていてコクがあるよ</value>
   </data>
   <data name="0169 (488.ja) KYON (キョン)" xml:space="preserve">
@@ -615,10 +615,10 @@
   <data name="0196 (488.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>うぐっ？</value>
   </data>
-  <data name="0197 (488.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0197 (488.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>むしゃむしゃ……</value>
   </data>
-  <data name="0198 (488.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0198 (488.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>あ、あれぇ？</value>
   </data>
   <data name="0199 (488.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -646,5 +646,17 @@
   <data name="0205 (488.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>連続で見たシュールな光景に、
 ため息をついた</value>
+  </data>
+  <data name="0206 (488.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>携帯で写真を撮る</value>
+  </data>
+  <data name="0207 (488.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に聞いてみる</value>
+  </data>
+  <data name="0208 (488.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>なんとかする</value>
+  </data>
+  <data name="0209 (488.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>めんどくさい</value>
   </data>
 </root>

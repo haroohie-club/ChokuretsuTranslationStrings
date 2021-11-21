@@ -515,4 +515,22 @@
     <value>この仕掛けでうまくハルヒの気を
 そらすことができればいいんだが</value>
   </data>
+  <data name="0143 (466.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に聞く</value>
+  </data>
+  <data name="0144 (466.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>視覚</value>
+  </data>
+  <data name="0145 (466.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>感触</value>
+  </data>
+  <data name="0146 (466.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>音</value>
+  </data>
+  <data name="0147 (466.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に頼む</value>
+  </data>
+  <data name="0148 (466.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>まだ持っておく</value>
+  </data>
 </root>

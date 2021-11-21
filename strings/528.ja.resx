@@ -320,4 +320,13 @@
     <value>俺の似顔絵がずらりと並んでいる
 さまは、ちょっと複雑な感じだね</value>
   </data>
+  <data name="0076 (528.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>指摘する</value>
+  </data>
+  <data name="0077 (528.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>指摘しない</value>
+  </data>
+  <data name="0078 (528.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>勝ちを譲る</value>
+  </data>
 </root>

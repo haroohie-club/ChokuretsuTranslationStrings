@@ -466,4 +466,10 @@
     <value>ドリンク剤で気合いを入れる団長殿
 のことを考えると気が重いね</value>
   </data>
+  <data name="0115 (468.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>花火に同意</value>
+  </data>
+  <data name="0116 (468.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>花火に反対</value>
+  </data>
 </root>

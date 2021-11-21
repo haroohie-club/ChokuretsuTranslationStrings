@@ -627,7 +627,7 @@
   <data name="0202 (487.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>うわあ</value>
   </data>
-  <data name="0203 (487.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0203 (487.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>やめてくれー</value>
   </data>
   <data name="0204 (487.ja) CLUB_PRES (部長氏)" xml:space="preserve">
@@ -661,5 +661,20 @@
   <data name="0212 (487.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ハルヒがまたうるさく騒ぎ出す
 前に戻らないとな</value>
+  </data>
+  <data name="0213 (487.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉を説得する</value>
+  </data>
+  <data name="0214 (487.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に注意をする</value>
+  </data>
+  <data name="0215 (487.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>携帯で写真を撮る</value>
+  </data>
+  <data name="0216 (487.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>気になる</value>
+  </data>
+  <data name="0217 (487.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>気にしない</value>
   </data>
 </root>

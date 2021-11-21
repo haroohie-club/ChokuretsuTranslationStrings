@@ -192,4 +192,7 @@
   <data name="0042 (522.ja) KYON (キョン)" xml:space="preserve">
     <value>よし、みんなでなんとかしよう</value>
   </data>
+  <data name="0043 (522.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>テスト選択肢</value>
+  </data>
 </root>

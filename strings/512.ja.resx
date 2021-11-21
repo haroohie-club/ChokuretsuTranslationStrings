@@ -684,4 +684,22 @@
     <value>ともあれ、鏡をなんとかするという
 目標はなんとか達成できたのだった</value>
   </data>
+  <data name="0187 (512.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ダメじゃない</value>
+  </data>
+  <data name="0188 (512.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ダメでしょう</value>
+  </data>
+  <data name="0189 (512.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>あり得る</value>
+  </data>
+  <data name="0190 (512.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>考えすぎ</value>
+  </data>
+  <data name="0191 (512.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>義賊ってことで</value>
+  </data>
+  <data name="0192 (512.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>借りただけです</value>
+  </data>
 </root>

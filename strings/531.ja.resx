@@ -475,4 +475,10 @@
     <value>時間は相当稼げたとは思うが……
 頼む、どうか間に合ってくれっ</value>
   </data>
+  <data name="0128 (531.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>トーナメント表を作る</value>
+  </data>
+  <data name="0129 (531.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>承諾する</value>
+  </data>
 </root>

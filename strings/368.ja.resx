@@ -841,4 +841,16 @@
   <data name="0242 (368.ja) KYON (キョン)" xml:space="preserve">
     <value>ただの不注意だと思うんだが……</value>
   </data>
+  <data name="0243 (368.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に頼る</value>
+  </data>
+  <data name="0244 (368.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉の会話に参加</value>
+  </data>
+  <data name="0245 (368.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるの側に行く</value>
+  </data>
+  <data name="0246 (368.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ひとまず預かる</value>
+  </data>
 </root>

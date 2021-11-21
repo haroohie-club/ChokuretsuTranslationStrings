@@ -700,4 +700,16 @@
     <value>ハルヒが望めば現実になる……
 これもそのひとつなのかもな</value>
   </data>
+  <data name="0213 (434.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒを説得</value>
+  </data>
+  <data name="0214 (434.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるをフォロー</value>
+  </data>
+  <data name="0215 (434.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>見守る</value>
+  </data>
+  <data name="0216 (434.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>教える</value>
+  </data>
 </root>

@@ -244,7 +244,7 @@
   <data name="0051 (493.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>あー</value>
   </data>
-  <data name="0052 (493.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0052 (493.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>うー</value>
   </data>
   <data name="0055 (493.ja) KOIZUMI (古泉)" xml:space="preserve">
@@ -257,7 +257,7 @@
   <data name="0058 (493.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>あうー</value>
   </data>
-  <data name="0059 (493.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0059 (493.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>うあー</value>
   </data>
   <data name="0060 (493.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -309,7 +309,7 @@
   <data name="0077 (493.ja) KYON (キョン)" xml:space="preserve">
     <value>おい、持っていくな、こら！</value>
   </data>
-  <data name="0078 (493.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0078 (493.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>えー、なんだあい？</value>
   </data>
   <data name="0080 (493.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -423,7 +423,7 @@
   <data name="0115 (493.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>あーうーあー</value>
   </data>
-  <data name="0116 (493.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0116 (493.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>うーあーうー</value>
   </data>
   <data name="0117 (493.ja) KYON (キョン)" xml:space="preserve">
@@ -454,7 +454,7 @@
     <value>俺はまずは国木田、次いで谷口を
 追い込み、古泉に捕獲させた</value>
   </data>
-  <data name="0127 (493.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0127 (493.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>うあー</value>
   </data>
   <data name="0128 (493.ja) TANIGUCHI (谷口)" xml:space="preserve">
@@ -547,7 +547,7 @@
   <data name="0155 (493.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>あうー</value>
   </data>
-  <data name="0156 (493.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0156 (493.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>うあー</value>
   </data>
   <data name="0157 (493.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -727,5 +727,14 @@
   </data>
   <data name="0209 (493.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>俺は二人に内心でそう約束をした</value>
+  </data>
+  <data name="0210 (493.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>賛同する</value>
+  </data>
+  <data name="0211 (493.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>屋上に出そう</value>
+  </data>
+  <data name="0212 (493.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>階下に降ろそう</value>
   </data>
 </root>

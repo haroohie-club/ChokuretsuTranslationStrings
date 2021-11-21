@@ -440,4 +440,22 @@
   <data name="0113 (529.ja) MIKURU (みくる)" xml:space="preserve">
     <value>ま、待ってください～！</value>
   </data>
+  <data name="0114 (529.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>時間は厳守するはず</value>
+  </data>
+  <data name="0115 (529.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ゆっくりお茶を味わう</value>
+  </data>
+  <data name="0116 (529.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>何もない</value>
+  </data>
+  <data name="0117 (529.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>なかなか覚えが良い</value>
+  </data>
+  <data name="0118 (529.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉と同じくらいだ</value>
+  </data>
+  <data name="0119 (529.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>お茶のお代わりを</value>
+  </data>
 </root>

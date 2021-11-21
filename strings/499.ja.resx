@@ -1068,4 +1068,7 @@
   <data name="0318 (499.ja) KYON (キョン)" xml:space="preserve">
     <value>……やれやれ</value>
   </data>
+  <data name="0319 (499.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>テスト選択肢</value>
+  </data>
 </root>

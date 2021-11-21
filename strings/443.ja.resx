@@ -127,7 +127,7 @@
   <data name="0019 (443.ja) KYON_SIS (妹)" xml:space="preserve">
     <value>くみたてよー</value>
   </data>
-  <data name="0021 (443.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0021 (443.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>谷口、ちっとも説明書読んでない
 だろ。大丈夫？</value>
   </data>
@@ -138,7 +138,7 @@
   <data name="0023 (443.ja) KYON_SIS (妹)" xml:space="preserve">
     <value>なるってー！</value>
   </data>
-  <data name="0025 (443.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0025 (443.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>ダメだよ
 やり直しは効率が悪いだろ</value>
   </data>
@@ -444,7 +444,7 @@
   <data name="0114 (443.ja) KYON_SIS (妹)" xml:space="preserve">
     <value>しけんー、キョンくんがんばれー</value>
   </data>
-  <data name="0115 (443.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0115 (443.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>そっちはいいから、ほら、僕たち
 はさっさとグリル組み立てようよ</value>
   </data>
@@ -491,7 +491,7 @@
   <data name="0133 (443.ja) KYON_SIS (妹)" xml:space="preserve">
     <value>しっかくだねー</value>
   </data>
-  <data name="0134 (443.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0134 (443.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>これは……そうだね</value>
   </data>
   <data name="0135 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -539,5 +539,8 @@
   <data name="0149 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>しみじみ自分の無事と朝比奈さん
 たちの無事を願う俺だった</value>
+  </data>
+  <data name="0150 (443.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>楽しんでるか聞く</value>
   </data>
 </root>

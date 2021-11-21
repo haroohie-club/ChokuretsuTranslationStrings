@@ -136,7 +136,7 @@
     <value>振り向いたかと思ったら、ふっと
 消えちまったんだよっ！</value>
   </data>
-  <data name="0027 (452.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0027 (452.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>谷口が声を掛けようと思ったくらい
 だから、可愛かったんだよね？</value>
   </data>
@@ -148,11 +148,11 @@
     <value>幽霊の容姿を気にしても仕方ない
 と思うが</value>
   </data>
-  <data name="0030 (452.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0030 (452.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>体育館までは僕も一緒だったけどさ
 僕はその女の子、見てないんだよね</value>
   </data>
-  <data name="0031 (452.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0031 (452.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>谷口の見間違いなんじゃないかな？</value>
   </data>
   <data name="0032 (452.ja) TANIGUCHI (谷口)" xml:space="preserve">
@@ -173,7 +173,7 @@
     <value>谷口の剣幕は、演技ではありえない
 ように見えた</value>
   </data>
-  <data name="0037 (452.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0037 (452.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>谷口が帰るなら、仕方ないね、僕も
 帰るよ。ごちそうさま</value>
   </data>
@@ -620,5 +620,8 @@
   </data>
   <data name="0179 (452.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>くそ、この場合誰が適任なんだ？</value>
+  </data>
+  <data name="0180 (452.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>テスト選択肢</value>
   </data>
 </root>

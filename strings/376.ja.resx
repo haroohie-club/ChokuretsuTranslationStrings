@@ -1037,4 +1037,10 @@
   <data name="0283 (376.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あー頭がジンジンする</value>
   </data>
+  <data name="0284 (376.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>再挑戦</value>
+  </data>
+  <data name="0285 (376.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>あきらめる</value>
+  </data>
 </root>

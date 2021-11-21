@@ -91,7 +91,7 @@
     <value>キョンが持つのなら、俺はここで
 待ってるとするかな</value>
   </data>
-  <data name="0011 (444.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0011 (444.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>全員で行くこともないよね</value>
   </data>
   <data name="0012 (444.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -117,7 +117,7 @@
     <value>労働に応じただけ食べる権利が
 あるんだからね</value>
   </data>
-  <data name="0020 (444.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0020 (444.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>はははっ、さすがに谷口の行動は
 見抜かれてるみたいだね</value>
   </data>
@@ -131,7 +131,7 @@
   <data name="0023 (444.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>ちぇっ、おまえこそな</value>
   </data>
-  <data name="0024 (444.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0024 (444.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>谷口、僕たちはコンロの準備でも
 しておいた方がよさそうだね</value>
   </data>
@@ -193,7 +193,7 @@
     <value>俺だってたくさん食いたいからな
 働いた分は食いまくるぜ</value>
   </data>
-  <data name="0048 (444.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0048 (444.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>そうだね。動いてお腹を空かせると
 おいしく食べられるよ</value>
   </data>
@@ -682,5 +682,14 @@
   <data name="0184 (444.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>おかげでマズイものを食う羽目に
 なったし、やれやれだぜ</value>
+  </data>
+  <data name="0185 (444.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>更に具を追加</value>
+  </data>
+  <data name="0186 (444.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>そのままでいい</value>
+  </data>
+  <data name="0187 (444.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>仕方ない</value>
   </data>
 </root>

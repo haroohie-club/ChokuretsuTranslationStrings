@@ -125,7 +125,7 @@
   <data name="0022 (422.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>$15うおお！　#W20$9朝比奈さんの手料理か！</value>
   </data>
-  <data name="0023 (422.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0023 (422.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>$10悪いねキョン、#W20$8僕らまでまぜて
 もらっちゃってさ</value>
   </data>
@@ -175,5 +175,8 @@ $8あんまり信用できないけど#W20…#W10…</value>
   <data name="0043 (422.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>$8だとしたら、#W40長門さんが気づかない
 はずが#W20…#W10…</value>
+  </data>
+  <data name="0044 (422.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒについて</value>
   </data>
 </root>

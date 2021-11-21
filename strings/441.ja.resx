@@ -69,7 +69,7 @@
     <value>肉を食わせてくれるって聞いて、
 デートの予定をぶっちぎって来たぜ</value>
   </data>
-  <data name="0003 (441.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0003 (441.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>あれ？　暇でごろごろしてたって
 聞いたけど</value>
   </data>
@@ -105,11 +105,11 @@
     <value>くそー！　重い、重いぞ！
 なんで俺が荷物持ちなんだ！</value>
   </data>
-  <data name="0015 (441.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0015 (441.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>谷口が自分で言い出したんじゃ
 ない</value>
   </data>
-  <data name="0016 (441.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0016 (441.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>ジャンケンで負けた方が荷物を
 全部持つって</value>
   </data>
@@ -138,7 +138,7 @@
     <value>うまいもんを食わせてくれるという
 から来たんだからな</value>
   </data>
-  <data name="0024 (441.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0024 (441.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>あと、朝比奈さんと鶴屋さんが参加
 するって聞いたんだけど</value>
   </data>
@@ -223,7 +223,7 @@
     <value>ったくよ、人がせっかく手伝いに
 きてやったっつーのによ</value>
   </data>
-  <data name="0050 (441.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0050 (441.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>まあまあ、いいじゃない</value>
   </data>
   <data name="0051 (441.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -539,16 +539,16 @@
   <data name="0150 (441.ja) KYON (キョン)" xml:space="preserve">
     <value>いいから落ち着け</value>
   </data>
-  <data name="0152 (441.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0152 (441.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>やあ、キョン</value>
   </data>
   <data name="0153 (441.ja) KYON (キョン)" xml:space="preserve">
     <value>悪いな、急に呼び出して</value>
   </data>
-  <data name="0154 (441.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0154 (441.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>いいよいいよ、どうせヒマだったし</value>
   </data>
-  <data name="0155 (441.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0155 (441.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>むしろ、こんな面白そうなイベント
 に呼んでもらえてラッキーだよ</value>
   </data>
@@ -556,10 +556,10 @@
     <value>そう言ってもらえると助かる
 とにかく、大いに盛りあがってくれ</value>
   </data>
-  <data name="0157 (441.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0157 (441.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>うん、楽しませてもらうよ</value>
   </data>
-  <data name="0158 (441.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0158 (441.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>ねえ、まだはじめないの？</value>
   </data>
   <data name="0159 (441.ja) KYON (キョン)" xml:space="preserve">
@@ -594,5 +594,11 @@
   <data name="0168 (441.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>ちなみにピーマンは我が妹が
 たいらげる予定だ</value>
+  </data>
+  <data name="0169 (441.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>準備ＯＫ</value>
+  </data>
+  <data name="0170 (441.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>まだ</value>
   </data>
 </root>

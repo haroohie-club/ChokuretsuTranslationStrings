@@ -798,4 +798,16 @@
   <data name="0224 (435.ja) KYON (キョン)" xml:space="preserve">
     <value>お、俺の苦労はいったい……</value>
   </data>
+  <data name="0225 (435.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒの好みに合わせる</value>
+  </data>
+  <data name="0226 (435.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>自分の好みでいい</value>
+  </data>
+  <data name="0227 (435.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒについて行く</value>
+  </data>
+  <data name="0228 (435.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒに手伝わせる</value>
+  </data>
 </root>

@@ -346,4 +346,16 @@
     <value>どうです、詰めチェスの問題をだす
 ので解いてみませんか？</value>
   </data>
+  <data name="0086 (507.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>トーナメント表を作る</value>
+  </data>
+  <data name="0087 (507.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>承諾する</value>
+  </data>
+  <data name="0088 (507.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>チェス成功</value>
+  </data>
+  <data name="0089 (507.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>チェス失敗</value>
+  </data>
 </root>

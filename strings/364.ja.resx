@@ -693,4 +693,22 @@
   <data name="0185 (364.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>時間の無駄だったかもしれないな</value>
   </data>
+  <data name="0186 (364.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>俺ひとりで行く</value>
+  </data>
+  <data name="0187 (364.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>お茶を持っていく</value>
+  </data>
+  <data name="0188 (364.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ゲームは嫌い</value>
+  </data>
+  <data name="0189 (364.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ゲームは苦手</value>
+  </data>
+  <data name="0190 (364.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒが許さない</value>
+  </data>
+  <data name="0191 (364.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>コンピ研に渡すか</value>
+  </data>
 </root>

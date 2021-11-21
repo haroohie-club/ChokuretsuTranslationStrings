@@ -651,4 +651,19 @@
     <value>結局、話し合ったところで名案など
 ひとつも出てこなかったな</value>
   </data>
+  <data name="0170 (428.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉を試す</value>
+  </data>
+  <data name="0171 (428.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉を試さない</value>
+  </data>
+  <data name="0172 (428.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉を止める</value>
+  </data>
+  <data name="0173 (428.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>止めるなよ！</value>
+  </data>
+  <data name="0174 (428.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>なぜ止める？</value>
+  </data>
 </root>

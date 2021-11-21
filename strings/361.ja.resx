@@ -1486,4 +1486,19 @@
   <data name="0448 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>一応、ハルヒに報告するか</value>
   </data>
+  <data name="0450 (361.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>プール</value>
+  </data>
+  <data name="0451 (361.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>キャンプ</value>
+  </data>
+  <data name="0452 (361.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>合宿</value>
+  </data>
+  <data name="0453 (361.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>いや、まだだ</value>
+  </data>
+  <data name="0454 (361.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>もちろんだ</value>
+  </data>
 </root>

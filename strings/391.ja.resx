@@ -988,4 +988,7 @@
   <data name="0289 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>#P05『悲運の音楽家たち』#P01と――</value>
   </data>
+  <data name="0290 (391.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>テスト選択肢</value>
+  </data>
 </root>

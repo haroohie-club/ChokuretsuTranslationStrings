@@ -796,4 +796,10 @@
     <value>そんなわけで、俺達は音楽室の鍵を
 手に、集合場所へと戻るのだった</value>
   </data>
+  <data name="0218 (412.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉と一緒に探す</value>
+  </data>
+  <data name="0219 (412.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>一人で探してみる</value>
+  </data>
 </root>

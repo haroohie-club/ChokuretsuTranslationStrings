@@ -295,4 +295,16 @@
   <data name="0062 (407.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あとはみんなの活躍に期待しよう</value>
   </data>
+  <data name="0063 (407.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ＯＢ名簿を借りる</value>
+  </data>
+  <data name="0064 (407.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ＯＢ名簿を借りない</value>
+  </data>
+  <data name="0065 (407.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>持っていく</value>
+  </data>
+  <data name="0066 (407.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>持っていかない</value>
+  </data>
 </root>

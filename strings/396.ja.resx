@@ -368,4 +368,16 @@
     <value>ハルヒのいない時に聞こえても
 あいつは満足しないだろうな</value>
   </data>
+  <data name="0088 (396.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉の超能力で解決？</value>
+  </data>
+  <data name="0089 (396.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>機関に助けを求める？</value>
+  </data>
+  <data name="0090 (396.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>周囲を調査する</value>
+  </data>
+  <data name="0091 (396.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>作戦を練る</value>
+  </data>
 </root>

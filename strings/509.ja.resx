@@ -563,4 +563,22 @@
     <value>やり遂げた達成感を朝比奈さんと
 共通の思い出にできたのだった</value>
   </data>
+  <data name="0151 (509.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>やり方を変える</value>
+  </data>
+  <data name="0152 (509.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ひとりでやる</value>
+  </data>
+  <data name="0153 (509.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>メモを取る</value>
+  </data>
+  <data name="0154 (509.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>うなずく</value>
+  </data>
+  <data name="0155 (509.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>首を振る</value>
+  </data>
+  <data name="0156 (509.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるを称える</value>
+  </data>
 </root>

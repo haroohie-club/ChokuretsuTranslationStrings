@@ -616,4 +616,19 @@
     <value>なんてお気の毒な朝比奈さん……
 いや、役に立っても困るけどな</value>
   </data>
+  <data name="0160 (462.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>バニースーツ</value>
+  </data>
+  <data name="0161 (462.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>メイド服</value>
+  </data>
+  <data name="0162 (462.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>違うだろ</value>
+  </data>
+  <data name="0163 (462.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>そうだな</value>
+  </data>
+  <data name="0164 (462.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒに頼む</value>
+  </data>
 </root>

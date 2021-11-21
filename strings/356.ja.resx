@@ -258,4 +258,7 @@
   <data name="0059 (356.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>小さくうなずいてみせた</value>
   </data>
+  <data name="0060 (356.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>テスト選択肢</value>
+  </data>
 </root>

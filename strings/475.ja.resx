@@ -391,4 +391,10 @@
   <data name="0098 (475.ja) KYON (キョン)" xml:space="preserve">
     <value>好都合と言えば、好都合……か？</value>
   </data>
+  <data name="0099 (475.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>そうかもな</value>
+  </data>
+  <data name="0100 (475.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>そうか？</value>
+  </data>
 </root>

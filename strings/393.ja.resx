@@ -630,4 +630,19 @@
     <value>俺はいったんみんなのところへ
 戻ることにした</value>
   </data>
+  <data name="0160 (393.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>オルゴールを回収</value>
+  </data>
+  <data name="0161 (393.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>楽譜を回収</value>
+  </data>
+  <data name="0162 (393.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>回収しない</value>
+  </data>
+  <data name="0163 (393.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>楽譜を回収</value>
+  </data>
+  <data name="0164 (393.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>回収しない</value>
+  </data>
 </root>

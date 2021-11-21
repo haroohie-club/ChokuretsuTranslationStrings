@@ -247,4 +247,7 @@
   <data name="0063 (525.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>悪い夢はここまでにしてもらいたい</value>
   </data>
+  <data name="0064 (525.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>テスト選択肢</value>
+  </data>
 </root>

@@ -814,4 +814,16 @@
   <data name="0226 (398.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>というか、その笑顔を俺に向けるな</value>
   </data>
+  <data name="0227 (398.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>楽譜を拝借する</value>
+  </data>
+  <data name="0228 (398.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>このまま返す</value>
+  </data>
+  <data name="0229 (398.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に話しかける</value>
+  </data>
+  <data name="0230 (398.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに話しかける</value>
+  </data>
 </root>

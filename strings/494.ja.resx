@@ -389,7 +389,7 @@
     <value>急に帰りたくなくなったんだ
 もっと遊ぼうぜ～</value>
   </data>
-  <data name="0112 (494.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0112 (494.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>そうだね～、物足りないよね</value>
   </data>
   <data name="0113 (494.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -424,7 +424,7 @@
     <value>そういや、さっきいいものを
 拾っちまったんだよなぁ</value>
   </data>
-  <data name="0127 (494.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0127 (494.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>きれいだよねぇ、コレ</value>
   </data>
   <data name="0129 (494.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -450,7 +450,7 @@
     <value>やなこった。これは俺たちが
 拾ったんだからな</value>
   </data>
-  <data name="0136 (494.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0136 (494.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>キョンにはあげないよ</value>
   </data>
   <data name="0139 (494.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -467,7 +467,7 @@
   <data name="0142 (494.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>やーだねっと</value>
   </data>
-  <data name="0143 (494.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0143 (494.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>渡さないよ～</value>
   </data>
   <data name="0144 (494.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -545,7 +545,7 @@
     <value>気をつけてください！
 朝比奈さんの方に行きましたよ</value>
   </data>
-  <data name="0169 (494.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0169 (494.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>みんな、いっしょに遊ぼうよー</value>
   </data>
   <data name="0170 (494.ja) MIKURU (みくる)" xml:space="preserve">
@@ -559,7 +559,7 @@
   <data name="0172 (494.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>朝比奈さんが急にしゃがみ込んだ</value>
   </data>
-  <data name="0174 (494.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0174 (494.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>#SK0あれれっ？</value>
   </data>
   <data name="0175 (494.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -586,7 +586,7 @@
   <data name="0182 (494.ja) NAGATO (長門)" xml:space="preserve">
     <value>……了解</value>
   </data>
-  <data name="0183 (494.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0183 (494.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>あははは……</value>
   </data>
   <data name="0184 (494.ja) NAGATO (長門)" xml:space="preserve">
@@ -596,7 +596,7 @@
     <value>ぽつりと答えたのと同時に
 長門がいきなり動いた</value>
   </data>
-  <data name="0187 (494.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0187 (494.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>えっ？　あれれ？</value>
   </data>
   <data name="0188 (494.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -631,5 +631,11 @@
   <data name="0198 (494.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>……というのは、今はとりあえず
 言わないでおこう</value>
+  </data>
+  <data name="0199 (494.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに告げる</value>
+  </data>
+  <data name="0200 (494.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに教える</value>
   </data>
 </root>

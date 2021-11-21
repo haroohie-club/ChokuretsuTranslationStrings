@@ -632,7 +632,7 @@
     <value>朝比奈さんの頭にも
 お花を咲かせましょ～っと</value>
   </data>
-  <data name="0182 (486.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0182 (486.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>女の子と花の組み合わせって
 いいよね</value>
   </data>
@@ -658,7 +658,7 @@
     <value>朝比奈さんなら
 きっと似合いますよ～</value>
   </data>
-  <data name="0193 (486.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0193 (486.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>そうだね、似合うと思うよ</value>
   </data>
   <data name="0196 (486.ja) MIKURU (みくる)" xml:space="preserve">
@@ -672,7 +672,7 @@
   <data name="0198 (486.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>#SK0ふぎゃっ！</value>
   </data>
-  <data name="0199 (486.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0199 (486.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>#SK0あうっ！</value>
   </data>
   <data name="0200 (486.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -707,7 +707,7 @@
   <data name="0210 (486.ja) TANIGUCHI (谷口)" xml:space="preserve">
     <value>#SK0うぐぐ……</value>
   </data>
-  <data name="0211 (486.ja) 9 (国木田)" xml:space="preserve">
+  <data name="0211 (486.ja) KUNIKIDA (国木田)" xml:space="preserve">
     <value>#SK0きゅう……</value>
   </data>
   <data name="0212 (486.ja) MONOLOGUE (モノロ)" xml:space="preserve">
@@ -768,5 +768,14 @@
   <data name="0232 (486.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>あれは、下手な肝試しよりも
 怖かったんじゃないだろうか</value>
+  </data>
+  <data name="0233 (486.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>携帯で写真を撮る</value>
+  </data>
+  <data name="0234 (486.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに下がるように言う</value>
+  </data>
+  <data name="0235 (486.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みんなで協力する</value>
   </data>
 </root>

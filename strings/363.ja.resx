@@ -786,4 +786,13 @@
   <data name="0207 (363.ja) KYON (キョン)" xml:space="preserve">
     <value>聞き込みはこのぐらいにしておくか</value>
   </data>
+  <data name="0208 (363.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>誤字を指摘する</value>
+  </data>
+  <data name="0209 (363.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>メモリーカードを拝借する</value>
+  </data>
+  <data name="0210 (363.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>そんなことはできない</value>
+  </data>
 </root>

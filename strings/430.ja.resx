@@ -765,4 +765,22 @@
     <value>さすがに電車に乗りこむと、そこで
 諦めたようだったが……</value>
   </data>
+  <data name="0224 (430.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに賛成する</value>
+  </data>
+  <data name="0225 (430.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に突っ込む</value>
+  </data>
+  <data name="0226 (430.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に苦情</value>
+  </data>
+  <data name="0227 (430.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに苦情</value>
+  </data>
+  <data name="0228 (430.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ドリアンを渡す</value>
+  </data>
+  <data name="0229 (430.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ちくわを渡す</value>
+  </data>
 </root>

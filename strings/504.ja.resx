@@ -426,4 +426,19 @@
     <value>これからだす詰めチェスの問題を
 解いてみなさい</value>
   </data>
+  <data name="0107 (504.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>指摘する</value>
+  </data>
+  <data name="0108 (504.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>指摘しない</value>
+  </data>
+  <data name="0109 (504.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>勝ちを譲る</value>
+  </data>
+  <data name="0110 (504.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>チェス成功</value>
+  </data>
+  <data name="0111 (504.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>チェス失敗</value>
+  </data>
 </root>

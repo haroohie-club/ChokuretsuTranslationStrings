@@ -599,4 +599,13 @@
     <value>ハルヒのところに戻るとするか
 ……やれやれ</value>
   </data>
+  <data name="0157 (409.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>もらっておく</value>
+  </data>
+  <data name="0158 (409.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>いらない</value>
+  </data>
+  <data name="0159 (409.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>そっちを見る</value>
+  </data>
 </root>
