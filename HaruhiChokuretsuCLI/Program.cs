@@ -186,7 +186,6 @@ namespace HaruhiChokuretsuCLI
         {
             var file = arc.Files.FirstOrDefault(x => x.Index == index);
             file.CompressedData = File.ReadAllBytes(filePath);
-            file.Edited = true;
             arc.Files[arc.Files.IndexOf(file)] = file;
         }
 
