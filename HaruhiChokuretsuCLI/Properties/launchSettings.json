@@ -2,7 +2,7 @@
   "profiles": {
     "HaruhiChokuretsuCLI": {
       "commandName": "Project",
-      "commandLineArgs": "--import-resx -i \"C:\\Users\\User\\PortableApps\\DSHacking\\haruhi\\haruhi-chokuretsu-tl\\archives\\original\\evt.bin\" -o C:\\Users\\User\\PortableApps\\DSHacking\\haruhi\\haruhi-chokuretsu-tl\\rom\\data\\evt.bin\" -f \"C:\\Users\\User\\source\\repos\\HaruhiChokuretsuEditor\\strings\" -l \"en\" --font-map \"C:\\Users\\User\\PortableApps\\DSHacking\\haruhi\\haruhi-chokuretsu-tl\\font-replacement.json\""
+      "commandLineArgs": "-r -i \"C:\\Users\\User\\PortableApps\\DSHacking\\haruhi\\haruhi-chokuretsu-tl\\archives\\original\\grp.bin\" -o \"C:\\Users\\User\\PortableApps\\DSHacking\\haruhi\\haruhi-chokuretsu-tl\\rom\\data\\grp.bin\" -f \"C:\\Users\\User\\PortableApps\\DSHacking\\haruhi\\haruhi-chokuretsu-tl\\archives\\graphics_loc\\en\""
     }
   }
 }

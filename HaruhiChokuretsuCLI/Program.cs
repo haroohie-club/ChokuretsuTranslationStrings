@@ -173,7 +173,7 @@ namespace HaruhiChokuretsuCLI
 
             grpFile.SetImage(filePath);
 
-            file.CompressedData = Helpers.CompressData(grpFile.GetBytes());
+            arc.Files[arc.Files.IndexOf(file)] = grpFile;
         }
 
         /// <summary>
@@ -186,6 +186,8 @@ namespace HaruhiChokuretsuCLI
         {
             var file = arc.Files.FirstOrDefault(x => x.Index == index);
             file.CompressedData = File.ReadAllBytes(filePath);
+            file.Edited = true;
+            arc.Files[arc.Files.IndexOf(file)] = file;
         }
 
         /// <summary>
