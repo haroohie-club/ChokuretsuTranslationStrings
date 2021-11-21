@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,216 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>暗いわねぇ、懐中電灯持ってくれば
+良かったわ</value>
+  </data>
+  <data name="0001 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さっさと部室に戻りましょ</value>
+  </data>
+  <data name="0002 (555.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、ちょっと見てみろ</value>
+  </data>
+  <data name="0003 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ……</value>
+  </data>
+  <data name="0004 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>
+って、アンタ、なにやってんの？</value>
+  </data>
+  <data name="0005 (555.ja) KYON (キョン)" xml:space="preserve">
+    <value>影絵だ影絵。ほら、チョウチョだ</value>
+  </data>
+  <data name="0006 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに子どもみたいなことやって
+んのよ</value>
+  </data>
+  <data name="0007 (555.ja) KYON (キョン)" xml:space="preserve">
+    <value>思うんだが、幽霊や何かの正体って
+大抵が見間違えたとかだよな</value>
+  </data>
+  <data name="0008 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そりゃ、昔の人はそうだったかも
+しれないでしょうけど</value>
+  </data>
+  <data name="0009 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それにしても、アンタ、チョウチョ
+以外のレパートリーはないわけ？</value>
+  </data>
+  <data name="0010 (555.ja) KYON (キョン)" xml:space="preserve">
+    <value>犬ならできるぞ</value>
+  </data>
+  <data name="0011 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はぁ……ちょっと見てなさい</value>
+  </data>
+  <data name="0012 (555.ja) KYON (キョン)" xml:space="preserve">
+    <value>おお……</value>
+  </data>
+  <data name="0013 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これがカニで、こっちがキツネ
+こうすると犬にもなるのよ</value>
+  </data>
+  <data name="0014 (555.ja) KYON (キョン)" xml:space="preserve">
+    <value>おお、すごいな</value>
+  </data>
+  <data name="0015 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こんなの常識よ、常識</value>
+  </data>
+  <data name="0017 (555.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、見てくださいほら</value>
+  </data>
+  <data name="0018 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに？　影絵？</value>
+  </data>
+  <data name="0019 (555.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうです。さっき教えてもらった
+んです、ほら、チョウチョ</value>
+  </data>
+  <data name="0020 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、そういうのは子供が
+やる遊びよ</value>
+  </data>
+  <data name="0021 (555.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも、あたしあまりしたことなかっ
+たんです</value>
+  </data>
+  <data name="0022 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……しょうがないわね
+こういうのもあるわよ</value>
+  </data>
+  <data name="0023 (555.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>わあ</value>
+  </data>
+  <data name="0024 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、カニとかキツネも
+できるわよ</value>
+  </data>
+  <data name="0025 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こうすると……ほら</value>
+  </data>
+  <data name="0026 (555.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>わあ、すごいすごい！
+ウサギですね</value>
+  </data>
+  <data name="0027 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こんなので喜んでもらえるなんて
+いくらでもやってあげるわよ</value>
+  </data>
+  <data name="0029 (555.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0030 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、なにやってるの？</value>
+  </data>
+  <data name="0031 (555.ja) NAGATO (長門)" xml:space="preserve">
+    <value>影絵</value>
+  </data>
+  <data name="0032 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは見れば分かるけど</value>
+  </data>
+  <data name="0033 (555.ja) NAGATO (長門)" xml:space="preserve">
+    <value>さっき教えてもらった</value>
+  </data>
+  <data name="0034 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>教えてもらったねえ……
+そのチョウチョだけ？</value>
+  </data>
+  <data name="0035 (555.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0036 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰だか知らないけどレパートリーが
+少なすぎるわよ</value>
+  </data>
+  <data name="0037 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>見てなさい……ほら</value>
+  </data>
+  <data name="0038 (555.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0039 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こうすると犬</value>
+  </data>
+  <data name="0040 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>
+こっちはニワトリ……どう？</value>
+  </data>
+  <data name="0041 (555.ja) NAGATO (長門)" xml:space="preserve">
+    <value>ユニーク</value>
+  </data>
+  <data name="0042 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>喜んでもらえてよかったわ</value>
+  </data>
+  <data name="0043 (555.ja) NAGATO (長門)" xml:space="preserve">
+    <value>他のレパートリーもある？</value>
+  </data>
+  <data name="0044 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>しょうがないわねぇ……
+じゃあ、こんなのはどう？</value>
+  </data>
+  <data name="0046 (555.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さん、見てください</value>
+  </data>
+  <data name="0047 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何……？</value>
+  </data>
+  <data name="0048 (555.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ちょうど差し込んだ光で
+廊下に影ができるんです</value>
+  </data>
+  <data name="0049 (555.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いや、これを使えばもっと効果的な
+仕掛けができたのですが……</value>
+  </data>
+  <data name="0050 (555.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>後悔先に立たずというわけですね</value>
+  </data>
+  <data name="0051 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その勤勉さは重要だと思うけど</value>
+  </data>
+  <data name="0052 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いくらなんでもそんなのに驚いたり
+しないわよ</value>
+  </data>
+  <data name="0053 (555.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>上手い方になると、かなり複雑な
+影絵も作れると聞きますが</value>
+  </data>
+  <data name="0054 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>たとえば、こういうの？</value>
+  </data>
+  <data name="0055 (555.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ウサギですか</value>
+  </data>
+  <data name="0056 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>他にも、こんなのとか</value>
+  </data>
+  <data name="0057 (555.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おや、今度はニワトリですか</value>
+  </data>
+  <data name="0058 (555.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いや、なかなかお上手ですね</value>
+  </data>
+  <data name="0059 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こんなの誰でもできるわよ</value>
+  </data>
+  <data name="0060 (555.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いやいや、今ではなかなか
+知っている方もいないのでは</value>
+  </data>
+  <data name="0061 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう？</value>
+  </data>
+  <data name="0062 (555.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ。さすがは涼宮さん
+博識ですね</value>
+  </data>
+  <data name="0063 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こんなので褒められても
+しょうがないわ</value>
+  </data>
+  <data name="0064 (555.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それより、早く部室に戻る
+わよっ</value>
+  </data>
 </root>

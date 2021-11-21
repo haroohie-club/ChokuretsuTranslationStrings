@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,88 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (237.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ、なんだ。古泉が有能だって
+ことは俺も認めてはいるんだが……</value>
+  </data>
+  <data name="0001 (237.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、急に？</value>
+  </data>
+  <data name="0002 (237.ja) KYON (キョン)" xml:space="preserve">
+    <value>今回の合宿では、何かと役に立って
+るからな、古泉のやつ</value>
+  </data>
+  <data name="0003 (237.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。その反面、あんたはダメね
+何かといえば帰ろうとか疲れたとか</value>
+  </data>
+  <data name="0004 (237.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こっちには、こっちの事情があるん
+だ。世界の危機とやらのせいでな</value>
+  </data>
+  <data name="0005 (237.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あのっ、古泉くんってすごい
+ですよね、物知りだし……</value>
+  </data>
+  <data name="0006 (237.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、彼の有能さにはたまに舌を
+巻くわ。さすがは謎の転校生よね</value>
+  </data>
+  <data name="0007 (237.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>な、謎の転校生だから……なんです
+か？</value>
+  </data>
+  <data name="0008 (237.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ。決まってるじゃない</value>
+  </data>
+  <data name="0009 (237.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、そうなんでしょか……</value>
+  </data>
+  <data name="0010 (237.ja) NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹は有能</value>
+  </data>
+  <data name="0011 (237.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もちろんよ！　何しろあたしの眼鏡
+にかなうだけの人材だもの</value>
+  </data>
+  <data name="0012 (237.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0013 (237.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、もちろん有希もみくるちゃんも
+有能だと思ってるわよ</value>
+  </data>
+  <data name="0014 (237.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうでないのはキョンくらいよね</value>
+  </data>
+  <data name="0015 (237.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕は有能であるべく努力をしてきた
+つもりなのですが</value>
+  </data>
+  <data name="0016 (237.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは有能よ。あたしがそう
+認めてるじゃないの</value>
+  </data>
+  <data name="0017 (237.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ありがとうございます。涼宮さん</value>
+  </data>
+  <data name="0018 (237.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>どうやら彼も多少認めてくださった
+感触があったのですよ</value>
+  </data>
+  <data name="0019 (237.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ですがその時、とても微妙な表情を
+しておられたのです</value>
+  </data>
+  <data name="0020 (237.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>否応なしに認めざるをえないって
+いう感じが気に入らなかったのかも</value>
+  </data>
+  <data name="0021 (237.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>複雑ですね、あんな顔で誉められる
+というのも……</value>
+  </data>
+  <data name="0022 (237.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>しょうがないわね、キョンってば</value>
+  </data>
 </root>

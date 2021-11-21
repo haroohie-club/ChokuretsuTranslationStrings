@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,101 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (243.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……いや、現在進行中の怪奇現象を
+ハルヒに語るのはマズイだろう</value>
+  </data>
+  <data name="0001 (243.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ここは一つ、別の話で足止めを――</value>
+  </data>
+  <data name="0002 (243.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、ペースが落ちてるわ</value>
+  </data>
+  <data name="0003 (243.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ダラダラ歩くのなら、ここに置いて
+先に行っちゃうわよ！？</value>
+  </data>
+  <data name="0005 (243.ja) KYON (キョン)" xml:space="preserve">
+    <value>あ……おいっ、待てハルヒ！</value>
+  </data>
+  <data name="0006 (243.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ったく、自由奔放だなアイツは</value>
+  </data>
+  <data name="0007 (243.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんって、観察した物から仮説
+を立てるのが上手ですよね</value>
+  </data>
+  <data name="0008 (243.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。発想力が優れてるんだと思
+うわ</value>
+  </data>
+  <data name="0009 (243.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたし、察しが悪いとか良く言われ
+るから、うらやましくて……</value>
+  </data>
+  <data name="0010 (243.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは、みくるちゃんはそれでも
+いいと思うけど。でもそうね、</value>
+  </data>
+  <data name="0011 (243.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんも色々と注意して観察
+すれば古泉くんみたいになれるかも</value>
+  </data>
+  <data name="0012 (243.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はいっ</value>
+  </data>
+  <data name="0013 (243.ja) NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹は仮説を立てる事が得意</value>
+  </data>
+  <data name="0014 (243.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんって、頭がいいものね
+じつに探偵向きだわ</value>
+  </data>
+  <data name="0015 (243.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0016 (243.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ。有希も頭はいいけど、</value>
+  </data>
+  <data name="0017 (243.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大人しいから、探偵には向いてるか
+どうかわからないわね</value>
+  </data>
+  <data name="0018 (243.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0019 (243.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>何かを推理する時には、とりあえず
+仮説を立てますよね</value>
+  </data>
+  <data name="0020 (243.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕の仮説は信憑性がない
+のでしょうか？</value>
+  </data>
+  <data name="0021 (243.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え？　そんなことはないでしょ</value>
+  </data>
+  <data name="0022 (243.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは現実と違う突拍子もない
+こととか言い出したりしないもの</value>
+  </data>
+  <data name="0023 (243.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうでしょうか？　何か信用されて
+いない気がします</value>
+  </data>
+  <data name="0024 (243.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それ、キョンに信用されてないって
+ことかしら？</value>
+  </data>
+  <data name="0025 (243.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>認めたくはありませんが</value>
+  </data>
+  <data name="0026 (243.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん、あれは信用されてないって
+いうより反発してるだけに見えるわ</value>
+  </data>
+  <data name="0027 (243.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>反発、ですか。それもそれで考え
+ものなのですが……</value>
+  </data>
 </root>

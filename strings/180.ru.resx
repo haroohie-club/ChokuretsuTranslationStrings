@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (180.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>んじゃ、次の問題だよっ！</value>
+  </data>
+  <data name="0001 (180.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>“チェックメイト”されてる位置に
+黒の“キング”を置いてくれるかい</value>
+  </data>
+  <data name="0002 (180.ja) INFO (インフォ)" xml:space="preserve">
+    <value>黒の“キング”を置くマスを指定し
+てください</value>
+  </data>
+  <data name="0003 (180.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>正解だよ、さすがだねキョンくん！</value>
+  </data>
+  <data name="0004 (180.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>残念！　ちょーっと違うみたいだね
+もう一回挑戦してみるかい？</value>
+  </data>
+  <data name="0005 (180.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>この問題では不要です　（仮）</value>
+  </data>
+  <data name="0006 (180.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>これは表示されませんね
+（仮）</value>
+  </data>
 </root>

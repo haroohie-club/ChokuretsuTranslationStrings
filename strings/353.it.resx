@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,270 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長い長い一日となったＳＯＳ団の
+合宿も終わり</value>
+  </data>
+  <data name="0001 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺たちはそれぞれ自宅へと帰った</value>
+  </data>
+  <data name="0002 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は帰り着くなりベッドに倒れ込む
+と、すぐさまやってきた睡魔に</value>
+  </data>
+  <data name="0003 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>抗おうともせず、そのまま目を
+閉じる</value>
+  </data>
+  <data name="0004 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もう槍だろうが小惑星だろうが
+何が落ちてこようと起きない――</value>
+  </data>
+  <data name="0005 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>半分眠った頭で、そんな不退転の
+決意をしていたその時――</value>
+  </data>
+  <data name="0006 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>う……誰だぁ……</value>
+  </data>
+  <data name="0007 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>
+はい……もしもし？</value>
+  </data>
+  <data name="0008 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン！</value>
+  </data>
+  <data name="0009 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの怒声が俺の眠気を一発で
+吹き飛ばした</value>
+  </data>
+  <data name="0010 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ハルヒ？</value>
+  </data>
+  <data name="0011 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アンタ、今どこにいるの！</value>
+  </data>
+  <data name="0012 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>な、なんだ……</value>
+  </data>
+  <data name="0013 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいから今すぐ駅前に来なさい
+団長命令よ！</value>
+  </data>
+  <data name="0014 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>うう……暑ぃ……</value>
+  </data>
+  <data name="0015 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの呼び出しをうけて急いで
+待ち合わせ場所へと向かった</value>
+  </data>
+  <data name="0016 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>睡眠時間はざっと２時間弱
+はっきり言って、これは眠い</value>
+  </data>
+  <data name="0017 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おまけにこの容赦なく照りつける
+真夏の太陽……</value>
+  </data>
+  <data name="0018 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なぜ俺は、律儀にもあいつの呼び
+出しに応じているいるのか</value>
+  </data>
+  <data name="0019 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>帰りたい。ひじょーに帰りたい
+回れ右して自転車に飛び乗りたい</value>
+  </data>
+  <data name="0020 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>帰りにコンビニで冷たい炭酸などを
+購入して帰宅するのはどうだろう？</value>
+  </data>
+  <data name="0021 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>うん、それがいい。そうしよう</value>
+  </data>
+  <data name="0022 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……あ</value>
+  </data>
+  <data name="0023 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>などと、自問自答していると――</value>
+  </data>
+  <data name="0024 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>駅前のオブジェに寄りかかって待つ
+ハルヒと目が合った</value>
+  </data>
+  <data name="0025 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>よお、早いな</value>
+  </data>
+  <data name="0026 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……む</value>
+  </data>
+  <data name="0027 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いや、なぜ睨む</value>
+  </data>
+  <data name="0028 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>遅いわよ、キョン！</value>
+  </data>
+  <data name="0029 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>……他の連中はどうした？</value>
+  </data>
+  <data name="0030 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>いったいなんなんだ、急に呼び出し
+なんて</value>
+  </data>
+  <data name="0031 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>言ったでしょ、後で駅前に集合って</value>
+  </data>
+  <data name="0032 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>確かに、そんなことを言っていたよ
+うな気もするが……</value>
+  </data>
+  <data name="0033 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺の記憶が確かなら、時間は特に
+決めてなかったように思うんだがな</value>
+  </data>
+  <data name="0034 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だからよ</value>
+  </data>
+  <data name="0035 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>わざわざ電話で招集をかけてあげた
+んだから、ありがたく思いなさい</value>
+  </data>
+  <data name="0036 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>何がどうありがたいのか、さっぱり
+分からん</value>
+  </data>
+  <data name="0037 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これから合宿の続きよ
+当然でしょ</value>
+  </data>
+  <data name="0038 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだと？　今度はなんだ？
+昼飯でも作るってのか？</value>
+  </data>
+  <data name="0039 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>悪いが俺は食欲より睡眠って気分だ
+それも可及的速やかに床に就きたい</value>
+  </data>
+  <data name="0040 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アンタ、それも忘れたの？</value>
+  </data>
+  <data name="0041 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>結局、あたしたち一度も怪奇現象を
+体験できなかったわ</value>
+  </data>
+  <data name="0042 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それじゃ、ＳＯＳ団の活動としては
+中途半端ってものよ</value>
+  </data>
+  <data name="0043 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、これから街を探索するのよ</value>
+  </data>
+  <data name="0044 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>待て待て待て、その前に聞きたい
+ことがいくつかある</value>
+  </data>
+  <data name="0045 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいわよ、何でも聞きなさい</value>
+  </data>
+  <data name="0046 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>まずだな、なぜこの場には俺だけ
+しかいないんだ？</value>
+  </data>
+  <data name="0047 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もちろん、みんな後から来るわよ</value>
+  </data>
+  <data name="0048 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>せっかく朝まで頑張ったんだから</value>
+  </data>
+  <data name="0049 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう少し寝かせてあげようと思った
+わけ</value>
+  </data>
+  <data name="0050 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝まで頑張ったのは俺も同じだと
+思うんだが</value>
+  </data>
+  <data name="0051 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>なぜ、誰よりも早く呼び出されて
+いるのか納得いく説明をしろ</value>
+  </data>
+  <data name="0052 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アンタはいいのよ</value>
+  </data>
+  <data name="0053 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんという理屈だろう
+ぐうの音も出ないとはこのことだ</value>
+  </data>
+  <data name="0054 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>……じゃあ、なぜこんな真っ昼間
+なんだ？</value>
+  </data>
+  <data name="0055 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>怪奇現象の本番は夜からだろう</value>
+  </data>
+  <data name="0056 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そうだ、せめて夕方ぐらいまで</value>
+  </data>
+  <data name="0057 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>寝かせてくれればよかったのに
+まったく</value>
+  </data>
+  <data name="0058 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなの誰が決めたのよ</value>
+  </data>
+  <data name="0059 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>朝だろうが昼だろうが、出る時は
+出るものなのよ</value>
+  </data>
+  <data name="0060 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>またもとんでもない理屈だな</value>
+  </data>
+  <data name="0061 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一見して納得し難いが、よく考えて
+みると……やっぱり納得できん</value>
+  </data>
+  <data name="0062 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>文句ばっか言ってないで
+出発するわよ、キョン！</value>
+  </data>
+  <data name="0063 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、待て、まだ質問は終わって
+ないぞ！？</value>
+  </data>
+  <data name="0064 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まずはみんなが来るまで喫茶店で
+作戦会議ね</value>
+  </data>
+  <data name="0065 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いったい、他の連中は何時間後に
+到着する予定なのか</value>
+  </data>
+  <data name="0066 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なにより気になるのはハルヒのやつ
+がちっとも諦めてないことだ</value>
+  </data>
+  <data name="0067 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>よもや、このままあの恐ろしい合宿
+の延長戦が行われるのだろうか？</value>
+  </data>
+  <data name="0068 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうだ、言い忘れてたけど</value>
+  </data>
+  <data name="0069 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>すると、ハルヒが何かを思い出した
+かのように足を止めた</value>
+  </data>
+  <data name="0070 (353.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>遅刻したんだから、もちろん
+キョンのおごりよ！</value>
+  </data>
+  <data name="0071 (353.ja) KYON (キョン)" xml:space="preserve">
+    <value>……いったい、なんの罰ゲームだ</value>
+  </data>
+  <data name="0072 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの意気揚々とした表情を横目
+に、俺は思わず溜息をつくのだった</value>
+  </data>
+  <data name="0073 (353.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やれやれだ</value>
+  </data>
 </root>

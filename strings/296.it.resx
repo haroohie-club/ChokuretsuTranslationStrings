@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,127 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (296.ja) KYON (キョン)" xml:space="preserve">
+    <value>しかし長門も、ツッコミが厳しい
+よなあ</value>
+  </data>
+  <data name="0001 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうせなんかまたあんたが余計なこ
+とをしたんでしょ</value>
+  </data>
+  <data name="0002 (296.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>見もしないでなにを偉そうに……
+だが悔しいが、正解だ</value>
+  </data>
+  <data name="0003 (296.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、それにしても言い方ってもん
+が……</value>
+  </data>
+  <data name="0004 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>オブラートに包んで、それで相手に
+伝わらないんじゃ意味がないでしょ</value>
+  </data>
+  <data name="0005 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、ずばっとハッキリ言うのが
+一番なのよ、結局</value>
+  </data>
+  <data name="0006 (296.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>自分もずばずばと物を言うタイプだ
+から、擁護が激しいな</value>
+  </data>
+  <data name="0007 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>擁護じゃなくて、正論よ</value>
+  </data>
+  <data name="0008 (296.ja) KYON (キョン)" xml:space="preserve">
+    <value>へいへい</value>
+  </data>
+  <data name="0009 (296.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんっていつも真面目で、なん
+だか近寄りづらいときがあって……</value>
+  </data>
+  <data name="0010 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう？　有希はそりゃ少しは無口だ
+けど、とってもいい娘よ</value>
+  </data>
+  <data name="0011 (296.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも、失敗した時のコメントとか
+たまに鋭くて……</value>
+  </data>
+  <data name="0012 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなの、失敗しないようにすれば
+いいじゃない</value>
+  </data>
+  <data name="0013 (296.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それができれば、苦労はしないんで
+すよう……っ</value>
+  </data>
+  <data name="0014 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>できないと思うからできないのよ
+みくるちゃんは修行が足りないわ！</value>
+  </data>
+  <data name="0015 (296.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ううっ、これってそういう問題なん
+ですかあ……？</value>
+  </data>
+  <data name="0016 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、“悪魔の証明”って知ってる
+かしら？</value>
+  </data>
+  <data name="0017 (296.ja) NAGATO (長門)" xml:space="preserve">
+    <value>無いことを証明することはできない
+ということ</value>
+  </data>
+  <data name="0018 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう、だからあたし、思うのよ</value>
+  </data>
+  <data name="0019 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>超常現象が無いことを証明するより
+あることを証明する方が簡単だって</value>
+  </data>
+  <data name="0020 (296.ja) NAGATO (長門)" xml:space="preserve">
+    <value>確率的に言えば、どのようなことも
+有り得ないことはない</value>
+  </data>
+  <data name="0021 (296.ja) NAGATO (長門)" xml:space="preserve">
+    <value>けれど、いわゆる一般常識から外れ
+た事象は、自然発生する確率が</value>
+  </data>
+  <data name="0022 (296.ja) NAGATO (長門)" xml:space="preserve">
+    <value>非常に低い</value>
+  </data>
+  <data name="0023 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そりゃ、そうかもしれないけど……</value>
+  </data>
+  <data name="0024 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、あんたってたまにツッコミが
+すごく鋭いわよね</value>
+  </data>
+  <data name="0025 (296.ja) NAGATO (長門)" xml:space="preserve">
+    <value>普通</value>
+  </data>
+  <data name="0026 (296.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんはささいな矛盾点などを
+指摘してくれるので</value>
+  </data>
+  <data name="0027 (296.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>論理的な話をしている時などには
+助かりますね</value>
+  </data>
+  <data name="0028 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、細かいから、あの子</value>
+  </data>
+  <data name="0029 (296.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>人によっては、ツッコミが厳しいと
+思う向きもあるようですが</value>
+  </data>
+  <data name="0030 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンのこと？</value>
+  </data>
+  <data name="0031 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>良く考えないで適当なことばかり
+しゃべるから悪いのよ</value>
+  </data>
+  <data name="0032 (296.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、自業自得だわ</value>
+  </data>
 </root>

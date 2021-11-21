@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,173 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (210.ja) KYON (キョン)" xml:space="preserve">
+    <value>なあ、ハルヒ</value>
+  </data>
+  <data name="0001 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、ものすごーくつまらない
+こと言う気じゃないでしょうね？</value>
+  </data>
+  <data name="0002 (210.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>話をする前から、いきなり牽制して
+きやがった</value>
+  </data>
+  <data name="0003 (210.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉の本音って聞いたことあるか？</value>
+  </data>
+  <data name="0004 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>本音なんて言うけど、それじゃ
+いつも言ってることは、</value>
+  </data>
+  <data name="0005 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>建前ってことになるじゃないのよ</value>
+  </data>
+  <data name="0006 (210.ja) KYON (キョン)" xml:space="preserve">
+    <value>建前だろ？</value>
+  </data>
+  <data name="0007 (210.ja) KYON (キョン)" xml:space="preserve">
+    <value>いつも笑顔を浮かべて調子のいい
+発言ったら、建前に決まってる</value>
+  </data>
+  <data name="0008 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン……確かに古泉くんはあんた
+と違って優秀で有能で人格者だわ</value>
+  </data>
+  <data name="0009 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でもね、だからって嫉妬して揶揄
+するのはどうかと思うわよ</value>
+  </data>
+  <data name="0010 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>人として、それはダメでしょ</value>
+  </data>
+  <data name="0011 (210.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんで俺はハルヒに可哀想な人を
+見る目で見られないとならんのだ？</value>
+  </data>
+  <data name="0012 (210.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あのー、涼宮さん</value>
+  </data>
+  <data name="0013 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、みくるちゃん</value>
+  </data>
+  <data name="0014 (210.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あのですねぇ、古泉くんのこと
+なんですけど……</value>
+  </data>
+  <data name="0015 (210.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんっていつも微笑んでいて
+穏やかですよねぇ</value>
+  </data>
+  <data name="0016 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。いつもしかめっ面のキョン
+とは大違いだわ</value>
+  </data>
+  <data name="0017 (210.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんでも、本音ってあるんで
+しょうかね？</value>
+  </data>
+  <data name="0018 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんの本音ねぇ</value>
+  </data>
+  <data name="0019 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もしあるとして
+それ知りたいの、みくるちゃん？</value>
+  </data>
+  <data name="0020 (210.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ううーん……どうでしょう？</value>
+  </data>
+  <data name="0021 (210.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>知りたいような、知りたくない
+ような……</value>
+  </data>
+  <data name="0022 (210.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>穏やかに笑ってくれてる方が
+いいかなぁ……</value>
+  </data>
+  <data name="0023 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>言いたくなったら言うんじゃないの
+みんな好きにすればいいと思うわ</value>
+  </data>
+  <data name="0024 (210.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうですねぇ</value>
+  </data>
+  <data name="0025 (210.ja) NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹の本音</value>
+  </data>
+  <data name="0026 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんの本音？</value>
+  </data>
+  <data name="0027 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そりゃあるでしょ、人間だもの</value>
+  </data>
+  <data name="0028 (210.ja) NAGATO (長門)" xml:space="preserve">
+    <value>建前は</value>
+  </data>
+  <data name="0029 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あるんじゃないの</value>
+  </data>
+  <data name="0030 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>見栄張りたい時だってあるでしょう
+し、我慢だってするでしょ</value>
+  </data>
+  <data name="0031 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>建前が嘘で本音が真実とも限らない
+こともあるし、複雑なのよ、色々ね</value>
+  </data>
+  <data name="0032 (210.ja) NAGATO (長門)" xml:space="preserve">
+    <value>興味深い</value>
+  </data>
+  <data name="0033 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは良かったわ、有希</value>
+  </data>
+  <data name="0034 (210.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼に僕の本音が聞きたい
+と言われてしまいましたが</value>
+  </data>
+  <data name="0035 (210.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕はそんなに裏表があるように
+見えるのでしょうか</value>
+  </data>
+  <data name="0036 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンが？　あいつったら失礼な
+ヤツね、まったく</value>
+  </data>
+  <data name="0037 (210.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、今に始まったことでは
+ありませんので</value>
+  </data>
+  <data name="0038 (210.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ぼくの笑顔はうさんくさいと
+ことあるごとに言われてますからね</value>
+  </data>
+  <data name="0039 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンの代わりに謝っておくわ
+キョンは古泉くんに嫉妬してるのよ</value>
+  </data>
+  <data name="0040 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＯＳ団の男子団員はふたりきりで
+何かと比べられちゃうからでしょ</value>
+  </data>
+  <data name="0041 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>悪いわね、古泉くん。許してやって</value>
+  </data>
+  <data name="0042 (210.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕の方が彼を羨ましく思っているの
+が本音と言えるかもしれまんね</value>
+  </data>
+  <data name="0043 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええっ！？　古泉くんがキョンを
+羨ましく思う箇所なんてあるの？</value>
+  </data>
+  <data name="0044 (210.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、ありますよ</value>
+  </data>
+  <data name="0045 (210.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん、そうなんだ
+信じられないわ</value>
+  </data>
+  <data name="0046 (210.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>でもどこが羨ましいかは
+秘密ですがね</value>
+  </data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,82 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (540.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>見て、なんか廊下が変じゃない？</value>
+  </data>
+  <data name="0001 (540.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え？　そ、そうですか？</value>
+  </data>
+  <data name="0002 (540.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ぜーったい変！</value>
+  </data>
+  <data name="0003 (540.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>妙に薄暗いし、いつもとなんか
+雰囲気が違うわよ！</value>
+  </data>
+  <data name="0004 (540.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>やっぱり気のせいじゃ……</value>
+  </data>
+  <data name="0005 (540.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急ぐわよ、みくるちゃん！</value>
+  </data>
+  <data name="0006 (540.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はうう、待ってくださぁい</value>
+  </data>
+  <data name="0007 (540.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>す、涼宮さん！</value>
+  </data>
+  <data name="0008 (540.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、どうしたの？　急に</value>
+  </data>
+  <data name="0009 (540.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、その、実は１年１０組が
+えと、トリックを説明して……</value>
+  </data>
+  <data name="0010 (540.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あれ？　ど、どうすればいい
+んだったかな……あうう</value>
+  </data>
+  <data name="0011 (540.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、ひとりでなにを
+やってるのよ</value>
+  </data>
+  <data name="0012 (540.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>いえ、えっと、あの……</value>
+  </data>
+  <data name="0013 (540.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>用がないなら先に行くわよ</value>
+  </data>
+  <data name="0014 (540.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、待って！　こ、これを！</value>
+  </data>
+  <data name="0015 (540.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　なにこれ
+６組のプレートじゃない</value>
+  </data>
+  <data name="0016 (540.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こんなのどこにあったの？</value>
+  </data>
+  <data name="0017 (540.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えと……お、落ちてました！</value>
+  </data>
+  <data name="0018 (540.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>落ちてた？　このプレートが？</value>
+  </data>
+  <data name="0019 (540.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい</value>
+  </data>
+  <data name="0020 (540.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん……</value>
+  </data>
+  <data name="0021 (540.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こんなの落ちるわけないと思う
+んだけど……</value>
+  </data>
+  <data name="0022 (540.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、なんかひっかかるわね</value>
+  </data>
+  <data name="0023 (540.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はうう……</value>
+  </data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,143 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (264.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉の流儀について語りたい</value>
+  </data>
+  <data name="0001 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>語れば？　一応聞いてあげるわよ</value>
+  </data>
+  <data name="0002 (264.ja) KYON (キョン)" xml:space="preserve">
+    <value>口の上手さで自分に都合良く
+世渡りしている</value>
+  </data>
+  <data name="0003 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0004 (264.ja) KYON (キョン)" xml:space="preserve">
+    <value>爽やかな笑顔で人を煙にまく</value>
+  </data>
+  <data name="0005 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほどね</value>
+  </data>
+  <data name="0006 (264.ja) KYON (キョン)" xml:space="preserve">
+    <value>下手に出ているふりで実は強引だ</value>
+  </data>
+  <data name="0007 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はいはい</value>
+  </data>
+  <data name="0008 (264.ja) KYON (キョン)" xml:space="preserve">
+    <value>真面目に聞けよ</value>
+  </data>
+  <data name="0009 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>愛想が良くて、笑顔が爽やかで
+でも押しは強いのよね</value>
+  </data>
+  <data name="0010 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、古泉くんって長所が一杯だわ</value>
+  </data>
+  <data name="0011 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>無愛想で礼儀がなってなくて、
+口が悪いキョンと大違いよねぇ</value>
+  </data>
+  <data name="0012 (264.ja) KYON (キョン)" xml:space="preserve">
+    <value>むぅ</value>
+  </data>
+  <data name="0013 (264.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……それは誤解してるぞ、ハルヒ</value>
+  </data>
+  <data name="0014 (264.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの……あたし思ったんですけど</value>
+  </data>
+  <data name="0015 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　みくるちゃん、
+何を思ったって？</value>
+  </data>
+  <data name="0016 (264.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、古泉くんって、色々と
+考えて動いていますよね</value>
+  </data>
+  <data name="0017 (264.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたし、難しい事ってよくわから
+ないから、いつも感心しちゃって</value>
+  </data>
+  <data name="0018 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは頭がいいもの。それに
+彼なりの流儀で動いてるんでしょ</value>
+  </data>
+  <data name="0019 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>考え無しのキョンとは大違いよね</value>
+  </data>
+  <data name="0020 (264.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そんなことないですよぅ</value>
+  </data>
+  <data name="0021 (264.ja) NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹の流儀について語られた</value>
+  </data>
+  <data name="0022 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん、どんな流儀なの？</value>
+  </data>
+  <data name="0023 (264.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0024 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希？　なに首をかしげてるの？</value>
+  </data>
+  <data name="0025 (264.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……彼はそれが気に入らないらしい</value>
+  </data>
+  <data name="0026 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンが古泉くんの流儀を気に
+入らないって言ったの？</value>
+  </data>
+  <data name="0027 (264.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0028 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、どうしてそこで首を傾げ
+るの？</value>
+  </data>
+  <data name="0029 (264.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0030 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>わかった。キョンがまたくだらない
+話をしたってことね！　まったく！</value>
+  </data>
+  <data name="0031 (264.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>何事においても、人それぞれに流儀
+というものがありますね</value>
+  </data>
+  <data name="0032 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんにも、古泉流みたいなもの
+があるわよね</value>
+  </data>
+  <data name="0033 (264.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、そうです</value>
+  </data>
+  <data name="0034 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その丁寧なところや、相手を立てる
+のも古泉流のひとつよね</value>
+  </data>
+  <data name="0035 (264.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、これは単に礼儀として弁えて
+いるだけですよ</value>
+  </data>
+  <data name="0036 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それが出来ないのがいるから、
+古泉くんが光って見えるのよ</value>
+  </data>
+  <data name="0037 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、それもひとつの古泉流だわ</value>
+  </data>
+  <data name="0038 (264.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ありがとうございます、涼宮さん</value>
+  </data>
+  <data name="0039 (264.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしにもあたしの流儀があるから
+あたしはそれを貫き通すわよっ！</value>
+  </data>
+  <data name="0040 (264.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>はい、もちろんお供させて頂きます</value>
+  </data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,153 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、部室棟の方が騒がしくない？
+早く行ってみましょう</value>
+  </data>
+  <data name="0001 (560.ja) KYON (キョン)" xml:space="preserve">
+    <value>気のせいじゃないか？</value>
+  </data>
+  <data name="0002 (560.ja) KYON (キョン)" xml:space="preserve">
+    <value>それより、さっきから時々落ちてる
+花びらが気にならないか？</value>
+  </data>
+  <data name="0003 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、ほんとね
+言われるまで気づかなかったわ</value>
+  </data>
+  <data name="0004 (560.ja) KYON (キョン)" xml:space="preserve">
+    <value>歩く木と、花びら、何か関係がある
+と思うのは自然な流れだろ</value>
+  </data>
+  <data name="0005 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やっぱり校舎内のどこかを
+歩き回ってるのかしら？</value>
+  </data>
+  <data name="0006 (560.ja) KYON (キョン)" xml:space="preserve">
+    <value>その可能性はないとは言えないな</value>
+  </data>
+  <data name="0007 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>決めたわ。もう少し、本館の方を
+調べてみましょ</value>
+  </data>
+  <data name="0009 (560.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの……涼宮さん</value>
+  </data>
+  <data name="0010 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに？</value>
+  </data>
+  <data name="0011 (560.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>この花びらなんですけど……</value>
+  </data>
+  <data name="0012 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>花びら？</value>
+  </data>
+  <data name="0013 (560.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>時々落ちてるんです
+ほら、あそことか</value>
+  </data>
+  <data name="0014 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほんとだわ、全然気づかなかった</value>
+  </data>
+  <data name="0015 (560.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>これってなんなんでしょうか</value>
+  </data>
+  <data name="0016 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もしかすると、校舎内を歩いた木が
+落として行ったのかも</value>
+  </data>
+  <data name="0017 (560.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええ！？</value>
+  </data>
+  <data name="0018 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>気になるわね、戻って本館の方を
+調べてきましょう</value>
+  </data>
+  <data name="0020 (560.ja) NAGATO (長門)" xml:space="preserve">
+    <value>待って</value>
+  </data>
+  <data name="0021 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの有希？</value>
+  </data>
+  <data name="0022 (560.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これ……</value>
+  </data>
+  <data name="0023 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それ……花びらかしら？</value>
+  </data>
+  <data name="0024 (560.ja) NAGATO (長門)" xml:space="preserve">
+    <value>落ちていた</value>
+  </data>
+  <data name="0025 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>落ちてたって、どこに</value>
+  </data>
+  <data name="0026 (560.ja) NAGATO (長門)" xml:space="preserve">
+    <value>校舎の中
+複数の場所に点在している</value>
+  </data>
+  <data name="0027 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……それは気になるわね</value>
+  </data>
+  <data name="0028 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もしかして、花びらを落とすような
+何かが、校舎にいるってことかしら</value>
+  </data>
+  <data name="0029 (560.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0030 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと、戻って見てきましょ</value>
+  </data>
+  <data name="0031 (560.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……分かった</value>
+  </data>
+  <data name="0033 (560.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さん</value>
+  </data>
+  <data name="0034 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに？　今、部室棟の方から……</value>
+  </data>
+  <data name="0035 (560.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>これを見てください</value>
+  </data>
+  <data name="0036 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにこれ、花びら？</value>
+  </data>
+  <data name="0037 (560.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>はい。実は、校舎を歩いている間も
+時折落ちているのを見かけました</value>
+  </data>
+  <data name="0038 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういえば、どこかで見かけた
+ような気もするわね…………</value>
+  </data>
+  <data name="0039 (560.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>一見、なんの変哲もない物ですが
+なぜこんな場所に？</value>
+  </data>
+  <data name="0040 (560.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>という疑問がふと浮かんできた
+のですが</value>
+  </data>
+  <data name="0041 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>確かにその通りね</value>
+  </data>
+  <data name="0042 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もしかして、こんな物を落とした
+何かが校舎内を徘徊してるのかしら</value>
+  </data>
+  <data name="0043 (560.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうかもしれません</value>
+  </data>
+  <data name="0044 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……決めたわ</value>
+  </data>
+  <data name="0045 (560.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>少し戻って調べてみましょう</value>
+  </data>
+  <data name="0046 (560.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>分かりました
+では行きましょう</value>
+  </data>
 </root>

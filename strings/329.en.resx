@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,123 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (329.ja) KYON (キョン)" xml:space="preserve">
+    <value>肝試しの時のことなんだが</value>
+  </data>
+  <data name="0001 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それがなによ、怖くて戻ってきた
+いい訳でも始めるつもり？</value>
+  </data>
+  <data name="0002 (329.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、長門がフォローしてくれた
+ことがな</value>
+  </data>
+  <data name="0003 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希はいい子だもの。きっとアンタ
+のフォローをしたのよ</value>
+  </data>
+  <data name="0004 (329.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、ありがたいと思うけど、ちょ
+っと驚いたな</value>
+  </data>
+  <data name="0005 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あの子は優しいから、アンタを
+かばってることはすぐわかったわ</value>
+  </data>
+  <data name="0006 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、アンタは今日から有希に
+足向けて寝たら死刑よ、死刑</value>
+  </data>
+  <data name="0007 (329.ja) KYON (キョン)" xml:space="preserve">
+    <value>はいはい、気をつけるよ</value>
+  </data>
+  <data name="0008 (329.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>肝試しの時のことなんですけど</value>
+  </data>
+  <data name="0009 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、あなた達が怖くて戻って来た
+失敗した肝試しのことね</value>
+  </data>
+  <data name="0010 (329.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ううっ、す、すみません～</value>
+  </data>
+  <data name="0011 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それで、それがどうしたの？</value>
+  </data>
+  <data name="0012 (329.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの時、長門さんがキョンくんを
+フォローしたじゃないですか</value>
+  </data>
+  <data name="0013 (329.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ちょっとびっくりしたんですよね</value>
+  </data>
+  <data name="0014 (329.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんって自分からあんまり
+主張しない人だから</value>
+  </data>
+  <data name="0015 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、珍しいかも。普段の有希
+なら静観してるわよね</value>
+  </data>
+  <data name="0016 (329.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>んんー……そうかも</value>
+  </data>
+  <data name="0017 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いい傾向だわ。有希はもっと自己
+主張してもいいと思うのよ</value>
+  </data>
+  <data name="0018 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＯＳ団の活動を通じて、有希も
+きっと成長してるのよ</value>
+  </data>
+  <data name="0019 (329.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですね</value>
+  </data>
+  <data name="0020 (329.ja) NAGATO (長門)" xml:space="preserve">
+    <value>待って</value>
+  </data>
+  <data name="0021 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え？　なに？</value>
+  </data>
+  <data name="0022 (329.ja) NAGATO (長門)" xml:space="preserve">
+    <value>階段。暗いから気をつけて</value>
+  </data>
+  <data name="0023 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あっ、そうね、ありがと</value>
+  </data>
+  <data name="0024 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希がフォローしてくれるから、
+ちょっとぐらい暗くても安心だわ</value>
+  </data>
+  <data name="0025 (329.ja) NAGATO (長門)" xml:space="preserve">
+    <value>注意を喚起しているだけ</value>
+  </data>
+  <data name="0026 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それが助かるのよ</value>
+  </data>
+  <data name="0027 (329.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>伺いましたよ、肝試しの一件</value>
+  </data>
+  <data name="0028 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、有希がキョンをかばった件？</value>
+  </data>
+  <data name="0029 (329.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、その話です</value>
+  </data>
+  <data name="0030 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は違うって言ってたけど、どう
+見てもキョンのフォローだったわね</value>
+  </data>
+  <data name="0031 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、めったに無いことだし、二人
+とも許してあげたけど</value>
+  </data>
+  <data name="0032 (329.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>団をまとめる長として、寛容の精神
+を示されたわけですね</value>
+  </data>
+  <data name="0033 (329.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ、だってあたしは団長だもの
+当然よ！</value>
+  </data>
 </root>

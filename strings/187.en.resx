@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,48 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (187.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くん、誰かから情報を聞き出す
+のが上手ですよね</value>
+  </data>
+  <data name="0001 (187.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でしょうね。古泉くん話術が達者
+だもの</value>
+  </data>
+  <data name="0002 (187.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>話術ですか、あたしには難しいです
+話術が上手いといいでしょうね</value>
+  </data>
+  <data name="0003 (187.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんには話術はいらないと
+思うわ！</value>
+  </data>
+  <data name="0004 (187.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え？　どうしてですか？</value>
+  </data>
+  <data name="0005 (187.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>聞きたい相手に笑顔を見せれば
+十分、話術の変わりになるわよ</value>
+  </data>
+  <data name="0006 (187.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>笑顔が話術の変わりに？</value>
+  </data>
+  <data name="0007 (187.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>男なら一撃、女性もみくるちゃん
+の笑顔なら好感度高いわよ</value>
+  </data>
+  <data name="0008 (187.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、話術なんていらないわ</value>
+  </data>
+  <data name="0009 (187.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええ……？</value>
+  </data>
+  <data name="0010 (187.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、でも古泉くんも話術プラス
+爽やかな笑顔のＷ攻撃だったわね</value>
+  </data>
+  <data name="0011 (187.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんが話術を身につけると
+怖いモノなしかもねー</value>
+  </data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,126 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (053.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>メイドが文化だってのは大げさじゃ
+ないのか？</value>
+  </data>
+  <data name="0001 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何ぼーっとしてんのよ。もっと
+きりきり歩きなさいっ</value>
+  </data>
+  <data name="0002 (053.ja) KYON (キョン)" xml:space="preserve">
+    <value>日本文化の考察をしていたんだ</value>
+  </data>
+  <data name="0003 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>メイドさんの妄想だったの</value>
+  </data>
+  <data name="0004 (053.ja) KYON (キョン)" xml:space="preserve">
+    <value>妄想なんてしてないぞ</value>
+  </data>
+  <data name="0005 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん</value>
+  </data>
+  <data name="0006 (053.ja) KYON (キョン)" xml:space="preserve">
+    <value>メイドが日本文化ってのが釈然と
+しないだけだ</value>
+  </data>
+  <data name="0007 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんだ、そんなことなの。メイドと
+いうか、正しくはメイド喫茶ね</value>
+  </data>
+  <data name="0008 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれは間違いなく日本の発祥よ
+だって萌えだもの</value>
+  </data>
+  <data name="0009 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>外国にメイド萌えなかったでしょ</value>
+  </data>
+  <data name="0010 (053.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんで過去形なんだ？</value>
+  </data>
+  <data name="0011 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今は海外にもメイド喫茶はあるわよ
+知らないの？</value>
+  </data>
+  <data name="0012 (053.ja) KYON (キョン)" xml:space="preserve">
+    <value>知るか！</value>
+  </data>
+  <data name="0013 (053.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、前に言ってましたけど</value>
+  </data>
+  <data name="0014 (053.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>今の日本は、そんなにメイドが
+有名なんでしょうか？</value>
+  </data>
+  <data name="0015 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう、ダメじゃないみくるちゃん
+何を聞いていたの？</value>
+  </data>
+  <data name="0016 (053.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ひゃふっ、す、すみませぇん</value>
+  </data>
+  <data name="0017 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有名もなにも、もはや世界の
+ジョウシキと言ってもいいわね！</value>
+  </data>
+  <data name="0018 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう、グローバルスタンダードなの
+よっ！</value>
+  </data>
+  <data name="0019 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、みくるちゃんは</value>
+  </data>
+  <data name="0020 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これからもドジっ娘メイドに
+みがきをかけなさい</value>
+  </data>
+  <data name="0021 (053.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ショ、ショウジンしますぅ</value>
+  </data>
+  <data name="0022 (053.ja) NAGATO (長門)" xml:space="preserve">
+    <value>メイドは文化
+先刻、そう言っていたと聞いた</value>
+  </data>
+  <data name="0023 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ……キョンとみくるちゃんに
+そんなことも言ったかもね</value>
+  </data>
+  <data name="0024 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、あれよ
+その場の勢いってやつよ</value>
+  </data>
+  <data name="0025 (053.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……勢い</value>
+  </data>
+  <data name="0026 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そ。だからあんまり気にしないで
+それとも有希、コスプレしたいの？</value>
+  </data>
+  <data name="0027 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>着たいんだったらいつでもいいなさ
+い。一着ぐらいは捻出してあげるわ</value>
+  </data>
+  <data name="0028 (053.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0029 (053.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>伺いましたよ。メイドが日本の文化
+か否かで、揉めたとか……</value>
+  </data>
+  <data name="0030 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>揉めたっていうより、キョンがよく
+わかってないのよ、萌えってやつを</value>
+  </data>
+  <data name="0031 (053.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>萌え……ですか</value>
+  </data>
+  <data name="0032 (053.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>メイドコスプレは日本の文化でしょ
+本物のメイドは西洋文化だけど</value>
+  </data>
+  <data name="0033 (053.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕はそういった方面には詳しくない
+ので判りかねますが……</value>
+  </data>
 </root>

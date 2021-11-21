@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,131 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (082.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんのお茶を飲むと、ホッと
+するよな</value>
+  </data>
+  <data name="0001 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>お茶にはリラックスする成分が
+入っているからね</value>
+  </data>
+  <data name="0002 (082.ja) KYON (キョン)" xml:space="preserve">
+    <value>成分のおかげだけじゃないと思うぞ</value>
+  </data>
+  <data name="0003 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんが淹れてくれるから
+一層おいしいってのはあるわね</value>
+  </data>
+  <data name="0004 (082.ja) KYON (キョン)" xml:space="preserve">
+    <value>同じように淹れても、朝比奈さんの
+お茶ほどおいしくないからなあ</value>
+  </data>
+  <data name="0005 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンの修行が足りないのよ
+お寺に行って修業してきなさいっ！</value>
+  </data>
+  <data name="0006 (082.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんでお寺なんだよ</value>
+  </data>
+  <data name="0007 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>茶の湯の道はお寺からでしょ</value>
+  </data>
+  <data name="0008 (082.ja) KYON (キョン)" xml:space="preserve">
+    <value>……そこまでするか？</value>
+  </data>
+  <data name="0009 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも今は昇降口が先よ
+ほら、さっさと歩く！</value>
+  </data>
+  <data name="0010 (082.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん。一息付くって大切な
+ことなんですね</value>
+  </data>
+  <data name="0011 (082.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>重大な局面で、一息付いて冷静に
+なるとか、落ち着くとか……</value>
+  </data>
+  <data name="0012 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。緊張すると視野狭窄に
+なったりするからね</value>
+  </data>
+  <data name="0013 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でもそれがどうしたの？</value>
+  </data>
+  <data name="0014 (082.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>チェスの時、キョンくんがお茶を
+飲みたいって言いましたよね</value>
+  </data>
+  <data name="0015 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それで抜け道を見つけられて、
+取り返すのに苦労したんだわ</value>
+  </data>
+  <data name="0016 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>結局あたしの勝ちだったけど</value>
+  </data>
+  <data name="0017 (082.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>お茶を飲んで一息つくと視野が開け
+る。それもお茶の効能ですよね</value>
+  </data>
+  <data name="0018 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん～、認めざるをえないわね
+みくるちゃんのお茶は美味しいし</value>
+  </data>
+  <data name="0019 (082.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>お茶くみがもっと好きになりそう
+です、あたし</value>
+  </data>
+  <data name="0020 (082.ja) NAGATO (長門)" xml:space="preserve">
+    <value>質問がある</value>
+  </data>
+  <data name="0021 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに？</value>
+  </data>
+  <data name="0022 (082.ja) NAGATO (長門)" xml:space="preserve">
+    <value>お茶を飲むことで、チェスが強くな
+るものなのかどうか</value>
+  </data>
+  <data name="0023 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういう効能は聞いたことがないわ</value>
+  </data>
+  <data name="0024 (082.ja) NAGATO (長門)" xml:space="preserve">
+    <value>わたしも読んだことがない</value>
+  </data>
+  <data name="0025 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でしょうね。でもまあ……</value>
+  </data>
+  <data name="0026 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>美味しいお茶を飲むと、やる気は
+アップするかもね</value>
+  </data>
+  <data name="0027 (082.ja) NAGATO (長門)" xml:space="preserve">
+    <value>納得した</value>
+  </data>
+  <data name="0028 (082.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>お茶を飲むという行為には色々な
+効能があるのかもしれませんね</value>
+  </data>
+  <data name="0029 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>健康にいいとか？</value>
+  </data>
+  <data name="0030 (082.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>カテキンを大量に含んでいるため
+抗菌作用などが期待できますが</value>
+  </data>
+  <data name="0031 (082.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それより、茶を喫するという静の
+状態がもたらす間も大切で、</value>
+  </data>
+  <data name="0032 (082.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>心理的にも働きかけるものがあると
+僕は思ったのですよ</value>
+  </data>
+  <data name="0033 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ワビサビの境地ね。あ、でも茶の湯
+の解説は後でいいわ</value>
+  </data>
+  <data name="0034 (082.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今は怪奇現象の方が先よ
+急ぎましょう</value>
+  </data>
 </root>

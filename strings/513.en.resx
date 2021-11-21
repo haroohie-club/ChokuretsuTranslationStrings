@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,610 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0001 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉とふたりで、問題の鏡の対処を
+することにしたんだが</value>
+  </data>
+  <data name="0002 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉、そっちはどうだ？</value>
+  </data>
+  <data name="0003 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>もうすぐ終わります</value>
+  </data>
+  <data name="0004 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺たちは２人掛かりで、鏡を外して
+回っていた</value>
+  </data>
+  <data name="0005 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>万が一の可能性を考えて男子トイレ
+の鏡まで外すという念の入れようだ</value>
+  </data>
+  <data name="0006 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>よし、終わりだ</value>
+  </data>
+  <data name="0007 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>外した鏡を清掃用具入れに隠せば
+一安心だ</value>
+  </data>
+  <data name="0008 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>２人掛かりでやると、思ったよりも
+早く済みそうだな</value>
+  </data>
+  <data name="0009 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>では、昇降口に向かいましょうか</value>
+  </data>
+  <data name="0011 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉、肝心のこいつをどうする？
+やっぱり他の場所に隠すか？</value>
+  </data>
+  <data name="0012 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですね。２人掛かりでしたら
+外せるかもしれません</value>
+  </data>
+  <data name="0013 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>だな。よし、早速やろう</value>
+  </data>
+  <data name="0014 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ドライバーで留め具を外して……と</value>
+  </data>
+  <data name="0015 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉はそっちを支えてくれ</value>
+  </data>
+  <data name="0016 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>了解しました
+では……運びますよ</value>
+  </data>
+  <data name="0017 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>よいしょ……</value>
+  </data>
+  <data name="0018 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>ん？　んんっ？</value>
+  </data>
+  <data name="0019 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おや？　おかしいですね</value>
+  </data>
+  <data name="0020 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なぜか鏡はびくともしなかった
+全く持ち上がる様子がない</value>
+  </data>
+  <data name="0021 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>まさか壁に接着してあるのか？
+それはないと思うが</value>
+  </data>
+  <data name="0023 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……妙ですね
+少々お待ち下さい</value>
+  </data>
+  <data name="0024 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そう言って、古泉は鏡を調べ始めた</value>
+  </data>
+  <data name="0025 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>なにかわかるのか？</value>
+  </data>
+  <data name="0026 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>まだ確証はないですが
+……失礼</value>
+  </data>
+  <data name="0027 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>わっ！？　危なっ……</value>
+  </data>
+  <data name="0028 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉がいきなりドライバーで
+鏡を思い切り殴りつけた</value>
+  </data>
+  <data name="0029 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、古泉！　そういう事をする前
+には俺に一言言えよ！</value>
+  </data>
+  <data name="0030 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>申し訳ありません。ですが、残念
+ながら僕の予想通りだったようです</value>
+  </data>
+  <data name="0031 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おそらくこの鏡は、動かすどころか
+割ることも出来ないのですよ</value>
+  </data>
+  <data name="0032 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>鏡を見て俺は驚いた</value>
+  </data>
+  <data name="0033 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだこりゃ？　ヒビひとつ入って
+いないじゃないか！</value>
+  </data>
+  <data name="0034 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉がドライバーで思いっきり
+殴ったっていうのに</value>
+  </data>
+  <data name="0035 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょっと代われ、俺が殴ってみる</value>
+  </data>
+  <data name="0036 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、どうぞ</value>
+  </data>
+  <data name="0037 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なにを#P05“刮目”#P01して見ているんだ</value>
+  </data>
+  <data name="0038 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やりにくくて仕方がない</value>
+  </data>
+  <data name="0040 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>ふんっ！</value>
+  </data>
+  <data name="0041 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0042 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>割れないどころか傷ひとつ入って
+いない</value>
+  </data>
+  <data name="0043 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉、もう一度殴ってみてくれ</value>
+  </data>
+  <data name="0044 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>はい、無駄だとは思いますが</value>
+  </data>
+  <data name="0045 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おっと……</value>
+  </data>
+  <data name="0046 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>危なっ……</value>
+  </data>
+  <data name="0047 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>弾んだドライバーが俺の目の前を
+かすめやがった</value>
+  </data>
+  <data name="0048 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>失礼しました、手が滑りました</value>
+  </data>
+  <data name="0049 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>気をつけろよな！</value>
+  </data>
+  <data name="0050 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とんだ#P05“とばっちり”#P01を喰らう
+ところだった</value>
+  </data>
+  <data name="0052 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>……やっぱり傷ひとつついて
+いないんだな</value>
+  </data>
+  <data name="0053 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>これはあくまで僕の推測ですが……</value>
+  </data>
+  <data name="0054 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>聞かせてくれ</value>
+  </data>
+  <data name="0055 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>鏡を含めた校舎全体が、物理的な
+干渉を受け付けなくなった可能性が</value>
+  </data>
+  <data name="0056 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>考えられます</value>
+  </data>
+  <data name="0057 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>それはまたずいぶんとやっかいな
+話だな</value>
+  </data>
+  <data name="0058 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>仮にそうだとして、どうすりゃいい
+んだ？</value>
+  </data>
+  <data name="0059 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>はい、そこで提案があります</value>
+  </data>
+  <data name="0060 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>無駄かもしれませんが、長門さんに
+相談してみるというのは？</value>
+  </data>
+  <data name="0061 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>こういった事象は、長門さんの守備
+範囲ですからね</value>
+  </data>
+  <data name="0062 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なるほど、長門に相談するのか
+でも、そんな時間は……</value>
+  </data>
+  <data name="0063 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>わかった。長門に相談しよう</value>
+  </data>
+  <data name="0064 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、では時間も無いことですし
+急いで彼女を探しましょう</value>
+  </data>
+  <data name="0067 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門は屋上で呪文を唱えていた</value>
+  </data>
+  <data name="0068 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門！　すまん、ちょっといいか？</value>
+  </data>
+  <data name="0069 (513.ja) NAGATO (長門)" xml:space="preserve">
+    <value>なに？</value>
+  </data>
+  <data name="0070 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>実はですね……</value>
+  </data>
+  <data name="0071 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉がかいつまんで長門に説明する
+と、長門は話を聞いて顔を上げた</value>
+  </data>
+  <data name="0072 (513.ja) NAGATO (長門)" xml:space="preserve">
+    <value>それは、校舎内が異空間化した影響</value>
+  </data>
+  <data name="0073 (513.ja) NAGATO (長門)" xml:space="preserve">
+    <value>通常の方法では、物理的に干渉する
+ことは不可能になっている</value>
+  </data>
+  <data name="0074 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どうやら古泉の推測通り
+の事が起きていたらしい</value>
+  </data>
+  <data name="0075 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>通常の方法では……って、
+だとしたら、どうすりゃいいんだ？</value>
+  </data>
+  <data name="0076 (513.ja) NAGATO (長門)" xml:space="preserve">
+    <value>それを使う</value>
+  </data>
+  <data name="0077 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門が、俺が持っていた特異点を
+消滅させるためのモップを指した</value>
+  </data>
+  <data name="0078 (513.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0079 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>モップに近付き、長門はなにやら
+早口で呪文を唱えている</value>
+  </data>
+  <data name="0080 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>すると、いきなりモップが光った</value>
+  </data>
+  <data name="0081 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>な、何をしたんだ？</value>
+  </data>
+  <data name="0082 (513.ja) NAGATO (長門)" xml:space="preserve">
+    <value>モップに#P05“新機能”#P00を付け加えた</value>
+  </data>
+  <data name="0083 (513.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これでこすった箇所を、一時的に
+通常の状態に戻すことが可能</value>
+  </data>
+  <data name="0084 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど。その間に破壊するなり
+なんなりしてしまえばいいのですね</value>
+  </data>
+  <data name="0085 (513.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0086 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さすが長門だ。この新機能があれば
+なんとかなるかもしれない</value>
+  </data>
+  <data name="0087 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門に礼を言って、俺たちは急いで
+昇降口に戻った</value>
+  </data>
+  <data name="0090 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>くそっ、これならなんとかなると
+思ったんだが……</value>
+  </data>
+  <data name="0091 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>まったく。これでは焼け石に水
+でしたね</value>
+  </data>
+  <data name="0092 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>モップの新機能のお陰で鏡を破壊
+することには成功したんだが</value>
+  </data>
+  <data name="0093 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しばらくすると、割れた鏡が
+自動的に修復されてしまった</value>
+  </data>
+  <data name="0094 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>時間がない、長門に相談してから
+対処していては後手になる</value>
+  </data>
+  <data name="0095 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>わかりました、もう少しここで
+#P05“踏ん張って”#P00みましょう</value>
+  </data>
+  <data name="0096 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>その間に他の安全策も練らないとな</value>
+  </data>
+  <data name="0097 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、そちらはお願いします</value>
+  </data>
+  <data name="0098 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>このままじゃ、らちがあかないな
+こうしている間にも時間が来ちまう</value>
+  </data>
+  <data name="0099 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そして、古泉なりに頑張っている
+みたいだが……</value>
+  </data>
+  <data name="0100 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>鏡は相変わらずどうにもならない
+ようだし</value>
+  </data>
+  <data name="0101 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>ここは時計を遅らせるか、ハルヒを
+完全に足止めするべきだな</value>
+  </data>
+  <data name="0102 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕も同感です</value>
+  </data>
+  <data name="0103 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>時計はともかく、ハルヒの足止め
+に関しては古泉が詳しそうだが</value>
+  </data>
+  <data name="0104 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>相談する方がいいか</value>
+  </data>
+  <data name="0105 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉、ハルヒの足止めだがなにか
+案はないか？</value>
+  </data>
+  <data name="0106 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>申し訳ありません、僕はこちらで
+手一杯で#P05“迷案”#P00しか浮かびません</value>
+  </data>
+  <data name="0107 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうか、悪かったな</value>
+  </data>
+  <data name="0108 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>名案なら良いが#P05“迷案”#P01はいらん</value>
+  </data>
+  <data name="0109 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やはり自分で考えるべきだな</value>
+  </data>
+  <data name="0110 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>しかし、どうやってハルヒを押さえ
+るかが難しいところだな</value>
+  </data>
+  <data name="0111 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕はこちらで手一杯ですが
+あなたならやれますよ</value>
+  </data>
+  <data name="0112 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉の#P05“後押し”#P01が役に立つかは
+わからんが、受け取っておこう</value>
+  </data>
+  <data name="0113 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>……よし、こうしよう</value>
+  </data>
+  <data name="0114 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒの足止めに失敗した時の事
+を考えて、まずは時計を遅らせよう</value>
+  </data>
+  <data name="0115 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど、時間を誤魔化す事を
+重視するのですね</value>
+  </data>
+  <data name="0116 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>それで、ハルヒの携帯の時計も
+遅らせなきゃいけないんだが</value>
+  </data>
+  <data name="0117 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺と古泉のどっちがやったほうが
+いいんだろう？</value>
+  </data>
+  <data name="0118 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>時計は俺が遅らせておこう</value>
+  </data>
+  <data name="0119 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、それは僕がやった方がいいと
+思いますね</value>
+  </data>
+  <data name="0120 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>なぜだ？</value>
+  </data>
+  <data name="0121 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>あなたには涼宮さんの足止めをして
+いただくのがベストだと思います</value>
+  </data>
+  <data name="0122 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>時計を遅らせてからでは
+二度手間になる恐れもあります</value>
+  </data>
+  <data name="0123 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>なるほど、二度手間は面倒だな</value>
+  </data>
+  <data name="0124 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>わかった、時計を遅らせるのは
+古泉に任せた</value>
+  </data>
+  <data name="0126 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>時計を遅らせるのは任せる
+俺はハルヒの足止めに向かう</value>
+  </data>
+  <data name="0127 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>それでいいな？</value>
+  </data>
+  <data name="0128 (513.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>時計の細工なら僕に任せて下さい
+きちんと時間を遅らせておきます</value>
+  </data>
+  <data name="0129 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>えらく#P05“自負”#P01しているな</value>
+  </data>
+  <data name="0130 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そういう作業は古泉の方が向いて
+いそうだ</value>
+  </data>
+  <data name="0131 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃあ頼む</value>
+  </data>
+  <data name="0133 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>古泉に時計を任せて、俺は
+部室に戻ることにした</value>
+  </data>
+  <data name="0134 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部室にある物を使って、あいつの
+気を逸らせればいいんだが</value>
+  </data>
+  <data name="0137 (513.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>す、涼宮さぁん、もう一杯だけ
+お茶のお代わりいかがですかぁ？</value>
+  </data>
+  <data name="0138 (513.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、お茶はもういいわ
+それよりも昇降口に行きましょう！</value>
+  </data>
+  <data name="0139 (513.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ああっ、まだ時間じゃないですよぅ</value>
+  </data>
+  <data name="0140 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>案の定、朝比奈さん１人では
+ハルヒを押さえきれなくなっていた</value>
+  </data>
+  <data name="0141 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒは今まさに部屋から飛び出し
+そうになっていたのだ</value>
+  </data>
+  <data name="0142 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、ハルヒ。まだ時間があるだろ
+そんなに焦るんじゃない</value>
+  </data>
+  <data name="0143 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>と言いつつ、さりげなく入り口を
+塞ぐのも忘れない</value>
+  </data>
+  <data name="0144 (513.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あっ、キョンくん！
+来てくださったんですね</value>
+  </data>
+  <data name="0145 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さん、目に涙を浮かべて……
+本当にお疲れ様です</value>
+  </data>
+  <data name="0146 (513.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だって、ただこうしてても退屈
+なんだもの！</value>
+  </data>
+  <data name="0147 (513.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だったら、早めに現場に行って
+ワクワクしながら待つ方がいいわ！</value>
+  </data>
+  <data name="0148 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おまえはそうかもしれないが、
+それじゃ俺達の心臓に悪いんだよ</value>
+  </data>
+  <data name="0149 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>いいや、それじゃ絶対退屈になるぜ
+もっと面白い時間潰しがあるだろ</value>
+  </data>
+  <data name="0150 (513.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふぅん、例えば？</value>
+  </data>
+  <data name="0151 (513.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そこまで言うのなら、キョンには
+いいアイデアがあるんでしょ</value>
+  </data>
+  <data name="0152 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>うっ……あ、ああ</value>
+  </data>
+  <data name="0153 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>な、なにか無いかっ！？
+えーと、えーと……</value>
+  </data>
+  <data name="0154 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部室を見渡すと、袋に入ったある
+ものが目に留まった</value>
+  </data>
+  <data name="0155 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>これなんかどうだ？</value>
+  </data>
+  <data name="0156 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>夜が明けたら意味が無いし、楽しむ
+なら今のうちだぞ</value>
+  </data>
+  <data name="0157 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>買っておいた花火を、ハルヒに
+見せる</value>
+  </data>
+  <data name="0158 (513.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>花火ねぇ……</value>
+  </data>
+  <data name="0159 (513.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あっ、いいですね。あたしも
+花火がやりたいです</value>
+  </data>
+  <data name="0160 (513.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>この、超スペシャル炸裂花火とか
+面白そうですよね？　ねっ？</value>
+  </data>
+  <data name="0161 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺の説得と、朝比奈さんのフォロー
+を受けて……</value>
+  </data>
+  <data name="0162 (513.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、花火も悪くないかもね
+いいわ、それやりましょ</value>
+  </data>
+  <data name="0163 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>あ、ああ。そうだな！
+早速やろうぜ</value>
+  </data>
+  <data name="0164 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>説得が聞いたのか、単に派手な花火
+に興味があるのかは知らないが</value>
+  </data>
+  <data name="0165 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒはしぶしぶ部室に
+残ることにしたようだ</value>
+  </data>
+  <data name="0166 (513.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>連発花火をみくるちゃんが握って
+ビームみたいに撃つといいわねっ</value>
+  </data>
+  <data name="0167 (513.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふえぇ？　ヤケドしてしまいます</value>
+  </data>
+  <data name="0168 (513.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大丈夫よ、ここを持てば熱くないっ
+て書いてあるじゃない</value>
+  </data>
+  <data name="0169 (513.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、本当に熱くないんですね？</value>
+  </data>
+  <data name="0170 (513.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大丈夫大丈夫、あたしも似たような
+花火を抱えて遊んだからっ！</value>
+  </data>
+  <data name="0171 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんなことをやっていたのかよ</value>
+  </data>
+  <data name="0174 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まあ、ハルヒが花火の話題で盛り
+上がっている間に携帯に細工だ</value>
+  </data>
+  <data name="0175 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0176 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>携帯の時間は遅れさせておいた
+あとは……</value>
+  </data>
+  <data name="0177 (513.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、さっそくこれで遊びに
+行くわよっ！</value>
+  </data>
+  <data name="0178 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>待て待て、どこでこいつをぶっ放す
+つもりなんだ？</value>
+  </data>
+  <data name="0179 (513.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どこでもいいわよ、何ならここの窓
+からでも</value>
+  </data>
+  <data name="0180 (513.ja) KYON (キョン)" xml:space="preserve">
+    <value>こ、こら、窓に足を掛けるな！</value>
+  </data>
+  <data name="0181 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……いずれにしろ、ハルヒは花火に
+夢中になっているのは幸いだ</value>
+  </data>
+  <data name="0182 (513.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>このまま時間が過ぎてくれれば
+さらなりと言ったところだな</value>
+  </data>
 </root>

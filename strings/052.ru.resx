@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,98 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (052.ja) KYON (キョン)" xml:space="preserve">
+    <value>最近は、ペットボトルにも色々な形
+があるんだな</value>
+  </data>
+  <data name="0001 (052.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ペットボトル？　なによいきなり？</value>
+  </data>
+  <data name="0002 (052.ja) KYON (キョン)" xml:space="preserve">
+    <value>さっき、買出しに行っただろう？</value>
+  </data>
+  <data name="0003 (052.ja) KYON (キョン)" xml:space="preserve">
+    <value>コンビニで飲み物の陳列棚を見たん
+だが、角ばってるのやら丸いのやら</value>
+  </data>
+  <data name="0004 (052.ja) KYON (キョン)" xml:space="preserve">
+    <value>一昔前に比べると、バリエーション
+が増えてきたな、と思ったのさ</value>
+  </data>
+  <data name="0005 (052.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ペットボトルでさえ進化してるんだ
+から、あんたも頑張りなさい</value>
+  </data>
+  <data name="0006 (052.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……まさかペットボトルと比較され
+る日がくるとは思わなかったな</value>
+  </data>
+  <data name="0007 (052.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ペットボトルのフタって、かたくて
+なかなか開けられませんよね？</value>
+  </data>
+  <data name="0008 (052.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……そうかしら？
+みくるちゃんだけじゃないの？</value>
+  </data>
+  <data name="0009 (052.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですかぁ？</value>
+  </data>
+  <data name="0010 (052.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんらしいといえば、らし
+いけど</value>
+  </data>
+  <data name="0011 (052.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>一人で生きていくためには、もっと
+たくましくならなきゃだめよ</value>
+  </data>
+  <data name="0012 (052.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>れ、練習してみますぅ……</value>
+  </data>
+  <data name="0013 (052.ja) NAGATO (長門)" xml:space="preserve">
+    <value>ペットボトルの有効活用について
+アイデアを募集していた</value>
+  </data>
+  <data name="0014 (052.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>夏休みの工作にでも使うの？　って
+小学生じゃないし、違うわよね</value>
+  </data>
+  <data name="0015 (052.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有効活用ね……なんか、ロケットに
+して飛ばしたりするらしいけど</value>
+  </data>
+  <data name="0016 (052.ja) NAGATO (長門)" xml:space="preserve">
+    <value>圧縮ガスによる噴射飛行</value>
+  </data>
+  <data name="0017 (052.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>詳しいことは、調べて見なきゃ
+わからないけど、そんな感じのよ</value>
+  </data>
+  <data name="0018 (052.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、面白そうだから、今度
+いっしょに、やってみましょう</value>
+  </data>
+  <data name="0019 (052.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう……</value>
+  </data>
+  <data name="0020 (052.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>近頃は、ペットボトルにも色々な
+形のバリエーションがありますね</value>
+  </data>
+  <data name="0021 (052.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>くびれた形のモノや、奇抜なデザイ
+ンのペットボトルを目にします</value>
+  </data>
+  <data name="0022 (052.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>別に、ペットボトルに限っての話
+じゃないと思うけど。缶もそうよ</value>
+  </data>
+  <data name="0023 (052.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>美味しく飲めるのなら、どんな形
+でも文句ないわ</value>
+  </data>
+  <data name="0024 (052.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですね。一番大切なのは、味
+ですからね</value>
+  </data>
 </root>

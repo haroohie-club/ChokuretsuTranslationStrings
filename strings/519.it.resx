@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,215 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>分身たちが消滅すると、異空間は
+まるで溶けるように消えていった</value>
+  </data>
+  <data name="0001 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みんな……どうしてこんなところ
+に集まってるのよ</value>
+  </data>
+  <data name="0002 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ……</value>
+  </data>
+  <data name="0003 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>相変わらず、ギリギリセーフ
+だったか</value>
+  </data>
+  <data name="0004 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、やっぱり鏡のことが気に
+なってだな</value>
+  </data>
+  <data name="0005 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺が誘ってみんなで見に来たんだ</value>
+  </data>
+  <data name="0006 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だったら、あたしも呼びなさい！</value>
+  </data>
+  <data name="0007 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、わざわざ連れ出すのも悪い
+と思ってだな</value>
+  </data>
+  <data name="0008 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>もちろん、何か起こったら真っ先に
+呼ぶつもりだったぞ</value>
+  </data>
+  <data name="0009 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何か起こってから呼びに来てたん
+じゃ間に合わないでしょうが！</value>
+  </data>
+  <data name="0010 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>う……</value>
+  </data>
+  <data name="0011 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>で、実際のとこ何か起こったの？</value>
+  </data>
+  <data name="0012 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>い、いや、何も</value>
+  </data>
+  <data name="0013 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒと共に昇降口までやってくる
+と、そこはすっかり元通りだった</value>
+  </data>
+  <data name="0014 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みんな……どうしてこんなところ
+に集まってるの？</value>
+  </data>
+  <data name="0015 (519.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>もう一度、鏡を調べていたんです
+少し気になったものですから</value>
+  </data>
+  <data name="0016 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ……それで、どうだった？</value>
+  </data>
+  <data name="0017 (519.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ダメですね。まったく何も起こり
+ません</value>
+  </data>
+  <data name="0019 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……はぁ。やっぱりね</value>
+  </data>
+  <data name="0020 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだか、分かってたみたいだな</value>
+  </data>
+  <data name="0021 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そりゃ、これだけことごとく外し
+てたらね</value>
+  </data>
+  <data name="0022 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>最初からアテにならないとは思って
+たけど……</value>
+  </data>
+  <data name="0023 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほんっと、コンピ研の連中はダメね</value>
+  </data>
+  <data name="0024 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>コンピ研の連中は真実を語っていた
+んだが……</value>
+  </data>
+  <data name="0025 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんだか、連中にすごく悪いことを
+した気分だ</value>
+  </data>
+  <data name="0026 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんかもう眠くなってきちゃったわ</value>
+  </data>
+  <data name="0027 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、部室に戻って寝る
+準備をしましょ</value>
+  </data>
+  <data name="0028 (519.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい……</value>
+  </data>
+  <data name="0031 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだか、やけにあっさり
+引き下がったな……</value>
+  </data>
+  <data name="0032 (519.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ……少し、気になりますね</value>
+  </data>
+  <data name="0033 (519.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0036 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝から振り回されっぱなしだったの
+で、疲労もピークに達し</value>
+  </data>
+  <data name="0037 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さすがに俺も眠くなってきた</value>
+  </data>
+  <data name="0038 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、そっちを引っ張って</value>
+  </data>
+  <data name="0039 (519.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……こう？</value>
+  </data>
+  <data name="0040 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒは長門と一緒に寝床の準備を
+しているが、いい気なもんだ</value>
+  </data>
+  <data name="0042 (519.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>マットはここでいいですか？</value>
+  </data>
+  <data name="0043 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>マットを敷いている朝比奈さんは
+見ているだけで心がいやされるね</value>
+  </data>
+  <data name="0045 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっとキョン、あんたなにやって
+るのよっ</value>
+  </data>
+  <data name="0046 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>なにって、俺の寝床は？</value>
+  </data>
+  <data name="0047 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたは廊下か他の教室で眠りなさ
+いっ！</value>
+  </data>
+  <data name="0048 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>廊下なんかに、特設ベッドがあるの
+か？</value>
+  </data>
+  <data name="0049 (519.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>部室は女子専用なんだから、男子は
+さっさと退室しろっ！</value>
+  </data>
+  <data name="0050 (519.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……だそうですよ</value>
+  </data>
+  <data name="0051 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>笑顔でいうな</value>
+  </data>
+  <data name="0054 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>で、これはどういうことだ、古泉？</value>
+  </data>
+  <data name="0055 (519.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>横になれるだけ、ありがたいと思う
+方が、きっと前向きになれますよ</value>
+  </data>
+  <data name="0056 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>しかしだなあ……</value>
+  </data>
+  <data name="0057 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>雑誌を広げた廊下に横になれるのが
+ありがたいという神経が理解できん</value>
+  </data>
+  <data name="0058 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>廊下に体温を奪われて凍死したり
+しないものか？</value>
+  </data>
+  <data name="0059 (519.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>雑誌を敷いていますから大丈夫です
+じかに横たわるよりは安全ですよ</value>
+  </data>
+  <data name="0060 (519.ja) KYON (キョン)" xml:space="preserve">
+    <value>安全、か……</value>
+  </data>
+  <data name="0061 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ドア一枚隔てた向こうはふかふか
+マットでお休みですか</value>
+  </data>
+  <data name="0062 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ああ、冷たいね。床も仕打ちも
+こりゃ泣けてくる</value>
+  </data>
+  <data name="0063 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>マッチでも擦って暖を取りたいね</value>
+  </data>
+  <data name="0064 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>よそう。惨めな気分に拍車がかかる
+疲れに任せて眠るしかないな</value>
+  </data>
+  <data name="0065 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そうして眠りにつこうとした俺だっ
+たが、重大なことを忘れていた</value>
+  </data>
+  <data name="0066 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒが求めていたものは
+新七不思議だったはずだ</value>
+  </data>
+  <data name="0067 (519.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ひとつ足りないことに気付かず、い
+つの間にか、俺は眠りに落ちていた</value>
+  </data>
 </root>

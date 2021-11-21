@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,125 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (060.ja) KYON (キョン)" xml:space="preserve">
+    <value>お前、オレンジジュース好きか？</value>
+  </data>
+  <data name="0001 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>嫌いじゃないわよ</value>
+  </data>
+  <data name="0002 (060.ja) KYON (キョン)" xml:space="preserve">
+    <value>そりゃあ、良かった
+さっき夜食と一緒に買ったんだよ</value>
+  </data>
+  <data name="0003 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あら、気が利くじゃないの</value>
+  </data>
+  <data name="0004 (060.ja) KYON (キョン)" xml:space="preserve">
+    <value>選んだのは朝比奈さんだけどな</value>
+  </data>
+  <data name="0005 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でしょうね。１００％のやつよね？</value>
+  </data>
+  <data name="0006 (060.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、朝比奈さんがそう言ってたぞ</value>
+  </data>
+  <data name="0007 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>良かった。ハンパだと甘過ぎたり
+すんのよね</value>
+  </data>
+  <data name="0008 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>甘い物が欲しい時は悪くないんだ
+けど</value>
+  </data>
+  <data name="0009 (060.ja) KYON (キョン)" xml:space="preserve">
+    <value>そんなに違いがあるのか？
+ラベルなんてろくに見ないからな</value>
+  </data>
+  <data name="0010 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>男ってそういうとこダメよねぇ
+みくるちゃんが選んだなら大丈夫ね</value>
+  </data>
+  <data name="0011 (060.ja) KYON (キョン)" xml:space="preserve">
+    <value>……そうだな</value>
+  </data>
+  <data name="0012 (060.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、涼宮さん、そろそろノドが
+乾いてませんか？</value>
+  </data>
+  <data name="0013 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、言われてみればそうね
+乾いたような気がするわ</value>
+  </data>
+  <data name="0014 (060.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>じゃあ、これをどうぞ
+オレンジジュースです</value>
+  </data>
+  <data name="0015 (060.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>果汁１００％だから、美味しい……</value>
+  </data>
+  <data name="0016 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ごきゅっ、ごきゅっ……ぷはーっ！</value>
+  </data>
+  <data name="0017 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うん、たしかに美味しかったわ
+ごちそうさま！</value>
+  </data>
+  <data name="0018 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃ、ノドもうるおったし、
+張り切って行くわよ！</value>
+  </data>
+  <data name="0019 (060.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>い、一瞬でジュースが……
+ああっ、そんなぁ</value>
+  </data>
+  <data name="0020 (060.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……これ</value>
+  </data>
+  <data name="0021 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ペットボトルのジュース？
+これくれるの？</value>
+  </data>
+  <data name="0022 (060.ja) NAGATO (長門)" xml:space="preserve">
+    <value>飲んで</value>
+  </data>
+  <data name="0023 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ありがと。ちょうど喉が渇いてた
+のよ</value>
+  </data>
+  <data name="0024 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ごく、ごく……</value>
+  </data>
+  <data name="0025 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……オレンジジュースは冷えてない
+とおいしさ半減ね……</value>
+  </data>
+  <data name="0026 (060.ja) NAGATO (長門)" xml:space="preserve">
+    <value>栄養素は変わらない</value>
+  </data>
+  <data name="0027 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはそうかもしれないけど……</value>
+  </data>
+  <data name="0028 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、できるだけおいしく飲みたい
+じゃない？</value>
+  </data>
+  <data name="0029 (060.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんは、オレンジジュースは
+お好きですか？</value>
+  </data>
+  <data name="0030 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>別に嫌いじゃないけど、どうして？</value>
+  </data>
+  <data name="0031 (060.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんの提案で、買ってきた
+そうです。夜食にあう飲み物として</value>
+  </data>
+  <data name="0032 (060.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>サンドイッチとオレンジジュースね
+いいんじゃないかしら</value>
+  </data>
+  <data name="0033 (060.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>欧米の朝食、といった雰囲気ですね
+もっとも我々にとっては夜食ですが</value>
+  </data>
 </root>

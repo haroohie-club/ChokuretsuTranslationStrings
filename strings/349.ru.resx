@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,230 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (349.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門１人分……か</value>
+  </data>
+  <data name="0001 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ。有希がどうしたって？</value>
+  </data>
+  <data name="0002 (349.ja) KYON (キョン)" xml:space="preserve">
+    <value>ゲッ、聞いてたのかよ</value>
+  </data>
+  <data name="0003 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>聞こえてるわよ。気になるから
+ほら、言いなさいよ</value>
+  </data>
+  <data name="0004 (349.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、特に深い意味はないんだが</value>
+  </data>
+  <data name="0005 (349.ja) KYON (キョン)" xml:space="preserve">
+    <value>もし長門が２人以上いたら
+読書量が凄いだろうなと思ってさ</value>
+  </data>
+  <data name="0006 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、有希１人だけであれだけの
+本を読むから</value>
+  </data>
+  <data name="0007 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それが２倍以上になったら、部室が
+本で溢れそうよね</value>
+  </data>
+  <data name="0008 (349.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうだな</value>
+  </data>
+  <data name="0009 (349.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、分身の話をしていて、長門
+さんが２人になったら</value>
+  </data>
+  <data name="0010 (349.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>どうなるんだろうなぁって</value>
+  </data>
+  <data name="0011 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は静かだから、増えても特に
+困らないんじゃない？</value>
+  </data>
+  <data name="0012 (349.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんは、部室の蔵書が倍に
+なるから大変だって……</value>
+  </data>
+  <data name="0013 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だったらもうひとつ部室を確保する
+までのことよっ！</value>
+  </data>
+  <data name="0014 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんの分身が出来たら
+衣装も倍に増やせばいいし</value>
+  </data>
+  <data name="0015 (349.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、それはちょっと……</value>
+  </data>
+  <data name="0016 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>違う衣装もいいけど、色違いで
+揃えても面白いわよね</value>
+  </data>
+  <data name="0017 (349.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あうぅ……長門さんの話なんです
+けど、どうしてあたしの話に……</value>
+  </data>
+  <data name="0018 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そしたら更衣室も用意しなくちゃ
+やっぱり部室はもうひとつ確保ね</value>
+  </data>
+  <data name="0019 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>仮定としての話。私の分身が発生
+すると問題が発生するかどうか</value>
+  </data>
+  <data name="0020 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>別に、特に困らないわよ
+むしろ嬉しいぐらいね</value>
+  </data>
+  <data name="0021 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>なぜ？</value>
+  </data>
+  <data name="0022 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>２人になったら情報が倍になるわ
+そしたらブレインが２人だもの</value>
+  </data>
+  <data name="0023 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>情報を集めるのも楽になるわね</value>
+  </data>
+  <data name="0024 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>並列化すれば処理速度も上がる</value>
+  </data>
+  <data name="0025 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それなら、なおのことありがたいわ
+なんにも考えないヤツが１人いるし</value>
+  </data>
+  <data name="0026 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>でも、蔵書が倍になるから困ると
+いわれた</value>
+  </data>
+  <data name="0027 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンが言ったんでしょ、気にする
+ことはないわよっ！</value>
+  </data>
+  <data name="0028 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは大歓迎だからねっ！
+誰が２人になっても歓迎よ</value>
+  </data>
+  <data name="0029 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>誰でも？</value>
+  </data>
+  <data name="0030 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もちろんよっ！</value>
+  </data>
+  <data name="0031 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんが２人になったら
+マスコットガールが２人よ！</value>
+  </data>
+  <data name="0032 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>可愛いし、お茶はおいしいし
+コスプレも２倍よ！</value>
+  </data>
+  <data name="0033 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0034 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんが２人になれば、ムード
+メーカーが増えて活気も出るわ</value>
+  </data>
+  <data name="0035 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、２人してずっとボードゲーム
+をやってるかもね</value>
+  </data>
+  <data name="0036 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしが２人になったら、活動の
+範囲も倍増するわよっ！</value>
+  </data>
+  <data name="0037 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>彼が２人になった場合は？</value>
+  </data>
+  <data name="0038 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンのこと？</value>
+  </data>
+  <data name="0039 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0040 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはちょっと難問ね</value>
+  </data>
+  <data name="0041 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>困る？</value>
+  </data>
+  <data name="0042 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>困るってことはないけど、キョンが
+２人になったら、色々と面倒よ</value>
+  </data>
+  <data name="0043 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>例えば？</value>
+  </data>
+  <data name="0044 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>遅刻者がいつも２人とか
+バカやるのが倍になるもの</value>
+  </data>
+  <data name="0045 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>遅刻者が増えることは利点になる</value>
+  </data>
+  <data name="0046 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>遅れてくるのになにが利点なの？</value>
+  </data>
+  <data name="0047 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>２倍奢ってもらえる</value>
+  </data>
+  <data name="0048 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、あんたって天才ねっ！</value>
+  </data>
+  <data name="0049 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0050 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはそれで大きな利点になるわ！
+気兼ねなくパフェとか頼めるわね</value>
+  </data>
+  <data name="0051 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>全員が２人になった場合は現状と
+変化はない</value>
+  </data>
+  <data name="0052 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンだけ増やせばいいのよっ！</value>
+  </data>
+  <data name="0053 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0054 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>鏡の怪奇現象は、キョンを実験台に
+するのがいいかも知れないわねっ！</value>
+  </data>
+  <data name="0055 (349.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0056 (349.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そういえば、彼から面白い
+事を聞きまして</value>
+  </data>
+  <data name="0057 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンが何かバカな事でも
+言ってたんでしょ</value>
+  </data>
+  <data name="0058 (349.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえいえ、実に興味深い話でしたよ</value>
+  </data>
+  <data name="0059 (349.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>もし長門さんが２人以上居たら……
+という話です</value>
+  </data>
+  <data name="0060 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンのバカな妄想話は後でいいわ</value>
+  </data>
+  <data name="0061 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それよりも、昇降口の方が気に
+なるんだもの。こっちが先よ</value>
+  </data>
+  <data name="0062 (349.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうでしたか、申し訳ありません</value>
+  </data>
+  <data name="0063 (349.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんが気にすることはないわよ
+キョンが悪いだけだから</value>
+  </data>
 </root>

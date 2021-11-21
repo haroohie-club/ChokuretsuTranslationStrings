@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,157 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (325.ja) KYON (キョン)" xml:space="preserve">
+    <value>買い物に行った時なんだが、長門が
+サブカル雑誌を買ってたんだ</value>
+  </data>
+  <data name="0001 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希は本や雑誌なら何でも読んでる
+みたいだから、不思議じゃないわよ</value>
+  </data>
+  <data name="0002 (325.ja) KYON (キョン)" xml:space="preserve">
+    <value>それはそうなんだが、文芸部って
+のはサブカル雑誌も読むものなのか</value>
+  </data>
+  <data name="0003 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ハイカルチャーばっかりってのは
+不公平だし面白くないわよ</value>
+  </data>
+  <data name="0004 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＯＳ団のメンバーとしては研究
+熱心でいいと思うわ</value>
+  </data>
+  <data name="0005 (325.ja) KYON (キョン)" xml:space="preserve">
+    <value>サブカル雑誌を読むことが研究ねえ</value>
+  </data>
+  <data name="0006 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>サブカル雑誌やタブロイド雑誌に
+こそ真実が隠れているのよ</value>
+  </data>
+  <data name="0007 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>理想論や大人の事情が絡んでくる
+ハイカルより信頼性が高いのよ</value>
+  </data>
+  <data name="0008 (325.ja) KYON (キョン)" xml:space="preserve">
+    <value>サブカル雑誌が怪しいと思うのは
+俺だけじゃあるまい</value>
+  </data>
+  <data name="0009 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンの洞察力が足りないからよっ</value>
+  </data>
+  <data name="0010 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>たくさんの本を読んで情報の取捨
+選択ってのを身につけなさい！</value>
+  </data>
+  <data name="0011 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だいたいねえ、キョンは研究しよう
+って心がけや努力が見えないのよ！</value>
+  </data>
+  <data name="0012 (325.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺が叱られるようなことかよ</value>
+  </data>
+  <data name="0013 (325.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんがコンビニで本のコーナー
+から動かなくなったんだそうですよ</value>
+  </data>
+  <data name="0014 (325.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それでキョンくん、仕方なくその本
+買ってあげたそうです</value>
+  </data>
+  <data name="0015 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希らしいエピソードねぇ</value>
+  </data>
+  <data name="0016 (325.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんって本当に読書好きです
+よね。感心してしまいます</value>
+  </data>
+  <data name="0017 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、興味のジャンルも幅広いし
+その時の本は何だったのかしらね</value>
+  </data>
+  <data name="0018 (325.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>良くわかりませんけど、サブカル
+チャーっていうジャンルみたいです</value>
+  </data>
+  <data name="0019 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>サブカル……そう。有希は今度は
+何に興味を持ったのかしら</value>
+  </data>
+  <data name="0020 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは後でじっくり詳しく話を聞く
+必要がありそうね</value>
+  </data>
+  <data name="0021 (325.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうなんですか……？</value>
+  </data>
+  <data name="0023 (325.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0024 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、歩きながら本なんか読んで
+たら危ないわよ</value>
+  </data>
+  <data name="0025 (325.ja) NAGATO (長門)" xml:space="preserve">
+    <value>大丈夫</value>
+  </data>
+  <data name="0026 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……っていうか、よくこんなに暗い
+のに読めるわね</value>
+  </data>
+  <data name="0027 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんの本？</value>
+  </data>
+  <data name="0028 (325.ja) NAGATO (長門)" xml:space="preserve">
+    <value>サブカルチャーと呼称されている
+一般的ではない知識分野の雑誌</value>
+  </data>
+  <data name="0029 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、有希ってそんなのも読むんだ
+で、面白い？</value>
+  </data>
+  <data name="0030 (325.ja) NAGATO (長門)" xml:space="preserve">
+    <value>興味深い</value>
+  </data>
+  <data name="0031 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう。なんでもいいけど、暗いんだ
+から気をつけてよね……</value>
+  </data>
+  <data name="0032 (325.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>買出しの際、長門さんがコンビニで
+雑誌の立ち読みをしていたとか</value>
+  </data>
+  <data name="0033 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希はホント、どこ行っても本を
+読もうとするのね</value>
+  </data>
+  <data name="0034 (325.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>手に取っていた雑誌は、いわゆる
+サブカル系の週刊誌だったそうです</value>
+  </data>
+  <data name="0035 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>サブカル系？</value>
+  </data>
+  <data name="0036 (325.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>抽象的に説明すると、娯楽を目的と
+した、マイナーで趣味的な文化です</value>
+  </data>
+  <data name="0037 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>よくわからないけど……マニアック
+ってこと？</value>
+  </data>
+  <data name="0038 (325.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうですね、感覚的には近いかも
+しれません</value>
+  </data>
+  <data name="0039 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん……ま、どうでもいいわ</value>
+  </data>
+  <data name="0040 (325.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>コスプレもサブカルチャーの一種
+だそうですよ</value>
+  </data>
+  <data name="0041 (325.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう言われると親近感が湧いてくる
+わね</value>
+  </data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,122 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (346.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、そんなに急ぐなよ</value>
+  </data>
+  <data name="0001 (346.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急ぐわよ。グズグズしてたら
+時間が来ちゃうでしょ！</value>
+  </data>
+  <data name="0002 (346.ja) KYON (キョン)" xml:space="preserve">
+    <value>それもそうなんだが……まずは
+対応策を練ろうじゃないか</value>
+  </data>
+  <data name="0003 (346.ja) KYON (キョン)" xml:space="preserve">
+    <value>行き当たりばったりで向かうより
+いいと思うんだが</value>
+  </data>
+  <data name="0004 (346.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、こういうのは勢いが
+大事なのよ！</value>
+  </data>
+  <data name="0005 (346.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>のんびりしてて、怪奇現象が起きる
+時間が過ぎたらどうするのよ！</value>
+  </data>
+  <data name="0006 (346.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、だからそう急ぐなって……</value>
+  </data>
+  <data name="0007 (346.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんは、ここぞという時に頼り
+になりますよね</value>
+  </data>
+  <data name="0008 (346.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、普段は無口だけどよく物事
+を観察してるから</value>
+  </data>
+  <data name="0009 (346.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>やっぱり本を読むことは大事なこと
+なんですね</value>
+  </data>
+  <data name="0010 (346.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>本を読むだけじゃダメよ、それじゃ
+知識が蓄積されるだけで終わるもの</value>
+  </data>
+  <data name="0011 (346.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも、知識は大切だと思いますけど
+……</value>
+  </data>
+  <data name="0012 (346.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>肝心なのは応用力よっ！</value>
+  </data>
+  <data name="0013 (346.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>知識があっても応用力がないと
+使えない貯金みたいなものねっ！</value>
+  </data>
+  <data name="0014 (346.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はあ……</value>
+  </data>
+  <data name="0015 (346.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>使ってこその貯金でしょ、
+みくるちゃんもそう思わない？</value>
+  </data>
+  <data name="0016 (346.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですねえ</value>
+  </data>
+  <data name="0017 (346.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>怪奇現象も発見されてなんぼなのよ
+さあ、早く行きましょ</value>
+  </data>
+  <data name="0018 (346.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの、待ってくださぁい</value>
+  </data>
+  <data name="0019 (346.ja) NAGATO (長門)" xml:space="preserve">
+    <value>怪奇現象が現実として起きた場合に
+どう対応する？</value>
+  </data>
+  <data name="0020 (346.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、まずは本当に怪奇現象なの
+かを確認する</value>
+  </data>
+  <data name="0021 (346.ja) NAGATO (長門)" xml:space="preserve">
+    <value>その確認方法は</value>
+  </data>
+  <data name="0022 (346.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、今回の場合まず手始めに、
+出てきた分身に事情聴取するわ！</value>
+  </data>
+  <data name="0023 (346.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0024 (346.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さん、提案があるのですが
+少しよろしいでしょうか？</value>
+  </data>
+  <data name="0025 (346.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何、古泉くん。どうしたの？</value>
+  </data>
+  <data name="0026 (346.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、現場に着く前に何か対応策を
+考えた方が良いかと思いまして</value>
+  </data>
+  <data name="0027 (346.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>鏡を見る角度や、距離などに
+よって効果が違うかもしれませんし</value>
+  </data>
+  <data name="0028 (346.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん、言われてみると
+そうかもしれないわね</value>
+  </data>
+  <data name="0029 (346.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>では、今、僕と打ち合わせを……</value>
+  </data>
+  <data name="0030 (346.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やっぱりいいわ。五人もいるんだか
+らなんとかなるわよ、きっと！</value>
+  </data>
+  <data name="0031 (346.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なんとか足止めしたかったのです
+が……なかなか上手く行きませんね</value>
+  </data>
 </root>

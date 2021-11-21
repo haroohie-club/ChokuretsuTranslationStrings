@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,115 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (279.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんって、霊感の強い方
+なんでしょうか？</value>
+  </data>
+  <data name="0001 (279.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんが、そんなことを言ってた
+って、キョンくんから聞きました</value>
+  </data>
+  <data name="0002 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>実際、どうなのかはわからないけど
+なんとなく、そんな感じがするのよ</value>
+  </data>
+  <data name="0003 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>他の人には無い、不思議な力とか
+ありそうじゃない？</value>
+  </data>
+  <data name="0004 (279.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ど、どうなんでしょう？　ごく普通
+の方だと思いますけど……</value>
+  </data>
+  <data name="0005 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは違うわ、みくるちゃん</value>
+  </data>
+  <data name="0006 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＯＳ団に入ったからには、必ず
+普通とは違ったモノを持ってるのよ</value>
+  </data>
+  <data name="0007 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ぜひ、そうであって欲しいわ！</value>
+  </data>
+  <data name="0008 (279.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え、ええと……</value>
+  </data>
+  <data name="0009 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、霊感に興味あるの？</value>
+  </data>
+  <data name="0010 (279.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>な、ないですっ！　興味ないです！</value>
+  </data>
+  <data name="0011 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ……みくるちゃん、肩のところに
+ぼんやり光る手首が……</value>
+  </data>
+  <data name="0012 (279.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0ふぇぇぇぇぇぇっ！？</value>
+  </data>
+  <data name="0013 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>やだ、冗談よ冗談！
+可愛いんだから、みくるちゃんは～</value>
+  </data>
+  <data name="0014 (279.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>お、おどかさないでくださいよぉ～</value>
+  </data>
+  <data name="0015 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これがもし有希だったら、きっと
+ノーリアクションね</value>
+  </data>
+  <data name="0016 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>知ってた？　霊とかオバケって
+怖がらない人には弱いんだって</value>
+  </data>
+  <data name="0017 (279.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうなんですかぁ？</value>
+  </data>
+  <data name="0018 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>度胸のある人や、根性のすわった人
+には、下手に出るらしいの</value>
+  </data>
+  <data name="0020 (279.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>みくるちゃんは、怖がってばかり
+だよね～</value>
+  </data>
+  <data name="0021 (279.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>うぅぅ、そうですかぁ……</value>
+  </data>
+  <data name="0022 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だからって、霊感とは関係のない話
+だけど、それだけでも頼りになるわ</value>
+  </data>
+  <data name="0023 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いざという時、腰が抜けてたんじゃ
+怪奇現象を楽しめないもの</value>
+  </data>
+  <data name="0024 (279.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>た、楽しまなくてもいいと思います</value>
+  </data>
+  <data name="0025 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうはいかないわ。ＳＯＳ団たる者
+怪奇現象くらい、平然としてなきゃ</value>
+  </data>
+  <data name="0026 (279.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そんなの、絶対ムリですぅ……</value>
+  </data>
+  <data name="0027 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今度、オバケ屋敷か何かで特訓
+しましょー</value>
+  </data>
+  <data name="0028 (279.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふえぇぇぇっ！？　と、特訓！？</value>
+  </data>
+  <data name="0029 (279.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うん、我ながら良いアイデアね！
+ヘタレのキョンも一緒に特訓よ！</value>
+  </data>
+  <data name="0030 (279.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そんなぁぁ！？</value>
+  </data>
+  <data name="0031 (279.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#P06時間は少し稼げたけど……なんだか
+複雑な気持ちです、キョンくん</value>
+  </data>
 </root>

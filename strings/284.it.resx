@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,163 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (284.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、ハルヒ！
+あんまり急がなくてもいいだろ</value>
+  </data>
+  <data name="0001 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何言ってんのよ
+キョンこそのんびりしすぎよ</value>
+  </data>
+  <data name="0002 (284.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>くそ、ハルヒの足取りは速くて
+すぐに音楽室に辿りつきそうだ</value>
+  </data>
+  <data name="0003 (284.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だが、長門にはできるだけ協力して
+くれと頼んだものの……</value>
+  </data>
+  <data name="0004 (284.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>基本的には“観察”が任務なので
+妨害工作をしてはくれないだろう</value>
+  </data>
+  <data name="0005 (284.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>例えば時空をねじまげて、いつまで
+も廊下が進まない、とか……</value>
+  </data>
+  <data name="0006 (284.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんなことをしたら、逆にハルヒが
+怪奇現象だと大騒ぎしそうだな</value>
+  </data>
+  <data name="0007 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン！</value>
+  </data>
+  <data name="0008 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>足が遅い、もたもたしない！
+さっさとしなさい、走りなさい！</value>
+  </data>
+  <data name="0009 (284.ja) KYON (キョン)" xml:space="preserve">
+    <value>廊下を走るなと言われただろう
+お前は小学生か！</value>
+  </data>
+  <data name="0010 (284.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんが長門さんに協力を頼ん
+だとき</value>
+  </data>
+  <data name="0011 (284.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんはとりあえず承諾した……</value>
+  </data>
+  <data name="0012 (284.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんは観察することが任務の
+はずなのに</value>
+  </data>
+  <data name="0013 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん？</value>
+  </data>
+  <data name="0014 (284.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0は、はひゅわいっ！？</value>
+  </data>
+  <data name="0015 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの、立ち止まっちゃって
+さっさと行きましょう！</value>
+  </data>
+  <data name="0016 (284.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい！　今行きますっ</value>
+  </data>
+  <data name="0017 (284.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……あ
+待って</value>
+  </data>
+  <data name="0018 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、有希、どうかしたの？</value>
+  </data>
+  <data name="0019 (284.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……靴が、脱げた</value>
+  </data>
+  <data name="0020 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>靴？　どこに？</value>
+  </data>
+  <data name="0021 (284.ja) NAGATO (長門)" xml:space="preserve">
+    <value>あそこ</value>
+  </data>
+  <data name="0022 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……なんであんな遠くで脱げてるの
+よ？　すぐに気がつかないわけ？</value>
+  </data>
+  <data name="0023 (284.ja) NAGATO (長門)" xml:space="preserve">
+    <value>取ってくる</value>
+  </data>
+  <data name="0024 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>早くね！</value>
+  </data>
+  <data name="0025 (284.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0026 (284.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0027 (284.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0028 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希！
+早くね！</value>
+  </data>
+  <data name="0029 (284.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……諒解</value>
+  </data>
+  <data name="0030 (284.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0031 (284.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0032 (284.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0033 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>変わらないじゃない！　ああもう
+じれったいわね！</value>
+  </data>
+  <data name="0034 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はい有希、上履き！</value>
+  </data>
+  <data name="0035 (284.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……ありがと</value>
+  </data>
+  <data name="0036 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>履いたら急ぐわよ、ああもう、手間
+取っちゃった！</value>
+  </data>
+  <data name="0037 (284.ja) NAGATO (長門)" xml:space="preserve">
+    <value>#P06……行動への干渉は、許容の範囲内</value>
+  </data>
+  <data name="0038 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんの話？</value>
+  </data>
+  <data name="0039 (284.ja) NAGATO (長門)" xml:space="preserve">
+    <value>別に</value>
+  </data>
+  <data name="0040 (284.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんは、意外とＳＯＳ団の活動
+を楽しんでいるようにも見えますね</value>
+  </data>
+  <data name="0041 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そりゃそうよ、ＳＯＳ団なんだから</value>
+  </data>
+  <data name="0042 (284.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なにごとも無関心なように見えて
+いろいろと手伝ってくれる理由は</value>
+  </data>
+  <data name="0043 (284.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼女がＳＯＳ団や、ひいては涼宮さ
+んを、そう、気に入っているから</value>
+  </data>
+  <data name="0044 (284.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なのでしょうね</value>
+  </data>
+  <data name="0045 (284.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうなのかしら？
+でも、有希が楽しんでるのは同感ね</value>
+  </data>
 </root>

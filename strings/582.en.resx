@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,170 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04解決パートのチュートリアルを
+開始します</value>
+  </data>
+  <data name="0001 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04解決パートでは、異空間に侵入した
+ＳＯＳ団員を操作して</value>
+  </data>
+  <data name="0002 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04涼宮ハルヒが異空間に到達して
+しまう前に</value>
+  </data>
+  <data name="0003 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04これを自然消滅させる事が目的です</value>
+  </data>
+  <data name="0004 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04異空間を自然消滅させるためには
+マップ内に隠された“特異点”を</value>
+  </data>
+  <data name="0005 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04発見、実体化させてから消去しな
+ければなりません</value>
+  </data>
+  <data name="0006 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04画面左下に表示された“残り”数
+が全ての“特異点”の数です</value>
+  </data>
+  <data name="0007 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04このうち最低限“ノルマ”分の数
+“特異点”を消去する事が出来れば</value>
+  </data>
+  <data name="0008 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04ステージをクリアする事が可能です</value>
+  </data>
+  <data name="0009 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04解決パートステージのクリアには
+全ての“特異点”を消去するか</value>
+  </data>
+  <data name="0010 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04“タイムオーバー”時に“ノルマ”
+を達成していることが必要です</value>
+  </data>
+  <data name="0011 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04上画面に表示された“制限時間”が
+なくなってしまう前に</value>
+  </data>
+  <data name="0012 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04“ノルマ”分の特異点を発見して
+消去できなかった場合</value>
+  </data>
+  <data name="0013 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04“ゲームオーバー”となってしまい
+ます</value>
+  </data>
+  <data name="0014 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04異空間で操作可能な団員は
+以下の行動を行うことが出来ます</value>
+  </data>
+  <data name="0015 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04１　“移動”</value>
+  </data>
+  <data name="0016 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04目的地をタッチすると、その場所へ
+“移動”します</value>
+  </data>
+  <data name="0017 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04２　“範囲調査”</value>
+  </data>
+  <data name="0018 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>画面左上の“調査アイコン”が
+ＯＦＦの状態で団員の足元をタッチ</value>
+  </data>
+  <data name="0019 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>すると、そのマスを含む周囲１マス
+（合計９マス）をまとめて</value>
+  </data>
+  <data name="0020 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“範囲調査”出来ます</value>
+  </data>
+  <data name="0021 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“範囲調査”によって隠されている
+特異点の場所を探る事が出来ます</value>
+  </data>
+  <data name="0022 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>ただし、範囲調査では“特異点を
+実体化”させる事が出来ません</value>
+  </data>
+  <data name="0023 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>足元のマーカーから特異点の隠され
+た場所を推測したら</value>
+  </data>
+  <data name="0024 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“ポイント調査”を行って
+“特異点を実体化”させてください</value>
+  </data>
+  <data name="0025 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>#P04３　“ポイント調査”</value>
+  </data>
+  <data name="0026 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>画面左上の“調査アイコン”を
+タッチすると、団員の頭上に</value>
+  </data>
+  <data name="0027 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>アイコンが表示され“ポイント調査
+モード”であることを示します</value>
+  </data>
+  <data name="0028 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>この状態で特定のマスをタッチする
+と団員がそのマスに隣接して</value>
+  </data>
+  <data name="0029 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“ポイント調査”を行います</value>
+  </data>
+  <data name="0030 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>ポイント調査したマスに特異点が
+隠されていた場合、これを強制的に</value>
+  </data>
+  <data name="0031 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>実体化させます</value>
+  </data>
+  <data name="0032 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“ポイント調査”では指定した１マ
+スしか調査できませんが“特異点”</value>
+  </data>
+  <data name="0033 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>を実体化させるための基本的な行動
+になります</value>
+  </data>
+  <data name="0034 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>ただし“範囲調査”を行う場合には
+“調査アイコン”をＯＦＦにする</value>
+  </data>
+  <data name="0035 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>必要がありますので混同しないよう
+に注意してください</value>
+  </data>
+  <data name="0036 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>調査によって足元に表示される
+マークは“特異点の存在確率”を</value>
+  </data>
+  <data name="0037 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>表しており“！”の表示されたマス
+はそのマスを含む周囲１マス以内に</value>
+  </data>
+  <data name="0038 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>特異点が存在する事を示しています</value>
+  </data>
+  <data name="0039 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>“！”の数が増えるほどそのマスの
+周囲に特異点が密集している事を</value>
+  </data>
+  <data name="0040 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>示しています</value>
+  </data>
+  <data name="0041 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>実体化した特異点は、タッチペンで
+擦ることで消去する事が出来ます</value>
+  </data>
+  <data name="0042 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>見た目よりも気持ち広めに擦ると
+効率よく消去する事が可能です</value>
+  </data>
+  <data name="0043 (582.ja) INFO (インフォ)" xml:space="preserve">
+    <value>それでは制限時間に気をつけて
+特異点を発見＆消去してください</value>
+  </data>
 </root>

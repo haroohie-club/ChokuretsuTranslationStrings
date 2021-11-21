@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,115 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (016.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんが手伝いをしてくれた
+んだがな</value>
+  </data>
+  <data name="0001 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何を手伝ってもらったのよ？</value>
+  </data>
+  <data name="0002 (016.ja) KYON (キョン)" xml:space="preserve">
+    <value>何ってそりゃ、音楽室の見張りだ</value>
+  </data>
+  <data name="0003 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんとふたりで見張りを
+していたんだ。ふううん楽しそうね</value>
+  </data>
+  <data name="0004 (016.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これはマズイ話題だったかもしれん</value>
+  </data>
+  <data name="0005 (016.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、ふたりじゃない、長門もだ
+それに何も起きなくて退屈だった</value>
+  </data>
+  <data name="0006 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それは残念だったわね</value>
+  </data>
+  <data name="0007 (016.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>口調にサボテン並みのトゲがあるな</value>
+  </data>
+  <data name="0008 (016.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたし、役に立ってるんで
+しょうか？</value>
+  </data>
+  <data name="0009 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは十分役に立ってるわ
+方向性は多少限られるけど</value>
+  </data>
+  <data name="0010 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そっち方面では抜群の威力が
+あるもの</value>
+  </data>
+  <data name="0011 (016.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、どっち方面のお話でしょう？</value>
+  </data>
+  <data name="0012 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>自覚がないところが最強ね</value>
+  </data>
+  <data name="0013 (016.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……ええと、よくわかりませんけど
+自信を持っていいんでしょうか？</value>
+  </data>
+  <data name="0014 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ、あたしが保証するわ</value>
+  </data>
+  <data name="0015 (016.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい、がんばってお手伝いします</value>
+  </data>
+  <data name="0016 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>で、何の手伝いなの？</value>
+  </data>
+  <data name="0017 (016.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はうぅ……い、色々です</value>
+  </data>
+  <data name="0018 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、頑張ってちょうだい</value>
+  </data>
+  <data name="0019 (016.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるが手伝いすると
+言っていた</value>
+  </data>
+  <data name="0020 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンにお手伝いって、具体的に
+は何をするのかしら？</value>
+  </data>
+  <data name="0021 (016.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……手助け？</value>
+  </data>
+  <data name="0022 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、言ってることがわからない
+んだけど？</value>
+  </data>
+  <data name="0023 (016.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……どうやら話題の選択を
+誤ったらしい</value>
+  </data>
+  <data name="0024 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうみたいね</value>
+  </data>
+  <data name="0025 (016.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんに手伝っていただく
+ことはありますか？</value>
+  </data>
+  <data name="0026 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんなら、お役立ちよね</value>
+  </data>
+  <data name="0027 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>可愛くて好感度が高いから、交渉
+には最適じゃないかしら</value>
+  </data>
+  <data name="0028 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>むろん、古泉くんも交渉向きだけど
+男性陣を籠絡するなら、彼女でしょ</value>
+  </data>
+  <data name="0029 (016.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、彼女は得難い人材ですよね</value>
+  </data>
+  <data name="0030 (016.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったくね。ＳＯＳ団に勧誘した
+あたしの眼力は素晴らしいわ！</value>
+  </data>
+  <data name="0031 (016.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>まったくその通りです</value>
+  </data>
 </root>

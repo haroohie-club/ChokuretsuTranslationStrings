@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,72 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (193.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんって、謝罪するのが上手
+ですよね。いつも丁寧で感心します</value>
+  </data>
+  <data name="0001 (193.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。ちゃんと謝ってるクセに
+不利益は被らないようにするのがね</value>
+  </data>
+  <data name="0002 (193.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっ？</value>
+  </data>
+  <data name="0003 (193.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは気づいてなかった？</value>
+  </data>
+  <data name="0004 (193.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>丁寧に謝る人だなって感心してまし
+たけど……不利益って？</value>
+  </data>
+  <data name="0005 (193.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、謝ると立場が強くなったと
+居丈高になったりするじゃないの</value>
+  </data>
+  <data name="0006 (193.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……なりますか？</value>
+  </data>
+  <data name="0007 (193.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アメリカじゃ謝ったら負けなのよ
+訴訟で全敗しちゃうのよ？</value>
+  </data>
+  <data name="0008 (193.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え、えーと？　ここ日本ですけど</value>
+  </data>
+  <data name="0009 (193.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから謝られたら勝ったと思うヤツ
+もなかにはいるわけよ</value>
+  </data>
+  <data name="0010 (193.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はあ……？</value>
+  </data>
+  <data name="0011 (193.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは謝っても、相手に図に
+乗らせたりしないのが上手いのよ</value>
+  </data>
+  <data name="0012 (193.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さすが、あたしが副団長を張らせて
+いるだけあるわよ</value>
+  </data>
+  <data name="0013 (193.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キチッと相手を抑止しているわけね</value>
+  </data>
+  <data name="0014 (193.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いらない要求を突きつけられない
+ように</value>
+  </data>
+  <data name="0015 (193.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……気づきませんでした</value>
+  </data>
+  <data name="0016 (193.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>確かにああいうのを、謝罪が上手い
+と言うんだと思うわ</value>
+  </data>
+  <data name="0017 (193.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんの言う通りねっ</value>
+  </data>
+  <data name="0018 (193.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……そ、そんな意味で言ったんじゃ
+ないんですけどぉ……</value>
+  </data>
 </root>

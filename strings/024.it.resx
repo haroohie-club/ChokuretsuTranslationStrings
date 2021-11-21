@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,162 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (024.ja) KYON (キョン)" xml:space="preserve">
+    <value>さっき妹が迷子になっただろう</value>
+  </data>
+  <data name="0001 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>無事に見つかって良かったわよ</value>
+  </data>
+  <data name="0002 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>妹ちゃんは探検が中断されて
+つまらなさそうだったけど</value>
+  </data>
+  <data name="0003 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>本格的に迷子になってしまったら
+大変よね。この学校ムダに広いし</value>
+  </data>
+  <data name="0004 (024.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まったくだ</value>
+  </data>
+  <data name="0005 (024.ja) KYON (キョン)" xml:space="preserve">
+    <value>あの後、古泉と朝比奈さんを捜しに
+行ったじゃないか</value>
+  </data>
+  <data name="0006 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ</value>
+  </data>
+  <data name="0007 (024.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんが、ひとりで妹を捜して
+いて、人気のない学校に怯えてたぞ</value>
+  </data>
+  <data name="0008 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。人がいないと普段と違って
+見えるし、彼女恐がりだしね</value>
+  </data>
+  <data name="0009 (024.ja) KYON (キョン)" xml:space="preserve">
+    <value>だから、ここいらで怪談捜しは
+止めて喫茶店にでも行かないか？</value>
+  </data>
+  <data name="0010 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンのおごりで？</value>
+  </data>
+  <data name="0011 (024.ja) KYON (キョン)" xml:space="preserve">
+    <value>いたしかたないな</value>
+  </data>
+  <data name="0012 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ、新七不思議を見つけたら
+打ち上げはキョンのおごりね！</value>
+  </data>
+  <data name="0013 (024.ja) KYON (キョン)" xml:space="preserve">
+    <value>こら、待てよ</value>
+  </data>
+  <data name="0014 (024.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>新七不思議は諦めないのかよ</value>
+  </data>
+  <data name="0015 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>決定事項だからね！</value>
+  </data>
+  <data name="0016 (024.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんはあたしと古泉くんを
+捜しに出てくれたんですよね？</value>
+  </data>
+  <data name="0017 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　それは妹ちゃんが迷子に
+なった時のこと？</value>
+  </data>
+  <data name="0018 (024.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうです。バタバタしていて、
+お礼を言ってなかったので</value>
+  </data>
+  <data name="0019 (024.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ありがとうございました</value>
+  </data>
+  <data name="0020 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>お礼なんて別に言わなくていいわよ</value>
+  </data>
+  <data name="0021 (024.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも、心配してくれたんですよね</value>
+  </data>
+  <data name="0022 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>心配って言うか……まあ、待つのは
+嫌いだからあたし、それだけよ</value>
+  </data>
+  <data name="0023 (024.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>気を使ってくれてるんですか？</value>
+  </data>
+  <data name="0024 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあね、少しくらいはね</value>
+  </data>
+  <data name="0025 (024.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふふっ、涼宮さんて優しいです</value>
+  </data>
+  <data name="0026 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あのね、みくるちゃん
+団長なんだから、当然のことよ</value>
+  </data>
+  <data name="0027 (024.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるが迷子になった</value>
+  </data>
+  <data name="0028 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんが？　どこで？</value>
+  </data>
+  <data name="0029 (024.ja) NAGATO (長門)" xml:space="preserve">
+    <value>校内</value>
+  </data>
+  <data name="0030 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あー多分、それ違うわ。迷子に
+なったのは妹ちゃんよ</value>
+  </data>
+  <data name="0031 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんはそれ捜しに行って
+くれただけよ</value>
+  </data>
+  <data name="0032 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、結局キョンが、戻ってこない
+みくるちゃんと古泉くんを</value>
+  </data>
+  <data name="0033 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>捜しに行ったんだけどね</value>
+  </data>
+  <data name="0034 (024.ja) NAGATO (長門)" xml:space="preserve">
+    <value>それは迷子とは言わない？</value>
+  </data>
+  <data name="0035 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうかしら、難しいところだけど
+迷子ではないでしょうね</value>
+  </data>
+  <data name="0036 (024.ja) NAGATO (長門)" xml:space="preserve">
+    <value>了解した。認識を修正する</value>
+  </data>
+  <data name="0037 (024.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そう言えば、図書室に行く途中で
+妹さんが迷子になった時ですが</value>
+  </data>
+  <data name="0038 (024.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕と朝比奈さんを、涼宮さんも
+捜しに出てくださったんですよね</value>
+  </data>
+  <data name="0039 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ、待ってるのって性に合わ
+ないのよね、あたし</value>
+  </data>
+  <data name="0040 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンには、なぜじっとしていら
+れないって怒鳴られたけど</value>
+  </data>
+  <data name="0041 (024.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>まあ、その場から動かないのが
+はぐれた時の合流の秘訣ですから</value>
+  </data>
+  <data name="0042 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、そうよね</value>
+  </data>
+  <data name="0043 (024.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>迎えに出てきてくれたんですよね
+ありがとうございます</value>
+  </data>
+  <data name="0044 (024.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>団長なんだから、なにかあったら
+当然よね</value>
+  </data>
 </root>

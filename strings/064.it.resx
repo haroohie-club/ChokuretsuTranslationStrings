@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,114 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (064.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんと古泉に訳のわからん
+ことを言われちまった</value>
+  </data>
+  <data name="0001 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンが頭悪いだけなんじゃない？
+で、何て言われたのよ？</value>
+  </data>
+  <data name="0002 (064.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえがな、俺に文句を付けるのは
+いいんだそうだ</value>
+  </data>
+  <data name="0003 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしが文句？</value>
+  </data>
+  <data name="0004 (064.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それをしている間は問題ないって
+説明は『禁則事項』って意味不明だ</value>
+  </data>
+  <data name="0005 (064.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺はハルヒのストレス解消用
+サンドバッグかなんかの扱いか？</value>
+  </data>
+  <data name="0006 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>勘違いしないで。あたしはあんたに
+文句なんかひとつも付けてないわ</value>
+  </data>
+  <data name="0007 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>正当な教育的指導よっ！</value>
+  </data>
+  <data name="0008 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>団長として、団員への注意よ！
+文句なんかじゃないわ</value>
+  </data>
+  <data name="0009 (064.ja) KYON (キョン)" xml:space="preserve">
+    <value>へーへー</value>
+  </data>
+  <data name="0010 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたが、一度の勧告でちゃんと
+やれば、いいだけのことよ</value>
+  </data>
+  <data name="0011 (064.ja) KYON (キョン)" xml:space="preserve">
+    <value>へいへい</value>
+  </data>
+  <data name="0012 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だからちゃんと聞きなさいよ
+場合によっては体罰よ！</value>
+  </data>
+  <data name="0013 (064.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、涼宮さん。あの……</value>
+  </data>
+  <data name="0014 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうかしたの、みくるちゃん</value>
+  </data>
+  <data name="0015 (064.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、はい。ちょっとお話が……</value>
+  </data>
+  <data name="0016 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なぁに？　今忙しいんだから
+用件は手短にね</value>
+  </data>
+  <data name="0017 (064.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あのあの……や、やっぱり
+この話はなかったことにっ</value>
+  </data>
+  <data name="0018 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう、そうならそうで、止らない
+でさっさと歩くわよ！</value>
+  </data>
+  <data name="0019 (064.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるには、人に話せない
+内容がいくつか存在する</value>
+  </data>
+  <data name="0020 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうなの？　でも、そんなの誰だっ
+て同じじゃないの？</value>
+  </data>
+  <data name="0021 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希だって、あたしに言えないよう
+な秘密のひとつくらいあるでしょ？</value>
+  </data>
+  <data name="0022 (064.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……ある</value>
+  </data>
+  <data name="0023 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほらね、全部あけっぴろげの人なん
+ていないのよ</value>
+  </data>
+  <data name="0024 (064.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0025 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くん？　大丈夫？　ボーっと
+しちゃってるけど</value>
+  </data>
+  <data name="0026 (064.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、なんでもありません。少し
+考え事をしていたもので</value>
+  </data>
+  <data name="0027 (064.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう？　ぼんやりしてると足元暗い
+んだから、転んじゃうわよ？</value>
+  </data>
+  <data name="0028 (064.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>気をつけます</value>
+  </data>
+  <data name="0029 (064.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>#P06……さすがに、朝比奈さんの素性に
+関わる内容は、断片でも危険ですね</value>
+  </data>
 </root>

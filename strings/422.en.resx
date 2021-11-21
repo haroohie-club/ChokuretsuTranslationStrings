@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,122 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (422.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$8涼宮さんを#W50この危険な場所から
+遠ざける#W20―#W10―</value>
+  </data>
+  <data name="0001 (422.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$8それが、#W50$7今もっとも優先すべき
+ことでしょう</value>
+  </data>
+  <data name="0002 (422.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10何か食って腹一杯になれば、#W30$8ハルヒ
+も多少は満足するんじゃないか#W20…#W10…</value>
+  </data>
+  <data name="0003 (422.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$9そんな安直な考えが、#W30$7なかった
+わけじゃない</value>
+  </data>
+  <data name="0005 (422.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10バーベキュー？#W30
+へえ、#W30$8キョンにしてはいい考えね</value>
+  </data>
+  <data name="0006 (422.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10などと、#W30$8意外にもあっさりハルヒは
+食いついてきた</value>
+  </data>
+  <data name="0007 (422.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$7バーベキューをするのであれば#W30
+道具が必要ですね</value>
+  </data>
+  <data name="0008 (422.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$10もちろん、#W40場所の確保もですが</value>
+  </data>
+  <data name="0009 (422.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9そんなの、#W20$8どっかのクラブか
+同好会から借りてくればいいのよ</value>
+  </data>
+  <data name="0010 (422.ja) KYON (キョン)" xml:space="preserve">
+    <value>$9ハルヒ、#W30$8それは借りるんじゃなくて#W10
+勝手に持ち出す、と言うんだ</value>
+  </data>
+  <data name="0013 (422.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>$12お、#W20おサイフを学校に忘れて
+来ちゃいましたぁ</value>
+  </data>
+  <data name="0014 (422.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10あ、#W40朝比奈さん#W20…#W10…</value>
+  </data>
+  <data name="0016 (422.ja) NAGATO (長門)" xml:space="preserve">
+    <value>$10これ……</value>
+  </data>
+  <data name="0017 (422.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10長門、#W30$7それはバーベキューには
+向かないと思うぞ？</value>
+  </data>
+  <data name="0018 (422.ja) NAGATO (長門)" xml:space="preserve">
+    <value>$10でも、#W20栄養価は高い</value>
+  </data>
+  <data name="0019 (422.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10……わかった。#W20$8おまえがいいなら
+俺は何も言わん</value>
+  </data>
+  <data name="0021 (422.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>$8ホントいいのかい、#W20あたしらまで
+ご相伴にあずかっちゃって</value>
+  </data>
+  <data name="0022 (422.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>$15うおお！　#W20$9朝比奈さんの手料理か！</value>
+  </data>
+  <data name="0023 (422.ja) 9 (国木田)" xml:space="preserve">
+    <value>$10悪いねキョン、#W20$8僕らまでまぜて
+もらっちゃってさ</value>
+  </data>
+  <data name="0026 (422.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>$12キョンく～ん、#W10$10火がつきませぇん</value>
+  </data>
+  <data name="0027 (422.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10は、#W20$9はいはい！　#W20俺がやりますっ</value>
+  </data>
+  <data name="0029 (422.ja) NAGATO (長門)" xml:space="preserve">
+    <value>$10…………</value>
+  </data>
+  <data name="0030 (422.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10待てっ、長門！　#W20$8それを焼くのは
+思いとどまれ！</value>
+  </data>
+  <data name="0032 (422.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$7ちょっと、キョン！#W20
+こっち手伝って</value>
+  </data>
+  <data name="0033 (422.ja) KYON (キョン)" xml:space="preserve">
+    <value>$9だぁっ！#W30
+なんて人使いが荒いんだ！</value>
+  </data>
+  <data name="0035 (422.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>$8ほんとに見たんだよ！　#W10キョン！#W20
+$7女の子が消えちまうところをよ！</value>
+  </data>
+  <data name="0036 (422.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10女の子#W30…#W20…#W20$5まさか、#W20$8あの時の？</value>
+  </data>
+  <data name="0038 (422.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9谷口が言うことだから#W20
+$8あんまり信用できないけど#W20…#W10…</value>
+  </data>
+  <data name="0039 (422.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10まあ、#W20$9一応調べてみましょ</value>
+  </data>
+  <data name="0041 (422.ja) KYON (キョン)" xml:space="preserve">
+    <value>$9谷口の言ってたのと#W10$7ずいぶん
+違うじゃないか！</value>
+  </data>
+  <data name="0042 (422.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$10これは#W20…#W10…#W40$9涼宮さんの意思とは#W20
+関係ない？</value>
+  </data>
+  <data name="0043 (422.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$8だとしたら、#W40長門さんが気づかない
+はずが#W20…#W10…</value>
+  </data>
 </root>

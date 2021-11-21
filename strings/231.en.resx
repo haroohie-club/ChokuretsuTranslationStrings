@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,92 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (231.ja) KYON (キョン)" xml:space="preserve">
+    <value>知ってるか、ハルヒ？</value>
+  </data>
+  <data name="0001 (231.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉のやつ、ああ見えて手先は器用
+らしい</value>
+  </data>
+  <data name="0002 (231.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ見えても何も、器用そうに見え
+るわよ、最初から</value>
+  </data>
+  <data name="0003 (231.ja) KYON (キョン)" xml:space="preserve">
+    <value>……そうか？</value>
+  </data>
+  <data name="0004 (231.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>少なくとも、キョンよりはずっと
+器用に見えるわね</value>
+  </data>
+  <data name="0005 (231.ja) KYON (キョン)" xml:space="preserve">
+    <value>事実だからな、別に腹も立たん</value>
+  </data>
+  <data name="0006 (231.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんって、手先が器用ですよね</value>
+  </data>
+  <data name="0007 (231.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、男子にしてはなかなかやる
+方だと思うわ</value>
+  </data>
+  <data name="0008 (231.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうですよね</value>
+  </data>
+  <data name="0009 (231.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……で、それがどうしたの？</value>
+  </data>
+  <data name="0010 (231.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>い、いえ、な、なんでもありません
+……</value>
+  </data>
+  <data name="0011 (231.ja) NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹は器用</value>
+  </data>
+  <data name="0012 (231.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、古泉くんってかなり器用
+だと思うわ</value>
+  </data>
+  <data name="0013 (231.ja) NAGATO (長門)" xml:space="preserve">
+    <value>細かい作業も得意</value>
+  </data>
+  <data name="0014 (231.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でしょうね</value>
+  </data>
+  <data name="0015 (231.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしはチマチマやるのは向いて
+ないけど、有希も得意そうよね</value>
+  </data>
+  <data name="0016 (231.ja) NAGATO (長門)" xml:space="preserve">
+    <value>自覚はない</value>
+  </data>
+  <data name="0017 (231.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ケンソンしなくてもいいのよ
+有希は本当に良い子なんだから</value>
+  </data>
+  <data name="0018 (231.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕は、自分がけして不器用な方では
+ないと思っていたのですが</value>
+  </data>
+  <data name="0019 (231.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうして？　あたしも古泉くんって
+器用だと思うけど？</value>
+  </data>
+  <data name="0020 (231.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そう言っていただけるとありがたい
+です。自信を無くしていたもので</value>
+  </data>
+  <data name="0021 (231.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうして自信を無くしてたのよ？</value>
+  </data>
+  <data name="0022 (231.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>色々と事情がありまして。すみま
+せん、どうか聞かないでください</value>
+  </data>
+  <data name="0023 (231.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……わかったわ
+聞かないでおくわね</value>
+  </data>
+  <data name="0024 (231.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ありがとうございます</value>
+  </data>
 </root>

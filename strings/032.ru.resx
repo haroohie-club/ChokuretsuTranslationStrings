@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,106 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (032.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、買い出しは本当に大変だった
+んだぞ</value>
+  </data>
+  <data name="0001 (032.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんが頑張ってくれたおかげ
+で、ツケにしてもらったんだからな</value>
+  </data>
+  <data name="0002 (032.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>最初から、財布を忘れなければ何も
+問題なんか起きなかったでしょ</value>
+  </data>
+  <data name="0003 (032.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ、そりゃそうだが</value>
+  </data>
+  <data name="0004 (032.ja) KYON (キョン)" xml:space="preserve">
+    <value>けどな、お前が商店街に行って
+ツケで買い物しようとしても</value>
+  </data>
+  <data name="0005 (032.ja) KYON (キョン)" xml:space="preserve">
+    <value>多分無理だ。ツケにできたのは
+朝比奈さんのお手柄だ</value>
+  </data>
+  <data name="0006 (032.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ツケで買い物するくらいなら、全部
+キョンにおごらせるわ</value>
+  </data>
+  <data name="0007 (032.ja) KYON (キョン)" xml:space="preserve">
+    <value>……それは勘弁してくれ</value>
+  </data>
+  <data name="0008 (032.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>買出しのとき、お財布を忘れて
+すごく困ってたときに……</value>
+  </data>
+  <data name="0009 (032.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんが、励ましてくれたん
+です。頑張ろうって</value>
+  </data>
+  <data name="0010 (032.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>またアバウトな励まし方ね……</value>
+  </data>
+  <data name="0011 (032.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういう時は、具体的な解決策を
+提示しなきゃ。ただ無責任なだけよ</value>
+  </data>
+  <data name="0012 (032.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>で、でも、元気が出ましたから</value>
+  </data>
+  <data name="0013 (032.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、そうやってキョンを
+甘やかしちゃダメよ。まったくもう</value>
+  </data>
+  <data name="0014 (032.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え、ええとぉ……</value>
+  </data>
+  <data name="0015 (032.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるは、頑張っている</value>
+  </data>
+  <data name="0016 (032.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へ？　なに？　みくるちゃんが
+どうかした？</value>
+  </data>
+  <data name="0017 (032.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるに対する総合評価</value>
+  </data>
+  <data name="0018 (032.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね……うん、今回の合宿は割と
+頑張ってる方じゃないかしら</value>
+  </data>
+  <data name="0019 (032.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれだけ怖がってるのに、ちゃんと
+逃げ出さずについてきてるものね</value>
+  </data>
+  <data name="0020 (032.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0021 (032.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>安心して、有希もちゃんと頑張って
+るわよ</value>
+  </data>
+  <data name="0022 (032.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0023 (032.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>夕食の買出しですが……朝比奈さん
+が財布をお忘れになったそうですね</value>
+  </data>
+  <data name="0024 (032.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それでも、信用取引で現金後払いに
+成功したと聞きました</value>
+  </data>
+  <data name="0025 (032.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんの可愛さの勝利だわ</value>
+  </data>
+  <data name="0026 (032.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>同じ手を使えば、色々な店に行って
+ツケで買い物ができそうね</value>
+  </data>
+  <data name="0027 (032.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それは……少し問題があるような
+気もしますが……</value>
+  </data>
 </root>

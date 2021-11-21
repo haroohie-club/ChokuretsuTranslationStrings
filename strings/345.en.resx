@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,133 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (345.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、突然だがおまえにとっての
+幸せってなんだ？</value>
+  </data>
+  <data name="0001 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>たしかに突然すぎてびっくりだわ</value>
+  </data>
+  <data name="0002 (345.ja) KYON (キョン)" xml:space="preserve">
+    <value>そういう話をしたくなるときもある
+のさ</value>
+  </data>
+  <data name="0003 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バカなことを言ってないで、さっさ
+と歩きなさい！</value>
+  </data>
+  <data name="0004 (345.ja) KYON (キョン)" xml:space="preserve">
+    <value>はぐらかさいで言ってみろよ</value>
+  </data>
+  <data name="0005 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>人の幸福論を聞いてどうしよう
+っていうのよ</value>
+  </data>
+  <data name="0006 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バカなセミナーでも開こうってつも
+りならやめておいた方がいいわよ</value>
+  </data>
+  <data name="0007 (345.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、そんなつもりはないけどな</value>
+  </data>
+  <data name="0008 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アンタを見ただけで、自分は恵まれ
+てるんだって実感しておしまいね</value>
+  </data>
+  <data name="0009 (345.ja) KYON (キョン)" xml:space="preserve">
+    <value>それじゃ俺が不幸の詰め合わせみた
+いじゃないか</value>
+  </data>
+  <data name="0010 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、それじゃあ……</value>
+  </data>
+  <data name="0011 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>宇宙人、未来人、異世界人、超能力
+者と一緒に遊べたら幸せね</value>
+  </data>
+  <data name="0012 (345.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そうかい。そしたらお前はすでに
+７５％は幸せになってるんだぜ</value>
+  </data>
+  <data name="0013 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あとはね……</value>
+  </data>
+  <data name="0014 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アンタがさっさと歩いてくれたら
+今の瞬間は幸福かも知れないわよ</value>
+  </data>
+  <data name="0015 (345.ja) KYON (キョン)" xml:space="preserve">
+    <value>それはえらく安い幸せだな、ハルヒ</value>
+  </data>
+  <data name="0016 (345.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ため息をつくと幸せが逃げるって
+言うじゃないですか</value>
+  </data>
+  <data name="0017 (345.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんがため息ついたら、長門
+さんにたしなめられたそうですよ</value>
+  </data>
+  <data name="0018 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、有希がそんな言葉を本気に
+してるなんてね</value>
+  </data>
+  <data name="0019 (345.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんも、純粋なところがありま
+すよね</value>
+  </data>
+  <data name="0020 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。本に書いてあることを
+鵜呑みにしちゃったりするのかもね</value>
+  </data>
+  <data name="0021 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういう有希も可愛くていいわね</value>
+  </data>
+  <data name="0022 (345.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうですね</value>
+  </data>
+  <data name="0023 (345.ja) NAGATO (長門)" xml:space="preserve">
+    <value>ため息をつくと、幸せが逃げる</value>
+  </data>
+  <data name="0024 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、それ？</value>
+  </data>
+  <data name="0025 (345.ja) NAGATO (長門)" xml:space="preserve">
+    <value>本に書いてあった</value>
+  </data>
+  <data name="0026 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん、あたしはため息なんて無縁
+だから、関係ないわ</value>
+  </data>
+  <data name="0027 (345.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0028 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いつもやれやれ、やれやれって
+言ってるやつに聞かせてやりましょ</value>
+  </data>
+  <data name="0029 (345.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そうする</value>
+  </data>
+  <data name="0030 (345.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>よく、溜息をつくたびに幸せが逃げ
+ていく……と言われていますが</value>
+  </data>
+  <data name="0031 (345.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼も、今日は溜息ばかりついている
+ようですね</value>
+  </data>
+  <data name="0032 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バカキョンね。今日に限っての話
+じゃないけど</value>
+  </data>
+  <data name="0033 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はぁ……とか、やれやれ……とか
+四六時中、幸せを逃がしっぱなしね</value>
+  </data>
+  <data name="0034 (345.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんにも、指摘されたそうです</value>
+  </data>
+  <data name="0035 (345.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希に言われたんじゃ、よっぽどね</value>
+  </data>
 </root>

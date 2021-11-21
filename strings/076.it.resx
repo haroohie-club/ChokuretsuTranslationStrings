@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,105 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (076.ja) KYON (キョン)" xml:space="preserve">
+    <value>肝試ししてる最中に、チカッて
+光るものを見つけたんだよ</value>
+  </data>
+  <data name="0001 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>えっ、それ何だったの？
+もちろん調べたんでしょうね？</value>
+  </data>
+  <data name="0002 (076.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、調べたって言うか、探して
+みたさ</value>
+  </data>
+  <data name="0003 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちゃんと見つけた？</value>
+  </data>
+  <data name="0004 (076.ja) KYON (キョン)" xml:space="preserve">
+    <value>“古いブローチ”だったよ。誰かの
+落とし物だな</value>
+  </data>
+  <data name="0005 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なーんだ、つまらないの</value>
+  </data>
+  <data name="0006 (076.ja) KYON (キョン)" xml:space="preserve">
+    <value>そんなもんだろ</value>
+  </data>
+  <data name="0007 (076.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、肝試しの時に階段で
+これを拾ったんですけど……</value>
+  </data>
+  <data name="0008 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へぇ、アンティークなブローチね
+ステキじゃない</value>
+  </data>
+  <data name="0009 (076.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ですよね。でも生徒のものにしては
+大人っぽい趣味ですよねぇ</value>
+  </data>
+  <data name="0010 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>見回り中の教師が落したんでしょ</value>
+  </data>
+  <data name="0011 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、これが似合うような教師は
+ウチの学校には居ないから……</value>
+  </data>
+  <data name="0012 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大方、お偉いさんが来た時にでも、
+忘れて行ったんじゃないの？</value>
+  </data>
+  <data name="0013 (076.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>なるほど～、そうかもしれませんね
+じゃあ、後で職員室に届けましょう</value>
+  </data>
+  <data name="0014 (076.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これを</value>
+  </data>
+  <data name="0015 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにこれ、ブローチ？</value>
+  </data>
+  <data name="0016 (076.ja) NAGATO (長門)" xml:space="preserve">
+    <value>先ほど朝比奈みくるが発見した
+古いもの</value>
+  </data>
+  <data name="0017 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうみたいね……年代物の雰囲気が
+あるわ</value>
+  </data>
+  <data name="0018 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……で、これがどうかした？</value>
+  </data>
+  <data name="0019 (076.ja) NAGATO (長門)" xml:space="preserve">
+    <value>管理方法に関して聞いておきたい</value>
+  </data>
+  <data name="0020 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰かの落とし物なのよね？
+あとで届けておきましょう</value>
+  </data>
+  <data name="0021 (076.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そういえば、朝比奈さんが拾った物
+について、お聞きになりましたか？</value>
+  </data>
+  <data name="0022 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ううん、何も聞いてないわ</value>
+  </data>
+  <data name="0023 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、何を拾ったの？</value>
+  </data>
+  <data name="0024 (076.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>古いブローチだそうです。誰かの落
+とし物かもしれません</value>
+  </data>
+  <data name="0025 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ……</value>
+  </data>
+  <data name="0026 (076.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>確か、落し物を拾ったら、１割お礼
+をもらえるんだったっけ</value>
+  </data>
+  <data name="0027 (076.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そう……ですね。しかしこの場合は
+難しいとは思いますが……</value>
+  </data>
 </root>

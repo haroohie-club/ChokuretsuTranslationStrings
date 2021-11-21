@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,64 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (272.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>す、涼宮さん、キョンくんから
+面白い話を聞いたんですけど……</value>
+  </data>
+  <data name="0001 (272.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンから？　どんな話？</value>
+  </data>
+  <data name="0002 (272.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええと……あのですね、長門さんの
+ことなんです</value>
+  </data>
+  <data name="0003 (272.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希のこと？　なにかしら？</value>
+  </data>
+  <data name="0004 (272.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さん、コンピ研の活動に、少し
+興味があるらしいんです</value>
+  </data>
+  <data name="0005 (272.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それ、ウソでしょ？</value>
+  </data>
+  <data name="0006 (272.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ほ、本当だと思いますっ！
+キョンくんがそう言ってましたから</value>
+  </data>
+  <data name="0007 (272.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあそれ、キョンの作り話ね</value>
+  </data>
+  <data name="0008 (272.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希が、あの妙にダラ～っとした連
+中の活動に、興味を持つはずないわ</value>
+  </data>
+  <data name="0009 (272.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ダ、ダラ～っとしてたかなぁ……？</value>
+  </data>
+  <data name="0010 (272.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく、キョンには後で説教ね</value>
+  </data>
+  <data name="0011 (272.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんにまで、ろくでもない
+ことを吹き込んじゃって</value>
+  </data>
+  <data name="0013 (272.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>キョンくん、いけないことしたの？</value>
+  </data>
+  <data name="0014 (272.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ。団の結束を乱しかねない
+噂を流しちゃったの。大説教確定よ</value>
+  </data>
+  <data name="0015 (272.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、急いでキョンのところに
+行きましょう</value>
+  </data>
+  <data name="0016 (272.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>うんっ</value>
+  </data>
+  <data name="0017 (272.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ち、違うんですぅ、そういうんじゃ
+なくて……はぅぅぅぅ……</value>
+  </data>
 </root>

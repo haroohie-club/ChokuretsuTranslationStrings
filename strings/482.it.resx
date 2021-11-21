@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,587 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>１人でなんとかすると出てきたのは
+いいが、本当になんとかなるのか？</value>
+  </data>
+  <data name="0001 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>不安がないわけでもないが、まあ
+なんとかなるだろう</value>
+  </data>
+  <data name="0002 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>場当たり的な行動だが、計算尽くで
+動いてもあまり意味がない気がする</value>
+  </data>
+  <data name="0003 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>当たって砕けろってことだ</value>
+  </data>
+  <data name="0004 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とはいえ、コンピ研の連中をどう
+やって捕まえるか</value>
+  </data>
+  <data name="0005 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>何か使えそうな道具はないか……？</value>
+  </data>
+  <data name="0006 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>廊下にロープが落ちている</value>
+  </data>
+  <data name="0007 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ニセ怪奇現象の演出に使った小道具
+が、そのままになっていたんだな</value>
+  </data>
+  <data name="0008 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>これは使えるかも知れないぞ</value>
+  </data>
+  <data name="0009 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ロープはかなりの長さがあるし
+そこそこ本数もある</value>
+  </data>
+  <data name="0010 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>こいつで縛り上げるってのがいい
+かも知れないな……</value>
+  </data>
+  <data name="0011 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>コンピ研がおとなしく縛につくとは
+限らないが、やってみる価値はある</value>
+  </data>
+  <data name="0012 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ん？</value>
+  </data>
+  <data name="0013 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今、何かが廊下を横切ったような
+気がしたが……</value>
+  </data>
+  <data name="0014 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>廊下を見回していると、壁にシミの
+ようなものが見える</value>
+  </data>
+  <data name="0015 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>こんなところにシミなんてあった
+かな……</value>
+  </data>
+  <data name="0016 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ただのシミにも見えるし人の顔にも
+見える</value>
+  </data>
+  <data name="0017 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>これはどう見ても人の顔に見える</value>
+  </data>
+  <data name="0018 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もちろん#P05“壁のシミ”#P01なわけだが
+そう見えるってのが重要だ</value>
+  </data>
+  <data name="0019 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ただ、さっき廊下を横切ったのが
+これ……ってのはいただけないが</value>
+  </data>
+  <data name="0020 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>これはただのシミだな。湿気の影響
+で浮かび上がったのかも知れない</value>
+  </data>
+  <data name="0021 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>壁のシミをペチペチと叩くと、その
+音が#P05“廊下の反響”#P01となって響いた</value>
+  </data>
+  <data name="0022 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>昼間は気付かないことでも、静かな
+夜に気付くことがあるんだな</value>
+  </data>
+  <data name="0023 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし、さっき廊下を横切ったのは
+誰だったんだ？</value>
+  </data>
+  <data name="0024 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>背筋が寒くなったが、ハルヒの望み
+が実現するのに比べればマシな方だ</value>
+  </data>
+  <data name="0025 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>とにかくコンピ研を捕まえないと
+ハルヒの目に触れたら大事だな</value>
+  </data>
+  <data name="0026 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>廊下を往復してみたがコンピ研の姿
+は見られない。ほかを当たるか</value>
+  </data>
+  <data name="0027 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>上の階にいるかもな……</value>
+  </data>
+  <data name="0028 (482.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>みぃ～つけた～</value>
+  </data>
+  <data name="0029 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>うわっ！！</value>
+  </data>
+  <data name="0030 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いきなりの登場かよっ</value>
+  </data>
+  <data name="0031 (482.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>キミは～ＳＯＳ団の人だね～
+部は違うけど～仲間にいれてあげる</value>
+  </data>
+  <data name="0032 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょ、ちょっと待ったっ！</value>
+  </data>
+  <data name="0033 (482.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>え～うん～待つよ～</value>
+  </data>
+  <data name="0034 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こいつ、やけに動きが鈍いな……
+それに、妙に素直で不気味だ</value>
+  </data>
+  <data name="0035 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>動くなよ、大人しくしていれば
+手荒なことはしない</value>
+  </data>
+  <data name="0036 (482.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>でも～仲間を増やさないといけない
+んだよ～</value>
+  </data>
+  <data name="0037 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>スロー再生でしゃべる部員を手早く
+ロープでしばってしまおう</value>
+  </data>
+  <data name="0038 (482.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>あ～しばられちゃったよ</value>
+  </data>
+  <data name="0039 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>すまないな。そのマヌケな花の正体
+がわかったら、開放してやる</value>
+  </data>
+  <data name="0040 (482.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>はやくしてね～</value>
+  </data>
+  <data name="0041 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>わかった、わかったから</value>
+  </data>
+  <data name="0042 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あの部員、もっとハキハキしてた
+はずなんだが、おかしいな</value>
+  </data>
+  <data name="0043 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>動きが鈍いおかげであっさりと捕ま
+えられたからいいが……</value>
+  </data>
+  <data name="0044 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あの花と動作に何か関係があるの
+かも知れないな</value>
+  </data>
+  <data name="0045 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺と一緒に教室に来てもらいますよ</value>
+  </data>
+  <data name="0047 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>昔の役人みたいな気分だね、こりゃ</value>
+  </data>
+  <data name="0048 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>暗がりからいきなり顔を出すのは
+やめて欲しいところだ</value>
+  </data>
+  <data name="0049 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いるとわかっていてもびっくりして
+心臓に良くない</value>
+  </data>
+  <data name="0050 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ただでさえハラハラの連続だという
+のに勘弁願いたい</value>
+  </data>
+  <data name="0051 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>……？</value>
+  </data>
+  <data name="0053 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>廊下の暗がりに誰かがいる！？</value>
+  </data>
+  <data name="0054 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>コンピ研じゃない、女の子みたいな
+感じだ……</value>
+  </data>
+  <data name="0055 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしかして、あの長い髪の少女か？
+そうだとしたら、どうする！？</value>
+  </data>
+  <data name="0056 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>彼女が何者かを突き止めるためにも
+写真を撮るべきだろうな……</value>
+  </data>
+  <data name="0057 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ポケットから携帯を取り出すと
+素早く写真を撮った</value>
+  </data>
+  <data name="0059 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>……えっ！？</value>
+  </data>
+  <data name="0060 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>携帯のカメラで撮影した瞬間、少女
+の姿が見えなくなったが……</value>
+  </data>
+  <data name="0061 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょっと、キミ！</value>
+  </data>
+  <data name="0062 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>追いかけて見たものの、廊下のどこ
+を見ても少女の姿はない</value>
+  </data>
+  <data name="0063 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>足音もなかったし、やばいかも……</value>
+  </data>
+  <data name="0064 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>撮ったばかりの写真を見てみると
+暗くてちゃんと写っていなかった</value>
+  </data>
+  <data name="0065 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>これでも一応#P05“心霊写真？”#P00か？</value>
+  </data>
+  <data name="0066 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ゾクッとするけど、保存しておこう</value>
+  </data>
+  <data name="0067 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>声をかけてみるか……</value>
+  </data>
+  <data name="0068 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょっとキミ！</value>
+  </data>
+  <data name="0070 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……って、誰もいない。さっきまで
+ここに少女が立っていたはずなのに</value>
+  </data>
+  <data name="0071 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>まさか、また#P05“幽霊？”#P00</value>
+  </data>
+  <data name="0072 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それはちょっとエンリョしたいね</value>
+  </data>
+  <data name="0073 (482.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>僕にひかりを～</value>
+  </data>
+  <data name="0074 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>うわあっ</value>
+  </data>
+  <data name="0075 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>またかよっ。脅かす前に
+一言かけて欲しいもんだ</value>
+  </data>
+  <data name="0076 (482.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>もっとひかりを～</value>
+  </data>
+  <data name="0077 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>大人しくしてろっ！！</value>
+  </data>
+  <data name="0078 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ロープを使ってぐるぐるに巻くと
+部員はすぐに静かになってくれた</value>
+  </data>
+  <data name="0080 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>探す手間ははぶけたが
+これはかなり心臓に悪いぜ</value>
+  </data>
+  <data name="0081 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それにしても不思議だ。前の部員
+も動作が鈍かったが……</value>
+  </data>
+  <data name="0082 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>いわゆる運動不足ってやつか？</value>
+  </data>
+  <data name="0083 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>健全な高校生が運動不足ってのは
+考えものだが、徹夜でやられたか</value>
+  </data>
+  <data name="0084 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>ほかの部員たちはどこだろう……</value>
+  </data>
+  <data name="0085 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しっかり部員を縛って空き教室に
+放り込んだらまた移動だな</value>
+  </data>
+  <data name="0086 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>ここをうろつかれると一番まずい
+んだよなあ……</value>
+  </data>
+  <data name="0087 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>うっかりハルヒが見る可能性が高い
+だけに、慎重にやらなければ</value>
+  </data>
+  <data name="0088 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部員と格闘しているところさえ
+見られるとまずいし、厄介だ</value>
+  </data>
+  <data name="0089 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>ここには誰もいないか……</value>
+  </data>
+  <data name="0090 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>ん……誰かいる気配がするな</value>
+  </data>
+  <data name="0091 (482.ja) CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
+    <value>ここは暗いな～でも動きたくないな</value>
+  </data>
+  <data name="0092 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんだ、何をブツブツ言ってるんだ</value>
+  </data>
+  <data name="0093 (482.ja) CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
+    <value>あ～っ、ＳＯＳ団のひとだ～</value>
+  </data>
+  <data name="0094 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>動くなっ、そのままじっとして！</value>
+  </data>
+  <data name="0095 (482.ja) CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
+    <value>動きたくても動けないんだよ～</value>
+  </data>
+  <data name="0096 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだ？　どうして動けない？</value>
+  </data>
+  <data name="0097 (482.ja) CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
+    <value>体に力が入らないんだよ～</value>
+  </data>
+  <data name="0098 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なるほど、それもあって簡単に捕ま
+るのか</value>
+  </data>
+  <data name="0099 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし、なぜそんな事になってる？
+頭に咲いたマヌケな花のせいか？</value>
+  </data>
+  <data name="0100 (482.ja) CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
+    <value>うわー、なんで縛るんだよ～</value>
+  </data>
+  <data name="0101 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>すまない。一件落着するまで俺と
+一緒に来て下さい</value>
+  </data>
+  <data name="0102 (482.ja) CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
+    <value>はーい</value>
+  </data>
+  <data name="0103 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>聞き分けがいいせいか、どうも緊張
+感に欠けるな</value>
+  </data>
+  <data name="0104 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>迷子の補導員にでもなった気分だ</value>
+  </data>
+  <data name="0105 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部員を片っ端から捕まえたが
+部長氏だけがまだ捕まっていない</value>
+  </data>
+  <data name="0106 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>どこに行ったんだ、部長氏は……</value>
+  </data>
+  <data name="0107 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あの格好のまま外へ出掛けたとは
+考えにくいけど……</value>
+  </data>
+  <data name="0108 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>学校中回ってもどこにもいなかった</value>
+  </data>
+  <data name="0109 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>ここからもう一度洗い直しか……</value>
+  </data>
+  <data name="0110 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一度探した場所だが、移動している
+かも知れない。念のために再調査だ</value>
+  </data>
+  <data name="0111 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>あー、だるいねー
+徹夜続きのせいなのかね</value>
+  </data>
+  <data name="0112 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>部長氏！</value>
+  </data>
+  <data name="0113 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>あー。またキミかー。またジャマを
+しに来たのかねー</value>
+  </data>
+  <data name="0114 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部長氏もだるそうにしているな
+花に養分でも吸われているのか？</value>
+  </data>
+  <data name="0115 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>部長さん、ちょっとおとなしくして
+いてください</value>
+  </data>
+  <data name="0116 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>いやだねー、お断りだよー</value>
+  </data>
+  <data name="0117 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょっと、待って下さいっ！</value>
+  </data>
+  <data name="0118 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だるそうにしながらも逃げるほど
+うちらは嫌われてるのかね</value>
+  </data>
+  <data name="0119 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ラッキー！　部長氏は部員たちを
+集めた教室に逃げ込んだぞ</value>
+  </data>
+  <data name="0121 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>あー、キミたちもここにいたのか</value>
+  </data>
+  <data name="0122 (482.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>部長～</value>
+  </data>
+  <data name="0124 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>えっ、いきなり照明がついた？</value>
+  </data>
+  <data name="0125 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>キミの好きなようにはさせないよ</value>
+  </data>
+  <data name="0126 (482.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
+    <value>このロープをほどくんだ！</value>
+  </data>
+  <data name="0127 (482.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
+    <value>なんてことするんだよ！</value>
+  </data>
+  <data name="0128 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんだ、こいつら？</value>
+  </data>
+  <data name="0129 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>明かりがついたとたんに、急に元気
+になりやがった</value>
+  </data>
+  <data name="0132 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>さあ、キミも仲間になればひどい
+ことはしないよ</value>
+  </data>
+  <data name="0133 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょっ、部長さんっ、落ち着いて！</value>
+  </data>
+  <data name="0134 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>さあさあ。頭に花を咲かせましょう</value>
+  </data>
+  <data name="0135 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや待てっ、そんな姿はごめんだ！</value>
+  </data>
+  <data name="0136 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部長氏は結構な力で押してくる</value>
+  </data>
+  <data name="0137 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まるで相撲部か柔道部の猛者という
+勢いだ。これじゃ押し負けちまう</value>
+  </data>
+  <data name="0138 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしかすると明かりと関係がある
+のか？</value>
+  </data>
+  <data name="0139 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>部員の１人が光を欲しがっていた
+みたいだし……</value>
+  </data>
+  <data name="0140 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>明かりは消した方がいいかも</value>
+  </data>
+  <data name="0141 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>うわあ、明かりがぁ……</value>
+  </data>
+  <data name="0142 (482.ja) CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
+    <value>あああ、力が抜けるぅ……</value>
+  </data>
+  <data name="0143 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>明かりを消したとたんに脱力したか</value>
+  </data>
+  <data name="0144 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしかして……</value>
+  </data>
+  <data name="0145 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>コンピ研の頭に咲いている花が
+#P05“光合成”#P00してるってことなのか</value>
+  </data>
+  <data name="0146 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>くわしいことはわからんが、そう
+らしい</value>
+  </data>
+  <data name="0147 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>僕たちのジャマをしないでくれよ～</value>
+  </data>
+  <data name="0148 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>すみません、すぐに開放しますから
+少しの間ガマンしていて下さい</value>
+  </data>
+  <data name="0149 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いや、足元も悪いし動きやすいから
+つけたままにしておこう</value>
+  </data>
+  <data name="0150 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>さあ、キミも頭に花を！</value>
+  </data>
+  <data name="0151 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>それだけは勘弁して下さいよ</value>
+  </data>
+  <data name="0152 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>では力尽くで花を咲かせよう！</value>
+  </data>
+  <data name="0153 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>うわっ</value>
+  </data>
+  <data name="0154 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>あ、足がっ、からまっ……</value>
+  </data>
+  <data name="0155 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺の持っていたロープに足を絡めて
+部長氏は自爆してしまった</value>
+  </data>
+  <data name="0156 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>失礼しますよ、部長さん</value>
+  </data>
+  <data name="0157 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>あっ、なにをするーっ！</value>
+  </data>
+  <data name="0158 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>思いの外あっさり捕まってくれて
+部長氏の運動不足に感謝だな</value>
+  </data>
+  <data name="0159 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>あうう……これをやるからロープを
+解いてくれよ</value>
+  </data>
+  <data name="0160 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんですか、これは？</value>
+  </data>
+  <data name="0161 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>#P05“ひまわりの種”#P00だ</value>
+  </data>
+  <data name="0162 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>頭に咲くタネは要らないです</value>
+  </data>
+  <data name="0163 (482.ja) CLUB_PRES (部長氏)" xml:space="preserve">
+    <value>いやいや、それはおやつなんだ</value>
+  </data>
+  <data name="0164 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>#P05“ひまわりの種”#P01がおやつって
+リスやハムスターじゃあるまいし</value>
+  </data>
+  <data name="0165 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まあ、食べられるのは知っているが
+一応、もらっておこう</value>
+  </data>
+  <data name="0166 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>その花のことがわかったら開放しま
+すので、しばらくがまんして下さい</value>
+  </data>
+  <data name="0168 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とにかくコンピ研メンバーは全員
+捕まえることが出来た</value>
+  </data>
+  <data name="0169 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>これでハルヒが目撃することは避け
+られたな</value>
+  </data>
+  <data name="0170 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>自分で言うのもおかしいけど、俺も
+なかなか進歩してきたんじゃないか</value>
+  </data>
+  <data name="0171 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こんな危機的状況でサクッと動ける
+自分にホレボレするね</value>
+  </data>
+  <data name="0172 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>……はぁ</value>
+  </data>
+  <data name="0173 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だからって、何一つうれしいことは
+ないし、ごほうびもない</value>
+  </data>
+  <data name="0174 (482.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒに振り回されることに慣れて
+来ただけってことじゃないのか？</value>
+  </data>
+  <data name="0175 (482.ja) KYON (キョン)" xml:space="preserve">
+    <value>あーあ……
+素直に喜んでる場合じゃないな</value>
+  </data>
 </root>
