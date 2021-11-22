@@ -295,7 +295,7 @@ namespace HaruhiChokuretsuLib.Archive
             SpeakerPointer = speakerPointer;
             Pointer = pointer;
             Data = file.Skip(pointer).TakeWhile(b => b != 0x00).ToArray();
-            NumPaddingZeroes = file.Skip(pointer + Data.Length).TakeWhile(b => b == 0x00).Count();
+            NumPaddingZeroes = 4 - (Length % 4);
         }
 
         public override string ToString()
