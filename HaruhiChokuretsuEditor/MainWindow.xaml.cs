@@ -113,6 +113,8 @@ namespace HaruhiChokuretsuEditor
             {
                 EventFile newEventFile = new();
                 newEventFile.Initialize(File.ReadAllBytes(openFileDialog.FileName), _evtFile.Files[eventsListBox.SelectedIndex].Offset);
+                newEventFile.Index = _evtFile.Files[eventsListBox.SelectedIndex].Index;
+                newEventFile.Offset = _evtFile.Files[eventsListBox.SelectedIndex].Offset;
                 _evtFile.Files[eventsListBox.SelectedIndex] = newEventFile;
                 _evtFile.Files[eventsListBox.SelectedIndex].Edited = true;
                 eventsListBox.Items.Refresh();
@@ -129,11 +131,12 @@ namespace HaruhiChokuretsuEditor
             {
                 EventFile selectedFile = (EventFile)eventsListBox.SelectedItem;
                 mainWindow.Title = $"Suzumiya Haruhi no Chokuretsu Editor - Event 0x{selectedFile.Index:X3}";
+                editStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.DialogueLines.Count} lines of dialogue" });
                 frontPointersStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.Data?.Count ?? 0} bytes" });
                 frontPointersStackPanel.Children.Add(new TextBlock { Text = $"Actual compressed length: {selectedFile.CompressedData.Length:X}; Calculated length: {selectedFile.Length:X}" });
                 for (int i = 0; i < selectedFile.DialogueLines.Count; i++)
                 {
-                    StackPanel dialogueStackPanel = new StackPanel { Orientation = Orientation.Horizontal };
+                    StackPanel dialogueStackPanel = new() { Orientation = Orientation.Horizontal };
                     dialogueStackPanel.Children.Add(new TextBlock { Text = $"{selectedFile.DialogueLines[i].Speaker} ({selectedFile.DialogueLines[i].SpeakerName}):\t" });
                     EventTextBox textBox = new() { EventFile = selectedFile, DialogueIndex = i, Text = selectedFile.DialogueLines[i].Text, AcceptsReturn = true };
                     textBox.TextChanged += TextBox_TextChanged;
@@ -142,14 +145,14 @@ namespace HaruhiChokuretsuEditor
                 }
                 foreach (int frontPointer in selectedFile.FrontPointers)
                 {
-                    StackPanel fpStackPanel = new StackPanel { Orientation = Orientation.Horizontal };
+                    StackPanel fpStackPanel = new() { Orientation = Orientation.Horizontal };
                     fpStackPanel.Children.Add(new TextBlock { Text = $"0x{frontPointer:X8}\t\t" });
                     fpStackPanel.Children.Add(new TextBox { Text = $"{BitConverter.ToInt32(selectedFile.Data.Skip(frontPointer).Take(4).ToArray()):X8}" });
                     frontPointersStackPanel.Children.Add(fpStackPanel);
                 }
                 foreach (int endPointer in selectedFile.EndPointers)
                 {
-                    StackPanel epStackPanel = new StackPanel { Orientation = Orientation.Horizontal };
+                    StackPanel epStackPanel = new() { Orientation = Orientation.Horizontal };
                     epStackPanel.Children.Add(new TextBlock { Text = $"0x{endPointer:X8}\t\t" });
                     epStackPanel.Children.Add(new TextBox { Text = $"{BitConverter.ToInt32(selectedFile.Data.Skip(endPointer).Take(4).ToArray()):X8}" });
                     endPointersStackPanel.Children.Add(epStackPanel);

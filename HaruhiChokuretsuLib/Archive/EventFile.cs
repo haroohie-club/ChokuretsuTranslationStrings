@@ -249,9 +249,14 @@ namespace HaruhiChokuretsuLib.Archive
                     }
                 }
 
-                if (dialogueText.Count(c => c == '\n') > 1)
+                if ((!datFile && dialogueText.Count(c => c == '\n') > 1) || (DialogueLines[dialogueIndex].SpeakerName == "CHOICE" && dialogueText.Length > 14))
                 {
-                    Console.WriteLine($"File {Index} has dialogue line too long ({dialogueIndex}) (starting with: {dialogueText[0..Math.Min(15, dialogueText.Length - 1)]})");
+                    string type = "dialogue line";
+                    if (DialogueLines[dialogueIndex].SpeakerName == "CHOICE")
+                    {
+                        type = "choice";
+                    }
+                    Console.WriteLine($"File {Index} has {type} too long ({dialogueIndex}) (starting with: {dialogueText[0..Math.Min(15, dialogueText.Length - 1)]})");
                 }
 
                 EditDialogueLine(dialogueIndex, dialogueText);

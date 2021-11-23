@@ -37,7 +37,14 @@ Loop first int times, incrementing by 8 bytes each time, checking 0x0C from that
 ev1_001 (in modded rom)
 021C18D0 (start of file)
 [021C1C00..021C1D0F]?
+020073E8
+020208AC
+0202E2E8
 
+0202E594
+0202E1C8
+[02198CE8..02198CEB]!
+0202E1C8
 
 
 $10 determines text speed

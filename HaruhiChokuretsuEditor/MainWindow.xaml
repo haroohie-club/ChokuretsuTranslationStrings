@@ -6,7 +6,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HaruhiChokuretsuEditor"
         mc:Ignorable="d"
-        Title="Suzumiya Haruhi no Chokuretsu Editor" Height="450" Width="800">
+        Title="Suzumiya Haruhi no Chokuretsu Editor" Height="453" Width="800">
     <Grid>
         <TabControl x:Name="mainTabControl">
             <TabItem Header="Events">
