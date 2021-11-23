@@ -83,7 +83,7 @@
     <value>Quindi, con la trappola per orsi ben legata alla mia gamba…</value>
   </data>
   <data name="0028 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Appena ha saputo che sono stato chiamato da Haruhi, mia sorella ha iniziato a frignare perché voleva per forza venire.</value>
+    <value>Appena mia sorella ha saputo che Haruhi mi ha chiamato, ha iniziato a frignare perché voleva per forza venire.</value>
   </data>
   <data name="0002 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Riguarda quanto detto ieri al bar.</value>
@@ -146,7 +146,7 @@
     <value>Mi sono sbrigato per incontrare il gruppo a scuola.</value>
   </data>
   <data name="0033 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Inoltre, visto l'inclusione di mia sorella, è improbabile che Haruhi proponga cose troppo assurde.</value>
+    <value>Inoltre, vista l'intrusione di mia sorella, è improbabile che Haruhi proponga cose troppo assurde.</value>
   </data>
   <data name="0034 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Non negherò che la pensavo davvero così.</value>
@@ -173,7 +173,7 @@
     <value>Come hai trascorso la tua estate fino ad ora, Nagato? Sei andata in giro?</value>
   </data>
   <data name="0040 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Meno male che sei mia sorella. Fossi stata mio fratello, ti avrei fatta dormire fino alla fine dell'estate.</value>
+    <value>Meno male che sei mia sorella. Fossi stata mio fratello, ti avrei fatta dormire fino al termine dell'estate.</value>
   </data>
   <data name="0043 (361.ja) NAGATO (長門)" xml:space="preserve">
     <value>Buon giorno.</value>
@@ -188,7 +188,7 @@
     <value>Dopotutto abbiamo a malapena interagito ieri al bar.</value>
   </data>
   <data name="0049 (361.ja) NAGATO (長門)" xml:space="preserve">
-    <value>Leggendo. Uscire fuori non fa parte dei piani.</value>
+    <value>Leggendo. Uscire non fa parte dei piani.</value>
   </data>
   <data name="0050 (361.ja) KYON (キョン)" xml:space="preserve">
     <value>A-Ah sì…… Sembra bello.</value>
@@ -207,5 +207,11 @@
   </data>
   <data name="0056 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Non c'è alcuna scusa per il tuo ritardo.</value>
+  </data>
+  <data name="0057 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>Cavoli, speravo diversamente.</value>
+  </data>
+  <data name="0059 (361.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>Su, su, Suzumiya.</value>
   </data>
 </root>
