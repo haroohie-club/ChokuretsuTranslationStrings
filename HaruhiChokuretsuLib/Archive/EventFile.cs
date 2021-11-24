@@ -203,6 +203,9 @@ namespace HaruhiChokuretsuLib.Archive
                     dialogueText = dialogueText.Replace("\n", " ");
                 }
 
+                // Replace all faux-ellipses with an ellipsis character
+                dialogueText = dialogueText.Replace("...", "…");
+
                 int lineLength = 0;
                 bool operatorActive = false;
                 for (int i = 0; i < dialogueText.Length; i++)
@@ -230,7 +233,7 @@ namespace HaruhiChokuretsuLib.Archive
                     if (FontReplacementMap.ContainsKey(dialogueText[i]))
                     {
                         char newCharacter = FontReplacementMap[dialogueText[i]].OriginalCharacter;
-                        if (dialogueText[i] == '"' && (i == dialogueText.Length - 1 
+                        if (dialogueText[i] == '"' && (i == dialogueText.Length - 1
                             || dialogueText[i + 1] == ' ' || dialogueText[i + 1] == '!' || dialogueText[i + 1] == '?' || dialogueText[i + 1] == '.'))
                         {
                             newCharacter = '”';
