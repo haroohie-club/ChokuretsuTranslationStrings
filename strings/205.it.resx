@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,215 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (205.ja) KYON (キョン)" xml:space="preserve">
+    <value>さっき、言いそびれたことがあるん
+だが……</value>
+  </data>
+  <data name="0001 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さっきって、いつ？</value>
+  </data>
+  <data name="0002 (205.ja) KYON (キョン)" xml:space="preserve">
+    <value>音楽室のカギを借りに行ったときの
+話だ</value>
+  </data>
+  <data name="0003 (205.ja) KYON (キョン)" xml:space="preserve">
+    <value>先生への対応を古泉に任せたんだが
+何の疑いもなく、一発ＯＫだった</value>
+  </data>
+  <data name="0004 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それがどうかしたの？</value>
+  </data>
+  <data name="0005 (205.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉のやつ、ずいぶん教師受けが
+いいんだな</value>
+  </data>
+  <data name="0006 (205.ja) KYON (キョン)" xml:space="preserve">
+    <value>絵に描いたような優等生だ</value>
+  </data>
+  <data name="0007 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたと比較したら、たいていの
+生徒は優等生だわ</value>
+  </data>
+  <data name="0008 (205.ja) KYON (キョン)" xml:space="preserve">
+    <value>そりゃどういう意味だ</value>
+  </data>
+  <data name="0009 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>真面目に勉強しないわ、すぐサボろ
+うとするわ、ダメなとこばかり</value>
+  </data>
+  <data name="0010 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは勉強嫌いじゃないし、得意
+だもの。まだマシね</value>
+  </data>
+  <data name="0011 (205.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>と、校内一の問題児がおっしゃって
+いるが、自覚はまるで無いらしいな</value>
+  </data>
+  <data name="0012 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、あんたも古泉くんを見習っ
+て、少しは真面目に生きなさい</value>
+  </data>
+  <data name="0013 (205.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あいつが真面目かどうか、俺は正直
+疑問なんだが……</value>
+  </data>
+  <data name="0014 (205.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんは、もう聞きましたか？</value>
+  </data>
+  <data name="0015 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、なんの話？</value>
+  </data>
+  <data name="0016 (205.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>音楽室のカギを借りたときの話です</value>
+  </data>
+  <data name="0017 (205.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんが大活躍だったとか……</value>
+  </data>
+  <data name="0018 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ううん、それ知らないわ。何がどう
+大活躍だったの？</value>
+  </data>
+  <data name="0019 (205.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええと、気難しい先生だったらしい
+んですけど……</value>
+  </data>
+  <data name="0020 (205.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くん、一言二言しゃべっただけ
+で、すんなりカギを借りられたとか</value>
+  </data>
+  <data name="0021 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、古泉くんが……</value>
+  </data>
+  <data name="0022 (205.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それで、キョンくんが、古泉くんの
+こと、教師受けのいい優等生だって</value>
+  </data>
+  <data name="0023 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あのバカ</value>
+  </data>
+  <data name="0024 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしてそう、余計な一言を付けた
+がるのかしら</value>
+  </data>
+  <data name="0025 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンには合宿後、きちんと説教
+しておかなくちゃ</value>
+  </data>
+  <data name="0026 (205.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、それはちょっと……あたしの
+せいになっちゃいますぅ</value>
+  </data>
+  <data name="0027 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんから聞いた、なんて
+話はしないから安心しなさい</value>
+  </data>
+  <data name="0028 (205.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>うぅぅ、ごめんなさい
+キョンくぅん</value>
+  </data>
+  <data name="0029 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え？　古泉くんが優等生？</value>
+  </data>
+  <data name="0030 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰がそんなこと言ってたの？
+キョン？</value>
+  </data>
+  <data name="0031 (205.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0032 (205.ja) NAGATO (長門)" xml:space="preserve">
+    <value>音楽室のカギを借り受ける際、教師
+との交渉をスムーズに行った</value>
+  </data>
+  <data name="0033 (205.ja) NAGATO (長門)" xml:space="preserve">
+    <value>優等生の成せるわざ</value>
+  </data>
+  <data name="0034 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……って、キョンが言ったのね？</value>
+  </data>
+  <data name="0035 (205.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0036 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>きっと、その“優等生”っていうの
+は、悪い意味での優等生ね</value>
+  </data>
+  <data name="0037 (205.ja) NAGATO (長門)" xml:space="preserve">
+    <value>その用法に関しては、説明が必要</value>
+  </data>
+  <data name="0038 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>真面目ぶってる、って意味よ
+ただの、キョンのひがみね</value>
+  </data>
+  <data name="0039 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>後で説教しておかなくちゃ……</value>
+  </data>
+  <data name="0040 (205.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0041 (205.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>先程、こんなことを言われましたよ</value>
+  </data>
+  <data name="0042 (205.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕は“優等生”だと。呆れた顔で</value>
+  </data>
+  <data name="0043 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰に言われたの？　……って、一人
+しかいないわね。キョンでしょ</value>
+  </data>
+  <data name="0044 (205.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ。彼には僕が優等生に見える
+そうです。理由は不明ですが</value>
+  </data>
+  <data name="0045 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、そんな感じがしなくもないわ
+古泉くん真面目そうだもの</value>
+  </data>
+  <data name="0046 (205.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>真面目な人間が、こうして怪奇現象
+を追ったりはしないものですよ</value>
+  </data>
+  <data name="0047 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>確かにそうね。その通りだわ</value>
+  </data>
+  <data name="0048 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何の変哲もない優等生だったら
+ＳＯＳ団には必要ないもの</value>
+  </data>
+  <data name="0049 (205.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>恐れ入ります</value>
+  </data>
+  <data name="0050 (205.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんにそう言って頂けるのは
+実に嬉しいものです</value>
+  </data>
+  <data name="0051 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それにしても、キョンはどうして
+そんなことを言ったのかしら</value>
+  </data>
+  <data name="0052 (205.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕が、すんなりと先生から音楽室の
+カギを借りてみせたからでしょうね</value>
+  </data>
+  <data name="0053 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それだけで優等生なの？</value>
+  </data>
+  <data name="0054 (205.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>教師受けがいい、という点において
+確かに優等生かもしれません</value>
+  </data>
+  <data name="0055 (205.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>実際には、そうでもないのですが</value>
+  </data>
+  <data name="0056 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、キョンのバカな決め付けは
+ともかく、カギの件は助かったわ</value>
+  </data>
+  <data name="0057 (205.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さすが古泉くんと褒めて
+あげましょう</value>
+  </data>
+  <data name="0058 (205.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>団長直々のお言葉、光栄です</value>
+  </data>
 </root>

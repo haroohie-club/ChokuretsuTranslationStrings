@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,125 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (040.ja) KYON (キョン)" xml:space="preserve">
+    <value>お前も見てたとは思うが……</value>
+  </data>
+  <data name="0001 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>見てた？　なにを？</value>
+  </data>
+  <data name="0002 (040.ja) KYON (キョン)" xml:space="preserve">
+    <value>バーベキューセットを借りることに
+成功したときのこと、覚えてるか？</value>
+  </data>
+  <data name="0003 (040.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんは、優しくも俺にタオル
+を貸してくださった</value>
+  </data>
+  <data name="0004 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、あの時のこと</value>
+  </data>
+  <data name="0005 (040.ja) KYON (キョン)" xml:space="preserve">
+    <value>一方のお前さんは、何も気遣いを
+見せてくれなかったな</value>
+  </data>
+  <data name="0006 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしもちゃんと、偉いわって
+褒め称えてあげたじゃないの</value>
+  </data>
+  <data name="0007 (040.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……ハルヒの中では、その一言が
+ねぎらいの気遣いだったらしいな</value>
+  </data>
+  <data name="0008 (040.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>たまには物質的な何かで表現して
+くれても罰はあたらんだろう？</value>
+  </data>
+  <data name="0009 (040.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>汗、かいてませんか？</value>
+  </data>
+  <data name="0010 (040.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>タオルありますから、いつでも
+言ってくださいね</value>
+  </data>
+  <data name="0011 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>準備がいいわね、みくるちゃん</value>
+  </data>
+  <data name="0012 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、まだ大丈夫。むしろ熱くなる
+のは、これからだわ！</value>
+  </data>
+  <data name="0013 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今夜はオールナイトで、怪奇現象を
+追い求めるんだから！</value>
+  </data>
+  <data name="0014 (040.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>や、やっぱり、そういう予定なんで
+すね……</value>
+  </data>
+  <data name="0015 (040.ja) NAGATO (長門)" xml:space="preserve">
+    <value>タオルなどの吸水性の高いもので
+汗をぬぐうのは重要</value>
+  </data>
+  <data name="0016 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、そのままじゃ風邪ひくこと
+もあるし</value>
+  </data>
+  <data name="0017 (040.ja) NAGATO (長門)" xml:space="preserve">
+    <value>汗がそのまま乾くと、皮膚に塩分
+が残り、悪影響が出る</value>
+  </data>
+  <data name="0018 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それに、そのままだと気持ち悪い
+じゃない？</value>
+  </data>
+  <data name="0019 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>タオルもいいけど、冷たいおしぼり
+なら、更に気持ちいいわよ</value>
+  </data>
+  <data name="0020 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>学校にそういうのって無いのかしら
+ね。気配りが足りてないわ</value>
+  </data>
+  <data name="0021 (040.ja) NAGATO (長門)" xml:space="preserve">
+    <value>気配り？</value>
+  </data>
+  <data name="0022 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ。そういった気配りは大切よ</value>
+  </data>
+  <data name="0023 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ＳＯＳ団だと、みくるちゃんが
+そういった気配りの達人だわ</value>
+  </data>
+  <data name="0024 (040.ja) NAGATO (長門)" xml:space="preserve">
+    <value>わかった</value>
+  </data>
+  <data name="0025 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何がわかったの？</value>
+  </data>
+  <data name="0026 (040.ja) NAGATO (長門)" xml:space="preserve">
+    <value>気配り</value>
+  </data>
+  <data name="0027 (040.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>真夏のバーベキューは、さすがに
+汗をかきましたね</value>
+  </data>
+  <data name="0028 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう？　古泉くんは、いつもと同じ
+涼しそうな顔してたじゃない</value>
+  </data>
+  <data name="0029 (040.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえいえ、いわゆるやせ我慢ですよ</value>
+  </data>
+  <data name="0030 (040.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんにタオルを借りていた彼
+を、少し羨ましく思いました</value>
+  </data>
+  <data name="0031 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは、すぐキョンを甘や
+かすから……</value>
+  </data>
+  <data name="0032 (040.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんなの、自分のシャツの裾ででも
+拭いておけばいいんだわ</value>
+  </data>
 </root>

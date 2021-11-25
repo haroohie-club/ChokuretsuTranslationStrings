@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,114 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (031.ja) KYON (キョン)" xml:space="preserve">
+    <value>そういえば、今日は便利なものを
+見たぞ</value>
+  </data>
+  <data name="0001 (031.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんが持っていた、キーホル
+ダーが実は小さな電卓だった</value>
+  </data>
+  <data name="0002 (031.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……それで？</value>
+  </data>
+  <data name="0003 (031.ja) KYON (キョン)" xml:space="preserve">
+    <value>買い物の計算に役立ったんだ。ま
+さかあの小ささで電卓だったとはな</value>
+  </data>
+  <data name="0004 (031.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あのねキョン。携帯電話に電卓機能
+くらい、ついてるでしょ</value>
+  </data>
+  <data name="0005 (031.ja) KYON (キョン)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0006 (031.ja) KYON (キョン)" xml:space="preserve">
+    <value>そういえば、そうだったよな</value>
+  </data>
+  <data name="0007 (031.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、そうだ
+こんなのがあるんですよ</value>
+  </data>
+  <data name="0008 (031.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにそれ？　キーホルダー？</value>
+  </data>
+  <data name="0009 (031.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、これ、こんなに小さいのに
+実は電卓なんです</value>
+  </data>
+  <data name="0010 (031.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>今日、買出しの計算をするときにも
+役に立ったんですよ～</value>
+  </data>
+  <data name="0011 (031.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へーえ。逆に小さすぎて使い難そう
+な感じもするけど……</value>
+  </data>
+  <data name="0012 (031.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>携帯電話の電卓機能じゃ、ダメだっ
+たの？</value>
+  </data>
+  <data name="0013 (031.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっと……</value>
+  </data>
+  <data name="0014 (031.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>機能があるのは知ってるんですけど
+どうやって呼び出すのか知らなくて</value>
+  </data>
+  <data name="0015 (031.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほどね。なんかみくるちゃん
+らしいわよね</value>
+  </data>
+  <data name="0016 (031.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これは、朝比奈みくるの所有する
+小型電子計算機</value>
+  </data>
+  <data name="0017 (031.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どれ？　これが計算機？　ふうん
+ずいぶんと小さいのね</value>
+  </data>
+  <data name="0018 (031.ja) NAGATO (長門)" xml:space="preserve">
+    <value>機能は四則演算に限定されている</value>
+  </data>
+  <data name="0019 (031.ja) NAGATO (長門)" xml:space="preserve">
+    <value>でも、朝比奈みくるは便利と言って
+いた</value>
+  </data>
+  <data name="0020 (031.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もしもの時には、あると役に立つ
+かもしれないわね</value>
+  </data>
+  <data name="0021 (031.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>けど今時、携帯電話にも電卓機能は
+ついてると思うけど</value>
+  </data>
+  <data name="0022 (031.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0023 (031.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんのキーホルダーは、もう
+ご覧になりましたか？</value>
+  </data>
+  <data name="0024 (031.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんのキーホルダー？</value>
+  </data>
+  <data name="0025 (031.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、小さな電卓になっているそう
+ですよ。買出しで活躍したそうです</value>
+  </data>
+  <data name="0026 (031.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん……</value>
+  </data>
+  <data name="0027 (031.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>買い物の計算くらいなら、暗算でも
+問題ないと思うけど</value>
+  </data>
+  <data name="0028 (031.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でもま、みくるちゃんらしいと言え
+ばみくるちゃんらしいわね</value>
+  </data>
+  <data name="0029 (031.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあいいわ。さあ、急ぎましょ</value>
+  </data>
 </root>

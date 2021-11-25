@@ -249,7 +249,7 @@ Do you want to proceed?</value>
     <value>Dialogue Skipping</value>
   </data>
   <data name="0096 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Puzzle Parts</value>
+    <value>Puzzle Event Skipping</value>
   </data>
   <data name="0097 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Topic Stock Mode</value>
@@ -264,7 +264,7 @@ Do you want to proceed?</value>
     <value>All obtained topics usable　　　</value>
   </data>
   <data name="0099 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Dialogue to skip　　　</value>
+    <value>Dialogue skipping method　　　</value>
   </data>
   <data name="0108 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Skip already read</value>
