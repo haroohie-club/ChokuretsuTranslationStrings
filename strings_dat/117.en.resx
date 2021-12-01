@@ -309,4 +309,180 @@ Do you want to proceed?</value>
   <data name="0025 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>A conspiracy hidden in the pool?!　　　</value>
   </data>
+  <data name="0006 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Character Distribution</value>
+  </data>
+  <data name="0007 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Investigation Results</value>
+  </data>
+  <data name="0008 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Partner Selection</value>
+  </data>
+  <data name="0009 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Assign club members to their activity.
+(Slide the icons)</value>
+  </data>
+  <data name="0035 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Save your current progress?
+If you don't save, you will return to the
+title screen and your progress won't be
+reflected in the extras or clear info.</value>
+  </data>
+  <data name="0036 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Save?</value>
+  </data>
+  <data name="0037 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>This will overwrite your save.
+Are you sure?</value>
+  </data>
+  <data name="0038 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Loading.
+Do not turn off the power.</value>
+  </data>
+  <data name="0044 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Try again?</value>
+  </data>
+  <data name="0046 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Resetting save data.
+Do not turn off the power.</value>
+  </data>
+  <data name="0047 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Deleting all data.
+Do not turn off the power.</value>
+  </data>
+  <data name="0049 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Failed to write save data.
+Turn off the power, and
+reinsert the game card.</value>
+  </data>
+  <data name="0050 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Save data is damaged.
+　
+Resetting save data.
+Do not turn off the power.</value>
+  </data>
+  <data name="0051 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>System data is damaged.
+　
+Resetting system data.
+Do not turn off the power.</value>
+  </data>
+  <data name="0053 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Save data 2 is damaged.
+　
+Resetting save data 2.
+Do not turn off the power.</value>
+  </data>
+  <data name="0054 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Quicksave data is damaged.
+　
+Resetting quicksave data.
+Do not turn off the power.</value>
+  </data>
+  <data name="0055 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Who shall go with Haruhi?</value>
+  </data>
+  <data name="0056 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Kyon will go.</value>
+  </data>
+  <data name="0057 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Asahina will go.</value>
+  </data>
+  <data name="0058 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Nagato will go.</value>
+  </data>
+  <data name="0059 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Koizumi will go.</value>
+  </data>
+  <data name="0060 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Who will deal with the abnormal space?</value>
+  </data>
+  <data name="0061 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Leave it to Asahina.</value>
+  </data>
+  <data name="0063 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Leave it to Koizumi.</value>
+  </data>
+  <data name="0109 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Well then…
+What should I do?</value>
+  </data>
+  <data name="0116 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>A Suzumiya Haruhi event was added to the extras.</value>
+  </data>
+  <data name="0117 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>An Asahina Mikuru event was added to the extras.</value>
+  </data>
+  <data name="0118 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>A Nagato Yuki event was added to the extras.</value>
+  </data>
+  <data name="0120 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>A Tsuruya event was added to the extras.</value>
+  </data>
+  <data name="0121 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>You collected all the Haruhi topics!
+An event image was added to the album.</value>
+  </data>
+  <data name="0123 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>You collected all the Nagato topics!
+An event image was added to the album.</value>
+  </data>
+  <data name="0124 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>You collected all the Koizumi topics!
+An event image was added to the album.</value>
+  </data>
+  <data name="0125 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>You collected all the main topics!
+An event image was added to the album.</value>
+  </data>
+  <data name="0127 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Congratulations!
+You have collected everything and reached 100% completion!</value>
+  </data>
+  <data name="0128 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Extras have become selectable from the title menu.</value>
+  </data>
+  <data name="0129 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>"Mystery girl" system voice was added under the sound config heading.</value>
+  </data>
+  <data name="0115 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Chess mode was added to the extras.</value>
+  </data>
+  <data name="0062 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Leave it to Nagato.</value>
+  </data>
+  <data name="0034 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Save your current progress?
+If you don't save, your progress won't be
+reflected in the extras or the game log.</value>
+  </data>
+  <data name="0048 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Failed to read save data.
+Turn off the power, and
+reinsert the game card.</value>
+  </data>
+  <data name="0052 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Save data 1 is damaged.
+　
+Resetting save data 1.
+Do not turn off the power.</value>
+  </data>
+  <data name="0111 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Reconsider the distribution.</value>
+  </data>
+  <data name="0112 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>Well then…
+What should I do?</value>
+  </data>
+  <data name="0119 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>A Koizumi Itsuki event was added to the extras.</value>
+  </data>
+  <data name="0122 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>You collected all the Mikuru topics!
+An event image was added to the album.</value>
+  </data>
+  <data name="0126 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>You cleared all the chess puzzles!
+An event image was added to the album.</value>
+  </data>
 </root>

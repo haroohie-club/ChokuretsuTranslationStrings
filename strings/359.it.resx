@@ -74,7 +74,7 @@
     <value>Non appena Haruhi Suzumiya aprì bocca, mi trafisse con parole più radianti dei raggi del sole estivo.</value>
   </data>
   <data name="0005 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Ti è andato di volta il cervello dall'ultima volta che ci siamo visti?</value>
+    <value>Non hai fatto niente per tutto il tempo dall'ultima volta, non è vero?</value>
   </data>
   <data name="0006 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Dall'ultima volta? Non ci siamo mica parlati pochi giorni fa?</value>
@@ -143,7 +143,7 @@
     <value>Anche se sono passati pochi giorni, sentivo una certa nostalgia.</value>
   </data>
   <data name="0028 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Non sono affatto nostalgico.</value>
+    <value>Non ho affatto nostalgia.</value>
   </data>
   <data name="0029 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Anzi, non avvicinarti più di così, l'ambiente è già angusto e soffocante di suo.</value>
@@ -233,53 +233,43 @@
     <value>Ma sì, ascoltami.</value>
   </data>
   <data name="0058 (359.ja) TANIGUCHI (谷口)" xml:space="preserve">
-    <value>$8おまえんとこのお隣さん#W10…#W10…#W10ん？#W20
-いや、#W30$8正確には２つ隣だったか？</value>
+    <value>Voi e i vicini... della porta affianco? No, forse è più giusto dire a distanza di 2 porte?</value>
   </data>
   <data name="0059 (359.ja) TANIGUCHI (谷口)" xml:space="preserve">
-    <value>$10まあいいや、とにかくご近所に#W20
-$7コンピ研だったかがあるだろう</value>
+    <value>Comunque, il punto è che ciò che sto per dirti è successo vicino alla sala computer.</value>
   </data>
   <data name="0060 (359.ja) KYON (キョン)" xml:space="preserve">
-    <value>$10ああ、#W30あるにはあるが</value>
+    <value>Ah, è successo qualcosa.</value>
   </data>
   <data name="0061 (359.ja) TANIGUCHI (谷口)" xml:space="preserve">
-    <value>$10そこの連中が、学校で怪奇現象に
-遭遇したって騒いでたらしい</value>
+    <value>A quanto pare quelli lì han fatto storie perchè hanno visto fenomeni paranormali a scuola.</value>
   </data>
   <data name="0062 (359.ja) KYON (キョン)" xml:space="preserve">
-    <value>$014怪奇現象？</value>
+    <value>Fenomeni paranormali?</value>
   </data>
   <data name="0063 (359.ja) KYON (キョン)" xml:space="preserve">
-    <value>$10なんでまた、#W20俺に連絡をとるんだ？</value>
+    <value>Perchè me lo stai dicendo?</value>
   </data>
   <data name="0064 (359.ja) TANIGUCHI (谷口)" xml:space="preserve">
-    <value>$10え？#W20
-$8そういうの好きだろ、おまえ？</value>
+    <value>Cosa? Pensavo vi piacessero queste cose.</value>
   </data>
   <data name="0065 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>$10いや、#W40$8好きなのは俺じゃなくて#W20
-むしろ#W20…#W10…</value>
+    <value>No, non mi piacciono. Se non altro……</value>
   </data>
   <data name="0066 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$10怪奇現象#W30…#W20…#W10？$06　ねえ、キョン#W20
-今、#W20$8確かに#W20そう言ったわよね？</value>
+    <value>Fenomeni paranormali…… Ehi, Kyon, è ciò che hai appena detto, vero?</value>
   </data>
   <data name="0067 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>$9うっ#W10…#W10…#W10しまった#W10…#W10…#W10
-$12やっぱり聞かれてた#W20…#W10…</value>
+    <value>Uh…… Dannazione…… Ti ha beccato……</value>
   </data>
   <data name="0068 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$10怪奇現象！　#W30$8聞き捨てならない
-話題ね！　#W20詳しく説明しなさい！</value>
+    <value>Fenomeni naturali! Non possiamo far finta di niente! Dimmi tutto!</value>
   </data>
   <data name="0069 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>$10しばらく大した事件もなく#W10
-気が緩んでいたのかもしれない</value>
+    <value>Forse mi sono illuso perchè era da un po' che non succedeva niente.</value>
   </data>
   <data name="0070 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>$10とにかく、#W20後に俺は、#W20この間抜な
-失言を#W20激しく後悔することになる</value>
+    <value>In ogni caso, presto mi pentii della mia sciocca svista.</value>
   </data>
   <data name="0071 (359.ja) INFO (CHOICE)" xml:space="preserve">
     <value>A proposito di Haruhi</value>
