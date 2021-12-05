@@ -188,7 +188,7 @@
     <value>Off</value>
   </data>
   <data name="0105 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Unread</value>
+    <value>Unread only</value>
   </data>
   <data name="0106 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>On</value>
@@ -255,7 +255,7 @@ Do you want to proceed?</value>
     <value>Topic Stock Mode</value>
   </data>
   <data name="0098 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Toggle displaying all dialogue at once　　　</value>
+    <value>Toggle show all dialogue at once　　　</value>
   </data>
   <data name="0100 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Hopefully self-explanatory　　　</value>
@@ -440,10 +440,13 @@ An event image was added to the album.</value>
 You have collected everything and reached 100% completion!</value>
   </data>
   <data name="0128 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Extras have become selectable from the title menu.</value>
+    <value>Extras have become selectable from
+the title menu.</value>
   </data>
   <data name="0129 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>"Mystery girl" system voice was added under the sound config heading.</value>
+    <value>"Mystery girl" system voice
+was added under the
+sound config heading.</value>
   </data>
   <data name="0115 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Chess mode was added to the extras.</value>
@@ -484,5 +487,14 @@ An event image was added to the album.</value>
   <data name="0126 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>You cleared all the chess puzzles!
 An event image was added to the album.</value>
+  </data>
+  <data name="0110 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>#P08</value>
+  </data>
+  <data name="0113 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>#P07</value>
+  </data>
+  <data name="0114 (dat_117.ja) INFO (INFO)" xml:space="preserve">
+    <value>　＠、。．・：？！＿々ー―～…‘’“”（）《》「」『』－＝％☆♪</value>
   </data>
 </root>
