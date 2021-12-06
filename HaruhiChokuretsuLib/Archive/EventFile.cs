@@ -216,6 +216,10 @@ namespace HaruhiChokuretsuLib.Archive
                         {
                             continue;
                         }
+                        else
+                        {
+                            operatorActive = false;
+                        }
                     }
 
                     if (dialogueText[i] == '$')
