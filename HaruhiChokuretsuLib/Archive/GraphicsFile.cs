@@ -31,7 +31,7 @@ namespace HaruhiChokuretsuLib.Archive
             if (Encoding.ASCII.GetString(Data.Take(6).ToArray()) == "SHTXDS")
             {
                 Shtxds = true;
-                ImageTileForm = (TileForm)(BitConverter.ToInt16(decompressedData.Skip(0x06).Take(2).ToArray()));
+                ImageTileForm = (TileForm)BitConverter.ToInt16(decompressedData.Skip(0x06).Take(2).ToArray());
 
                 int paletteLength = 0x200;
                 if (ImageTileForm == TileForm.GBA_4BPP)
