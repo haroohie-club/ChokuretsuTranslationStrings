@@ -212,7 +212,7 @@ namespace HaruhiChokuretsuLib.Archive
                 {
                     if (operatorActive)
                     {
-                        if (dialogueText[i] >= '0' || dialogueText[i] <= '9')
+                        if (dialogueText[i] >= '0' && dialogueText[i] <= '9')
                         {
                             continue;
                         }
