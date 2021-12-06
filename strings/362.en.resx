@@ -134,7 +134,7 @@
     <value>Asahina had a curious look on her face.</value>
   </data>
   <data name="0027 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>She relented with a pained smile the moment she heard the name "Haruhi."</value>
+    <value>She relented with a pained smile the moment she heard Haruhi's name.</value>
   </data>
   <data name="0029 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Well, let's follow them…</value>
@@ -194,10 +194,10 @@
     <value>…Wait wait wait wait!</value>
   </data>
   <data name="0049 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>What on earth happened?!</value>
+    <value>No matter what, this is definitely strange!</value>
   </data>
   <data name="0050 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>An infinite corridor? I don't believe it!</value>
+    <value>No matter how much I walk, the corridor keeps going. I don't belive it!</value>
   </data>
   <data name="0051 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>I'd noticed that this wasn't a normal place.</value>
@@ -212,7 +212,7 @@
     <value>…What should I do?</value>
   </data>
   <data name="0055 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>If I keep walking, I'm going to waste my energy.</value>
+    <value>If I keep walking, I'm only going to waste my energy.</value>
   </data>
   <data name="0056 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>So much for my much-awaited summer vacation.</value>
@@ -392,7 +392,7 @@
     <value>It's possible.</value>
   </data>
   <data name="0116 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>Well, let's do it then.</value>
+    <value>Well, you can go ahead get it over and done with then.</value>
   </data>
   <data name="0117 (362.ja) NAGATO (長門)" xml:space="preserve">
     <value>It is not recommended.</value>
@@ -416,7 +416,7 @@
     <value>Will the original world become like this?</value>
   </data>
   <data name="0124 (362.ja) KYON (キョン)" xml:space="preserve">
-    <value>I don't understand the details, but it's a big nuisance to neighborhood, right?</value>
+    <value>I don't know the details, but it'll be a big nuisance to the neighborhood, right?</value>
   </data>
   <data name="0125 (362.ja) NAGATO (長門)" xml:space="preserve">
     <value>Yes.</value>
@@ -476,10 +476,10 @@
     <value>#DP</value>
   </data>
   <data name="0144 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>After hearing my words, Nagato turned and headed corner of the former classroom.</value>
+    <value>Having heard my words, Nagato turned and headed to the corner of the former classroom.</value>
   </data>
   <data name="0145 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Should I follow you?</value>
+    <value>You want me to follow you, right?</value>
   </data>
   <data name="0146 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Nagato stopped in front of the cleaning supplies locker.</value>
@@ -491,7 +491,7 @@
     <value>Wipe with this.</value>
   </data>
   <data name="0149 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>I took the mop.</value>
+    <value>I took the mop she handed me without complaining, but…</value>
   </data>
   <data name="0150 (362.ja) KYON (キョン)" xml:space="preserve">
     <value>Where?</value>
@@ -503,10 +503,10 @@
     <value>Certainly the place to wipe with a mop is the floor.</value>
   </data>
   <data name="0153 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>This isn't just any mop, though. It's specially made by Nagato.</value>
+    <value>This wasn't just any mop, though. It was specially made by Nagato.</value>
   </data>
   <data name="0154 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>There is no other way. I do what Nagato says.</value>
+    <value>There was no other way. I did as Nagato said.</value>
   </data>
   <data name="0155 (362.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04Would you like to play the tutorial for the puzzle part?</value>
@@ -515,16 +515,16 @@
     <value>I erased the singularity as instructed by Nagato.</value>
   </data>
   <data name="0157 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>However, something went wrong when some singularities were wiped off.</value>
+    <value>However, as some of the singularities were extinguished, something abnormal occurred.</value>
   </data>
   <data name="0158 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>An unknown force pulled my body.</value>
+    <value>I felt an unknown known force pull on my body.</value>
   </data>
   <data name="0159 (362.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>The next moment I was in the original corridor.</value>
   </data>
   <data name="0160 (362.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04The tutorial for the puzzle part will start.</value>
+    <value>#P04Now starting the tutorial for the puzzle part.</value>
   </data>
   <data name="0161 (362.ja) INFO (CHOICE)" xml:space="preserve">
     <value>Skip tutorial</value>
