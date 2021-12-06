@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,262 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9遅いわよキョン！#W20
+今日もあんたのオゴリに決定ね！</value>
+  </data>
+  <data name="0001 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10照りつける太陽と#W20足元を焦がすアス
+ファルトの熱とに</value>
+  </data>
+  <data name="0002 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$8まるでオーブンレンジのように#W20上下
+から焼かれながらも</value>
+  </data>
+  <data name="0003 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10半ば命がけで、#W20$9この駅前の喫茶店へ
+やってきた俺に</value>
+  </data>
+  <data name="0004 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10開口一番、#W50$9涼宮ハルヒは#W40夏の日差し
+よりも突き刺さる言葉を放った</value>
+  </data>
+  <data name="0005 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8しばらく会わないうちに、気が
+緩んだんじゃないの？</value>
+  </data>
+  <data name="0006 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$9しばらくって、#W50俺が会わなかったの
+は、#W10わずか数日の話だろう</value>
+  </data>
+  <data name="0007 (359.ja) MIKURU (朝比奈)" xml:space="preserve">
+    <value>$9おひさしぶりです、キョンくん#W10
+お元気でしたか？</value>
+  </data>
+  <data name="0008 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10ええ、#W20元気ですよ</value>
+  </data>
+  <data name="0009 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$7朝比奈さんもお変わりないようです
+ね</value>
+  </data>
+  <data name="0010 (359.ja) MIKURU (朝比奈)" xml:space="preserve">
+    <value>$10ふふふ。#W20そうでもないですよ#W10
+少し日に焼けちゃいましたし</value>
+  </data>
+  <data name="0011 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10俺の目には#W30以前のままの#W10透き通るよ
+うな白い肌に見える</value>
+  </data>
+  <data name="0012 (359.ja) MIKURU (朝比奈)" xml:space="preserve">
+    <value>$10あ、あと、#W20鶴屋さんと一緒に宿題を
+やったりしました</value>
+  </data>
+  <data name="0013 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10宿題#W10…#W10…#W10ですか</value>
+  </data>
+  <data name="0014 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10よく考えてみたら、#W20俺はほとんど
+手をつけてない</value>
+  </data>
+  <data name="0015 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$9まあ、#W20夏休みの宿題なんてものは#W30
+残り一週間で片づけりゃ――</value>
+  </data>
+  <data name="0016 (359.ja) NAGATO (長門)" xml:space="preserve">
+    <value>$10元気？</value>
+  </data>
+  <data name="0017 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10長門#W20…#W10…#W10お、#W20おお</value>
+  </data>
+  <data name="0018 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10珍しく声をかけてきたかと思ったら#W20
+$9会話の弾みようもない挨拶だな#W20長門</value>
+  </data>
+  <data name="0019 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10長門、#W50$8おまえはここしばらくは
+何をしてたんだ？</value>
+  </data>
+  <data name="0020 (359.ja) NAGATO (長門)" xml:space="preserve">
+    <value>$10別に、#W20なにも</value>
+  </data>
+  <data name="0021 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10いや、なにもって#W10…#W10…#W10
+$8いくらなんでもなにかあるだろ？</value>
+  </data>
+  <data name="0022 (359.ja) NAGATO (長門)" xml:space="preserve">
+    <value>$10……読書</value>
+  </data>
+  <data name="0023 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10わかった。#W30俺が悪かった</value>
+  </data>
+  <data name="0024 (359.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$10みなさん#W30相変わらずですね</value>
+  </data>
+  <data name="0025 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10そう言う古泉、#W30$9おまえも
+爽やかな笑顔を無駄に振りまくな</value>
+  </data>
+  <data name="0026 (359.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$8お待ちしていましたよ</value>
+  </data>
+  <data name="0027 (359.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>$9ほんの数日会わなかっただけなのに#W40
+どこか#W20懐かしい気がします</value>
+  </data>
+  <data name="0028 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$11俺は別に懐かしくなどない</value>
+  </data>
+  <data name="0029 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$8それよりあんまりくっつくな#W40
+$9ただでさえ狭くて暑苦しいんだ</value>
+  </data>
+  <data name="0030 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10全員揃ったし、#W20早速ＳＯＳ団の
+報告会を始めましょうか</value>
+  </data>
+  <data name="0031 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$12報告会だと？</value>
+  </data>
+  <data name="0032 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8家族で旅行に行ってたんでしょ？</value>
+  </data>
+  <data name="0033 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$8旅先で#W20何かおもしろい体験しなかっ
+たの？</value>
+  </data>
+  <data name="0034 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10子細漏らさず#W10報告しなさい</value>
+  </data>
+  <data name="0035 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10旅行ってわけじゃないんだが……</value>
+  </data>
+  <data name="0036 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$9別におもしろい体験なんてないぞ</value>
+  </data>
+  <data name="0037 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10他の３人は知らんがな</value>
+  </data>
+  <data name="0038 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9温泉旅館で殺人事件に巻き込まれ
+たりしなかったっていうの？</value>
+  </data>
+  <data name="0039 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10ない</value>
+  </data>
+  <data name="0040 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$9山奥の村で、恐怖の儀式を目撃して#W20
+村人と謎の化け物に追われたりは？</value>
+  </data>
+  <data name="0041 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10あるわけないだろ</value>
+  </data>
+  <data name="0042 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10相変わらずつまらない夏休みを
+過ごしてるわね</value>
+  </data>
+  <data name="0043 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10そんなだから、未だにヒラ団員の
+ままなのよ</value>
+  </data>
+  <data name="0044 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10もっと広く視野を持ちなさい</value>
+  </data>
+  <data name="0045 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10大きなお世話だ</value>
+  </data>
+  <data name="0046 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10数日ぶりに、#W20いつもの喫茶店に
+集まった#W10ＳＯＳ団の面々……</value>
+  </data>
+  <data name="0047 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10そこへかかってきた一本の電話が</value>
+  </data>
+  <data name="0048 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10よもや、#W20あんな事態を巻き起こす
+とは……</value>
+  </data>
+  <data name="0049 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10この時はまだ、#W30誰も予想して
+いなかっただろう</value>
+  </data>
+  <data name="0050 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$7ああ、すまん。#W30電話だ</value>
+  </data>
+  <data name="0051 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10こらぁ！　キョン！
+大事な会議中なのよ！</value>
+  </data>
+  <data name="0052 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10だから、#W20$8すまんと言っただろうが#W20
+$8…#W10…#W10はい、もしもし？</value>
+  </data>
+  <data name="0053 (359.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>$10おうキョン、俺だ！</value>
+  </data>
+  <data name="0054 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10なんだ、谷口か#W20…#W20…#W30切るぞ？</value>
+  </data>
+  <data name="0055 (359.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>$10って、おい！　切るなよ！</value>
+  </data>
+  <data name="0056 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$9目の前に呪殺しようかというくらい
+ニラんでくるやつがいるんだが</value>
+  </data>
+  <data name="0057 (359.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>$10まあ、いいから聞けって</value>
+  </data>
+  <data name="0058 (359.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>$8おまえんとこのお隣さん#W10…#W10…#W10ん？#W20
+いや、#W30$8正確には２つ隣だったか？</value>
+  </data>
+  <data name="0059 (359.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>$10まあいいや、とにかくご近所に#W20
+$7コンピ研だったかがあるだろう</value>
+  </data>
+  <data name="0060 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10ああ、#W30あるにはあるが</value>
+  </data>
+  <data name="0061 (359.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>$10そこの連中が、学校で怪奇現象に
+遭遇したって騒いでたらしい</value>
+  </data>
+  <data name="0062 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$014怪奇現象？</value>
+  </data>
+  <data name="0063 (359.ja) KYON (キョン)" xml:space="preserve">
+    <value>$10なんでまた、#W20俺に連絡をとるんだ？</value>
+  </data>
+  <data name="0064 (359.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>$10え？#W20
+$8そういうの好きだろ、おまえ？</value>
+  </data>
+  <data name="0065 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10いや、#W40$8好きなのは俺じゃなくて#W20
+むしろ#W20…#W10…</value>
+  </data>
+  <data name="0066 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10怪奇現象#W30…#W20…#W10？$06　ねえ、キョン#W20
+今、#W20$8確かに#W20そう言ったわよね？</value>
+  </data>
+  <data name="0067 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$9うっ#W10…#W10…#W10しまった#W10…#W10…#W10
+$12やっぱり聞かれてた#W20…#W10…</value>
+  </data>
+  <data name="0068 (359.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>$10怪奇現象！　#W30$8聞き捨てならない
+話題ね！　#W20詳しく説明しなさい！</value>
+  </data>
+  <data name="0069 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10しばらく大した事件もなく#W10
+気が緩んでいたのかもしれない</value>
+  </data>
+  <data name="0070 (359.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>$10とにかく、#W20後に俺は、#W20この間抜な
+失言を#W20激しく後悔することになる</value>
+  </data>
+  <data name="0071 (359.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒについて</value>
+  </data>
 </root>

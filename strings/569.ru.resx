@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,162 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あっ！</value>
+  </data>
+  <data name="0001 (569.ja) KYON (キョン)" xml:space="preserve">
+    <value>ど、どうした？</value>
+  </data>
+  <data name="0002 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いま、そこをあたしそっくりな
+やつが通ったのよ！</value>
+  </data>
+  <data name="0003 (569.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだと……！？</value>
+  </data>
+  <data name="0004 (569.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それはまさか、ハルヒのコピーじゃ
+ないのか？</value>
+  </data>
+  <data name="0005 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>追いかけるわよ！</value>
+  </data>
+  <data name="0006 (569.ja) KYON (キョン)" xml:space="preserve">
+    <value>そりゃ、お前の姿が映り込んだだけ
+じゃないのか？</value>
+  </data>
+  <data name="0007 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなことないわよ、確かに見た
+んだもの</value>
+  </data>
+  <data name="0008 (569.ja) KYON (キョン)" xml:space="preserve">
+    <value>いいや、よく見ろ</value>
+  </data>
+  <data name="0009 (569.ja) KYON (キョン)" xml:space="preserve">
+    <value>外が暗いせいで、窓が鏡みたいに
+なったんだよ</value>
+  </data>
+  <data name="0010 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>む……</value>
+  </data>
+  <data name="0011 (569.ja) KYON (キョン)" xml:space="preserve">
+    <value>よくあるトリックだろう</value>
+  </data>
+  <data name="0012 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何言ってんのキョン</value>
+  </data>
+  <data name="0013 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなことぐらい、このあたしが
+気付かないとでも思ってるの？</value>
+  </data>
+  <data name="0014 (569.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんとか誤魔化せたな……</value>
+  </data>
+  <data name="0015 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今、そこにあたしそっくりな
+人影が……！</value>
+  </data>
+  <data name="0016 (569.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええっ！？</value>
+  </data>
+  <data name="0017 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>追いかけるわよ！</value>
+  </data>
+  <data name="0018 (569.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、それって！</value>
+  </data>
+  <data name="0019 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急に大きな声だして、どうしたの？</value>
+  </data>
+  <data name="0020 (569.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ま、窓ガラスに涼宮さんの姿が
+映っただけじゃないでしょうか</value>
+  </data>
+  <data name="0021 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>窓ガラスに……？</value>
+  </data>
+  <data name="0022 (569.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ほ、ほら、外暗いですし</value>
+  </data>
+  <data name="0023 (569.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>見間違えってこともあるかと</value>
+  </data>
+  <data name="0024 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>んー……言われてみればそうかも
+知れないわね</value>
+  </data>
+  <data name="0025 (569.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#P06ほっ……</value>
+  </data>
+  <data name="0026 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今、そこをあたしそっくりな人影が
+通らなかった？</value>
+  </data>
+  <data name="0027 (569.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0028 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……まあ、いいわ。とにかく追いか
+けてみましょ</value>
+  </data>
+  <data name="0029 (569.ja) NAGATO (長門)" xml:space="preserve">
+    <value>待って</value>
+  </data>
+  <data name="0030 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、有希？</value>
+  </data>
+  <data name="0031 (569.ja) NAGATO (長門)" xml:space="preserve">
+    <value>それは鏡像……あれを</value>
+  </data>
+  <data name="0032 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>外が真っ暗だから、窓ガラスに
+廊下の光景が映り込んでるのね</value>
+  </data>
+  <data name="0033 (569.ja) NAGATO (長門)" xml:space="preserve">
+    <value>つまり気のせい</value>
+  </data>
+  <data name="0034 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、有希が言うならそうかもね</value>
+  </data>
+  <data name="0035 (569.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0036 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>見た！？　古泉くんっ</value>
+  </data>
+  <data name="0037 (569.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>見た、と言いますと？</value>
+  </data>
+  <data name="0038 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そこにあたしそっくりな人が
+立ってたの！</value>
+  </data>
+  <data name="0039 (569.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それは……</value>
+  </data>
+  <data name="0040 (569.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おそらく窓ガラスに映り込んだ
+鏡像ではないかと</value>
+  </data>
+  <data name="0041 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>鏡像……？</value>
+  </data>
+  <data name="0042 (569.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ガラスを隔てた内と外で明るさが
+極端に違う場合</value>
+  </data>
+  <data name="0043 (569.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>鏡のような効果を及ぼすのはご存じ
+かと思います</value>
+  </data>
+  <data name="0044 (569.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おそらくそのせいではないかと</value>
+  </data>
+  <data name="0045 (569.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>んー……古泉君がそう言うなら
+そうかもしれないわね</value>
+  </data>
+  <data name="0046 (569.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ご理解いただけて光栄です</value>
+  </data>
 </root>

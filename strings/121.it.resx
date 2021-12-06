@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,33 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (121.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さぁ、次の問題よ！</value>
+  </data>
+  <data name="0001 (121.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>この程度の問題ちゃっちゃと解きな
+さいよ！</value>
+  </data>
+  <data name="0002 (121.ja) INFO (インフォ)" xml:space="preserve">
+    <value>時間内に４手で“チェックメイト”
+してください</value>
+  </data>
+  <data name="0003 (121.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>正解だわ！　ま、この程度の問題
+なら当たり前よね！</value>
+  </data>
+  <data name="0004 (121.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>んもう、そうじゃないでしょ！</value>
+  </data>
+  <data name="0005 (121.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう一度古泉くんに教授して
+もらった方がいいんじゃない？</value>
+  </data>
+  <data name="0006 (121.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>この問題では不要です　（仮）</value>
+  </data>
+  <data name="0007 (121.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これは表示されません
+（仮）</value>
+  </data>
 </root>

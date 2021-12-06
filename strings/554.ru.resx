@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,148 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今、プールの方が光らなかった！？</value>
+  </data>
+  <data name="0001 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ここからじゃよく見えないわね
+とにかく急ぎましょ！</value>
+  </data>
+  <data name="0002 (554.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今、ハルヒの気をそらさないと
+もう一度見られたら完全にアウトだ</value>
+  </data>
+  <data name="0003 (554.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……そうだ！　確か、コンビニで
+買ったビーチボールが……</value>
+  </data>
+  <data name="0004 (554.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、ハルヒ！</value>
+  </data>
+  <data name="0005 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれ……今、何か跳ねて
+いかなかった？</value>
+  </data>
+  <data name="0006 (554.ja) KYON (キョン)" xml:space="preserve">
+    <value>あ、ああ、俺も見たぞ</value>
+  </data>
+  <data name="0007 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何かしら……？</value>
+  </data>
+  <data name="0008 (554.ja) KYON (キョン)" xml:space="preserve">
+    <value>怪奇現象かもしれないな</value>
+  </data>
+  <data name="0009 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>気になるわね。ちょっと調べる
+わよ</value>
+  </data>
+  <data name="0010 (554.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>よし、プールの光を見られなくて
+すんだぞ</value>
+  </data>
+  <data name="0012 (554.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#P06えと、えと……ど、どうしたら……
+あっ！？　そ、そうだ</value>
+  </data>
+  <data name="0013 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっとみくるちゃんも見なさいよ
+今、確かにプールが……</value>
+  </data>
+  <data name="0014 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……みくるちゃん？</value>
+  </data>
+  <data name="0015 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いきなりビーチボールを投げつける
+なんて、どうしたの？</value>
+  </data>
+  <data name="0016 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ドッヂボールでも始めるつもり
+なの？</value>
+  </data>
+  <data name="0017 (554.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0えっと、そ、その……</value>
+  </data>
+  <data name="0018 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これは宣戦布告と見ていいわね？
+なら、容赦しないわ！　いくわよ！</value>
+  </data>
+  <data name="0019 (554.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0ひ、ひぇぇぇっ！？
+ち、違いますうぅ……</value>
+  </data>
+  <data name="0020 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと、有希もこっち来て
+見てみなさいよ</value>
+  </data>
+  <data name="0021 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さっき、確かにプールが光って
+たんだから</value>
+  </data>
+  <data name="0022 (554.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0023 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……なに？　なんでビーチボール
+を投げつけてくるの？</value>
+  </data>
+  <data name="0024 (554.ja) NAGATO (長門)" xml:space="preserve">
+    <value>プールで使う予定</value>
+  </data>
+  <data name="0025 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それ、答えになってないわよ</value>
+  </data>
+  <data name="0026 (554.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0027 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、とにかくどっかに転がって
+行ったから拾いに行かなきゃ</value>
+  </data>
+  <data name="0028 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その辺に転がしておくわけにも
+いかないわ</value>
+  </data>
+  <data name="0029 (554.ja) NAGATO (長門)" xml:space="preserve">
+    <value>分かった</value>
+  </data>
+  <data name="0030 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さっき、確かに光ったような
+気がするのよ</value>
+  </data>
+  <data name="0031 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん、ここからじゃよく
+見えないわね</value>
+  </data>
+  <data name="0032 (554.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>仕方ありませんね……</value>
+  </data>
+  <data name="0033 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あれ？　今、何か飛んで
+行かなかった？</value>
+  </data>
+  <data name="0034 (554.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おや、そうですか？</value>
+  </data>
+  <data name="0035 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよ、なんか軽いものがポーン
+ポーンって跳ねてったわ</value>
+  </data>
+  <data name="0036 (554.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕は気づきませんでしたが</value>
+  </data>
+  <data name="0037 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>おかしいわねえ……</value>
+  </data>
+  <data name="0038 (554.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それでは、そちらの方を調べてみま
+しょうか</value>
+  </data>
+  <data name="0039 (554.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、気になるから見てみま
+しょう</value>
+  </data>
+  <data name="0040 (554.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>#P06……やれやれ、なんとか誤魔化せた
+ようですね</value>
+  </data>
 </root>

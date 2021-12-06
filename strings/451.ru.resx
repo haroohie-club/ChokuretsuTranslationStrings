@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,1609 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>全員いるわね！？
+さあ、バーベキューを始めるわよ！</value>
+  </data>
+  <data name="0001 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんなハルヒの宣言で、俺たちの
+バーベキューパーティーは始まった</value>
+  </data>
+  <data name="0003 (451.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>おっ、これはなかなか豪勢だねっ</value>
+  </data>
+  <data name="0004 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>お肉だけじゃなくてお野菜も食べて
+くださいね</value>
+  </data>
+  <data name="0005 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>はあ～い</value>
+  </data>
+  <data name="0006 (451.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>なあ、これ全部食っていいのか！？</value>
+  </data>
+  <data name="0007 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたたちはついでなんだから
+分をわきまえなさいよ！</value>
+  </data>
+  <data name="0008 (451.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>おいキョン！
+きちんとしつけをしろと言っただろ</value>
+  </data>
+  <data name="0009 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>知るか
+俺はハルヒの保護者じゃない</value>
+  </data>
+  <data name="0010 (451.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>こういうのも結構楽しいもんだね</value>
+  </data>
+  <data name="0011 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>と、いざバーベキューが始まって
+しまえば、</value>
+  </data>
+  <data name="0012 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>懸念など月の裏側まですっ飛んで
+いっちまうかのような盛況ぶりだ</value>
+  </data>
+  <data name="0013 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さん、新しいマキを持って来ま
+しょうか？</value>
+  </data>
+  <data name="0014 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>まだいい</value>
+  </data>
+  <data name="0015 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門はじっと火を見つめている
+そういやこいつは火の番だったな</value>
+  </data>
+  <data name="0016 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>確かにそれは与えられた仕事だが
+そんなに熱心だと食うヒマが無いぞ</value>
+  </data>
+  <data name="0017 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>大丈夫
+火の番は食べながらでも可能</value>
+  </data>
+  <data name="0018 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうか
+お前がそう言うならそうなんだろう</value>
+  </data>
+  <data name="0019 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希！　ちゃんと食べてる？</value>
+  </data>
+  <data name="0020 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョン、あんた時々有希と代わった
+げなさいよ</value>
+  </data>
+  <data name="0021 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、だからこうして様子を見に
+きたんだ</value>
+  </data>
+  <data name="0022 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ところであんたたち、今食べてる
+のはどの串？</value>
+  </data>
+  <data name="0023 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、今から新しいのを焼くところ
+だ</value>
+  </data>
+  <data name="0024 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふっふ～ん、じゃあ、あたしが作っ
+たスペシャル串を食べるといいわ！</value>
+  </data>
+  <data name="0025 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>スペシャルって、お前
+……なんだこりゃ</value>
+  </data>
+  <data name="0026 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒが持ってきた串には、用意さ
+れている食材が全種刺さっている</value>
+  </data>
+  <data name="0027 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>特製のフルコースよ</value>
+  </data>
+  <data name="0028 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これを食べればバーベキューを完全
+制覇したことになるんだから！</value>
+  </data>
+  <data name="0029 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>なるんだから、ってお前
+こんな巨大なものを食えるわけが</value>
+  </data>
+  <data name="0030 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>かして</value>
+  </data>
+  <data name="0031 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>食うのか！？</value>
+  </data>
+  <data name="0032 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門がいつもの無表情のままで、
+串を上から凄い勢いで平らげてゆく</value>
+  </data>
+  <data name="0033 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>せめてもうちょっと良く噛んで食べ
+た方が消化にいいんじゃないか？</value>
+  </data>
+  <data name="0034 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>大丈夫。噛んでる</value>
+  </data>
+  <data name="0035 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>そ、そうか</value>
+  </data>
+  <data name="0036 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>すごいわねー……この細い身体の
+どこに入っていくのかしら</value>
+  </data>
+  <data name="0037 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>などと言いながら長門の身体をなで
+るように触るハルヒ</value>
+  </data>
+  <data name="0038 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>お前は酔っぱらいの中年エロオヤジ
+か？</value>
+  </data>
+  <data name="0039 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>おいハルヒ、自分で作っておいて
+それはないんじゃないか？</value>
+  </data>
+  <data name="0040 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>大体、自分で刺して焼いたんだから
+自分で食えよ</value>
+  </data>
+  <data name="0041 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんなの全部食べきれるわけない
+じゃない</value>
+  </data>
+  <data name="0042 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんというワガママな奴だ
+付き合いきれん</value>
+  </data>
+  <data name="0043 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>呆れた俺はその場を離れ、朝比奈さ
+んたちの様子を見てみることにした</value>
+  </data>
+  <data name="0044 (451.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>いやあ～、うまい！　こんなうまい
+肉は久しぶりに食いました！</value>
+  </data>
+  <data name="0045 (451.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>あはは、大げさだねえ
+普通のお肉だと思うよ？</value>
+  </data>
+  <data name="0046 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですよ。あたしは串に刺し
+て焼いただけで……</value>
+  </data>
+  <data name="0047 (451.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>いやいやいや、お二人を前にすれば
+どんな料理も満漢全席ですよ！</value>
+  </data>
+  <data name="0048 (451.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>いやあ、ほんっとうにうまい！</value>
+  </data>
+  <data name="0049 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>谷口は力の抜けそうなおべんちゃら
+を叫びまくっていた</value>
+  </data>
+  <data name="0050 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>なにをひとりではしゃいでるんだ
+谷口のやつは</value>
+  </data>
+  <data name="0051 (451.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>まあ、許してあげてよ</value>
+  </data>
+  <data name="0052 (451.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>この夏はなんにも予定がないって
+ひとりでイジケてたからさ</value>
+  </data>
+  <data name="0053 (451.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>嬉しくてしょうがないんだよ</value>
+  </data>
+  <data name="0054 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>不憫なやつ……</value>
+  </data>
+  <data name="0055 (451.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>こんな時でもないと、女の子と
+接する機会がないんだよねぇ</value>
+  </data>
+  <data name="0056 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>国木田はなにげに辛辣だ</value>
+  </data>
+  <data name="0057 (451.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>あはは！　君たちはほんとにおもし
+ろいねえ。見てて飽きないや</value>
+  </data>
+  <data name="0058 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>鶴屋さんが大笑いしてからそう言う</value>
+  </data>
+  <data name="0059 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>別に漫才をしていたつもりなど毛頭
+ないのだが、</value>
+  </data>
+  <data name="0060 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺たちのやりとりは鶴屋さんの笑い
+のツボを的確に押しているらしい</value>
+  </data>
+  <data name="0061 (451.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>……ふう、笑いすぎてなんだか喉が
+渇いちゃったよ</value>
+  </data>
+  <data name="0062 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、じゃあなにか飲み物を持って
+来ますね</value>
+  </data>
+  <data name="0063 (451.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>ありがとっ。みくるはホントに気が
+利く子だねっ</value>
+  </data>
+  <data name="0065 (451.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>やー、キョンくん、君らはいつも
+こんな調子なのかい？</value>
+  </data>
+  <data name="0066 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>それは谷口のアホさがですか、それ
+ともＳＯＳ団がですか</value>
+  </data>
+  <data name="0067 (451.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>うーん、両方だよ、ということに
+しておいておくれ</value>
+  </data>
+  <data name="0068 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ、両方ともおおむねこんな感じ
+ではあります</value>
+  </data>
+  <data name="0069 (451.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>それは毎日楽しそうだなあ
+ハルにゃんの元気の秘訣を知ったよ</value>
+  </data>
+  <data name="0070 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>くれぐれも真似せんでくださいよ</value>
+  </data>
+  <data name="0071 (451.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>いやあ、あたしにはとてもとても</value>
+  </data>
+  <data name="0072 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>肩をすくめて鶴屋さんが笑う</value>
+  </data>
+  <data name="0073 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>確かにハルヒのマネをしようなんて
+考えるだけで恐ろしい</value>
+  </data>
+  <data name="0075 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>鶴屋さん、ウーロン茶で良かったで
+すよね？</value>
+  </data>
+  <data name="0076 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>　#SK0……ひゃうっ！？</value>
+  </data>
+  <data name="0077 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ペットボトルからお茶をつごうと
+走ってきた朝比奈さんが……</value>
+  </data>
+  <data name="0078 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そりゃもうマンガでも見ているかの
+ように俺の目の前ですっ転び――</value>
+  </data>
+  <data name="0079 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今まさに俺の頭の上に、焦げ茶色の
+液体が降り注がんとしている</value>
+  </data>
+  <data name="0080 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>……冷たいです、朝比奈さん</value>
+  </data>
+  <data name="0081 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふええっ！　たた大変ですぅ！</value>
+  </data>
+  <data name="0082 (451.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>ぶ……ぷ、ぷぷぷっ……！</value>
+  </data>
+  <data name="0083 (451.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>ほ、ほんとに……大したもんだよ
+君たちはさっ！</value>
+  </data>
+  <data name="0084 (451.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>あっはっはっは！</value>
+  </data>
+  <data name="0085 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>腹を抱え、濡れネズミの俺を
+指差して笑う鶴屋さん</value>
+  </data>
+  <data name="0087 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、なんの騒ぎ？</value>
+  </data>
+  <data name="0088 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……ってキョン、なんであんた
+びしょ濡れなわけ？</value>
+  </data>
+  <data name="0089 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>……不幸な事故だ</value>
+  </data>
+  <data name="0091 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はうう……あ、あたしが悪いんです
+ううう……</value>
+  </data>
+  <data name="0092 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どーせキョンがよからぬことでも
+しようとしたんでしょ？</value>
+  </data>
+  <data name="0093 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>自業自得だわ</value>
+  </data>
+  <data name="0094 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい待て、なんでそうなる</value>
+  </data>
+  <data name="0096 (451.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>ハルにゃんハルにゃん、実はさあ
+みくるが……</value>
+  </data>
+  <data name="0097 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>笑いをこらえながらハルヒに耳打ち
+する鶴屋さん</value>
+  </data>
+  <data name="0098 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふんふん……</value>
+  </data>
+  <data name="0099 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ぷ、ぷぷっ！
+なによそれ！　ばっかじゃない？</value>
+  </data>
+  <data name="0100 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>鶴屋さんから笑いが伝染して、
+今度はハルヒが俺を見て笑う</value>
+  </data>
+  <data name="0101 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>普通避けるとかなんとか、するじゃ
+ない？　なんで頭からかぶるのよ？</value>
+  </data>
+  <data name="0102 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>……俺も不思議だよ</value>
+  </data>
+  <data name="0103 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>答えると、とうとうハルヒと鶴屋さ
+んが同時に吹き出し、爆笑する</value>
+  </data>
+  <data name="0104 (451.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>あっはっはっは！</value>
+  </data>
+  <data name="0105 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あははははっ！</value>
+  </data>
+  <data name="0108 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え、ええと、タ、タオルは……</value>
+  </data>
+  <data name="0109 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そしておろおろする朝比奈さん</value>
+  </data>
+  <data name="0111 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺はと言えば、笑われておもしろい
+はずもなく仏頂面である</value>
+  </data>
+  <data name="0112 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だが、これはこれでいいのかもしれ
+ない</value>
+  </data>
+  <data name="0113 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こうやって大笑いして大騒ぎして、
+楽しい夏休みの一日が過ぎてゆく</value>
+  </data>
+  <data name="0114 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>バーベキューで腹一杯になった頃
+には日も暮れているだろう</value>
+  </data>
+  <data name="0115 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>みんなで星空でも眺めれば、ああ
+楽しかった、と解散もできるはずだ</value>
+  </data>
+  <data name="0116 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>紆余曲折はしたものの、ハルヒの
+気を学校から逸らす計画は、</value>
+  </data>
+  <data name="0117 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>結果的に成功を収めたと言っていい
+のではないだろうか</value>
+  </data>
+  <data name="0118 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんな風に考えていると
+つんつんと妹が俺の袖を引いた</value>
+  </data>
+  <data name="0119 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>ん、どうした？</value>
+  </data>
+  <data name="0120 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>キョンくぅん……</value>
+  </data>
+  <data name="0121 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺の袖をくじ引きのヒモのごとく
+ぐいぐいと引っ張りながら</value>
+  </data>
+  <data name="0122 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>片方の手ではしきりに目をこすって
+いる</value>
+  </data>
+  <data name="0123 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだ？　眠いのか？</value>
+  </data>
+  <data name="0124 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>うん……</value>
+  </data>
+  <data name="0125 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>考えてみれば、我が妹は朝からは
+しゃぎすぎだ</value>
+  </data>
+  <data name="0126 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そりゃ眠くもなるってもんだ</value>
+  </data>
+  <data name="0127 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>もう帰るか？</value>
+  </data>
+  <data name="0128 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>……んー</value>
+  </data>
+  <data name="0129 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ほとんど寝かかっている妹は、立っ
+たままふらふらと左右に揺れている</value>
+  </data>
+  <data name="0130 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今にもばったりいきそうだ</value>
+  </data>
+  <data name="0132 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの、妹ちゃん？</value>
+  </data>
+  <data name="0133 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>ご覧の通りだ</value>
+  </data>
+  <data name="0134 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>盛大に船をこぎ始めた妹が転覆して
+しまわないよう支えてやる</value>
+  </data>
+  <data name="0135 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、疲れちゃったのね</value>
+  </data>
+  <data name="0136 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>ごめんねぇ、ハルにゃん……
+ふわわ……</value>
+  </data>
+  <data name="0137 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいのよ、気にしなくて</value>
+  </data>
+  <data name="0139 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>後のことはあたしたちに任せて</value>
+  </data>
+  <data name="0140 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンは妹ちゃんを送ってあげ
+なさい</value>
+  </data>
+  <data name="0141 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>そのつもりだ</value>
+  </data>
+  <data name="0142 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こっちは適当にやっておくから</value>
+  </data>
+  <data name="0143 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、悪いな</value>
+  </data>
+  <data name="0145 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>ほら、おんぶしてやる</value>
+  </data>
+  <data name="0146 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>ありがと、キョンくんー……</value>
+  </data>
+  <data name="0147 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺はしゃがんで妹を背中に背負う</value>
+  </data>
+  <data name="0148 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あら、背負われたらあっという
+間に寝ちゃったわ</value>
+  </data>
+  <data name="0149 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>うふふ、可愛いですねぇ</value>
+  </data>
+  <data name="0150 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>もう寝ちまったのか？</value>
+  </data>
+  <data name="0152 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うん、ぐっすりって感じよ</value>
+  </data>
+  <data name="0153 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>電池切れか……</value>
+  </data>
+  <data name="0154 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>それじゃ、ちょっと家まで連れて
+帰ってくる</value>
+  </data>
+  <data name="0155 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいこと？　妹ちゃんを寝かし
+つけたら、すぐに戻ってくるのよ</value>
+  </data>
+  <data name="0156 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>片付けをサボろうって言ったって
+そうはいかないんだからね</value>
+  </data>
+  <data name="0157 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>片付けのことは気にしなくて
+いいんじゃなかったのか？</value>
+  </data>
+  <data name="0158 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>気兼ねしなくていいように
+あんたの分を残しとくって意味よ</value>
+  </data>
+  <data name="0159 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>へいへい……</value>
+  </data>
+  <data name="0161 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>生返事を返して、俺は立ち上がり
+妹を連れて家路についた――</value>
+  </data>
+  <data name="0162 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>さて、我が妹をおぶったまま
+駅まで行くのか……</value>
+  </data>
+  <data name="0163 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まあ、下り坂だからましか
+帰りで助かったぜ</value>
+  </data>
+  <data name="0164 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>って、ちょっとまて。こいつが
+寝たままじゃ自転車にも乗れねえ</value>
+  </data>
+  <data name="0165 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>駅からも歩きかよ。やれやれ</value>
+  </data>
+  <data name="0166 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>待ちなさい、キョン</value>
+  </data>
+  <data name="0167 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ん……？</value>
+  </data>
+  <data name="0168 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>おいハルヒ、わざわざ追いかけて
+くるなんて、何かあったのか？</value>
+  </data>
+  <data name="0169 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>別に、何もないわ</value>
+  </data>
+  <data name="0170 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃあなんだ？</value>
+  </data>
+  <data name="0171 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>まさか、わざわざ見送りにきた
+なんてわけじゃないだろうな</value>
+  </data>
+  <data name="0172 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしがついて行ってあげるわ</value>
+  </data>
+  <data name="0173 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>……は？</value>
+  </data>
+  <data name="0174 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、あたしも一緒に行くって
+言ってるのよ</value>
+  </data>
+  <data name="0175 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……幻聴だろうか</value>
+  </data>
+  <data name="0176 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしくは、何か魂胆があっての
+発言か……？</value>
+  </data>
+  <data name="0177 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まさか、人目がなくなったところで
+俺を闇討ちしようとか……</value>
+  </data>
+  <data name="0178 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>って、ハルヒが俺を亡き者にした
+ところでなんの得もないだろう</value>
+  </data>
+  <data name="0179 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さ、行くわよ</value>
+  </data>
+  <data name="0180 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>って、おいおい</value>
+  </data>
+  <data name="0181 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さっさと歩き出したハルヒを追う
+ように、慌てて歩きだした</value>
+  </data>
+  <data name="0182 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さて……</value>
+  </data>
+  <data name="0183 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>駅へと続く長い坂道を下り</value>
+  </data>
+  <data name="0184 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>早足でもなく、かといってゆっくり
+というわけでもない……</value>
+  </data>
+  <data name="0185 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんな微妙な足取りで俺たち３人は
+通学路を行く</value>
+  </data>
+  <data name="0186 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ちなみにハルヒはここまで一言も
+口をきいていない</value>
+  </data>
+  <data name="0187 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今も俺の２歩ばかり先を悠然と
+歩いている</value>
+  </data>
+  <data name="0188 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こうして見えるハルヒの背中が
+どこか不機嫌そうに見えるのは</value>
+  </data>
+  <data name="0189 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺の気のせいだろうか</value>
+  </data>
+  <data name="0190 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>夜になってもまだ蒸し暑いわね</value>
+  </data>
+  <data name="0191 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ベタベタして気持ち悪いったら
+ないわ</value>
+  </data>
+  <data name="0192 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やっと口を開いたかと思えば
+いきなりこれか</value>
+  </data>
+  <data name="0193 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>日本の夏ってのはそういうもんだ
+嫌なら帰って風呂に入ればいい</value>
+  </data>
+  <data name="0194 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そうすれば、この危険極まりない
+合宿も打ち切りってわけだ</value>
+  </data>
+  <data name="0195 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>シャワー浴びたとしても、学校まで
+戻ってるうちにまた汗かくじゃない</value>
+  </data>
+  <data name="0196 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういうのを本末転倒って言うのよ</value>
+  </data>
+  <data name="0197 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どうやらハルヒの脳内にはそのまま
+解散って選択肢は存在しないらしい</value>
+  </data>
+  <data name="0198 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、キョン</value>
+  </data>
+  <data name="0199 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだ？</value>
+  </data>
+  <data name="0200 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>幽霊って、いると思う？</value>
+  </data>
+  <data name="0201 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>また唐突だな</value>
+  </data>
+  <data name="0202 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたはどう思ってるの？</value>
+  </data>
+  <data name="0203 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>どう思うと言われてもな……</value>
+  </data>
+  <data name="0204 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは、死んだらはいそれまで
+っていうのは納得いかないのよね</value>
+  </data>
+  <data name="0205 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どんなに頑張ったって、人間は
+１００年くらいしか生きられない</value>
+  </data>
+  <data name="0206 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、それじゃ足りないと
+思わない？</value>
+  </data>
+  <data name="0207 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だいたい、心臓が止まったくらいで
+お終いなんて納得いかないわ</value>
+  </data>
+  <data name="0208 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>だから、幽霊がいるって言うのか？
+無茶を言うな、無茶を</value>
+  </data>
+  <data name="0209 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だって、そっちの方がおもしろい
+じゃない！</value>
+  </data>
+  <data name="0210 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>また、ハルヒお得意の理論が
+出やがった。いや、価値観か？</value>
+  </data>
+  <data name="0211 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まあ、俺だって多少は納得いかん
+気もする</value>
+  </data>
+  <data name="0212 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>人生の半分以上を労働と勉強に消費
+して</value>
+  </data>
+  <data name="0213 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やっと解放されたかと思えば、余命
+いくばくもない……</value>
+  </data>
+  <data name="0214 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんとも理不尽な話だ</value>
+  </data>
+  <data name="0215 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いっそ、幽霊にでもなって暢気に
+過ごしたいと思うヤツもいるさ</value>
+  </data>
+  <data name="0216 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……いや、この場合は死んでるのか</value>
+  </data>
+  <data name="0217 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>ん～……ここどこぉ……？</value>
+  </data>
+  <data name="0218 (451.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あら、妹ちゃん起きちゃった</value>
+  </data>
+  <data name="0219 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>気づけば、いつの間にか我が家の
+近くまで来ていた。ちょうど良い</value>
+  </data>
+  <data name="0220 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>ほら、家に到着だ</value>
+  </data>
+  <data name="0221 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>んー……</value>
+  </data>
+  <data name="0222 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まだ頭のはっきりしない妹を
+親に押しつけ</value>
+  </data>
+  <data name="0223 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ウーロン茶で濡れてしまったシャツ
+を着替えたあと</value>
+  </data>
+  <data name="0224 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺たちは学校へと戻っていった</value>
+  </data>
+  <data name="0226 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>行きとは違って、ハルヒは終始
+無言だ</value>
+  </data>
+  <data name="0227 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おかげで、なんとも居心地の悪い
+再登校を過ごしたのだった</value>
+  </data>
+  <data name="0229 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>本当は俺も妹のように寝ちまい
+たかったのだが……</value>
+  </data>
+  <data name="0230 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そういうわけにもいくまい</value>
+  </data>
+  <data name="0231 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしそんなことをしたら、ハルヒに
+どんな仕打ちを受けるやら、だ</value>
+  </data>
+  <data name="0232 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>というわけで、妹を家に送り届けた
+後、再び空き地へと俺は戻ってきた</value>
+  </data>
+  <data name="0233 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ん？</value>
+  </data>
+  <data name="0234 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>誰もいない</value>
+  </data>
+  <data name="0235 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>何度見回しても、誰もいない</value>
+  </data>
+  <data name="0236 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>まさか……帰ってこいと言っておい
+て、自分たちは解散したのか？</value>
+  </data>
+  <data name="0237 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そりゃ、あんまりじゃないか</value>
+  </data>
+  <data name="0238 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>とりあえず……学校に戻ってみるか</value>
+  </data>
+  <data name="0239 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>待って、キョンくん！</value>
+  </data>
+  <data name="0240 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん……</value>
+  </data>
+  <data name="0241 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうしたんですか？</value>
+  </data>
+  <data name="0242 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっと……その、良かったら一緒に
+行ってもいいですか？</value>
+  </data>
+  <data name="0243 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんが、俺と？</value>
+  </data>
+  <data name="0244 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そりゃ願ってもない申し出だが……</value>
+  </data>
+  <data name="0245 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>大丈夫なんですか？</value>
+  </data>
+  <data name="0246 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんの立場上、ハルヒを
+ほっとくのは問題なんじゃ？</value>
+  </data>
+  <data name="0247 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えと、それは……</value>
+  </data>
+  <data name="0248 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>この場合は、もっと重要かつ緊急性
+の高い案件があるというか……</value>
+  </data>
+  <data name="0249 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>重要かつ緊急性の高い案件とは？</value>
+  </data>
+  <data name="0250 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、それは……禁則事項です</value>
+  </data>
+  <data name="0251 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>はぁ……</value>
+  </data>
+  <data name="0252 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>と、とにかくご一緒させてください</value>
+  </data>
+  <data name="0253 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんにここまで言われて</value>
+  </data>
+  <data name="0254 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>断るなんてことが俺にできるはずも
+なく……</value>
+  </data>
+  <data name="0256 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>妹さん、よーく眠ってますねぇ</value>
+  </data>
+  <data name="0257 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>ええ、よっぽど疲れたんだと
+思います</value>
+  </data>
+  <data name="0258 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>今日一日、ハルヒの後をずっと
+ついてまわってましたから</value>
+  </data>
+  <data name="0259 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>まったく、いったいあいつの何が
+そんなに気に入ったんだか</value>
+  </data>
+  <data name="0260 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、とっても面倒見がいい
+ですよね</value>
+  </data>
+  <data name="0261 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>それに、妹さんを子ども扱いしたり
+しないですから</value>
+  </data>
+  <data name="0262 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>それは単に、本人も子どもだって
+ことだと思いますよ</value>
+  </data>
+  <data name="0263 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>うふふ、そうかもしれませんね
+そこが涼宮さんの魅力かも</value>
+  </data>
+  <data name="0264 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>魅力ねぇ……
+俺にははた迷惑なだけに感じるが</value>
+  </data>
+  <data name="0265 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、キョンくん</value>
+  </data>
+  <data name="0266 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>え？</value>
+  </data>
+  <data name="0267 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>実は、キョンくんに言わないと
+いけないことがあって……</value>
+  </data>
+  <data name="0268 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺に伝えておきたいこと……？</value>
+  </data>
+  <data name="0269 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんだ？　まさか……愛の告白？
+いやいや待て待て、落ち着け</value>
+  </data>
+  <data name="0270 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、あたし……</value>
+  </data>
+  <data name="0271 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ゴク……</value>
+  </data>
+  <data name="0272 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>さ、さっきはごめんなさい！</value>
+  </data>
+  <data name="0273 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>へ……？</value>
+  </data>
+  <data name="0274 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>バーベキューの時に、転んでお茶を
+かけちゃったでしょ</value>
+  </data>
+  <data name="0275 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの時、ちゃんと謝れてなかった
+から……</value>
+  </data>
+  <data name="0276 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>あ、ああ……</value>
+  </data>
+  <data name="0277 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんだ、そんなことだったのか
+妙にドキドキしちまった</value>
+  </data>
+  <data name="0278 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ほんとにごめんなさい！</value>
+  </data>
+  <data name="0279 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>気にしないでください
+ほら、もうほとんど乾いてますし</value>
+  </data>
+  <data name="0280 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あれが熱いお茶だったら大変なこと
+になってたかもしれんが</value>
+  </data>
+  <data name="0281 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>幸いにしてただのウーロン茶で
+しかも今は夏真っ盛り</value>
+  </data>
+  <data name="0282 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こんなのは放っておけば、すぐに
+乾く</value>
+  </data>
+  <data name="0283 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それより、妙に期待してしまった分
+何とも言えない脱力感が……</value>
+  </data>
+  <data name="0284 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>んー……なぁにぃ……</value>
+  </data>
+  <data name="0285 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺の背中にしがみついていた妹が
+モゾモゾと動き出した</value>
+  </data>
+  <data name="0286 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、起こしちゃいましたね</value>
+  </data>
+  <data name="0287 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、朝比奈さんのせいじゃ……</value>
+  </data>
+  <data name="0288 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>あれぇ、キョンくんここどこぉ</value>
+  </data>
+  <data name="0289 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、もう家の近所だ</value>
+  </data>
+  <data name="0290 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえが寝ちまったから、ここまで
+おぶってきたんだ</value>
+  </data>
+  <data name="0291 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>んにゅ……すかー</value>
+  </data>
+  <data name="0292 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>って、もう寝てんのかよ</value>
+  </data>
+  <data name="0293 (451.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>寝言だったみたいですね</value>
+  </data>
+  <data name="0294 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やれやれ……</value>
+  </data>
+  <data name="0295 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まるで起きる気配のない妹を親に
+押しつけ、</value>
+  </data>
+  <data name="0296 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>シャツを着替えた後、俺たちは帰路
+についた</value>
+  </data>
+  <data name="0298 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>帰り道の朝比奈さんは、楽しげで
+俺も夜の散歩を満喫した</value>
+  </data>
+  <data name="0299 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>帰ってからのハルヒの文句とアヒル
+口には大いに辟易させられたが……</value>
+  </data>
+  <data name="0301 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>本当は俺も妹のように寝ちまい
+たかったのだが……</value>
+  </data>
+  <data name="0302 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そういうわけにもいくまい</value>
+  </data>
+  <data name="0303 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしそんなことをしたら、ハルヒに
+どんな仕打ちを受けるやら、だ</value>
+  </data>
+  <data name="0304 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>というわけで、妹を家に送り届けた
+後、再び空き地へと俺は戻ってきた</value>
+  </data>
+  <data name="0305 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ん？</value>
+  </data>
+  <data name="0306 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>誰もいない</value>
+  </data>
+  <data name="0307 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>何度見回しても、誰もいない</value>
+  </data>
+  <data name="0308 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>まさか……帰ってこいと言っておい
+て、自分たちは解散したのか？</value>
+  </data>
+  <data name="0309 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そりゃ、あんまりじゃないか</value>
+  </data>
+  <data name="0310 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>とりあえず……学校に戻ってみるか</value>
+  </data>
+  <data name="0311 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>待って</value>
+  </data>
+  <data name="0312 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>小さいわりに良く通る声に気付き
+振り返ると……長門がいた</value>
+  </data>
+  <data name="0313 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>どうした、長門？</value>
+  </data>
+  <data name="0314 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>一緒に行く</value>
+  </data>
+  <data name="0315 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>え？</value>
+  </data>
+  <data name="0317 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そう言うと長門はさっさと歩き出し
+５メートルほど行って立ち止まり</value>
+  </data>
+  <data name="0318 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0319 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>黙って俺の方をジッと見つめる</value>
+  </data>
+  <data name="0320 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>早く来いってことか……</value>
+  </data>
+  <data name="0321 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は、妹を抱え直すと、長門を
+追って歩き出した</value>
+  </data>
+  <data name="0323 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さて……</value>
+  </data>
+  <data name="0324 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>薄暗い夜道を女子と並んで歩くとい
+うのは実にレアな状況だろう</value>
+  </data>
+  <data name="0325 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だが少女マンガなどではありふれた
+ある種のお約束的シチュエーション</value>
+  </data>
+  <data name="0326 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いち男子高校生として突発的な胸の
+高鳴りなど感じてしかるべき――</value>
+  </data>
+  <data name="0327 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とは思うのだが……</value>
+  </data>
+  <data name="0328 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0329 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>相手が宇宙人の作ったアンドロイド
+となれば、それこそ話は別だ</value>
+  </data>
+  <data name="0330 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>少女マンガより少年マンガだろう</value>
+  </data>
+  <data name="0331 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さらに言えばＳＦ風味の
+ライトノベルあたりだ</value>
+  </data>
+  <data name="0332 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>なあ、長門、聞いてもいいか</value>
+  </data>
+  <data name="0333 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>なに</value>
+  </data>
+  <data name="0334 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえの仕事は、ハルヒの監視だか
+観察だかなんだろ？</value>
+  </data>
+  <data name="0335 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0336 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>だったら、俺よりハルヒの近くに
+いた方がいいんじゃないか？</value>
+  </data>
+  <data name="0337 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>必要だから</value>
+  </data>
+  <data name="0338 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>必要？</value>
+  </data>
+  <data name="0339 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0340 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いや、答えてくれよ……</value>
+  </data>
+  <data name="0341 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>気をつけて</value>
+  </data>
+  <data name="0342 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>え……？</value>
+  </data>
+  <data name="0343 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>気をつけるって、何にだ？</value>
+  </data>
+  <data name="0344 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>この先、サポートできない
+状況が発生する可能性が高い</value>
+  </data>
+  <data name="0345 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだって……？</value>
+  </data>
+  <data name="0346 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>その場合、対抗手段を保たない存在
+がもっとも危険度が高い</value>
+  </data>
+  <data name="0347 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>う……</value>
+  </data>
+  <data name="0348 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>確かにそうだ……</value>
+  </data>
+  <data name="0349 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>変人揃いのＳＯＳ団において、唯一
+俺だけが一般人であり</value>
+  </data>
+  <data name="0350 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>何かあった時に、対処できるかと
+言えば、答えはＮＯだ</value>
+  </data>
+  <data name="0351 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その点で言えば、朝比奈さんも
+同じような気がするが……</value>
+  </data>
+  <data name="0352 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まあ、彼女は何かしらの未来的技術
+で守られる可能性もあるわけで</value>
+  </data>
+  <data name="0353 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>なるほど。長門に言われたとおり
+気をつけておくよ</value>
+  </data>
+  <data name="0354 (451.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そうして</value>
+  </data>
+  <data name="0355 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>と言っても、注意しておくくらい
+しか対応がないんだがな</value>
+  </data>
+  <data name="0356 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>んー……ここどこぉ？</value>
+  </data>
+  <data name="0357 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>お、起きたか</value>
+  </data>
+  <data name="0358 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>見れば、いつの間にやら家の近く
+まで来ていた</value>
+  </data>
+  <data name="0359 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>もうすぐ家だ</value>
+  </data>
+  <data name="0360 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>帰ったら、ちゃんと歯を磨いて
+寝るんだぞ</value>
+  </data>
+  <data name="0361 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>んー……</value>
+  </data>
+  <data name="0362 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やれやれ、聞こえているのかね</value>
+  </data>
+  <data name="0363 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まるで起きる気配のない妹を親に
+押しつけ、</value>
+  </data>
+  <data name="0364 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ウーロン茶をかぶったシャツを着替
+えたあと、俺たちは帰路についた</value>
+  </data>
+  <data name="0366 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>帰り道、相変わらず無言の長門だが
+心なしか足取りが軽いように見えた</value>
+  </data>
+  <data name="0367 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……まあ、気のせいだろうけどな</value>
+  </data>
+  <data name="0369 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>本当は俺も妹のように寝ちまい
+たかったのだが……</value>
+  </data>
+  <data name="0370 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そういうわけにもいくまい</value>
+  </data>
+  <data name="0371 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしそんなことをしたら、ハルヒに
+どんな仕打ちを受けるやら、だ</value>
+  </data>
+  <data name="0372 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>というわけで、妹を家に送り届けた
+後、再び空き地へと俺は戻ってきた</value>
+  </data>
+  <data name="0373 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ん？</value>
+  </data>
+  <data name="0374 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>誰もいない</value>
+  </data>
+  <data name="0375 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>何度見回しても、誰もいない</value>
+  </data>
+  <data name="0376 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>まさか……帰ってこいと言っておい
+て、自分たちは解散したのか？</value>
+  </data>
+  <data name="0377 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そりゃ、あんまりじゃないか</value>
+  </data>
+  <data name="0378 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>とりあえず……学校に戻ってみるか</value>
+  </data>
+  <data name="0379 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>良かった、追いつけましたね</value>
+  </data>
+  <data name="0380 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ん、古泉か？</value>
+  </data>
+  <data name="0381 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>わざわざ追いかけてくるなんて
+何かあったのか？</value>
+  </data>
+  <data name="0382 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、そういうわけではありません</value>
+  </data>
+  <data name="0383 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>じゃあなんだ？</value>
+  </data>
+  <data name="0384 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>ただでさえ背中に重たいのが乗って
+るんだ</value>
+  </data>
+  <data name="0385 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>無駄に体力を使わせるなよ</value>
+  </data>
+  <data name="0386 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ですから、僕が手伝いますよ</value>
+  </data>
+  <data name="0387 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>は……？</value>
+  </data>
+  <data name="0388 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ご自宅まであなたひとりでおぶって
+帰るのは大変でしょうから</value>
+  </data>
+  <data name="0389 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕が交代要員としてご一緒させて
+いただきます</value>
+  </data>
+  <data name="0390 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>……いったい何を企んでる</value>
+  </data>
+  <data name="0391 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おや、それはどういう意味です？</value>
+  </data>
+  <data name="0392 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>どういう意味も何も、そのままだ</value>
+  </data>
+  <data name="0393 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕もなかなか信用がないですね</value>
+  </data>
+  <data name="0394 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>あるとでも思ってたのか</value>
+  </data>
+  <data name="0395 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ともかく、時間がもったいないです
+から、話は歩きながらにしませんか</value>
+  </data>
+  <data name="0396 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こいつ……結局、強引に事を進めや
+がった</value>
+  </data>
+  <data name="0398 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さて……</value>
+  </data>
+  <data name="0399 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>駅へと続く長い坂道を下り</value>
+  </data>
+  <data name="0400 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>早足でもなく、かといってゆっくり
+というわけでもない……</value>
+  </data>
+  <data name="0401 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんな微妙な足取りで俺たち３人は
+通学路を行く</value>
+  </data>
+  <data name="0402 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺の隣では、いつもの胡散臭い笑顔
+をうかべた古泉が歩いている</value>
+  </data>
+  <data name="0403 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>並んで歩くのが嫌だったので、時折
+早足で歩いてみたりもしたが</value>
+  </data>
+  <data name="0404 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>その度に、やつはわざわざ歩調を合
+せてくる</value>
+  </data>
+  <data name="0405 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そのうち、自分が疲れるだけだとい
+う不毛な事実に気づいてしまった</value>
+  </data>
+  <data name="0406 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>というわけで、観念した俺は古泉と
+夜の散歩をしているわけだ</value>
+  </data>
+  <data name="0407 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ずいぶんと涼しくなりましたね
+昼間の猛暑がウソのようです</value>
+  </data>
+  <data name="0408 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>そういうどうでもいい会話はいらん
+さっさと本題を言え</value>
+  </data>
+  <data name="0409 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>本題？　さて、なんのことでしょう</value>
+  </data>
+  <data name="0410 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>とぼけるな</value>
+  </data>
+  <data name="0411 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえがなんの理由もなくハルヒの
+側を離れるもんか</value>
+  </data>
+  <data name="0412 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……なるほど、確かに道理ですね</value>
+  </data>
+  <data name="0413 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>でしたら、あなたとゆっくり話がし
+たかった――</value>
+  </data>
+  <data name="0414 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>というのでは理由になりませんか？</value>
+  </data>
+  <data name="0415 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺とおまえがゆっくり話だと？</value>
+  </data>
+  <data name="0416 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>女性が過半数を占めるＳＯＳ団にお
+いて、我々はたった２人だけの男子</value>
+  </data>
+  <data name="0417 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>こうやって友情を育むのは当然のこ
+とではないでしょうか？</value>
+  </data>
+  <data name="0418 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハッキリ言うが、育みたくないぞ
+そんなもん</value>
+  </data>
+  <data name="0419 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんにとってのキーマンである
+あなたとは仲良くして損はない</value>
+  </data>
+  <data name="0420 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>むしろ、積極的に親密な関係を築く
+べきである――</value>
+  </data>
+  <data name="0421 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>今度はまたずいぶんと腹を割ったな</value>
+  </data>
+  <data name="0422 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>で、どっちが本音なんだ？</value>
+  </data>
+  <data name="0423 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕が個人的にあなたに興味があるの
+は本当ですよ</value>
+  </data>
+  <data name="0424 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>同時に、涼宮さんに関係する最重要
+人物であるということも</value>
+  </data>
+  <data name="0425 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>どちらがより重要かは決める必要は
+ないでしょう</value>
+  </data>
+  <data name="0426 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>また巧くはぐらかしやがった</value>
+  </data>
+  <data name="0427 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ところで、妹さんのおんぶを交代
+しましょうか？</value>
+  </data>
+  <data name="0428 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>いらん</value>
+  </data>
+  <data name="0429 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>だいたい、おまえに妹を預けるのは
+微妙に不安だ</value>
+  </data>
+  <data name="0430 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おや、意外に過保護ですね</value>
+  </data>
+  <data name="0431 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>もしかして、可愛い妹に他の男を近
+づけたくないということですか？</value>
+  </data>
+  <data name="0432 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>何を言いたいのかは分からんが
+妙な深読みをするな</value>
+  </data>
+  <data name="0433 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>確かに、妹さんは数年もすれば美し
+く成長されるでしょう</value>
+  </data>
+  <data name="0434 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>これは僕が保証します</value>
+  </data>
+  <data name="0435 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>せんでいい</value>
+  </data>
+  <data name="0436 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>街を歩けば、誰もが振り返らずには
+いられない――</value>
+  </data>
+  <data name="0437 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>兄という立場からすれば、嬉しいよ
+うな、どこか寂しいような……</value>
+  </data>
+  <data name="0438 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>実に複雑な心境でしょう</value>
+  </data>
+  <data name="0439 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>よーく分かった、おまえは俺をから
+かってるんだな</value>
+  </data>
+  <data name="0440 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>とりあえず、俺の視界に入らない
+とこまで消えてくれ</value>
+  </data>
+  <data name="0441 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おや、怒らせてしまいましたか</value>
+  </data>
+  <data name="0442 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>怒ってなどいない</value>
+  </data>
+  <data name="0443 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ただちょっと、おまえを橋の上から
+川に放り込みたいと思っただけだ</value>
+  </data>
+  <data name="0444 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>ん～……ここどこぉ……？</value>
+  </data>
+  <data name="0445 (451.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おや、妹さんが起きてしまった
+ようですね</value>
+  </data>
+  <data name="0446 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>むぅ、遅かったか</value>
+  </data>
+  <data name="0447 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>気づけば、いつの間にか我が家の
+近くまで来ていた</value>
+  </data>
+  <data name="0448 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>ほら、家に到着だ</value>
+  </data>
+  <data name="0449 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>んー……</value>
+  </data>
+  <data name="0450 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まだ頭のはっきりしない妹を
+親に押しつけ</value>
+  </data>
+  <data name="0451 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ウーロン茶を浴びたシャツを
+着替えたのち</value>
+  </data>
+  <data name="0452 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺たちは学校へと戻っていった</value>
+  </data>
+  <data name="0454 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺の報復を恐れたのか、古泉は
+行きよりも心なしか歩調が早かった</value>
+  </data>
+  <data name="0456 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>本当は俺も妹のように寝ちまい
+たかったのだが……</value>
+  </data>
+  <data name="0457 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そういうわけにもいくまい</value>
+  </data>
+  <data name="0458 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしそんなことをしたら、ハルヒに
+どんな仕打ちを受けるやら、だ</value>
+  </data>
+  <data name="0459 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>というわけで、妹を家に送り届けた
+後、再び空き地へと俺は戻ってきた</value>
+  </data>
+  <data name="0460 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ん？</value>
+  </data>
+  <data name="0461 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>誰もいない</value>
+  </data>
+  <data name="0462 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>何度見回しても、誰もいない</value>
+  </data>
+  <data name="0463 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>まさか……帰ってこいと言っておい
+て、自分たちは解散したのか？</value>
+  </data>
+  <data name="0464 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そりゃ、あんまりじゃないか</value>
+  </data>
+  <data name="0465 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>とりあえず……学校に戻ってみるか</value>
+  </data>
+  <data name="0466 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>すっかり眠り込んだ妹を背に
+俺は家路へとついた</value>
+  </data>
+  <data name="0467 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>しかし……いつの間にか、ずいぶん
+重くなりやがって……</value>
+  </data>
+  <data name="0468 (451.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>すー……すー……</value>
+  </data>
+  <data name="0469 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ったく、のんきなもんだ</value>
+  </data>
+  <data name="0470 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>何をしても起きようとしない妹を
+親にあずけ、俺は学校へ戻った</value>
+  </data>
+  <data name="0471 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>本当は俺も妹のように寝ちまい
+たかったのだが……</value>
+  </data>
+  <data name="0472 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そういうわけにもいくまい</value>
+  </data>
+  <data name="0473 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしそんなことをしたら、ハルヒに
+どんな仕打ちを受けるやら、だ</value>
+  </data>
+  <data name="0474 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>というわけで、妹を家に送り届けた
+後、再び空き地へと俺は戻ってきた</value>
+  </data>
+  <data name="0475 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ん？</value>
+  </data>
+  <data name="0476 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>誰もいない</value>
+  </data>
+  <data name="0477 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>何度見回しても、誰もいない</value>
+  </data>
+  <data name="0478 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>まさか……帰ってこいと言っておい
+て、自分たちは解散したのか？</value>
+  </data>
+  <data name="0479 (451.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そりゃ、あんまりじゃないか</value>
+  </data>
+  <data name="0480 (451.ja) KYON (キョン)" xml:space="preserve">
+    <value>とりあえず……学校に戻ってみるか</value>
+  </data>
 </root>

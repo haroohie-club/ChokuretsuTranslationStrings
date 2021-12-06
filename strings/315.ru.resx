@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,110 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (315.ja) KYON (キョン)" xml:space="preserve">
+    <value>……げっぷ</value>
+  </data>
+  <data name="0001 (315.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、きったないわねえ</value>
+  </data>
+  <data name="0002 (315.ja) KYON (キョン)" xml:space="preserve">
+    <value>悪かった</value>
+  </data>
+  <data name="0003 (315.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門の作った超串焼きを思い出した
+ら、出してしまった</value>
+  </data>
+  <data name="0004 (315.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、あの肉やらお菓子やら、
+トドメにスイカが刺さってたやつね</value>
+  </data>
+  <data name="0005 (315.ja) KYON (キョン)" xml:space="preserve">
+    <value>うう、思い出したら胸焼けが……</value>
+  </data>
+  <data name="0006 (315.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でもあれはあんたの自業自得でしょ</value>
+  </data>
+  <data name="0007 (315.ja) KYON (キョン)" xml:space="preserve">
+    <value>そう言われるとつらいものがあるが
+……</value>
+  </data>
+  <data name="0008 (315.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、バーベキューの串焼きに、
+すごい組み合わせがありましたね</value>
+  </data>
+  <data name="0009 (315.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんが必死に食べてた
+みたいですけど……</value>
+  </data>
+  <data name="0010 (315.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、アレね。キョンが有希を
+そそのかして作ったのよ</value>
+  </data>
+  <data name="0011 (315.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええっ、キョンくんがですか？
+何かのまちがいなんじゃ</value>
+  </data>
+  <data name="0012 (315.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まちがいを起こしたのは、キョンの
+思考の方でしょ</value>
+  </data>
+  <data name="0013 (315.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、責任取らせて全部食べさせた
+けど。さすがにコリたんじゃない？</value>
+  </data>
+  <data name="0014 (315.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくん、あとでお腹壊さないと
+いいですね……</value>
+  </data>
+  <data name="0015 (315.ja) NAGATO (長門)" xml:space="preserve">
+    <value>スイカは熱することで甘みが増す</value>
+  </data>
+  <data name="0016 (315.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん？　どうしたの、いきなり？</value>
+  </data>
+  <data name="0017 (315.ja) NAGATO (長門)" xml:space="preserve">
+    <value>だから、串焼きの具材にすることは
+理にかなっている</value>
+  </data>
+  <data name="0018 (315.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ああ、さっきキョンが食べてた
+串焼きの話？</value>
+  </data>
+  <data name="0019 (315.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あはは！　あれは傑作だったわね～
+キョンったら目を白黒させてたもの</value>
+  </data>
+  <data name="0020 (315.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なかなか独創的かつ個性的なバーベ
+キューでしたね</value>
+  </data>
+  <data name="0021 (315.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンが有希をそそのかして作った
+みたいだけどね</value>
+  </data>
+  <data name="0022 (315.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンは人が呆れるようなことを
+するのが得意だから困るわ</value>
+  </data>
+  <data name="0023 (315.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕はユニークな人だと思っています</value>
+  </data>
+  <data name="0024 (315.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ものは言いようね。ユニークって
+言うよりバカよ、バカ</value>
+  </data>
+  <data name="0025 (315.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それはまた酷評ですね</value>
+  </data>
+  <data name="0026 (315.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くん、バカが移らないように
+気をつけるのよ</value>
+  </data>
+  <data name="0027 (315.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンが２人になったら、さすがの
+あたしもお手上げだわ</value>
+  </data>
+  <data name="0028 (315.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ……気をつけておきましょう</value>
+  </data>
 </root>

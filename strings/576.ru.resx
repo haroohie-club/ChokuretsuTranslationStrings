@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,141 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あら、なにかしらこのポスター</value>
+  </data>
+  <data name="0001 (576.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>案の定、ハルヒは貼り替えておいた
+ポスターに気づいて立ち止まった</value>
+  </data>
+  <data name="0002 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>作曲コンテスト……？</value>
+  </data>
+  <data name="0003 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こんなのが貼ってあったなんて
+今の今まで気づかなかったわ</value>
+  </data>
+  <data name="0004 (576.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そりゃそうだ
+ついさっき貼り替えたんだからな</value>
+  </data>
+  <data name="0005 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、キョン
+作曲コンテストですって</value>
+  </data>
+  <data name="0006 (576.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、確か軽音部はそれを目指して
+練習してたらしいぞ</value>
+  </data>
+  <data name="0007 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、軽音部が？
+それは興味深い情報ね……</value>
+  </data>
+  <data name="0008 (576.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>少しは時間稼ぎになったか？</value>
+  </data>
+  <data name="0009 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、みくるちゃん</value>
+  </data>
+  <data name="0010 (576.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい、なんでしょう</value>
+  </data>
+  <data name="0011 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こんなポスター貼ってあった？</value>
+  </data>
+  <data name="0012 (576.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、その……すみません
+覚えてないです</value>
+  </data>
+  <data name="0013 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん……作曲コンテストねぇ
+軽音部もこれに応募するのよね</value>
+  </data>
+  <data name="0014 (576.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい、そう言ってました</value>
+  </data>
+  <data name="0015 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これは、もしかして……</value>
+  </data>
+  <data name="0016 (576.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、涼宮さん？</value>
+  </data>
+  <data name="0017 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん……</value>
+  </data>
+  <data name="0018 (576.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、聞こえてますか？
+涼宮さーん！</value>
+  </data>
+  <data name="0019 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0020 (576.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ダメだ、聞こえてないみたい</value>
+  </data>
+  <data name="0021 (576.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも、これで涼宮さんをしっかり
+足止めできた……よね？</value>
+  </data>
+  <data name="0022 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あら……なにかしら、このポスター
+ふーん、作曲コンテストねぇ</value>
+  </data>
+  <data name="0023 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、こんなの貼ってあるのに
+気づいてた？</value>
+  </data>
+  <data name="0024 (576.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……いいえ</value>
+  </data>
+  <data name="0025 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよね、ついさっきまで
+なかったわよね</value>
+  </data>
+  <data name="0026 (576.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0027 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>気になるわね、作曲コンテスト……</value>
+  </data>
+  <data name="0028 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ、古泉くん、こんなポスター
+ここにあったかしら？</value>
+  </data>
+  <data name="0029 (576.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ずっとそこに貼ってあったと
+記憶していますが</value>
+  </data>
+  <data name="0030 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう、じゃあ見逃してたのね
+あたしとしたことが失態だわ</value>
+  </data>
+  <data name="0031 (576.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>どうかされましたか？</value>
+  </data>
+  <data name="0032 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これ、作曲コンテストって書いて
+あるじゃない？</value>
+  </data>
+  <data name="0033 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それに確かコンピ研の前に音楽室を
+軽音部が使ってたって</value>
+  </data>
+  <data name="0034 (576.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そのようですね</value>
+  </data>
+  <data name="0035 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほど、てことはもしかして……</value>
+  </data>
+  <data name="0036 (576.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なにかお気づきになりましたか</value>
+  </data>
+  <data name="0037 (576.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと待ってちょうだい
+もう少しで考えがまとまりそうなの</value>
+  </data>
+  <data name="0038 (576.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、もちろん、お待ちしますよ
+いつまででも、ね</value>
+  </data>
 </root>

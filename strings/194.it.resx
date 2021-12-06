@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,212 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (194.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、ハルヒ</value>
+  </data>
+  <data name="0001 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに？　今、急いでるんだけど</value>
+  </data>
+  <data name="0002 (194.ja) KYON (キョン)" xml:space="preserve">
+    <value>以前、オマエは言ってたな。宇宙人
+未来人、超能力者がいたら来い、と</value>
+  </data>
+  <data name="0003 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>言ったけど、それがなんなの？</value>
+  </data>
+  <data name="0004 (194.ja) KYON (キョン)" xml:space="preserve">
+    <value>もし、超能力者は身近に実在すると
+俺が主張したら、お前はどう思う？</value>
+  </data>
+  <data name="0005 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>簡単よ</value>
+  </data>
+  <data name="0006 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その口と鼻をホッチキスで止めて
+すまきにしてプールに投げ込むわね</value>
+  </data>
+  <data name="0007 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんた、前もそんな話を
+してたでしょ</value>
+  </data>
+  <data name="0008 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いい加減にしなさいよ</value>
+  </data>
+  <data name="0009 (194.ja) KYON (キョン)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0010 (194.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>耳を貸そうともせず、ズカズカと先
+に行ってしまったぞ</value>
+  </data>
+  <data name="0011 (194.ja) KYON (キョン)" xml:space="preserve">
+    <value>やれやれ……</value>
+  </data>
+  <data name="0012 (194.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あたし思ったんですけど……</value>
+  </data>
+  <data name="0013 (194.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>これって、超能力者のせいじゃ
+ないでしょうか？</value>
+  </data>
+  <data name="0014 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0015 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……みくるちゃん、いきなり
+熱でもあるの？</value>
+  </data>
+  <data name="0016 (194.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、ありませぇん、熱なんてっ</value>
+  </data>
+  <data name="0017 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>要するに、この謎のピアノ事件が</value>
+  </data>
+  <data name="0018 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>超能力者の仕業だって
+言いたいのね？</value>
+  </data>
+  <data name="0019 (194.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え、ええと、そんな感じです</value>
+  </data>
+  <data name="0020 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん……もっと頭を使って
+しっかり考えなきゃダメよ</value>
+  </data>
+  <data name="0021 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いーい？　超能力なんてモノはね
+そんじょそこらにある力じゃないの</value>
+  </data>
+  <data name="0022 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>しかも、何のために超能力者が
+夏休みの学校で、こんな</value>
+  </data>
+  <data name="0023 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>イタズラみたいなマネをするのよ</value>
+  </data>
+  <data name="0024 (194.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、それはぁ……そのぉ</value>
+  </data>
+  <data name="0025 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰かが自動演奏装置のついたピアノ
+に、すり替えたって話の方がマシね</value>
+  </data>
+  <data name="0026 (194.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はぅぅぅぅ</value>
+  </data>
+  <data name="0027 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、急ぐわよ、みくるちゃん</value>
+  </data>
+  <data name="0028 (194.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0029 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの、有希？　いきなり
+立ち止まったりして</value>
+  </data>
+  <data name="0030 (194.ja) NAGATO (長門)" xml:space="preserve">
+    <value>可能性の提案</value>
+  </data>
+  <data name="0031 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいわよ。どうぞ</value>
+  </data>
+  <data name="0032 (194.ja) NAGATO (長門)" xml:space="preserve">
+    <value>何者かが、空間を超越して演奏を
+行ったとすれば、ピアノは鳴る</value>
+  </data>
+  <data name="0033 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>空間を超越して演奏？</value>
+  </data>
+  <data name="0034 (194.ja) NAGATO (長門)" xml:space="preserve">
+    <value>俗に言う、超能力</value>
+  </data>
+  <data name="0035 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……有希にしてはめずらしく積極的
+な推理だけど、あまりにも安直だわ</value>
+  </data>
+  <data name="0036 (194.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう？</value>
+  </data>
+  <data name="0037 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>超能力なんてモノはね、めったに
+存在しないチカラなの</value>
+  </data>
+  <data name="0038 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>しかも、なんでわざわざ、そんな
+チカラを使って演奏したりするのよ</value>
+  </data>
+  <data name="0039 (194.ja) NAGATO (長門)" xml:space="preserve">
+    <value>たとえば……
+暇を持て余していた</value>
+  </data>
+  <data name="0040 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう、有希までキョンみたいなこと
+言わないの</value>
+  </data>
+  <data name="0041 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなことが、夏休みの学校で
+あるわけないでしょ</value>
+  </data>
+  <data name="0042 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いったい、なんの話かと思って
+ちょっと考えちゃったじゃない</value>
+  </data>
+  <data name="0043 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>先を急ぐわよ、ほらほら走って</value>
+  </data>
+  <data name="0044 (194.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0045 (194.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さんは、超能力を信じますか？</value>
+  </data>
+  <data name="0046 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>超能力？　突然、どうしたの？</value>
+  </data>
+  <data name="0047 (194.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、我ながら突拍子もないことを
+考えてしまいまして……</value>
+  </data>
+  <data name="0048 (194.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>例のピアノ事件ですが、もしや
+超能力者のイタズラではないか、と</value>
+  </data>
+  <data name="0049 (194.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>遠隔演奏や自己透明化といった手段
+で、そうしたマネも可能でしょうし</value>
+  </data>
+  <data name="0050 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それって、古泉くんらしからぬ浅い
+推測ね</value>
+  </data>
+  <data name="0051 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>超能力者なんて希少な存在が、そう
+簡単にホイホイといたりはしない</value>
+  </data>
+  <data name="0052 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ものよ</value>
+  </data>
+  <data name="0053 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>しかも、そんなくだらないイタズラ
+を仕掛ける理由もないしね</value>
+  </data>
+  <data name="0054 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>可能性は０じゃないけど、限りなく
+レアなケースと断言できるわ</value>
+  </data>
+  <data name="0055 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これはもっと奥深い、もっと複雑な
+怪奇現象よ。安直に考えちゃダメね</value>
+  </data>
+  <data name="0056 (194.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>失礼しました。ただ、なんとなくの
+思いつきでして……</value>
+  </data>
+  <data name="0057 (194.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、そういう自由な思考は大切よ
+また違った推理を期待してるわ</value>
+  </data>
+  <data name="0058 (194.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ご期待に沿えるよう、努力します</value>
+  </data>
 </root>
