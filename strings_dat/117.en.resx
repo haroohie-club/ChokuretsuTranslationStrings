@@ -456,8 +456,8 @@ sound config heading.</value>
   </data>
   <data name="0034 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Save your current progress?
-If you don't save, your progress won't be
-reflected in the extras or the game log.</value>
+If you don't save, it won't be
+reflected in the extras or game log.</value>
   </data>
   <data name="0048 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Failed to read save data.
