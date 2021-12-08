@@ -59,169 +59,135 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04解決パートのチュートリアルを
-開始します</value>
+    <value>Now starting the Investigation Mode tutorial.</value>
   </data>
   <data name="0001 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04解決パートでは、異空間に侵入した
-ＳＯＳ団員を操作して</value>
+    <value>In Investigation Mode, you will navigate abnormal space with an SOS Brigade member.</value>
   </data>
   <data name="0002 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04涼宮ハルヒが異空間に到達して
-しまう前に</value>
+    <value>The objective is to cause the abnormal space naturally dissolve,</value>
   </data>
   <data name="0003 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04これを自然消滅させる事が目的です</value>
+    <value>before Suzumiya Haruhi arrives.</value>
   </data>
   <data name="0004 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04異空間を自然消滅させるためには
-マップ内に隠された“特異点”を</value>
+    <value>In order to do that, you must find the hidden "Singularity Points" on the map,</value>
   </data>
   <data name="0005 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04発見、実体化させてから消去しな
-ければなりません</value>
+    <value>and then materialize, and erase them.</value>
   </data>
   <data name="0006 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04画面左下に表示された“残り”数
-が全ての“特異点”の数です</value>
+    <value>On the bottom left of the screen is a number indicating how many remain.</value>
   </data>
   <data name="0007 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04このうち最低限“ノルマ”分の数
-“特異点”を消去する事が出来れば</value>
+    <value>If you can erase this minimum amount of "quota" Singularity Points,</value>
   </data>
   <data name="0008 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04ステージをクリアする事が可能です</value>
+    <value>It will be possible to clear the stage.</value>
   </data>
   <data name="0009 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04解決パートステージのクリアには
-全ての“特異点”を消去するか</value>
+    <value>In order to clear the Investigation part of the stage, erase all of the Singularity Points.</value>
   </data>
   <data name="0010 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04“タイムオーバー”時に“ノルマ”
-を達成していることが必要です</value>
+    <value>You must achieve the "quota" before "Time Over" occurs.</value>
   </data>
   <data name="0011 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04上画面に表示された“制限時間”が
-なくなってしまう前に</value>
+    <value>The top screen will show the time limit that remains before you lose.</value>
   </data>
   <data name="0012 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04“ノルマ”分の特異点を発見して
-消去できなかった場合</value>
+    <value>Find and erase the quota singularity points before then,</value>
   </data>
   <data name="0013 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04“ゲームオーバー”となってしまい
-ます</value>
+    <value>or it will result in Game Over.</value>
   </data>
   <data name="0014 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04異空間で操作可能な団員は
-以下の行動を行うことが出来ます</value>
+    <value>In abnormal space, you are able to do the following actions with your operable Brigade member.</value>
   </data>
   <data name="0015 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04１　“移動”</value>
+    <value>1. "Movement"</value>
   </data>
   <data name="0016 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04目的地をタッチすると、その場所へ
-“移動”します</value>
+    <value>Touch a location and they will move to that place.</value>
   </data>
   <data name="0017 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04２　“範囲調査”</value>
+    <value>2. "Investigate"</value>
   </data>
   <data name="0018 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>画面左上の“調査アイコン”が
-ＯＦＦの状態で団員の足元をタッチ</value>
+    <value>When the search icon on the upper left of the screen is OFF, touch at a member's feet.</value>
   </data>
   <data name="0019 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>すると、そのマスを含む周囲１マス
-（合計９マス）をまとめて</value>
+    <value>When you do, all the tiles surrounding that tile (9 tiles total) will light up.</value>
   </data>
   <data name="0020 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>“範囲調査”出来ます</value>
+    <value>You will then be able to "investigate" any of them.</value>
   </data>
   <data name="0021 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>“範囲調査”によって隠されている
-特異点の場所を探る事が出来ます</value>
+    <value>"Investigate" will allow you to search for nearby hidden Singularity Points.</value>
   </data>
   <data name="0022 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>ただし、範囲調査では“特異点を
-実体化”させる事が出来ません</value>
+    <value>However, you will not be able to materialize them with the investigate action.</value>
   </data>
   <data name="0023 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>足元のマーカーから特異点の隠され
-た場所を推測したら</value>
+    <value>Once you've guessed the hiding spot of one based on the markers near your feet,</value>
   </data>
   <data name="0024 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>“ポイント調査”を行って
-“特異点を実体化”させてください</value>
+    <value>please materialize the Singularity Point by using the "search point" action.</value>
   </data>
   <data name="0025 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04３　“ポイント調査”</value>
+    <value>3. "Search Point"</value>
   </data>
   <data name="0026 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>画面左上の“調査アイコン”を
-タッチすると、団員の頭上に</value>
+    <value>When you touch the "Search Icon" at the upper left of the screen,</value>
   </data>
   <data name="0027 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>アイコンが表示され“ポイント調査
-モード”であることを示します</value>
+    <value>An icon indicating "Search Point Mode" will appear over the member's head.</value>
   </data>
   <data name="0028 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>この状態で特定のマスをタッチする
-と団員がそのマスに隣接して</value>
+    <value>If you touch a tile adjacent to the member while in this mode,</value>
   </data>
   <data name="0029 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>“ポイント調査”を行います</value>
+    <value>that point will be searched.</value>
   </data>
   <data name="0030 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>ポイント調査したマスに特異点が
-隠されていた場合、これを強制的に</value>
+    <value>When you search a point that contains a hidden Singularity Point,</value>
   </data>
   <data name="0031 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>実体化させます</value>
+    <value>it will be forced to materialize.</value>
   </data>
   <data name="0032 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>“ポイント調査”では指定した１マ
-スしか調査できませんが“特異点”</value>
+    <value>You can only use "Search Point" to search 1 tile at a time.</value>
   </data>
   <data name="0033 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>を実体化させるための基本的な行動
-になります</value>
+    <value>It's a basic action that materializes the Singularity Point.</value>
   </data>
   <data name="0034 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>ただし“範囲調査”を行う場合には
-“調査アイコン”をＯＦＦにする</value>
+    <value>If you want to perform the "Investigate" action again, turn off the Search Icon.</value>
   </data>
   <data name="0035 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>必要がありますので混同しないよう
-に注意してください</value>
+    <value>Please be careful to not confuse these 2 modes.</value>
   </data>
   <data name="0036 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>調査によって足元に表示される
-マークは“特異点の存在確率”を</value>
+    <value>When you investigate, the marks near your feet indicate the odds of a Sing. Point existing.</value>
   </data>
   <data name="0037 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>表しており“！”の表示されたマス
-はそのマスを含む周囲１マス以内に</value>
+    <value>The "!" mark on a tile indicates that within 1 space of that tile,</value>
   </data>
   <data name="0038 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>特異点が存在する事を示しています</value>
+    <value>a Singularity Point exists.</value>
   </data>
   <data name="0039 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>“！”の数が増えるほどそのマスの
-周囲に特異点が密集している事を</value>
+    <value>The number of "!" will increase according to how many Singularity Points…</value>
   </data>
   <data name="0040 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>示しています</value>
+    <value>…exist in the tiles surrounding it.</value>
   </data>
   <data name="0041 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>実体化した特異点は、タッチペンで
-擦ることで消去する事が出来ます</value>
+    <value>Once a Singularity Point has been materialized, rub it with your stylus to erase it.</value>
   </data>
   <data name="0042 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>見た目よりも気持ち広めに擦ると
-効率よく消去する事が可能です</value>
+    <value>If you rub over it a little wider than it looks, you can erase it more efficiently.</value>
   </data>
   <data name="0043 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>それでは制限時間に気をつけて
-特異点を発見＆消去してください</value>
+    <value>As a final reminder, please be mindful of the time limit when finding and erasing Sing. Points.</value>
   </data>
 </root>
