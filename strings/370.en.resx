@@ -358,7 +358,7 @@ The font is misshapen.</value>
     <value>I'm here as a guest. If I came with Haruhi, this would be unthinkable.</value>
   </data>
   <data name="0108 (370.ja) CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
-    <value>Would cold tea be ok for the two of you?</value>
+    <value>Would cold tea be okay for the two of you?</value>
   </data>
   <data name="0109 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Oi, you're not forgetting about me, are you? Guys are excluded from the service?</value>
@@ -655,132 +655,114 @@ The font is misshapen.</value>
     <value>I see…</value>
   </data>
   <data name="0216 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>たしかに古泉の言う通り、ハルヒの
-興味がこちらに向けばいいんだが</value>
+    <value>Certainly, as Koizumi says, it would do us good to divert Haruhi's attention to this, but…</value>
   </data>
   <data name="0217 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>必ず興味を持つかは分からない</value>
+    <value>We can't say for sure that she'll care about it.</value>
   </data>
   <data name="0218 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>このままコンピ研に返せば、もしか
-したら有益な情報が聞けるかも……</value>
+    <value>Maybe if we return it to them, we can leverage some information…</value>
   </data>
   <data name="0219 (370.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>どうします？</value>
+    <value>What do you think?</value>
   </data>
   <data name="0220 (370.ja) KYON (キョン)" xml:space="preserve">
-    <value>そうだな……</value>
+    <value>Well…</value>
   </data>
   <data name="0221 (370.ja) KYON (キョン)" xml:space="preserve">
-    <value>部長には申し訳ないがしばらく
-拝借しておくか</value>
+    <value>I'm sorry to the club president, but how about we borrow it for a bit then?</value>
   </data>
   <data name="0222 (370.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>わかりました、ではこのデータは
-あなたに預けておきましょう</value>
+    <value>Understood. Then I shall leave this data with you.</value>
   </data>
   <data name="0223 (370.ja) KYON (キョン)" xml:space="preserve">
-    <value>#P05“メモリーカード”#P00は俺が持って
-いればいいんだな？</value>
+    <value>Is it really okay for me to have this "memory card?"</value>
   </data>
   <data name="0224 (370.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ええ、なにかの時に使って下さい</value>
+    <value>Of course. Make sure to use it some time.</value>
   </data>
   <data name="0225 (370.ja) KYON (キョン)" xml:space="preserve">
-    <value>なにかの時がないように願いたいね</value>
+    <value>I hope that "some time" never comes.</value>
   </data>
   <data name="0226 (370.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>まったくです</value>
+    <value>Of course.</value>
   </data>
   <data name="0227 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>本気でそう思っているのか、古泉</value>
+    <value>Do you really think so, Koizumi?</value>
   </data>
   <data name="0228 (370.ja) KYON (キョン)" xml:space="preserve">
-    <value>こいつはそっと返したほうがいいん
-じゃないか？</value>
+    <value>Wouldn't it be best for me to quietly return this?</value>
   </data>
   <data name="0229 (370.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>あなたは本当に正直な人ですね</value>
+    <value>You're quite the honest person, aren't you.</value>
   </data>
   <data name="0230 (370.ja) KYON (キョン)" xml:space="preserve">
-    <value>バカを見るのは承知の上だ</value>
+    <value>I'm fully aware that I look like an idiot.</value>
   </data>
   <data name="0231 (370.ja) KYON (キョン)" xml:space="preserve">
-    <value>どのみち貧乏くじを引かされるなら
-俺は正直者でいたいね</value>
+    <value>If I'm going to draw the short end of the stick either way, I might as well be honest.</value>
   </data>
   <data name="0232 (370.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>なるほど、あなたらしい</value>
+    <value>I see. How very like you.</value>
   </data>
   <data name="0233 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>バカにされてるような気分になる
-のは、なぜだろうな？</value>
+    <value>Why do I feel like I'm being made fun of?</value>
   </data>
   <data name="0234 (370.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>では、このメモリーカードは廊下に
-そっと置いておきましょう</value>
+    <value>Then, I'll just leave this memory card in the corridor.</value>
   </data>
   <data name="0235 (370.ja) KYON (キョン)" xml:space="preserve">
-    <value>返しに行かないのか？</value>
+    <value>You won't go to return it?</value>
   </data>
   <data name="0236 (370.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>落ちてましたと返しに行って、怪し
-まれては気まずいですから</value>
+    <value>It'd be awkward if I go to return it saying it was dropped, and arouse suspicion.</value>
   </data>
   <data name="0237 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>おいおい、気まずいことをしたのか
-古泉よ</value>
+    <value>Hey, you're making me feel awkward now, Koizumi!</value>
   </data>
   <data name="0238 (370.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>それではここに……おや？</value>
+    <value>Then I'll just place it h… Oh?</value>
   </data>
   <data name="0239 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>メモリーカードを床に置こうと屈ん
-だ古泉は、別の物を見つけたようだ</value>
+    <value>It's like Koizumi found something when he bent down to place the memory card on the floor.</value>
   </data>
   <data name="0240 (370.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>こんなところにこんなものが落ちて
-いました</value>
+    <value>To think something like this would be dropped here.</value>
   </data>
   <data name="0241 (370.ja) KYON (キョン)" xml:space="preserve">
-    <value>なんだ、それは？</value>
+    <value>What is that?</value>
   </data>
   <data name="0242 (370.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>羊のオモチャのようですが……
-電池切れか、動かないようですね</value>
+    <value>It looks like a toy sheep, but… Is it out of battery? It doesn't seem like it works.</value>
   </data>
   <data name="0243 (370.ja) KYON (キョン)" xml:space="preserve">
-    <value>#P05“電気ヒツジ”#P00か……
-なんの役にも立たなそうだな</value>
+    <value>An "electric sheep," huh…? Doesn't seem like it's of any use to us at all.</value>
   </data>
   <data name="0245 (370.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>わあ、可愛い羊さんですね</value>
+    <value>Wow! A cute sheep!</value>
   </data>
   <data name="0246 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>朝比奈さんが喜ぶなら持っていても
-よさそうだ。それにしても……</value>
+    <value>If it makes Asahina happy, it's probably worth taking. That being said…</value>
   </data>
   <data name="0247 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>なぜこんなものがこんな場所に
-落ちているのか理解に苦しむな</value>
+    <value>It's painful to try to comprehend why something like this would be dropped here.</value>
   </data>
   <data name="0248 (370.ja) KYON (キョン)" xml:space="preserve">
-    <value>じゃあハルヒと合流するか</value>
+    <value>Shall we meet up with Haruhi, then?</value>
   </data>
   <data name="0249 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>とりあえず集めた情報からなんとか
-する他はなかろう</value>
+    <value>For the time being, we don't have a choice but to make do with what information we have.</value>
   </data>
   <data name="0250 (370.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>誤字を伝える</value>
+    <value>Inform of the misprint</value>
   </data>
   <data name="0251 (370.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>みくるに聞く</value>
+    <value>Ask Mikuru</value>
   </data>
   <data name="0252 (370.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉に聞く</value>
+    <value>Ask Koizumi</value>
   </data>
   <data name="0253 (370.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>そっと返す</value>
+    <value>Quietly return it</value>
   </data>
 </root>

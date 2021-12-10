@@ -59,174 +59,135 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>制限時間が０になってしまいました
-“タイムオーバー”です</value>
+    <value>When the time limit reaches 0 that's called Time Over.</value>
   </data>
   <data name="0001 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>本来ならば、ここでメニューが表示
-され“リトライ”して解決パートを</value>
+    <value>In essence, there will be a retry button on the menu allowing you to restart the section.</value>
   </data>
   <data name="0002 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>やり直すか、データを“ロード”す
-るか、“タイトルへ戻る”か選択</value>
+    <value>You'll have the choice to load the data and retry, or return to the menu.</value>
   </data>
   <data name="0003 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>することになりますが、今回だけは
-特別に先へ進む事ができます</value>
+    <value>But just this once, we'll be able to continue from right here.</value>
   </data>
   <data name="0004 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>本編の解決パートでは実際にゲーム
-オーバーになりますので</value>
+    <value>If this were a gameplay section in the main story, this would be game over instead.</value>
   </data>
   <data name="0005 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>十分注意してください</value>
+    <value>Please be careful.</value>
   </data>
   <data name="0006 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>今回は制限時間が足りなくなってし
-まいましたが、この後の探索パート</value>
+    <value>You've run out of time this stage, but for the future,</value>
   </data>
   <data name="0007 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>に向けて“攻略のヒント”を
-お知らせします</value>
+    <value>here are some hints to help you achieve victory while searching.</value>
   </data>
   <data name="0008 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>１　なるべく“ハルヒメーター”を
-右に寄せましょう</value>
+    <value>1. Try to keep the Haruhi meter as far to the right as possible.</value>
   </data>
   <data name="0009 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>ハルヒメーターを右に寄せる事で
-直接的に制限時間ボーナスを</value>
+    <value>The further to the right it is, the greater bonus you'll receive to the time limit.</value>
   </data>
   <data name="0010 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>増やす事が可能ですが、それ以外に
-も、上画面の“ハルヒルート”に</value>
+    <value>Besides that,</value>
   </data>
   <data name="0011 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>影響を与えています</value>
+    <value>the Haruhi Route on the top screen will also effect the bonus.</value>
   </data>
   <data name="0012 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>ハルヒメーターが多いほど足止め
-可能な“イベントポイント”の数や</value>
+    <value>The greater the Haruhi Meter the more the number of "Events" will be reduced,</value>
   </data>
   <data name="0013 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>配置位置が有利に変化しています
-探索パートでは可能な限り</value>
+    <value>and the more advantageous their positions will be when searching.</value>
   </data>
   <data name="0014 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>ハルヒメーターを右に寄せる事を
-念頭に行動してみてください</value>
+    <value>So please be mindful of keeping the Haruhi Meter to the right side.</value>
   </data>
   <data name="0015 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>２　なるべく多くの“トピック”を
-入手しておきましょう</value>
+    <value>2. Acquire as many Topics as possible.</value>
   </data>
   <data name="0016 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>特に“キャラトピック”と呼ばれる
-朝比奈みくる、長門有希、古泉一樹</value>
+    <value>Especially the Character Topics called Asahina Mikuru, Nagato Yuki, and Koizumi Itsuki,</value>
   </data>
   <data name="0017 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>のトピックを入手する事で
-操作キャラクターのパワーアップと</value>
+    <value>will power up these playable characters in gameplay,</value>
   </data>
   <data name="0018 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>トピック使用による足止め効果が
-２重に取得できます</value>
+    <value>or double their ability to Delay Haruhi.</value>
   </data>
   <data name="0019 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>キャラトピックは足止めとして使用
-してしまうと、パワーアップ効果も</value>
+    <value>When you use a Character Topic to Delay, you will not gain the effect of their powerup.</value>
   </data>
   <data name="0020 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>失われてしまいますが、解決パート
-の状況にあわせて“誰のトピックを</value>
+    <value>So while Investigating think about who would be the best Topic to use in this situation,</value>
   </data>
   <data name="0021 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>使用するか”戦略を練って使用する
-事で効果を最大限に発揮する事が</value>
+    <value>and formulate a detailed strategy to maximize their effectiveness.</value>
   </data>
   <data name="0022 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>できるようになります</value>
+    <value>That is what you can do with Character Topics.</value>
   </data>
   <data name="0023 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>３　効率の良い“調査”を心がけ
-ましょう</value>
+    <value>3. Try to Investigate as efficiently as possible.</value>
   </data>
   <data name="0024 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>同じところを何度も“調査”したり
-ポイント調査で１マスづつ調査を</value>
+    <value>If the areas you Investigate overlap each other, or if you use Search Point on every tile,</value>
   </data>
   <data name="0025 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>していては時間のロスになってしま
-います</value>
+    <value>time will be wasted.</value>
   </data>
   <data name="0026 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>慣れるまでは一回範囲調査する度に
-“Ｙボタン”でポーズして</value>
+    <value>Until you become more experienced, press the Y button to pause each time you Investigate,</value>
   </data>
   <data name="0027 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>全体ＭＡＰを確認して次の行動を
-考えると良いでしょう</value>
+    <value>and review the complete map while you think about the best action to take next.</value>
   </data>
   <data name="0028 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>４　“メイントピックを入手”
-しましょう</value>
+    <value>4. Acquire "Main Topics."</value>
   </data>
   <data name="0029 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>アクシデントが発生してしまうと
-大幅に制限時間が減少します</value>
+    <value>When an Accident occurs, the time limit is decreased dramatically.</value>
   </data>
   <data name="0030 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>メイントピックを入手しておく事で
-根本的なペナルティを回避出来ます</value>
+    <value>If you acquire a Main Topic, you will basically be able to avoid that penalty.</value>
   </data>
   <data name="0031 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>“目的配分”の際、『キョンを１人
-で行動』させると</value>
+    <value>When it comes to distributing your group members, setting Kyon to be alone,</value>
   </data>
   <data name="0032 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>“その目的ルートで入手可能なメイ
-ントピックを全て入手”できます</value>
+    <value>will allow you to acquire all of the Main Topics along that route.</value>
   </data>
   <data name="0033 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>一通り各“目的ルート”で入手可能
-なメイントピックを確認しておくと</value>
+    <value>Checking the Main Topics available for each route,</value>
   </data>
   <data name="0034 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>良いでしょう</value>
+    <value>is a good idea.</value>
   </data>
   <data name="0035 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>『どうしてもクリアできない！』
-『速く先に進みたい！』という人は</value>
+    <value>For those saying "I can't beat it no matter what!" or "I want to progress faster!"</value>
   </data>
   <data name="0036 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>“ＣＯＮＦＩＧ”メニューから“シ
-ステム～解決パート”を選択して</value>
+    <value>select "Investigation Mode" from the system settings in the config menu.</value>
   </data>
   <data name="0037 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>“トピックストックモード”を
-“ＯＮ”に変更してみてください</value>
+    <value>From there you can change the "Topic Stock Mode" option to ON.</value>
   </data>
   <data name="0038 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>各解決パートで使用可能なトピック
-から“入手したことのある全て”を</value>
+    <value>That will give you all of the Topics that you acquired in Investigation Mode,</value>
   </data>
   <data name="0039 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>もって行く事が出来ます</value>
+    <value>and let you use them freely.</value>
   </data>
   <data name="0040 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>探索パートを何度かプレイしてデー
-タを保存すれば十分な量のトピック</value>
+    <value>If you play Investigation Mode a few times and save the data, you will have plenty of Topics.</value>
   </data>
   <data name="0041 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>を持って解決パートをプレイする事
-ができます</value>
+    <value>You will be able to keep using them as you play more.</value>
   </data>
   <data name="0042 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>“トピックストックモード”を
-“ＯＮ”に変更しても</value>
+    <value>Turning "Topic Stock Mode" on,</value>
   </data>
   <data name="0043 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>ゲーム内容には特に影響は
-ありません</value>
+    <value>will have no other effect on the game's content.</value>
   </data>
 </root>
