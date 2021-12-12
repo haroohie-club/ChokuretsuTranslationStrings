@@ -51,7 +51,7 @@
     "OriginalCharacter": "！",
     "ReplacedCharacter": "!",
     "Code": 33097,
-    "Offset": 2
+    "Offset": 4
   },
   {
     "OriginalCharacter": "＿",
@@ -1408,5 +1408,17 @@
     "ReplacedCharacter": "Ъ",
     "Code": 33653,
     "Offset": 8
+  },
+  {
+    "OriginalCharacter": "プ",
+    "ReplacedCharacter": "ё",
+    "Code": 33654,
+    "Offset": 6
+  },
+  {
+    "OriginalCharacter": "ヘ",
+    "ReplacedCharacter": "Ё",
+    "Code": 33655,
+    "Offset": 6
   }
 ]
