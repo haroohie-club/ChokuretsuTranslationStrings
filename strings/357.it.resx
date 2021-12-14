@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,108 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (357.ja) KYON (キョン)" xml:space="preserve">
+    <value>はぁ、ひぃ……</value>
+  </data>
+  <data name="0001 (357.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>暑い、なんて暑さだ</value>
+  </data>
+  <data name="0002 (357.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>説明もなく呼び出され、おまけに
+炎天下の中コキ使われ</value>
+  </data>
+  <data name="0003 (357.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今日と言う今日はハルヒに文句を
+言ってやろうと思っていたのだが</value>
+  </data>
+  <data name="0004 (357.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんな決意すらも、アスファルトの
+上に落ちたアイスのごとく</value>
+  </data>
+  <data name="0005 (357.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>一瞬で蒸発してしまっていた</value>
+  </data>
+  <data name="0006 (357.ja) KYON (キョン)" xml:space="preserve">
+    <value>もうダメだ……少し休もう</value>
+  </data>
+  <data name="0007 (357.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>みくるちゃんのも美味しそう！</value>
+  </data>
+  <data name="0008 (357.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>よかったら、これも一口
+食べますか？</value>
+  </data>
+  <data name="0009 (357.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>ありがとう
+それじゃ、これもあげるね</value>
+  </data>
+  <data name="0010 (357.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>ハハハ、みんなで交換っこだね</value>
+  </data>
+  <data name="0011 (357.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんとも楽しげな会話</value>
+  </data>
+  <data name="0012 (357.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まるで彼女たちは、俺とは違う世界
+に住んでいるんじゃないかと思うね</value>
+  </data>
+  <data name="0013 (357.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>あ、キョンくんだ</value>
+  </data>
+  <data name="0014 (357.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくん、お疲れ様です</value>
+  </data>
+  <data name="0015 (357.ja) KYON (キョン)" xml:space="preserve">
+    <value>アイス食べてるのか……</value>
+  </data>
+  <data name="0016 (357.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>そうだよ</value>
+  </data>
+  <data name="0017 (357.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>鶴屋さんが買ってきてくれたんです</value>
+  </data>
+  <data name="0018 (357.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ほう、ということは人数分あったり
+するのだろうか</value>
+  </data>
+  <data name="0019 (357.ja) KYON (キョン)" xml:space="preserve">
+    <value>つかぬことをお伺いしますが</value>
+  </data>
+  <data name="0020 (357.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>なんだい？</value>
+  </data>
+  <data name="0021 (357.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺の分とかって、あったりします？</value>
+  </data>
+  <data name="0022 (357.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>ごめんよキョンくん。妹ちゃんに
+あげちゃったから売り切れさ</value>
+  </data>
+  <data name="0023 (357.ja) KYON (キョン)" xml:space="preserve">
+    <value>なに……！？</value>
+  </data>
+  <data name="0024 (357.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>キョンくん、ざんねーん</value>
+  </data>
+  <data name="0025 (357.ja) KYON (キョン)" xml:space="preserve">
+    <value>お前がいうなっ</value>
+  </data>
+  <data name="0026 (357.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの、キョンくんの分のアイス
+買ってきましょうか？</value>
+  </data>
+  <data name="0027 (357.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いえ、さすがにそれは</value>
+  </data>
+  <data name="0028 (357.ja) TSURUYA (鶴屋)" xml:space="preserve">
+    <value>それじゃキョンくんには、今度
+なんかサービスしてあげるからさ</value>
+  </data>
+  <data name="0029 (357.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>何か無心したようで心苦しい気もし
+ますが楽しみにさせてもらいますよ</value>
+  </data>
+  <data name="0030 (357.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>テスト選択肢</value>
+  </data>
 </root>

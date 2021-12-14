@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,147 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (266.ja) KYON (キョン)" xml:space="preserve">
+    <value>あなたならやれますよ、って無責任
+な意見だよなぁ</value>
+  </data>
+  <data name="0001 (266.ja) KYON (キョン)" xml:space="preserve">
+    <value>自分に火の粉がかからないよう
+にしてるというか</value>
+  </data>
+  <data name="0002 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんに言われたのね？</value>
+  </data>
+  <data name="0003 (266.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ</value>
+  </data>
+  <data name="0004 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>たまにはひねて取らずに、信頼され
+ていると受け止めたらどうかしら？</value>
+  </data>
+  <data name="0005 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんが気の毒になってくるわよ</value>
+  </data>
+  <data name="0006 (266.ja) KYON (キョン)" xml:space="preserve">
+    <value>この場合、気の毒なのは任された
+俺の方じゃないのか？</value>
+  </data>
+  <data name="0007 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンに任せれば大丈夫だと
+思ってくれたんでしょ？</value>
+  </data>
+  <data name="0008 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それを人は信頼していると言うのよ</value>
+  </data>
+  <data name="0009 (266.ja) KYON (キョン)" xml:space="preserve">
+    <value>それは違うと……</value>
+  </data>
+  <data name="0010 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>言うのよ！</value>
+  </data>
+  <data name="0011 (266.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺の答弁は許して貰えなかった……</value>
+  </data>
+  <data name="0012 (266.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そういえばさっきキョンくんが、
+古泉くんに後押しされたみたいです</value>
+  </data>
+  <data name="0013 (266.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんにされると、安心できそう
+ですね</value>
+  </data>
+  <data name="0014 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふぅん、キョンのくせに一人前に
+何か悩み事でもあったのかしら</value>
+  </data>
+  <data name="0015 (266.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>さ、さあ？</value>
+  </data>
+  <data name="0016 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それよりも、みくるちゃんは
+何か悩んでることはない？</value>
+  </data>
+  <data name="0017 (266.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふへっ！？</value>
+  </data>
+  <data name="0018 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>団長のあたしが、ガンガン後押し
+してあげるわよ！</value>
+  </data>
+  <data name="0019 (266.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>い、今のところはないですぅ</value>
+  </data>
+  <data name="0020 (266.ja) NAGATO (長門)" xml:space="preserve">
+    <value>後押しは役立つものとされている</value>
+  </data>
+  <data name="0021 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>役立つ場合もあるわよ</value>
+  </data>
+  <data name="0022 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何の役にも立ちませんって場合も
+多いけどね</value>
+  </data>
+  <data name="0023 (266.ja) NAGATO (長門)" xml:space="preserve">
+    <value>されると嬉しい</value>
+  </data>
+  <data name="0024 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>場合によっては嬉しいわよ</value>
+  </data>
+  <data name="0025 (266.ja) NAGATO (長門)" xml:space="preserve">
+    <value>彼は嬉しくないと言っていた</value>
+  </data>
+  <data name="0026 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはキョンかしら？</value>
+  </data>
+  <data name="0027 (266.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0028 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰の後押しが嬉しくないって……
+言わなくてもいいわ、有希</value>
+  </data>
+  <data name="0029 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>わかっちゃったわ。古泉くんね</value>
+  </data>
+  <data name="0030 (266.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0031 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく、キョンってどうして古泉
+くんにはきついのかしらね</value>
+  </data>
+  <data name="0032 (266.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>人からの後押しというものがあると
+頑張れる気がするものですね</value>
+  </data>
+  <data name="0033 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>応援とか後押しされると、期待に
+応えたくなるものね</value>
+  </data>
+  <data name="0034 (266.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>推したのがどなたであれ、気持ちに
+添いたいと思いますからね</value>
+  </data>
+  <data name="0035 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>中には後押しされても微妙な気持ち
+になる相手だっているわよ</value>
+  </data>
+  <data name="0036 (266.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ははは、それは否定しませんが、買
+われていると思えば嬉しいものです</value>
+  </data>
+  <data name="0037 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、悪い気はしないけどね</value>
+  </data>
+  <data name="0038 (266.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>特に、仲間からの後押しは嬉しい
+ものですよ</value>
+  </data>
+  <data name="0039 (266.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それじゃ早速後押ししてあげるわ！
+古泉くんには期待してるからねっ</value>
+  </data>
+  <data name="0040 (266.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>有難うございます、精進します</value>
+  </data>
 </root>

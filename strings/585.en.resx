@@ -65,7 +65,7 @@
     <value>When an "Accident" happens, the "Haruhi Route" is displayed on top of the top screen</value>
   </data>
   <data name="0002 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>When Suzumiya Haruhi reaches the red text "Accident Point,"</value>
+    <value>When Haruhi Suzumiya reaches the red text "Accident Point,"</value>
   </data>
   <data name="0003 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>A penalty event will be forced to occur.</value>
@@ -101,7 +101,7 @@
     <value>A "Main Topic" affects the story.</value>
   </data>
   <data name="0014 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>"Haruhi Topics" affect Suzumiya Haruhi's behavior.</value>
+    <value>"Haruhi Topics" affect Haruhi Suzumiya's behavior.</value>
   </data>
   <data name="0015 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>"Character Topics" affect the SOS Brigade member's behavior.</value>
@@ -152,7 +152,7 @@
     <value>will trigger a Delay Event.</value>
   </data>
   <data name="0031 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>By presenting a keyword Topic to Suzumiya Haruhi,</value>
+    <value>By presenting a keyword Topic to Haruhi Suzumiya,</value>
   </data>
   <data name="0032 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>it is possible to distract and delay her for a short time.</value>
