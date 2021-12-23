@@ -62,40 +62,40 @@
     <value>Accident Outbreak!</value>
   </data>
   <data name="0001 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>When an "Accident" happens, the "Haruhi Route" is displayed on top of the top screen</value>
+    <value>When an "Accident" happens, the "Haruhi Route" is displayed on top of the top screen.</value>
   </data>
   <data name="0002 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>When Haruhi Suzumiya reaches the red text "Accident Point,"</value>
+    <value>When Haruhi Suzumiya reaches the red text "Accident Point..."</value>
   </data>
   <data name="0003 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>A penalty event will be forced to occur.</value>
+    <value>A penalty event will occur.</value>
   </data>
   <data name="0004 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>An Accident occurring means the time limit will be decreased substantially.</value>
   </data>
   <data name="0005 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>There are 2 ways to avoid "Accidents."</value>
+    <value>There are two ways to avoid "Accidents."</value>
   </data>
   <data name="0006 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>1. Acquire the corresponding "Main Topic."</value>
   </data>
   <data name="0007 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>"Topic," is a general term for a keyword or item that serves to distract Haruhi,</value>
+    <value>"Topic" is a general term for a keyword or item that serves to distract Haruhi...</value>
   </data>
   <data name="0008 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>or keep her "Delayed."</value>
+    <value>or keep her delayed.</value>
   </data>
   <data name="0009 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>They are obtained based on what member is distracting Haruhi in the event story.</value>
+    <value>They are obtained based on what member is distracting Haruhi in the story.</value>
   </data>
   <data name="0010 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>It is possible to distribute group members in a pattern that,</value>
+    <value>It is possible to distribute group members in a pattern that...</value>
   </data>
   <data name="0011 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>allows each member to potentially receive a different "Topic."</value>
+    <value>...allows each member to potentially receive a different "Topic."</value>
   </data>
   <data name="0012 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>There are 4 types of Topics.</value>
+    <value>There are four types of Topics.</value>
   </data>
   <data name="0013 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>A "Main Topic" affects the story.</value>
@@ -107,10 +107,10 @@
     <value>"Character Topics" affect the SOS Brigade member's behavior.</value>
   </data>
   <data name="0016 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>"Sub Topics" are snippets of casual conversations. Those are the 4 types.</value>
+    <value>"Sub Topics" are snippets of casual conversations. Those are the four types.</value>
   </data>
   <data name="0017 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Among these, acquiring the Main Topic,</value>
+    <value>Among these, acquiring the Main Topic...</value>
   </data>
   <data name="0018 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>will allow you to automatically evade the corresponding Accident.</value>
@@ -119,16 +119,16 @@
     <value>2. Using the Haruhi Topic.</value>
   </data>
   <data name="0020 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>After Goal Distribution, depending on Kyon's actions during the event,</value>
+    <value>After Goal Distribution, depending on Kyon's actions during the event...</value>
   </data>
   <data name="0021 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>you will be able to acquire a Haruhi Topic.</value>
+    <value>...you will be able to acquire a Haruhi Topic.</value>
   </data>
   <data name="0022 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>There are certain unavoidable Accidents you cannot use a Main Topic on.</value>
   </data>
   <data name="0023 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>But if you use a Haruhi Topic on them, you will force the Accident to be evaded.</value>
+    <value>But if you use a Haruhi Topic on them, you will be able to evade the Accident.</value>
   </data>
   <data name="0024 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>However, the Haruhi Topic is more difficult to obtain than the others.</value>
@@ -137,25 +137,25 @@
     <value>Please think carefully before using them.</value>
   </data>
   <data name="0026 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>To compensate, the only Topics that will carry over between episodes,</value>
+    <value>To compensate, the only Topics that will carry over between episodes...</value>
   </data>
   <data name="0027 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>is Haruhi Topics.</value>
+    <value>...are Haruhi Topics.</value>
   </data>
   <data name="0028 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>There is one other possible method of evading unavoidable Accidents.</value>
   </data>
   <data name="0029 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Using a Topic on an Event Point above the Haruhi Route,</value>
+    <value>Using a Topic on an Event Point above the Haruhi Route...</value>
   </data>
   <data name="0030 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>will trigger a Delay Event.</value>
+    <value>...will trigger a Delay Event.</value>
   </data>
   <data name="0031 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>By presenting a keyword Topic to Haruhi Suzumiya,</value>
+    <value>By presenting a keyword Topic to Haruhi Suzumiya...</value>
   </data>
   <data name="0032 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>it is possible to distract and delay her for a short time.</value>
+    <value>...it is possible to distract and delay her for a short time.</value>
   </data>
   <data name="0033 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>The time she's delayed for depends on the contents of the Topic, and the member with her.</value>
@@ -176,10 +176,10 @@
     <value>The Haruhi Topic has the ability to negate accidents.</value>
   </data>
   <data name="0039 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>And by delaying her, it is also able to increase the time limit drastically.</value>
+    <value>And by delaying her, it will also increase the time limit drastically.</value>
   </data>
   <data name="0040 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>This increase your options during Investigation Mode, letting you search often.</value>
+    <value>This increase your options during Investi- gation Mode, letting you search more often.</value>
   </data>
   <data name="0041 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>Try to get as many Topics as you can.</value>
@@ -191,15 +191,15 @@
     <value>Allocating group members purposefully is of the utmost importance.</value>
   </data>
   <data name="0044 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Please identify the characteristics of each member and after thinking carefully,</value>
+    <value>Please identify the characteristics of each member and after thinking carefully...</value>
   </data>
   <data name="0045 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>distribute them according to what each is well suited for.</value>
+    <value>...distribute them according to what each is well-suited for.</value>
   </data>
   <data name="0046 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>The behavior of the members who don't accompany Kyon are also important factors.</value>
   </data>
   <data name="0047 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Try distributing group members in various ways to test out what combo works best!</value>
+    <value>Try distributing group members in various ways to test out which combos work best!</value>
   </data>
 </root>

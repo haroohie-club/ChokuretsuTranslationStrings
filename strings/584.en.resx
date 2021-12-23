@@ -59,49 +59,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>The Singularity Point has been successfully erased.</value>
+    <value>The singularity has been successfully erased.</value>
   </data>
   <data name="0001 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>On the lower left corner of the screen the remaining Singularity Points and Quota,</value>
+    <value>On the lower left corner of the screen the remaining singularities and goal...</value>
   </data>
   <data name="0002 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>will decrease.</value>
+    <value>...will decrease.</value>
   </data>
   <data name="0003 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>You will clear the stage when the number of remaining Points becomes 0.</value>
+    <value>You will clear the stage when the number of remaining singularities is zero.</value>
   </data>
   <data name="0004 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>However, if you allow the time limit to reach 0 first,</value>
+    <value>However, if you allow the time limit to reach zero first,</value>
   </data>
   <data name="0005 (584.ja) INFO (インフォ)" xml:space="preserve">
     <value>it will result in Time Over instead.</value>
   </data>
   <data name="0006 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>If the quota is reached by then,</value>
+    <value>If the goal is reached by then...</value>
   </data>
   <data name="0007 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>then the stage will be cleared. But if the quota is not met,</value>
+    <value>...then the stage will be cleared. But if the goal is not met...</value>
   </data>
   <data name="0008 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Game Over will occur.</value>
+    <value>...Game Over will occur.</value>
   </data>
   <data name="0009 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Pressing the Y button will pause the game and change the screen,</value>
+    <value>Pressing the Y button will pause the game and change the screen...</value>
   </data>
   <data name="0010 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>allowing you to review the entire map.</value>
+    <value>...allowing you to review the entire map.</value>
   </data>
   <data name="0011 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>On the full map you will be able to see materialized Points and Investigation results.</value>
+    <value>On the full map you will be able to see mater- ialized singularities and Investigation results.</value>
   </data>
   <data name="0012 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>While you are on the pause screen time is stopped,</value>
+    <value>While you are on the pause screen time is stopped...</value>
   </data>
   <data name="0013 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>letting you leisurely review the situation.</value>
+    <value>...letting you review the situation at your leisure.</value>
   </data>
   <data name="0014 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>However please note that Singularity Points not fully erased will still restore themselves.</value>
+    <value>However please note that singularities not fully erased will still restore themselves.</value>
   </data>
   <data name="0015 (584.ja) INFO (インフォ)" xml:space="preserve">
     <value>Besides this, the pause screen also shows things like power ups, special abilities, and levels.</value>
@@ -110,28 +110,28 @@
     <value>Information useful for forming a strategy will be displayed.</value>
   </data>
   <data name="0017 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>In order to destroy all of the Singularity Points before the time limit,</value>
+    <value>In order to destroy all of the singularities before the time limit...</value>
   </data>
   <data name="0018 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>it is important to investigate efficiently.</value>
+    <value>...it is important to investigate efficiently.</value>
   </data>
   <data name="0019 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>With the investigate action you can inspect tiles 1 space away from the Brigade member.</value>
+    <value>With the investigate action you can inspect tiles one space away from the Brigade member.</value>
   </data>
   <data name="0020 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>But this will not materialize the Singularity Point.</value>
+    <value>But this will not materialize any singularities.</value>
   </data>
   <data name="0021 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Investigate wide areas efficiently so the results do not overlap with each other,</value>
+    <value>Investigate wide areas efficiently so the results do not overlap with each other...</value>
   </data>
   <data name="0022 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>and you will be able to quickly deduce the location of the Singularity Point.</value>
+    <value>...and you will be able to quickly deduce the locations of the singularities.</value>
   </data>
   <data name="0023 (584.ja) INFO (インフォ)" xml:space="preserve">
     <value>Once the location has been deduced you can quickly use the Search Point action.</value>
   </data>
   <data name="0024 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>And then rub the materialized Singularity Point with your stylus to erase it.</value>
+    <value>And then rub the materialized singularities with your stylus to erase it.</value>
   </data>
   <data name="0025 (584.ja) INFO (インフォ)" xml:space="preserve">
     <value>Don't forget that every unnecessary Search causes time to pass.</value>

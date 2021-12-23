@@ -65,43 +65,43 @@
     <value>In Investigation Mode, you will navigate abnormal space with an SOS Brigade member.</value>
   </data>
   <data name="0002 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>The objective is to cause the abnormal space naturally dissolve,</value>
+    <value>The objective is to cause the abnormal space naturally dissolve...</value>
   </data>
   <data name="0003 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>before Haruhi Suzumiya arrives.</value>
+    <value>...before Haruhi Suzumiya arrives.</value>
   </data>
   <data name="0004 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>In order to do that, you must find the hidden "Singularity Points" on the map,</value>
+    <value>In order to do that, you must find the hidden "singularities" on the map...</value>
   </data>
   <data name="0005 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>and then materialize, and erase them.</value>
+    <value>...and then materialize and erase them.</value>
   </data>
   <data name="0006 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>On the bottom left of the screen is a number indicating how many remain.</value>
   </data>
   <data name="0007 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>If you can erase this minimum amount of "quota" Singularity Points,</value>
+    <value>If you can erase this minimum number of singularities...</value>
   </data>
   <data name="0008 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>It will be possible to clear the stage.</value>
+    <value>...it will be possible to clear the stage.</value>
   </data>
   <data name="0009 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>In order to clear the Investigation part of the stage, erase all of the Singularity Points.</value>
+    <value>In order to clear the Investigation part of the stage, erase all of the singularities.</value>
   </data>
   <data name="0010 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>You must achieve the "quota" before "Time Over" occurs.</value>
+    <value>You must achieve the goal before "Time Over" occurs.</value>
   </data>
   <data name="0011 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>The top screen will show the time limit that remains before you lose.</value>
   </data>
   <data name="0012 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Find and erase the quota singularity points before then,</value>
+    <value>Find and erase the target number of singularities before then,</value>
   </data>
   <data name="0013 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>or it will result in Game Over.</value>
   </data>
   <data name="0014 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>In abnormal space, you are able to do the following actions with your operable Brigade member.</value>
+    <value>In abnormal space, you are able to do the following actions with your playable Brigade member.</value>
   </data>
   <data name="0015 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>1. "Movement"</value>
@@ -122,7 +122,7 @@
     <value>You will then be able to "investigate" any of them.</value>
   </data>
   <data name="0021 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>"Investigate" will allow you to search for nearby hidden Singularity Points.</value>
+    <value>"Investigate" will allow you to search for nearby hidden singularities.</value>
   </data>
   <data name="0022 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>However, you will not be able to materialize them with the investigate action.</value>
@@ -131,7 +131,7 @@
     <value>Once you've guessed the hiding spot of one based on the markers near your feet,</value>
   </data>
   <data name="0024 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>please materialize the Singularity Point by using the "search point" action.</value>
+    <value>please materialize the singularity by using the "search point" action.</value>
   </data>
   <data name="0025 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>3. "Search Point"</value>
@@ -149,45 +149,45 @@
     <value>that point will be searched.</value>
   </data>
   <data name="0030 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>When you search a point that contains a hidden Singularity Point,</value>
+    <value>When you search a point that contains a hidden singularity,</value>
   </data>
   <data name="0031 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>it will be forced to materialize.</value>
   </data>
   <data name="0032 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>You can only use "Search Point" to search 1 tile at a time.</value>
+    <value>You can only use "Search Point" to search one tile at a time.</value>
   </data>
   <data name="0033 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>It's a basic action that materializes the Singularity Point.</value>
+    <value>It's a basic action that materializes the singularity.</value>
   </data>
   <data name="0034 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>If you want to perform the "Investigate" action again, turn off the Search Icon.</value>
   </data>
   <data name="0035 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Please be careful to not confuse these 2 modes.</value>
+    <value>Please be careful to not confuse these two modes.</value>
   </data>
   <data name="0036 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>When you investigate, the marks near your feet indicate the odds of a Sing. Point existing.</value>
+    <value>When you investigate, the marks near your feet indicate the odds of a singularity existing.</value>
   </data>
   <data name="0037 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>The "!" mark on a tile indicates that within 1 space of that tile,</value>
+    <value>The "!" mark on a tile indicates that within one space of that tile...</value>
   </data>
   <data name="0038 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>a Singularity Point exists.</value>
+    <value>a singularity exists.</value>
   </data>
   <data name="0039 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>The number of "!" will increase according to how many Singularity Points…</value>
+    <value>The number of "!" marks will increase according to how many singularities…</value>
   </data>
   <data name="0040 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>…exist in the tiles surrounding it.</value>
   </data>
   <data name="0041 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Once a Singularity Point has been materialized, rub it with your stylus to erase it.</value>
+    <value>Once a singularities has been materialized, rub it with your stylus to erase it.</value>
   </data>
   <data name="0042 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>If you rub over it a little wider than it looks, you can erase it more efficiently.</value>
   </data>
   <data name="0043 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>As a final reminder, please be mindful of the time limit when finding and erasing Sing. Points.</value>
+    <value>As a final reminder, please be mindful of the time limit when finding and erasing singularities.</value>
   </data>
 </root>
