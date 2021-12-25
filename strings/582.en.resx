@@ -77,7 +77,7 @@
     <value>...and then materialize and erase them.</value>
   </data>
   <data name="0006 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>On the bottom left of the screen is a number indicating how many remain.</value>
+    <value>On the bottom left of the screen is a number indicating how many singularities remain.</value>
   </data>
   <data name="0007 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>If you can erase this minimum number of singularities...</value>
@@ -101,7 +101,7 @@
     <value>or it will result in Game Over.</value>
   </data>
   <data name="0014 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>In abnormal space, you are able to do the following actions with your playable Brigade member.</value>
+    <value>In abnormal space, you are able to do the following actions with your Brigade member.</value>
   </data>
   <data name="0015 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>1. "Movement"</value>
@@ -137,22 +137,22 @@
     <value>3. "Search Point"</value>
   </data>
   <data name="0026 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>When you touch the "Search Icon" at the upper left of the screen,</value>
+    <value>When you touch the "Search Icon" at the upper left of the screen...</value>
   </data>
   <data name="0027 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>An icon indicating "Search Point Mode" will appear over the member's head.</value>
+    <value>...an icon indicating "Search Point Mode" will appear over the member's head.</value>
   </data>
   <data name="0028 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>If you touch a tile adjacent to the member while in this mode,</value>
+    <value>If you touch a tile adjacent to the member while in this mode...</value>
   </data>
   <data name="0029 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>that point will be searched.</value>
+    <value>...that point will be searched.</value>
   </data>
   <data name="0030 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>When you search a point that contains a hidden singularity,</value>
+    <value>When you search a point that contains a hidden singularity...</value>
   </data>
   <data name="0031 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>it will be forced to materialize.</value>
+    <value>...it will be forced to materialize.</value>
   </data>
   <data name="0032 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>You can only use "Search Point" to search one tile at a time.</value>
@@ -173,7 +173,7 @@
     <value>The "!" mark on a tile indicates that within one space of that tile...</value>
   </data>
   <data name="0038 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>a singularity exists.</value>
+    <value>...a singularity exists.</value>
   </data>
   <data name="0039 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>The number of "!" marks will increase according to how many singularities…</value>
@@ -182,10 +182,10 @@
     <value>…exist in the tiles surrounding it.</value>
   </data>
   <data name="0041 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Once a singularities has been materialized, rub it with your stylus to erase it.</value>
+    <value>Once a singularity has materialized, rub it with your stylus to erase it.</value>
   </data>
   <data name="0042 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>If you rub over it a little wider than it looks, you can erase it more efficiently.</value>
+    <value>If you rub an area slightly wider than it, you can erase it more efficiently.</value>
   </data>
   <data name="0043 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>As a final reminder, please be mindful of the time limit when finding and erasing singularities.</value>

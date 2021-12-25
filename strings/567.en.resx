@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (567.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Huh? Now that I think about it, Kyon's disappeared.</value>
+    <value>Huh? Now that I think about it, I don't see Kyon.</value>
   </data>
   <data name="0001 (567.ja) MIKURU (みくる)" xml:space="preserve">
     <value>Huh… Oh, you're right.</value>
@@ -68,13 +68,13 @@
     <value>Could he have…!?</value>
   </data>
   <data name="0003 (567.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>He's not gone slacking off by himself has he!?</value>
+    <value>He's not slacking off by himself is he!?</value>
   </data>
   <data name="0004 (567.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>Umm, I don't… think he has. Probably.</value>
+    <value>Umm, I don't think that's the case. Probably.</value>
   </data>
   <data name="0005 (567.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Either way, he's not going unpunished for leaving of his own accord!</value>
+    <value>Either way, it doesn't change the fact that he took off on his own!</value>
   </data>
   <data name="0006 (567.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Let's go, Mikuru!</value>
@@ -83,7 +83,7 @@
     <value>Eh… G-Go?</value>
   </data>
   <data name="0008 (567.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>We're going to find Kyon and give him his deserved punishment, of course!</value>
+    <value>We're going to find Kyon and give him his due, of course!</value>
   </data>
   <data name="0009 (567.ja) MIKURU (みくる)" xml:space="preserve">
     <value>Huh!? We're going to p-punish him?</value>
@@ -107,7 +107,7 @@
     <value>Urgent measures are required.</value>
   </data>
   <data name="0018 (567.ja) KYON (キョン)" xml:space="preserve">
-    <value>Even if it's urgent, we're already struggling to deal with the unfamiliar situation at hand.</value>
+    <value>Even if it's urgent, we're already struggling to deal with the task at hand.</value>
   </data>
   <data name="0019 (567.ja) NAGATO (長門)" xml:space="preserve">
     <value>I'm unable to estimate what will happen if Haruhi Suzumiya witnesses the current situation.</value>
@@ -119,13 +119,13 @@
     <value>Yes.</value>
   </data>
   <data name="0022 (567.ja) KYON (キョン)" xml:space="preserve">
-    <value>Damn! For now I guess we have no choice but to hurry!</value>
+    <value>Damn! For now I guess we've got no choice but to hurry!</value>
   </data>
   <data name="0024 (567.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Kyon! Show yourself and willingly turn yourself in!</value>
+    <value>Kyon! Show yourself!</value>
   </data>
   <data name="0025 (567.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>If you hide, your punishment will only get worse!</value>
+    <value>Hiding will only make things worse for you!</value>
   </data>
   <data name="0026 (567.ja) MIKURU (みくる)" xml:space="preserve">
     <value>Suzumiyaaaa, wait for meee!</value>
@@ -134,6 +134,6 @@
     <value>Now's not the time to be getting tired, Mikuru!</value>
   </data>
   <data name="0028 (567.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>Y-yeeess~</value>
+    <value>O-Okayyy~</value>
   </data>
 </root>

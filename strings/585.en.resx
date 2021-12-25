@@ -59,16 +59,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Accident Outbreak!</value>
+    <value>Accident Occurred!</value>
   </data>
   <data name="0001 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>When an "Accident" happens, the "Haruhi Route" is displayed on top of the top screen.</value>
   </data>
   <data name="0002 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>When Haruhi Suzumiya reaches the red text "Accident Point..."</value>
+    <value>When Haruhi Suzumiya reaches the red "Accident" text...</value>
   </data>
   <data name="0003 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>A penalty event will occur.</value>
+    <value>...a penalty event will occur.</value>
   </data>
   <data name="0004 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>An Accident occurring means the time limit will be decreased substantially.</value>
@@ -83,10 +83,10 @@
     <value>"Topic" is a general term for a keyword or item that serves to distract Haruhi...</value>
   </data>
   <data name="0008 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>or keep her delayed.</value>
+    <value>...or keep her delayed.</value>
   </data>
   <data name="0009 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>They are obtained based on what member is distracting Haruhi in the story.</value>
+    <value>Which one you obtain is based on what member is distracting Haruhi in the story.</value>
   </data>
   <data name="0010 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>It is possible to distribute group members in a pattern that...</value>
@@ -113,7 +113,7 @@
     <value>Among these, acquiring the Main Topic...</value>
   </data>
   <data name="0018 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>will allow you to automatically evade the corresponding Accident.</value>
+    <value>...will allow you to automatically evade the corresponding Accident.</value>
   </data>
   <data name="0019 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>2. Using the Haruhi Topic.</value>
@@ -158,7 +158,7 @@
     <value>...it is possible to distract and delay her for a short time.</value>
   </data>
   <data name="0033 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>The time she's delayed for depends on the contents of the Topic, and the member with her.</value>
+    <value>The time she's delayed for depends on the contents of the Topic and the member with her.</value>
   </data>
   <data name="0034 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04Although it could change based on different combinations, in general the order is as follows:</value>
@@ -167,7 +167,7 @@
     <value>Haruhi Topic - Large time limit increase.</value>
   </data>
   <data name="0036 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Kyon Topic - Ordinary time limit increase.</value>
+    <value>Character Topic - Ordinary time limit increase.</value>
   </data>
   <data name="0037 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>Sub Topic - Small time limit increase.</value>
