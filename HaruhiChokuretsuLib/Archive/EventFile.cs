@@ -109,14 +109,14 @@ namespace HaruhiChokuretsuLib.Archive
             DialogueLines[index].Text = newText;
             DialogueLines[index].NumPaddingZeroes = 4 - (DialogueLines[index].Length % 4);
             int lengthDifference = DialogueLines[index].Length + DialogueLines[index].NumPaddingZeroes - oldLength;
-            
+
             List<byte> toWrite = new();
             toWrite.AddRange(DialogueLines[index].Data);
             for (int i = 0; i < DialogueLines[index].NumPaddingZeroes; i++)
             {
                 toWrite.Add(0);
             }
-            
+
             Data.RemoveRange(DialogueLines[index].Pointer, oldLength);
             Data.InsertRange(DialogueLines[index].Pointer, toWrite);
 
@@ -229,7 +229,14 @@ namespace HaruhiChokuretsuLib.Archive
                     }
                     else if (dialogueText[i] == '#')
                     {
-                        i++; // skip W or P
+                        if (dialogueText[(i + 1)..(i + 3)] == "DP" || dialogueText[(i + 1)..(i + 3)] == "SE")
+                        {
+                            i += 2;
+                        }
+                        else
+                        {
+                            i++; // skip initial control character
+                        }
                         operatorActive = true;
                         continue;
                     }
@@ -256,7 +263,7 @@ namespace HaruhiChokuretsuLib.Archive
                     }
                 }
 
-                if ((!datFile && dialogueText.Count(c => c == '\n') > 1) || (DialogueLines[dialogueIndex].SpeakerName == "CHOICE" && dialogueText.Length > 14))
+                if ((!datFile && dialogueText.Count(c => c == '\n') > 1) || (DialogueLines[dialogueIndex].SpeakerName == "CHOICE" && dialogueText.Length > 256))
                 {
                     string type = "dialogue line";
                     if (DialogueLines[dialogueIndex].SpeakerName == "CHOICE")
