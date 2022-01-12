@@ -573,12 +573,18 @@
     <value>メモを取る</value>
   </data>
   <data name="0154 (509.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>うなずく</value>
+    <value>別にいいか</value>
   </data>
   <data name="0155 (509.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>首を振る</value>
+    <value>うなずく</value>
   </data>
   <data name="0156 (509.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>首を振る</value>
+  </data>
+  <data name="0157 (509.ja) INFO (CHOICE)" xml:space="preserve">
     <value>みくるを称える</value>
+  </data>
+  <data name="0158 (509.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>買い置きを称える</value>
   </data>
 </root>

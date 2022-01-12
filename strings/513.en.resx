@@ -671,15 +671,21 @@
     <value>もう一度殴らせる</value>
   </data>
   <data name="0185 (513.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>時間がない</value>
+    <value>長門に相談する</value>
   </data>
   <data name="0186 (513.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>自分で考える</value>
+    <value>時間がない</value>
   </data>
   <data name="0187 (513.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>俺がやる</value>
+    <value>相談する</value>
   </data>
   <data name="0188 (513.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>自分で考える</value>
+  </data>
+  <data name="0189 (513.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>俺がやる</value>
+  </data>
+  <data name="0190 (513.ja) INFO (CHOICE)" xml:space="preserve">
     <value>古泉に任せる</value>
   </data>
 </root>

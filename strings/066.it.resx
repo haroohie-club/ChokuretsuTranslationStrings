@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,116 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (066.ja) KYON (キョン)" xml:space="preserve">
+    <value>あのな肝試しの時、自分の足音に
+さえ怯えて震えてたぞ</value>
+  </data>
+  <data name="0001 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰がって聞くまでもないか
+みくるちゃんよね？</value>
+  </data>
+  <data name="0002 (066.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、そうだ</value>
+  </data>
+  <data name="0003 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく、ひとりで行動するべき
+なのに何してるのよ</value>
+  </data>
+  <data name="0004 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>といいたいところだけど、みくる
+ちゃんには確かにキツかったわよね</value>
+  </data>
+  <data name="0005 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>悪いことしちゃったわ</value>
+  </data>
+  <data name="0006 (066.ja) KYON (キョン)" xml:space="preserve">
+    <value>判ってもらえて嬉しいぞ</value>
+  </data>
+  <data name="0007 (066.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しかし、ハルヒが素直に反省する
+とはな</value>
+  </data>
+  <data name="0008 (066.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>す、涼宮さぁん、待って下さい</value>
+  </data>
+  <data name="0009 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もう、みくるちゃん、今度は何よ？</value>
+  </data>
+  <data name="0010 (066.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>こ、怖くなって足が震えちゃって
+動けないですぅ</value>
+  </data>
+  <data name="0011 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>根性が足りないわ、みくるちゃん！</value>
+  </data>
+  <data name="0012 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんなんじゃＳＯＳ団の
+マスコット役は務まらないわよ！</value>
+  </data>
+  <data name="0013 (066.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ううっ、つ、務まらなくても
+いいですぅ</value>
+  </data>
+  <data name="0014 (066.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたしには無理なんです</value>
+  </data>
+  <data name="0015 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、その怖がりっぷりは
+萌えるからよしとするわ</value>
+  </data>
+  <data name="0016 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、手を引っ張ってあげるから
+先を急ぐわよ</value>
+  </data>
+  <data name="0017 (066.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はいぃ</value>
+  </data>
+  <data name="0018 (066.ja) NAGATO (長門)" xml:space="preserve">
+    <value>朝比奈みくるのように、恐怖に震え
+るのは理にかなっていない</value>
+  </data>
+  <data name="0019 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あら、そう？</value>
+  </data>
+  <data name="0020 (066.ja) NAGATO (長門)" xml:space="preserve">
+    <value>恐怖する対象を目の当たりにした時
+それでは逃走できない</value>
+  </data>
+  <data name="0021 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、それはそうかもね</value>
+  </data>
+  <data name="0022 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>震えてると身体がこわばって、うま
+く動けないものね</value>
+  </data>
+  <data name="0023 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、自分の意志でなんとかできな
+いのが恐怖ってものなのよ</value>
+  </data>
+  <data name="0024 (066.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0025 (066.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>朝比奈さんは、今回の肝試しを心底
+怖がっていらっしゃったようですね</value>
+  </data>
+  <data name="0026 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうでなきゃ肝試しの意味がないわ</value>
+  </data>
+  <data name="0027 (066.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ですが、あまりの恐ろしさに震えて
+いらっしゃったとか</value>
+  </data>
+  <data name="0028 (066.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>さすがにあの状態では団の活動に
+支障を来たすのではないかと</value>
+  </data>
+  <data name="0029 (066.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そう思ったので、差し出がましいよ
+うですがご報告しておきます</value>
+  </data>
+  <data name="0030 (066.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。確かに気絶とかしちゃった
+ら大変よね。ちょっと考えてみるわ</value>
+  </data>
 </root>

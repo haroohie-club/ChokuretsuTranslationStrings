@@ -636,6 +636,18 @@
     <value>みくるに告げる</value>
   </data>
   <data name="0200 (494.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門に告げる</value>
+  </data>
+  <data name="0201 (494.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>調べる</value>
+  </data>
+  <data name="0202 (494.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>調べない</value>
+  </data>
+  <data name="0203 (494.ja) INFO (CHOICE)" xml:space="preserve">
     <value>みくるに教える</value>
+  </data>
+  <data name="0204 (494.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門に頼む</value>
   </data>
 </root>

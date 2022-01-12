@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,168 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (220.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ
+ロウマッチって知ってるか？</value>
+  </data>
+  <data name="0001 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ、知ってるわよ
+それがどうしたの？</value>
+  </data>
+  <data name="0002 (220.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉が空き地で見つけたんだよ
+しかし、あれって便利だよな</value>
+  </data>
+  <data name="0003 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうよね。ロウマッチってどこで
+こすっても火がつけられるものね</value>
+  </data>
+  <data name="0004 (220.ja) KYON (キョン)" xml:space="preserve">
+    <value>西部劇でブーツのかかとやテーブル
+でつけたりしてるな</value>
+  </data>
+  <data name="0005 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしも映画で、爪の先でこすって
+火をつけるの見た覚えがあるわ</value>
+  </data>
+  <data name="0006 (220.ja) KYON (キョン)" xml:space="preserve">
+    <value>テロップで、危険ですから真似
+しないでくださいと流れそうだ</value>
+  </data>
+  <data name="0007 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今時はそうかもね。火傷とかしそう
+だし</value>
+  </data>
+  <data name="0008 (220.ja) KYON (キョン)" xml:space="preserve">
+    <value>空き地で見つけたって言ってたが
+常備してるんじゃないかと</value>
+  </data>
+  <data name="0009 (220.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺は疑ってるんだが</value>
+  </data>
+  <data name="0010 (220.ja) KYON (キョン)" xml:space="preserve">
+    <value>それで格好良く火を点ける練習を
+こっそりしてるとかな</value>
+  </data>
+  <data name="0011 (220.ja) KYON (キョン)" xml:space="preserve">
+    <value>うん、古泉ならやりかねない</value>
+  </data>
+  <data name="0012 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンの古泉くん像って、なんか
+歪んでるわね</value>
+  </data>
+  <data name="0013 (220.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうか？</value>
+  </data>
+  <data name="0014 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたの方がよっぽど練習してそう
+だわよ</value>
+  </data>
+  <data name="0015 (220.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ロウマッチって不思議ですねぇ</value>
+  </data>
+  <data name="0016 (220.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>こする場所を選ばないなんて
+びっくりしましたよー</value>
+  </data>
+  <data name="0017 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>西部劇とかによく出てくるわよ
+観たことなかったの？</value>
+  </data>
+  <data name="0018 (220.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええ、知らなかったです</value>
+  </data>
+  <data name="0019 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん。みくるちゃんは映画とか
+あんまし見ないのね</value>
+  </data>
+  <data name="0020 (220.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも、どこでこすっても火がつく
+のなら、危険じゃないですか？</value>
+  </data>
+  <data name="0021 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから、缶に入って売っている
+ことが多いのよ</value>
+  </data>
+  <data name="0022 (220.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、なるほど～、そうなんですか</value>
+  </data>
+  <data name="0023 (220.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>勉強になりました
+新しい知識が増えて良かったです</value>
+  </data>
+  <data name="0024 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんは怪談の話をしてない
+時は元気で前向きよね</value>
+  </data>
+  <data name="0025 (220.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はうっっ、お、思い出させないで
+ください～～～っ！</value>
+  </data>
+  <data name="0026 (220.ja) NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹が空き地でロウマッチを
+発見した</value>
+  </data>
+  <data name="0027 (220.ja) NAGATO (長門)" xml:space="preserve">
+    <value>硫化リンで作られているため
+通常のマッチと比較して人体に無害</value>
+  </data>
+  <data name="0028 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希はロウマッチが気になるの？</value>
+  </data>
+  <data name="0029 (220.ja) NAGATO (長門)" xml:space="preserve">
+    <value>興味深い</value>
+  </data>
+  <data name="0030 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ざらざらしてればいいから、お札で
+こすっても火がつくのよ</value>
+  </data>
+  <data name="0031 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希が持ち歩いてる本でもつく
+んじゃないかしら？</value>
+  </data>
+  <data name="0032 (220.ja) NAGATO (長門)" xml:space="preserve">
+    <value>それは失敗した場合に引火しやすい
+燃えやすい材質の為推奨はできない</value>
+  </data>
+  <data name="0033 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんな大事なものでマッチを
+すったりしちゃいけないわね</value>
+  </data>
+  <data name="0034 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>安心して有希。あたしは本でマッチ
+を擦ったり燃やしたりしないから</value>
+  </data>
+  <data name="0035 (220.ja) NAGATO (長門)" xml:space="preserve">
+    <value>わかった</value>
+  </data>
+  <data name="0036 (220.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>空き地で見つけたロウマッチですが
+あれは便利ですね</value>
+  </data>
+  <data name="0037 (220.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>今度探してみようかと思いますよ</value>
+  </data>
+  <data name="0038 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どこでこすっても火がつくから
+ちょっと見、手品みたいよね？</value>
+  </data>
+  <data name="0039 (220.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、僕は手品のような手技は好き
+ですから、練習してみようかと</value>
+  </data>
+  <data name="0040 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>じゃあ古泉くん、今度お札で火を
+つけるのやって見せてよ</value>
+  </data>
+  <data name="0041 (220.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>失敗したら痛い技ですよね、あれは</value>
+  </data>
+  <data name="0042 (220.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>宴会芸のレパートリーに加えると
+いいわ。楽しみにしてるから</value>
+  </data>
+  <data name="0043 (220.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>期待されてはやるしかありませんね</value>
+  </data>
 </root>

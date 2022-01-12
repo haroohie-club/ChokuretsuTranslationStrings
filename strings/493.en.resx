@@ -732,9 +732,18 @@
     <value>賛同する</value>
   </data>
   <data name="0211 (493.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>屋上に出そう</value>
+    <value>否定する</value>
   </data>
   <data name="0212 (493.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>追い込み役をやる</value>
+  </data>
+  <data name="0213 (493.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>待ち伏せ役をやる</value>
+  </data>
+  <data name="0214 (493.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>屋上に出そう</value>
+  </data>
+  <data name="0215 (493.ja) INFO (CHOICE)" xml:space="preserve">
     <value>階下に降ろそう</value>
   </data>
 </root>

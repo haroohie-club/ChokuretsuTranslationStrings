@@ -678,6 +678,12 @@
     <value>一緒に慌てる</value>
   </data>
   <data name="0191 (426.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>落ち着かせる</value>
+  </data>
+  <data name="0192 (426.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>励ます</value>
+  </data>
+  <data name="0193 (426.ja) INFO (CHOICE)" xml:space="preserve">
     <value>再確認</value>
   </data>
 </root>

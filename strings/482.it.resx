@@ -642,9 +642,21 @@
 素直に喜んでる場合じゃないな</value>
   </data>
   <data name="0176 (482.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ただのシミ</value>
+    <value>人の顔</value>
   </data>
   <data name="0177 (482.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ただのシミ</value>
+  </data>
+  <data name="0178 (482.ja) INFO (CHOICE)" xml:space="preserve">
     <value>携帯で写真を撮る</value>
+  </data>
+  <data name="0179 (482.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>声をかける</value>
+  </data>
+  <data name="0180 (482.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>電気は消す</value>
+  </data>
+  <data name="0181 (482.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>電気はつけておく</value>
   </data>
 </root>

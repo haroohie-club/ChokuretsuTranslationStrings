@@ -790,9 +790,12 @@
     <value>誤字を指摘する</value>
   </data>
   <data name="0209 (363.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>メモリーカードを拝借する</value>
+    <value>黙っておく</value>
   </data>
   <data name="0210 (363.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>メモリーカードを拝借する</value>
+  </data>
+  <data name="0211 (363.ja) INFO (CHOICE)" xml:space="preserve">
     <value>そんなことはできない</value>
   </data>
 </root>

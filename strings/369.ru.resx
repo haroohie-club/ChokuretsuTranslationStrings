@@ -651,9 +651,21 @@
 この際目をつぶることにした</value>
   </data>
   <data name="0180 (369.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉を選ぶ</value>
+    <value>長門を選ぶ</value>
   </data>
   <data name="0181 (369.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉を選ぶ</value>
+  </data>
+  <data name="0182 (369.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門と話す</value>
+  </data>
+  <data name="0183 (369.ja) INFO (CHOICE)" xml:space="preserve">
     <value>古泉と話す</value>
+  </data>
+  <data name="0184 (369.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>返してやれよ</value>
+  </data>
+  <data name="0185 (369.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>世界の平和か</value>
   </data>
 </root>

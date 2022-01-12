@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (536.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>と言うわけで、残されていた白い
+帽子は部室に置かれることになった</value>
+  </data>
+  <data name="0001 (536.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……あの日までは</value>
+  </data>
+  <data name="0002 (536.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>キョンくん！　はやくはやくー！</value>
+  </data>
+  <data name="0003 (536.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、そんなに引っ張るな
+待ち合わせの時間には十分間に合う</value>
+  </data>
+  <data name="0004 (536.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>ハルにゃんたちが待ってるよー！</value>
+  </data>
+  <data name="0005 (536.ja) KYON (キョン)" xml:space="preserve">
+    <value>わかったわかった</value>
+  </data>
+  <data name="0006 (536.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今日も今日とて、俺は涼宮ハルヒに
+呼び出されて、港へ向かっている</value>
+  </data>
+  <data name="0007 (536.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>何故か妹も連れてこいとのお達しだ</value>
+  </data>
+  <data name="0008 (536.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>港へ行って何をするかなんて、俺は
+知らない。聞かされていないからな</value>
+  </data>
+  <data name="0009 (536.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そんな扱いにも、もう慣れた</value>
+  </data>
+  <data name="0010 (536.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どうせロクでもないトンチキな目に
+遭うんだろう</value>
+  </data>
+  <data name="0011 (536.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>知らない方が気も軽いってもんだ</value>
+  </data>
+  <data name="0012 (536.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さて、今回はいったい、どんな
+不思議な事が待ち受けているのやら</value>
+  </data>
+  <data name="0013 (536.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まったく、やれやれだ</value>
+  </data>
+  <data name="0014 (536.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒについて</value>
+  </data>
 </root>

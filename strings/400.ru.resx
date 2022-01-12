@@ -247,6 +247,9 @@
 あとを追いかけなければ</value>
   </data>
   <data name="0050 (400.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>真面目に探す</value>
+  </data>
+  <data name="0051 (400.ja) INFO (CHOICE)" xml:space="preserve">
     <value>手を抜きつつ探す</value>
   </data>
 </root>

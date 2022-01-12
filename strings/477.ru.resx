@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,370 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの足止めをするために部室へ
+戻ってきたものの……</value>
+  </data>
+  <data name="0001 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっとキョンっ、なに戻ってきて
+るのよっ！</value>
+  </data>
+  <data name="0002 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒはおかんむりのようだ。まあ
+当然だよな</value>
+  </data>
+  <data name="0003 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、ちょっとワケありでな</value>
+  </data>
+  <data name="0004 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、どんなわけよ、言ってみな
+さい！</value>
+  </data>
+  <data name="0005 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>戻る理由まで考えてなかったのは
+まずかったな……</value>
+  </data>
+  <data name="0006 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、怒るのはいいがちょっと
+待ってくれ、長門と話がしたい</value>
+  </data>
+  <data name="0007 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、有希となんの相談？</value>
+  </data>
+  <data name="0008 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ待てって。長門の話を聞いて
+から答えてもいいだろ</value>
+  </data>
+  <data name="0009 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによそれ、納得いかないわっ！</value>
+  </data>
+  <data name="0010 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>納得をしようがするまいが
+どっちにしろハルヒは怒るだろう</value>
+  </data>
+  <data name="0011 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こうやっている間も時間つぶしが
+できるしな</value>
+  </data>
+  <data name="0013 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、ちょっと話したい</value>
+  </data>
+  <data name="0014 (477.ja) NAGATO (長門)" xml:space="preserve">
+    <value>なに</value>
+  </data>
+  <data name="0015 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>戻ってきた理由だが、怖かったから
+ってことにしないか？</value>
+  </data>
+  <data name="0016 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえも怖かったから戻って来たっ
+て言えばいい</value>
+  </data>
+  <data name="0017 (477.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0018 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ああ、どういえばいいんだろう？</value>
+  </data>
+  <data name="0019 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>とにかく俺に合わせてくれ。ハル
+ヒの足止めのために必要なんだ</value>
+  </data>
+  <data name="0020 (477.ja) NAGATO (長門)" xml:space="preserve">
+    <value>どうすればいい？</value>
+  </data>
+  <data name="0021 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>怖かったとだけ言えばいいから</value>
+  </data>
+  <data name="0022 (477.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……わかった</value>
+  </data>
+  <data name="0023 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんとなく納得出来てない様子だな
+#P05“イエローカード”#P01１枚ってとこか</value>
+  </data>
+  <data name="0024 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>怖いから戻ったと言えばハルヒは
+面白がると思わないか？</value>
+  </data>
+  <data name="0025 (477.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0026 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうすれば少しは時間稼ぎになる</value>
+  </data>
+  <data name="0027 (477.ja) NAGATO (長門)" xml:space="preserve">
+    <value>どうすればいい？</value>
+  </data>
+  <data name="0028 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>怖かったと言えば、それでいい</value>
+  </data>
+  <data name="0029 (477.ja) NAGATO (長門)" xml:space="preserve">
+    <value>わかった。あなたに従う</value>
+  </data>
+  <data name="0030 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>#P05“長門の承諾”#P01が得られたか
+これでなんとかなりそうだ</value>
+  </data>
+  <data name="0032 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにをゴチャゴチャやってるのよ
+キョン！？</value>
+  </data>
+  <data name="0033 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしを無視して内緒話とは、いい
+度胸してるわねっ！</value>
+  </data>
+  <data name="0034 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああー、すまん。まず長門の事情を
+くんでやらないとな</value>
+  </data>
+  <data name="0035 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アンタの事情はともかく有希になに
+か理由があるなら当然聞くわよ</value>
+  </data>
+  <data name="0036 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺の事情は完全無視かよ</value>
+  </data>
+  <data name="0039 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、ここに戻ってきた理由を
+ハルヒに言ってやってくれ</value>
+  </data>
+  <data name="0040 (477.ja) NAGATO (長門)" xml:space="preserve">
+    <value>怖かったから戻ってきた</value>
+  </data>
+  <data name="0041 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、有希がそんなことを言うなん
+て、よっぽどだったのね</value>
+  </data>
+  <data name="0042 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>我がＳＯＳ団団長はたいそう喜んで
+いらっしゃる</value>
+  </data>
+  <data name="0043 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺だって、長門がいきなり怖いとか
+言ったら具合が悪いのかと思う</value>
+  </data>
+  <data name="0044 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ね、ね、なにが怖かったの？</value>
+  </data>
+  <data name="0045 (477.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0046 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺の顔を見られてもなあ……</value>
+  </data>
+  <data name="0047 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>暗いのがダメなのかしら、それとも
+怪談を思い出したのかしらねっ</value>
+  </data>
+  <data name="0048 (477.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……そう</value>
+  </data>
+  <data name="0049 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、なんて可愛いのっ</value>
+  </data>
+  <data name="0050 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒは予想以上に満足したらしく
+顔面に大輪の花を咲かせている</value>
+  </data>
+  <data name="0051 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まさか有希が怖がるなんてね
+やっぱり夏は肝試しよねっ！</value>
+  </data>
+  <data name="0052 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門はなんて答えていいのかわから
+ない様子で話を合わせている</value>
+  </data>
+  <data name="0053 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>前もって話し合えばよかったけど
+長門には申し訳ないことをしたな</value>
+  </data>
+  <data name="0056 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門、すまん</value>
+  </data>
+  <data name="0057 (477.ja) NAGATO (長門)" xml:space="preserve">
+    <value>あなたが謝る必要はない</value>
+  </data>
+  <data name="0058 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、ちゃんと説明しきらなかった
+俺が悪いと思ってな</value>
+  </data>
+  <data name="0060 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こらキョン！　またあたしを無視
+してなにやってるのよっ！</value>
+  </data>
+  <data name="0061 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、待て。俺は怖がってる長門を
+なぐさめてるだけだ</value>
+  </data>
+  <data name="0062 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはいいとして、なんでアンタ
+まで戻ってきたのか説明しなさい！</value>
+  </data>
+  <data name="0063 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>あー、それはだなあ……</value>
+  </data>
+  <data name="0066 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんて答えようかと悩んでいると
+長門がそっと#P05“手鏡”#P01を出してきた</value>
+  </data>
+  <data name="0067 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この#P05“手鏡”#P01になんの意味がある？</value>
+  </data>
+  <data name="0068 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>もしかして、俺にも怖かったと言え
+って意味なのか、長門？</value>
+  </data>
+  <data name="0071 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>あー、仕方がないな。俺が戻って
+来た理由はだなあ……</value>
+  </data>
+  <data name="0072 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにを前置きしてるのよ、ハキハキ
+答えなさいよっ！</value>
+  </data>
+  <data name="0073 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>だから！　俺も怖かったんだよ！</value>
+  </data>
+  <data name="0074 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……ふーん、怖かったんだ。へーっ</value>
+  </data>
+  <data name="0075 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門に謝るよりも、ここは長門に
+合わせるのが一番だろう</value>
+  </data>
+  <data name="0077 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それで、アンタはなんで戻ってきた
+わけ？</value>
+  </data>
+  <data name="0078 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まさか、アンタまで怖かったから
+なんて言い出さないでしょうね？</value>
+  </data>
+  <data name="0079 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>やっぱり長門に怖いからと言わせた
+手前、俺も合わせるしかないよな</value>
+  </data>
+  <data name="0080 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ、そんなところだ</value>
+  </data>
+  <data name="0081 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ぷっ</value>
+  </data>
+  <data name="0082 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>吹きやがったよ、こいつ</value>
+  </data>
+  <data name="0083 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へー。アンタも怖かったんだ</value>
+  </data>
+  <data name="0084 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>だからだな、その、なんだ</value>
+  </data>
+  <data name="0085 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺が怖いから戻ってきた、なんて
+格好悪いから、</value>
+  </data>
+  <data name="0086 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんとか誤魔化せないかと思って
+長門に相談してみたんだよ！</value>
+  </data>
+  <data name="0087 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうーん、へー、そう
+なるほどねぇ……</value>
+  </data>
+  <data name="0088 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒは鬼の首でも取ったような
+顔でニヤついていやがる</value>
+  </data>
+  <data name="0089 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この際、怖かったで通して時間稼ぎ
+するしかないね</value>
+  </data>
+  <data name="0090 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>しょうがないだろ、怖いものは
+怖いんだから</value>
+  </data>
+  <data name="0091 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大の男が情けないわねっ！</value>
+  </data>
+  <data name="0092 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希やみくるちゃんならともかく
+アンタが怖がるなんて</value>
+  </data>
+  <data name="0093 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ああなんとでも言え、さげすんだ
+目で俺を見ればいい</value>
+  </data>
+  <data name="0094 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>で、アレはどうしたの？</value>
+  </data>
+  <data name="0095 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>アレってなんだ？</value>
+  </data>
+  <data name="0096 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>アレって言ったら、アレよ</value>
+  </data>
+  <data name="0097 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>指定の場所に行った証拠に、チェス
+の駒を取ってくること！</value>
+  </data>
+  <data name="0098 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたし、出発前にちゃんと言ったわ
+よね？</value>
+  </data>
+  <data name="0099 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>う……</value>
+  </data>
+  <data name="0100 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんた、ちゃんと肝試しやって
+なかったのね！？</value>
+  </data>
+  <data name="0101 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>あー……まいったな</value>
+  </data>
+  <data name="0102 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まいったじゃないわよ！
+今すぐ取ってきなさいっ！</value>
+  </data>
+  <data name="0103 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>……マジでか？</value>
+  </data>
+  <data name="0104 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>当たり前でしょっ、そういうルール
+なんだからさっさと取りにいくの！</value>
+  </data>
+  <data name="0105 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、怖くて戻ってきたっていう
+なら仕方ないわ</value>
+  </data>
+  <data name="0106 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>二人一緒でいいから行ってきなさい
+今度はちゃんと取ってくるのよ！</value>
+  </data>
+  <data name="0107 (477.ja) KYON (キョン)" xml:space="preserve">
+    <value>……はいはい</value>
+  </data>
+  <data name="0108 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>結局もう一度取りに行かされるハメ
+になったが、足止めは成功か</value>
+  </data>
+  <data name="0109 (477.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちゃんと回収してこないと罰ゲーム
+なんだからねっ！</value>
+  </data>
+  <data name="0110 (477.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いちいち損な役回りだな、俺は……</value>
+  </data>
+  <data name="0111 (477.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>俺に合わせればいい</value>
+  </data>
+  <data name="0112 (477.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>説明する</value>
+  </data>
+  <data name="0113 (477.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門に謝る</value>
+  </data>
+  <data name="0114 (477.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門に合わせる</value>
+  </data>
 </root>

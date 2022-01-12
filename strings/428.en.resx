@@ -661,9 +661,12 @@
     <value>古泉を止める</value>
   </data>
   <data name="0173 (428.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>止めるなよ！</value>
+    <value>放っておく</value>
   </data>
   <data name="0174 (428.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>止めるなよ！</value>
+  </data>
+  <data name="0175 (428.ja) INFO (CHOICE)" xml:space="preserve">
     <value>なぜ止める？</value>
   </data>
 </root>

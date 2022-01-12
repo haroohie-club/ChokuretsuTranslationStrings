@@ -773,9 +773,18 @@
     <value>携帯で写真を撮る</value>
   </data>
   <data name="0234 (486.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>みくるに下がるように言う</value>
+    <value>声をかける</value>
   </data>
   <data name="0235 (486.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>連れて行く</value>
+  </data>
+  <data name="0236 (486.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>戻るようにすすめる</value>
+  </data>
+  <data name="0237 (486.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに下がるように言う</value>
+  </data>
+  <data name="0238 (486.ja) INFO (CHOICE)" xml:space="preserve">
     <value>みんなで協力する</value>
   </data>
 </root>

@@ -799,15 +799,21 @@
 状況です。急ぎましょう！</value>
   </data>
   <data name="0222 (516.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉に聞く</value>
+    <value>長門に聞く</value>
   </data>
   <data name="0223 (516.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉のものだから</value>
+    <value>古泉に聞く</value>
   </data>
   <data name="0224 (516.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>プールサイド</value>
+    <value>古泉のものだから</value>
   </data>
   <data name="0225 (516.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門のものだから</value>
+  </data>
+  <data name="0226 (516.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>プールサイド</value>
+  </data>
+  <data name="0227 (516.ja) INFO (CHOICE)" xml:space="preserve">
     <value>プールの中</value>
   </data>
 </root>

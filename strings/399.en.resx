@@ -479,18 +479,21 @@
     <value>そうだな、そうしよう</value>
   </data>
   <data name="0124 (399.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉に文句を言う</value>
+    <value>長門を諭す</value>
   </data>
   <data name="0125 (399.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>楽譜を拝借する</value>
+    <value>古泉に文句を言う</value>
   </data>
   <data name="0126 (399.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>やめておく</value>
+    <value>楽譜を拝借する</value>
   </data>
   <data name="0127 (399.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>オルゴールを取る</value>
+    <value>やめておく</value>
   </data>
   <data name="0128 (399.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>オルゴールを取る</value>
+  </data>
+  <data name="0129 (399.ja) INFO (CHOICE)" xml:space="preserve">
     <value>オルゴールはいらない</value>
   </data>
 </root>

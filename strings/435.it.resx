@@ -805,9 +805,15 @@
     <value>自分の好みでいい</value>
   </data>
   <data name="0227 (435.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ハルヒについて行く</value>
+    <value>長門について行く</value>
   </data>
   <data name="0228 (435.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ハルヒについて行く</value>
+  </data>
+  <data name="0229 (435.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門に手伝ってもらう</value>
+  </data>
+  <data name="0230 (435.ja) INFO (CHOICE)" xml:space="preserve">
     <value>ハルヒに手伝わせる</value>
   </data>
 </root>

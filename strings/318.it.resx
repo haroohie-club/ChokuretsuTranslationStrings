@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,229 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (318.ja) KYON (キョン)" xml:space="preserve">
+    <value>ん？</value>
+  </data>
+  <data name="0001 (318.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ポケットの中になにか入っている</value>
+  </data>
+  <data name="0002 (318.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだ？　……ああ、長門に渡され
+た差し込み広告か</value>
+  </data>
+  <data name="0003 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの？</value>
+  </data>
+  <data name="0004 (318.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、ポケットにチラシが入ってた
+だけだ。見るか？</value>
+  </data>
+  <data name="0005 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>今はそれどころじゃないでしょ
+それに</value>
+  </data>
+  <data name="0006 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>小学生じゃないんだから、なんでも
+かんでもポケットに詰め込まないの</value>
+  </data>
+  <data name="0007 (318.ja) KYON (キョン)" xml:space="preserve">
+    <value>……悪かったよ</value>
+  </data>
+  <data name="0008 (318.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、涼宮さんこんなのが
+あるんですけど</value>
+  </data>
+  <data name="0009 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>何？　これって本の広告？</value>
+  </data>
+  <data name="0010 (318.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、そうです。長門さんが
+読んでた本に挟まってて</value>
+  </data>
+  <data name="0011 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なになに……怖い話の投稿を
+大募集中ですって！？</value>
+  </data>
+  <data name="0012 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いいわね、この新七不思議を
+解明したら投稿してみましょ</value>
+  </data>
+  <data name="0013 (318.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>で、でも、これって実際の体験のみ
+って書いてありますよ</value>
+  </data>
+  <data name="0014 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>えぇっ、それじゃ解明したら
+ダメじゃないの</value>
+  </data>
+  <data name="0015 (318.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そうみたいですねぇ</value>
+  </data>
+  <data name="0016 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうせなら、制限なんて付けない
+で、ドーンと募集しなさいっての</value>
+  </data>
+  <data name="0017 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急ぐわよ、有希！</value>
+  </data>
+  <data name="0018 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>
+……きゃ！</value>
+  </data>
+  <data name="0019 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0020 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いたたた……な、なんか踏んづけて
+転んじゃったけど……</value>
+  </data>
+  <data name="0021 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これ</value>
+  </data>
+  <data name="0022 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにこれ……本に挟まってるような
+綴じ込みチラシじゃない</value>
+  </data>
+  <data name="0023 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こんなの廊下に捨てるなんて、この
+学校のモラルも地に落ちたわね！</value>
+  </data>
+  <data name="0024 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>怪我は</value>
+  </data>
+  <data name="0025 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え、う、うん……お尻が痛いけどね</value>
+  </data>
+  <data name="0026 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>
+……って、あら？</value>
+  </data>
+  <data name="0027 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ねえ有希、ＣＤを見なかった？
+転んだひょうしに、落としたみたい</value>
+  </data>
+  <data name="0028 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>滑っていった</value>
+  </data>
+  <data name="0029 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんですって……大変
+あれがないと困るの、有希、探して</value>
+  </data>
+  <data name="0030 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>了解</value>
+  </data>
+  <data name="0031 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0032 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0033 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0034 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0035 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どう？　あった？</value>
+  </data>
+  <data name="0036 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……不明</value>
+  </data>
+  <data name="0037 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>こっちも見つからないわ……暗くて
+よく見えない……</value>
+  </data>
+  <data name="0038 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうだわ！　廊下の明かりを点けれ
+ばいいじゃない</value>
+  </data>
+  <data name="0039 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>宿直の教師に発見されると、面倒</value>
+  </data>
+  <data name="0040 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その前にＣＤを見付けて脱出すれば
+いいのよ</value>
+  </data>
+  <data name="0041 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、スイッチ点けてきて</value>
+  </data>
+  <data name="0042 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……了解</value>
+  </data>
+  <data name="0043 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あっちの壁よ！　気を付けて
+あたしの言うとおり動くのよ</value>
+  </data>
+  <data name="0044 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうだ、ナビしたげるわ</value>
+  </data>
+  <data name="0045 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……了解した</value>
+  </data>
+  <data name="0046 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はい、んじゃ、そのまま進んで……</value>
+  </data>
+  <data name="0047 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そこでストップ！　少し右を向いて
+……ああ、向きすぎ！　戻って！</value>
+  </data>
+  <data name="0048 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0049 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう、その向きよ。それでもう一度
+ゆっくり歩いて……ストップ！</value>
+  </data>
+  <data name="0050 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0051 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そっと手を前に出して、壁があるで
+しょ</value>
+  </data>
+  <data name="0052 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>ある</value>
+  </data>
+  <data name="0053 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そしたら大体目の高さのところに、
+スイッチがあるはずよ。探してみて</value>
+  </data>
+  <data name="0054 (318.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……
+確認した、点灯する</value>
+  </data>
+  <data name="0055 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まぶし！</value>
+  </data>
+  <data name="0058 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>よし、回収完了！
+道草食っちゃったわね、急ぎましょ</value>
+  </data>
+  <data name="0059 (318.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>涼宮さん、ちょっとこれを見て
+下さい</value>
+  </data>
+  <data name="0060 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これは何かの広告かしら</value>
+  </data>
+  <data name="0061 (318.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>はい、本に挟まっていた綴じ込み
+広告です</value>
+  </data>
+  <data name="0062 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>怖い話の投稿大募集ですって！？</value>
+  </data>
+  <data name="0063 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょうど良かったわ、新七不思議を
+解明して投稿するわよっ！</value>
+  </data>
+  <data name="0064 (318.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>待って下さい、涼宮さん。これは
+怪奇体験のお話募集ですよ</value>
+  </data>
+  <data name="0065 (318.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>解明しちゃったらダメなのね……
+なんて懐の小さい出版社かしらっ！</value>
+  </data>
 </root>

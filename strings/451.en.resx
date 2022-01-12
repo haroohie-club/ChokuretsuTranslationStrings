@@ -1663,4 +1663,19 @@
     <value>こんな時でもないと、女の子と
 接する機会がないんだよねぇ</value>
   </data>
+  <data name="0481 (451.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>分岐テスト・ハルヒ</value>
+  </data>
+  <data name="0482 (451.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>分岐テスト・みくる</value>
+  </data>
+  <data name="0483 (451.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>分岐テスト・長門</value>
+  </data>
+  <data name="0484 (451.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>分岐テスト・古泉</value>
+  </data>
+  <data name="0485 (451.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>分岐テスト・キョンのみ</value>
+  </data>
 </root>

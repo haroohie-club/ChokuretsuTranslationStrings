@@ -631,4 +631,7 @@
   <data name="0164 (462.ja) INFO (CHOICE)" xml:space="preserve">
     <value>ハルヒに頼む</value>
   </data>
+  <data name="0165 (462.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>頼まない</value>
+  </data>
 </root>

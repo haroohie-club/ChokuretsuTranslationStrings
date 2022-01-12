@@ -590,9 +590,21 @@
 のだった</value>
   </data>
   <data name="0166 (449.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉をたしなめる</value>
+    <value>朝比奈さんを元気づける</value>
   </data>
   <data name="0167 (449.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉をたしなめる</value>
+  </data>
+  <data name="0168 (449.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>朝比奈さんに一肌脱いでもらう</value>
+  </data>
+  <data name="0169 (449.ja) INFO (CHOICE)" xml:space="preserve">
     <value>古泉に頑張ってもらう</value>
+  </data>
+  <data name="0170 (449.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>本を借りる</value>
+  </data>
+  <data name="0171 (449.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>本を借りない</value>
   </data>
 </root>

@@ -312,18 +312,24 @@
     <value>時間は厳守するはず</value>
   </data>
   <data name="0072 (530.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉に任せる</value>
+    <value>連絡を待とう</value>
   </data>
   <data name="0073 (530.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ぶっちゃける</value>
+    <value>古泉に任せる</value>
   </data>
   <data name="0074 (530.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>自分が行く</value>
+    <value>ぶっちゃける</value>
   </data>
   <data name="0075 (530.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉に行ってもらう</value>
+    <value>自分が行く</value>
   </data>
   <data name="0076 (530.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に行ってもらう</value>
+  </data>
+  <data name="0077 (530.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>待った！</value>
+  </data>
+  <data name="0078 (530.ja) INFO (CHOICE)" xml:space="preserve">
     <value>古泉、ヘルプ！</value>
   </data>
 </root>

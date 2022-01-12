@@ -823,15 +823,24 @@
 にして俺たちはその場を立ち去った</value>
   </data>
   <data name="0250 (432.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉はどこだ</value>
+    <value>朝比奈さんはどこだ</value>
   </data>
   <data name="0251 (432.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ＣＤをもらう</value>
+    <value>長門はどこだ</value>
   </data>
   <data name="0252 (432.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>エサをやる</value>
+    <value>古泉はどこだ</value>
   </data>
   <data name="0253 (432.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ＣＤをもらう</value>
+  </data>
+  <data name="0254 (432.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>鉄串をもらう</value>
+  </data>
+  <data name="0255 (432.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>エサをやる</value>
+  </data>
+  <data name="0256 (432.ja) INFO (CHOICE)" xml:space="preserve">
     <value>エサをやらない</value>
   </data>
 </root>

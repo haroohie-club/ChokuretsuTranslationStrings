@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,203 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (213.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、古泉は将来政治家とか
+向いていそうだと思わないか？</value>
+  </data>
+  <data name="0001 (213.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>詐欺師にもなりそうだが</value>
+  </data>
+  <data name="0002 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くん？　そうね、成績優秀だし
+弁舌も流麗、態度も上品で穏やか</value>
+  </data>
+  <data name="0003 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なろうと思えば政治家にだって
+なれそうではあるわね</value>
+  </data>
+  <data name="0004 (213.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>人を煙に巻く舌と、平気で嘘を
+つけるポーカーフェイスだ</value>
+  </data>
+  <data name="0005 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんで古泉くんの将来なんて話に
+突然なるのよ？</value>
+  </data>
+  <data name="0006 (213.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉と天職の話をしてたんだよ</value>
+  </data>
+  <data name="0007 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>天職ねぇ。古泉くんはどんな職業に
+でも就けそうだけど</value>
+  </data>
+  <data name="0008 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それに比べるとキョンの天職って
+あたしには全っ然思いつかないわ</value>
+  </data>
+  <data name="0009 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね。あえて言うならショボイ
+サラリーマンとか？</value>
+  </data>
+  <data name="0010 (213.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺のことはほっとけ</value>
+  </data>
+  <data name="0011 (213.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さん、キョンくんと古泉くんが
+話してたんですけど</value>
+  </data>
+  <data name="0012 (213.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんの天職ってなんでしょう？
+政治家とかでしょうか？</value>
+  </data>
+  <data name="0013 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんは何にでもなりたいものに
+なれそうだけど、天職ねぇ</value>
+  </data>
+  <data name="0014 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>政治家になった古泉くんって思い
+浮かばないわ</value>
+  </data>
+  <data name="0015 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも政治家の秘書は有りかも</value>
+  </data>
+  <data name="0016 (213.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>政治家はなくて、政治家の秘書は
+あるんですか？　不思議です</value>
+  </data>
+  <data name="0017 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>イメージ的なものなんだけどね</value>
+  </data>
+  <data name="0018 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんってトップより２番手が
+似合っている気がするのよ</value>
+  </data>
+  <data name="0019 (213.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はぁ、なんとなくわかります</value>
+  </data>
+  <data name="0020 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それにしてもあのふたり、ちゃんと
+怪談調査してるのかしら？</value>
+  </data>
+  <data name="0021 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ムダ話で時間潰してるんじゃ
+ないでしょうね。注意しなきゃ</value>
+  </data>
+  <data name="0022 (213.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あわわ……ごめんなさい、
+キョンくん、古泉くん……</value>
+  </data>
+  <data name="0023 (213.ja) NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹の天職は何かという話を
+していた</value>
+  </data>
+  <data name="0024 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふーん、誰と？</value>
+  </data>
+  <data name="0025 (213.ja) NAGATO (長門)" xml:space="preserve">
+    <value>わたしではない。彼と古泉一樹</value>
+  </data>
+  <data name="0026 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あの二人ね。それで天職は何だって
+ことになったの？</value>
+  </data>
+  <data name="0027 (213.ja) NAGATO (長門)" xml:space="preserve">
+    <value>セールスマン。なんでも売りつけ
+られるのではないかと言っていた</value>
+  </data>
+  <data name="0028 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>確かに、古泉くんならなんでも
+買わせちゃいそうだわね</value>
+  </data>
+  <data name="0029 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でもそれが古泉くんの天職とは
+思えないわ</value>
+  </data>
+  <data name="0030 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん。すごく偉くなっちゃうかも
+しれないし。学者って線もあるわね</value>
+  </data>
+  <data name="0031 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんの将来の可能性は広いわ</value>
+  </data>
+  <data name="0032 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>天職なんて、本人が就きたい職業や
+結果論でいいと思うのよね</value>
+  </data>
+  <data name="0033 (213.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0034 (213.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>今日買い物をしている時に
+天職の話になったのですよ</value>
+  </data>
+  <data name="0035 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>天職って、まだ高校生のあたし達に
+そんな職業の事がわかるのかしら？</value>
+  </data>
+  <data name="0036 (213.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕は訪問販売のセールスマンに
+なれば好成績だろうと言うのです</value>
+  </data>
+  <data name="0037 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンね。もー、それは弁舌爽やか
+な古泉くんに対する当てつけだわ</value>
+  </data>
+  <data name="0038 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>自分が無愛想だからって、もう……
+気にしちゃダメよ、古泉くん</value>
+  </data>
+  <data name="0039 (213.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いえ、取り柄だと認めてくれたの
+でしょうし、悪い気はしませんよ</value>
+  </data>
+  <data name="0040 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんってキョンと違って、
+本当に大人よね</value>
+  </data>
+  <data name="0041 (213.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>しかし、涼宮さんは考えたりは
+しませんか？　自分の天職のことを</value>
+  </data>
+  <data name="0042 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしは……うーん。まだ将来の
+職業は決定してないわね</value>
+  </data>
+  <data name="0043 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それに天職って、結果論じゃないか
+と思うのよね</value>
+  </data>
+  <data name="0044 (213.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>動機にはならないと？</value>
+  </data>
+  <data name="0045 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>天職かどうかは、その仕事に就いて
+良かった、好きでやりがいがある</value>
+  </data>
+  <data name="0046 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう思えた時に、わかること
+じゃないかってことなのよ</value>
+  </data>
+  <data name="0047 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>すぐにわかることじゃなくてね</value>
+  </data>
+  <data name="0048 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>すごく時間をかけてやっと言える
+言葉だとあたしは思うわけ</value>
+  </data>
+  <data name="0049 (213.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど、重みのあるお言葉です</value>
+  </data>
+  <data name="0050 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、将来のことはさておいて学生の
+あたしは毎日を悔いなく過ごすの</value>
+  </data>
+  <data name="0051 (213.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まずは新七不思議解明なのよ！
+だから、体育館に急ぐわよ！</value>
+  </data>
+  <data name="0052 (213.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>おや、失敗してしまいましたか
+それでも時間はだいぶ稼げましたか</value>
+  </data>
 </root>

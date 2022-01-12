@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,51 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (270.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そういえば！　知ってますか？
+長門さんのことなんですけどっ</value>
+  </data>
+  <data name="0001 (270.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急にどうしたの、みくるちゃん？</value>
+  </data>
+  <data name="0002 (270.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え、えっとですね、えーっと……</value>
+  </data>
+  <data name="0003 (270.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あの、長門さんって、図書室にある
+本を、たくさん読んでるみたいです</value>
+  </data>
+  <data name="0004 (270.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>らしいわね。だって部室でもよく
+読書してるもの</value>
+  </data>
+  <data name="0005 (270.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>図書室にどんな本があるのか、色々
+調べたりしてるんだそうですっ</value>
+  </data>
+  <data name="0006 (270.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふぅん……</value>
+  </data>
+  <data name="0007 (270.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0008 (270.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え、それだけ？</value>
+  </data>
+  <data name="0009 (270.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はぁ……</value>
+  </data>
+  <data name="0010 (270.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、そんな話は今じゃな
+くてもいいでしょ？</value>
+  </data>
+  <data name="0011 (270.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そう……ですね、ごめんなさいぃ</value>
+  </data>
+  <data name="0012 (270.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、先を急ぐわよ！</value>
+  </data>
+  <data name="0013 (270.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はぁい……</value>
+  </data>
 </root>

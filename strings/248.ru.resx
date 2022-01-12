@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,120 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (248.ja) KYON (キョン)" xml:space="preserve">
+    <value>例え話なんだが</value>
+  </data>
+  <data name="0001 (248.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、もしお前が朝比奈さんや
+長門に励まされたら、嬉しいか？</value>
+  </data>
+  <data name="0002 (248.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>嬉しいわよ、普通に</value>
+  </data>
+  <data name="0003 (248.ja) KYON (キョン)" xml:space="preserve">
+    <value>そうだよな……</value>
+  </data>
+  <data name="0004 (248.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺は、古泉に励まされても、ちっと
+も嬉しくはないんだが</value>
+  </data>
+  <data name="0005 (248.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まったく話の意図がわからないわね</value>
+  </data>
+  <data name="0006 (248.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>同性に励まされても、嬉しくないと
+いう話がしたかったんだが……</value>
+  </data>
+  <data name="0007 (248.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんや長門なら、俺が女でも
+間違いなく嬉しいだろうな</value>
+  </data>
+  <data name="0008 (248.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>例える題材が悪かったか……</value>
+  </data>
+  <data name="0009 (248.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんが“古泉くんに励まされ
+ても嬉しくない”って言ってました</value>
+  </data>
+  <data name="0010 (248.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>けど……どうしてでしょう？</value>
+  </data>
+  <data name="0011 (248.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どーせキョンのことだから、みくる
+ちゃんに優しくしてほしいとか</value>
+  </data>
+  <data name="0012 (248.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんな見え見えの根性なのよ</value>
+  </data>
+  <data name="0013 (248.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え……ええっ、そ、そうなんですか
+……！</value>
+  </data>
+  <data name="0014 (248.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>気をつけなさいよ、みくるちゃん</value>
+  </data>
+  <data name="0015 (248.ja) NAGATO (長門)" xml:space="preserve">
+    <value>ふぁいと</value>
+  </data>
+  <data name="0016 (248.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どうしたの、いきなり</value>
+  </data>
+  <data name="0017 (248.ja) NAGATO (長門)" xml:space="preserve">
+    <value>励ましている。励ますと精神的
+安定を得ると聞いた</value>
+  </data>
+  <data name="0018 (248.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、有希に励まされたら
+ますますやる気になってきたわ！</value>
+  </data>
+  <data name="0019 (248.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0020 (248.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さあ、急いで怪奇現象の現場へ
+行くわよ、有希っ！</value>
+  </data>
+  <data name="0021 (248.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0022 (248.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>誠心誠意、彼を励ましたのですが
+男の励ましは無用だと言われました</value>
+  </data>
+  <data name="0023 (248.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん、キョンなら言いそうだわ</value>
+  </data>
+  <data name="0024 (248.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>もし僕が女性なら、彼は素直に
+励ましを受けてくれるのでしょうか</value>
+  </data>
+  <data name="0025 (248.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その可能性は無いことも無いと思う
+けど……。あ、でも、</value>
+  </data>
+  <data name="0026 (248.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>国木田の励ましなら素直に受ける
+かもね？　谷口だと怪しいけど</value>
+  </data>
+  <data name="0027 (248.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>なるほど。僕と国木田さんの違い
+ですか……</value>
+  </data>
+  <data name="0028 (248.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>古泉くんほど劣等感を刺激しない
+からだと思うわ</value>
+  </data>
+  <data name="0029 (248.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>#P06彼が僕に劣等感を持つ必要なんて
+どこにもないと思うのですが</value>
+  </data>
+  <data name="0030 (248.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>#P06僕こそが……</value>
+  </data>
+  <data name="0031 (248.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん、何て言った？</value>
+  </data>
+  <data name="0032 (248.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>いいえ、なんでもありません</value>
+  </data>
 </root>

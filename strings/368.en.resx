@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>In a certain way, it's not like you can't call this is the most approproate and safe group.</value>
+    <value>In a certain way, it's not like you can't call this is the most appropriate and safe group.</value>
   </data>
   <data name="0001 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>With Asahina, who is the most normal of anyone…</value>
@@ -719,12 +719,18 @@
     <value>Leave it to Koizumi</value>
   </data>
   <data name="0244 (368.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Join Koizumi's conversation</value>
+    <value>Rely on Asahina.</value>
   </data>
   <data name="0245 (368.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Go over to Mikuru</value>
+    <value>Join Koizumi's conversation.</value>
   </data>
   <data name="0246 (368.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Look after it for a bit</value>
+    <value>Go to Mikuru's side.</value>
+  </data>
+  <data name="0247 (368.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>Keep it for now.</value>
+  </data>
+  <data name="0248 (368.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>Return it to the president.</value>
   </data>
 </root>

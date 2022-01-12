@@ -765,4 +765,22 @@
     <value>もちろん、そんなのは夢物語なんだ
 ろうけどな</value>
   </data>
+  <data name="0220 (429.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>肉優先</value>
+  </data>
+  <data name="0221 (429.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>野菜優先</value>
+  </data>
+  <data name="0222 (429.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門に聞く</value>
+  </data>
+  <data name="0223 (429.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>朝比奈さんに聞く</value>
+  </data>
+  <data name="0224 (429.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>貰う</value>
+  </data>
+  <data name="0225 (429.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>貰わない</value>
+  </data>
 </root>
