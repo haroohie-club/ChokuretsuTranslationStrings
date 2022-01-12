@@ -444,18 +444,24 @@
     <value>時間は厳守するはず</value>
   </data>
   <data name="0115 (529.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ゆっくりお茶を味わう</value>
+    <value>連絡を待とう</value>
   </data>
   <data name="0116 (529.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>何もない</value>
+    <value>ゆっくりお茶を味わう</value>
   </data>
   <data name="0117 (529.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>なかなか覚えが良い</value>
+    <value>何もない</value>
   </data>
   <data name="0118 (529.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉と同じくらいだ</value>
+    <value>なかなか覚えが良い</value>
   </data>
   <data name="0119 (529.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉と同じくらいだ</value>
+  </data>
+  <data name="0120 (529.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>待った！</value>
+  </data>
+  <data name="0121 (529.ja) INFO (CHOICE)" xml:space="preserve">
     <value>お茶のお代わりを</value>
   </data>
 </root>

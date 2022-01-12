@@ -712,12 +712,24 @@
     <value>古泉と相談する</value>
   </data>
   <data name="0201 (436.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>あるもので代用</value>
+    <value>探しに行く</value>
   </data>
   <data name="0202 (436.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>園芸部倉庫</value>
+    <value>あるもので代用</value>
   </data>
   <data name="0203 (436.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>園芸部倉庫</value>
+  </data>
+  <data name="0204 (436.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>模型研究会</value>
+  </data>
+  <data name="0205 (436.ja) INFO (CHOICE)" xml:space="preserve">
     <value>実験室</value>
+  </data>
+  <data name="0206 (436.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>礼を言う</value>
+  </data>
+  <data name="0207 (436.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>礼は言わない</value>
   </data>
 </root>

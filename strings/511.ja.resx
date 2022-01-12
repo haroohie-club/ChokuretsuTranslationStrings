@@ -423,6 +423,15 @@
 しかないな</value>
   </data>
   <data name="0108 (511.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門に相談する</value>
+  </data>
+  <data name="0109 (511.ja) INFO (CHOICE)" xml:space="preserve">
     <value>時間がない</value>
+  </data>
+  <data name="0110 (511.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>体育館で探す</value>
+  </data>
+  <data name="0111 (511.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>本館内で探す</value>
   </data>
 </root>

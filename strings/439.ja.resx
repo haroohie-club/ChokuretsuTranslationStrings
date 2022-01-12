@@ -480,9 +480,15 @@
 なのであった</value>
   </data>
   <data name="0134 (439.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉に文句を言う</value>
+    <value>長門の助言をもらう</value>
   </data>
   <data name="0135 (439.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に文句を言う</value>
+  </data>
+  <data name="0136 (439.ja) INFO (CHOICE)" xml:space="preserve">
     <value>古泉に助言を求める</value>
+  </data>
+  <data name="0137 (439.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門に助言を求める</value>
   </data>
 </root>

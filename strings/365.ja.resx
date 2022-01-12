@@ -752,12 +752,15 @@
     <value>これ以上聞かない</value>
   </data>
   <data name="0202 (365.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>詳しくは聞かない</value>
+    <value>長門に確認を取る</value>
   </data>
   <data name="0203 (365.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>もう少し残るか？</value>
+    <value>詳しくは聞かない</value>
   </data>
   <data name="0204 (365.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>もう少し残るか？</value>
+  </data>
+  <data name="0205 (365.ja) INFO (CHOICE)" xml:space="preserve">
     <value>気のせいだろう</value>
   </data>
 </root>

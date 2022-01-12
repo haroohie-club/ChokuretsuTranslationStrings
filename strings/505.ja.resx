@@ -459,24 +459,30 @@
     <value>時間は厳守するはず</value>
   </data>
   <data name="0120 (505.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ゆっくりお茶を味わう</value>
+    <value>連絡を待とう</value>
   </data>
   <data name="0121 (505.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>何もない</value>
+    <value>ゆっくりお茶を味わう</value>
   </data>
   <data name="0122 (505.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>なかなか覚えが良い</value>
+    <value>何もない</value>
   </data>
   <data name="0123 (505.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉と同じくらいだ</value>
+    <value>なかなか覚えが良い</value>
   </data>
   <data name="0124 (505.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>お茶のお代わりを</value>
+    <value>古泉と同じくらいだ</value>
   </data>
   <data name="0125 (505.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>チェス成功</value>
+    <value>待った！</value>
   </data>
   <data name="0126 (505.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>お茶のお代わりを</value>
+  </data>
+  <data name="0127 (505.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>チェス成功</value>
+  </data>
+  <data name="0128 (505.ja) INFO (CHOICE)" xml:space="preserve">
     <value>チェス失敗</value>
   </data>
 </root>

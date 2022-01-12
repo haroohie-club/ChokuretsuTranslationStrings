@@ -881,12 +881,21 @@
     <value>誤字を伝える</value>
   </data>
   <data name="0251 (370.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>みくるに聞く</value>
+    <value>黙っておく</value>
   </data>
   <data name="0252 (370.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉に聞く</value>
+    <value>長門に聞く</value>
   </data>
   <data name="0253 (370.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに聞く</value>
+  </data>
+  <data name="0254 (370.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に聞く</value>
+  </data>
+  <data name="0255 (370.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>拝借しておく</value>
+  </data>
+  <data name="0256 (370.ja) INFO (CHOICE)" xml:space="preserve">
     <value>そっと返す</value>
   </data>
 </root>

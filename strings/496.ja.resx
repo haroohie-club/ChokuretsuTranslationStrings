@@ -575,12 +575,18 @@
     <value>強引に取り返す</value>
   </data>
   <data name="0193 (496.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉に頼む</value>
+    <value>説得する</value>
   </data>
   <data name="0194 (496.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ため息をつく</value>
+    <value>長門に頼む</value>
   </data>
   <data name="0195 (496.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に頼む</value>
+  </data>
+  <data name="0196 (496.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ため息をつく</value>
+  </data>
+  <data name="0197 (496.ja) INFO (CHOICE)" xml:space="preserve">
     <value>愚痴る</value>
   </data>
 </root>

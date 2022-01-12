@@ -728,9 +728,12 @@
     <value>みくるに助けを求める</value>
   </data>
   <data name="0193 (375.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>持ち歩く</value>
+    <value>長門に助けを求める</value>
   </data>
   <data name="0194 (375.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>持ち歩く</value>
+  </data>
+  <data name="0195 (375.ja) INFO (CHOICE)" xml:space="preserve">
     <value>その辺りに隠しておく</value>
   </data>
 </root>

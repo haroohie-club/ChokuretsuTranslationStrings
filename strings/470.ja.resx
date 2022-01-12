@@ -564,12 +564,15 @@
 忘れて……和やかな時間を過ごした</value>
   </data>
   <data name="0164 (470.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>みくるに頼む</value>
+    <value>長門に頼む</value>
   </data>
   <data name="0165 (470.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>花火を買う</value>
+    <value>みくるに頼む</value>
   </data>
   <data name="0166 (470.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>花火を買う</value>
+  </data>
+  <data name="0167 (470.ja) INFO (CHOICE)" xml:space="preserve">
     <value>花火は止めておく</value>
   </data>
 </root>

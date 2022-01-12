@@ -656,6 +656,21 @@
 にそれを頭の中からはじき出した</value>
   </data>
   <data name="0170 (427.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>全面的に任せる</value>
+  </data>
+  <data name="0171 (427.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>任せるのは危険だ</value>
+  </data>
+  <data name="0172 (427.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>面白そうな物</value>
+  </data>
+  <data name="0173 (427.ja) INFO (CHOICE)" xml:space="preserve">
     <value>おいしそうな物</value>
+  </data>
+  <data name="0174 (427.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>買ってやる</value>
+  </data>
+  <data name="0175 (427.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>買ってやらない</value>
   </data>
 </root>

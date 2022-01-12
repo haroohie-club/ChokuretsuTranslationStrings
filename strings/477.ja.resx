@@ -415,4 +415,13 @@
   <data name="0111 (477.ja) INFO (CHOICE)" xml:space="preserve">
     <value>俺に合わせればいい</value>
   </data>
+  <data name="0112 (477.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>説明する</value>
+  </data>
+  <data name="0113 (477.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門に謝る</value>
+  </data>
+  <data name="0114 (477.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門に合わせる</value>
+  </data>
 </root>

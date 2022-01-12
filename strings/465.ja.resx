@@ -829,18 +829,27 @@
 てくれればラッキーだな</value>
   </data>
   <data name="0243 (465.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>トイレの怪</value>
+    <value>動く人体模型</value>
   </data>
   <data name="0244 (465.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉を叱る</value>
+    <value>トイレの怪</value>
   </data>
   <data name="0245 (465.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>みくるを励ます</value>
+    <value>古泉を叱る</value>
   </data>
   <data name="0246 (465.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>みくるを説得する</value>
+    <value>みくるを励ます</value>
   </data>
   <data name="0247 (465.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるを説得する</value>
+  </data>
+  <data name="0248 (465.ja) INFO (CHOICE)" xml:space="preserve">
     <value>古泉に頼む</value>
+  </data>
+  <data name="0249 (465.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>返しておく</value>
+  </data>
+  <data name="0250 (465.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>念のために持っておく</value>
   </data>
 </root>

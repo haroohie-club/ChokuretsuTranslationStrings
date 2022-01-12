@@ -395,6 +395,12 @@
     <value>見間違いや妄想だな</value>
   </data>
   <data name="0089 (374.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>夢のある話じゃないか</value>
+  </data>
+  <data name="0090 (374.ja) INFO (CHOICE)" xml:space="preserve">
     <value>肯定する</value>
+  </data>
+  <data name="0091 (374.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>反論する</value>
   </data>
 </root>

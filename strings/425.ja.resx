@@ -619,6 +619,15 @@
 に戻るべく歩き出した</value>
   </data>
   <data name="0164 (425.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>話を合わせる</value>
+  </data>
+  <data name="0165 (425.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>文芸部だと正直に言う</value>
+  </data>
+  <data name="0166 (425.ja) INFO (CHOICE)" xml:space="preserve">
     <value>エサをあげる</value>
+  </data>
+  <data name="0167 (425.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>放っておく</value>
   </data>
 </root>

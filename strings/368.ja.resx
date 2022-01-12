@@ -845,12 +845,18 @@
     <value>古泉に頼る</value>
   </data>
   <data name="0244 (368.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉の会話に参加</value>
+    <value>朝比奈さんに頼る</value>
   </data>
   <data name="0245 (368.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>みくるの側に行く</value>
+    <value>古泉の会話に参加</value>
   </data>
   <data name="0246 (368.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるの側に行く</value>
+  </data>
+  <data name="0247 (368.ja) INFO (CHOICE)" xml:space="preserve">
     <value>ひとまず預かる</value>
+  </data>
+  <data name="0248 (368.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>部長氏に返す</value>
   </data>
 </root>

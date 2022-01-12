@@ -972,6 +972,15 @@
 しましょう</value>
   </data>
   <data name="0302 (450.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>鶴屋さんをみんなで確保する</value>
+  </data>
+  <data name="0303 (450.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>鶴屋さんは朝比奈さんに任せる</value>
+  </data>
+  <data name="0304 (450.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>人喰い教室に向かう</value>
+  </data>
+  <data name="0305 (450.ja) INFO (CHOICE)" xml:space="preserve">
     <value>音楽室に向かう</value>
   </data>
 </root>

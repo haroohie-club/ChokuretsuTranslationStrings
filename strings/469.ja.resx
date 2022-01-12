@@ -494,12 +494,24 @@
     <value>興味あるのか？</value>
   </data>
   <data name="0129 (469.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ダメ</value>
+    <value>先を急ぐぞ</value>
   </data>
   <data name="0130 (469.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>いい</value>
+    <value>ダメ</value>
   </data>
   <data name="0131 (469.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>いい</value>
+  </data>
+  <data name="0132 (469.ja) INFO (CHOICE)" xml:space="preserve">
     <value>花火を買う</value>
+  </data>
+  <data name="0133 (469.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>別のものにする</value>
+  </data>
+  <data name="0134 (469.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>買ってやる</value>
+  </data>
+  <data name="0135 (469.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>連れて帰る</value>
   </data>
 </root>

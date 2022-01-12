@@ -466,6 +466,18 @@
     <value>俺たちの足音です</value>
   </data>
   <data name="0129 (483.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>誰もいませんね</value>
+  </data>
+  <data name="0130 (483.ja) INFO (CHOICE)" xml:space="preserve">
     <value>きびしく注意する</value>
+  </data>
+  <data name="0131 (483.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>優しく手を引いてやる</value>
+  </data>
+  <data name="0132 (483.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>励ます</value>
+  </data>
+  <data name="0133 (483.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>背中をさする</value>
   </data>
 </root>

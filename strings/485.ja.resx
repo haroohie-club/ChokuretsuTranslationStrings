@@ -498,6 +498,15 @@
     <value>そうかもな</value>
   </data>
   <data name="0141 (485.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>聞く</value>
+  </data>
+  <data name="0142 (485.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>聞かない</value>
+  </data>
+  <data name="0143 (485.ja) INFO (CHOICE)" xml:space="preserve">
     <value>これも超能力？</value>
+  </data>
+  <data name="0144 (485.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>武術なのか？</value>
   </data>
 </root>

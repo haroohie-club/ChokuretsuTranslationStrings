@@ -672,9 +672,12 @@
     <value>携帯で写真を撮る</value>
   </data>
   <data name="0216 (487.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>気になる</value>
+    <value>声をかける</value>
   </data>
   <data name="0217 (487.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>気になる</value>
+  </data>
+  <data name="0218 (487.ja) INFO (CHOICE)" xml:space="preserve">
     <value>気にしない</value>
   </data>
 </root>

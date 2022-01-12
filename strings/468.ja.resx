@@ -467,9 +467,27 @@
 のことを考えると気が重いね</value>
   </data>
   <data name="0115 (468.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>花火に同意</value>
+    <value>聞いてみる</value>
   </data>
   <data name="0116 (468.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>聞かない</value>
+  </data>
+  <data name="0117 (468.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>適当に買う</value>
+  </data>
+  <data name="0118 (468.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>相談する</value>
+  </data>
+  <data name="0119 (468.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>花火に同意</value>
+  </data>
+  <data name="0120 (468.ja) INFO (CHOICE)" xml:space="preserve">
     <value>花火に反対</value>
+  </data>
+  <data name="0121 (468.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>聞く</value>
+  </data>
+  <data name="0122 (468.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>聞かない</value>
   </data>
 </root>

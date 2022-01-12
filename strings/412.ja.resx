@@ -797,9 +797,12 @@
 手に、集合場所へと戻るのだった</value>
   </data>
   <data name="0218 (412.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉と一緒に探す</value>
+    <value>朝比奈さんと一緒に探す</value>
   </data>
   <data name="0219 (412.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉と一緒に探す</value>
+  </data>
+  <data name="0220 (412.ja) INFO (CHOICE)" xml:space="preserve">
     <value>一人で探してみる</value>
   </data>
 </root>
