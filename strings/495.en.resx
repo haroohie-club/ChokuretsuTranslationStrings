@@ -830,9 +830,21 @@
 放置するしかない。悪く思うなよ</value>
   </data>
   <data name="0253 (495.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉に話を合わせる</value>
+    <value>調べてみる</value>
   </data>
   <data name="0254 (495.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>先を急ぐ</value>
+  </data>
+  <data name="0255 (495.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に話を合わせる</value>
+  </data>
+  <data name="0256 (495.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>朝比奈さんを落ち着かせる</value>
+  </data>
+  <data name="0257 (495.ja) INFO (CHOICE)" xml:space="preserve">
     <value>古泉と屋上を調べに行く</value>
+  </data>
+  <data name="0258 (495.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>朝比奈さんをここで守る</value>
   </data>
 </root>

@@ -781,15 +781,21 @@
     <value>うふふふふ</value>
   </data>
   <data name="0220 (491.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>もう少し探す</value>
+    <value>朝比奈さんと手を繋ぐ</value>
   </data>
   <data name="0221 (491.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>さっさと諦める</value>
+    <value>朝比奈さんを脅かす</value>
   </data>
   <data name="0222 (491.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>モップ</value>
+    <value>もう少し探す</value>
   </data>
   <data name="0223 (491.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>さっさと諦める</value>
+  </data>
+  <data name="0224 (491.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>モップ</value>
+  </data>
+  <data name="0225 (491.ja) INFO (CHOICE)" xml:space="preserve">
     <value>ホース</value>
   </data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,35 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (009.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あのですね
+これは聞いた話なんですが……</value>
+  </data>
+  <data name="0001 (009.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なぁに？</value>
+  </data>
+  <data name="0002 (009.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>この学校の校舎を作る時に、人柱を
+埋めたって……</value>
+  </data>
+  <data name="0003 (009.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>人柱？　いわゆる生け贄ってこと？</value>
+  </data>
+  <data name="0004 (009.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい</value>
+  </data>
+  <data name="0005 (009.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはデマね</value>
+  </data>
+  <data name="0006 (009.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>学校の校舎ひとつに、そんなこと
+するわけないもの</value>
+  </data>
+  <data name="0007 (009.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、もっと信頼性の高い
+情報を探してきなさい</value>
+  </data>
+  <data name="0008 (009.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい……</value>
+  </data>
 </root>

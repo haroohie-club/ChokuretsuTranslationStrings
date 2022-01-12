@@ -750,4 +750,16 @@
     <value>まあ、元々存在しないのだから当た
 り前のことなのだが</value>
   </data>
+  <data name="0197 (404.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>朝比奈さんと相談しよう</value>
+  </data>
+  <data name="0198 (404.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門と相談しよう</value>
+  </data>
+  <data name="0199 (404.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>朝比奈さん</value>
+  </data>
+  <data name="0200 (404.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門</value>
+  </data>
 </root>

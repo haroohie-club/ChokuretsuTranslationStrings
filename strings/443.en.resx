@@ -543,4 +543,7 @@
   <data name="0150 (443.ja) INFO (CHOICE)" xml:space="preserve">
     <value>楽しんでるか聞く</value>
   </data>
+  <data name="0151 (443.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>聞かない</value>
+  </data>
 </root>

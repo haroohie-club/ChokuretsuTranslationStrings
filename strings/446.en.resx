@@ -559,9 +559,15 @@
 られるね</value>
   </data>
   <data name="0151 (446.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉に声をかける</value>
+    <value>長門に声をかける</value>
   </data>
   <data name="0152 (446.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に声をかける</value>
+  </data>
+  <data name="0153 (446.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>戻しに行かせる</value>
+  </data>
+  <data name="0154 (446.ja) INFO (CHOICE)" xml:space="preserve">
     <value>使うことにする</value>
   </data>
 </root>

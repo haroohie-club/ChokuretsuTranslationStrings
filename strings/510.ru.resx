@@ -562,18 +562,27 @@
     <value>昇降口に戻ってハルヒを連れ戻すか</value>
   </data>
   <data name="0152 (510.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>冗談</value>
+    <value>反論する</value>
   </data>
   <data name="0153 (510.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>俺がやる</value>
+    <value>冗談</value>
   </data>
   <data name="0154 (510.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉がやれ</value>
+    <value>俺がやる</value>
   </data>
   <data name="0155 (510.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉にサイン</value>
+    <value>古泉がやれ</value>
   </data>
   <data name="0156 (510.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉にサイン</value>
+  </data>
+  <data name="0157 (510.ja) INFO (CHOICE)" xml:space="preserve">
     <value>なんとかする</value>
+  </data>
+  <data name="0158 (510.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>返しておく</value>
+  </data>
+  <data name="0159 (510.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>拝借しておく</value>
   </data>
 </root>

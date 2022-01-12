@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,147 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (198.ja) KYON (キョン)" xml:space="preserve">
+    <value>そういえば、さっき古泉の携帯に
+電話があったんだが……</value>
+  </data>
+  <data name="0001 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>誰から？</value>
+  </data>
+  <data name="0002 (198.ja) KYON (キョン)" xml:space="preserve">
+    <value>さあな。電話の相手は誰だか知らん
+俺が言いたいのは、別のことだ</value>
+  </data>
+  <data name="0003 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、別のことって</value>
+  </data>
+  <data name="0004 (198.ja) KYON (キョン)" xml:space="preserve">
+    <value>いくら夏休みとはいえ、学校内で
+携帯を使ってちゃイカンだろ</value>
+  </data>
+  <data name="0005 (198.ja) KYON (キョン)" xml:space="preserve">
+    <value>岡部あたりに見つかったら、没収
+されちまうぞ</value>
+  </data>
+  <data name="0006 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんただって、持ってきてるでしょ</value>
+  </data>
+  <data name="0007 (198.ja) KYON (キョン)" xml:space="preserve">
+    <value>そりゃ……まあ、一応は</value>
+  </data>
+  <data name="0008 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>かたいこと言ってちゃ合宿を楽しめ
+ないわ。もっと柔らかく考えなさい</value>
+  </data>
+  <data name="0009 (198.ja) KYON (キョン)" xml:space="preserve">
+    <value>柔らかくねぇ……</value>
+  </data>
+  <data name="0010 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ま、でもキョンの指摘も一理あるわ
+岡部に没収されたら奪い返さなきゃ</value>
+  </data>
+  <data name="0011 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>その時は、職員室に潜入して強奪ね</value>
+  </data>
+  <data name="0012 (198.ja) KYON (キョン)" xml:space="preserve">
+    <value>そういうことを言いたかったんじゃ
+ないんだがな……</value>
+  </data>
+  <data name="0013 (198.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あのぉ、ちょっと思ったんですけど</value>
+  </data>
+  <data name="0014 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>歩きながら聞くわ。どうしたの？</value>
+  </data>
+  <data name="0015 (198.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くん、学校の中で携帯電話を
+使ってたみたいなんです</value>
+  </data>
+  <data name="0016 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしだって使ってるわよ？
+キョンを呼び出したりとか……</value>
+  </data>
+  <data name="0017 (198.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>宿直の先生に見つかると、怒られ
+ちゃうかもしれません</value>
+  </data>
+  <data name="0018 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>岡部に？　どうして？</value>
+  </data>
+  <data name="0019 (198.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>だって、校内で携帯電話を使うのは
+色々とルール違反だし……</value>
+  </data>
+  <data name="0020 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃん、今は夏休みなのよ
+登校日じゃないんだし</value>
+  </data>
+  <data name="0021 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと使うくらい、問題ないわよ</value>
+  </data>
+  <data name="0022 (198.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>だといいんですけど……</value>
+  </data>
+  <data name="0023 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>急ぐわよ、有希。キョンのことだか
+らサボってるに違いないわ</value>
+  </data>
+  <data name="0024 (198.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……携帯電話で連絡を取れば、正確
+な状況が把握可能</value>
+  </data>
+  <data name="0025 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンの携帯を鳴らせってこと？</value>
+  </data>
+  <data name="0026 (198.ja) NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹も携帯電話を所持している</value>
+  </data>
+  <data name="0027 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、古泉くんも持ってたわね</value>
+  </data>
+  <data name="0028 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも今はいいわ。それより直接
+こうして向かった方が良いもの</value>
+  </data>
+  <data name="0029 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんだったら、有希が電話してみた
+ら？　携帯、持ってきてるでしょ？</value>
+  </data>
+  <data name="0030 (198.ja) NAGATO (長門)" xml:space="preserve">
+    <value>今はいい……</value>
+  </data>
+  <data name="0031 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大丈夫よ。まあ無理にとは言わない
+けど。有希って気を遣うタイプね</value>
+  </data>
+  <data name="0032 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>さあ、ちょっとペースを上げて
+現場に急行しましょう</value>
+  </data>
+  <data name="0033 (198.ja) NAGATO (長門)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0034 (198.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>今回の合宿には、皆さん、携帯電話
+を持って参加なさってるんですね</value>
+  </data>
+  <data name="0035 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうね、校内は広いから、あると
+便利だし</value>
+  </data>
+  <data name="0036 (198.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕も持ってきているのですが、岡部
+教諭に見つかったら、怒られますね</value>
+  </data>
+  <data name="0037 (198.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>夏休みとはいえ、校舎内で堂々と
+携帯を使うのは、気が引けます</value>
+  </data>
+  <data name="0038 (198.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>大丈夫、もし没収されたりしても
+ＳＯＳ団で奪い返せば問題ないわ</value>
+  </data>
+  <data name="0039 (198.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>問題、あるような気もしますが……</value>
+  </data>
 </root>

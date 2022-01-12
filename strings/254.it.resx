@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,103 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (254.ja) KYON (キョン)" xml:space="preserve">
+    <value>……ま、なんだかんだ言ってもだ
+古泉が有能なことには違いない</value>
+  </data>
+  <data name="0001 (254.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ、突然？</value>
+  </data>
+  <data name="0002 (254.ja) KYON (キョン)" xml:space="preserve">
+    <value>別になんでもない、事実を呟いた
+だけだ</value>
+  </data>
+  <data name="0003 (254.ja) KYON (キョン)" xml:space="preserve">
+    <value>実際、古泉は博識で能力の高いやつ
+だからな</value>
+  </data>
+  <data name="0004 (254.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンと比べたら、ほとんどの男子
+が、博識で能力の高いやつかもね</value>
+  </data>
+  <data name="0005 (254.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>谷口を除いて、だけど</value>
+  </data>
+  <data name="0006 (254.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なぜだろう、ほんのかすかな救いを
+感じたのは……</value>
+  </data>
+  <data name="0007 (254.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>いつも文句ばかり言ってますけど</value>
+  </data>
+  <data name="0008 (254.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくん、古泉くんのことを信頼
+してますよね</value>
+  </data>
+  <data name="0009 (254.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうかもね、なんたってキョンより
+ずっと有能だもの</value>
+  </data>
+  <data name="0010 (254.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>信頼しないほうがおかしいわ</value>
+  </data>
+  <data name="0011 (254.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですか……</value>
+  </data>
+  <data name="0012 (254.ja) NAGATO (長門)" xml:space="preserve">
+    <value>古泉一樹は人に信頼されてうれしい
+と言っていた</value>
+  </data>
+  <data name="0013 (254.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ。信頼をなくすのは簡単だけど
+得るのは難しいものだものね</value>
+  </data>
+  <data name="0014 (254.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>けど、信頼してくれるのはうれしい
+かは、相手によると思うわね</value>
+  </data>
+  <data name="0015 (254.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>嫌いな人間から信頼されても迷惑に
+思う人だっていると思うのよ</value>
+  </data>
+  <data name="0016 (254.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>好きだったり信用している相手から
+言われたら、嬉しいはずよ</value>
+  </data>
+  <data name="0017 (254.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それにしても、キョンにもちょっと
+は見習って欲しいものだわ</value>
+  </data>
+  <data name="0018 (254.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0019 (254.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼に少しは仲間意識を持って
+いただけたような気がします</value>
+  </data>
+  <data name="0020 (254.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それで嬉しそうなの、古泉くん</value>
+  </data>
+  <data name="0021 (254.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕は嬉しそうですか？</value>
+  </data>
+  <data name="0022 (254.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>普段と変わりなく振る舞っている
+つもりでしたが</value>
+  </data>
+  <data name="0023 (254.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ、雨待ちしてたカエルみたい
+顔じゃなくて声に出てる感じ</value>
+  </data>
+  <data name="0024 (254.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>カエルですか？　それはユニークな
+表現ですね</value>
+  </data>
+  <data name="0025 (254.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>すごく二枚目のカエルだけどね
+カエルの王子様ってとこね</value>
+  </data>
+  <data name="0026 (254.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>王子様は僕には荷が重すぎます</value>
+  </data>
 </root>

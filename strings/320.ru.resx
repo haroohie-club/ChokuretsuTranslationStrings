@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,132 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (320.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょっと待て、ハルヒ</value>
+  </data>
+  <data name="0001 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ。まさかキョン、怖くなった
+とか言い出すんじゃないでしょうね</value>
+  </data>
+  <data name="0002 (320.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、それはないが、お守りを持っ
+た方がいいんじゃないかと思ってな</value>
+  </data>
+  <data name="0003 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふうん？　あんたってそんなに信心
+深かったっけ？</value>
+  </data>
+  <data name="0004 (320.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあそういう気分になる時もあるさ</value>
+  </data>
+  <data name="0005 (320.ja) KYON (キョン)" xml:space="preserve">
+    <value>見ろ、このお守りを。なんと、長門
+がくれたんだ</value>
+  </data>
+  <data name="0006 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ。有希がねえ。ちょっと貸しな
+さい</value>
+  </data>
+  <data name="0007 (320.ja) KYON (キョン)" xml:space="preserve">
+    <value>おい、それは俺がもらったんだぞ</value>
+  </data>
+  <data name="0008 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希がお守りなんて意外ね。どっち
+かって言えばみくるちゃんじゃない</value>
+  </data>
+  <data name="0009 (320.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>どうなんだろうな？　未来にもお守
+りなんてあるのかね？</value>
+  </data>
+  <data name="0010 (320.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくんが長門さんにお守りを
+貰ったんだそうです</value>
+  </data>
+  <data name="0011 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へー、有希がお守りをねぇ
+キョン、貰って嬉しそうだった？</value>
+  </data>
+  <data name="0012 (320.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>嬉しそうっていうより驚いてる
+みたいでしたねよ</value>
+  </data>
+  <data name="0013 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふぅん、有希みたいに可愛い子に
+貰って、喜ばないのかしら</value>
+  </data>
+  <data name="0014 (320.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>長門さんとお守りって組み合わせが
+意外だったんじゃないですか？</value>
+  </data>
+  <data name="0015 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう言われれば、有希らしくない
+かもね、お守りって</value>
+  </data>
+  <data name="0016 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>みくるちゃんが持ってるんなら、
+なんとなくわかるけど</value>
+  </data>
+  <data name="0017 (320.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そのお守り、屋上で拾ったものらし
+いですよ</value>
+  </data>
+  <data name="0018 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>……ようするに有希はいらなかった
+のね</value>
+  </data>
+  <data name="0019 (320.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0020 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希、なんか落としたわよ？
+って、お守り？</value>
+  </data>
+  <data name="0021 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、有希ってこういうのもってる
+のね。意外だわ</value>
+  </data>
+  <data name="0022 (320.ja) NAGATO (長門)" xml:space="preserve">
+    <value>思念によって現実に変化を及ぼす
+場合もある。これはその象徴</value>
+  </data>
+  <data name="0023 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なるほどねえ。そういう考え方、
+嫌いじゃないわ</value>
+  </data>
+  <data name="0024 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ようするに意志の力ってことよね
+こうと思えば、それが現実になるの</value>
+  </data>
+  <data name="0025 (320.ja) NAGATO (長門)" xml:space="preserve">
+    <value>そう</value>
+  </data>
+  <data name="0026 (320.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>長門さんも、なかなか信心深い方の
+ようですね</value>
+  </data>
+  <data name="0027 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希が？　どうして？</value>
+  </data>
+  <data name="0028 (320.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>屋上に落ちていたお守りを、拾って
+大切に持っていたそうです</value>
+  </data>
+  <data name="0029 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それって、単に落し物を預かってた
+だけってことじゃないの？</value>
+  </data>
+  <data name="0030 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あたしだって、廊下に仏像が落ちて
+たら、拾って部室で預かっておくわ</value>
+  </data>
+  <data name="0031 (320.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>それは……なかなか稀有な例ですね</value>
+  </data>
+  <data name="0032 (320.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>だから別に、信心深いか浅いかは
+わからないと思うけど</value>
+  </data>
+  <data name="0033 (320.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……なるほど、そうですね</value>
+  </data>
 </root>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,388 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺は、朝比奈さんと共に、音楽室の
+見張りに残った</value>
+  </data>
+  <data name="0001 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>キョンくん、がんばって見張り
+ましょうね</value>
+  </data>
+  <data name="0002 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、朝比奈さん
+見張りはしません</value>
+  </data>
+  <data name="0003 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>え？　そ、そうなんですか？</value>
+  </data>
+  <data name="0004 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>嫌な予感はしていたが、本当に
+何も分かってなかったらしい</value>
+  </data>
+  <data name="0005 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>せっかくハルヒと別行動なんです
+今の内にできることをしましょう</value>
+  </data>
+  <data name="0006 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、そっか。そうですよね
+ごめんなさい、気がつかなくて</value>
+  </data>
+  <data name="0007 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ふぅ、なんとか分かってもらえたか</value>
+  </data>
+  <data name="0008 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>で、今後の相談なんですが</value>
+  </data>
+  <data name="0009 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、はい。涼宮さんの注意を
+そらせないといけないんですよね</value>
+  </data>
+  <data name="0010 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>ええ、アイツが暴走しないように
+他のことに目を向けさせないと</value>
+  </data>
+  <data name="0011 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんは、何かいいアイデアが
+ありますか？</value>
+  </data>
+  <data name="0012 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>他の事に目を……
+えぇと、そうですねぇ</value>
+  </data>
+  <data name="0013 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>真剣に考え込んでいるお姿も
+愛らしい</value>
+  </data>
+  <data name="0014 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あのぅ、北高の七不思議じゃなくて</value>
+  </data>
+  <data name="0015 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>他の場所での怪談を話したら
+どうでしょう？</value>
+  </data>
+  <data name="0016 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……怪談って聞くだけでも
+怖いんですけど</value>
+  </data>
+  <data name="0017 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>涼宮さんの興味が引けたら
+いいなって</value>
+  </data>
+  <data name="0018 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>なるほど。他の場所に興味を
+引かせるってわけですね</value>
+  </data>
+  <data name="0019 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それは良い考えかもしれない</value>
+  </data>
+  <data name="0020 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さて、ハルヒにどんな話を
+してみようか？</value>
+  </data>
+  <data name="0021 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>あの、俺が知ってる話でよければ
+ネタを振ってみましょうか？</value>
+  </data>
+  <data name="0022 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい、どんなお話なんですか？</value>
+  </data>
+  <data name="0023 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ちょっとおっかなびっくりしつつも
+身を乗り出してらっしゃる</value>
+  </data>
+  <data name="0024 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ、よくある話なんですけどね</value>
+  </data>
+  <data name="0025 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>ちょっと離れたところに昔から
+あるハイキョがあるんですけど</value>
+  </data>
+  <data name="0026 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0は、はい……</value>
+  </data>
+  <data name="0027 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハイキョと聞いただけで朝比奈さん
+は寒さを堪えるように震えている</value>
+  </data>
+  <data name="0028 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>うっかりそこに立ち入ると
+世にも恐ろしい怪奇現象が……</value>
+  </data>
+  <data name="0029 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0ひゃふっ！？　お、恐ろしい
+怪奇現象ってなんですかぁっ</value>
+  </data>
+  <data name="0030 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>それはですね……</value>
+  </data>
+  <data name="0031 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0ああっ！　や、やっぱり
+いいですっ、言わないで下さいっ</value>
+  </data>
+  <data name="0032 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんの目には恐怖のあまり
+#P05“涙”#P01が浮かんでいた</value>
+  </data>
+  <data name="0033 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>す、すみません</value>
+  </data>
+  <data name="0034 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>俺的にはそんなに怖くない話
+なんだが</value>
+  </data>
+  <data name="0035 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんが怯えるから
+やめておこう</value>
+  </data>
+  <data name="0036 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さんは、ハルヒが興味を
+持つような話ってありますか？</value>
+  </data>
+  <data name="0037 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えぇっ、あ、あたしですか？</value>
+  </data>
+  <data name="0038 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>ええ、未来にも怪談話のひとつや
+ふたつあるんじゃないですか</value>
+  </data>
+  <data name="0039 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>えっと、一応ありますけど……
+でも、内容に『禁則事項』があって</value>
+  </data>
+  <data name="0040 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>この時間平面上ではまともに話せな
+いものばかりなんですよぅ</value>
+  </data>
+  <data name="0041 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>そ、そうなんですか……</value>
+  </data>
+  <data name="0042 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>無理に聞いたりして
+すみません</value>
+  </data>
+  <data name="0043 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あのぅ、例えばなんですけど……
+涼宮さんが近付かないように</value>
+  </data>
+  <data name="0044 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>架空の話を作るっていうのは
+ダメでしょうか？</value>
+  </data>
+  <data name="0045 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>興味本位で近付かないように
+仕向けるとか？</value>
+  </data>
+  <data name="0046 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>はい、そこに近付いたら良くない
+事が起きるみたいな感じで</value>
+  </data>
+  <data name="0047 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……ダメでしょうか？</value>
+  </data>
+  <data name="0048 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>下手をすると余計にあいつの
+興味を刺激することになりますよ</value>
+  </data>
+  <data name="0049 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですか？</value>
+  </data>
+  <data name="0050 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>近付いたら呪いが発動して
+恐ろしい物が現われるとか</value>
+  </data>
+  <data name="0051 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……って言っても、やっぱり
+ダメなんですか</value>
+  </data>
+  <data name="0052 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん、一介の高校の音楽室に
+そんな古代の呪い的なのはどうかと</value>
+  </data>
+  <data name="0053 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、やっぱり変ですよね</value>
+  </data>
+  <data name="0054 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも、もしあたしがそう言われたら
+怖くて近づけなくなりそうですけど</value>
+  </data>
+  <data name="0055 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>……ハルヒにも朝比奈さんのような
+繊細さが１グラムでもあったらな</value>
+  </data>
+  <data name="0056 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そもそもこんな事をする羽目に
+はならなかったんだが</value>
+  </data>
+  <data name="0057 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0はうぅ、想像したらなんだか急に
+怖くなってきちゃいましたぁ</value>
+  </data>
+  <data name="0058 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>自分で考えたネタだっていうのに</value>
+  </data>
+  <data name="0059 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは怖くなって
+子羊のように震えていらっしゃる</value>
+  </data>
+  <data name="0060 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんとも愛らしい光景ではあるが</value>
+  </data>
+  <data name="0061 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>怖がっている朝比奈さんを
+安心させてやるべきだろうか？</value>
+  </data>
+  <data name="0062 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>朝比奈さん、いくらなんでも
+それは考えすぎですよ</value>
+  </data>
+  <data name="0063 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>そ、そうですか？</value>
+  </data>
+  <data name="0064 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>ええ、よく考えて下さい。そもそも
+それは自分で考えたネタなわけで</value>
+  </data>
+  <data name="0065 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あっ、そ、そうですよね</value>
+  </data>
+  <data name="0066 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あたしったら、変な風に
+思い込んじゃって</value>
+  </data>
+  <data name="0067 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>恥ずかしそうに照れ笑いを
+してらっしゃる</value>
+  </data>
+  <data name="0068 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんとか落ち着いてくれた
+らしい</value>
+  </data>
+  <data name="0069 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>大丈夫、怖くないですよ
+あくまでも想像の産物ですから</value>
+  </data>
+  <data name="0070 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はいぃ……
+そ、そうですよね</value>
+  </data>
+  <data name="0071 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ごめんなさい、キョンくん
+あたしすごく怖がりなんですぅ</value>
+  </data>
+  <data name="0072 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いえいえ、怖がりだなんて</value>
+  </data>
+  <data name="0073 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>実に朝比奈さんらしくて
+いいですよ</value>
+  </data>
+  <data name="0074 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふぅぅ、キョンくんのお陰で
+落ち着いたけど</value>
+  </data>
+  <data name="0075 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ちょっと部屋に入るのに
+ためらっちゃいますよね</value>
+  </data>
+  <data name="0076 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>音楽室の前まで来た俺たち
+だったが</value>
+  </data>
+  <data name="0077 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんは部屋の中を見るのを
+ためらってらっしゃる</value>
+  </data>
+  <data name="0078 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあ、そういうこともありますよ</value>
+  </data>
+  <data name="0079 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺が中を見ますから朝比奈さんは
+そこにいてください</value>
+  </data>
+  <data name="0080 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>は、はい……</value>
+  </data>
+  <data name="0081 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんを残して、室内の
+様子を見ようとした時だった</value>
+  </data>
+  <data name="0082 (394.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>みくるちゃーん！</value>
+  </data>
+  <data name="0083 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0うひゃあぁっ！？</value>
+  </data>
+  <data name="0084 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>おわっ！</value>
+  </data>
+  <data name="0085 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今までどこに隠れてやがったんだ
+妹よ</value>
+  </data>
+  <data name="0086 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>恐ろしいほどの絶妙なタイミングで
+妹が後から朝比奈さんに飛びついた</value>
+  </data>
+  <data name="0087 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0ほ、ほほほ本当に出ちゃいましたぁ
+……きゅう</value>
+  </data>
+  <data name="0088 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ショックで朝比奈さんが
+目を回してしまった</value>
+  </data>
+  <data name="0089 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああっ！　朝比奈さん
+大丈夫ですかっ</value>
+  </data>
+  <data name="0090 (394.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>あれぇ？　みくるちゃん
+どうしちゃったのー？</value>
+  </data>
+  <data name="0091 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>#SK0あうあう……ごめんなさいっ
+やっぱり怖いのは苦手なんですぅ</value>
+  </data>
+  <data name="0092 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>嘘から出たマコト。いやこの場合は
+身から出たサビになるんだろうか？</value>
+  </data>
+  <data name="0093 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>自らの想像でここまで追いつまって
+しまうとは</value>
+  </data>
+  <data name="0094 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>なんて器用な方なんだ</value>
+  </data>
+  <data name="0095 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>……朝比奈さん。怖いのが苦手
+なんですから</value>
+  </data>
+  <data name="0096 (394.ja) KYON (キョン)" xml:space="preserve">
+    <value>あんまり想像しすぎない方が
+いいと思いますよ</value>
+  </data>
+  <data name="0097 (394.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ううっ、そうしますぅ</value>
+  </data>
+  <data name="0098 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒを説得する前に</value>
+  </data>
+  <data name="0099 (394.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんの身が持たない
+気がする……</value>
+  </data>
+  <data name="0100 (394.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>自分から話す</value>
+  </data>
+  <data name="0101 (394.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるに聞く</value>
+  </data>
+  <data name="0102 (394.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>考えすぎだと注意する</value>
+  </data>
+  <data name="0103 (394.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>怖くないと励ます</value>
+  </data>
 </root>

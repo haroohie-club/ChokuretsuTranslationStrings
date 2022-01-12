@@ -528,6 +528,15 @@
 しなくちゃならんようだしな</value>
   </data>
   <data name="0132 (395.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門のオススメを聞く</value>
+  </data>
+  <data name="0133 (395.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門にオススメする</value>
+  </data>
+  <data name="0134 (395.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門の協力を仰ぐ</value>
+  </data>
+  <data name="0135 (395.ja) INFO (CHOICE)" xml:space="preserve">
     <value>自力でなんとかする</value>
   </data>
 </root>

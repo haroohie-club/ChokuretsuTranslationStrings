@@ -698,12 +698,21 @@
 ハルヒがらみでそんなわけがない</value>
   </data>
   <data name="0212 (431.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉に聞く</value>
+    <value>長門に聞く</value>
   </data>
   <data name="0213 (431.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ＣＤをもらう</value>
+    <value>古泉に聞く</value>
   </data>
   <data name="0214 (431.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>聞いてみる</value>
+  </data>
+  <data name="0215 (431.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>聞かない</value>
+  </data>
+  <data name="0216 (431.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>ＣＤをもらう</value>
+  </data>
+  <data name="0217 (431.ja) INFO (CHOICE)" xml:space="preserve">
     <value>もらわない</value>
   </data>
 </root>

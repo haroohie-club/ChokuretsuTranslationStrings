@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,155 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (342.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ、実はこんなものを拾った
+んだが</value>
+  </data>
+  <data name="0001 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに？　くだらないものだったら
+その場で投げ捨てるわよ</value>
+  </data>
+  <data name="0002 (342.ja) KYON (キョン)" xml:space="preserve">
+    <value>この石を見ろ。光っていてなかなか
+キレイだろ。肝試し中に拾ったんだ</value>
+  </data>
+  <data name="0003 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>たしかにキレイね。宝石じゃない
+けど、ちょっとみとれてしまうわね</value>
+  </data>
+  <data name="0004 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でもこれ、あまり見たことがない石
+よね</value>
+  </data>
+  <data name="0005 (342.ja) KYON (キョン)" xml:space="preserve">
+    <value>ああ、俺も初めて見た</value>
+  </data>
+  <data name="0006 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これは重要な資料としてあたしが
+預かっておくわ</value>
+  </data>
+  <data name="0007 (342.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあいいけどな。元々そのつもりで
+拾ったし</value>
+  </data>
+  <data name="0008 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>へえ、キョンにしてはいい心がけね</value>
+  </data>
+  <data name="0009 (342.ja) KYON (キョン)" xml:space="preserve">
+    <value>はいはい、ありがとよ</value>
+  </data>
+  <data name="0010 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>これはもしかするとインセキの破片
+かも知れないわね</value>
+  </data>
+  <data name="0011 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あるいはＵＦＯが落としていった
+通信機とも考えられるわ</value>
+  </data>
+  <data name="0012 (342.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、ただの鉱石だと思うが</value>
+  </data>
+  <data name="0013 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そういう貧弱な発想じゃあ、世の中
+をまともに渡っていけないわよ！</value>
+  </data>
+  <data name="0014 (342.ja) KYON (キョン)" xml:space="preserve">
+    <value>俺の将来を案じてくれてありがとう
+とでも言っておこう</value>
+  </data>
+  <data name="0015 (342.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>肝試ししてる時に、キョンくんが
+何か光るものを見つけたんですよ</value>
+  </data>
+  <data name="0016 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええっ、そんな話は知らないわよ
+それ、なんだったの？</value>
+  </data>
+  <data name="0017 (342.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ええっと、涼宮さんの期待するよう
+な物じゃなかったみたいですよ</value>
+  </data>
+  <data name="0018 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、ＵＦＯとかエイリアンとか
+幽霊じゃなかったの？</value>
+  </data>
+  <data name="0019 (342.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ふぇ？　石でしたけど</value>
+  </data>
+  <data name="0020 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>石って……光ってる石？　なんだ
+怪奇現象かと期待したじゃない</value>
+  </data>
+  <data name="0021 (342.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>……あっ、すみません。別にどこか
+光ってたとかじゃないんです</value>
+  </data>
+  <data name="0022 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、なんで学校の廊下に石なんか
+あったのかしらね？</value>
+  </data>
+  <data name="0023 (342.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ちょっと珍しい石みたいですよ
+地学室から転がってきたのかなぁ？</value>
+  </data>
+  <data name="0024 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>珍しい石……何かあるかもね</value>
+  </data>
+  <data name="0025 (342.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>あ、あの、涼宮さんっ、珍しくても
+ただの石ですからね？</value>
+  </data>
+  <data name="0026 (342.ja) NAGATO (長門)" xml:space="preserve">
+    <value>これを</value>
+  </data>
+  <data name="0027 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに？　これって石？</value>
+  </data>
+  <data name="0028 (342.ja) NAGATO (長門)" xml:space="preserve">
+    <value>廊下に落ちていた。珍しい鉱石</value>
+  </data>
+  <data name="0029 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうなの？　……まあ、確かに廊下
+に石なんて普通落ちてないわよね</value>
+  </data>
+  <data name="0030 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>うーん、もしかして、エイリアンが
+襲撃した名残だったりして</value>
+  </data>
+  <data name="0031 (342.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0032 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>地球上には存在しない鉱物かも
+しれないわね</value>
+  </data>
+  <data name="0033 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>明日にでも調べてみるわ！</value>
+  </data>
+  <data name="0034 (342.ja) NAGATO (長門)" xml:space="preserve">
+    <value>……</value>
+  </data>
+  <data name="0035 (342.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そういえば、長門さんが拾った石
+についてはご存知ですか？</value>
+  </data>
+  <data name="0036 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希が拾った石？　なにそれ？</value>
+  </data>
+  <data name="0037 (342.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>詳しいことは分かりませんが、見た
+目が美しい、謎の鉱石だそうです</value>
+  </data>
+  <data name="0038 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>宝石かしらね？　古泉くんはそれ
+見たの？</value>
+  </data>
+  <data name="0039 (342.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>ええ、拝見しました。そこまで貴重
+な物ではなさそうでしたが……</value>
+  </data>
+  <data name="0040 (342.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>後で有希に見せてもらうわ
+謎ってことろが気になるしね</value>
+  </data>
 </root>

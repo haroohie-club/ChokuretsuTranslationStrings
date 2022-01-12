@@ -965,6 +965,21 @@
     <value>携帯で写真を撮る</value>
   </data>
   <data name="0292 (489.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>声を掛ける</value>
+  </data>
+  <data name="0293 (489.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>電気を消そう</value>
+  </data>
+  <data name="0294 (489.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>電気を消さずにいよう</value>
+  </data>
+  <data name="0295 (489.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>朝比奈さんを加勢</value>
+  </data>
+  <data name="0296 (489.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門を加勢</value>
+  </data>
+  <data name="0297 (489.ja) INFO (CHOICE)" xml:space="preserve">
     <value>古泉を加勢</value>
   </data>
 </root>

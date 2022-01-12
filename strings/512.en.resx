@@ -685,21 +685,27 @@
 目標はなんとか達成できたのだった</value>
   </data>
   <data name="0187 (512.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ダメじゃない</value>
+    <value>長門に相談する</value>
   </data>
   <data name="0188 (512.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ダメでしょう</value>
+    <value>別の方法を考える</value>
   </data>
   <data name="0189 (512.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>あり得る</value>
+    <value>ダメじゃない</value>
   </data>
   <data name="0190 (512.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>考えすぎ</value>
+    <value>ダメでしょう</value>
   </data>
   <data name="0191 (512.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>義賊ってことで</value>
+    <value>あり得る</value>
   </data>
   <data name="0192 (512.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>考えすぎ</value>
+  </data>
+  <data name="0193 (512.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>義賊ってことで</value>
+  </data>
+  <data name="0194 (512.ja) INFO (CHOICE)" xml:space="preserve">
     <value>借りただけです</value>
   </data>
 </root>

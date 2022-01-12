@@ -538,21 +538,36 @@
     <value>考える</value>
   </data>
   <data name="0138 (514.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>指摘する</value>
+    <value>長門に聞く</value>
   </data>
   <data name="0139 (514.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>考えても仕方ない</value>
+    <value>指摘する</value>
   </data>
   <data name="0140 (514.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>プールの中</value>
+    <value>考えても仕方ない</value>
   </data>
   <data name="0141 (514.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>プールサイド</value>
+    <value>聞きに行く</value>
   </data>
   <data name="0142 (514.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>すぐに長門に知らせに行く</value>
+    <value>独断で</value>
   </data>
   <data name="0143 (514.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>逃げる</value>
+  </data>
+  <data name="0144 (514.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>正体を確かめる</value>
+  </data>
+  <data name="0145 (514.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>プールの中</value>
+  </data>
+  <data name="0146 (514.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>プールサイド</value>
+  </data>
+  <data name="0147 (514.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>すぐに長門に知らせに行く</value>
+  </data>
+  <data name="0148 (514.ja) INFO (CHOICE)" xml:space="preserve">
     <value>少し休む</value>
   </data>
 </root>

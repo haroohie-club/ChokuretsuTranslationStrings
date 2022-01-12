@@ -455,6 +455,15 @@
     <value>I became worried all over again.</value>
   </data>
   <data name="0134 (373.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>I don't think so</value>
+    <value>She does seem like a cat.</value>
+  </data>
+  <data name="0135 (373.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>I don't think so.</value>
+  </data>
+  <data name="0136 (373.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門に聞く</value>
+  </data>
+  <data name="0137 (373.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門に聞かない</value>
   </data>
 </root>

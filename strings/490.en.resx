@@ -337,6 +337,15 @@
     <value>はうっ</value>
   </data>
   <data name="0088 (490.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>調べる</value>
+  </data>
+  <data name="0089 (490.ja) INFO (CHOICE)" xml:space="preserve">
     <value>気にしない</value>
+  </data>
+  <data name="0090 (490.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>抜かない</value>
+  </data>
+  <data name="0091 (490.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>抜く</value>
   </data>
 </root>

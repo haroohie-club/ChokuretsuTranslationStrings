@@ -560,9 +560,21 @@
     <value>Something doesn't add up, but for now we should go regroup with the other team.</value>
   </data>
   <data name="0191 (367.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Point it out.</value>
+    <value>Asahina.</value>
   </data>
   <data name="0192 (367.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>Nagato.</value>
+  </data>
+  <data name="0193 (367.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>Point it out.</value>
+  </data>
+  <data name="0194 (367.ja) INFO (CHOICE)" xml:space="preserve">
     <value>Don't point it out.</value>
+  </data>
+  <data name="0195 (367.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>Call Nagato.</value>
+  </data>
+  <data name="0196 (367.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>Call Asahina.</value>
   </data>
 </root>

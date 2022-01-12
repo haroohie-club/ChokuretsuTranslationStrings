@@ -490,12 +490,15 @@
 こういう時には頼りになる</value>
   </data>
   <data name="0120 (397.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>みくるに確認</value>
+    <value>長門に確認</value>
   </data>
   <data name="0121 (397.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>オルゴールを回収する</value>
+    <value>みくるに確認</value>
   </data>
   <data name="0122 (397.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>オルゴールを回収する</value>
+  </data>
+  <data name="0123 (397.ja) INFO (CHOICE)" xml:space="preserve">
     <value>オルゴールを回収しない</value>
   </data>
 </root>

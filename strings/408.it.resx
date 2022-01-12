@@ -483,4 +483,10 @@
   <data name="0121 (408.ja) INFO (CHOICE)" xml:space="preserve">
     <value>自分で行く</value>
   </data>
+  <data name="0122 (408.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>朝比奈さんにたのむ</value>
+  </data>
+  <data name="0123 (408.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>二人で行く</value>
+  </data>
 </root>

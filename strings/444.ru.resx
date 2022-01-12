@@ -684,12 +684,21 @@
 おいしく食べられるよ</value>
   </data>
   <data name="0185 (444.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>更に具を追加</value>
+    <value>説明はしない</value>
   </data>
   <data name="0186 (444.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>そのままでいい</value>
+    <value>長門に説明してやる</value>
   </data>
   <data name="0187 (444.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>更に具を追加</value>
+  </data>
+  <data name="0188 (444.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>そのままでいい</value>
+  </data>
+  <data name="0189 (444.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>断固拒否</value>
+  </data>
+  <data name="0190 (444.ja) INFO (CHOICE)" xml:space="preserve">
     <value>仕方ない</value>
   </data>
 </root>

@@ -436,9 +436,12 @@
     <value>勝ちを譲る</value>
   </data>
   <data name="0110 (504.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>チェス成功</value>
+    <value>負かせる</value>
   </data>
   <data name="0111 (504.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>チェス成功</value>
+  </data>
+  <data name="0112 (504.ja) INFO (CHOICE)" xml:space="preserve">
     <value>チェス失敗</value>
   </data>
 </root>

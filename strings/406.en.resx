@@ -537,9 +537,15 @@
 おくべきだったかも知れない</value>
   </data>
   <data name="0145 (406.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉に声を掛ける</value>
+    <value>長門に声を掛ける</value>
   </data>
   <data name="0146 (406.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉に声を掛ける</value>
+  </data>
+  <data name="0147 (406.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門に聞く</value>
+  </data>
+  <data name="0148 (406.ja) INFO (CHOICE)" xml:space="preserve">
     <value>古泉に聞く</value>
   </data>
 </root>

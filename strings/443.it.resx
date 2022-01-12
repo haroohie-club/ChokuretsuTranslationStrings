@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,492 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>なあ、ハルヒ。大丈夫か？</value>
+  </data>
+  <data name="0001 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>え、何が？</value>
+  </data>
+  <data name="0002 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、なんだ。みんなを学校に行か
+せちまったが、</value>
+  </data>
+  <data name="0003 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>こっちの準備が大丈夫かなと思って
+だな</value>
+  </data>
+  <data name="0004 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>朝比奈さんが学校に鶴屋さんを呼び
+に行くことになり、</value>
+  </data>
+  <data name="0005 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>不測の事態にそなえて、ついでに
+異変を調査するために、</value>
+  </data>
+  <data name="0006 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>長門と古泉も学校に向かわせたが
+俺は今、若干の後悔を感じていた</value>
+  </data>
+  <data name="0007 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>目の前には肉や野菜のバーベキュー
+素材が山となって置いてある</value>
+  </data>
+  <data name="0008 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>さて、これをなんとしたものやら</value>
+  </data>
+  <data name="0009 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒと俺だけで、この量の食材
+をどうにかできるのかね？</value>
+  </data>
+  <data name="0010 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>バーベキューの下ごしらえなんて
+洗って切るだけだもの、楽勝よ</value>
+  </data>
+  <data name="0011 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>そんなもんか？</value>
+  </data>
+  <data name="0012 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>頼もしいハルヒの言葉を鵜呑みに
+してもいいものなのだろうか</value>
+  </data>
+  <data name="0013 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>しかし、バーベキューグリルも組み
+立てないとならないだろ</value>
+  </data>
+  <data name="0014 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それはあっちでやって貰ってるわ
+そのために労働力を呼んだんでしょ</value>
+  </data>
+  <data name="0015 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒの指さす先を見る</value>
+  </data>
+  <data name="0017 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>そこでは、谷口と国木田が今まさに
+コンロと格闘を始めるところだった</value>
+  </data>
+  <data name="0018 (443.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>よっしゃ。組み立てようぜ</value>
+  </data>
+  <data name="0019 (443.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>くみたてよー</value>
+  </data>
+  <data name="0021 (443.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>谷口、ちっとも説明書読んでない
+だろ。大丈夫？</value>
+  </data>
+  <data name="0022 (443.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>こういうのは、やってみりゃ
+なんとかなるもんだって</value>
+  </data>
+  <data name="0023 (443.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>なるってー！</value>
+  </data>
+  <data name="0025 (443.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>ダメだよ
+やり直しは効率が悪いだろ</value>
+  </data>
+  <data name="0026 (443.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>ったく、めんどくせえこと言うなよ</value>
+  </data>
+  <data name="0027 (443.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>ゆーなー</value>
+  </data>
+  <data name="0028 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>妹よ、真似をするならせめて
+谷口じゃなく国木田にしてくれ</value>
+  </data>
+  <data name="0029 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>とは言え、妹も楽しそうだ</value>
+  </data>
+  <data name="0030 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こっちは今から包丁を使うから
+近づいて欲しくないしな</value>
+  </data>
+  <data name="0033 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>谷口でもいるなら使わないとね
+国木田もいるし何とかなるでしょ</value>
+  </data>
+  <data name="0034 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>まあそうだな</value>
+  </data>
+  <data name="0035 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>台所仕事をろくにしたことがない
+俺は、グリルの方がまだしもだが</value>
+  </data>
+  <data name="0036 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>組み立てに男３人は多すぎるし</value>
+  </data>
+  <data name="0037 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この面子でハルヒの面倒を見られる
+のは俺しかいないからな</value>
+  </data>
+  <data name="0038 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、眺めてないでさっさと切って
+この皿に切ったのを並べるのよ</value>
+  </data>
+  <data name="0039 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>言うなりハルヒは包丁とまな板と
+皿を押しつけてきた</value>
+  </data>
+  <data name="0041 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>よし、切ればいいんだな</value>
+  </data>
+  <data name="0042 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>まな板の上に肉を置いて、切るが</value>
+  </data>
+  <data name="0043 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>ハルヒ……</value>
+  </data>
+  <data name="0044 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なによ？</value>
+  </data>
+  <data name="0045 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>なんだか潰れたんだが</value>
+  </data>
+  <data name="0046 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>はあ？　潰れるものなんかない#W30…#W30…</value>
+  </data>
+  <data name="0047 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっと、切り口が潰れてるじゃ
+ないの！</value>
+  </data>
+  <data name="0048 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>だからそう言ったじゃないか</value>
+  </data>
+  <data name="0049 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>切りづらいな。包丁のせいか？</value>
+  </data>
+  <data name="0050 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>道具のせいにしないの！
+キョンの腕が悪いのよ！</value>
+  </data>
+  <data name="0051 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いったい包丁をどう使ったら潰せる
+のか見てあげるわ。やってみて！</value>
+  </data>
+  <data name="0052 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>こうだが……</value>
+  </data>
+  <data name="0053 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>違うわよ！
+持ち方がなってない！　こう！</value>
+  </data>
+  <data name="0054 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>ほお</value>
+  </data>
+  <data name="0055 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒが切った肉は潰れもせず
+キレイな切り口を見せている</value>
+  </data>
+  <data name="0056 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんまり力を入れて握らない</value>
+  </data>
+  <data name="0057 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>左手は丸めて横向き。指先で押さえ
+ると、包丁でケガしちゃうわよ</value>
+  </data>
+  <data name="0058 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>ほほお</value>
+  </data>
+  <data name="0059 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>お肉の場合は手前に引くようにして
+野菜は押すように切るの</value>
+  </data>
+  <data name="0060 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>ほほほお</value>
+  </data>
+  <data name="0061 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なに、フクロウにでもなったわけ？</value>
+  </data>
+  <data name="0062 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>素朴に感心しているところだ</value>
+  </data>
+  <data name="0063 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふぅん、まあいいわ。これはあたし
+が切るから、</value>
+  </data>
+  <data name="0064 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンは他ので、包丁に慣れる練習
+が必要ね</value>
+  </data>
+  <data name="0065 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あ、練習に肉を使ったらダメよ
+トウモロコシでも切ってなさい</value>
+  </data>
+  <data name="0067 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>トマトにはさわらない。肉を潰せる
+んならトマトじゃぐちゃぐちゃよ</value>
+  </data>
+  <data name="0068 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>文句を言いながら、ハルヒの手は
+軽快に動いていく</value>
+  </data>
+  <data name="0069 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>へー……上手いもんだな</value>
+  </data>
+  <data name="0070 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>手際の良さにいささか感心して
+しまった</value>
+  </data>
+  <data name="0071 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>こいつはなんでもそつなくこなし
+やがるな。性格以外は</value>
+  </data>
+  <data name="0072 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたが下手すぎるんでしょ</value>
+  </data>
+  <data name="0073 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>食材を手際良く切っていくハルヒは
+ごく普通の女の子に見えた</value>
+  </data>
+  <data name="0074 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今や学校は異常空間化していて
+ホラー映画もかくやの状態だ</value>
+  </data>
+  <data name="0075 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>それがこいつの能力が原因で
+起こっているとは</value>
+  </data>
+  <data name="0076 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>この光景を見る限り信じがたい</value>
+  </data>
+  <data name="0077 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>おまけに、本人にそれが知られたら
+世界が終わりかねないなんてな</value>
+  </data>
+  <data name="0078 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ここで野菜や肉を切ってる間に</value>
+  </data>
+  <data name="0079 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>今学校では
+何が起きているのやら……</value>
+  </data>
+  <data name="0080 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ちょっとキョン、これバーベキュー
+にどうやって使う気なの？</value>
+  </data>
+  <data name="0081 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒはカレーのルーを持って
+笑っている</value>
+  </data>
+  <data name="0082 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>長門が欲しがったらしいぞ</value>
+  </data>
+  <data name="0083 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>有希ったらへんなの。この大きい
+マシュマロは？</value>
+  </data>
+  <data name="0084 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>焼くと美味いんだそうだ</value>
+  </data>
+  <data name="0085 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>チョコはオヤツ？</value>
+  </data>
+  <data name="0086 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>いや、焼く気で買ってきたと見たな</value>
+  </data>
+  <data name="0087 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ドロドロになるんじゃないの？
+この梅干しも焼く気かしら？</value>
+  </data>
+  <data name="0088 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>焼くんだろうよ。バーベキュー
+だからな</value>
+  </data>
+  <data name="0089 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒは七不思議のことをすっかり
+忘れたように、笑っている</value>
+  </data>
+  <data name="0090 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>みんなでするバーベキューをただ
+楽しんで、忘れてくれればいい</value>
+  </data>
+  <data name="0091 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>なぁ、ハルヒ</value>
+  </data>
+  <data name="0092 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ん、なに？</value>
+  </data>
+  <data name="0093 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>楽しんでるか？</value>
+  </data>
+  <data name="0094 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>けっこう楽しいわ。ちゃんと変な
+ものも買い込んできたみたいだし</value>
+  </data>
+  <data name="0095 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>どんな串になるのかしらね
+組み合わせによったら地獄の味よ</value>
+  </data>
+  <data name="0096 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そうだ、みんなで各々変な串作って
+目をつぶって選ぶのどうかしら？</value>
+  </data>
+  <data name="0097 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>闇鍋串かよ</value>
+  </data>
+  <data name="0098 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンって絶対すごいの当てそう
+よね。一番まずいやつとか</value>
+  </data>
+  <data name="0099 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>おまえのくじ運にも期待してるぜ
+最高に面白い串を当ててくれ</value>
+  </data>
+  <data name="0100 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ、いいわよ
+最高級串を当ててみせるわ</value>
+  </data>
+  <data name="0101 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>そりゃ楽しみだ</value>
+  </data>
+  <data name="0102 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ええ、まったくね</value>
+  </data>
+  <data name="0103 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いや、聞かなくても、笑顔と弾んだ
+声で十分わかるか</value>
+  </data>
+  <data name="0104 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>手が動いてないぞ</value>
+  </data>
+  <data name="0105 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なんですって？</value>
+  </data>
+  <data name="0106 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンの分際で生意気だわ！
+ろくに包丁も握れないくせに</value>
+  </data>
+  <data name="0107 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>下ごしらえしてるのあたしだけ
+なのよ</value>
+  </data>
+  <data name="0108 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>なすのヘタは切り終わったぞ
+お前はまだだろ</value>
+  </data>
+  <data name="0109 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんな低レベルなことでいばらない
+でよ！</value>
+  </data>
+  <data name="0110 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、練習の成果を見せてみなさい</value>
+  </data>
+  <data name="0111 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ハルヒはさっきさわるなと言った
+トマトを俺に渡した</value>
+  </data>
+  <data name="0112 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>トマトを潰さずに切れたら、包丁人
+として認めてあげるわ！</value>
+  </data>
+  <data name="0113 (443.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>おおっ、国木田、キョンが涼宮に
+試験されてるぞ</value>
+  </data>
+  <data name="0114 (443.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>しけんー、キョンくんがんばれー</value>
+  </data>
+  <data name="0115 (443.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>そっちはいいから、ほら、僕たち
+はさっさとグリル組み立てようよ</value>
+  </data>
+  <data name="0116 (443.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>いや、待て待て。ここは友人として
+見守ってやらないとな</value>
+  </data>
+  <data name="0118 (443.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>オーエンするよー</value>
+  </data>
+  <data name="0119 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>いらねーよ。いいからお前らは
+グリル組み立ててろ</value>
+  </data>
+  <data name="0122 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>いい、さっき教えたように、野菜は
+押し切りだからね</value>
+  </data>
+  <data name="0123 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そおっと力を入れていくのよ</value>
+  </data>
+  <data name="0124 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>肉と反対だな</value>
+  </data>
+  <data name="0125 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう。さあやりなさい</value>
+  </data>
+  <data name="0126 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>包丁人キョンを見せてくれるわ！</value>
+  </data>
+  <data name="0127 (443.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>あーーー、トマトつぶれちゃったー</value>
+  </data>
+  <data name="0128 (443.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>ぎゃはははっ、ダメじゃん、ぐちゃ
+ぐちゃになってやがるー</value>
+  </data>
+  <data name="0131 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>包丁人失格！</value>
+  </data>
+  <data name="0132 (443.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>そりゃ失格だな</value>
+  </data>
+  <data name="0133 (443.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>しっかくだねー</value>
+  </data>
+  <data name="0134 (443.ja) KUNIKIDA (国木田)" xml:space="preserve">
+    <value>これは……そうだね</value>
+  </data>
+  <data name="0135 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>ギャラリーは黙ってろ</value>
+  </data>
+  <data name="0136 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>あんたは料理人の基礎からやらない
+とダメみたいね</value>
+  </data>
+  <data name="0137 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>基礎ってなんだ</value>
+  </data>
+  <data name="0138 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>もちろん、野菜洗いよ！</value>
+  </data>
+  <data name="0139 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>グラウンドの水場で洗ってくるの
+まんま焼くものもあるから丁寧にね</value>
+  </data>
+  <data name="0140 (443.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>切るのはあたしが全部やるわ</value>
+  </data>
+  <data name="0141 (443.ja) TANIGUCHI (谷口)" xml:space="preserve">
+    <value>よし、行ってこい。失格者！</value>
+  </data>
+  <data name="0142 (443.ja) KYON_SIS (妹)" xml:space="preserve">
+    <value>いってらっしゃーい、
+しっかくしゃー</value>
+  </data>
+  <data name="0143 (443.ja) KYON (キョン)" xml:space="preserve">
+    <value>だからギャラリーはだまってろ</value>
+  </data>
+  <data name="0146 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>包丁人失格の烙印をおされた俺は
+野菜の山を抱えて学校に向かう</value>
+  </data>
+  <data name="0147 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>束の間の平和を味わっていた俺は
+怪異発生確率上昇中の学校に向かう</value>
+  </data>
+  <data name="0148 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>グラウンドで野菜を洗いながら、
+ホラーに遭遇するなんてのは勘弁だ</value>
+  </data>
+  <data name="0149 (443.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>しみじみ自分の無事と朝比奈さん
+たちの無事を願う俺だった</value>
+  </data>
+  <data name="0150 (443.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>楽しんでるか聞く</value>
+  </data>
+  <data name="0151 (443.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>聞かない</value>
+  </data>
 </root>

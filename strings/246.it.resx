@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,157 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0000 (246.ja) KYON (キョン)" xml:space="preserve">
+    <value>言いたいことがあれば、言えばいい
+と俺は思うんだが……</value>
+  </data>
+  <data name="0001 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>なにそれ？　あたしに言ってるの？</value>
+  </data>
+  <data name="0002 (246.ja) MONOLOGUE (モノロ)" xml:space="preserve">
+    <value>お前はいつだって、言いたいことを
+脊髄反射で言うだろうが</value>
+  </data>
+  <data name="0003 (246.ja) KYON (キョン)" xml:space="preserve">
+    <value>古泉の話だ。たまに、自分の主張を
+殺して、視線で訴えてくる</value>
+  </data>
+  <data name="0004 (246.ja) KYON (キョン)" xml:space="preserve">
+    <value>今日も、やけに冷たい視線で、自分
+の提案を通して欲しそうにしてた</value>
+  </data>
+  <data name="0005 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>考えすぎじゃないの？</value>
+  </data>
+  <data name="0006 (246.ja) KYON (キョン)" xml:space="preserve">
+    <value>さて、どうだろうな。とにかく無言
+のプレッシャーは勘弁して欲しい</value>
+  </data>
+  <data name="0007 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>それ、有希にも同じこと言えるん
+じゃないの？</value>
+  </data>
+  <data name="0008 (246.ja) KYON (キョン)" xml:space="preserve">
+    <value>…………</value>
+  </data>
+  <data name="0009 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>冷たい目って、どっちかと言えば
+呆れられてるって感じじゃないの？</value>
+  </data>
+  <data name="0010 (246.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>古泉くんの視線が、たまに冷たい
+ような気がするんです……</value>
+  </data>
+  <data name="0011 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そう？　あんまり意識したことは
+ないけど……</value>
+  </data>
+  <data name="0012 (246.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>でも……わからないでもないんです
+彼の立場を考えると……</value>
+  </data>
+  <data name="0013 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>立場？　なんのこと？</value>
+  </data>
+  <data name="0014 (246.ja) MIKURU (みくる)" xml:space="preserve">
+    <value>ひゃ？　あ、いえ……な、なんでも
+ないですっ</value>
+  </data>
+  <data name="0015 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ふぅん……？
+変なみくるちゃん</value>
+  </data>
+  <data name="0016 (246.ja) NAGATO (長門)" xml:space="preserve">
+    <value>冷たい視線とは、どの位の温度の
+ことを指すのか知りたい</value>
+  </data>
+  <data name="0017 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>マイナス４０度くらいかしらね</value>
+  </data>
+  <data name="0018 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>って、もしかして誰かが
+有希をそんな目で見てたの？</value>
+  </data>
+  <data name="0019 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>そんな失礼なやつがいたら、
+とっちめてやらないと！</value>
+  </data>
+  <data name="0020 (246.ja) NAGATO (長門)" xml:space="preserve">
+    <value>わたしに対して向けられたもの
+ではない</value>
+  </data>
+  <data name="0021 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>わかった！　キョンがそんな目で
+見られてたんでしょ</value>
+  </data>
+  <data name="0022 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>まあ、相手の気持ちはわからなく
+もないかもね</value>
+  </data>
+  <data name="0023 (246.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕の視線が冷たいと思っている
+ようなのですが</value>
+  </data>
+  <data name="0024 (246.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕はそんな目で見た覚えはないの
+ですが、なぜなのでしょうね</value>
+  </data>
+  <data name="0025 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>またキョンの話かしら？</value>
+  </data>
+  <data name="0026 (246.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>そうです。涼宮さんは僕が冷たい
+視線で見ていると思われますか？</value>
+  </data>
+  <data name="0027 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>すくなくとも、あたしのはそうは
+感じないわね</value>
+  </data>
+  <data name="0028 (246.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>彼の思い違いであればいいのですが</value>
+  </data>
+  <data name="0029 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>んー、そうとも言えないかも</value>
+  </data>
+  <data name="0030 (246.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>え、それはどういう意味でしょう？</value>
+  </data>
+  <data name="0031 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>冷たいとは言わないけど、古泉くん
+時々、キョンを観察するような目で</value>
+  </data>
+  <data name="0032 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>見ているときがあるわね</value>
+  </data>
+  <data name="0033 (246.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……ええ。実際、観察してしまう時
+があります。興味深いものですから</value>
+  </data>
+  <data name="0034 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>キョンはそれが気にくわない
+んじゃないの？</value>
+  </data>
+  <data name="0035 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>実験動物にでもなった気がする
+のかもよ</value>
+  </data>
+  <data name="0036 (246.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>シャーレにいれて、増殖させて観察
+できるのでしたら、大変便利ですね</value>
+  </data>
+  <data name="0037 (246.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>僕からすれば彼は希少種なものです
+から</value>
+  </data>
+  <data name="0038 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>ほら、そういう考えがきっと、
+キョンを疑心暗鬼にさせるわけよ</value>
+  </data>
+  <data name="0039 (246.ja) KOIZUMI (古泉)" xml:space="preserve">
+    <value>……なるほど。これから少し
+気をつけるようにしてみます</value>
+  </data>
+  <data name="0040 (246.ja) HARUHI (ハルヒ)" xml:space="preserve">
+    <value>でも、観察はやめないのね</value>
+  </data>
 </root>

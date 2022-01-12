@@ -783,15 +783,24 @@
     <value>みくるの分身がいたら……？</value>
   </data>
   <data name="0209 (515.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>みくると一緒に行動する</value>
+    <value>長門の分身がいたら……？</value>
   </data>
   <data name="0210 (515.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>みくるをかばう</value>
+    <value>みくると一緒に行動する</value>
   </data>
   <data name="0211 (515.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>プールの中に置く</value>
+    <value>長門にみくるの事を頼む</value>
   </data>
   <data name="0212 (515.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>正体を確かめる</value>
+  </data>
+  <data name="0213 (515.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>みくるをかばう</value>
+  </data>
+  <data name="0214 (515.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>プールの中に置く</value>
+  </data>
+  <data name="0215 (515.ja) INFO (CHOICE)" xml:space="preserve">
     <value>プールサイドに置く</value>
   </data>
 </root>

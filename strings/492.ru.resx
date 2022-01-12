@@ -492,6 +492,15 @@
     <value>さっきの話か？</value>
   </data>
   <data name="0139 (492.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>放っておく</value>
+  </data>
+  <data name="0140 (492.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>調べに行く</value>
+  </data>
+  <data name="0141 (492.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>声をかける</value>
+  </data>
+  <data name="0142 (492.ja) INFO (CHOICE)" xml:space="preserve">
     <value>そっと近付く</value>
   </data>
 </root>

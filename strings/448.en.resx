@@ -622,9 +622,18 @@
     <value>みくるの話題に合わせる</value>
   </data>
   <data name="0185 (448.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>借りない</value>
+    <value>長門の話題に合わせる</value>
   </data>
   <data name="0186 (448.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>本を借りる</value>
+  </data>
+  <data name="0187 (448.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>借りない</value>
+  </data>
+  <data name="0188 (448.ja) INFO (CHOICE)" xml:space="preserve">
     <value>みくるを心配する</value>
+  </data>
+  <data name="0189 (448.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門を心配する</value>
   </data>
 </root>

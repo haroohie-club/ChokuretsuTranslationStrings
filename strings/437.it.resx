@@ -608,4 +608,16 @@
     <value>古泉をこっちに回すべきだったな
 と思ってもすでに時遅しだ……</value>
   </data>
+  <data name="0180 (437.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>朝比奈さんに助言を求める</value>
+  </data>
+  <data name="0181 (437.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門に助言を求める</value>
+  </data>
+  <data name="0182 (437.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>長門と一緒に謝る</value>
+  </data>
+  <data name="0183 (437.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>朝比奈さんと一緒に謝る</value>
+  </data>
 </root>

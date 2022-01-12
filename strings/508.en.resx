@@ -476,12 +476,15 @@
     <value>隙を見て返す</value>
   </data>
   <data name="0132 (508.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>みくるを部室に配置・仮</value>
+    <value>拝借しておく</value>
   </data>
   <data name="0133 (508.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉を部室に配置・仮</value>
+    <value>みくるを部室に配置・仮</value>
   </data>
   <data name="0134 (508.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>古泉を部室に配置・仮</value>
+  </data>
+  <data name="0135 (508.ja) INFO (CHOICE)" xml:space="preserve">
     <value>みくると古泉・仮</value>
   </data>
 </root>

@@ -528,7 +528,7 @@ I'm truly grateful.</value>
     <value>What happened, Prez?</value>
   </data>
   <data name="0159 (363.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>Hey, the memory card with our data on it, it's not with you is it?</value>
+    <value>Hey, the memory card with our data on it, it's not with you, is it?</value>
   </data>
   <data name="0160 (363.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>No, I haven't seen it……</value>
@@ -670,12 +670,15 @@ You didn't lose it did you?</value>
     <value>I'll leave the interviewing at that.</value>
   </data>
   <data name="0208 (363.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Point out typos.</value>
+    <value>Point out typos</value>
   </data>
   <data name="0209 (363.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Borrow the memory card.</value>
+    <value>Say nothing</value>
   </data>
   <data name="0210 (363.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>I can't do that.</value>
+    <value>Borrow the memory card</value>
+  </data>
+  <data name="0211 (363.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>I can't do that</value>
   </data>
 </root>

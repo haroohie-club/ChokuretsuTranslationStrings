@@ -479,6 +479,12 @@
     <value>トーナメント表を作る</value>
   </data>
   <data name="0129 (531.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>早速勝負を始める</value>
+  </data>
+  <data name="0130 (531.ja) INFO (CHOICE)" xml:space="preserve">
+    <value>否定する</value>
+  </data>
+  <data name="0131 (531.ja) INFO (CHOICE)" xml:space="preserve">
     <value>承諾する</value>
   </data>
 </root>
