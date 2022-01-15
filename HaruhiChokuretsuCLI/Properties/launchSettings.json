@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "HaruhiChokuretsuCLI": {
-      "commandName": "Project",
-      "commandLineArgs": "-r -i \"C:\\Users\\User\\PortableApps\\DSHacking\\haruhi\\haruhi-chokuretsu-tl\\archives\\original\\grp.bin\" -o \"C:\\Users\\User\\PortableApps\\DSHacking\\haruhi\\haruhi-chokuretsu-tl\\rom\\data\\grp.bin\" -f \"C:\\Users\\User\\PortableApps\\DSHacking\\haruhi\\haruhi-chokuretsu-tl\\archives\\graphics_loc\\en\""
-    }
-  }
-}

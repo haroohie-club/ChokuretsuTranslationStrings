@@ -10,6 +10,7 @@ grp.bin
 scn.bin
 
 # User-specific files
+launchSettings.json
 *.rsuser
 *.suo
 *.user
