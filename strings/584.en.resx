@@ -59,10 +59,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>The singularity has been successfully erased.</value>
+    <value>#P04The singularity has been successfully erased.</value>
   </data>
   <data name="0001 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>On the lower left corner of the screen the remaining singularities and goal...</value>
+    <value>#P04On the lower left corner of the screen the remaining singularities and goal...</value>
   </data>
   <data name="0002 (584.ja) INFO (インフォ)" xml:space="preserve">
     <value>...will decrease.</value>
@@ -86,43 +86,43 @@
     <value>...Game Over will occur.</value>
   </data>
   <data name="0009 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Pressing the Y button will pause the game and change the screen...</value>
+    <value>#P04Pressing the Y button will pause the game and change the screen...</value>
   </data>
   <data name="0010 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...allowing you to review the entire map.</value>
+    <value>#P04...allowing you to review the entire map.</value>
   </data>
   <data name="0011 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>On the full map you will be able to see mater- ialized singularities and Investigation results.</value>
+    <value>#P04On the full map you will be able to see mater- ialized singularities and Investigation results.</value>
   </data>
   <data name="0012 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>While you are on the pause screen time is stopped...</value>
+    <value>#P04While you are on the pause screen time is stopped...</value>
   </data>
   <data name="0013 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...letting you review the situation at your leisure.</value>
+    <value>#P04...letting you review the situation at your leisure.</value>
   </data>
   <data name="0014 (584.ja) INFO (インフォ)" xml:space="preserve">
     <value>However please note that singularities not fully erased will still restore themselves.</value>
   </data>
   <data name="0015 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Besides this, the pause screen also shows things like power ups, special abilities, and levels.</value>
+    <value>#P04Besides this, the pause screen also shows things like power ups, special abilities, and levels.</value>
   </data>
   <data name="0016 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Information useful for forming a strategy will be displayed.</value>
+    <value>#P04Information useful for forming a strategy will be displayed.</value>
   </data>
   <data name="0017 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>In order to destroy all of the singularities before the time limit...</value>
+    <value>#P04In order to destroy all of the singularities before the time limit...</value>
   </data>
   <data name="0018 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...it is important to investigate efficiently.</value>
+    <value>#P04...it is important to investigate efficiently.</value>
   </data>
   <data name="0019 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>With the investigate action you can inspect tiles one space away from the Brigade member.</value>
+    <value>#P04With the investigate action you can inspect tiles one space away from the Brigade member.</value>
   </data>
   <data name="0020 (584.ja) INFO (インフォ)" xml:space="preserve">
     <value>But this will not materialize any singularities.</value>
   </data>
   <data name="0021 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Investigate wide areas efficiently so the results do not overlap with each other...</value>
+    <value>#P04Investigate wide areas efficiently so the results do not overlap with each other...</value>
   </data>
   <data name="0022 (584.ja) INFO (インフォ)" xml:space="preserve">
     <value>...and you will be able to quickly deduce the locations of the singularities.</value>
@@ -137,9 +137,9 @@
     <value>Don't forget that every unnecessary Search causes time to pass.</value>
   </data>
   <data name="0026 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>That's why it's important to form a strategy based on the pause map.</value>
+    <value>#P04That's why it's important to form a strategy based on the pause map.</value>
   </data>
   <data name="0027 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>This is especially the case if you have a low Haruhi Meter and few Topics.</value>
+    <value>#P04This is especially the case if you have a low Haruhi Meter and few Topics.</value>
   </data>
 </root>
