@@ -161,16 +161,16 @@
     <value>Even at this very moment, more abnormal space is breaking out within the school.</value>
   </data>
   <data name="0036 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>It wouldn't be surprising for anywhere to become like the classroom we just saw at any time.</value>
+    <value>It wouldn't be surprising for anywhere at any time to become like the classroom we just saw.</value>
   </data>
   <data name="0037 (389.ja) KYON (キョン)" xml:space="preserve">
-    <value>Ah… So that's what I was experiencing.</value>
+    <value>Ah, so that's what I was experiencing...</value>
   </data>
   <data name="0038 (389.ja) KYON (キョン)" xml:space="preserve">
     <value>Nagato, can't you do something about it with your abilities?</value>
   </data>
   <data name="0039 (389.ja) NAGATO (長門)" xml:space="preserve">
-    <value>Possibly. However it is not recommended.</value>
+    <value>Possible. But not recommended.</value>
   </data>
   <data name="0040 (389.ja) KYON (キョン)" xml:space="preserve">
     <value>Why do you say that?</value>
@@ -191,10 +191,10 @@
     <value>Wouldn't you agree?</value>
   </data>
   <data name="0046 (389.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>It's better to have it translated simply by Koizumi after all.</value>
+    <value>It's better to have Koizumi translate it into layman's terms after all.</value>
   </data>
   <data name="0049 (389.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>But, what should we do then…</value>
+    <value>But then, what should we do…?</value>
   </data>
   <data name="0050 (389.ja) KYON (キョン)" xml:space="preserve">
     <value>There sure doesn't seem to be an easy answer, so what would be our best bet?</value>
@@ -203,19 +203,19 @@
     <value>Identify the source of the space and eliminate it.</value>
   </data>
   <data name="0053 (389.ja) NAGATO (長門)" xml:space="preserve">
-    <value>Then it will fade away naturally.</value>
+    <value>It will then fade away naturally.</value>
   </data>
   <data name="0054 (389.ja) KYON (キョン)" xml:space="preserve">
-    <value>So you're saying we should do the same thing that we did in that last abnormal space?</value>
+    <value>So we should take the same approach as with that last abnormal space?</value>
   </data>
   <data name="0055 (389.ja) NAGATO (長門)" xml:space="preserve">
     <value>Correct.</value>
   </data>
   <data name="0057 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>If that's the case we better act quickly as we don't have time to waste.</value>
+    <value>In that case, we'd better act quickly. There's no time to waste.</value>
   </data>
   <data name="0058 (389.ja) KYON (キョン)" xml:space="preserve">
-    <value>That's right. We should probably start now.</value>
+    <value>You're right, we should probably start now.</value>
   </data>
   <data name="0059 (389.ja) NAGATO (長門)" xml:space="preserve">
     <value>That is impossible.</value>
@@ -233,7 +233,7 @@
     <value>I suddenly felt the dejection of a sumo wrestler thrown out the ring after their attack was parried.</value>
   </data>
   <data name="0064 (389.ja) NAGATO (長門)" xml:space="preserve">
-    <value>It will take a little more time to locate the precise position.</value>
+    <value>It will take some more time to identify the precise location.</value>
   </data>
   <data name="0065 (389.ja) KYON (キョン)" xml:space="preserve">
     <value>In that case, I'll leave that up to you, Nagato.</value>
@@ -248,7 +248,7 @@
     <value>And what would that be?</value>
   </data>
   <data name="0070 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>We must somehow find a way to keep Miss Suzumiya away from the school.</value>
+    <value>We must do what we can to keep Miss Suzumiya away from the school.</value>
   </data>
   <data name="0071 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>To make Miss Nagato's job easier, as well as help to prevent the worst-case scenario.</value>
@@ -257,7 +257,7 @@
     <value>Worst-case scenario?</value>
   </data>
   <data name="0073 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>If Miss Suzumiya witnesses this abnormal situation, something very serious may happen.</value>
+    <value>If Miss Suzumiya witnesses this abnormal situation, there may be grave consequences.</value>
   </data>
   <data name="0074 (389.ja) KYON (キョン)" xml:space="preserve">
     <value>She'd probably be overjoyed.</value>
@@ -266,10 +266,10 @@
     <value>I'm afraid that's not the point.</value>
   </data>
   <data name="0076 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>If Miss Suzumiya sees abnormal space, she will come to believe that it really exists.</value>
+    <value>If Miss Suzumiya sees abnormal space, she will recognise its existence.</value>
   </data>
   <data name="0077 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>A world where abnormal space exists everywhere could become normal.</value>
+    <value>A world in which abnormal space exists everywhere could become normal.</value>
   </data>
   <data name="0078 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>The very definition of a global scale crisis.</value>
@@ -281,43 +281,44 @@
     <value>A world where glowing giants rampage freely-- A world where nobody else exists--</value>
   </data>
   <data name="0081 (389.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>I've seen all of that happen with my own eyes.</value>
+    <value>That all really happened before my very eyes.</value>
   </data>
   <data name="0082 (389.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>The last thing I want is another confusing world like that getting mass produced.</value>
+    <value>The last thing I want is another confusing world like that getting mass-produced.</value>
   </data>
   <data name="0084 (389.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>But Suzumiya, she's very enthusiastic about searching for unnatural phenomena.</value>
+    <value>But Suzumiya, she's very enthusiastic about searching for unnatural phenomena…</value>
   </data>
   <data name="0085 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>There are several ways to keep Miss Suzumiya away from the school.</value>
   </data>
   <data name="0086 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>For example, arranging for something else that would interest her.</value>
+    <value>For example, arranging for something else that might capture her interest.</value>
   </data>
   <data name="0087 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>Or otherwise, make her fundamentally lose interest in this unnatural phenomenon.</value>
+    <value>Alternatively, making her fundamentally lose interest in this particular phenomenon.</value>
   </data>
   <data name="0088 (389.ja) KYON (キョン)" xml:space="preserve">
     <value>Lose interest, huh...?</value>
   </data>
   <data name="0089 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>Either way, we are considerably lacking information.</value>
+    <value>どちらにせよ、我々には著しく
+情報が不足しています</value>
   </data>
   <data name="0090 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>For now, it may be good to hear more of what the computer club members have to say.</value>
+    <value>For now, it may be helpful to hear more of what the computer club members have to say.</value>
   </data>
   <data name="0091 (389.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>That's right……</value>
+    <value>That's true…</value>
   </data>
   <data name="0092 (389.ja) KYON (キョン)" xml:space="preserve">
     <value>I think we should split into two groups. One to distract Haruhi, and the other to gather info.</value>
   </data>
   <data name="0093 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>This is a troublesome matter isn't it?</value>
+    <value>This is quite a troublesome matter, isn't it?</value>
   </data>
   <data name="0094 (389.ja) KYON (キョン)" xml:space="preserve">
-    <value>We'll also need an excuse for being short on members when we meet with Haruhi.</value>
+    <value>We'll also need an excuse for being short on members when we meet back up with Haruhi.</value>
   </data>
   <data name="0095 (389.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>About that, it may be fine to honestly say we went back to interview the witnesses more.</value>
