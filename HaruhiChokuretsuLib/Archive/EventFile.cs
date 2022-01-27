@@ -22,6 +22,8 @@ namespace HaruhiChokuretsuLib.Archive
         public int DialogueSectionPointer { get; set; }
         public List<DialogueLine> DialogueLines { get; set; } = new();
 
+        public List<TopicStruct> TopicStructs { get; set; } = new();
+
         public EventFile()
         {
         }
@@ -97,6 +99,15 @@ namespace HaruhiChokuretsuLib.Archive
             for (int i = 0; i < EndPointerPointers.Count; i++)
             {
                 DialogueLines.Add(new DialogueLine(Speaker.INFO, "INFO", 0, EndPointerPointers[i], Data.ToArray()));
+            }
+        }
+
+        public void InitializeTopicFile()
+        {
+            InitializeDialogueForSpecialFiles();
+            for (int i = 0; i < DialogueLines.Count; i += 2)
+            {
+                TopicStructs.Add(new(i, Data.Skip(0x1A + i / 2 * 0x24).Take(0x24).ToArray()));
             }
         }
 
@@ -281,15 +292,15 @@ namespace HaruhiChokuretsuLib.Archive
         {
             if (!string.IsNullOrWhiteSpace(Title))
             {
-                return $"{Index:X3} 0x{Offset:X8} '{Title}'";
+                return $"{Index:X3} {Index:D3} 0x{Offset:X8} '{Title}'";
             }
             else if (DialogueLines.Count > 0)
             {
-                return $"{Index:X3} 0x{Offset:X8}, Line 1: {DialogueLines[0].Text}";
+                return $"{Index:X3} {Index:D3} 0x{Offset:X8}, Line 1: {DialogueLines[0].Text}";
             }
             else
             {
-                return $"{Index:X3} 0x{Offset:X8}";
+                return $"{Index:X3} {Index:D3} 0x{Offset:X8}";
             }
         }
     }
@@ -320,6 +331,29 @@ namespace HaruhiChokuretsuLib.Archive
         public override string ToString()
         {
             return Text;
+        }
+    }
+
+    public class TopicStruct
+    {
+        public int TopicDialogueIndex { get; set; }
+
+        public short EventIndex { get; set; }
+        public short[] UnknownShorts = new short[17];
+
+        public TopicStruct(int dialogueIndex, byte[] data)
+        {
+            if (data.Length != 0x24)
+            {
+                throw new ArgumentException($"Topic struct data length must be 0x24, was 0x{data.Length:X2}");
+            }
+
+            TopicDialogueIndex = dialogueIndex;
+            EventIndex = BitConverter.ToInt16(data.Take(2).ToArray());
+            for (int i = 0; i < UnknownShorts.Length; i++)
+            {
+                UnknownShorts[i] = BitConverter.ToInt16(data.Skip((i + 1) * 2).Take(2).ToArray());
+            }
         }
     }
 

@@ -38,10 +38,10 @@
                                     </DockPanel>
                                 </ScrollViewer>
                             </TabItem>
-                            <TabItem Header="Choices">
-                                <ScrollViewer x:Name="eventChoicesScrollViewer"  Grid.Column="1" Height="350" >
+                            <TabItem Header="Topics">
+                                <ScrollViewer x:Name="eventTopicsScrollViewer"  Grid.Column="1" Height="350" >
                                     <DockPanel>
-                                        <StackPanel x:Name="eventsChoicesStackPanel"/>
+                                        <StackPanel x:Name="eventsTopicsStackPanel"/>
                                     </DockPanel>
                                 </ScrollViewer>
                             </TabItem>

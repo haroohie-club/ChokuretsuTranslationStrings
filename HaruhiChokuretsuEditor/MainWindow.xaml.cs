@@ -49,7 +49,8 @@ namespace HaruhiChokuretsuEditor
             if (openFileDialog.ShowDialog() == true)
             {
                 _evtFile = ArchiveFile<EventFile>.FromFile(openFileDialog.FileName);
-                _evtFile.Files.Where(f => f.Index >= 580 && f.Index <= 581).ToList().ForEach(f => f.InitializeDialogueForSpecialFiles());
+                _evtFile.Files.First(f => f.Index == 580).InitializeDialogueForSpecialFiles();
+                _evtFile.Files.First(f => f.Index == 581).InitializeTopicFile();
                 FontReplacementDictionary fontReplacementDictionary = new();
                 fontReplacementDictionary.AddRange(JsonSerializer.Deserialize<List<FontReplacement>>(File.ReadAllText("Font/font_replacement.json")));
                 _evtFile.Files.ForEach(e => e.FontReplacementMap = fontReplacementDictionary);
@@ -124,7 +125,7 @@ namespace HaruhiChokuretsuEditor
         private void EventsListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             editStackPanel.Children.Clear();
-            eventsChoicesStackPanel.Children.Clear();
+            eventsTopicsStackPanel.Children.Clear();
             frontPointersStackPanel.Children.Clear();
             endPointersStackPanel.Children.Clear();
             if (eventsListBox.SelectedIndex >= 0)
@@ -142,6 +143,13 @@ namespace HaruhiChokuretsuEditor
                     textBox.TextChanged += TextBox_TextChanged;
                     dialogueStackPanel.Children.Add(textBox);
                     editStackPanel.Children.Add(dialogueStackPanel);
+                }
+                foreach (TopicStruct topic in selectedFile.TopicStructs)
+                {
+                    StackPanel topicStackPanel = new() { Orientation = Orientation.Horizontal };
+                    topicStackPanel.Children.Add(new TextBlock { Text = $"{topic.TopicDialogueIndex} {selectedFile.DialogueLines[topic.TopicDialogueIndex]}:\t" });
+                    topicStackPanel.Children.Add(new TextBlock { Text = $"{topic.EventIndex} (0x{topic.EventIndex:X3})" });
+                    eventsTopicsStackPanel.Children.Add(topicStackPanel);
                 }
                 foreach (int frontPointer in selectedFile.FrontPointers)
                 {
