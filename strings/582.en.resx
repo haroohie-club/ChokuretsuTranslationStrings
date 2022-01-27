@@ -59,58 +59,58 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Now starting the Investigation Mode tutorial.</value>
+    <value>#P04Now starting the Investigation Mode tutorial.</value>
   </data>
   <data name="0001 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>In Investigation Mode, you will navigate abnormal space with an SOS Brigade member.</value>
+    <value>#P04In Investigation Mode, you will navigate abnormal space with an SOS Brigade member.</value>
   </data>
   <data name="0002 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>The objective is to cause the abnormal space naturally dissolve...</value>
+    <value>#P04The objective is to cause the abnormal space naturally dissolve...</value>
   </data>
   <data name="0003 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...before Haruhi Suzumiya arrives.</value>
+    <value>#P04...before Haruhi Suzumiya arrives.</value>
   </data>
   <data name="0004 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>In order to do that, you must find the hidden "singularities" on the map...</value>
+    <value>#P04In order to do that, you must find the hidden "singularities" on the map...</value>
   </data>
   <data name="0005 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...and then materialize and erase them.</value>
+    <value>#P04...and then materialize and erase them.</value>
   </data>
   <data name="0006 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>On the bottom left of the screen is a number indicating how many singularities remain.</value>
+    <value>#P04On the bottom left of the screen is a number indicating how many singularities remain.</value>
   </data>
   <data name="0007 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>If you can erase this minimum number of singularities...</value>
+    <value>#P04If you can erase this minimum number of singularities...</value>
   </data>
   <data name="0008 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...it will be possible to clear the stage.</value>
+    <value>#P04...it will be possible to clear the stage.</value>
   </data>
   <data name="0009 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>In order to clear the Investigation part of the stage, erase all of the singularities.</value>
+    <value>#P04In order to clear the Investigation part of the stage, erase all of the singularities.</value>
   </data>
   <data name="0010 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>You must achieve the goal before "Time Over" occurs.</value>
+    <value>#P04You must achieve the goal before "Time Over" occurs.</value>
   </data>
   <data name="0011 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>The top screen will show the time limit that remains before you lose.</value>
+    <value>#P04The top screen will show the time limit that remains before you lose.</value>
   </data>
   <data name="0012 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Find and erase the target number of singularities before then,</value>
+    <value>#P04Find and erase the target number of singularities before then,</value>
   </data>
   <data name="0013 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>or it will result in Game Over.</value>
+    <value>#P04or it will result in Game Over.</value>
   </data>
   <data name="0014 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>In abnormal space, you are able to do the following actions with your Brigade member.</value>
+    <value>#P04In abnormal space, you are able to do the following actions with your Brigade member.</value>
   </data>
   <data name="0015 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>1. "Movement"</value>
+    <value>#P04１. "Movement"</value>
   </data>
   <data name="0016 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Touch a location and they will move to that place.</value>
+    <value>#P04Touch a location and they will move to that place.</value>
   </data>
   <data name="0017 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>2. "Investigate"</value>
+    <value>#P04２. "Investigate"</value>
   </data>
   <data name="0018 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>When the search icon on the upper left of the screen is OFF, touch at a member's feet.</value>
@@ -134,7 +134,7 @@
     <value>please materialize the singularity by using the "search point" action.</value>
   </data>
   <data name="0025 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>3. "Search Point"</value>
+    <value>#P04３. "Search Point"</value>
   </data>
   <data name="0026 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>When you touch the "Search Icon" at the upper left of the screen...</value>
