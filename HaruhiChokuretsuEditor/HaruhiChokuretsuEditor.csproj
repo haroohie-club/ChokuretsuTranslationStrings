@@ -16,4 +16,10 @@
     <ProjectReference Include="..\HaruhiChokuretsuLib\HaruhiChokuretsuLib.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Page Update="TopicDialogBox.xaml">
+      <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>
+    </Page>
+  </ItemGroup>
+
 </Project>

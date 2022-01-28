@@ -377,6 +377,16 @@ namespace HaruhiChokuretsuLib.Archive
                 UnknownShorts[i] = BitConverter.ToInt16(data.Skip((i + 2) * 2).Take(2).ToArray());
             }
         }
+
+        public override string ToString()
+        {
+            return $"0x{Index:X4} '{DialogueLine}'";
+        }
+
+        public string ToCsvLine()
+        {
+            return $"{TopicDialogueIndex},{DialogueLine},{Index:X4},{EventIndex}";
+        }
     }
 
     public enum Speaker

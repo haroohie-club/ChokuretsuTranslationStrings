@@ -248,7 +248,25 @@ namespace HaruhiChokuretsuEditor
 
         private void ExportTopicsEventsFileButton_Click(object sender, RoutedEventArgs e)
         {
-            
+            TopicDialogBox topicDialogBox = new();
+            if (topicDialogBox.ShowDialog() == true && topicDialogBox.FinalFileIndex is not null)
+            {
+                SaveFileDialog saveFileDialog = new()
+                {
+                    Filter = "Comma-separated values|*.csv"
+                };
+                if (saveFileDialog.ShowDialog() == true)
+                {
+                    List<string> topics = _evtFile.Files.Where(f => f.Index >= ((EventFile)eventsListBox.SelectedItem).Index && f.Index <= topicDialogBox.FinalFileIndex)
+                        .SelectMany(e => e.TopicStructs)
+                        .Distinct()
+                        .Select(t => t.ToCsvLine())
+                        .ToList();
+
+                    topics.Insert(0, "Topic Index,Topic,UID,Associated Event");
+                    File.WriteAllLines(saveFileDialog.FileName, topics);
+                }
+            }
         }
 
         private void DialogueSearchBox_TextChanged(object sender, TextChangedEventArgs e)
