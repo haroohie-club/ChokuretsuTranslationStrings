@@ -6,7 +6,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HaruhiChokuretsuEditor"
         mc:Ignorable="d"
-        Title="Suzumiya Haruhi no Chokuretsu Editor" Height="453" Width="800">
+        Title="Suzumiya Haruhi no Chokuretsu Editor" Height="452" Width="867">
     <Grid>
         <TabControl x:Name="mainTabControl">
             <TabItem Header="Events">
@@ -25,10 +25,11 @@
                         <Button x:Name="importStringsEventsFileButton" Content="Import Strings" HorizontalAlignment="Left" Click="ImportStringsEventsFileButton_Click" />
                         <Button x:Name="exportAllStringsEventsFileButton" Content="Export All Strings" HorizontalAlignment="Left" Click="ExportAllStringsEventsFileButton_Click" />
                         <Button x:Name="importAllStringsEventsFileButton" Content="Import All Strings" HorizontalAlignment="Left" Click="ImportAllStringsEventsFileButton_Click" />
+                        <Button x:Name="exportTopicsEventsFileButton" Content="Export Topics" HorizontalAlignment="Left" Click="ExportTopicsEventsFileButton_Click" />
                         <TextBox x:Name="dialogueSearchBox" Width="150" HorizontalAlignment="Left" TextChanged="DialogueSearchBox_TextChanged" />
                         <Button x:Name="dialogueNextSearchButton" Content="Next" HorizontalAlignment="Left" Click="DialogueNextSearchButton_Click" />
                     </ToolBar>
-                    <ListBox x:Name="eventsListBox" Margin="0,30,521,0" SelectionChanged="EventsListBox_SelectionChanged" Grid.ColumnSpan="2" />
+                    <ListBox x:Name="eventsListBox" Margin="0,30,579,0" SelectionChanged="EventsListBox_SelectionChanged" Grid.ColumnSpan="2" />
                     <StackPanel Grid.Column="1" Margin="175,30,0,0">
                         <TabControl>
                             <TabItem Header="Dialogue">

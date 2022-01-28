@@ -93,6 +93,24 @@ namespace HaruhiChokuretsuLib.Archive
             }
         }
 
+        public void AddEventFileTopics(List<TopicStruct> availableTopics)
+        {
+            int topicsSectionPointer = FrontPointers.Where(f => f > DialogueLines.Last(d => d.SpeakerName != "CHOICE").Pointer).ToArray()[3]; // third pointer after dialogue section
+            for (int i = topicsSectionPointer; i < PointerToNumEndPointers; i += 0x24)
+            {
+                int controlSwitch = BitConverter.ToInt32(Data.Skip(i).Take(4).ToArray());
+                if (controlSwitch == 0x0E)
+                {
+                    int topicId = BitConverter.ToInt32(Data.Skip(i + 4).Take(4).ToArray());
+                    TopicStruct topic = availableTopics.FirstOrDefault(t => t.Index == topicId);
+                    if (topic is not null)
+                    {
+                        TopicStructs.Add(topic);
+                    }
+                }
+            }
+        }
+
         public void InitializeDialogueForSpecialFiles()
         {
             DialogueLines.Clear();
@@ -107,7 +125,7 @@ namespace HaruhiChokuretsuLib.Archive
             InitializeDialogueForSpecialFiles();
             for (int i = 0; i < DialogueLines.Count; i += 2)
             {
-                TopicStructs.Add(new(i, Data.Skip(0x1A + i / 2 * 0x24).Take(0x24).ToArray()));
+                TopicStructs.Add(new(i, DialogueLines[i].Text, Data.Skip(0x18 + i / 2 * 0x24).Take(0x24).ToArray()));
             }
         }
 
@@ -337,11 +355,13 @@ namespace HaruhiChokuretsuLib.Archive
     public class TopicStruct
     {
         public int TopicDialogueIndex { get; set; }
+        public string DialogueLine { get; set; }
 
+        public short Index { get; set; }
         public short EventIndex { get; set; }
-        public short[] UnknownShorts = new short[17];
+        public short[] UnknownShorts = new short[16];
 
-        public TopicStruct(int dialogueIndex, byte[] data)
+        public TopicStruct(int dialogueIndex, string dialogueLine, byte[] data)
         {
             if (data.Length != 0x24)
             {
@@ -349,10 +369,12 @@ namespace HaruhiChokuretsuLib.Archive
             }
 
             TopicDialogueIndex = dialogueIndex;
-            EventIndex = BitConverter.ToInt16(data.Take(2).ToArray());
+            DialogueLine = dialogueLine;
+            Index = BitConverter.ToInt16(data.Take(2).ToArray());
+            EventIndex = BitConverter.ToInt16(data.Skip(2).Take(2).ToArray());
             for (int i = 0; i < UnknownShorts.Length; i++)
             {
-                UnknownShorts[i] = BitConverter.ToInt16(data.Skip((i + 1) * 2).Take(2).ToArray());
+                UnknownShorts[i] = BitConverter.ToInt16(data.Skip((i + 2) * 2).Take(2).ToArray());
             }
         }
     }
