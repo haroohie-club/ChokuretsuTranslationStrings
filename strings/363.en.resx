@@ -404,7 +404,7 @@
     <value>It's nothing.</value>
   </data>
   <data name="0118 (363.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>"Misprint on a poster," huh…</value>
+    <value>#P05Misprint on a poster#P00, huh…</value>
   </data>
   <data name="0119 (363.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>If this benefits me later, I'm not going to complain.</value>
@@ -621,7 +621,7 @@ You didn't lose it, did you?</value>
     <value>I'll just borrow this for a bit.</value>
   </data>
   <data name="0192 (363.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>You obtained the "memory card."</value>
+    <value>I picked up the #P05memory card#P01.</value>
   </data>
   <data name="0193 (363.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>If it comes to it, we could use this as a means to confront the Computer Research Society.</value>

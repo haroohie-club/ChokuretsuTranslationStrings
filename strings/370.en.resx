@@ -304,7 +304,7 @@ The font is misshapen.</value>
     <value>Thank you, truly. I'd better go take them down and redo them.</value>
   </data>
   <data name="0087 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>It seems like pointing out the misprint was a good idea.</value>
+    <value>It seems like pointing out the #P05misprint#P01 was a good idea.</value>
   </data>
   <data name="0088 (370.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>We should get going and fix the design.</value>
@@ -337,7 +337,7 @@ The font is misshapen.</value>
     <value>As a fellow man, I know being shamed in front of Asahina feels unbearable.</value>
   </data>
   <data name="0099 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>I'll keep that "small kindness" stowed away in my mind.</value>
+    <value>I'll keep that #P05small kindness#P01 stowed away in my mind.</value>
   </data>
   <data name="0102 (370.ja) CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
     <value>You guys don't need to stand there. Take some chairs and we'll even make you tea.</value>
@@ -505,7 +505,7 @@ The font is misshapen.</value>
     <value>Really…? That's a relief.</value>
   </data>
   <data name="0162 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>How dare you go off telling baseless rumors to Asahina, trying to scare her…</value>
+    <value>How dare you go off telling #P05scary stories#P00 to Asahina, trying to scare her…</value>
   </data>
   <data name="0163 (370.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Even though Haruhi would be overjoyed to hear it, it's not enough.</value>
@@ -676,7 +676,7 @@ The font is misshapen.</value>
     <value>Understood. Then I shall leave this data with you.</value>
   </data>
   <data name="0223 (370.ja) KYON (キョン)" xml:space="preserve">
-    <value>Is it really okay for me to have this "memory card?"</value>
+    <value>Is it really okay for me to have this #P05memory card#P00?</value>
   </data>
   <data name="0224 (370.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>It is. Make sure to use it some time.</value>
@@ -736,7 +736,7 @@ The font is misshapen.</value>
     <value>It looks like a toy sheep, but… Is it out of battery? It doesn't seem like it works.</value>
   </data>
   <data name="0243 (370.ja) KYON (キョン)" xml:space="preserve">
-    <value>An "electric sheep," huh…? Doesn't seem like it's of any use to us at all.</value>
+    <value>An #P05electric sheep#P00, huh…? Doesn't seem like it's of any use to us at all.</value>
   </data>
   <data name="0245 (370.ja) MIKURU (みくる)" xml:space="preserve">
     <value>Wow! A cute sheep!</value>
