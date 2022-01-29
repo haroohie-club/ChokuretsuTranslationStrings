@@ -629,10 +629,10 @@
     <value>Well then, I'm not sure what to do from here.</value>
   </data>
   <data name="0200 (365.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Talk to them some more.</value>
+    <value>Talk to them some more</value>
   </data>
   <data name="0201 (365.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Don't talk to them any more.</value>
+    <value>Don't talk to them anymore.</value>
   </data>
   <data name="0202 (365.ja) INFO (CHOICE)" xml:space="preserve">
     <value>Get confirmation from Nagato.</value>
