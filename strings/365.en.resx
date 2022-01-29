@@ -632,13 +632,13 @@
     <value>Talk to them some more</value>
   </data>
   <data name="0201 (365.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Don't talk to them anymore.</value>
+    <value>Don't talk to them any more</value>
   </data>
   <data name="0202 (365.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Get confirmation from Nagato.</value>
+    <value>Get confirmation from Nagato</value>
   </data>
   <data name="0203 (365.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Don't ask for details.</value>
+    <value>Don't ask for details</value>
   </data>
   <data name="0204 (365.ja) INFO (CHOICE)" xml:space="preserve">
     <value>Do you want to stay a bit longer?</value>
