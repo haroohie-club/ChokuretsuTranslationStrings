@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (365.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>So that's what we went with. I decided to take Nagato with me to the computer lab--</value>
+    <value>So that's what we went with. I decided to take Nagato with me to the computer lab…</value>
   </data>
   <data name="0001 (365.ja) KYON (キョン)" xml:space="preserve">
     <value>Hey, Nagato. Can I ask you something?</value>
@@ -107,7 +107,7 @@
     <value>If you're wondering if Nagato is well suited to witness investigation, the answer is NO.</value>
   </data>
   <data name="0016 (365.ja) KYON (キョン)" xml:space="preserve">
-    <value>… I'll just end up suffering, after all. That's what always happens…</value>
+    <value>…I'll just end up suffering, after all. That's what always happens…</value>
   </data>
   <data name="0017 (365.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Since I joined the Haruhi faction, I feel as though I've grown mentally.</value>
@@ -119,7 +119,7 @@
     <value>Which reminds me, Nagato, have you been getting value out of that PC in the clubroom?</value>
   </data>
   <data name="0020 (365.ja) NAGATO (長門)" xml:space="preserve">
-    <value>……</value>
+    <value>…</value>
   </data>
   <data name="0021 (365.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Nagato silently gave a slight tilt of the head.</value>
@@ -140,7 +140,7 @@
     <value>I know of all of the books in the library.</value>
   </data>
   <data name="0027 (365.ja) KYON (キョン)" xml:space="preserve">
-    <value>…Then, If I were to ask you if they had a specific book, could you answer?</value>
+    <value>…Then, if I were to ask you if they had a specific book, could you answer?</value>
   </data>
   <data name="0028 (365.ja) NAGATO (長門)" xml:space="preserve">
     <value>Possibly.</value>
@@ -206,7 +206,7 @@
     <value>Thankfully, the other party called out to me first.</value>
   </data>
   <data name="0051 (365.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>As you can see, We're busy! If you've come to disturb us, get out!</value>
+    <value>As you can see, we're busy! If you've come to disturb us, get out!</value>
   </data>
   <data name="0052 (365.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>I didn't expect a warm welcome, but I didn't anticipate such a cold-hearted one either.</value>
@@ -218,7 +218,7 @@
     <value>Story from before? Ahh… that ghost story, huh?</value>
   </data>
   <data name="0055 (365.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>… We already told your club president, right?</value>
+    <value>…We already told your club president, right?</value>
   </data>
   <data name="0056 (365.ja) KYON (キョン)" xml:space="preserve">
     <value>If you mean Haruhi, she's off doing something on her own.</value>
@@ -230,7 +230,8 @@
     <value>I see… Then I guess it's fine.</value>
   </data>
   <data name="0059 (365.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>Actually, no, it's not fine. I really am busy right now.</value>
+    <value>Actually,
+no, it's not fine. I really am busy right now.</value>
   </data>
   <data name="0060 (365.ja) KYON (キョン)" xml:space="preserve">
     <value>It only needs to take a second.</value>
@@ -281,7 +282,7 @@
     <value>In other words, you've completely rented out the room, Haruhi.</value>
   </data>
   <data name="0076 (365.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Actually, it benefits no-one to call it "renting."</value>
+    <value>Actually, it benefits no one to call it "renting."</value>
   </data>
   <data name="0077 (365.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>"Give an inch, and they'll take a mile" is a more appropriate term for this situation.</value>
@@ -302,16 +303,16 @@
     <value>I'm surprised the club hasn't been shut down. It's still going, even in such a state.</value>
   </data>
   <data name="0083 (365.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>I sympathize with your situation, but how many times do I have to tell you that we're--</value>
+    <value>I sympathize with your situation, but how many times do I have to tell you that we're…</value>
   </data>
   <data name="0085 (365.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>B-big trouble! Presideeent!</value>
+    <value>B-Big trouble! Presideeent!</value>
   </data>
   <data name="0086 (365.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>The server is… Our data hangar is...!</value>
+    <value>The server is… Our data storage is...!</value>
   </data>
   <data name="0087 (365.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>Wh-what is it!? What's going on?</value>
+    <value>Wh-What is it!? What's going on?</value>
   </data>
   <data name="0088 (365.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>We've got big trouble! It won't boot up anymore! It's not responding!</value>
@@ -365,13 +366,13 @@
     <value>Do what?</value>
   </data>
   <data name="0108 (365.ja) KYON (キョン)" xml:space="preserve">
-    <value>It seems like these guys have a problem. What's happening here--can you fix it?</value>
+    <value>It seems like these guys have a problem. What's happening here? Can you fix it?</value>
   </data>
   <data name="0109 (365.ja) NAGATO (長門)" xml:space="preserve">
     <value>…</value>
   </data>
   <data name="0110 (365.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Nagato stared blankly at the broken computer before eventually--</value>
+    <value>Nagato stared blankly at the broken computer before eventually…</value>
   </data>
   <data name="0111 (365.ja) NAGATO (長門)" xml:space="preserve">
     <value>It is possible.</value>
@@ -386,7 +387,7 @@
     <value>Understood.</value>
   </data>
   <data name="0117 (365.ja) KYON (キョン)" xml:space="preserve">
-    <value>Ah-- Mr. President. The truth is, Nagato here is very knowledgeable about computers.</value>
+    <value>Ah… Mr. President. The truth is, Nagato here is very knowledgeable about computers.</value>
   </data>
   <data name="0118 (365.ja) KYON (キョン)" xml:space="preserve">
     <value>She might be able to fix it.</value>
@@ -443,7 +444,7 @@
     <value>Ahh… You two just witnessed something outrageous. I'm sure it was surprising.</value>
   </data>
   <data name="0137 (365.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>My heart nearly stopped-- Anyways, I'm relieved. Good grief.</value>
+    <value>My heart nearly stopped… Anyways, I'm relieved. Good grief.</value>
   </data>
   <data name="0138 (365.ja) CLUB_PRES (部長氏)" xml:space="preserve">
     <value>But how exactly were you able to fix it?</value>
@@ -458,7 +459,7 @@
     <value>I'll do what I can here to preserve his sense of gratitude.</value>
   </data>
   <data name="0142 (365.ja) KYON (キョン)" xml:space="preserve">
-    <value>Well, It seems like that was very important data.</value>
+    <value>Well, it seems like that was very important data.</value>
   </data>
   <data name="0143 (365.ja) KYON (キョン)" xml:space="preserve">
     <value>Are you making a program or something?</value>
@@ -494,7 +495,7 @@
     <value>See, there's only so much you're able to do with a standard library, right?</value>
   </data>
   <data name="0154 (365.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>On top of that, the GUI was a huge issue, and the screen design problem too--</value>
+    <value>On top of that, the GUI was a huge issue, and the screen design problem too…</value>
   </data>
   <data name="0155 (365.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Jargon started flying out all over the place. I don't understand any of this at all.</value>
@@ -509,13 +510,13 @@
     <value>In addition, we've finished writing most of the source code.</value>
   </data>
   <data name="0159 (365.ja) KYON (キョン)" xml:space="preserve">
-    <value>Well, that was a fascinating conver- sation. As expected of the experts-only computer club.</value>
+    <value>Well, that was a fascinating conversation. As expected of the experts-only computer club.</value>
   </data>
   <data name="0160 (365.ja) CLUB_PRES (部長氏)" xml:space="preserve">
     <value>Y-You think so? I wouldn't take it that far. Ahahaha…</value>
   </data>
   <data name="0161 (365.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>On the dawn of it's completion, you guys'--</value>
+    <value>On the dawn of it's completion, you guys'…</value>
   </data>
   <data name="0162 (365.ja) CLUB_PRES (部長氏)" xml:space="preserve">
     <value>… Ah, that's right.</value>
@@ -563,7 +564,7 @@
     <value>But, is it really that important?</value>
   </data>
   <data name="0177 (365.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>A global crisis is taking place--or that's what I'd like to say at least…</value>
+    <value>A global crisis is taking place! Or at least that's what I'd like to say…</value>
   </data>
   <data name="0179 (365.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>The backup and virus scan are complete～</value>
@@ -572,7 +573,7 @@
     <value>Alright, we're back in business.</value>
   </data>
   <data name="0181 (365.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>You guys… I'm sorry but, if you could soon…</value>
+    <value>You guys… I'm sorry but, if you don't mind…</value>
   </data>
   <data name="0182 (365.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>It doesn't seem like I'll be able to get anything more out of them. Are we out of time…?</value>
@@ -629,10 +630,10 @@
     <value>Well then, I'm not sure what to do from here.</value>
   </data>
   <data name="0200 (365.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Talk to them some more</value>
+    <value>Talk to her some more</value>
   </data>
   <data name="0201 (365.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Don't talk to them any more</value>
+    <value>Don't talk to her any more</value>
   </data>
   <data name="0202 (365.ja) INFO (CHOICE)" xml:space="preserve">
     <value>Get confirmation from Nagato</value>
