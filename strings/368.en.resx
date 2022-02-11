@@ -413,16 +413,16 @@
     <value>Memory card?</value>
   </data>
   <data name="0130 (368.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>The memory card with our backup.</value>
+    <value>The memory card with our backups.</value>
   </data>
   <data name="0131 (368.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>Look, it's exacly like the card she's trying to use right now.</value>
+    <value>Look, it's exactly like the card she's trying to use right now.</value>
   </data>
   <data name="0132 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Saying this, the club president was pointing at an Asahina having a scuffle with a computer.</value>
+    <value>Saying this, the club president was pointing at an Asahina in a scuffle with the computer.</value>
   </data>
   <data name="0135 (368.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>I-I just put this in? In here?</value>
+    <value>I-I just put this in? Right here?</value>
   </data>
   <data name="0136 (368.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>No, umm, that's USB, so…</value>
@@ -440,16 +440,16 @@
     <value>Yes yes! There!</value>
   </data>
   <data name="0141 (368.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>If it's not connected properly it won't recognise it, so be careful. Well, I think it'll be fine.</value>
+    <value>It won't recognize it if it's not connected properly, so be careful. Well, it's probably fine.</value>
   </data>
   <data name="0142 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Asahina seems to totally blend in here.</value>
   </data>
   <data name="0145 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>That's right, I think Asahina is alright now.</value>
+    <value>That's right, I think Asahina has done her part.</value>
   </data>
   <data name="0146 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Now I have to ask them questions about the unnatural phenomena…</value>
+    <value>Now I just have to ask them about the unnatural phenomena…</value>
   </data>
   <data name="0147 (368.ja) KYON (キョン)" xml:space="preserve">
     <value>I'd like to be a part of this discussion as well.</value>
@@ -458,7 +458,7 @@
     <value>You're also interested in computer programs?</value>
   </data>
   <data name="0149 (368.ja) KYON (キョン)" xml:space="preserve">
-    <value>Well, if I were to say which, I'm interested as a user. I don't care about making them.</value>
+    <value>Well, if I had to say, I'm interested as a user. I don't care about making them.</value>
   </data>
   <data name="0150 (368.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>He's the one that updates the SOS Brigade's homepage.</value>
@@ -467,7 +467,7 @@
     <value>Huh… You do?</value>
   </data>
   <data name="0152 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>I'll leave whether you can call that "updating" aside, but I at least changed the logo.</value>
+    <value>I'll leave aside whether you can call that "updating," but I at least changed the logo.</value>
   </data>
   <data name="0153 (368.ja) CLUB_PRES (部長氏)" xml:space="preserve">
     <value>When you say user, do you mean of applications or games? Which one?</value>
@@ -476,16 +476,16 @@
     <value>Games, maybe.</value>
   </data>
   <data name="0155 (368.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>Huh, really. Well, most of our club members like games, including me.</value>
+    <value>Huh, really? Well, most of our club members like games, including myself.</value>
   </data>
   <data name="0156 (368.ja) KYON (キョン)" xml:space="preserve">
     <value>What about you, Koizumi?</value>
   </data>
   <data name="0157 (368.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>With games, I'm more of a tabletop guy. I'm quite interested if it's board games.</value>
+    <value>With games, I'm more of a tabletop guy. I'm quite invested when it comes to board games.</value>
   </data>
   <data name="0158 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Ah, now you mention it, you're often playing othello or card games in the clubroom.</value>
+    <value>Ah, now that you mention it, you're often playing Othello or card games in the clubroom.</value>
   </data>
   <data name="0159 (368.ja) CLUB_PRES (部長氏)" xml:space="preserve">
     <value>Well, tabletop is good too.</value>
@@ -506,19 +506,19 @@
     <value>Right now I'm learning how to save a drawing I did myself.</value>
   </data>
   <data name="0167 (368.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>If you only save it on the internal hard drive, you won't be able to take it away with you.</value>
+    <value>If you only save it on the internal hard drive, you won't be able to take it back with you.</value>
   </data>
   <data name="0168 (368.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>I'll show you how to send it over the internet as well.</value>
+    <value>I'll show you how to upload it over the internet as well.</value>
   </data>
   <data name="0169 (368.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>I-I can't learn so much all at once, so, one at a time…</value>
+    <value>I-I can't learn so much all at once, so, one at a time please…</value>
   </data>
   <data name="0170 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Even though you're from the future, so this PC should be a mere ancient relic to you…</value>
+    <value>You're supposed to be from the future, so this PC should be a mere ancient relic to you…</value>
   </data>
   <data name="0171 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Surprisingly, it might be so old that it's completely new to her, this generation of PCs.</value>
+    <value>Then again, this generation of PCs might be so archaic that it's completely new to her.</value>
   </data>
   <data name="0172 (368.ja) KYON (キョン)" xml:space="preserve">
     <value>What did you draw?</value>
