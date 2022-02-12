@@ -228,6 +228,8 @@ namespace HaruhiChokuretsuLib.Archive
 
                 // Replace all faux-ellipses with an ellipsis character
                 dialogueText = dialogueText.Replace("...", "…");
+                // Consolidate Unix/Windows newlines to just \n
+                dialogueText = dialogueText.Replace("\r\n", "\n");
 
                 int lineLength = 0;
                 bool operatorActive = false;
@@ -275,6 +277,11 @@ namespace HaruhiChokuretsuLib.Archive
                         lineLength += FontReplacementMap[dialogueText[i]].Offset;
                         dialogueText = dialogueText.Remove(i, 1);
                         dialogueText = dialogueText.Insert(i, $"{newCharacter}");
+                    }
+
+                    if (dialogueText[i] == '\n')
+                    {
+                        lineLength = 0;
                     }
 
                     if (!datFile && lineLength > DIALOGUE_LINE_LENGTH)
