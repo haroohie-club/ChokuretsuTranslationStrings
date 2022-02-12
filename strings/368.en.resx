@@ -137,7 +137,7 @@
     <value>Asahina makes an astute point. Just as she says, they're wary of us, the SOS Brigade.</value>
   </data>
   <data name="0027 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Who knows whether or not the computer club guys will tell us anything more…</value>
+    <value>Who knows whether we'll get anything more out of them…</value>
   </data>
   <data name="0028 (368.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>We certainly can't just barge in on them so suddenly. How about we first devise a strategy?</value>
@@ -332,7 +332,7 @@
     <value>We do. We do indeed. Look, like that white-cased PC.</value>
   </data>
   <data name="0098 (368.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>In pre-builts some of the parts are rather weak, so you need to renovate them.</value>
+    <value>In pre-builts some of the parts are rather weak, so you need to mod them.</value>
   </data>
   <data name="0099 (368.ja) CLUB_PRES (部長氏)" xml:space="preserve">
     <value>…Well, the best one was stolen by your brigade leader.</value>
@@ -386,7 +386,7 @@
     <value>D-Don't mind me…</value>
   </data>
   <data name="0119 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Seems like Asahina has somehow blended into their group. Impressive as always.</value>
+    <value>Seems like Asahina has somehow integrated herself into their group. Impressive as always.</value>
   </data>
   <data name="0122 (368.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>I've heard making a game is hard. You have to make sure it's balanced and such…</value>
@@ -428,7 +428,7 @@
     <value>No, umm, that's USB, so…</value>
   </data>
   <data name="0137 (368.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>Yewessby?</value>
+    <value>Yew-ess-bee?</value>
   </data>
   <data name="0138 (368.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>No no, not there, it's this slot.</value>
@@ -485,7 +485,7 @@
     <value>With games, I'm more of a tabletop guy. I'm quite invested when it comes to board games.</value>
   </data>
   <data name="0158 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Ah, now that you mention it, you're often playing Othello or card games in the clubroom.</value>
+    <value>Ah, now that you mention it, you're often playing othello or card games in the clubroom.</value>
   </data>
   <data name="0159 (368.ja) CLUB_PRES (部長氏)" xml:space="preserve">
     <value>Well, tabletop is good too.</value>
@@ -614,7 +614,7 @@
     <value>…Hm?</value>
   </data>
   <data name="0209 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Just as we were leaving after our veni and vidi, but without vici, I noticed a strange object.</value>
+    <value>Just as we were leaving after our veni, vidi, without vici, I noticed a strange object.</value>
   </data>
   <data name="0210 (368.ja) MIKURU (みくる)" xml:space="preserve">
     <value>Kyon? Is something wrong?</value>
@@ -701,19 +701,19 @@
     <value>I have a guilty conscience after all. I don't want to become a luggage thief.</value>
   </data>
   <data name="0238 (368.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>If you say so, then I suppose we have no choice… Though it's a bit of a shame.</value>
+    <value>If you say so, then I suppose we have no choice… Although it's a bit of a shame.</value>
   </data>
   <data name="0239 (368.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>Then, I'll go return it.</value>
+    <value>Okay then, I'll go return it.</value>
   </data>
   <data name="0240 (368.ja) KYON (キョン)" xml:space="preserve">
     <value>That club president, did he really not notice it, even though it was right under his nose?</value>
   </data>
   <data name="0241 (368.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>It's the definition of "it's darkest under the lamppost," right?</value>
+    <value>That's the meaning of "it is darkest under the lamp post," isn't that so?</value>
   </data>
   <data name="0242 (368.ja) KYON (キョン)" xml:space="preserve">
-    <value>Well I think it's just carelessness…</value>
+    <value>Well, I think it's just negligence…</value>
   </data>
   <data name="0243 (368.ja) INFO (CHOICE)" xml:space="preserve">
     <value>Leave it to Koizumi</value>
