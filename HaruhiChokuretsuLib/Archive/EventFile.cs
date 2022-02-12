@@ -226,12 +226,6 @@ namespace HaruhiChokuretsuLib.Archive
                 bool datFile = ((string)d.Key).Contains("dat_");
                 string dialogueText = (string)d.Value;
 
-                if (!datFile)
-                {
-                    dialogueText = dialogueText.Replace("\r\n", " ");
-                    dialogueText = dialogueText.Replace("\n", " ");
-                }
-
                 // Replace all faux-ellipses with an ellipsis character
                 dialogueText = dialogueText.Replace("...", "…");
 
