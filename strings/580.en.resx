@@ -62,11 +62,11 @@
     <value>Interviewing</value>
   </data>
   <data name="0001 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>Going back to interview the computer
-society for more details.</value>
+    <value>Going back to interview the Computer
+Research Society for more details.</value>
   </data>
   <data name="0002 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>Went back to interview the computer society for more details again.</value>
+    <value>Went back to interview the Computer Research Society for more details.</value>
   </data>
   <data name="0004 (580.ja) INFO (INFO)" xml:space="preserve">
     <value>Working alone</value>
@@ -123,7 +123,7 @@ society for more details.</value>
     <value>Second raid</value>
   </data>
   <data name="0037 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>Gathering</value>
+    <value>Gathering the troops</value>
   </data>
   <data name="0038 (580.ja) INFO (INFO)" xml:space="preserve">
     <value>Stakeout</value>
@@ -193,8 +193,7 @@ society for more details.</value>
     <value>Key acquisition</value>
   </data>
   <data name="0075 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>Go to the staff room to borrow the key to the music room.
-(Deploy at least 1 member.)</value>
+    <value>Go to the staff room to borrow the key to the music room. (Deploy at least 1 member.)</value>
   </data>
   <data name="0076 (580.ja) INFO (INFO)" xml:space="preserve">
     <value>Borrowed the key to the music room from the staff room.</value>
@@ -362,232 +361,222 @@ society for more details.</value>
     <value>Set up a trap in the school building with Koizumi to draw Haruhi away from the pool.</value>
   </data>
   <data name="0168 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>共同作業</value>
+    <value>Group work</value>
   </data>
   <data name="0170 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>理科室のアイツ</value>
+    <value>That person in the lab</value>
   </data>
   <data name="0172 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>恐怖の科学</value>
+    <value>The science of fear</value>
   </data>
   <data name="0174 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>存在しない場所</value>
+    <value>A place that doesn't exist</value>
   </data>
   <data name="0175 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>買い出し</value>
+    <value>Going shopping</value>
   </data>
   <data name="0176 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>夜食の買い出しに行く
-（最低１名配置してください）</value>
+    <value>Go for a late night shop.
+(Deploy at least 1 member.)</value>
   </data>
   <data name="0177 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>夜食の買い出しに行ってきた</value>
+    <value>Went for a late night shop.</value>
   </data>
   <data name="0179 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>夜のコンビニへ</value>
+    <value>To the convenience store at night</value>
   </data>
   <data name="0181 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>みくるのお買い物</value>
+    <value>Mikuru's shopping</value>
   </data>
   <data name="0183 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>長門の欲しい物</value>
+    <value>What Nagato wants</value>
   </data>
   <data name="0185 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>両手に買い物袋</value>
+    <value>A shopping bag in each hand</value>
   </data>
   <data name="0186 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>足止め</value>
+    <value>Prevention</value>
   </data>
   <data name="0187 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>ハルヒが部室から出ないように
-なんとか足止め</value>
+    <value>Somehow prevent Haruhi from leaving the clubroom.</value>
   </data>
   <data name="0188 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>ハルヒが部室から出ないように
-なんとか足止めした</value>
+    <value>Prevented Haruhi from leaving the clubroom.</value>
   </data>
   <data name="0190 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>最後の抵抗</value>
+    <value>The last stand</value>
   </data>
   <data name="0192 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>絆創膏</value>
+    <value>Bandage</value>
   </data>
   <data name="0194 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>長門の怖い物？</value>
+    <value>Nagato's fear?</value>
   </data>
   <data name="0196 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>肝試しのルール</value>
+    <value>The rules of the test of courage</value>
   </data>
   <data name="0198 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>影の王国</value>
+    <value>The Kingdom of Shadows</value>
   </data>
   <data name="0200 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>納得できない</value>
+    <value>I can't accept it</value>
   </data>
   <data name="0202 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>やり直し</value>
+    <value>Trying again</value>
   </data>
   <data name="0204 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>存在しない場所</value>
+    <value>A place that doesn't exist</value>
   </data>
   <data name="0205 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>捕獲</value>
+    <value>Capture</value>
   </data>
   <data name="0206 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>コンピ研部員たちを捕獲
-（最低１名配置してください）</value>
+    <value>Capture the members of the computer society.
+(Deploy at least 1 member.)</value>
   </data>
   <data name="0207 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>様子がおかしくなった
-コンピ研部員たちを捕獲した</value>
+    <value>Captured the computer society members who have been acting strangely.</value>
   </data>
   <data name="0209 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>自画自賛</value>
+    <value>Singing your own praises</value>
   </data>
   <data name="0211 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>頼りない相棒</value>
+    <value>Unreliable partner</value>
   </data>
   <data name="0213 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>頼りになる相棒</value>
+    <value>Reliable partner</value>
   </data>
   <data name="0215 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>持ちつ持たれつ</value>
+    <value>Give and take</value>
   </data>
   <data name="0217 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>両極端</value>
+    <value>Both extremes</value>
   </data>
   <data name="0219 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>大ピンチ！？</value>
+    <value>Big trouble?!</value>
   </data>
   <data name="0221 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>意外な再会</value>
+    <value>An unexpected reunion</value>
   </data>
   <data name="0223 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>痕跡</value>
+    <value>Traces</value>
   </data>
   <data name="0224 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>駒の回収</value>
+    <value>Picking up the pieces</value>
   </data>
   <data name="0225 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>肝試し完遂の証
-チェスの駒を取ってくる</value>
+    <value>Collect the chess piece as evidence of completing the test of courage.</value>
   </data>
   <data name="0226 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>肝試し完遂の証
-チェスの駒を取ってきた</value>
+    <value>Collected the chess piece as evidence of completing the test of courage.</value>
   </data>
   <data name="0228 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>さらなる被害者</value>
+    <value>Another victim</value>
   </data>
   <data name="0230 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>奪われたモノ</value>
+    <value>Something stolen</value>
   </data>
   <data name="0232 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>容赦ない人</value>
+    <value>Someone who shows no mercy</value>
   </data>
   <data name="0234 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>ヤツらを追って</value>
+    <value>Follow them</value>
   </data>
   <data name="0236 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>予想外</value>
+    <value>Unforeseen</value>
   </data>
   <data name="0238 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>違和感</value>
+    <value>Uneasiness</value>
   </data>
   <data name="0240 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>誰もいない</value>
+    <value>There's no one here</value>
   </data>
   <data name="0242 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>存在しない場所</value>
+    <value>A place that doesn't exist</value>
   </data>
   <data name="0243 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>足止め</value>
+    <value>Prevention</value>
   </data>
   <data name="0244 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>部室でハルヒを足止めする
-（最低１名配置してください）</value>
+    <value>Hold up Haruhi in the clubroom.
+(Deploy at least 1 member.)</value>
   </data>
   <data name="0245 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>部室でハルヒを足止めした</value>
+    <value>Held up Haruhi in the clubroom.</value>
   </data>
   <data name="0247 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>ゲーム</value>
+    <value>Game</value>
   </data>
   <data name="0249 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>誤算</value>
+    <value>Miscalculation</value>
   </data>
   <data name="0251 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>白熱</value>
+    <value>Climax</value>
   </data>
   <data name="0253 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>トーナメント</value>
+    <value>Tournament</value>
   </data>
   <data name="0254 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>時計に細工</value>
+    <value>Tampering with the clock</value>
   </data>
   <data name="0255 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>異変の起こる時間を避けるため
-時計の針に細工する</value>
+    <value>Manipulate the hands on the clock to avoid the time when the strange phenomenon occurs.</value>
   </data>
   <data name="0256 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>異変の起こる時間を避けるため
-時計の針に細工を行った</value>
+    <value>Manipulated the hands on the clock to avoid the time when the strange phenomenon occurs.</value>
   </data>
   <data name="0258 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>孤独な作業</value>
+    <value>Working in solitude</value>
   </data>
   <data name="0260 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>ニアミス</value>
+    <value>Near miss</value>
   </data>
   <data name="0262 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>身近な盲点</value>
+    <value>A familiar blind spot</value>
   </data>
   <data name="0264 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>存在しない場所</value>
+    <value>A place that doesn't exist</value>
   </data>
   <data name="0265 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>鏡に細工</value>
+    <value>Tampering with the mirror</value>
   </data>
   <data name="0266 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>ハルヒに見られないように
-鏡に細工をする</value>
+    <value>Tamper with the mirror so that Haruhi doesn't see.</value>
   </data>
   <data name="0267 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>ハルヒに見られないように
-鏡に細工を行った</value>
+    <value>Tampered with the mirror so that Haruhi doesn't see.</value>
   </data>
   <data name="0269 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>地道な作業</value>
+    <value>Straightforward duty</value>
   </data>
   <data name="0271 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>異常事態</value>
+    <value>State of emergency</value>
   </data>
   <data name="0273 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>二者択一</value>
+    <value>A choice between two</value>
   </data>
   <data name="0275 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>存在しない場所</value>
+    <value>A place that doesn't exist</value>
   </data>
   <data name="0276 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>特異点設置</value>
+    <value>Singularity establishment</value>
   </data>
   <data name="0277 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>長門製の特異点となる
-チェスの駒を設置する</value>
+    <value>Set up the chess piece that Nagato will make a singularity.</value>
   </data>
   <data name="0278 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>特異点（チェスの駒）を設置した</value>
+    <value>Singularity (chess piece) established.</value>
   </data>
   <data name="0280 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>異変を辿って</value>
+    <value>Trace the abnormality</value>
   </data>
   <data name="0282 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>ひとりきり</value>
+    <value>All alone</value>
   </data>
   <data name="0284 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>東奔西走</value>
+    <value>Keeping busy</value>
   </data>
   <data name="0286 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>存在しない場所</value>
+    <value>A place that doesn't exist</value>
   </data>
 </root>
