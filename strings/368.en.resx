@@ -178,7 +178,7 @@ over there and get turned away at the door.</value>
     <value>I believe it is all of us in the SOS Brigade, including Miss Suzumiya.</value>
   </data>
   <data name="0043 (368.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>It was before I joined, but the event where their PC was taken really ruffled their feathers.</value>
+    <value>It was before I joined, but the event where their PC was taken really upset them.</value>
   </data>
   <data name="0044 (368.ja) MIKURU (みくる)" xml:space="preserve">
     <value>I-I don't want to remember that…</value>
@@ -187,7 +187,7 @@ over there and get turned away at the door.</value>
     <value>Asahina seems to want to forget it. I can sympathize.</value>
   </data>
   <data name="0046 (368.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>Based on that, they're likely not overly wary of myself.</value>
+    <value>Based on that, they're likely not overly wary of me.</value>
   </data>
   <data name="0047 (368.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>That may be the first step in getting the computer society to open up to us.</value>
@@ -223,7 +223,7 @@ over there and get turned away at the door.</value>
     <value>I'll give it a go.</value>
   </data>
   <data name="0058 (368.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>Fortunately, I'm not averse to computer-related topics either.</value>
+    <value>Fortunately, I'm not averse to computer- related topics either.</value>
   </data>
   <data name="0059 (368.ja) MIKURU (みくる)" xml:space="preserve">
     <value>Really?</value>
@@ -256,7 +256,8 @@ over there and get turned away at the door.</value>
     <value>I'll leave it to Koizumi for the time being, but after that, if you could do what you can…</value>
   </data>
   <data name="0069 (368.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>Essentially, I'll get a foot in the door, and the rest will be up to Miss Asahina, is that right?</value>
+    <value>Essentially, I'll get a foot in the door, and the
+rest will be up to Miss Asahina, is that right?</value>
   </data>
   <data name="0070 (368.ja) KYON (キョン)" xml:space="preserve">
     <value>Is that okay with you?</value>
@@ -268,7 +269,7 @@ over there and get turned away at the door.</value>
     <value>You lot again!? What is it this time!?</value>
   </data>
   <data name="0075 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>As expected, the club president came out to meet us with unabashed caution.</value>
+    <value>As expected, the club president came out to meet us with unabashed wariness.</value>
   </data>
   <data name="0076 (368.ja) CLUB_PRES (部長氏)" xml:space="preserve">
     <value>Oh…</value>
@@ -361,7 +362,7 @@ over there and get turned away at the door.</value>
     <value>Wanna try them out?</value>
   </data>
   <data name="0108 (368.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>Our PCs have pretty much any software you'd ever want to use.</value>
+    <value>Our PCs have pretty much all the software you'd ever want to use.</value>
   </data>
   <data name="0110 (368.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>They're fully equipped with software, too?</value>
@@ -487,7 +488,7 @@ over there and get turned away at the door.</value>
     <value>With games, I'm more of a tabletop guy. I'm quite invested when it comes to board games.</value>
   </data>
   <data name="0158 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Ah, now that you mention it, you're often playing othello or card games in the clubroom.</value>
+    <value>Ah, now that you mention it, you're often playing Othello or card games in the clubroom.</value>
   </data>
   <data name="0159 (368.ja) CLUB_PRES (部長氏)" xml:space="preserve">
     <value>Well, tabletop is good too.</value>
@@ -580,7 +581,8 @@ over there and get turned away at the door.</value>
     <value>I think that's a wise decision. In my opinion, at least.</value>
   </data>
   <data name="0193 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Why is it that I feel zero pleasure whatsoever when Koizumi praises me, I wonder…</value>
+    <value>Why is it that I feel zero pleasure whatsoever
+when Koizumi praises me, I wonder…</value>
   </data>
   <data name="0195 (368.ja) KYON (キョン)" xml:space="preserve">
     <value>Asahina, let's head back now.</value>
@@ -625,7 +627,7 @@ over there and get turned away at the door.</value>
     <value>No, I just feel like there's something lying under your feet…</value>
   </data>
   <data name="0212 (368.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>Under…my feet?</value>
+    <value>Under… my feet?</value>
   </data>
   <data name="0213 (368.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Asahina swiftly lifted her foot and under it was…</value>
@@ -661,7 +663,7 @@ over there and get turned away at the door.</value>
     <value>Not quite that. It could serve as material to distract Miss Suzumiya…is what I'm thinking.</value>
   </data>
   <data name="0224 (368.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>I think she'd naturally be interested in the contents of a memory card found in the building.</value>
+    <value>I think she'd naturally be interested in the contents of a memory card found lying around.</value>
   </data>
   <data name="0225 (368.ja) KYON (キョン)" xml:space="preserve">
     <value>Well, whether or not she'd look inside, she'd definitely be interested.</value>
@@ -712,7 +714,7 @@ over there and get turned away at the door.</value>
     <value>That club president, did he really not notice it, even though it was right under his nose?</value>
   </data>
   <data name="0241 (368.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>That's the meaning of "it is darkest under the lamp post," isn't that so?</value>
+    <value>That's the meaning of "it is darkest under the lamp post," is it not?</value>
   </data>
   <data name="0242 (368.ja) KYON (キョン)" xml:space="preserve">
     <value>Well, I think it's just negligence…</value>
@@ -721,18 +723,18 @@ over there and get turned away at the door.</value>
     <value>Leave it to Koizumi</value>
   </data>
   <data name="0244 (368.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Rely on Asahina.</value>
+    <value>Rely on Asahina</value>
   </data>
   <data name="0245 (368.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Join Koizumi's conversation.</value>
+    <value>Join Koizumi's conversation</value>
   </data>
   <data name="0246 (368.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Go to Mikuru's side.</value>
+    <value>Go to Mikuru's side</value>
   </data>
   <data name="0247 (368.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Keep it for now.</value>
+    <value>Keep it for now</value>
   </data>
   <data name="0248 (368.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Return it to the president.</value>
+    <value>Return it to the president</value>
   </data>
 </root>
