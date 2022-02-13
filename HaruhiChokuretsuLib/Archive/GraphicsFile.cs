@@ -96,11 +96,7 @@ namespace HaruhiChokuretsuLib.Archive
                 && Index != 0x3AF && Index != 0x3FE
                 && (Index < 0x41B || Index > 0x42C)
                 && (Index < 0x8B4 || Index > 0x8B7)
-                && Index != 0xB5C
                 && (Index < 0xB61 || Index > 0xB7C)
-                && (Index < 0xBA6 || Index > 0xBA8)
-                && Index != 0xBAE && Index != 0xBBA
-                && Index != 0xBBF
                 && (Index < 0xBC9 || Index > 0xC1B)
                 && (Index < 0xC70 || Index > 0xC78)
                 && (Index < 0xCA3 || Index > 0xCA8)
