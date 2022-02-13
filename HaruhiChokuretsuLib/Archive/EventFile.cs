@@ -228,6 +228,8 @@ namespace HaruhiChokuretsuLib.Archive
 
                 // Replace all faux-ellipses with an ellipsis character
                 dialogueText = dialogueText.Replace("...", "…");
+                // Replace all faux-em-dashes with actual em-dash characters
+                dialogueText = dialogueText.Replace("--", "—");
                 // Consolidate Unix/Windows newlines to just \n
                 dialogueText = dialogueText.Replace("\r\n", "\n");
 
