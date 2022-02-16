@@ -65,7 +65,7 @@
     <value>Oh, where's Mikuru and Koiuzmi?</value>
   </data>
   <data name="0002 (373.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>That's what Haruhi asked, but I avoided telling her that they went back to the comp. lab.</value>
+    <value>That's what Haruhi asked, but I avoided tell- ing her that they'd gone to the computer lab.</value>
   </data>
   <data name="0003 (373.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Now then, at the end of this long corridor on the main building's third floor, is Class 1-9.</value>
@@ -113,7 +113,7 @@
     <value>But maybe it won't appear in front of normal humans. Like you might need psychic powers.</value>
   </data>
   <data name="0018 (373.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>If it's Espers you need I happen to know one.</value>
+    <value>If it's espers you need I happen to know one.</value>
   </data>
   <data name="0019 (373.ja) KYON (キョン)" xml:space="preserve">
     <value>Maybe the Computer Society member who said he witnessed it just made a mistake.</value>
@@ -134,7 +134,8 @@
     <value>I guess so. However…</value>
   </data>
   <data name="0025 (373.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Things like ghosts, unnatural phenomena, to tell you the truth I've seen them.</value>
+    <value>Things like ghosts and unnatural phenomena?
+To tell you the truth I've seen them.</value>
   </data>
   <data name="0026 (373.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Incidentally, I don't have any psychic powers. No guardian angel either of course.</value>
@@ -464,6 +465,6 @@
     <value>Ask Nagato.</value>
   </data>
   <data name="0137 (373.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Don't Ask Nagato.</value>
+    <value>Don't ask Nagato.</value>
   </data>
 </root>
