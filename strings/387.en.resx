@@ -188,7 +188,7 @@
     <value>No need to move. The main body is here.</value>
   </data>
   <data name="0045 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Nagato held out her other hand, within which was something the size of a postage stamp.</value>
+    <value>Nagato held out her other hand, within which was a slab the size of a postage stamp.</value>
   </data>
   <data name="0046 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>Is that a memory card?</value>
@@ -203,7 +203,7 @@
     <value>Huh…</value>
   </data>
   <data name="0050 (387.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>Why are you…?</value>
+    <value>Kyon is…?</value>
   </data>
   <data name="0051 (387.ja) KYON (キョン)" xml:space="preserve">
     <value>Wait wait wait! It's me?!</value>
@@ -212,411 +212,339 @@
     <value>No. The main body is there.</value>
   </data>
   <data name="0053 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>There…? Ah.</value>
+    <value>There…? Oh.</value>
   </data>
   <data name="0054 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>よく見れば、長門が指差している
-のは、俺の胸ポケットだ</value>
+    <value>Looking more closely, Nagato was pointing at my breast pocket.</value>
   </data>
   <data name="0055 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そこには確か……</value>
+    <value>If I remember correctly, there should be a…</value>
   </data>
   <data name="0056 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>これは、部長のメモリーカード？</value>
+    <value>This is the president's memory card?</value>
   </data>
   <data name="0058 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>俺はメモリーカードを指でつまみ
-目の前にかざしてみる</value>
+    <value>Pinching the memory card between my fingers, I held it up to my eyes.</value>
   </data>
   <data name="0059 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>当たり前だが、見た目はいたって
-普通のメモリーカードだ</value>
+    <value>It goes without saying, but it looked very much like a normal memory card.</value>
   </data>
   <data name="0060 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>情報生命体の本体は、この中で
-眠っている</value>
+    <value>The main body of the data lifeform sleeps within.</value>
   </data>
   <data name="0061 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>眠っているとは？</value>
+    <value>What do you mean, sleeps?</value>
   </data>
   <data name="0062 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>機能を分離し、自らを圧縮凍結した</value>
+    <value>Its functions are separated, and it compressed and froze itself.</value>
   </data>
   <data name="0063 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>圧縮凍結……つまり生命体として
-活動していなかった</value>
+    <value>Compressed and frozen… In other words, it wasn't active as a lifeform.</value>
   </data>
   <data name="0064 (387.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>だから、長門さんでも見つけ
-られなかったんですね</value>
+    <value>That's why even Nagato couldn't find it.</value>
   </data>
   <data name="0065 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>そう</value>
+    <value>Yes.</value>
   </data>
   <data name="0067 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>それで、その分離した機能とは？</value>
+    <value>So, what are its seperated functions?</value>
   </data>
   <data name="0068 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>存在可能な空間を生成する機能</value>
+    <value>The ability to create potential space.</value>
   </data>
   <data name="0069 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>やはりそうですか……</value>
+    <value>So it can, huh…</value>
   </data>
   <data name="0070 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>それがあの不思議空間だったって
-わけか</value>
+    <value>So that's what the mysterious space was?</value>
   </data>
   <data name="0071 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>そのハタ迷惑な場所だけ作っといて
-本体はどうする気だったんだ</value>
+    <value>All it did was make that nuisance of a room, so what was it trying to do?</value>
   </data>
   <data name="0072 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>情報生命体は進化の過程で自らの
-情報量を増やす必要があった</value>
+    <value>The information lifeform needed to more information for the process of evolution.</value>
   </data>
   <data name="0073 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>それを実現するために、記憶容量の
-より大きなデバイスへ移動を試みた</value>
+    <value>In order to realize that, it moved to a device with a larger storage capacity.</value>
   </data>
   <data name="0074 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>でも、メモリーカードよりノート
-パソコンの方が容量が大きいだろ</value>
+    <value>But a laptop has more storage than a memory card, right?</value>
   </data>
   <data name="0075 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>より分散しやすいデバイスに寄生
-することで拡散と増殖の機会を得る</value>
+    <value>By invading a device that can more easily transfer, it has more chances to propagate.</value>
   </data>
   <data name="0076 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>ノートパソコンよりデスクトップ
-パソコンの方が居心地がいいんだな</value>
+    <value>A desktop computer is definitely more comfortable than a laptop.</value>
   </data>
   <data name="0077 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>まるでウィルスですね</value>
+    <value>It's just like a virus, don't you think?</value>
   </data>
   <data name="0078 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>もし進化の過程でインターネットに
-アクセスする能力でも得たりすれば</value>
+    <value>If it had the ability to connect to the internet for the evoltion process…</value>
   </data>
   <data name="0079 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>世界中に広がっていたかも知れま
-せんね</value>
+    <value>…It probably would have spread around the whole world.</value>
   </data>
   <data name="0081 (387.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>そ、そんなことになったら大変
-です！？</value>
+    <value>Th-that would've been a disaster?!</value>
   </data>
   <data name="0082 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>まったくだ。放置してたらいずれ
-ハルヒの目にとまることになる</value>
+    <value>Absolutely. If we left it alone, it would've eventually made it to Haruhi.</value>
   </data>
   <data name="0084 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>そうなると、本当に世界の危機です</value>
+    <value>If that happened, the world would've truly been in a crisis.</value>
   </data>
   <data name="0085 (387.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>ど、どうしましょう？</value>
+    <value>Wh-what are we going to do?</value>
   </data>
   <data name="0086 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>ともかく、このメモリーカードを
-なんとかすればいいんだよな？</value>
+    <value>For the time being, we should do something about this memory card, right?</value>
   </data>
   <data name="0087 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>そう</value>
+    <value>Yes.</value>
   </data>
   <data name="0089 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>消去するにしても、一度パソコンに
-接続する必要がありますね</value>
+    <value>Even if we're deleting it, we'll need to temporarily connect it to a computer.</value>
   </data>
   <data name="0090 (387.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>でも、ウィルスだったら感染しちゃ
-うんじゃ……</value>
+    <value>But, if it's a virus, won't it infect the…?</value>
   </data>
   <data name="0091 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>物理的に消去すればいい</value>
+    <value>Physically deleting will suffice.</value>
   </data>
   <data name="0092 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>ペンチでひん曲げるとか、焼却炉で
-焼くとかすればいいってことか</value>
+    <value>So you're saying we can bend it with pliers or burn it in an incinerator?</value>
   </data>
   <data name="0094 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>涼宮さんに気付かれないようにする
-には、また別の機会が必要ですね</value>
+    <value>If we want to do this so Miss. Suzumiya doesn't notice, we'll need another opportunity.</value>
   </data>
   <data name="0095 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>こんな危険な代物を持ち歩けっ
-てのか</value>
+    <value>You want me to walk around with such a dangerous thing?</value>
   </data>
   <data name="0096 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>今すぐにでも処分しなきゃまずい
-だろ。ハルヒの目に止まってみろ</value>
+    <value>We have to destroy it right away, you know? Try to get Haruhi's attention.</value>
   </data>
   <data name="0097 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>中身を確かめたいなんて言い出して
-これをコンピ研に持って行きかねん</value>
+    <value>She'd start saying she wants to look inside and probably take it to the computer society.</value>
   </data>
   <data name="0098 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>かして</value>
+    <value>Give it.</value>
   </data>
   <data name="0099 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>あ、ああ。わかった</value>
+    <value>R-right. Here.</value>
   </data>
   <data name="0100 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>俺は持っていたメモリーカードを
-長門の手のひらに乗せる</value>
+    <value>I place the memory card in Nagato's palm.</value>
   </data>
   <data name="0101 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>すると、メモリーカードは砂が
-細かく崩れるように</value>
+    <value>Then, the memory card crumbles away into dust.</value>
   </data>
   <data name="0102 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>長門の手の上で消滅した</value>
+    <value>It was destroyed in Nagato's hand.</value>
   </data>
   <data name="0103 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>これ、コンピ研の部長のだよな？</value>
+    <value>That's the computer society president's, right?</value>
   </data>
   <data name="0104 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ですが、他に方法がありません
-からね</value>
+    <value>Yes, but there wasn't another way.</value>
   </data>
   <data name="0105 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>部長氏にはご愁傷様と言ってやった
-ほうがいいかね？</value>
+    <value>Do I need to give the president my condolences now?</value>
   </data>
   <data name="0106 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>さて、やっと片が付いたな</value>
+    <value>Well, that's all cleared up at last.</value>
   </data>
   <data name="0107 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>これで妙な少女が現れることも
-教室に閉じこめられることも</value>
+    <value>There won't be any more strange girls appearing…</value>
   </data>
   <data name="0108 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>もうないだろうな</value>
+    <value>…or any more getting locked in classrooms, right?</value>
   </data>
   <data name="0110 (387.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>あのう</value>
+    <value>Excuse me.</value>
   </data>
   <data name="0111 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>……まだなにかありましたっけ？</value>
+    <value>…Was there anything else?</value>
   </data>
   <data name="0112 (387.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>このモップはなんなんですか？</value>
+    <value>What's this mop?</value>
   </data>
   <data name="0113 (387.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>使ったのなら片付けておいたほうが
-いいですよね？</value>
+    <value>If you used it, you should tidy it up, you know?</value>
   </data>
   <data name="0115 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ああ、それには触らない方がいい
-かもしれませんよ</value>
+    <value>Ah, it's probably best you didn't touch that.</value>
   </data>
   <data name="0116 (387.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>え？　何かあるんですか？</value>
+    <value>Huh? Is there something special about it?</value>
   </data>
   <data name="0117 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>そうです。異空間で使用した
-長門さん特製のモップですよ</value>
+    <value>Indeed there is. It's a mop especially made by Nagato that was used in the abnormal space.</value>
   </data>
   <data name="0119 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>属性情報を付加している。波動関数
-に影響を与え存在確率を低下させる</value>
+    <value>It has an effect on the wave function, lowering probability of existance.</value>
   </data>
   <data name="0120 (387.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>#SK0ひょえっ！</value>
+    <value>Wha—?!</value>
   </data>
   <data name="0121 (387.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>き、危険ですよね
-危ないんじゃないですかっ！</value>
+    <value>Th-that's dangerous! That's dangerous, isn't it?!</value>
   </data>
   <data name="0122 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>まったくです。早々に処分した
-ほうがよさそうですね</value>
+    <value>Absolutely. We should've disposed of it straight away.</value>
   </data>
   <data name="0123 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>俺はそんなに危険なモンを使って
-たのか？</value>
+    <value>I used such a dangerous thing?</value>
   </data>
   <data name="0124 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>大体理論がよくわからん</value>
+    <value>I don't really get the theory anyway.</value>
   </data>
   <data name="0125 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>そうですね、分かりやすいところ
-ですとシュレディンガーの猫です</value>
+    <value>I see. Well, a more understandable example would be Schrödinger's cat.</value>
   </data>
   <data name="0126 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>なんだそりゃ</value>
+    <value>What on Earth is that?</value>
   </data>
   <data name="0127 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>箱の中に猫とラジウム、ラジウムが
-出すアルファ粒子に反応する毒ガス</value>
+    <value>In a box is a cat, radium, and a gas that releases in response to alpha particles.</value>
   </data>
   <data name="0128 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>これらを一緒に入れます。ラジウム
-はたまにアルファ粒子を放出します</value>
+    <value>The radium will occasionally omit said alpha particles.</value>
   </data>
   <data name="0129 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>そしてこの後時間をおいてから
-箱のふたを開けてみました</value>
+    <value>Then, after some time passes, you open the lid of the box.</value>
   </data>
   <data name="0130 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>さて、猫は箱の中で生きている
-でしょうか、死んでいるでしょうか</value>
+    <value>Well, is the cat in the box dead or alive?</value>
   </data>
   <data name="0131 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>そのたまに出る粒子が出てたら死ん
-でるし、そうでなきゃ生きてるだろ</value>
+    <value>If any of those particles have been emmitted it's dead, otherwise it's alive, right?</value>
   </data>
   <data name="0132 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ここでは結果のみが重要なのです
-死んでいますか、生きていますか？</value>
+    <value>Only the outcome is important here. Is it dead or alive?</value>
   </data>
   <data name="0133 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>死んでるかもしれないし
-生きてるかもしれないだろうな</value>
+    <value>I don't know, it could be dead or alive, surely?</value>
   </data>
   <data name="0134 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>まさにそうです
-それが波動関数です</value>
+    <value>Exactly right. That's what a wave function is.</value>
   </data>
   <data name="0135 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>観測する瞬間まで結果がわからない
-どちらの結果でもありえる状態です</value>
+    <value>Until we observe, the outcome is unknown. It's a state where either case is possible.</value>
   </data>
   <data name="0136 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>確率は半々とします。しかし確率を
-どちらかに偏らせるとどうでしょう</value>
+    <value>We'll say it's fifty-fifty. But what if the chance leaned more in one direction?</value>
   </data>
   <data name="0137 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>都合のいい結果が出る確率が
-高まったとしたら</value>
+    <value>Let's say we increased the chance of a favorable outcome.</value>
   </data>
   <data name="0138 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>もしくは、都合の悪い確率が出にく
-くなったら</value>
+    <value>Or perhaps, made an unfavorable outcome less likely.</value>
   </data>
   <data name="0139 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>そんなことができるのか？</value>
+    <value>Is that even possible?</value>
   </data>
   <data name="0140 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>できるようですね。今回の異空間は
-存在する可能性を高めていたわけで</value>
+    <value>It seems to be. In this case, the chance of an abnormal space existing was increased.</value>
   </data>
   <data name="0141 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>また長門さんが強化したモップは
-その可能性を消していたわけです</value>
+    <value>Nagato's modified mop removed that possibility again.</value>
   </data>
   <data name="0142 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>それに、我々の身近にそれを無意識
-にやってしまう方がいますから</value>
+    <value>There's even a person close to us who does it unconsciously.</value>
   </data>
   <data name="0143 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>ハルヒか</value>
+    <value>Haruhi, huh?</value>
   </data>
   <data name="0144 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>そうです。彼女なら猫に生きていて
-欲しいと願えば</value>
+    <value>Exactly. As long as she wishes for the cat to live.</value>
   </data>
   <data name="0145 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>たとえどれだけ放置していても
-生きているのではないでしょうか</value>
+    <value>It wouldn't matter how long you leave it, the cat would still be alive, right?</value>
   </data>
   <data name="0146 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>それどころか……</value>
+    <value>Far from it…</value>
   </data>
   <data name="0147 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>それどころか？</value>
+    <value>Far from it?</value>
   </data>
   <data name="0148 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>猫以外のものになっているかもしれ
-ませんよ。羽が生えているとか</value>
+    <value>It probably would've turned into something else other than a cat—maybe even grown wings.</value>
   </data>
   <data name="0149 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>ファンタジーだなアイツの頭の中は
-いっそ魔法使いにでもなればいい</value>
+    <value>Her head's full of fantasies, huh. She should become a magician or something.</value>
   </data>
   <data name="0150 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>高度に発達した科学は魔法と見分け
-がつかない</value>
+    <value>Highly developed science is indistinguishable from magic.</value>
   </data>
   <data name="0151 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>朝比奈さん。あなたの時間渡航の
-技術は科学ですか、魔法ですか？</value>
+    <value>Miss. Asahina, is the technique for your time travel science or magic?</value>
   </data>
   <data name="0153 (387.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>えっと……多分『禁則事項』です
-でも魔法なんかじゃありません</value>
+    <value>Umm… it's probably [classified information], but it's nothing like magic.</value>
   </data>
   <data name="0154 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>……まったくもってそのとおりだ</value>
+    <value>…It's exactly as he says.</value>
   </data>
   <data name="0155 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>では、長門さんの技術はどうですか
-科学でしょうか、魔法でしょうか？</value>
+    <value>The what about you, Nagato? Science, or magic?</value>
   </data>
   <data name="0156 (387.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>ええっと……</value>
+    <value>Umm…</value>
   </data>
   <data name="0157 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>人間は自分たちの知らない知識や
-隠された知識を</value>
+    <value>Humans label hidden knowledge and things they don't understand…</value>
   </data>
   <data name="0158 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>オカルトと呼称している</value>
+    <value>…as occult.</value>
   </data>
   <data name="0159 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>オカルトって……怖い話や怪しげな
-話のことじゃないのか</value>
+    <value>When you say occult… you mean scary stories and myths?</value>
   </data>
   <data name="0160 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>人は、未知の物に対して恐怖や畏怖
-を覚えるものです。だからでしょう</value>
+    <value>People react to things they don't know with awe and fear. That's why.</value>
   </data>
   <data name="0161 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>たしかにそうだ。今目の前に転がっ
-ているモップは得体のしれない物だ</value>
+    <value>It certainly seems so. Even the mop that just rolled in front of me is unknown to me.</value>
   </data>
   <data name="0162 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>これが科学の粋なのか魔力の宿った
-ものだかは俺にはわからん</value>
+    <value>I don't know if it's the pinnacle of science or if it houses some magical energy.</value>
   </data>
   <data name="0163 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>結局のところ何なんだ？</value>
+    <value>So what is it, then?</value>
   </data>
   <data name="0164 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>このモップで拭いた物は
-存在するであろう確率が低下し</value>
+    <value>Anything the mop wipes has its probability of existing reduced.</value>
   </data>
   <data name="0165 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>もしかしたら、いえ、実は存在しな
-い、ということになるわけです</value>
+    <value>It perhaps—no—it truly does stop things from existing.</value>
   </data>
   <data name="0166 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>そうですよね長門さん？</value>
+    <value>Isn't that right, Miss. Nagato?</value>
   </data>
   <data name="0167 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>そう</value>
+    <value>Yes.</value>
   </data>
   <data name="0168 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>何でも消せる魔法のモップかよ</value>
+    <value>It's a magic mop that can remove anything?</value>
   </data>
   <data name="0169 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>どうやらこのモップはかなりヤバイ
-代物らしい</value>
+    <value>This mop seems to be quite terrifying.</value>
   </data>
   <data name="0170 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ホーミングバットなんて目じゃない
-本気のヤバさだ</value>
+    <value>Nothing like the homing bat, this is some next level insanity.</value>
   </data>
   <data name="0171 (387.ja) KYON (キョン)" xml:space="preserve">
-    <value>長門よ、頼むからこんな物騒なモン
-とっとと元に戻してくれ</value>
+    <value>Nagato, please, could you hurry up and get rid of this terrifying thing?</value>
   </data>
   <data name="0172 (387.ja) NAGATO (長門)" xml:space="preserve">
-    <value>わかった</value>
+    <value>Understood.</value>
   </data>
   <data name="0173 (387.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>やれやれ、これでようやく後始末も
-完了か</value>
+    <value>Good grief. Well, I guess everything's settled now then.</value>
   </data>
   <data name="0174 (387.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ハルヒについて</value>
+    <value>About Haruhi</value>
   </data>
 </root>
