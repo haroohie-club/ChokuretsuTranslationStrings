@@ -1,6 +1,7 @@
 ﻿using HaruhiChokuretsuLib;
 using HaruhiChokuretsuLib.Archive;
 using HaruhiChokuretsuLib.Font;
+using HaruhiChokuretsuLib.Overlay;
 using Mono.Options;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,7 @@ using System.IO;
 using System.Linq;
 using System.Text.Json;
 using System.Text.RegularExpressions;
+using System.Xml.Serialization;
 
 namespace HaruhiChokuretsuCLI
 {
@@ -20,7 +22,8 @@ namespace HaruhiChokuretsuCLI
             UNPACK,
             EXTRACT,
             REPLACE,
-            IMPORT_RESX
+            IMPORT_RESX,
+            PATCH_OVERLAYS,
         }
 
         public static void Main(string[] args)
@@ -36,6 +39,7 @@ namespace HaruhiChokuretsuCLI
                 { "x|extract", e => mode = Mode.EXTRACT },
                 { "r|replace", r => mode = Mode.REPLACE },
                 { "import-resx", r => mode = Mode.IMPORT_RESX },
+                { "p|patch-overlays", r => mode = Mode.PATCH_OVERLAYS },
                 { "i|input=", i => inPath = i},
                 { "o|output=", o => outPath = o },
                 { "f|folder=", f => replacementFolder = f },
@@ -72,6 +76,10 @@ namespace HaruhiChokuretsuCLI
             else if (mode == Mode.IMPORT_RESX && !string.IsNullOrEmpty(replacementFolder) && !string.IsNullOrEmpty(langCode))
             {
                 ImportResxFolder(replacementFolder, langCode, fontMapPath, inPath, outPath);
+            }
+            else if (mode == Mode.PATCH_OVERLAYS && !string.IsNullOrEmpty(replacementFolder))
+            {
+                PatchOverlays(inPath, replacementFolder, outPath);
             }
             else
             {
@@ -281,6 +289,32 @@ namespace HaruhiChokuretsuCLI
             catch (Exception e)
             {
                 Console.WriteLine($"Fatal error: {e.Message}");
+            }
+        }
+
+        private static void PatchOverlays(string inputPatch, string inputFolder, string outputFolder)
+        {
+            List<Overlay> overlays = new();
+            foreach (string file in Directory.GetFiles(inputFolder))
+            {
+                overlays.Add(new(file));
+            }
+
+            XmlSerializer serializer = new(typeof(OverlayPatchDocument));
+            OverlayPatchDocument patchDoc = (OverlayPatchDocument)serializer.Deserialize(File.OpenRead(inputPatch));
+            foreach (OverlayXml overlay in patchDoc.Overlays)
+            {
+                Overlay overlayToModify = overlays.First(o => o.Name == overlay.Name);
+                Console.WriteLine($"Patching overlay '{overlay.Name}'...");
+                foreach (OverlayPatchXml patch in overlay.Patches)
+                {
+                    overlayToModify.Patch((int)(patch.Location - overlay.Start), patch.Value);
+                }
+            }
+
+            foreach (Overlay overlay in overlays)
+            {
+                overlay.Save(Path.Combine(outputFolder, $"{overlay.Name}.bin"));
             }
         }
     }
