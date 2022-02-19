@@ -107,7 +107,9 @@ namespace HaruhiChokuretsuCLI
             var name = new FileInfo(inPath).Name;
 
             if (!Directory.Exists(outPath))
+            {
                 Directory.CreateDirectory(outPath);
+            }
 
             var archive = ArchiveFile<FileInArchive>.FromFile(inPath);
 
@@ -185,7 +187,8 @@ namespace HaruhiChokuretsuCLI
         private static void ReplaceSingleFile(ArchiveFile<FileInArchive> arc, string filePath, int index)
         {
             var file = arc.Files.FirstOrDefault(x => x.Index == index);
-            file.CompressedData = File.ReadAllBytes(filePath);
+            file.Data = File.ReadAllBytes(filePath).ToList();
+            file.Edited = true;
             arc.Files[arc.Files.IndexOf(file)] = file;
         }
 
@@ -215,9 +218,13 @@ namespace HaruhiChokuretsuCLI
                         try
                         {
                             if (filePath.ToLower().EndsWith(".bin"))
+                            {
                                 ReplaceSingleFile(arc, filePath, index.Value);
+                            }
                             else if (inputArcName.ToLower().StartsWith("grp"))
+                            {
                                 ReplaceSingleGraphicsFile(arc, filePath, index.Value);
+                            }
 
                             Console.WriteLine("OK");
                         }

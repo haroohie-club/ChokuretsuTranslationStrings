@@ -21,7 +21,7 @@ namespace HaruhiChokuretsuLib.Archive
         }
         public virtual byte[] GetBytes()
         {
-            return null;
+            return Data.ToArray();
         }
 
         public FileInArchive()
