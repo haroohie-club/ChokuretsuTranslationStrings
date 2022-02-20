@@ -55,6 +55,18 @@ namespace HaruhiChokuretsuLib.Archive
             }
         }
 
+        public override void NewFile(string filename)
+        {
+            string[] fileComponents = filename.Split('_');
+            ImageTileForm = (TileForm)Enum.Parse(typeof(TileForm), fileComponents[1]);
+            Data = new();
+            Shtxds = true;
+            Data.AddRange(Encoding.ASCII.GetBytes("SHTXDS"));
+            Data.AddRange(BitConverter.GetBytes((short)ImageTileForm));
+            Data.AddRange(new byte[] { 0x01, 0x00, 0x00, 0x01, 0x40, 0x00, 0x08, 0x06, 0x00, 0x80, 0x00, 0x00 }); // mode for each short
+            
+        }
+
         public void InitializeFontFile()
         {
             ImageTileForm = TileForm.GBA_4BPP;
