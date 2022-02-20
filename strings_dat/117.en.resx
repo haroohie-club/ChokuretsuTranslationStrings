@@ -128,7 +128,7 @@
     <value>Piano sounds from an empty room?!　　　</value>
   </data>
   <data name="0065 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Game ~ Investigation Part</value>
+    <value>Game ~ Investigation Mode</value>
   </data>
   <data name="0074 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Background music volume　　　</value>
@@ -205,7 +205,7 @@ This cannot be undone.
 Would you like to proceed?</value>
   </data>
   <data name="0066 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Game ~ Puzzle Part</value>
+    <value>Game ~ Puzzle Mode</value>
   </data>
   <data name="0067 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Reset to Default</value>
@@ -380,7 +380,7 @@ Resetting quicksave data.
 Do not turn off the power.</value>
   </data>
   <data name="0055 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Who shall go with Haruhi?</value>
+    <value>Who will go with Haruhi?</value>
   </data>
   <data name="0056 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Kyon will go.</value>
