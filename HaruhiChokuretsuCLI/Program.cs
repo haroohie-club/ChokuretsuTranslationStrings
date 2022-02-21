@@ -30,7 +30,7 @@ namespace HaruhiChokuretsuCLI
         {
             Mode mode = Mode.UNPACK;
             int imageWidth = 0;
-            string inPath = "", outPath = "", replacementFolder = "", langCode = "", fontMapPath = "";
+            string inPath = "", outPath = "", replacementFolder = "", langCode = "", fontMapPath = "", romInfoPath = "";
 
             OptionSet options = new()
             {
@@ -46,6 +46,7 @@ namespace HaruhiChokuretsuCLI
                 { "image-width=", w => imageWidth = int.Parse(w) },
                 { "l|lang-code=", l => langCode = l },
                 { "font-map=", f => fontMapPath = f },
+                { "rom-info=", r => romInfoPath = r },
             };
 
             try
@@ -65,9 +66,13 @@ namespace HaruhiChokuretsuCLI
             else if (mode == Mode.EXTRACT)
             {
                 if (imageWidth != 0)
+                {
                     ExtractSingle(inPath, outPath, imageWidth);
+                }
                 else
+                {
                     ExtractSingle(inPath, outPath);
+                }
             }
             else if (mode == Mode.REPLACE && !string.IsNullOrEmpty(replacementFolder))
             {
@@ -79,7 +84,7 @@ namespace HaruhiChokuretsuCLI
             }
             else if (mode == Mode.PATCH_OVERLAYS && !string.IsNullOrEmpty(replacementFolder))
             {
-                PatchOverlays(inPath, replacementFolder, outPath);
+                PatchOverlays(inPath, replacementFolder, outPath, romInfoPath);
             }
             else
             {
@@ -292,7 +297,7 @@ namespace HaruhiChokuretsuCLI
             }
         }
 
-        private static void PatchOverlays(string inputPatch, string inputFolder, string outputFolder)
+        private static void PatchOverlays(string inputPatch, string inputFolder, string outputFolder, string romInfoPath)
         {
             List<Overlay> overlays = new();
             foreach (string file in Directory.GetFiles(inputFolder))
@@ -309,6 +314,10 @@ namespace HaruhiChokuretsuCLI
                 foreach (OverlayPatchXml patch in overlay.Patches)
                 {
                     overlayToModify.Patch((int)(patch.Location - overlay.Start), patch.Value);
+                }
+                if (overlay.appendFunction is not null)
+                {
+                    overlayToModify.Append(overlay.AppendFunction, romInfoPath);
                 }
             }
 

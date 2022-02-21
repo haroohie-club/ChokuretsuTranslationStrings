@@ -46,6 +46,29 @@ namespace HaruhiChokuretsuLib
             }
             return true;
         }
+        public static byte[] ByteArrayFromString(string s)
+        {
+            if (s.Length % 2 != 0)
+            {
+                throw new ArgumentException($"Invalid string length {s.Length}; must be of even length");
+            }
+            List<byte> bytes = new();
+            for (int i = 0; i < s.Length; i += 2)
+            {
+                bytes.Add(byte.Parse(s[i..(i + 2)], System.Globalization.NumberStyles.HexNumber));
+            }
+            return bytes.ToArray();
+        }
+
+        public static string StringFromByteArray(byte[] ba)
+        {
+            string s = "";
+            foreach (byte b in ba)
+            {
+                s += $"{b:X2}";
+            }
+            return s;
+        }
 
         public static byte[] CompressData(byte[] decompressedData)
         {
