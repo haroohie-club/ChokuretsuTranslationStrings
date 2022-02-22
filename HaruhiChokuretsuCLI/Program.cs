@@ -175,18 +175,27 @@ namespace HaruhiChokuretsuCLI
         /// <param name="index"></param>
         private static void ReplaceSingleGraphicsFile(ArchiveFile<FileInArchive> arc, string filePath, int index)
         {
-            var file = arc.Files.FirstOrDefault(x => x.Index == index);
+            FileInArchive file = arc.Files.FirstOrDefault(x => x.Index == index);
 
-            var decompressedData = Helpers.DecompressData(file.CompressedData);
+            byte[] decompressedData = Helpers.DecompressData(file.CompressedData);
 
-            var grpFile = new GraphicsFile();
+            GraphicsFile grpFile = new GraphicsFile();
             grpFile.Initialize(decompressedData, file.Offset);
             grpFile.Index = index;
 
             if (index == 0xE50)
+            {
                 grpFile.InitializeFontFile();
+            }
 
-            grpFile.SetImage(filePath, filePath.Contains("newpal"));
+            int transparentIndex = -1;
+            Match transparentIndexMatch = Regex.Match(filePath, @"tidx(?<transparentIndex>\d+)");
+            if (transparentIndexMatch.Success)
+            {
+                transparentIndex = int.Parse(transparentIndexMatch.Groups["transparentIndex"].Value);
+            }
+
+            grpFile.SetImage(filePath, setPalette: filePath.Contains("newpal"), transparentIndex: transparentIndex);
 
             arc.Files[arc.Files.IndexOf(file)] = grpFile;
         }

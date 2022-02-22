@@ -148,20 +148,26 @@ namespace HaruhiChokuretsuLib.Archive
             return $"{Index:X3} {Index:D4} 0x{Offset:X8}";
         }
 
-        public Bitmap GetImage(int width = 256)
+        public Bitmap GetImage(int width = 256, int transparentIndex = -1)
         {
             if (IsTexture())
             {
-                return GetTexture(width);
+                return GetTexture(width, transparentIndex);
             }
             else
             {
-                return GetTiles(width);
+                return GetTiles(width, transparentIndex);
             }
         }
 
-        public Bitmap GetTiles(int width = 256)
+        public Bitmap GetTiles(int width = 256, int transparentIndex = -1)
         {
+            Color originalColor = Color.Black;
+            if (transparentIndex >= 0)
+            {
+                originalColor = Palette[transparentIndex];
+                Palette[transparentIndex] = Color.White;
+            }
             if (!VALID_WIDTHS.Contains(width))
             {
                 width = 256;
@@ -198,10 +204,14 @@ namespace HaruhiChokuretsuLib.Archive
                     }
                 }
             }
+            if (transparentIndex >= 0)
+            {
+                Palette[transparentIndex] = originalColor;
+            }
             return bitmap;
         }
 
-        public Bitmap GetTexture(int width)
+        public Bitmap GetTexture(int width, int transparentIndex = -1)
         {
             if (!VALID_WIDTHS.Contains(width))
             {
@@ -232,10 +242,10 @@ namespace HaruhiChokuretsuLib.Archive
         /// </summary>
         /// <param name="bitmapFile">Path to bitmap file to import</param>
         /// <returns>Width of new bitmap image</returns>
-        public int SetImage(string bitmapFile, bool setPalette = false)
+        public int SetImage(string bitmapFile, bool setPalette = false, int transparentIndex = -1)
         {
             Edited = true;
-            return SetImage(new Bitmap(bitmapFile), setPalette);
+            return SetImage(new Bitmap(bitmapFile), setPalette, transparentIndex);
         }
 
         /// <summary>
@@ -243,11 +253,11 @@ namespace HaruhiChokuretsuLib.Archive
         /// </summary>
         /// <param name="bitmap">Bitmap image in memory</param>
         /// <returns>Width of new bitmap image</returns>
-        public int SetImage(Bitmap bitmap, bool setPalette = false)
+        public int SetImage(Bitmap bitmap, bool setPalette = false, int transparentIndex = -1)
         {
             if (setPalette)
             {
-                SetPaletteFromImage(bitmap);
+                SetPaletteFromImage(bitmap, transparentIndex);
             }
 
             if (IsTexture())
@@ -260,11 +270,25 @@ namespace HaruhiChokuretsuLib.Archive
             }
         }
 
-        public void SetPaletteFromImage(Bitmap bitmap)
+        public void SetPaletteFromImage(Bitmap bitmap, int transparentIndex = -1)
         {
-            Palette = Helpers.GetPaletteFromImage(bitmap, Palette.Count);
+            int numColors = Palette.Count;
+            if (transparentIndex >= 0)
+            {
+                numColors--;
+            }
+            Palette = Helpers.GetPaletteFromImage(bitmap, numColors);
+            for (int i = Palette.Count; i < numColors; i++)
+            {
+                Palette.Add(Color.Black);
+            }
+            if (transparentIndex >= 0)
+            {
+                Palette.Insert(transparentIndex, Color.Transparent);
+            }
+
             PaletteData = new();
-            Console.Write($"Generating new palette for grp_{Index:X3}... ");
+            Console.Write($"Generating new palette for #{Index:X3}... ");
 
             for (int i = 0; i < Palette.Count; i++)
             {

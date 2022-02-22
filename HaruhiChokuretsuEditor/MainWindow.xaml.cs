@@ -498,7 +498,7 @@ namespace HaruhiChokuretsuEditor
                     GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
                     int width = selectedFile.SetImage(openFileDialog.FileName);
                     tilesEditStackPanel.Children.RemoveAt(tilesEditStackPanel.Children.Count - 1);
-                    tilesEditStackPanel.Children.Add(new Image { Source = GuiHelpers.GetBitmapImageFromBitmap(selectedFile.GetImage(width)), MaxWidth = 256 });
+                    tilesEditStackPanel.Children.Add(new Image { Source = GuiHelpers.GetBitmapImageFromBitmap(selectedFile.GetImage(width, 0)), MaxWidth = 256 });
                     _currentImageWidth = width;
                 }
             }
@@ -515,9 +515,9 @@ namespace HaruhiChokuretsuEditor
                 if (openFileDialog.ShowDialog() == true)
                 {
                     GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
-                    int width = selectedFile.SetImage(openFileDialog.FileName, true);
+                    int width = selectedFile.SetImage(openFileDialog.FileName, setPalette: true, transparentIndex: 0);
                     tilesEditStackPanel.Children.RemoveAt(tilesEditStackPanel.Children.Count - 1);
-                    tilesEditStackPanel.Children.Add(new Image { Source = GuiHelpers.GetBitmapImageFromBitmap(selectedFile.GetImage(width)), MaxWidth = 256 });
+                    tilesEditStackPanel.Children.Add(new Image { Source = GuiHelpers.GetBitmapImageFromBitmap(selectedFile.GetImage(width, 0)), MaxWidth = 256 });
                     _currentImageWidth = width;
                 }
             }
