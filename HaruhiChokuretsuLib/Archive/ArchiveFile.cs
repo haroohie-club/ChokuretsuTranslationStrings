@@ -221,7 +221,7 @@ namespace HaruhiChokuretsuLib.Archive
             Header.RemoveRange(0, 4);
             Header.InsertRange(0, BitConverter.GetBytes(NumItems));
             file.Index = Files.Max(f => f.Index) + 1;
-            Console.Write($"New file #{file.Index:X3} will be placed at offset 0x{file.Offset:X8}...");
+            Console.Write($"New file #{file.Index:X3} will be placed at offset 0x{file.Offset:X8}... ");
             file.Length = file.CompressedData.Length + (0x800 - (file.CompressedData.Length % 0x800) == 0 ? 0 : 0x800 - (file.CompressedData.Length % 0x800));
             file.MagicInteger = GetNewMagicalInteger(file, file.CompressedData.Length);
             uint secondHeaderNumber = 0xC0C0C0C0;
