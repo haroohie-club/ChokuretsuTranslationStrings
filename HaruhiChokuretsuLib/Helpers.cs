@@ -70,6 +70,133 @@ namespace HaruhiChokuretsuLib
             return s;
         }
 
+        public static List<Color> GetPaletteFromImage(Bitmap bitmap, int numberOfColors)
+        {
+            // Adapted from https://github.com/antigones/palette_extraction
+
+            List<Color> palette = new();
+
+            List<Color> firstBin = new();
+
+            for (int x = 0; x < bitmap.Width; x++)
+            {
+                for (int y = 0; y < bitmap.Height; y++)
+                {
+                    firstBin.Add(bitmap.GetPixel(x, y));
+                }
+            }
+
+            List<List<Color>> bins = new();
+            bins.Add(firstBin);
+            bins = ProcessBins(0, bins, numberOfColors);
+
+            return bins.Select(b => Color.FromArgb((int)b.Average(c => c.R), (int)b.Average(c => c.G), (int)b.Average(c => c.B))).ToList();
+        }
+
+        private static List<List<Color>> ProcessBins(int i, List<List<Color>> bins, int maxNumberBins)
+        {
+            if (i < maxNumberBins - 1)
+            {
+                List<(ColorComponent component, List<(List<byte> componentValues, int index)> valueRanges)> componentRanges = new()
+                {
+                    (ColorComponent.R, bins.Select(b => (b.Select(c => c.R).OrderBy(c => c).ToList(), bins.IndexOf(b))).ToList()),
+                    (ColorComponent.G, bins.Select(b => (b.Select(c => c.G).OrderBy(c => c).ToList(), bins.IndexOf(b))).ToList()),
+                    (ColorComponent.B, bins.Select(b => (b.Select(c => c.B).OrderBy(c => c).ToList(), bins.IndexOf(b))).ToList()),
+                };
+                List<(ColorComponent component, List<byte> componentValues, int index)> componentRangesCollapsed =
+                    componentRanges.SelectMany(r => r.valueRanges.Select(v => (r.component, v.componentValues, v.index)))
+                    .OrderByDescending(r => r.componentValues.Max() - r.componentValues.Min())
+                    .ToList();
+
+                int medianValue = (int)componentRangesCollapsed[0].componentValues.Average(v => (double)v);
+                int indexToSplitAt = componentRangesCollapsed[0].index;
+
+                List<Color> bin = bins[indexToSplitAt];
+                bins.RemoveAt(indexToSplitAt);
+                bins.InsertRange(indexToSplitAt, SplitPixels(bin, medianValue, componentRangesCollapsed[0].component));
+
+                return ProcessBins(i + 1, bins, maxNumberBins);
+            }
+            else
+            {
+                return bins;
+            }
+        }
+
+        private static List<List<Color>> SplitPixels(List<Color> colors, int medianValue, ColorComponent component)
+        {
+            List<List<Color>> bins = new() { new(), new() };
+
+            switch (component)
+            {
+                case ColorComponent.R:
+                    foreach (Color color in colors)
+                    {
+                        if (color.R <= medianValue)
+                        {
+                            bins[0].Add(color);
+                        }
+                        else
+                        {
+                            bins[1].Add(color);
+                        }
+                    }
+                    break;
+                case ColorComponent.G:
+                    foreach (Color color in colors)
+                    {
+                        if (color.G <= medianValue)
+                        {
+                            bins[0].Add(color);
+                        }
+                        else
+                        {
+                            bins[1].Add(color);
+                        }
+                    }
+                    break;
+                case ColorComponent.B:
+                    foreach (Color color in colors)
+                    {
+                        if (color.B <= medianValue)
+                        {
+                            bins[0].Add(color);
+                        }
+                        else
+                        {
+                            bins[1].Add(color);
+                        }
+                    }
+                    break;
+            }
+
+            return bins;
+        }
+
+        private enum ColorComponent
+        {
+            R,
+            G,
+            B
+        }
+
+        private class RangeInfo
+        {
+            public int Color { get; set; }
+            public int Index { get; set; }
+            public int Range { get; set; }
+            public List<Color> Colors { get; set; }
+            public List<byte> RList => Colors.Select(c => c.R).ToList();
+            public List<byte> GList => Colors.Select(c => c.G).ToList();
+            public List<byte> BList => Colors.Select(c => c.B).ToList();
+            public int RMax { get; set; }
+            public int RMin { get; set; }
+            public int GMax { get; set; }
+            public int GMin { get; set; }
+            public int BMax { get; set; }
+            public int BMin { get; set; }
+        }
+
         public static byte[] CompressData(byte[] decompressedData)
         {
             // nonsense hack to deal with a rare edge case where the last byte of a file could get dropped

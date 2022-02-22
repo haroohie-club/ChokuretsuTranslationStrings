@@ -504,6 +504,25 @@ namespace HaruhiChokuretsuEditor
             }
         }
 
+        private void ImportGraphicsImageWithPaletteFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (graphicsListBox.SelectedIndex >= 0 && (((GraphicsFile)graphicsListBox.SelectedItem).PixelData?.Count ?? 0) > 0)
+            {
+                OpenFileDialog openFileDialog = new()
+                {
+                    Filter = "PNG file|*.png"
+                };
+                if (openFileDialog.ShowDialog() == true)
+                {
+                    GraphicsFile selectedFile = (GraphicsFile)graphicsListBox.SelectedItem;
+                    int width = selectedFile.SetImage(openFileDialog.FileName, true);
+                    tilesEditStackPanel.Children.RemoveAt(tilesEditStackPanel.Children.Count - 1);
+                    tilesEditStackPanel.Children.Add(new Image { Source = GuiHelpers.GetBitmapImageFromBitmap(selectedFile.GetImage(width)), MaxWidth = 256 });
+                    _currentImageWidth = width;
+                }
+            }
+        }
+
         private void GraphicsListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             tilesEditStackPanel.Children.Clear();

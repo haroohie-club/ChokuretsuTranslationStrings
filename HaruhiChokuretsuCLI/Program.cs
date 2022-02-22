@@ -186,7 +186,7 @@ namespace HaruhiChokuretsuCLI
             if (index == 0xE50)
                 grpFile.InitializeFontFile();
 
-            grpFile.SetImage(filePath);
+            grpFile.SetImage(filePath, filePath.Contains("newpal"));
 
             arc.Files[arc.Files.IndexOf(file)] = grpFile;
         }

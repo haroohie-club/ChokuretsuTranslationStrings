@@ -232,10 +232,10 @@ namespace HaruhiChokuretsuLib.Archive
         /// </summary>
         /// <param name="bitmapFile">Path to bitmap file to import</param>
         /// <returns>Width of new bitmap image</returns>
-        public int SetImage(string bitmapFile)
+        public int SetImage(string bitmapFile, bool setPalette = false)
         {
             Edited = true;
-            return SetImage(new Bitmap(bitmapFile));
+            return SetImage(new Bitmap(bitmapFile), setPalette);
         }
 
         /// <summary>
@@ -243,8 +243,13 @@ namespace HaruhiChokuretsuLib.Archive
         /// </summary>
         /// <param name="bitmap">Bitmap image in memory</param>
         /// <returns>Width of new bitmap image</returns>
-        public int SetImage(Bitmap bitmap)
+        public int SetImage(Bitmap bitmap, bool setPalette = false)
         {
+            if (setPalette)
+            {
+                SetPaletteFromImage(bitmap);
+            }
+
             if (IsTexture())
             {
                 return SetTexture(bitmap);
@@ -252,6 +257,19 @@ namespace HaruhiChokuretsuLib.Archive
             else
             {
                 return SetTiles(bitmap);
+            }
+        }
+
+        public void SetPaletteFromImage(Bitmap bitmap)
+        {
+            Palette = Helpers.GetPaletteFromImage(bitmap, Palette.Count);
+            PaletteData = new();
+            Console.Write($"Generating new palette for grp_{Index:X3}... ");
+
+            for (int i = 0; i < Palette.Count; i++)
+            {
+                byte[] color = BitConverter.GetBytes((short)((Palette[i].R / 8) | ((Palette[i].G / 8) << 5) | ((Palette[i].B / 8) << 10)));
+                PaletteData.AddRange(color);
             }
         }
 
