@@ -96,11 +96,17 @@ namespace HaruhiChokuretsuCLI
         {
             try
             {
-                var fileInfo = new FileInfo(filePath);
-                var fileName = fileInfo.Name.Replace(fileInfo.Extension, "");
+                string fileName = Path.GetFileNameWithoutExtension(filePath);
 
-                if (fileName.Contains("ignore"))
+                if (fileName.Contains("ignore", StringComparison.OrdinalIgnoreCase))
+                {
                     return null;
+                }
+
+                if (fileName.StartsWith("new", StringComparison.OrdinalIgnoreCase))
+                {
+                    return -1;
+                }
 
                 return int.Parse(fileName.Split('_')[0], NumberStyles.HexNumber);
             }
@@ -200,6 +206,13 @@ namespace HaruhiChokuretsuCLI
             arc.Files[arc.Files.IndexOf(file)] = grpFile;
         }
 
+        private static void AddGraphicsFile(ArchiveFile<FileInArchive> arc, string filePath)
+        {
+            GraphicsFile graphicsFile = new();
+            graphicsFile.NewFile(filePath);
+            arc.AddFile(graphicsFile);
+        }
+
         /// <summary>
         /// Replace any compressed file type
         /// </summary>
@@ -235,15 +248,26 @@ namespace HaruhiChokuretsuCLI
 
                     if (index.HasValue)
                     {
-                        Console.Write($"Replacing #{index:X3}... ");
+                        if (index >= 0)
+                        {
+                            Console.Write($"Replacing #{index:X3}... ");
+                        }
+                        else
+                        {
+                            Console.Write($"Adding new file from {Path.GetFileName(filePath)}... ");
+                        }
 
                         try
                         {
-                            if (filePath.ToLower().EndsWith(".bin"))
+                            if (Path.GetFileName(filePath).StartsWith("new", StringComparison.OrdinalIgnoreCase) && inputArcName.StartsWith("grp", StringComparison.OrdinalIgnoreCase))
+                            {
+                                AddGraphicsFile(arc, filePath);
+                            }
+                            else if (filePath.EndsWith(".bin", StringComparison.OrdinalIgnoreCase))
                             {
                                 ReplaceSingleFile(arc, filePath, index.Value);
                             }
-                            else if (inputArcName.ToLower().StartsWith("grp"))
+                            else if (inputArcName.StartsWith("grp", StringComparison.OrdinalIgnoreCase))
                             {
                                 ReplaceSingleGraphicsFile(arc, filePath, index.Value);
                             }
@@ -306,6 +330,13 @@ namespace HaruhiChokuretsuCLI
             }
         }
 
+        /// <summary>
+        /// Patches overlays given an XML file with a Riivolution-style patch format and a path to the rominfo.xml file
+        /// </summary>
+        /// <param name="inputPatch">The Riivolution-style patch XML document</param>
+        /// <param name="inputFolder">The folder containing unpatched overlays</param>
+        /// <param name="outputFolder">The folder where patched overlays should be placed</param>
+        /// <param name="romInfoPath">The path to the rominfo.xml that contains an overlay table (will be modified in place)</param>
         private static void PatchOverlays(string inputPatch, string inputFolder, string outputFolder, string romInfoPath)
         {
             List<Overlay> overlays = new();

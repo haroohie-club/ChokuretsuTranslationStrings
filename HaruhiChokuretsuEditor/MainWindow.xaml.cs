@@ -523,6 +523,19 @@ namespace HaruhiChokuretsuEditor
             }
         }
 
+        private void AddGraphicsImaageFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openFileDialog = new()
+            {
+                Filter = "PNG file|*.png"
+            };
+            if (openFileDialog.ShowDialog() == true)
+            {
+                _grpFile.AddFile(openFileDialog.FileName);
+                graphicsListBox.Items.Refresh();
+            }
+        }
+
         private void GraphicsListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             tilesEditStackPanel.Children.Clear();

@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace HaruhiChokuretsuLib.Archive
@@ -13,6 +15,7 @@ namespace HaruhiChokuretsuLib.Archive
         public List<Color> Palette { get; set; } = new();
         public List<byte> PixelData { get; set; }
         public TileForm ImageTileForm { get; set; }
+        public Form ImageForm { get; set; }
         public bool Shtxds { get; set; } = false;
 
         private readonly static int[] VALID_WIDTHS = new int[] { 8, 16, 32, 64, 128, 256, 512 };
@@ -22,6 +25,13 @@ namespace HaruhiChokuretsuLib.Archive
             // corresponds to number of colors
             GBA_4BPP = 0x10,
             GBA_8BPP = 0x100,
+        }
+
+        public enum Form
+        {
+            UNKNOWN,
+            TEXTURE,
+            TILE
         }
 
         public override void Initialize(byte[] decompressedData, int offset)
@@ -57,14 +67,50 @@ namespace HaruhiChokuretsuLib.Archive
 
         public override void NewFile(string filename)
         {
-            string[] fileComponents = filename.Split('_');
-            ImageTileForm = (TileForm)Enum.Parse(typeof(TileForm), fileComponents[1]);
+            Bitmap bitmap = new Bitmap(filename);
+            string[] fileComponents = Path.GetFileNameWithoutExtension(filename).Split('_');
+            ImageTileForm = fileComponents[1].ToLower() switch
+            {
+                "4bpp" => TileForm.GBA_4BPP,
+                "8bpp" => TileForm.GBA_8BPP,
+                _ => throw new ArgumentException($"Image {filename} does not have its tile form (second argument should be '4BPP' or '8BPP')")
+            };
+            ImageForm = fileComponents[2].ToLower() switch
+            {
+                "texture" => Form.TEXTURE,
+                "tile" => Form.TILE,
+                _ => throw new ArgumentException($"Image {filename} does not have its image form (third argument should be 'texture' or 'tile')")
+            };
             Data = new();
             Shtxds = true;
+            int transparentIndex = -1;
+            Match transparentIndexMatch = Regex.Match(filename, @"tidx(?<transparentIndex>\d+)");
+            if (transparentIndexMatch.Success)
+            {
+                transparentIndex = int.Parse(transparentIndexMatch.Groups["transparentIndex"].Value);
+            }
+
+            PaletteData = new();
+            PixelData = new();
+            if (ImageTileForm == TileForm.GBA_4BPP)
+            {
+                Palette.AddRange(new Color[16]);
+                PaletteData.AddRange(new byte[0x60]);
+                PixelData.AddRange(new byte[bitmap.Width * bitmap.Height / 2]);
+            }
+            else
+            {
+                Palette.AddRange(new Color[256]);
+                PaletteData.AddRange(new byte[512]);
+                PixelData.AddRange(new byte[bitmap.Width * bitmap.Height]);
+            }
             Data.AddRange(Encoding.ASCII.GetBytes("SHTXDS"));
             Data.AddRange(BitConverter.GetBytes((short)ImageTileForm));
-            Data.AddRange(new byte[] { 0x01, 0x00, 0x00, 0x01, 0x40, 0x00, 0x08, 0x06, 0x00, 0x80, 0x00, 0x00 }); // mode for each short
-            
+            Data.AddRange(new byte[] { 0x01, 0x00, 0x00, 0x01, 0xC0, 0x00, 0x08, 0x08, 0x00, 0xC0, 0x00, 0x00 }); // mode for each short
+            Data.AddRange(PaletteData);
+            Data.AddRange(PixelData);
+
+            SetImage(bitmap, setPalette: true, transparentIndex: transparentIndex);
         }
 
         public void InitializeFontFile()
@@ -97,7 +143,8 @@ namespace HaruhiChokuretsuLib.Archive
         // Hardcoding these until we figure out how the game knows what to do lol
         public bool IsTexture()
         {
-            return (Index < 0x19E || Index > 0x1A7)
+            return ImageForm != Form.TILE
+                && (Index < 0x19E || Index > 0x1A7)
                 && Index != 0x2C0
                 && (Index < 0x2C4 || Index > 0x2C6)
                 && Index != 0x2C8 && Index != 0x2CA
@@ -118,7 +165,7 @@ namespace HaruhiChokuretsuLib.Archive
                 && (Index < 0xDFB || Index > 0xE08)
                 && (Index < 0xE0E || Index > 0xE10)
                 && (Index < 0xE17 || Index > 0xE25)
-                && (Index < 0xE2A || Index > 0xE41) 
+                && (Index < 0xE2A || Index > 0xE41)
                 && Index != 0xE50;
         }
 

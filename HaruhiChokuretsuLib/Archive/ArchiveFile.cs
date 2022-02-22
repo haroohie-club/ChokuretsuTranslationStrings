@@ -207,20 +207,27 @@ namespace HaruhiChokuretsuLib.Archive
         public void AddFile(string filename)
         {
             T file = new();
+            Console.WriteLine($"Creating new file from {Path.GetFileName(filename)}... ");
             file.NewFile(filename);
             AddFile(file);
         }
 
         public void AddFile(T file)
         {
-            file.CompressedData = Helpers.CompressData(file.Data.ToArray());
+            file.Edited = true;
+            file.CompressedData = Helpers.CompressData(file.GetBytes());
             file.Offset = GetBytes().Length;
-            file.Index = NumItems++;
+            NumItems++;
+            Header.RemoveRange(0, 4);
+            Header.InsertRange(0, BitConverter.GetBytes(NumItems));
+            file.Index = Files.Max(f => f.Index) + 1;
+            Console.Write($"New file #{file.Index:X3} will be placed at offset 0x{file.Offset:X8}...");
+            file.Length = file.CompressedData.Length + (0x800 - (file.CompressedData.Length % 0x800) == 0 ? 0 : 0x800 - (file.CompressedData.Length % 0x800));
             file.MagicInteger = GetNewMagicalInteger(file, file.CompressedData.Length);
             uint secondHeaderNumber = 0xC0C0C0C0;
-            Header.InsertRange(0x20 + HeaderPointers.Count * 4, BitConverter.GetBytes(file.MagicInteger));
+            Header.InsertRange(0x1C + HeaderPointers.Count * 4, BitConverter.GetBytes(file.MagicInteger));
             HeaderPointers.Add(file.MagicInteger);
-            Header.InsertRange(0x20 + HeaderPointers.Count * 4 + SecondHeaderNumbers.Count * 4, BitConverter.GetBytes(secondHeaderNumber));
+            Header.InsertRange(0x1C + HeaderPointers.Count * 4 + SecondHeaderNumbers.Count * 4, BitConverter.GetBytes(secondHeaderNumber));
             SecondHeaderNumbers.Add(secondHeaderNumber);
             FinalHeaderComponent.RemoveRange(FinalHeaderComponent.Count - 8, 8);
             Files.Add(file);
