@@ -62,19 +62,19 @@
     <value>#P04Accident Occurred!</value>
   </data>
   <data name="0001 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>When an "Accident" happens, the "Haruhi Route" is displayed on top of the top screen.</value>
+    <value>An "Accident" is a compulsory penalty event.</value>
   </data>
   <data name="0002 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>When Haruhi Suzumiya reaches the red "Accident" text...</value>
+    <value>They occur when Haruhi Suzumiya arrives at a red accident point…</value>
   </data>
   <data name="0003 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...a penalty event will occur.</value>
+    <value>…on the Haruhi route on the top screen.</value>
   </data>
   <data name="0004 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>An Accident occurring means the time limit will be decreased substantially.</value>
+    <value>When an accident occurs, the time limit will be decreased substantially.</value>
   </data>
   <data name="0005 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>There are two ways to avoid "Accidents."</value>
+    <value>There are two ways to avoid accidents.</value>
   </data>
   <data name="0006 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04１. Acquire the corresponding "Main Topic."</value>
@@ -83,31 +83,31 @@
     <value>#P04"Topic" is a general term for a keyword or item that serves to distract Haruhi...</value>
   </data>
   <data name="0008 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04...or keep her delayed.</value>
+    <value>#P04...or temporarily hinder her progression.</value>
   </data>
   <data name="0009 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04Which one you obtain is based on what member is distracting Haruhi in the story.</value>
+    <value>#P04You can obtain them in events that occur during the story, depending on your…</value>
   </data>
   <data name="0010 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04It is possible to distribute group members in a pattern that...</value>
+    <value>#P04…brigade member allotment. With allotting your brigade members in different ways, you will…</value>
   </data>
   <data name="0011 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04...allows each member to potentially receive a different "Topic."</value>
+    <value>#P04…have the opportunity to aquire various differing topics.</value>
   </data>
   <data name="0012 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04There are four types of Topics.</value>
   </data>
   <data name="0013 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04A "Main Topic" affects the story.</value>
+    <value>#P04"Main Topics" concern the story—</value>
   </data>
   <data name="0014 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04"Haruhi Topics" affect Haruhi Suzumiya's behavior.</value>
+    <value>#P04"Haruhi Topics" concern the individual characteristics of Suzumiya Haruhi—</value>
   </data>
   <data name="0015 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04"Character Topics" affect the SOS Brigade member's behavior.</value>
+    <value>#P04"Character Topics" concern the individual characteristics of the SOS Brigade members—</value>
   </data>
   <data name="0016 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04"Sub Topics" are snippets of casual conversations. Those are the four types.</value>
+    <value>#P04And "Sub Topics" are snippets of casual conversations. That concludes the four types.</value>
   </data>
   <data name="0017 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04Among these, acquiring the Main Topic...</value>
@@ -116,25 +116,25 @@
     <value>#P04...will allow you to automatically evade the corresponding Accident.</value>
   </data>
   <data name="0019 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04２. Using the Haruhi Topic.</value>
+    <value>#P04２. Using a Haruhi Topic.</value>
   </data>
   <data name="0020 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04After Goal Distribution, depending on Kyon's actions during the event...</value>
+    <value>#P04Depending on Kyon's actions in the event after goal allotment...</value>
   </data>
   <data name="0021 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04...you will be able to acquire a Haruhi Topic.</value>
+    <value>#P04...in the case you are able to obtain a Haruhi topic…</value>
   </data>
   <data name="0022 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04There are certain unavoidable Accidents you cannot use a Main Topic on.</value>
+    <value>#P04…you can use it on an accident that would normally be unstoppable without a main topic…</value>
   </data>
   <data name="0023 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04But if you use a Haruhi Topic on them, you will be able to evade the Accident.</value>
+    <value>#P04…and forcefully evade it.</value>
   </data>
   <data name="0024 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04However, the Haruhi Topic is more difficult to obtain than the others.</value>
+    <value>#P04However, the Haruhi Topic is more difficult to obtain than the others…</value>
   </data>
   <data name="0025 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04Please think carefully before using them.</value>
+    <value>#P04…so please think carefully before using them.</value>
   </data>
   <data name="0026 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04To compensate, the only Topics that will carry over between episodes...</value>
@@ -143,25 +143,25 @@
     <value>#P04...are Haruhi Topics.</value>
   </data>
   <data name="0028 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04There is one other possible method of evading unavoidable Accidents.</value>
+    <value>#P04If there's nothing you can do to evade an accident, there's another possible method.</value>
   </data>
   <data name="0029 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04Using a Topic on an Event Point above the Haruhi Route...</value>
+    <value>#P04Using a topic at an event point on the Haruhi Route...</value>
   </data>
   <data name="0030 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04...will trigger a Delay Event.</value>
+    <value>#P04...will trigger a delay event.</value>
   </data>
   <data name="0031 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04By presenting a keyword Topic to Haruhi Suzumiya...</value>
+    <value>#P04By presenting a topic keyword to Haruhi Suzumiya...</value>
   </data>
   <data name="0032 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04...it is possible to distract and delay her for a short time.</value>
   </data>
   <data name="0033 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04The time she's delayed for depends on the contents of the Topic and the member with her.</value>
+    <value>#P04The time it can delay her for depends on the details of the topic and the combination of…</value>
   </data>
   <data name="0034 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04Although it could change based on different combinations, in general the order is as follows:</value>
+    <value>#P04…members grouped with Haruhi, but in general the order is as follows:</value>
   </data>
   <data name="0035 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04Haruhi Topic - Large time limit increase.</value>
@@ -173,22 +173,22 @@
     <value>#P04Sub Topic - Small time limit increase.</value>
   </data>
   <data name="0038 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04The Haruhi Topic has the ability to negate Accidents.</value>
+    <value>#P04Haruhi topics also have the ability to negate accidents…</value>
   </data>
   <data name="0039 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04And by delaying her, it will also increase the time limit drastically.</value>
+    <value>#P04…but by using them to delay her, you can drastically increase the time limit.</value>
   </data>
   <data name="0040 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04This increase your options during Investi- gation Mode, letting you search more often.</value>
+    <value>#P04Try to get as many topics as you can in the investigation phase…</value>
   </data>
   <data name="0041 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04Try to get as many Topics as you can.</value>
+    <value>#P04…in order to increase your options in the puzzle phase.</value>
   </data>
   <data name="0042 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04The number of Topics you have and choices you make during conversations are important.</value>
+    <value>#P04The amount of topics you obtain and your response to choices are both important, but...</value>
   </data>
   <data name="0043 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04Allocating group members purposefully is of the utmost importance.</value>
+    <value>#P04…allotting brigade members for the objective is the most important.</value>
   </data>
   <data name="0044 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04Please identify the characteristics of each member and after thinking carefully...</value>
@@ -200,6 +200,6 @@
     <value>#P04The behavior of the members who don't accompany Kyon are also important factors.</value>
   </data>
   <data name="0047 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04Try distributing group members in various ways to test out which combos work best!</value>
+    <value>#P04Try distributing group members in various ways and find out which combos work best!</value>
   </data>
 </root>
