@@ -59,25 +59,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>When the time limit reaches zero that's called "Time Over."</value>
+    <value>The time limit has reached zero. This is "Time Over."</value>
   </data>
   <data name="0001 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>There will be a retry button on the menu allowing you to restart the section.</value>
+    <value>Normally the menu would appear now, and you would be presented with the options to…</value>
   </data>
   <data name="0002 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>You'll have the choice to reload the save and retry, or return to the menu.</value>
+    <value>"Retry" to start the Puzzle Part over, "Load," or "Return to title."</value>
   </data>
   <data name="0003 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>But just this once, we'll be able to continue from right here.</value>
+    <value>But just this once, you can continue from where you left off.</value>
   </data>
   <data name="0004 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>If this were a gameplay section in the main story, this would be game over instead.</value>
+    <value>If this were a Puzzle Part in the main story, this would be game over instead.</value>
   </data>
   <data name="0005 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Please be careful.</value>
+    <value>So please be careful.</value>
   </data>
   <data name="0006 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>You've run out of time this stage, but for future reference...</value>
+    <value>You've run out of time this time, but for future reference...</value>
   </data>
   <data name="0007 (586.ja) INFO (インフォ)" xml:space="preserve">
     <value>...here are some hints to help you achieve victory while searching.</value>
@@ -86,55 +86,55 @@
     <value>1. Try to keep the Haruhi Meter as far to the right as possible.</value>
   </data>
   <data name="0009 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>The further to the right it is, the greater bonus you'll receive to the time limit.</value>
+    <value>By moving the Haruhi meter to the right, you can directly increase your bonus time limit.</value>
   </data>
   <data name="0010 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Besides that...</value>
+    <value>In addition to that…</value>
   </data>
   <data name="0011 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>the Haruhi Route on the top screen will also affect the bonus.</value>
+    <value>…it has an effect on the Haruhi route on the top screen.</value>
   </data>
   <data name="0012 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>The greater the Haruhi Meter, the more the number of "Events" will be reduced...</value>
+    <value>The greater the Haruhi meter, the number and positioning of event points that allow you…</value>
   </data>
   <data name="0013 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...and the more advantageous their positions will be when searching.</value>
+    <value>...to delay Haruhi becomes more advantageous. So be mindful of keeping the…</value>
   </data>
   <data name="0014 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>So please be mindful of keeping the Haruhi Meter to the right.</value>
+    <value>…Haruhi meter as far to the right as possible in the investeigation phase.</value>
   </data>
   <data name="0015 (586.ja) INFO (インフォ)" xml:space="preserve">
     <value>2. Acquire as many Topics as possible.</value>
   </data>
   <data name="0016 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Especially the Character Topics (Mikuru Asahina, Yuki Nagato, and Itsuki Koizumi)...</value>
+    <value>Especially Mikuru Asahina, Yuki Nagato and Itsuki Koizumi's topics, called character topics.</value>
   </data>
   <data name="0017 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...which will power up these playable characters in gameplay...</value>
+    <value>By collecting these, you can power up the playable character or depending on the…</value>
   </data>
   <data name="0018 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...or double their ability to Delay Haruhi.</value>
+    <value>…topic they are used on, can double the delay effect.</value>
   </data>
   <data name="0019 (586.ja) INFO (インフォ)" xml:space="preserve">
     <value>When you use a Character Topic to Delay, you will not gain the effect of their powerup.</value>
   </data>
   <data name="0020 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>So while Investigating, think about who would be the best Topic to use in this situation...</value>
+    <value>So while Investigating, think about whose topic to use in your situation...</value>
   </data>
   <data name="0021 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...and formulate a detailed strategy to maximize their effectiveness.</value>
+    <value>...and formulate a strategy. That way you will be able to…</value>
   </data>
   <data name="0022 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>That is what you can do with Character Topics.</value>
+    <value>…maximise the use of your character topics.</value>
   </data>
   <data name="0023 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>3. Try to Investigate as efficiently as possible.</value>
+    <value>3. Try to search as efficiently as possible.</value>
   </data>
   <data name="0024 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>If the areas you Investigate overlap each other, or if you use Search Point on every tile...</value>
+    <value>Overlapping your searches, or using point search on every tile...</value>
   </data>
   <data name="0025 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...time will be wasted.</value>
+    <value>...will only serve to lose you time.</value>
   </data>
   <data name="0026 (586.ja) INFO (インフォ)" xml:space="preserve">
     <value>Until you become more experienced, press the Y button to pause each time you Investigate...</value>
@@ -149,7 +149,7 @@
     <value>When an Accident occurs, the time limit is decreased dramatically.</value>
   </data>
   <data name="0030 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>If you acquire a Main Topic, you will be able to avoid that penalty.</value>
+    <value>If you acquire a Main Topic, you will be able to avoid that fundamental penalty.</value>
   </data>
   <data name="0031 (586.ja) INFO (インフォ)" xml:space="preserve">
     <value>When it comes to distributing your group members, setting Kyon to be alone...</value>
@@ -158,36 +158,36 @@
     <value>...will allow you to acquire all of the Main Topics along that route.</value>
   </data>
   <data name="0033 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Checking the Main Topics available for each route...</value>
+    <value>It's generally a good idea to check each of the available main topics…</value>
   </data>
   <data name="0034 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...is a good idea.</value>
+    <value>...on each route.</value>
   </data>
   <data name="0035 (586.ja) INFO (インフォ)" xml:space="preserve">
     <value>For those saying "I can't beat it no matter what!" or "I want to progress faster!"...</value>
   </data>
   <data name="0036 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...select "Investigation Mode" from the system settings in the config menu.</value>
+    <value>...select "Puzzle Phase" from the system settings in the config menu.</value>
   </data>
   <data name="0037 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>From there you can change the "Topic Stock Mode" option to ON.</value>
+    <value>From there you can turn on "Topic Stock Mode."</value>
   </data>
   <data name="0038 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>That will give you all of the Topics that you acquired in Investigation Mode...</value>
+    <value>In each puzzle part, you'll be able to bring in all of the usable topics that…</value>
   </data>
   <data name="0039 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...and let you use them freely.</value>
+    <value>...you have obtained.</value>
   </data>
   <data name="0040 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>If you play Investigation Mode a few times and save the data, you will have plenty of Topics.</value>
+    <value>If you play Investigation Mode a few times and save the data, you will have plenty of…</value>
   </data>
   <data name="0041 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>You will be able to keep using them as you play more.</value>
+    <value>…topics to bring to use in the puzzle part.</value>
   </data>
   <data name="0042 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Turning "Topic Stock Mode" on...</value>
+    <value>Even if you turn "Topic Stock Mode" on...</value>
   </data>
   <data name="0043 (586.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...will have no other effect on the game's content.</value>
+    <value>...it will have no other effect on the game's content.</value>
   </data>
 </root>

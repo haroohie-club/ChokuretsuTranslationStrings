@@ -446,10 +446,10 @@
     <value>I can't see anything equals there's nothing there!</value>
   </data>
   <data name="0131 (373.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>I tried to convince myself as I chased after Nagato.</value>
+    <value>I tried to convince myself of that as I chased after Nagato.</value>
   </data>
   <data name="0132 (373.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>When we were looking around here with Haruhi, just what did Nagato see?</value>
+    <value>Did Nagato see something when Haruhi was dragging her around to look at places…?</value>
   </data>
   <data name="0133 (373.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>I became worried all over again.</value>
@@ -458,12 +458,12 @@
     <value>She does seem like a cat.</value>
   </data>
   <data name="0135 (373.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>I don't think so.</value>
+    <value>Don't think so</value>
   </data>
   <data name="0136 (373.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Ask Nagato.</value>
+    <value>Ask Nagato</value>
   </data>
   <data name="0137 (373.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Don't ask Nagato.</value>
+    <value>Don't ask Nagato</value>
   </data>
 </root>
