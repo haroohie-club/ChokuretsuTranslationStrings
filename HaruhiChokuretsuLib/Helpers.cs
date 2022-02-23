@@ -180,23 +180,6 @@ namespace HaruhiChokuretsuLib
             B
         }
 
-        private class RangeInfo
-        {
-            public int Color { get; set; }
-            public int Index { get; set; }
-            public int Range { get; set; }
-            public List<Color> Colors { get; set; }
-            public List<byte> RList => Colors.Select(c => c.R).ToList();
-            public List<byte> GList => Colors.Select(c => c.G).ToList();
-            public List<byte> BList => Colors.Select(c => c.B).ToList();
-            public int RMax { get; set; }
-            public int RMin { get; set; }
-            public int GMax { get; set; }
-            public int GMin { get; set; }
-            public int BMax { get; set; }
-            public int BMin { get; set; }
-        }
-
         public static byte[] CompressData(byte[] decompressedData)
         {
             // nonsense hack to deal with a rare edge case where the last byte of a file could get dropped
