@@ -65,10 +65,10 @@
     <value>Huh, it's pretty rare for you to call me Brigade Chief.</value>
   </data>
   <data name="0002 (094.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Well, I'm in the right mood to. It's what I want to talk about.</value>
+    <value>I'm in the right mood to. It's what I want to talk about.</value>
   </data>
   <data name="0003 (094.ja) KYON (キョン)" xml:space="preserve">
-    <value>Well, it's just… There's something I want to ask you, Brigade Chief.</value>
+    <value>Well, it's just… There's something I want to ask you, the Brigade Chief.</value>
   </data>
   <data name="0004 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Can't we do this later? We're busy right now.</value>
@@ -86,291 +86,250 @@
     <value>There's only one SOS Brigade Chief! It's impossible for it to be anyone but me.</value>
   </data>
   <data name="0009 (094.ja) KYON (キョン)" xml:space="preserve">
-    <value>それはそうかも知れんが</value>
+    <value>That might be true, but…</value>
   </data>
   <data name="0010 (094.ja) KYON (キョン)" xml:space="preserve">
-    <value>学校には同好会として申請した
-経緯があるわけだし</value>
+    <value>We applied to the school as an interest club and stuff.</value>
   </data>
   <data name="0011 (094.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>まあ、受理されなかったけどな</value>
+    <value>Well, not that we were accepted.</value>
   </data>
   <data name="0012 (094.ja) KYON (キョン)" xml:space="preserve">
-    <value>それに、来年に後輩とか入るかも
-しれないだろ</value>
+    <value>And then next year we might have new students join, right?</value>
   </data>
   <data name="0013 (094.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>俺としては、そんなことはないと
-否定したいところだがな</value>
+    <value>Though if you asked me, I'd deny any possibility of that.</value>
   </data>
   <data name="0014 (094.ja) KYON (キョン)" xml:space="preserve">
-    <value>さらに言えばだ、いずれ俺たちは
-卒業していなくなるわけだ</value>
+    <value>What's more—eventually we'll graduate and have to leave.</value>
   </data>
   <data name="0015 (094.ja) KYON (キョン)" xml:space="preserve">
-    <value>その時、残ったＳＯＳ団はどうする
-つもりなんだ？</value>
+    <value>What are you going to do about the remaining SOS Brigade then?</value>
   </data>
   <data name="0016 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>そうね……その頃にはＳＯＳ団も
-世界規模に拡大してるでしょうし</value>
+    <value>Right… Well at that point the SOS Brigade will have expanded worldwide and stuff.</value>
   </data>
   <data name="0017 (094.ja) KYON (キョン)" xml:space="preserve">
-    <value>は……？</value>
+    <value>Huh…?</value>
   </data>
   <data name="0018 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ＳＯＳ団発祥の場所として残して
-おくっていう手はあるわね</value>
+    <value>We could always leave them with this place as the SOS Brigade birthplace.</value>
   </data>
   <data name="0019 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>でもその時には、ちゃんと後継者を</value>
+    <value>But at that time we'll probably need…</value>
   </data>
   <data name="0020 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>選ばないといけないかも知れない
-わね</value>
+    <value>…to choose a successor carefully.</value>
   </data>
   <data name="0021 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>もちろん、このあたしが自ら面接
-して、優秀な人材を選びだすほか</value>
+    <value>Of course, I'll need to personally hold interviews…</value>
   </data>
   <data name="0022 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ないわね</value>
+    <value>…to pick out the perfect candidate.</value>
   </data>
   <data name="0023 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>もっとも、このあたしのメガネに
-適う人材がいるのかしらね</value>
+    <value>But then, I'm not sure if someone who can live up to my standard even exists.</value>
   </data>
   <data name="0024 (094.ja) KYON (キョン)" xml:space="preserve">
-    <value>ああ、そうかい</value>
+    <value>Ah, is that right.</value>
   </data>
   <data name="0025 (094.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>その時もまだ、俺はこいつにコキ使
-われてるのだろうか</value>
+    <value>I wonder if she'll still be dragging me around, working me to death by then.</value>
   </data>
   <data name="0026 (094.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>あまり、考えたくないな……</value>
+    <value>I don't want to think about it too much…</value>
   </data>
   <data name="0027 (094.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>す、涼宮さん！</value>
+    <value>S-Suzumiya!</value>
   </data>
   <data name="0028 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ん？　なに、みくるちゃん</value>
+    <value>Hm? What is it, Mikuru?</value>
   </data>
   <data name="0029 (094.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>えーと、その、えーと……</value>
+    <value>Umm, the, umm…</value>
   </data>
   <data name="0030 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>急に呼び止めてどうしたの？</value>
+    <value>What did you suddenly call me for?</value>
   </data>
   <data name="0031 (094.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>う、うう……</value>
+    <value>U-uhh…</value>
   </data>
   <data name="0032 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>もうっ、はっきりしなさい！
-言いたいことがあるならズバっと！</value>
+    <value>Just spit it out! If there's something you want to say, then get straight to the point!</value>
   </data>
   <data name="0033 (094.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>あ、あのですね……</value>
+    <value>I-it's just…</value>
   </data>
   <data name="0034 (094.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>だ、団長になるにはどうしたら
-いいんでしょうか！</value>
+    <value>Wh-what do you need to do to become Brigade Chief?!</value>
   </data>
   <data name="0035 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>……は？</value>
+    <value>…Huh?</value>
   </data>
   <data name="0036 (094.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>あ、あれ？　あたし、もしかして
-変なこと言っちゃいました！？</value>
+    <value>Wh-what? Was that maybe a weird thing to ask?!</value>
   </data>
   <data name="0037 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ふうん……団長になりたいの</value>
+    <value>Hmmm… So you wanna become Brigade Chief?</value>
   </data>
   <data name="0038 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>みくるちゃんにしては、ずいぶんと
-大胆な発言をしたものねぇ</value>
+    <value>That's a surprisingly bold thing for you to say, Mikuru</value>
   </data>
   <data name="0039 (094.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>はうぅ、いえ、そ、そうじゃなくて</value>
+    <value>Ehh, no, i-it's not like that—</value>
   </data>
   <data name="0040 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>いいわ、教えてあげる</value>
+    <value>It's fine, I'll tell you.</value>
   </data>
   <data name="0041 (094.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>へ……？</value>
+    <value>Huh…?</value>
   </data>
   <data name="0042 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ＳＯＳ団の団長になるためには……</value>
+    <value>In order to become the SOS Brigade's Brigade Chief, you have to…</value>
   </data>
   <data name="0043 (094.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>なるためには……</value>
+    <value>You have to…</value>
   </data>
   <data name="0044 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>まずは、最低でもこのあたしを倒す
-ことよ！</value>
+    <value>First, you at least have to defeat me!</value>
   </data>
   <data name="0045 (094.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>ひええ！？　涼宮さんをですかぁ！</value>
+    <value>Eek?! Defeat you?!</value>
   </data>
   <data name="0046 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>当然よっ！</value>
+    <value>Of course!</value>
   </data>
   <data name="0047 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>古代ローマじゃ、王になるためには
-前の王を倒さなければならないの！</value>
+    <value>In ancient Rome, you had to defeat the emperor to become the new emperor!</value>
   </data>
   <data name="0048 (094.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>えええ！？</value>
+    <value>Ehhhh?!</value>
   </data>
   <data name="0049 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ＳＯＳ団も同じなのよ！</value>
+    <value>The SOS Brigade works the same!</value>
   </data>
   <data name="0050 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>このあたしが実力を認めた相手のみ
-次期団長となることが許されるの</value>
+    <value>I'll only let those whose strength I've tested myself become our next Brigade Chief.</value>
   </data>
   <data name="0051 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>というわけだから、いつでも
-みくるちゃんの挑戦を受けるわ</value>
+    <value>Having said that—I'll accept your challenge whenever you want, Mikuru.</value>
   </data>
   <data name="0052 (094.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>あ、あたし別に団長なんて……</value>
+    <value>I-I don't particularly wa—</value>
   </data>
   <data name="0053 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>そうだわ、古泉君や有希も呼んで
-トーナメント戦にしましょ！</value>
+    <value>Oh yeah! Call Koizumi and Yuki over and we'll have a tournament!</value>
   </data>
   <data name="0054 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>というのは全部冗談よ</value>
+    <value>I'm just kidding about all that.</value>
   </data>
   <data name="0055 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ＳＯＳ団、団長の地位はね、唯一
-無二で絶対不可侵の存在なのよ</value>
+    <value>The status of SOS Brigade Chief—it's a unique and irreplacable way of being.</value>
   </data>
   <data name="0056 (094.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>もちろんですよね
-わかってました</value>
+    <value>Of course. I understand.</value>
   </data>
   <data name="0057 (094.ja) NAGATO (長門)" xml:space="preserve">
-    <value>ＳＯＳ団団長とは、なに？</value>
+    <value>What is an SOS Brigade Chief?</value>
   </data>
   <data name="0058 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>有希にしては珍しいこと聞くのね</value>
+    <value>That's a strange thing for you to ask, Yuki.</value>
   </data>
   <data name="0059 (094.ja) NAGATO (長門)" xml:space="preserve">
-    <value>どのような存在なのか興味深い</value>
+    <value>I'm deeply interested in what kind of being it is.</value>
   </data>
   <data name="0060 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>そうね。まあひとことで言えば……</value>
+    <value>Hmm, right. Well if I were to sum it up…</value>
   </data>
   <data name="0061 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>
-このあたし、涼宮ハルヒってことね</value>
+It's me, Haruhi Suzumiya.</value>
   </data>
   <data name="0062 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ＳＯＳ団の目的とは世界を大いに盛
-り上げること</value>
+    <value>The objective of the SOS Brigade is to greatly liven up the world.</value>
   </data>
   <data name="0063 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>それはなぜかと聞かれれば、要する
-に、あたしが楽しみたいからね</value>
+    <value>Why? Because I want to have fun.</value>
   </data>
   <data name="0064 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>目標としては各国の不思議があたし
-の元にどんどん集まってくる事だわ</value>
+    <value>Our goal is to collect all the mysteries of the world and bring them to me one after another!</value>
   </data>
   <data name="0065 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>そうすれば、きっと世の中がもっと
-もっとおもしろくなると思うの</value>
+    <value>I think doing so will make our society way way more fun.</value>
   </data>
   <data name="0066 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>分かった？</value>
+    <value>Got that?</value>
   </data>
   <data name="0067 (094.ja) NAGATO (長門)" xml:space="preserve">
-    <value>目的は理解した</value>
+    <value>I understand the objective.</value>
   </data>
   <data name="0068 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>そう、良かったわ。だから有希も
-団員として頑張ってちょうだい</value>
+    <value>Alright, great. So do your best as a Brigade Member, okay, Yuki?</value>
   </data>
   <data name="0069 (094.ja) NAGATO (長門)" xml:space="preserve">
-    <value>わかった</value>
+    <value>Understood.</value>
   </data>
   <data name="0070 (094.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>以前からお聞きしたかったのですが</value>
+    <value>I've wanted to ask something for a while.</value>
   </data>
   <data name="0071 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>なに？　古泉くん</value>
+    <value>What is it, Koizumi?</value>
   </data>
   <data name="0072 (094.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>涼宮さんの展望と言いますか
-ＳＯＳ団団長の今後についてです</value>
+    <value>Your prospects, or rather the future of the SOS Brigade Chief.</value>
   </data>
   <data name="0073 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>なるほどね。確かに団員としては
-気になることよね</value>
+    <value>Hmm, I see. Certainly you would be curious, as a Brigade Member.</value>
   </data>
   <data name="0074 (094.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>はい。できれば、ＳＯＳ団として
-この先も末長く活動したいですから</value>
+    <value>Yes. If I can, I'd like to continue my activity within the SOS Brigade for as long as possible.</value>
   </data>
   <data name="0075 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>素晴らしい心がけだわ</value>
+    <value>That's a great attitude.</value>
   </data>
   <data name="0076 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>まあ、ひと言で言えば……
-世界進出かしら</value>
+    <value>Well, if I had to sum it up… Maybe world expansion.</value>
   </data>
   <data name="0077 (094.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>世界進出……ですか</value>
+    <value>World expansion… is it?</value>
   </data>
   <data name="0078 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>そ。今はまだ北高とその周辺地域を
-活動範囲にしてるだけだけど</value>
+    <value>Yep. Right now we're still only using North High and the surrounding area.</value>
   </data>
   <data name="0079 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>この先どんどん範囲を広げていって
-まずは日本全土を</value>
+    <value>From here on out I'd like to expand our area bit by bit. Firstly, mainland Japan.</value>
   </data>
   <data name="0080 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>そしてさらには世界へ活動範囲を広
-げていくつもりよ</value>
+    <value>From there on, I plan to continue to spread our activities around the world.</value>
   </data>
   <data name="0081 (094.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>世界とは……さすが、涼宮さんです
-我々とは視野が違います</value>
+    <value>Worldwide… What else should I expect of Miss Suzumiya? Such greater vision than any of us.</value>
   </data>
   <data name="0082 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>でも、ただ活動してるだけじゃ意味
-がないわ</value>
+    <value>But just being active means nothing.</value>
   </data>
   <data name="0083 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>重要なのは世の中の不思議を確かめ
-に行くこと</value>
+    <value>The important thing is to go to confirm the mysteries of the world.</value>
   </data>
   <data name="0084 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ＳＯＳ団団長であるあたし自身が
-この目で世界の不思議を確認するの</value>
+    <value>I—the SOS Brigade Chief—will confirm the mysteries of the world with my own eyes.</value>
   </data>
   <data name="0085 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>そうすれば、世の中もっとおもしろ
-おかしくなるわよ！</value>
+    <value>The world will be way more interesting and fun if we do!</value>
   </data>
   <data name="0086 (094.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>そこまで壮大なお考えでしたか</value>
+    <value>I didn't realise you had such magnificent plans.</value>
   </data>
   <data name="0087 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>というわけだから古泉くんには</value>
+    <value>With that being said, Koizumi…</value>
   </data>
   <data name="0088 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>これからも、もっと貢献してもらう
-わね</value>
+    <value>I hope you continue your outstanding services from here on out!</value>
   </data>
   <data name="0089 (094.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>はい。粉骨砕身の覚悟で臨みます</value>
+    <value>Indeed. I'm prepared to give it my all.</value>
   </data>
   <data name="0090 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>いい返事だわ。それでこそＳＯＳ団
-の団員ね</value>
+    <value>Good answer. That's why you're an SOS Brigade Member after all.</value>
   </data>
 </root>
