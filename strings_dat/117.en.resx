@@ -131,40 +131,40 @@
     <value>Game ~ Investigation Phase</value>
   </data>
   <data name="0074 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Background music volume　　　</value>
+    <value>Background music volume.　　　</value>
   </data>
   <data name="0075 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Sound effect volume　　　</value>
+    <value>Sound effect volume.　　　</value>
   </data>
   <data name="0077 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Voiced dialogue volume　　　</value>
+    <value>Voiced dialogue volume.　　　</value>
   </data>
   <data name="0078 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Character voice toggle　　　</value>
+    <value>Character voice toggle.　　　</value>
   </data>
   <data name="0079 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Toggle Kyon's voice　　　</value>
+    <value>Toggle Kyon's voice.　　　</value>
   </data>
   <data name="0080 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Toggle Haruhi's voice　　　</value>
+    <value>Toggle Haruhi's voice.　　　</value>
   </data>
   <data name="0081 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Toggle Mikuru's voice　　　</value>
+    <value>Toggle Mikuru's voice.　　　</value>
   </data>
   <data name="0082 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Toggle Nagato's voice　　　</value>
+    <value>Toggle Nagato's voice.　　　</value>
   </data>
   <data name="0084 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Toggle Kyon's sister's voice　　　</value>
+    <value>Toggle Kyon's sister's voice.　　　</value>
   </data>
   <data name="0085 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Toggle Tsuruya's voice　　　</value>
+    <value>Toggle Tsuruya's voice.　　　</value>
   </data>
   <data name="0086 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Toggle Taniguchi's voice　　　</value>
+    <value>Toggle Taniguchi's voice.　　　</value>
   </data>
   <data name="0087 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Toggle Kunikida's voice　　　</value>
+    <value>Toggle Kunikida's voice.　　　</value>
   </data>
   <data name="0064 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Sound</value>
@@ -173,10 +173,10 @@
     <value>Erase Data</value>
   </data>
   <data name="0076 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Unvoiced dialogue volume　　　</value>
+    <value>Unvoiced dialogue volume.　　　</value>
   </data>
   <data name="0083 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Toggle Koizumi's voice　　　</value>
+    <value>Toggle Koizumi's voice.　　　</value>
   </data>
   <data name="0102 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Off</value>
@@ -188,7 +188,7 @@
     <value>Off</value>
   </data>
   <data name="0105 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Unread only</value>
+    <value>Unseen only</value>
   </data>
   <data name="0106 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>On</value>
@@ -211,22 +211,22 @@ Would you like to proceed?</value>
     <value>Reset to Default</value>
   </data>
   <data name="0069 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Change sound settings　　　</value>
+    <value>Change sound settings.　　　</value>
   </data>
   <data name="0070 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Change system settings　　　</value>
+    <value>Change the Investigation Phase settings.　　　</value>
   </data>
   <data name="0071 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Change system settings　　　</value>
+    <value>Change the Puzzle Phase settings.　　　</value>
   </data>
   <data name="0072 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Reset config to default settings　　　</value>
+    <value>Reset config to default settings.　　　</value>
   </data>
   <data name="0073 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Erase all data　　　</value>
+    <value>Erase all data.　　　</value>
   </data>
   <data name="0088 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Toggle Mysterious Girl's voice　　　</value>
+    <value>Toggle Mysterious Girl's voice.　　　</value>
   </data>
   <data name="0089 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Would you like to return all
@@ -249,7 +249,7 @@ Do you want to proceed?</value>
     <value>Dialogue Skipping</value>
   </data>
   <data name="0096 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Puzzle Event Skipping</value>
+    <value>Puzzle Interrupt Scenes</value>
   </data>
   <data name="0097 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Topic Stock Mode</value>
@@ -258,7 +258,7 @@ Do you want to proceed?</value>
     <value>Toggles showing all dialogue at once.　　　</value>
   </data>
   <data name="0100 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>ON: Play all. OFF: Skip all. Unread only: play only unread.　　　</value>
+    <value>On: Play all. Off: Skip all.　　　</value>
   </data>
   <data name="0101 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>All obtained Topics usable.　　　</value>
