@@ -83,7 +83,7 @@
     <value>☆Switch to Extra Mode☆　　　</value>
   </data>
   <data name="0014 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>☆Load save (progress lost)☆　　　</value>
+    <value>☆Load save (progress will be lost)☆　　　</value>
   </data>
   <data name="0013 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>☆Go to options☆　　　</value>
@@ -110,7 +110,7 @@
     <value>☆Restart from a save☆　　　</value>
   </data>
   <data name="0016 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>☆Go to title (progress lost)☆　　　</value>
+    <value>☆Go to title screen (progress will be lost)☆　　　</value>
   </data>
   <data name="0028 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>No saves. Cannot resume.　　　</value>
@@ -122,10 +122,10 @@
     <value>The Unfinished Sonata</value>
   </data>
   <data name="0022 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>A room from which none return…　　　</value>
+    <value>A mysterious room from which none return…　　　</value>
   </data>
   <data name="0023 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Piano sounds from an empty room?!　　　</value>
+    <value>The sound of a piano from an empty room?!　　　</value>
   </data>
   <data name="0065 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Game ~ Investigation Phase</value>
@@ -255,16 +255,16 @@ Do you want to proceed?</value>
     <value>Topic Stock Mode</value>
   </data>
   <data name="0098 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Toggle show all dialogue at once　　　</value>
+    <value>Toggles showing all dialogue at once.　　　</value>
   </data>
   <data name="0100 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Hopefully self-explanatory　　　</value>
+    <value>ON: Play all. OFF: Skip all. Unread only: play only unread.　　　</value>
   </data>
   <data name="0101 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>All obtained topics usable　　　</value>
+    <value>All obtained Topics usable.　　　</value>
   </data>
   <data name="0099 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>Dialogue skipping method　　　</value>
+    <value>Dialogue skipping method.　　　</value>
   </data>
   <data name="0108 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Skip already read</value>
@@ -307,7 +307,7 @@ Do you want to proceed?</value>
     <value>Nessun Dorma</value>
   </data>
   <data name="0025 (dat_117.ja) INFO (INFO)" xml:space="preserve">
-    <value>A conspiracy hidden in the pool?!　　　</value>
+    <value>A conspiracy hidden in the shining pool?!　　　</value>
   </data>
   <data name="0006 (dat_117.ja) INFO (INFO)" xml:space="preserve">
     <value>Character Distribution</value>
