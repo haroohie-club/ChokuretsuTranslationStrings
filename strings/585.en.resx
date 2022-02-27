@@ -89,10 +89,10 @@
     <value>#P04You can obtain them in events that occur during the story, depending on your…</value>
   </data>
   <data name="0010 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04…brigade member allotment. With allotting your brigade members in different ways, you will…</value>
+    <value>#P04…brigade member allotment. By allotting your brigade members in different ways, you will…</value>
   </data>
   <data name="0011 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04…have the opportunity to aquire various differing topics.</value>
+    <value>#P04…have the opportunity to acquire various differing topics.</value>
   </data>
   <data name="0012 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04There are four types of Topics.</value>
@@ -101,7 +101,7 @@
     <value>#P04"Main Topics" concern the story—</value>
   </data>
   <data name="0014 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04"Haruhi Topics" concern the individual characteristics of Suzumiya Haruhi—</value>
+    <value>#P04"Haruhi Topics" concern the individual characteristics of Haruhi Suzumiya—</value>
   </data>
   <data name="0015 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04"Character Topics" concern the individual characteristics of the SOS Brigade members—</value>
@@ -128,7 +128,7 @@
     <value>#P04…you can use it on an accident that would normally be unstoppable without a main topic…</value>
   </data>
   <data name="0023 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04…and forcefully evade it.</value>
+    <value>#P04…and forcibly evade it.</value>
   </data>
   <data name="0024 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04However, the Haruhi Topic is more difficult to obtain than the others…</value>
@@ -164,13 +164,13 @@
     <value>#P04…members grouped with Haruhi, but in general the order is as follows:</value>
   </data>
   <data name="0035 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04Haruhi Topic - Large time limit increase.</value>
+    <value>#P04Haruhi Topic--Large time limit increase.</value>
   </data>
   <data name="0036 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04Character Topic - Ordinary time limit increase.</value>
+    <value>#P04Character Topic--Ordinary time limit increase.</value>
   </data>
   <data name="0037 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04Sub Topic - Small time limit increase.</value>
+    <value>#P04Sub-Topic--Small time limit increase.</value>
   </data>
   <data name="0038 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04Haruhi topics also have the ability to negate accidents…</value>
@@ -185,7 +185,7 @@
     <value>#P04…in order to increase your options in the puzzle phase.</value>
   </data>
   <data name="0042 (585.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04The amount of topics you obtain and your response to choices are both important, but...</value>
+    <value>#P04The number of topics you obtain and your response to choices are both important, but...</value>
   </data>
   <data name="0043 (585.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04…allotting brigade members for the objective is the most important.</value>

@@ -80,13 +80,13 @@
     <value>#P04On the bottom left of the screen, "Left" counts the total number of singularities.</value>
   </data>
   <data name="0007 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04This contains the "Goal" number, which counts...</value>
+    <value>#P04Next to it is the "Goal" number, which counts...</value>
   </data>
   <data name="0008 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04...the minimum number of singularities you must erase to clear the stage.</value>
   </data>
   <data name="0009 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04In order to clear the puzzle phase, you must…</value>
+    <value>#P04In order to clear the Puzzle Phase, you must…</value>
   </data>
   <data name="0010 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04…either erase all of the singularities, or achieve the goal before "Time Over" occurs.</value>
@@ -113,10 +113,10 @@
     <value>#P04２. "Area Search"</value>
   </data>
   <data name="0018 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>When the search icon on the upper left of the screen is OFF, touch at a member's feet.</value>
+    <value>When the search icon on the upper left of the screen is off, tap at your member's feet.</value>
   </data>
   <data name="0019 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Doing so will select the center tile and the 8 surrounding tiles (9 tiles total)…</value>
+    <value>Doing so will select the center tile and the 8 surrounding tiles (nine tiles total)…</value>
   </data>
   <data name="0020 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>…and perform an area search.</value>
@@ -161,19 +161,19 @@
     <value>…but this serves as the basic action to materialize a singularity.</value>
   </data>
   <data name="0034 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>If you want to perform the area search action again, turn OFF the search Icon.</value>
+    <value>If you want to perform the area search action again, turn off the search icon.</value>
   </data>
   <data name="0035 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>Please be careful to not confuse these two modes.</value>
   </data>
   <data name="0036 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>When you investigate, the marks near your feet indicate the odds of a singularity existing.</value>
+    <value>When you search, the marks near your feet indicate the odds of a singularity existing.</value>
   </data>
   <data name="0037 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>The "!" mark on a tile indicates that a singularity exists on one of…</value>
   </data>
   <data name="0038 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...the surrounding 9 tiles that includes the tile itself.</value>
+    <value>...the surrounding nine tiles that includes the tile itself.</value>
   </data>
   <data name="0039 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>The number of "!" marks will increase according to how many singularities…</value>

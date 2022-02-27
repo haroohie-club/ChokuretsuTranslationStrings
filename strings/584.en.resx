@@ -83,7 +83,7 @@
     <value>...the stage will then be cleared. But if the goal is not met...</value>
   </data>
   <data name="0008 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>...it will then result in a game over.</value>
+    <value>...it will then result in a Game Over.</value>
   </data>
   <data name="0009 (584.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04Pressing the Y button will show the pause screen...</value>
@@ -119,7 +119,7 @@
     <value>#P04With the area search, you can search all the tiles one space away from the Brigade member.</value>
   </data>
   <data name="0020 (584.ja) INFO (インフォ)" xml:space="preserve">
-    <value>But it can not materialize any of the singularities.</value>
+    <value>But it cannot materialize any of the singularities.</value>
   </data>
   <data name="0021 (584.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04Investigate wide areas efficiently so the results do not overlap with each other...</value>
