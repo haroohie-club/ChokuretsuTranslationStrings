@@ -71,117 +71,102 @@
     <value>It's bound to be another misunderstanding from the computer society.</value>
   </data>
   <data name="0004 (390.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$9そうはいかないわ！#W20
-$8まだあと３つも残ってるんだから！</value>
+    <value>We absolutely cannot! We've still got three left!</value>
   </data>
   <data name="0005 (390.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$9全部きちんと確認するまで#W10$8終われる
-わけがないでしょ！</value>
+    <value>We can't stop until we've checked them all!</value>
   </data>
   <data name="0008 (390.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>$7やっほー！　#W10元気かね、みくるっ
-ハルにゃん、その他諸君！</value>
+    <value>Yoo-hoo! How're you doing, Mikuru, Haru-nyan and the rest?</value>
   </data>
   <data name="0009 (390.ja) MIKURU (朝比奈)" xml:space="preserve">
-    <value>$10鶴屋さん#W10…#W10…#W20$8どうしたんですか？</value>
+    <value>Tsuruya#W10…#W10…#W20What's going on?</value>
   </data>
   <data name="0010 (390.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>$8ちょいと近くまで出てきたからさ</value>
+    <value>Well I was just in the area, you know—</value>
   </data>
   <data name="0011 (390.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>$8みくるが学校にいるって聞いてたし#W20
-$7ついでに覗いてみようかと思ってね</value>
+    <value>I heard Mikuru was at school and stuff—I thought, how 'bout I drop on by?</value>
   </data>
   <data name="0012 (390.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>$8ま、#W20陣中見舞いってやつだよっ</value>
+    <value>I'm like, jumping in to look after you peeps a bit.</value>
   </data>
   <data name="0017 (390.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>$8証言によれば、#W50ピアノの音は#W30毎日#W20ほ
-ぼ同じ時間に聞こえてくるそうです</value>
+    <value>According to their testimony, the piano could be heard every day at about the same time.</value>
   </data>
   <data name="0018 (390.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>#DP</value>
   </data>
   <data name="0019 (390.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$10ふ～ん#W20…#W10…#W20$8分かったわ！</value>
+    <value>Hmm#W20…#W10…#W20 Got it!</value>
   </data>
   <data name="0020 (390.ja) KYON (キョン)" xml:space="preserve">
-    <value>$10何がだ</value>
+    <value>Got what?</value>
   </data>
   <data name="0021 (390.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$8きっと#W20無念のまま亡くなった
-天才美少女ピアニストの霊よ！</value>
+    <value>It's got to be the ghost of a beautiful prodigy pianist girl who died a tragic death!</value>
   </data>
   <data name="0022 (390.ja) KYON (キョン)" xml:space="preserve">
-    <value>$9天才だの美少女だの、#W40なぜおまえが
-勝手に決めるんだ</value>
+    <value>Why do you just randomly assume it's a prodigy or a girl?</value>
   </data>
   <data name="0023 (390.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$10そんなの#W20…#W10…</value>
+    <value>That's#W20…#W10…</value>
   </data>
   <data name="0024 (390.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$7そっちの方がおもしろいからに
-決まってるじゃない！</value>
+    <value>Because that sounds more interesting, obviously!</value>
   </data>
   <data name="0028 (390.ja) MIKURU (朝比奈)" xml:space="preserve">
-    <value>$9なんだか不思議なメロディですね</value>
+    <value>It's quite a mysterious melody, isn't it.</value>
   </data>
   <data name="0029 (390.ja) MIKURU (朝比奈)" xml:space="preserve">
-    <value>$10まるで、#W50何かを訴えかけてるみたい</value>
+    <value>It's like it's trying to warn us of something.</value>
   </data>
   <data name="0032 (390.ja) NAGATO (長門)" xml:space="preserve">
-    <value>$10情報生命体は#W30$8カタチを必要と
-していない</value>
+    <value>Data lifeforms do not require any form.</value>
   </data>
   <data name="0033 (390.ja) NAGATO (長門)" xml:space="preserve">
-    <value>$10自ら観測する対象さえいれば#W20
-存在確率を高めることができる</value>
+    <value>As long as there is something to observe it, its existance probability can increase.</value>
   </data>
   <data name="0034 (390.ja) KYON (キョン)" xml:space="preserve">
-    <value>$10観測#W20…#W10…#W10？</value>
+    <value>Observe#W20…#W10…#W10?</value>
   </data>
   <data name="0035 (390.ja) NAGATO (長門)" xml:space="preserve">
-    <value>$10音楽は#W30$8そのための手段にすぎない</value>
+    <value>The music is for that purpose solely.</value>
   </data>
   <data name="0036 (390.ja) KYON (キョン)" xml:space="preserve">
-    <value>$10おい、#W40$7どういう意味だ#W10長門！</value>
+    <value>Hey, what does that mean, Nagato?!</value>
   </data>
   <data name="0037 (390.ja) NAGATO (長門)" xml:space="preserve">
-    <value>$10現状では#W30情報の収集がわたしの役割</value>
+    <value>At the present my role is to gather data.</value>
   </data>
   <data name="0040 (390.ja) MIKURU (朝比奈)" xml:space="preserve">
-    <value>$8合宿を止めさせる#W20…#W10…#W20？</value>
+    <value>Put an end to the training camp#W20…#W10…#W20?</value>
   </data>
   <data name="0041 (390.ja) KYON (キョン)" xml:space="preserve">
-    <value>$8そうです。#W20$7学校が危険な状態だって
-いうなら</value>
+    <value>That's right. Since the school is in danger…</value>
   </data>
   <data name="0042 (390.ja) KYON (キョン)" xml:space="preserve">
-    <value>$7さっさと連れ出した方がいいはず
-です</value>
+    <value>…it'd be best to get everyone out as soon as we can.</value>
   </data>
   <data name="0043 (390.ja) MIKURU (朝比奈)" xml:space="preserve">
-    <value>$10それは#W20…#W20…#W30禁則事項です</value>
+    <value>That's#W20…#W20…#W30classified information.</value>
   </data>
   <data name="0044 (390.ja) KYON (キョン)" xml:space="preserve">
-    <value>$10え#W20…#W10…</value>
+    <value>Huh#W20…#W10…</value>
   </data>
   <data name="0045 (390.ja) MIKURU (朝比奈)" xml:space="preserve">
-    <value>$10涼宮さんの行動に大きく干渉する
-には#W20許可が必要なんです</value>
+    <value>I need permission if I want to drastically interfere with Suzumiya's actions.</value>
   </data>
   <data name="0046 (390.ja) MIKURU (朝比奈)" xml:space="preserve">
-    <value>$7……ごめんなさい、#W20$9キョンくん</value>
+    <value>…I'm sorry, Kyon.</value>
   </data>
   <data name="0049 (390.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>$9まずいですね、#W70$8涼宮さんが#W10
-もうそこまで来ています</value>
+    <value>It's not looking good—the fact Suzumiya has already come so far.</value>
   </data>
   <data name="0050 (390.ja) KYON (キョン)" xml:space="preserve">
-    <value>$10くそ、#W40$8こうなったら
-誰かが、ピアノを――</value>
+    <value>Damn it. If it's come to this, someone… the piano—</value>
   </data>
   <data name="0051 (390.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ハルヒについて</value>
+    <value>About Haruhi</value>
   </data>
 </root>
