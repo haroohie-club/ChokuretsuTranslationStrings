@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>I'm thirsty. Mikuru, tea please.</value>
+    <value>I'm thirsty. Tea please, Mikuru.</value>
   </data>
   <data name="0001 (391.ja) MIKURU (みくる)" xml:space="preserve">
     <value>Okayy, I'll make some now—</value>
@@ -83,365 +83,310 @@
     <value>It's as if she's Haruhi's follower or something.</value>
   </data>
   <data name="0008 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>兄としては、妹の将来が心配だ</value>
+    <value>As her older brother, I'm concerned for her future.</value>
   </data>
   <data name="0009 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>これ以上悪影響が出る前に
-なんとかしたいものだが……</value>
+    <value>I want to do something before it has any greater negative impact, but…</value>
   </data>
   <data name="0010 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ふぅ……</value>
+    <value>Huff…</value>
   </data>
   <data name="0011 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>熱いお茶を一気に飲み干し
-ハルヒは大きく息を吐く</value>
+    <value>Haruhi gave a deep breath after gulping down her hot tea in one.</value>
   </data>
   <data name="0013 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>“人喰い教室”なんてたいそうな名
-前のわりに、お粗末な真相だったわ</value>
+    <value>Despite the name "the man-eating class- room," the truth behind it was pretty boring.</value>
   </data>
   <data name="0014 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>それが現実ってやつだ</value>
+    <value>That's the thing about reality.</value>
   </data>
   <data name="0015 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>だいたい、話を聞いた時からすでに
-うさんくさかっただろう</value>
+    <value>Besides, it sounded fishy from the moment we heard about it, right?</value>
   </data>
   <data name="0016 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>……確かにそうかもね</value>
+    <value>…I guess you're probably right.</value>
   </data>
   <data name="0017 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>めずらしいな、おまえが俺の意見に
-同意するなんて</value>
+    <value>That's unusual—hearing you agree with me.</value>
   </data>
   <data name="0018 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>コンピ研の連中が言うことですもの
-最初から怪しいと思ってたわ</value>
+    <value>We heard it from the computer society, so I thought it was suspicious from the start.</value>
   </data>
   <data name="0019 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>だったら、はなっから首を突っ込ま
-なけりゃいいと思うがね</value>
+    <value>In that case, I don't see why you should've gotten involved from the start.</value>
   </data>
   <data name="0020 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>分かってないわね、キョン</value>
+    <value>You don't get it, Kyon.</value>
   </data>
   <data name="0021 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>人間は、大きな真実を隠すために
-小さなウソを積み重ねるのよ</value>
+    <value>When humans want to hide something big, they cover it up with a pile of small lies.</value>
   </data>
   <data name="0022 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>はあ？</value>
+    <value>Huh?</value>
   </data>
   <data name="0023 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>コンピ研の連中、間違いなく
-何か重大なコトを隠しているわ</value>
+    <value>Those computer society guys are definitely hiding something huge.</value>
   </data>
   <data name="0024 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>あたしには分かるの</value>
+    <value>I can tell.</value>
   </data>
   <data name="0025 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>……いや、なぜそうなる</value>
+    <value>…Hold on, why would they be?</value>
   </data>
   <data name="0026 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>きっと、連中が話した中に、本物の
-怪奇現象があるのよ</value>
+    <value>We must be able to uncover the real phenomenon within something they said.</value>
   </data>
   <data name="0027 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>……いや、ちょっと待て
-だから、どうしてそうなるんだ？</value>
+    <value>…Wait, just hold on for a second—Why do you think so?</value>
   </data>
   <data name="0028 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>それは論理の飛躍どころか
-こじつけにすらなってないぞ</value>
+    <value>Forget jumping to conclusions, that's not even a stretch.</value>
   </data>
   <data name="0029 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>だってキョン
-その方がおもしろいじゃない</value>
+    <value>But Kyon, isn't it much more interesting that way?</value>
   </data>
   <data name="0030 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>……ああ、俺が悪かった</value>
+    <value>…Ohh, my bad.</value>
   </data>
   <data name="0031 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そもそも、涼宮ハルヒって人間は
-こういうやつだった</value>
+    <value>In the first place, that's just how Haruhi Suzumiya is.</value>
   </data>
   <data name="0032 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>しかし、連中の勘違いって可能性は
-考慮しないのか？</value>
+    <value>You won't even consider the possibility of it being their misunderstanding?</value>
   </data>
   <data name="0033 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>そんな簡単に諦めてちゃ真実に辿り
-着くことなんてできないのよ！</value>
+    <value>You can't find the truth if you give up that easily!</value>
   </data>
   <data name="0034 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>早々に諦めて『じゃあ帰りましょ』
-なんてことにはならないか……</value>
+    <value>We won't be giving up and saying our farewells anytime soon then, huh…</value>
   </data>
   <data name="0035 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>長門も、さっさと帰って静かに
-読書にふけりたいと思わんか？</value>
+    <value>Nagato, don't you want to go straight home to the quiet and get stuck into your reading?</value>
   </data>
   <data name="0037 (391.ja) NAGATO (長門)" xml:space="preserve">
-    <value>別に</value>
+    <value>I don't mind.</value>
   </data>
   <data name="0038 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>…………</value>
+    <value>……</value>
   </data>
   <data name="0039 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>古泉</value>
+    <value>Koizumi.</value>
   </data>
   <data name="0040 (391.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>なんでしょう？</value>
+    <value>What's the matter?</value>
   </data>
   <data name="0041 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>おまえはどうだ？</value>
+    <value>What about you?</value>
   </data>
   <data name="0042 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>もっとこう、学生らしい夏を
-過ごしたいと思うだろう</value>
+    <value>Surely you want to enjoy a summer more befitting of a student?</value>
   </data>
   <data name="0043 (391.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>僕はこの合宿を、心から楽しんで
-いますよ</value>
+    <value>I'm sincerely enjoying this training camp, actually.</value>
   </data>
   <data name="0044 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>……裏切り者め</value>
+    <value>…You traitor.</value>
   </data>
   <data name="0045 (391.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>まあ、始まってしまったことなので
-すから、せめて楽しまないと</value>
+    <value>Well, we're here now, so we might as well at least enjoy it.</value>
   </data>
   <data name="0046 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>俺はお前のように脳天気にはなれん</value>
+    <value>I'm not capable of being as easygoing as you.</value>
   </data>
   <data name="0047 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>かといって、長門のようにどっしり
-構えられるほど、達観もできない</value>
+    <value>On the other hand, I can't be as unconcerned and detatched as Nagato.</value>
   </data>
   <data name="0048 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>これ以上被害が拡大する前に、正直
-この場から逃げ出したいのだが……</value>
+    <value>I honestly want to run away before the damage gets any worse than it already is…</value>
   </data>
   <data name="0049 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>なにかいい手はないのだろうか</value>
+    <value>I wonder how I could.</value>
   </data>
   <data name="0050 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>などと、不可解な思索にふけって
-いると……</value>
+    <value>While considering such perplexing questions…</value>
   </data>
   <data name="0053 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ノック？</value>
+    <value>A knock?</value>
   </data>
   <data name="0054 (391.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>お客さんみたいですね</value>
+    <value>Seems like we must have a guest.</value>
   </data>
   <data name="0055 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>今は夏休み中だってのに
-いったい誰が……</value>
+    <value>But it's the middle of the summer holiday, so who would…</value>
   </data>
   <data name="0057 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>はーい、誰かしらー？</value>
+    <value>Coming. Who is it?</value>
   </data>
   <data name="0058 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>やっほー！　元気かね、みくるっ
-ハルにゃん、その他諸君！</value>
+    <value>Yoo-hoo! How're you doing, Mikuru, Haru-nyan and the rest?</value>
   </data>
   <data name="0059 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>この人は、朝比奈さんのクラス
-メイトの……、確か鶴屋さんだ</value>
+    <value>This is Asahina's classmate… Tsuruya, if I remember correctly.</value>
   </data>
   <data name="0060 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>朝比奈さんの“この時代”の
-お友達だとかなんとか</value>
+    <value>Asahina's friend from "this time period" or whatever.</value>
   </data>
   <data name="0061 (391.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>鶴屋さん……どうしたんですか？</value>
+    <value>Tsuruya… What's going on?</value>
   </data>
   <data name="0063 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>ちょいと近くまで出てきたからさ</value>
+    <value>Well I was just in the area, you know—</value>
   </data>
   <data name="0064 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>みくるが学校にいるって聞いてたし
-ついでに覗いてみようかと思ってね</value>
+    <value>I heard Mikuru was at school and stuff—I thought, how 'bout I drop on by?</value>
   </data>
   <data name="0065 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>ま、陣中見舞いってやつだよっ</value>
+    <value>I'm like, jumping in to look after you peeps a bit—</value>
   </data>
   <data name="0066 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>そんで、合宿って具体的に
-なにをやってんのかなっ？</value>
+    <value>So this training camp—whatcha actually doing?</value>
   </data>
   <data name="0067 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>みんなでお話を考えるとか？</value>
+    <value>You're all thinking of stories or something?</value>
   </data>
   <data name="0068 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>あ、夏だから怪談話？
-百物語ってやつかい？</value>
+    <value>Ah, but it's summer, so ghost stories, right? 100 of them?</value>
   </data>
   <data name="0069 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>真っ暗な部屋にロウソクたいてさ</value>
+    <value>A lit candle in a dark room—</value>
   </data>
   <data name="0070 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>でも、１００個も話してたら
-普通、一晩じゃ終わらないよねっ</value>
+    <value>But normally 100 isn't enough for the whole night, right—</value>
   </data>
   <data name="0071 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>あはははっ</value>
+    <value>Ahahaha—</value>
   </data>
   <data name="0072 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>相変わらず豪快にして痛快
-朝比奈さんとは対照的な人だ</value>
+    <value>As magnificent and thrilling as ever. She's a stark contrast to Asahina.</value>
   </data>
   <data name="0073 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>お会いするのは久しぶりだが
-その勢いに気圧されそうになる</value>
+    <value>It's been a while since I last saw her, but I'm almost being overwhelmed by her energy.</value>
   </data>
   <data name="0075 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>なるほど、百物語もいいわね</value>
+    <value>I see, 100 ghost stories also sounds good.</value>
   </data>
   <data name="0076 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>う……</value>
+    <value>Ugh…</value>
   </data>
   <data name="0077 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>鶴屋さんには悪いが、今この瞬間は
-招かれざる客と言わざるをえない</value>
+    <value>It's not nice to Tsuruya, but right now I can't help but call her an uninvited guest.</value>
   </data>
   <data name="0078 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>なにせ、ハルヒは飢えた獣のように
-面白そうな話に飛びつくからな</value>
+    <value>Anyway, Haruhi bites at interesting stories like a starving beast.</value>
   </data>
   <data name="0079 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>そ、それよりせっかく来たんです
-一緒にお茶でもどうですか？</value>
+    <value>W-well first of all, since you're here, how about some tea together?</value>
   </data>
   <data name="0080 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>そ？　んじゃ、お邪魔しよっかな</value>
+    <value>Sure? Then, I suppose I'll get myself comfy.</value>
   </data>
   <data name="0082 (391.ja) KYON_SIS (妹)" xml:space="preserve">
-    <value>こんにちわーっ</value>
+    <value>Hellooo—</value>
   </data>
   <data name="0083 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>キョンくんの妹ちゃんじゃないかっ
-珍しいところで会うもんだ</value>
+    <value>Isn't that Kyon's little sis? What an unusual place to meet.</value>
   </data>
   <data name="0084 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>今日はみんなで遊んでるのかい？</value>
+    <value>Are you playing with everyone today?</value>
   </data>
   <data name="0085 (391.ja) KYON_SIS (妹)" xml:space="preserve">
-    <value>ううん、オバケさがし！</value>
+    <value>Nope, we're on a monster hunt!</value>
   </data>
   <data name="0086 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>へえ？</value>
+    <value>Heh?</value>
   </data>
   <data name="0088 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>オバケじゃないわ、妹ちゃん
-怪談話の真偽を確かめてるのよ</value>
+    <value>Not monsters, little sister. We're investigating the truth of ghost stories.</value>
   </data>
   <data name="0089 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>怪談？　百物語じゃなくて
-怪談なのかい？</value>
+    <value>Ghost stories? So you're not reading 100?</value>
   </data>
   <data name="0090 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>正確には新七不思議をあたしたちの
-手で見つけ出そうとしてるの</value>
+    <value>Specifically, we're trying to seek out the new seven wonders.</value>
   </data>
   <data name="0091 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>２１世紀にもなって、未だに
-前世紀の七不思議のままなんて</value>
+    <value>It's the 21 century, so we can't hold on to the mysteries of previous generations.</value>
   </data>
   <data name="0092 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>そんなのつまらないわ！</value>
+    <value>That's just boring!</value>
   </data>
   <data name="0093 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>七不思議だって、時代のニーズに合
-せてアレンジを加えるべきよ</value>
+    <value>The seven wonders should be arranged according that generation's needs.</value>
   </data>
   <data name="0094 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>だ、そうです</value>
+    <value>That's what you say at least.</value>
   </data>
   <data name="0095 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>あっはっはっは！</value>
+    <value>Ahha-ha-ha!</value>
   </data>
   <data name="0096 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>相変わらずキミたちは面白いことを
-企むねえ！</value>
+    <value>You guys are planning something funny as always, huh!</value>
   </data>
   <data name="0097 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>人によってはバカにされているよう
-に感じる反応だが</value>
+    <value>I think a lot of people would think they're being made fun of hearing that, but…</value>
   </data>
   <data name="0098 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>この人が言うと、不思議とそんな
-印象はうけない</value>
+    <value>When this person says it, it doesn't give that kind of impression.</value>
   </data>
   <data name="0099 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>いや、むしろ心の底から楽しんで
-いるのだろう</value>
+    <value>Rather, it feels like she's enjoying it from the bottom of her heart, right?</value>
   </data>
   <data name="0100 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ある意味、ハルヒと同じタイプと
-言えなくもない</value>
+    <value>In a certain way, you could say she's of a similar type to Haruhi.</value>
   </data>
   <data name="0101 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>なるほど、新七不思議ね</value>
+    <value>I see, the new seven wonders, right?</value>
   </data>
   <data name="0103 (391.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>鶴屋さんも、お茶どうぞ</value>
+    <value>And here's your tea, Tsuruya.</value>
   </data>
   <data name="0104 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>お、ありがとみくる！</value>
+    <value>Ooh, thankie, Mikuru!</value>
   </data>
   <data name="0105 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>やっぱり、朝比奈さんの差し出す
-お茶は熱々のほうじ茶だ</value>
+    <value>Of course, the tea Asahina handed her was a piping hot roasted green tea.</value>
   </data>
   <data name="0106 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>それを、鶴屋さんはおいしそうに
-飲んでいる</value>
+    <value>Tsuruya was drinking it happily.</value>
   </data>
   <data name="0107 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>あ、そういえば</value>
+    <value>Ah, now I think about it…</value>
   </data>
   <data name="0108 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>怪談っていうか、妙な噂なら
-あたしも聞いたかな</value>
+    <value>It's not a ghost story, but I heard a rumor.</value>
   </data>
   <data name="0110 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>是非聞かせてちょうだい！</value>
+    <value>Definitely tell us!</value>
   </data>
   <data name="0111 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>あんま大した話じゃないから
-期待しないでほしいんだけど……</value>
+    <value>It's nothing crazy, so don't get your hopes up too much, but…</value>
   </data>
   <data name="0112 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>夏休みに入ってから、学校の中を
-妙な女の子が歩いてるんだってさ</value>
+    <value>I heard there's a strange girl who's been walking through school since school stopped.</value>
   </data>
   <data name="0113 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>妙な女の子？</value>
+    <value>A strange girl?</value>
   </data>
   <data name="0114 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>確かこう、髪がやたら長くて……</value>
+    <value>I think I heard she has really long hair…</value>
   </data>
   <data name="0115 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>そうそう、帽子もかぶってる
-らしいよ</value>
+    <value>Oh yeah, and that she wears a hat.</value>
   </data>
   <data name="0116 (391.ja) KYON (キョン)" xml:space="preserve">
-    <value>う……っ</value>
+    <value>Ugh…</value>
   </data>
   <data name="0117 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>まさか、俺が見たあの……</value>
+    <value>Could that be what I saw… that…</value>
   </data>
   <data name="0118 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>あんま見かけない顔だなぁと思って
-振り返るといなくなってるって</value>
+    <value>Their face doesn't look familiar, and when you turn back to have a look, they're gone.</value>
   </data>
   <data name="0119 (391.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>まあ、それだけの話なんだけどさ</value>
+    <value>Well, that's all there is to it.</value>
   </data>
   <data name="0120 (391.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>見慣れない女の子ね……</value>
+    <value>An unfamiliar girl, hmm…</value>
   </data>
   <data name="0121 (391.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>まずいな、鶴屋さんの話しからして
