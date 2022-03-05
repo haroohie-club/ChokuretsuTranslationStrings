@@ -65,7 +65,7 @@
     <value>Great, thanks a lot.</value>
   </data>
   <data name="0002 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>With that, our objective is settled for the time being, but I'm also concerned about our current situation.</value>
+    <value>With that, our objective is settled for now, but I'm also concerned about the situation.</value>
   </data>
   <data name="0003 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>It doesn't seem like we're in any sort of big trouble right now.</value>
@@ -212,13 +212,13 @@
     <value>Standing there was…</value>
   </data>
   <data name="0058 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>The long haired girl I saw walking past the window that one time.</value>
+    <value>The long haired girl I saw walking past the window before.</value>
   </data>
   <data name="0059 (381.ja) GIRL (少女)" xml:space="preserve">
     <value>……</value>
   </data>
   <data name="0060 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Wiat wait wait, is it actually? Couldn't it just be a look-alike?</value>
+    <value>Wait wait wait, is it actually? Couldn't it just be a look-alike?</value>
   </data>
   <data name="0061 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Tell me I'm wrong, but isn't she a genuine spiritual being?</value>
@@ -257,7 +257,7 @@
     <value>That movement like branches swaying in the wind—for a mere moment, I was captivated—</value>
   </data>
   <data name="0073 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>Ug?!</value>
+    <value>Uh?!</value>
   </data>
   <data name="0074 (381.ja) KYON (キョン)" xml:space="preserve">
     <value>?!</value>
@@ -266,333 +266,282 @@
     <value>It was an unbelievable sight.</value>
   </data>
   <data name="0076 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>おい、嘘だろ……？</value>
+    <value>Hey, you're kidding, right…?</value>
   </data>
   <data name="0077 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ここは――あの異空間じゃないか！</value>
+    <value>This isn't…that abnormal space is it?!</value>
   </data>
   <data name="0078 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>つい先程、長門によって救出された
-あの１年１０組の教室……</value>
+    <value>That Class 1-10 classroom that Nagato rescued me from earlier…</value>
   </data>
   <data name="0079 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>参ったな、またかよ……</value>
+    <value>Seriously? It's happening again…?</value>
   </data>
   <data name="0080 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>思わずあたりを見回すが、やはり
-あるはずの扉は存在しなかった</value>
+    <value>I instinctively looked around, and it was as I expected—no doors.</value>
   </data>
   <data name="0081 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>のっぺりとした壁だけが教室を外界
-から隔離するようにそびえている</value>
+    <value>Only these featureless walls serve to seperate me from the outside world.</value>
   </data>
   <data name="0082 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>まるで、ずっと以前からそうだった
-かのように……</value>
+    <value>It's as if they've always been there…</value>
   </data>
   <data name="0083 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>落ち着け、落ち着け、頭を冷やせ</value>
+    <value>Calm down, calm down—I need to cool my head.</value>
   </data>
   <data name="0084 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>何がどうなって、ここに飛ばされ
-た？</value>
+    <value>What caused me to end up here?</value>
   </data>
   <data name="0085 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>あの“長い髪の少女”が俺をここに
-飛ばしたのか？　あの子は何だ？</value>
+    <value>Was it that long haired girl that sent me here? What is she?</value>
   </data>
   <data name="0086 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ハルヒの生み出した霊なのか？</value>
+    <value>Some spirit that Haruhi created?</value>
   </data>
   <data name="0087 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>それとも情報生命体とかいう存在
-なのか？</value>
+    <value>Or is she some kind of data lifeform?</value>
   </data>
   <data name="0088 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>どうでもいいが、こう何度も怪しげ
-な教室に閉じ込められると、アレだ</value>
+    <value>Not that it matters, but getting trapped in a suspicious classroom like this over and over…</value>
   </data>
   <data name="0089 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>あの朝倉涼子に殺されかけた
-以前の苦い思い出が浮かんでくる</value>
+    <value>Those bitter memories of when Ryouko Asakura tried to kill me come to mind.</value>
   </data>
   <data name="0090 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>まさかとは思うが、また今回も俺の
-命が狙われてるんじゃないだろうな</value>
+    <value>Surely someone's not aiming to kill me this time as well, right?</value>
   </data>
   <data name="0091 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>だとしたら……余裕こいてる暇は
-まったく無いぞ</value>
+    <value>If they are… I can't afford to waste time.</value>
   </data>
   <data name="0092 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>……む？</value>
+    <value>…Huh?</value>
   </data>
   <data name="0093 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>その時、俺の視界に“ある物”が
-映った</value>
+    <value>At that moment, something entered my field of vision.</value>
   </data>
   <data name="0094 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>ノートパソコン……？</value>
+    <value>A laptop…?</value>
   </data>
   <data name="0095 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>教室の中央に、ノートパソコンが
-一台、起動したまま置かれている</value>
+    <value>In the center of the classroom there was a single laptop left running.</value>
   </data>
   <data name="0096 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>前に紛れ込んだときもあったが
-これが敵の本体なのか？</value>
+    <value>There was one the last time I came here as well. Is this the main body?</value>
   </data>
   <data name="0097 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>くっ……！？</value>
+    <value>Kuh…?!</value>
   </data>
   <data name="0098 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>やばそう……というより、やばい</value>
+    <value>It seems bad… no rather, it is bad.</value>
   </data>
   <data name="0099 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ここが１年１０組だと仮定しよう</value>
+    <value>Let's assume this is Class 1-10.</value>
   </data>
   <data name="0100 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ハルヒはそれをなんと
-呼んでたっけ？</value>
+    <value>What was it Haruhi was calling it?</value>
   </data>
   <data name="0101 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>かなり不吉なあだ名を言っていた
-はずだ</value>
+    <value>I'm sure she gave it a considerably ominous nickname.</value>
   </data>
   <data name="0102 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そう……“人喰い教室”だ</value>
+    <value>Right… the "man-eating classroom."</value>
   </data>
   <data name="0103 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ということは、このままじっとして
-たら俺はこの教室に喰われるのか？</value>
+    <value>In other words—if I hang about in here, I'm going to get eaten?</value>
   </data>
   <data name="0104 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>やばいぞ、これはかなりやばい</value>
+    <value>This is bad—This is extremely bad.</value>
   </data>
   <data name="0105 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ハルヒがどんなイメージをもって
-人喰い教室とやらを考えたのか……</value>
+    <value>What exactly did Haruhi have in mind when she thought this "man-eating classroom" up?</value>
   </data>
   <data name="0106 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>正直、不吉すぎて想像もしたくない</value>
+    <value>Honestly, it's far too sinister—I don't even want to know.</value>
   </data>
   <data name="0107 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>おい！　誰か外にいないのか！？</value>
+    <value>Hey! Is there anyone outside?!</value>
   </data>
   <data name="0108 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>長門！　古泉！　朝比奈さん！</value>
+    <value>Nagato! Koizumi! Asahina!</value>
   </data>
   <data name="0109 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>壁のあちこちを、どんどんと叩いて
-出口を探すが、何も見つからない</value>
+    <value>I went back and forth across the wall, hitting it in search of an exit, but to no avail.</value>
   </data>
   <data name="0110 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>――と、その時</value>
+    <value>―But, then.</value>
   </data>
   <data name="0111 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>おいおいおいおいおいっ！？</value>
+    <value>Whoa whoa whoa whoa whoa?!</value>
   </data>
   <data name="0112 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>教室の黒板に、巨大な口が浮かんだ
-何本もの牙をむき出しにして……</value>
+    <value>A giant mouth emerged onto the classroom's blackboard, baring countless fangs…</value>
   </data>
   <data name="0113 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>冗談じゃないぞ、ハルヒ！！</value>
+    <value>This isn't a joke, Haruhi!!</value>
   </data>
   <data name="0114 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>どうする？　どうすればいい！？</value>
+    <value>What should I do? What should I do?!</value>
   </data>
   <data name="0115 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>前回はどうやって危機をしのいだ？
-思い出せ、思い出せ俺の脳――</value>
+    <value>How did I get out of this last time? Try to remember. Come on brain, try to remember—</value>
   </data>
   <data name="0116 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>っ！　モップか！</value>
+    <value>—! The mop!</value>
   </data>
   <data name="0117 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>モップを使って、あのおぞましい
-巨大な口を拭き消せばいい！</value>
+    <value>I just need to wipe that horrific giant mouth with a mop!</value>
   </data>
   <data name="0118 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>掃除道具が入ったロッカーへと走り
-モップを一本、手に取った</value>
+    <value>I ran to the locker with the cleaning equipment and took out a mop.</value>
   </data>
   <data name="0119 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そのまま、前回と同じ要領で、黒板
-にモップの先端を近づけて――</value>
+    <value>Just like you did before, get the end of the mop closer to the blackboard—</value>
   </data>
   <data name="0120 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>なっ！？</value>
+    <value>Wha?!</value>
   </data>
   <data name="0121 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>あっさりと、その牙に砕かれて
-モップはへし折れてしまった……！</value>
+    <value>The mop was snapped up by the fangs and easily broken…!</value>
   </data>
   <data name="0122 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>それだけじゃない。黒板の大口は
-更に大きさを増しつつある</value>
+    <value>That's not all. The big mouth on the blackboard is continuing to get bigger.</value>
   </data>
   <data name="0123 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ついでに言っちゃなんだが、徐々に
-こっちへ近づいているような――</value>
+    <value>And by the way, I feel like it's gradually getting closer to me—</value>
   </data>
   <data name="0124 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>くそ、どうする？　どうする！？</value>
+    <value>Damn, what do I do? What do I do?!</value>
   </data>
   <data name="0125 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>あからさまに怪しいのは、この
-ノートパソコンだ</value>
+    <value>This laptop is clearly suspicious.</value>
   </data>
   <data name="0126 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>だからと言って、どうすればいいか
-分かるわけじゃない</value>
+    <value>But even so, there's no way of me knowing what I should do with it.</value>
   </data>
   <data name="0127 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>いっそ叩き壊せばいいのか</value>
+    <value>Maybe I should just destroy it?</value>
   </data>
   <data name="0128 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>それとも、何かのパスワードでも
-打ち込めばいいのか……</value>
+    <value>Or maybe I could enter some kind of password…</value>
   </data>
   <data name="0129 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>まさか、遺言でも書けってんじゃ
-ないだろうな、おい</value>
+    <value>You're not just here, so I can write my will, are you? Oi.</value>
   </data>
   <data name="0130 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>壁に背をつけて、迫り来る黒板の
-大口をにらみつけた</value>
+    <value>Back against the wall—I scowled at the blackboard's giant mouth.</value>
   </data>
   <data name="0131 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>モップは役に立たない。出口は無い
-オマケに今にも喰われそうな状況だ</value>
+    <value>The mop was useless, there's no exit, and as a bonus, I'm about to be eaten.</value>
   </data>
   <data name="0132 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>一体、俺はどうすれば――</value>
+    <value>What on eath should I—</value>
   </data>
   <data name="0133 (381.ja) UNKNOWN (？？？)" xml:space="preserve">
-    <value>どいて</value>
+    <value>Move.</value>
   </data>
   <data name="0134 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>背後から声がした</value>
+    <value>A voice came from behind me.</value>
   </data>
   <data name="0135 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>な、長門？　長門なのかっ！？</value>
+    <value>N-Nagato? Is that Nagato?!</value>
   </data>
   <data name="0136 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ガラスの割れるような音と共に
-壁に亀裂が走り、割れる</value>
+    <value>A crack ran across the wall, splitting it accompanied by the sound of breaking glass.</value>
   </data>
   <data name="0137 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>その亀裂から現れたのは……</value>
+    <value>What came from the crack was…</value>
   </data>
   <data name="0139 (381.ja) NAGATO (長門)" xml:space="preserve">
-    <value>間に合った</value>
+    <value>It's not too late.</value>
   </data>
   <data name="0140 (381.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>どうやら、ご無事のようですね</value>
+    <value>Looks like you haven't been harmed at all.</value>
   </data>
   <data name="0141 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>長門！　それに古泉……！</value>
+    <value>Nagato! And Koizumi…!</value>
   </data>
   <data name="0142 (381.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>これはまた、危機的な状況ですね
-なるほど、確かに人喰い教室です</value>
+    <value>This is another perilous situation indeed. I see—it's certainly a man-eating classroom.</value>
   </data>
   <data name="0143 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>無駄口を叩いてる場合か、はやく
-脱出しなきゃ三人ともアウトだぞ！</value>
+    <value>Now's not the time to chat. We need to get out of here fast, or we'll all be "out!"</value>
   </data>
   <data name="0144 (381.ja) NAGATO (長門)" xml:space="preserve">
-    <value>無理</value>
+    <value>We can't.</value>
   </data>
   <data name="0145 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>え……？</value>
+    <value>Huh…?</value>
   </data>
   <data name="0146 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>長門の背後で、壊れた壁が凄まじい
-勢いで元に戻っていく</value>
+    <value>Behind Nagato, the broken wall returned to normal with an almighty force.</value>
   </data>
   <data name="0147 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>な、なんなんだ……！？</value>
+    <value>Wh-what on earth…?!</value>
   </data>
   <data name="0148 (381.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>外から対処したのでは間に合わない
-可能性が高かったもので</value>
+    <value>There was a high chance that we wouldn't have time to deal with it from the outside.</value>
   </data>
   <data name="0149 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>間に合わないって……</value>
+    <value>Not have time…?</value>
   </data>
   <data name="0150 (381.ja) NAGATO (長門)" xml:space="preserve">
-    <value>情報生命体が、この空間内で
-存在確率を高めようとしている</value>
+    <value>The data lifeform is trying to increase its existance probability in this space.</value>
   </data>
   <data name="0151 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>つまり、ここにいたら命が危ない
-ってことか？</value>
+    <value>In other words, our lives are in danger as long as we're in here?</value>
   </data>
   <data name="0152 (381.ja) NAGATO (長門)" xml:space="preserve">
-    <value>そう</value>
+    <value>Yes.</value>
   </data>
   <data name="0153 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>でも、おまえらまでここに来たら
-どうやって対処するつもりだ？</value>
+    <value>But what are you guys planning to do about it now you're in here?</value>
   </data>
   <data name="0154 (381.ja) NAGATO (長門)" xml:space="preserve">
-    <value>これを……</value>
+    <value>Use this…</value>
   </data>
   <data name="0155 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そう言って、長門が差し出したのは
-またしても一本のモップだった</value>
+    <value>Saying so, Nagato once again handed me a mop.</value>
   </data>
   <data name="0156 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>それはさっき試した。まったく役に
-立たなかったぞ</value>
+    <value>I just tried that, but it was completely useless.</value>
   </data>
   <data name="0157 (381.ja) NAGATO (長門)" xml:space="preserve">
-    <value>属性情報を付加しない限り
-ただのモップ</value>
+    <value>Without appended attribute data it's a mere mop.</value>
   </data>
   <data name="0158 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>とにかく、今はもうただのモップ
-じゃないってことか？</value>
+    <value>So you're telling me this is no longer a mere mop?</value>
   </data>
   <data name="0159 (381.ja) NAGATO (長門)" xml:space="preserve">
-    <value>そう。この空間を固定する
-“特異点”をこれで破壊して</value>
+    <value>Yes. Use this to destroy the singularities that keep this space stabilized.</value>
   </data>
   <data name="0160 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>また例の掃除ごっこを、やれって
-いうのか？　この危機的状況で？</value>
+    <value>You want me to play clean up again? At such a critical time?</value>
   </data>
   <data name="0161 (381.ja) NAGATO (長門)" xml:space="preserve">
-    <value>そう</value>
+    <value>Yes.</value>
   </data>
   <data name="0162 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>長門にも、あの黒板が見えるだろ？</value>
+    <value>You can see that blackboard as well, right Nagato?</value>
   </data>
   <data name="0163 (381.ja) NAGATO (長門)" xml:space="preserve">
-    <value>見える。大きな障害ではない</value>
+    <value>I can see. It's not a major obstacle.</value>
   </data>
   <data name="0164 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>と、いつもながらの淡々とした
-様子で、長門は黒板に手をかざした</value>
+    <value>With her usual nonchalance, Nagato held her hand over the blackboard.</value>
   </data>
   <data name="0165 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>その瞬間、黒板がすさまじい勢いで
-元の姿に戻ってゆく</value>
+    <value>In that moment, the blackboard returned to its original form with great force.</value>
   </data>
   <data name="0166 (381.ja) NAGATO (長門)" xml:space="preserve">
-    <value>わたしが抑える。だから、今のうち</value>
+    <value>I will restrain it, so do it now.</value>
   </data>
   <data name="0167 (381.ja) KYON (キョン)" xml:space="preserve">
-    <value>ああっ、わかった！
-やればいいんだろうっ！</value>
+    <value>Ah, got it! If I just do it, everything will be fine, right!?</value>
   </data>
   <data name="0168 (381.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>もしもの時はハルヒ、本物の霊に
-なってオマエの枕元に立つからな！</value>
+    <value>Because if worse comes to worst, I'll becomea real spirit and haunt you, Haruhi!</value>
   </data>
   <data name="0169 (381.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ハルヒについて</value>
+    <value>About Haruhi</value>
   </data>
 </root>
