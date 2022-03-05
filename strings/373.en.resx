@@ -89,7 +89,7 @@
     <value>If you see anything unusual, report back to your Brigade Chief immediately.</value>
   </data>
   <data name="0010 (373.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Here I go, okay?</value>
+    <value> Here I go!</value>
   </data>
   <data name="0011 (373.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Haruhi is alone in her enthusiasm, pacing up and down the long corridor.</value>
@@ -104,7 +104,8 @@
     <value>No, there's something here.</value>
   </data>
   <data name="0015 (373.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>I'm certain! The "man-eating classroom" that's long been plaguing North High, Class 1-10!</value>
+    <value>I'm certain! The "man-eating classroom" that
+long has plagued North High, Class 1-10!</value>
   </data>
   <data name="0016 (373.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>First I've heard of that. Long or not—I only heard about it today.</value>
@@ -116,7 +117,7 @@
     <value>If it's espers you need I happen to know one.</value>
   </data>
   <data name="0019 (373.ja) KYON (キョン)" xml:space="preserve">
-    <value>The Computer Society member who claimed to have witnessed it probably just made a mistake.</value>
+    <value>The Computer Society member who claimed to have seen it probably just made a mistake.</value>
   </data>
   <data name="0020 (373.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Listen here, Kyon.</value>
@@ -170,13 +171,14 @@
     <value>No, it is related. Without a doubt.</value>
   </data>
   <data name="0037 (373.ja) KYON (キョン)" xml:space="preserve">
-    <value>In that case, you're quite dog-like so I guess you can't sense the supernatural at all?</value>
+    <value>In that case, you're quite dog-like so I guess
+you can't sense the supernatural at all?</value>
   </data>
   <data name="0038 (373.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>You're the one who's like a dog.</value>
   </data>
   <data name="0039 (373.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>If anything you're a polar bear... or a sealion maybe.</value>
+    <value>If anything you're a polar bear... or a sea lion maybe.</value>
   </data>
   <data name="0040 (373.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>As usual she says something awful. Just how do you perceive me?</value>
@@ -248,7 +250,7 @@
     <value>Setting that aside, let's use your abilities to search for the supernatural, Yuki!</value>
   </data>
   <data name="0063 (373.ja) KYON (キョン)" xml:space="preserve">
-    <value>"Settings that aside" doesn't work here at all.</value>
+    <value>"Setting that aside" doesn't work here at all.</value>
   </data>
   <data name="0064 (373.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Okay, Yuki, go!</value>
@@ -278,7 +280,7 @@
     <value>It's like she's searching for stolen goods with a police dog, but can't find anything.</value>
   </data>
   <data name="0074 (373.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>She's not going to tell Haruhi if there is something, but still—please don't find anything.</value>
+    <value>She's not going to tell Haruhi if there is som- ething, but still—please don't find anything.</value>
   </data>
   <data name="0075 (373.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Hey, this hallway, doesn't it look different from normal?</value>
@@ -323,7 +325,7 @@
     <value>I'm gonna go back for a while and re-examine what we know.</value>
   </data>
   <data name="0089 (373.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Kyon and Yuki, please search for leads.</value>
+    <value>Kyon and Yuki, search for leads!</value>
   </data>
   <data name="0090 (373.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Haruhi said over her shoulder while leaving.</value>
@@ -455,7 +457,7 @@
     <value>I became worried all over again.</value>
   </data>
   <data name="0134 (373.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>She does seem like a cat.</value>
+    <value>She does seem like a cat</value>
   </data>
   <data name="0135 (373.ja) INFO (CHOICE)" xml:space="preserve">
     <value>Don't think so</value>
