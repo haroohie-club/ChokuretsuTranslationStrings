@@ -59,153 +59,129 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0001 (380.ja) KYON (キョン)" xml:space="preserve">
-    <value>……それで？　話の続きは？</value>
+    <value>…So, is it time to continue the conversation from before?</value>
   </data>
   <data name="0002 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>続き、といいますと？</value>
+    <value>Continue, you say?</value>
   </data>
   <data name="0003 (380.ja) KYON (キョン)" xml:space="preserve">
-    <value>とぼけるな。さっきは、どうして
-俺を止めたんだ</value>
+    <value>Don't play dumb. Earlier, you stopped me for some reason.</value>
   </data>
   <data name="0004 (380.ja) KYON (キョン)" xml:space="preserve">
-    <value>理由をまだ、最後まで聞いてないぞ</value>
+    <value>Without saying why, you never let me finish.</value>
   </data>
   <data name="0005 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ああ、そうでした。これは失礼</value>
+    <value>Ah! So I did—I apologize for the rudeness.</value>
   </data>
   <data name="0006 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>僕はただ、こう思っただけなんです</value>
+    <value>I was merely thinking some things over.</value>
   </data>
   <data name="0007 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>果たして、涼宮さんが他人の言葉に
-説得されるような方だろうか……と</value>
+    <value>Such as—Is Miss Suzumiya actually the type to be easily persuaded by others?</value>
   </data>
   <data name="0008 (380.ja) KYON (キョン)" xml:space="preserve">
-    <value>……どういうことだ？</value>
+    <value>…What do you mean?</value>
   </data>
   <data name="0009 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>まだ短いお付き合いではありますが
-僕なりに、涼宮さんを分析しました</value>
+    <value>Although we've only known each other for a while, I've been analyzing her in my own way.</value>
   </data>
   <data name="0010 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>彼女は、どちらかと言えば、自身で
-物事を解決したいタイプかと</value>
+    <value>If I had to say, she may be the type that likes to solve everything by herself.</value>
   </data>
   <data name="0011 (380.ja) KYON (キョン)" xml:space="preserve">
-    <value>まあ、そうかもな</value>
+    <value>Well, that might be right.</value>
   </data>
   <data name="0012 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>だとすれば、こちらから結論を押し
-つけても逆効果ではありませんか？</value>
+    <value>If that's so, wouldn't imposing our own concl- usions on her have the opposite effect?</value>
   </data>
   <data name="0013 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>彼女自身が判断材料を見つけ、推理
-を組み立て、結論を導く……</value>
+    <value>Observing her own evidence, assembling her deductions, and being led to her conclusions…</value>
   </data>
   <data name="0014 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>そうすることで、初めて涼宮さんは
-納得するのではないでしょうか？</value>
+    <value>Wouldn't doing so for the first time be fully satisfying for Miss Suzumiya?</value>
   </data>
   <data name="0015 (380.ja) KYON (キョン)" xml:space="preserve">
-    <value>長ったらしく言うな。要するに自分
-の結論以外は却下だってコトだろう</value>
+    <value>Don't be so longwinded. In short she rejects all conclusions but her own?</value>
   </data>
   <data name="0016 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>そこまで言い切る度胸は、僕には
-ありません</value>
+    <value>I don't have the nerve to go that far I'm afraid.</value>
   </data>
   <data name="0017 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>なにせ、小心者なのでね</value>
+    <value>After all—I'm quite the timid person.</value>
   </data>
   <data name="0018 (380.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>心にもないことを言いやがる</value>
+    <value>You have the nerve for insincere flattery all the time.</value>
   </data>
   <data name="0020 (380.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>あのう……それって、逆も成り立ち
-ませんか？</value>
+    <value>Ummm… About that, couldn't the reverse also happen?</value>
   </data>
   <data name="0021 (380.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>不意に、朝比奈さんが手を挙げた
-逆が成り立つ？　どういうことだ？</value>
+    <value>Suddenly, Asahina raised her hand. Couldn't the reverse happen—what might that mean?</value>
   </data>
   <data name="0022 (380.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>えっと、例えば涼宮さんが納得でき
-るように、こちらから誘導するとか</value>
+    <value>Weeell, if you wanted to convince her, couldn't you lead her a certain way or something?</value>
   </data>
   <data name="0023 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>同じことを、僕も考えていました</value>
+    <value>I was just considering the same thing.</value>
   </data>
   <data name="0024 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>例え、我々が用意した“インチキ”
-であっても、彼女が納得すればいい</value>
+    <value>Even if what we prepare is trickery, she may still be content.</value>
   </data>
   <data name="0025 (380.ja) KYON (キョン)" xml:space="preserve">
-    <value>……それらしい“証拠”を、ハルヒ
-の前にチラつかせるってことか？</value>
+    <value>…Dangle the glimmering carrot of evidence in front of her face huh?</value>
   </data>
   <data name="0026 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>それも一つの手段かと思います</value>
+    <value>I suppose that's also one method to consider.</value>
   </data>
   <data name="0027 (380.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>一つの手段、ね……</value>
+    <value>…One method to consider…</value>
   </data>
   <data name="0028 (380.ja) KYON (キョン)" xml:space="preserve">
-    <value>長門、オマエはどう思う？</value>
+    <value>Nagato—what do you think?</value>
   </data>
   <data name="0030 (380.ja) NAGATO (長門)" xml:space="preserve">
     <value>……</value>
   </data>
   <data name="0031 (380.ja) KYON (キョン)" xml:space="preserve">
-    <value>意見の一つくらい、あるだろう？</value>
+    <value>Surely you have at least one opinion?</value>
   </data>
   <data name="0032 (380.ja) NAGATO (長門)" xml:space="preserve">
-    <value>涼宮ハルヒの決定が結論になる
-その過程は問題にならない</value>
+    <value>Haruhi Suzumiya's decision is the conclusion. The process is negligible.</value>
   </data>
   <data name="0033 (380.ja) NAGATO (長門)" xml:space="preserve">
-    <value>……だから、誘導は効果的</value>
+    <value>…Therefore guidance is effective.</value>
   </data>
   <data name="0034 (380.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>つまり、長門は古泉や朝比奈さん
-と同じ意見だってことだな</value>
+    <value>In other words—Nagato has the same view as Koisumi and Asahina.</value>
   </data>
   <data name="0035 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>涼宮さんの推理を誘導するために
-随所に、手がかりを配置する……</value>
+    <value>To guide Miss Suzumiya's reasoning, arranging clues at every turn…</value>
   </data>
   <data name="0036 (380.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>おそらく、高度なチームプレイが
-要求されるでしょうね</value>
+    <value>Most likely, it will require a high degree of teamplay, wouldn't you say?</value>
   </data>
   <data name="0037 (380.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>だろうな。個人で出来ることなんて
-たかが知れてる。協力が必要だ</value>
+    <value>I agree. What can an induvial accomplish on his own? Cooperation is paramount.</value>
   </data>
   <data name="0038 (380.ja) KYON (キョン)" xml:space="preserve">
-    <value>よし、じゃあそのセンで行くとして
-まずは……どうする？</value>
+    <value>Alright, let's start moving in that direction. Where should we begin?</value>
   </data>
   <data name="0039 (380.ja) NAGATO (長門)" xml:space="preserve">
-    <value>情報の共有が最優先</value>
+    <value>Information sharing is a maximum priority.</value>
   </data>
   <data name="0040 (380.ja) NAGATO (長門)" xml:space="preserve">
-    <value>対応策を全員が知っておくことが
-必要</value>
+    <value>All members knowing the counter-measure is essential.</value>
   </data>
   <data name="0041 (380.ja) KYON (キョン)" xml:space="preserve">
-    <value>そうだな。さっきの調査で手に入れ
-た“手がかり”を共有しておこう</value>
+    <value>That's right. Be sure to share any "clues" you find while investigating.</value>
   </data>
   <data name="0042 (380.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>俺の知らない何かを、他の誰かが
-知っているかもしれない</value>
+    <value>Something that I don't know, someone else might know.</value>
   </data>
   <data name="0043 (380.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>俺たちは、互いに知りえた情報を
-速やかに交換しあった……</value>
+    <value>We quickly exchanged all the information we had with each other…</value>
   </data>
   <data name="0044 (380.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ハルヒについて</value>
+    <value>About Haruhi</value>
   </data>
 </root>
