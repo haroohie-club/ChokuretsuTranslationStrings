@@ -126,14 +126,13 @@ Research Society for more details.</value>
     <value>Gathering the troops</value>
   </data>
   <data name="0038 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>Stakeout</value>
+    <value>Lookout</value>
   </data>
   <data name="0039 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>Stakeout in front of the music room.
-(Deploy at least 1 member.)</value>
+    <value>Keep watch in front of the music room. (Assign at least 1 member)</value>
   </data>
   <data name="0040 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>Staked out the area in front of the music room.</value>
+    <value>Kept watch outside the music room.</value>
   </data>
   <data name="0042 (580.ja) INFO (INFO)" xml:space="preserve">
     <value>Reconfirm</value>
@@ -160,13 +159,13 @@ Research Society for more details.</value>
     <value>A place that doesn't exist</value>
   </data>
   <data name="0057 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>Search for materials</value>
+    <value>Materials</value>
   </data>
   <data name="0058 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>Research based on the materials brought from the library.</value>
+    <value>Do research based on the materials brought from the library.</value>
   </data>
   <data name="0059 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>Researched the materials brought from the library.</value>
+    <value>Researched with the materials brought from the library.</value>
   </data>
   <data name="0061 (580.ja) INFO (INFO)" xml:space="preserve">
     <value>In the mountain of books</value>
@@ -193,7 +192,7 @@ Research Society for more details.</value>
     <value>Key acquisition</value>
   </data>
   <data name="0075 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>Go to the staff room to borrow the key to the music room. (Deploy at least 1 member.)</value>
+    <value>Go to the staff room to borrow the key to the music room. (Asssign at least 1 member)</value>
   </data>
   <data name="0076 (580.ja) INFO (INFO)" xml:space="preserve">
     <value>Borrowed the key to the music room from the staff room.</value>
@@ -376,8 +375,7 @@ Research Society for more details.</value>
     <value>Going shopping</value>
   </data>
   <data name="0176 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>Go for a late night shop.
-(Deploy at least 1 member.)</value>
+    <value>Go for a late night shop. (Asssign at least 1 member)</value>
   </data>
   <data name="0177 (580.ja) INFO (INFO)" xml:space="preserve">
     <value>Went for a late night shop.</value>
@@ -431,8 +429,7 @@ Research Society for more details.</value>
     <value>Capture</value>
   </data>
   <data name="0206 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>Capture the members of the computer club.
-(Deploy at least 1 member.)</value>
+    <value>Capture the members of the computer club. (Asssign at least 1 member)</value>
   </data>
   <data name="0207 (580.ja) INFO (INFO)" xml:space="preserve">
     <value>Captured the computer society members who have been acting strangely.</value>
@@ -498,8 +495,7 @@ Research Society for more details.</value>
     <value>Prevention</value>
   </data>
   <data name="0244 (580.ja) INFO (INFO)" xml:space="preserve">
-    <value>Hold up Haruhi in the clubroom.
-(Deploy at least 1 member.)</value>
+    <value>Hold up Haruhi in the clubroom. (Asssign at least 1 member)</value>
   </data>
   <data name="0245 (580.ja) INFO (INFO)" xml:space="preserve">
     <value>Held up Haruhi in the clubroom.</value>
