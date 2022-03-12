@@ -107,16 +107,16 @@
     <value>$10H-hold on! #W20$7You don't have to say it!</value>
   </data>
   <data name="0017 (388.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>$10I was about to get a long answer that I don't want to hear.</value>
+    <value>$10I was dangerously close to hearing something I don't want to know.</value>
   </data>
   <data name="0018 (388.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>$8This is my personal opinion but, #W20If it only happens three times, #W70that would be ideal.</value>
+    <value>$8This is my personal opinion but, #W20If we're done after only three, #W70I'd rather do more.</value>
   </data>
   <data name="0019 (388.ja) KYON (キョン)" xml:space="preserve">
     <value>$10Huh#W20…#W10…#W20!?</value>
   </data>
   <data name="0022 (388.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$6How long are you gonna make me wait!　#W10Kyon!</value>
+    <value>$6How long are you gonna make me wait! #W10Kyon!</value>
   </data>
   <data name="0023 (388.ja) KYON (キョン)" xml:space="preserve">
     <value>$10Haruhi#W20…#W10…</value>
@@ -128,31 +128,31 @@
     <value>$8To begin with, #W10what I want is #W10a mystery worthy of the new seven wonders.</value>
   </data>
   <data name="0026 (388.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$8If this is gonna end like some third rate mystery, I'd rather it not exist at all!</value>
+    <value>$8If this ends up like some third rate mystery, I'd rather not have a mystery at all!</value>
   </data>
   <data name="0027 (388.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$8Do you get it? #W20$7If you do, get moving now!</value>
+    <value>$8Got that? #W20$7If so, get moving now!</value>
   </data>
   <data name="0028 (388.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>$12What a mess#W20…#W10…</value>
   </data>
   <data name="0029 (388.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>$10This Haruhi… #W30$9Far from being satisfied, #W10she's lighting a fire underneath me instead.</value>
+    <value>$10This Haruhi… #W30$9Far from being satisfied, #W10she's getting flared up instead.</value>
   </data>
   <data name="0030 (388.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$9Koizumi—next?</value>
+    <value>$9Koizumi—what's next?</value>
   </data>
   <data name="0031 (388.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>$9Right away, #W20Miss Suzumiya.</value>
+    <value>$9Of course, #W20Miss Suzumiya.</value>
   </data>
   <data name="0032 (388.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>$8After that was… #W30The music room piano case. #W20Isn't it perfect?</value>
+    <value>$8Chronologically—#W30the case of the piano in the music room. #W20Isn't that perfect?</value>
   </data>
   <data name="0033 (388.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$10In that case, that settles it!</value>
+    <value>$10Then let's go for that!</value>
   </data>
   <data name="0034 (388.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>$10This time, #W20ばI'll gaze upon real unnatural phenomena #W10with my own eyes!</value>
+    <value>$10This time, #W20I'll gaze upon real unnatural phenomena #W10with my own eyes!</value>
   </data>
   <data name="0035 (388.ja) INFO (CHOICE)" xml:space="preserve">
     <value>About Haruhi.</value>
