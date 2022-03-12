@@ -812,13 +812,13 @@ Suddenly, a human face!</value>
     <value>Ahhh, the mark of the plate on your head! it's not swelling, is it?</value>
   </data>
   <data name="0262 (376.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>With but the caress of your hand, such a wound can heal instantly.</value>
+    <value>With but the caress of your hand, even such a wound would heal instantly.</value>
   </data>
   <data name="0263 (376.ja) MIKURU (みくる)" xml:space="preserve">
     <value>We removed the plate, but it'll be hard to replace it…</value>
   </data>
   <data name="0264 (376.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>What should we do? The time is…</value>
+    <value>What should we do? We've not got much time…</value>
   </data>
   <data name="0265 (376.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>We don't have much time, and our options are limited. So what should we do?</value>
@@ -827,7 +827,7 @@ Suddenly, a human face!</value>
     <value>Well… should we try it again? Just one more time?</value>
   </data>
   <data name="0267 (376.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>I think we should wait for Koizumi to return with something.</value>
+    <value>I think we should wait for Koizumi to return with something to stand on.</value>
   </data>
   <data name="0268 (376.ja) MIKURU (みくる)" xml:space="preserve">
     <value>If I fall down again, you'll be crushed flat.</value>
@@ -851,37 +851,37 @@ Suddenly, a human face!</value>
     <value>If it's filled with Asahina's feelings of thoughtfulness, I'm very grateful.</value>
   </data>
   <data name="0275 (376.ja) KYON (キョン)" xml:space="preserve">
-    <value>I don't want to wait for Koizumi—so let's give up.</value>
+    <value>There's no time and I don't want to wait for Koizumi—let's give up.</value>
   </data>
   <data name="0276 (376.ja) MIKURU (みくる)" xml:space="preserve">
     <value>I see… I'm sorry I couldn't help…</value>
   </data>
   <data name="0277 (376.ja) KYON (キョン)" xml:space="preserve">
-    <value>Not at all! It's because of you we got the plate down.</value>
+    <value>Not at all! It's because of you that we were able to get the plate down.</value>
   </data>
   <data name="0278 (376.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Although I don't know if this #P05class 6 plate#P01 will be useful for anything…</value>
+    <value>Although I don't know what this #P05class 6 plate#P01 will be useful for if anything…</value>
   </data>
   <data name="0279 (376.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>I'm grateful Asahina worked so hard to get me this plate.</value>
+    <value>But I should be grateful Asahina worked so hard to get me this plate.</value>
   </data>
   <data name="0280 (376.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>I might be able to find some use for it, so I'll take it with me.</value>
   </data>
   <data name="0281 (376.ja) KYON (キョン)" xml:space="preserve">
-    <value>Let's keep an eye out for Koizumi as we head back to the clubroom.</value>
+    <value>Let's head back to the clubroom while keeping an eye out for Koizumi.</value>
   </data>
   <data name="0282 (376.ja) MIKURU (みくる)" xml:space="preserve">
     <value>Okay.</value>
   </data>
   <data name="0283 (376.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Ah—my head's going numb.</value>
+    <value>Ah—I can feel my head throbbing.</value>
   </data>
   <data name="0284 (376.ja) INFO (CHOICE)" xml:space="preserve">
     <value>Call out to Asahina.</value>
   </data>
   <data name="0285 (376.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Suggest stopping this to Koizumi.</value>
+    <value>Ask Koizumi to put a stop to this.</value>
   </data>
   <data name="0286 (376.ja) INFO (CHOICE)" xml:space="preserve">
     <value>Try again.</value>
