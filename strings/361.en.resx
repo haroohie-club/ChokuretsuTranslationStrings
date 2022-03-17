@@ -725,13 +725,13 @@
     <value>…Isn't that hot, Nagato?</value>
   </data>
   <data name="0274 (361.ja) NAGATO (長門)" xml:space="preserve">
-    <value>Fine.</value>
+    <value>It's fine.</value>
   </data>
   <data name="0276 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>That's it!</value>
   </data>
   <data name="0277 (361.ja) KYON (キョン)" xml:space="preserve">
-    <value>Wha?! Wh-What?</value>
+    <value>Wha?! Wh-what?</value>
   </data>
   <data name="0279 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Thanks to that, I almost burned my lips on my tea.</value>
@@ -794,7 +794,8 @@
     <value>As the meter goes right, Haruhi's attention is diverted toward miscellaneous information.</value>
   </data>
   <data name="0306 (361.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Depending on future choices such as "Who do I do the action with" or "What do I chose"…</value>
+    <value>Depending on future choices such as "Who do
+I do the action with" or "What do I choose"…</value>
   </data>
   <data name="0307 (361.ja) INFO (インフォ)" xml:space="preserve">
     <value>…the way Kyon chooses to act will have an effect on the Haruhi Meter.</value>
@@ -1145,7 +1146,7 @@
     <value>After responding, Haruhi fell deep into thought about something or another.</value>
   </data>
   <data name="0263 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>I take cup from Asahina, which is so hot it seems likely to burn me.</value>
+    <value>I took the cup from Asahina, which was so hot it seemed likely to burn me.</value>
   </data>
   <data name="0269 (361.ja) MIKURU (朝比奈)" xml:space="preserve">
     <value>And Nagato, um, your tea…</value>
@@ -1169,13 +1170,13 @@
     <value>In this case, when you start the Puzzle Phase later…</value>
   </data>
   <data name="0305 (361.ja) INFO (インフォ)" xml:space="preserve">
-    <value>You will receive a bonus to your puzzle-solving time, and the difficulty will decrease.</value>
+    <value>You will receive a bonus to your puzzle- solving time, and the difficulty will decrease.</value>
   </data>
   <data name="0309 (361.ja) INFO (インフォ)" xml:space="preserve">
     <value>By doing so, you can cause the meter to move to the right side.</value>
   </data>
   <data name="0312 (361.ja) INFO (インフォ)" xml:space="preserve">
-    <value>The basic method to moving the Haruhi Meter to the right, is as follows:</value>
+    <value>The basic technique for moving the Haruhi Meter to the right, is as follows:</value>
   </data>
   <data name="0318 (361.ja) KYON (キョン)" xml:space="preserve">
     <value>Wait, Haruhi, Asahina made tea especially for you!</value>
