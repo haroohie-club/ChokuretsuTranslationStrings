@@ -59,16 +59,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (094.ja) KYON (キョン)" xml:space="preserve">
-    <value>Say, Brigade Chief.</value>
+    <value>Say, brigade chief.</value>
   </data>
   <data name="0001 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Huh, it's pretty rare for you to call me Brigade Chief.</value>
+    <value>Huh, it's pretty rare for you to call me brigade chief.</value>
   </data>
   <data name="0002 (094.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>I'm in the right mood to. It's what I want to talk about.</value>
   </data>
   <data name="0003 (094.ja) KYON (キョン)" xml:space="preserve">
-    <value>Well, it's just… There's something I want to ask you, the Brigade Chief.</value>
+    <value>Well, it's just… There's something I want to ask you, the brigade chief.</value>
   </data>
   <data name="0004 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Can't we do this later? We're busy right now.</value>
@@ -77,7 +77,7 @@
     <value>Well, don't say that.</value>
   </data>
   <data name="0006 (094.ja) KYON (キョン)" xml:space="preserve">
-    <value>What I want to ask, is whether anyone will ever inherit the Brigade Chief title.</value>
+    <value>What I want to ask, is whether anyone will ever inherit the brigade chief title.</value>
   </data>
   <data name="0007 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>There's obviously no way that's going to happen.</value>
@@ -161,7 +161,7 @@
     <value>I-it's just…</value>
   </data>
   <data name="0034 (094.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>Wh-what do you need to do to become Brigade Chief?!</value>
+    <value>Wh-what do you need to do to become brigade chief?!</value>
   </data>
   <data name="0035 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>…Huh?</value>
@@ -170,7 +170,7 @@
     <value>Wh-what? Was that maybe a weird thing to ask?!</value>
   </data>
   <data name="0037 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Hmmm… So you wanna become Brigade Chief?</value>
+    <value>Hmmm… So you wanna become brigade chief?</value>
   </data>
   <data name="0038 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>That's a surprisingly bold thing for you to say, Mikuru</value>
@@ -185,7 +185,7 @@
     <value>Huh…?</value>
   </data>
   <data name="0042 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>In order to become the SOS Brigade's Brigade Chief, you have to…</value>
+    <value>In order to become the SOS Brigade's brigade chief, you have to…</value>
   </data>
   <data name="0043 (094.ja) MIKURU (みくる)" xml:space="preserve">
     <value>You have to…</value>
@@ -209,7 +209,7 @@
     <value>The SOS Brigade works the same!</value>
   </data>
   <data name="0050 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>I'll only let those whose strength I've tested myself become our next Brigade Chief.</value>
+    <value>I'll only let those whose strength I've tested myself become our next brigade chief.</value>
   </data>
   <data name="0051 (094.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Having said that—I'll accept your challenge whenever you want, Mikuru.</value>

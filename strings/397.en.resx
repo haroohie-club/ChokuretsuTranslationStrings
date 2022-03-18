@@ -336,7 +336,7 @@ The sound of a piano…</value>
     <value>Nagato?!</value>
   </data>
   <data name="0093 (397.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Nagato smashed the music box as I was trying to pick it up.</value>
+    <value>Nagato broke the music box as I was trying to pick it up.</value>
   </data>
   <data name="0094 (397.ja) KYON (キョン)" xml:space="preserve">
     <value>Why'd you do that, Nagato?</value>
@@ -363,81 +363,69 @@ The sound of a piano…</value>
     <value>Perhaps he was being controlled by this music box…?</value>
   </data>
   <data name="0102 (397.ja) KYON (キョン)" xml:space="preserve">
-    <value>このオルゴールが事件の真相だって
-推理は、あながち間違いでも</value>
+    <value>Seems like it wasn't far off to assume that this music box had…</value>
   </data>
   <data name="0103 (397.ja) KYON (キョン)" xml:space="preserve">
-    <value>なかったみたいですね</value>
+    <value>…something to do with the truth behind the case.</value>
   </data>
   <data name="0104 (397.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>このオルゴール、どうしましょうか</value>
+    <value>What should we do about this music box?</value>
   </data>
   <data name="0105 (397.ja) KYON (キョン)" xml:space="preserve">
-    <value>壊れたとは言え、こんなものを
-放置しておくのは危険だな……</value>
+    <value>It would be dangerous to leave it here, even if it's broken…</value>
   </data>
   <data name="0106 (397.ja) KYON (キョン)" xml:space="preserve">
-    <value>こいつは回収しておきましょう</value>
+    <value>Let's keep hold of it.</value>
   </data>
   <data name="0107 (397.ja) KYON (キョン)" xml:space="preserve">
-    <value>壊れたとは言え、どんな危険性が
-あるか、分かったもんじゃないな</value>
+    <value>It may be broken, but we don't know what other dangers there might be.</value>
   </data>
   <data name="0108 (397.ja) KYON (キョン)" xml:space="preserve">
-    <value>とりあえす、触らずにおきましょう</value>
+    <value>Let's not touch it and just leave it alone for the time being.</value>
   </data>
   <data name="0109 (397.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>誰かが触ると危ないかも
-しれませんね</value>
+    <value>It might be dangerous if someone touches it, right?</value>
   </data>
   <data name="0110 (397.ja) KYON (キョン)" xml:space="preserve">
-    <value>メモの切れ端に『触るなキケン』と
-でも書いて貼っておきましょうか</value>
+    <value>Shall we stick on a piece of paper with "Danger: Do not touch" written on it?</value>
   </data>
   <data name="0111 (397.ja) KYON (キョン)" xml:space="preserve">
-    <value>……いや、待てよ</value>
+    <value>…Wait, hold on.</value>
   </data>
   <data name="0112 (397.ja) KYON (キョン)" xml:space="preserve">
-    <value>ハルヒみたいなのがメモを見たら
-却って好奇心をあおりかねないな</value>
+    <value>If someone like Haruhi sees that, it'd only make them want to touch it more.</value>
   </data>
   <data name="0113 (397.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>はあ、そんな気もします
-難しいですね……</value>
+    <value>I get the same feeling. It's tricky…</value>
   </data>
   <data name="0114 (397.ja) KYON (キョン)" xml:space="preserve">
-    <value>やっぱりメモはやめておきましょう</value>
+    <value>I guess we should hold off on the memo idea then.</value>
   </data>
   <data name="0115 (397.ja) NAGATO (長門)" xml:space="preserve">
-    <value>このオルゴールを仕掛けた、対象
-が存在する</value>
+    <value>There is a subject that planted this music box.</value>
   </data>
   <data name="0116 (397.ja) KYON (キョン)" xml:space="preserve">
-    <value>長門の言う通りだな
-真犯人がどこかにいるってことだ</value>
+    <value>Nagato's right—The culprit must be around somewhere.</value>
   </data>
   <data name="0117 (397.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>やっぱり怪しいのは、音楽室
-でしょうか……</value>
+    <value>I wonder if the music room is suspicious after all…?</value>
   </data>
   <data name="0118 (397.ja) KYON (キョン)" xml:space="preserve">
-    <value>音楽室へ乗り込む前に、古泉を
-呼びましょう</value>
+    <value>Let's call Koizumi before we barge into the music room.</value>
   </data>
   <data name="0119 (397.ja) KYON (キョン)" xml:space="preserve">
-    <value>あいつは怪しいヤツだが
-こういう時には頼りになる</value>
+    <value>He's a shady guy, but he's certainly reliable in times like these.</value>
   </data>
   <data name="0120 (397.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>長門に確認</value>
+    <value>Check with Nagato</value>
   </data>
   <data name="0121 (397.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>みくるに確認</value>
+    <value>Check with Mikuru</value>
   </data>
   <data name="0122 (397.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>オルゴールを回収する</value>
+    <value>Collect the music box</value>
   </data>
   <data name="0123 (397.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>オルゴールを回収しない</value>
+    <value>Leave the music box</value>
   </data>
 </root>

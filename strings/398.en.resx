@@ -59,148 +59,124 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>あの、ちょっと待って下さい</value>
+    <value>Could we wait for a moment?</value>
   </data>
   <data name="0001 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>なんだよ、古泉？
-これから音楽室に行くんだろ？</value>
+    <value>What is it, Koizumi? We're gonna go to the music room now, right?</value>
   </data>
   <data name="0002 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>いえ、その前にちょっと確認して
-おきたい事があるんです</value>
+    <value>Actually, there's something I'd like to confirm beforehand.</value>
   </data>
   <data name="0003 (398.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>ふぇっ、な、なんですか？</value>
+    <value>Hu…? Wh-what is it?</value>
   </data>
   <data name="0004 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>すみません、朝比奈さん</value>
+    <value>Forgive me, Asahina.</value>
   </data>
   <data name="0005 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>気になることがありまして、まず
-確認をして音楽室に向かおうかと</value>
+    <value>There's something bothering me that I'd like to confirm before we head to the music room.</value>
   </data>
   <data name="0006 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>それで、なにを確認したいって？</value>
+    <value>So, what is it you want to confirm?</value>
   </data>
   <data name="0007 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>さっきの、あの部員の行動ですよ</value>
+    <value>The behavior of that club member just now.</value>
   </data>
   <data name="0008 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>ああ、いきなり楽譜を書き出したり
-した不気味な行動のことか</value>
+    <value>Yeah, the creepy way he suddenly started writing down sheet music?</value>
   </data>
   <data name="0009 (398.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>ほんとに気味が悪かったですね……</value>
+    <value>It truly was creepy…</value>
   </data>
   <data name="0010 (398.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>安心して下さい、朝比奈さん
-俺がついていますから</value>
+    <value>No need to worry, Asahina—I'm here with you.</value>
   </data>
   <data name="0011 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>あの不可解な行動について
-ちょっと引っかかるんです</value>
+    <value>There's something bothering me about that baffling behavior.</value>
   </data>
   <data name="0012 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>うん？　なにが引っかかるんだ？</value>
+    <value>Hm? What's bothering you?</value>
   </data>
   <data name="0013 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>長門の話だと、脳に特殊な情報が
-転写された痕跡があるってことだろ</value>
+    <value>Nagato said there were traces of data transcribed onto his mind, right?</value>
   </data>
   <data name="0014 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>そこなんですよ。ただ疲れただけで
-いきなり楽譜を書くのは不自然です</value>
+    <value>That's what I mean. It would be unnatural to suddenly write sheet music out of fatigue.</value>
   </data>
   <data name="0015 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>あのなあ。ハルヒが関わった事件は
-ことごとく不自然だろうが？</value>
+    <value>You know—every one of these cases Haruhi gets involved in is unnatural, right?</value>
   </data>
   <data name="0016 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>音楽部ならまだしも、コンピ研でと
-いうところが引っかかるんです</value>
+    <value>If it were a music club I could accept it, but the fact it's the Computer Society bugs me.</value>
   </data>
   <data name="0017 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>それは……</value>
+    <value>That's…</value>
   </data>
   <data name="0018 (398.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>たしかに不自然だ。音楽室での怪音
-と関係しているのだろうが……</value>
+    <value>…certainly unnatural. Maybe it has something to do with the creepy noise at the music room…</value>
   </data>
   <data name="0019 (398.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>すんなりと接点が見えてこない</value>
+    <value>There's no obvious connection.</value>
   </data>
   <data name="0020 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>……あなたは気になりませんか？</value>
+    <value>…Doesn't it bother you?</value>
   </data>
   <data name="0021 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>コンピ研と楽譜の接点が見えない
-ってことか？</value>
+    <value>You mean not seeing the relation between the sheet music and the Computer Society?</value>
   </data>
   <data name="0022 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ええ、確かに</value>
+    <value>Yes, precisely.</value>
   </data>
   <data name="0023 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>涼宮さんが望んだから始まった
-としても、脈絡がないです</value>
+    <value>Even if it started from Miss Suzumiya's desire, there's no logical connection.</value>
   </data>
   <data name="0024 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>そもそも脈絡があったような言い方
-だな？</value>
+    <value>You're talking like there was ever a logical connection to begin with?</value>
   </data>
   <data name="0025 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>涼宮さんの行動は、一見して脈絡が
-ないように見えることもありますね</value>
+    <value>It's true that Miss Suzumiya's actions can at a glance seem to have no rationality.</value>
   </data>
   <data name="0026 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>しかし、必ずどこかに接点があると
-思うのですよ</value>
+    <value>However, I believe there has to be a connection somewhere.</value>
   </data>
   <data name="0027 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>世のご都合主義でも、都合による
-必然性ってのがあるからな</value>
+    <value>Because as opportunist as this world may be, there's always circumstantial necessity.</value>
   </data>
   <data name="0028 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ええ。たしかに、その接点を探り
-出してから対策を練った方が</value>
+    <value>Yes, precisely. I think it'd be best for us to search for that connection…</value>
   </data>
   <data name="0029 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>良いのではないかと</value>
+    <value>…before we work on our plan of action.</value>
   </data>
   <data name="0030 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>それもそうだな</value>
+    <value>You're right.</value>
   </data>
   <data name="0031 (398.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>古泉に先を越された気分だが、接点
-を解明するのはムダなことじゃない</value>
+    <value>I feel like Koizumi beat me to the punch, but it makes sense to find the connection.</value>
   </data>
   <data name="0032 (398.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>コンピ研と楽譜という、一見無関係
-な接点が線になれば、いずれは……</value>
+    <value>If we find the connection between these two seemingly unrelated things, sure enough…</value>
   </data>
   <data name="0033 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>情報生命体にたどりつくってことか</value>
+    <value>…that should lead us to the data lifeform, right?</value>
   </data>
   <data name="0034 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>いち早くたどりつく可能性が高まる
-といったところでしょうね</value>
+    <value>It certainly raises our chances of finding it sooner.</value>
   </data>
   <data name="0035 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>可能性が高まる……か</value>
+    <value>Raises our chances… huh?</value>
   </data>
   <data name="0036 (398.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>遠回りすることにならなければ、俺
-としてはいいんだが</value>
+    <value>I just don't want this to end up take longer than it needs to.</value>
   </data>
   <data name="0037 (398.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>あの、どうすることになりました？</value>
+    <value>Um, so what are we going to do?</value>
   </data>
   <data name="0038 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>もう一度、コンピ研に戻ることに
-なりましたよ</value>
+    <value>We've decided to go back to the Computer Society.</value>
   </data>
   <data name="0039 (398.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>ええっ……また怖い話になったり
-しませんか？</value>
+    <value>Eek… It hasn't become something scary again, has it?</value>
   </data>
   <data name="0040 (398.ja) KYON (キョン)" xml:space="preserve">
     <value>大丈夫ですよ、朝比奈さん</value>
