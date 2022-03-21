@@ -612,121 +612,102 @@ Hold on a second…</value>
     <value>Koizumi—What's your explanation?</value>
   </data>
   <data name="0198 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>Well, this is no more than a hypothesis, but it's not a ghost.</value>
+    <value>Well, I can only theorise, but it's not a ghost.</value>
   </data>
   <data name="0199 (398.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>そ、そうなんですかぁ？</value>
+    <value>R-really…?</value>
   </data>
   <data name="0200 (398.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>怖い顔をしておどかすのもなんだが
-その笑みはなんとかならんか、古泉</value>
+    <value>Making a scary face is one thing, but can't you do something about that smile, Koizumi?</value>
   </data>
   <data name="0201 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>あの部員が音楽を担当しているのは
-先ほどの話で確認できましたから</value>
+    <value>Since the discussion we just had confirmed that that club member was in charge of music.</value>
   </data>
   <data name="0202 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>作曲までしていたおかげで、情報
-生命体に操作されやすかったんだな</value>
+    <value>Going as far as to write the music must've made him more manipulable by the data lifeform.</value>
   </data>
   <data name="0203 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>おそらく。音楽室から聞こえたと
-いうピアノの音も、説明できます</value>
+    <value>Most likely. It could also explain the piano sound heard coming from the music room.</value>
   </data>
   <data name="0204 (398.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>え、えっと……どういう風に
-つながっているんですか？</value>
+    <value>U-umm… How is it linked?</value>
   </data>
   <data name="0205 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>たとえば音源にする生音が欲しくて
-音楽室に行ったと考えられます</value>
+    <value>For example—we can imagine he went to the music room looking for raw sounds to sample.</value>
   </data>
   <data name="0206 (398.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>どういうことなんですか？</value>
+    <value>What do you mean?</value>
   </data>
   <data name="0207 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>そうですね、たとえば……</value>
+    <value>Let's see, for example…</value>
   </data>
   <data name="0208 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ピアノの音を録音してサンプリング
-しようとしたのかも知れません</value>
+    <value>He might have decided to record the sound of a piano to sample it.</value>
   </data>
   <data name="0209 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>たしかにその仮説はありえるな</value>
+    <value>That's certainly possible.</value>
   </data>
   <data name="0210 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>もしくは、頭の中で整理がつかずに
-ピアノで弾いたとも考えられます</value>
+    <value>Alternatively, he could've been grappling with an idea and wanted to play it on the piano.</value>
   </data>
   <data name="0211 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>情報生命体に弾かされていたって
-可能性もありそうだけどな</value>
+    <value>Though it's also possible it was played by the data lifeform.</value>
   </data>
   <data name="0212 (398.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>じゃあ、ピアノの音は幽霊の
-しわざじゃなかったんですね</value>
+    <value>Then, the piano sound wasn't a ghost after all, right?</value>
   </data>
   <data name="0213 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>はい、仮説が正しければ</value>
+    <value>Indeed, if our hypothesis is correct.</value>
   </data>
   <data name="0214 (398.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>ほっ……よかったぁ</value>
+    <value>Phew… That's good…</value>
   </data>
   <data name="0215 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>たしかに、その仮説はかなり的確な
-気がするな</value>
+    <value>I feel actually pretty confident about that hypothesis.</value>
   </data>
   <data name="0216 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ええ。これも仮説ですが、部員が
-ピアノを弾いていたとして……</value>
+    <value>Indeed. As another hypothesis, if we assume the club member was playing the piano…</value>
   </data>
   <data name="0217 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>他の部員がそれを聞いて、幽霊と
-勘違いしたというのはどうでしょう</value>
+    <value>If another member heard that, they could have mistaken it for a ghost. How about it?</value>
   </data>
   <data name="0218 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>どうでしょうってなんだよ？</value>
+    <value>What do you mean, "how about it"?</value>
   </data>
   <data name="0219 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>いえ、涼宮さんを納得させるには
-充分ではないかと</value>
+    <value>Actually, I was wondering if that might not be good enough to satisfy Miss Suzumiya?</value>
   </data>
   <data name="0220 (398.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>しれっとした顔で軽く言いやがった
-つまりはウソってことだ</value>
+    <value>He said that with such a casual expression… In other words, it's a lie.</value>
   </data>
   <data name="0221 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>涼宮さんを説得するには、説得力が
-足りないでしょうか？</value>
+    <value>Is it not convincing enough for Miss Suzumiya, then?</value>
   </data>
   <data name="0222 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>いや、これで充分だろう
-うまく整理できた感じだな</value>
+    <value>No, I think that's plenty good enough. I feel like we've cleared that up well.</value>
   </data>
   <data name="0223 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>正直、助かった</value>
+    <value>That was a big help, honestly.</value>
   </data>
   <data name="0224 (398.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>いえ、出すぎたマネだったかも
-しれませんね</value>
+    <value>Not at all, I'm sure I think I might've gotten in your way a bit.</value>
   </data>
   <data name="0225 (398.ja) KYON (キョン)" xml:space="preserve">
-    <value>感謝してはいるが、そういわれると
-かえって釈然としない</value>
+    <value>I'm trying to thank you, but when you say that it makes me feel rather unsatisfied.</value>
   </data>
   <data name="0226 (398.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>というか、その笑顔を俺に向けるな</value>
+    <value>And by the way, don't point that smile at me.</value>
   </data>
   <data name="0227 (398.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>楽譜を拝借する</value>
+    <value>Borrow the sheet music</value>
   </data>
   <data name="0228 (398.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>このまま返す</value>
+    <value>Return it as is</value>
   </data>
   <data name="0229 (398.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉に話しかける</value>
+    <value>Talk to Koizumi</value>
   </data>
   <data name="0230 (398.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>みくるに話しかける</value>
+    <value>Talk to Mikuru</value>
   </data>
 </root>
