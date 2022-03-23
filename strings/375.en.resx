@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (375.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>I left the questioning to Koizumi, and the rest of us were with Haruhi.</value>
+    <value>I left the questioning to Koizumi, and the rest of us went with Haruhi.</value>
   </data>
   <data name="0001 (375.ja) KYON (キョン)" xml:space="preserve">
     <value>Let me guess, you can't sit still, so you're going to jump straight to the investigation?</value>
@@ -68,16 +68,16 @@
     <value>Of course not. Before you start an investigation, you have to make preparations.</value>
   </data>
   <data name="0003 (375.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>That doesn't sound like Haruhi. She'd sooner run into a wall than plan around it.</value>
+    <value>That doesn't sound like Haruhi. She'd sooner run into a wall than plan a way around it.</value>
   </data>
   <data name="0005 (375.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>Umm, what kind of "preparations" do you mean?</value>
+    <value>Umm, what kind of "preparations" do you have in mind?</value>
   </data>
   <data name="0006 (375.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>I've already thought of everything we need to do, of course.</value>
+    <value>Naturally, I've already thought out everything we need to do.</value>
   </data>
   <data name="0007 (375.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Firstly, Mikuru, Yuki and Kyon, wait here.</value>
+    <value>For starters—Mikuru, Yuki and Kyon, wait here.</value>
   </data>
   <data name="0008 (375.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>I'm going to be back in a bit. Got it?</value>
@@ -89,34 +89,34 @@
     <value>……</value>
   </data>
   <data name="0011 (375.ja) KYON (キョン)" xml:space="preserve">
-    <value>Oi, where are you planning to go?</value>
+    <value>Oi, just where are you planning to go?</value>
   </data>
   <data name="0012 (375.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Surely she's not planning to go investigate on her own, right?</value>
+    <value>Surely she doesn't mean to go investigate on her own, right?</value>
   </data>
   <data name="0013 (375.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Preparations, just preparations. Now don't make a fuss and just stay in this room!</value>
+    <value>Prep work, just prep work. Now don't make a fuss and just stay in this room!</value>
   </data>
   <data name="0014 (375.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>I won't let you get away with it if you go investigating of your own accord!</value>
+    <value>I won't let you get away with it if you go investigate without orders!</value>
   </data>
   <data name="0015 (375.ja) KYON (キョン)" xml:space="preserve">
     <value>I get it.</value>
   </data>
   <data name="0016 (375.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>She stole the words I wanted to say. Is she even going to come back?</value>
+    <value>She stole the words right out of my mouth. Is she even going to come back?</value>
   </data>
   <data name="0018 (375.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>Is she going to be okay by herself?</value>
+    <value>Will Suzumiya be okay by herself?</value>
   </data>
   <data name="0019 (375.ja) KYON (キョン)" xml:space="preserve">
-    <value>Well… Not that I can really say, but…</value>
+    <value>Well… I can't really say for sure, but…</value>
   </data>
   <data name="0020 (375.ja) KYON (キョン)" xml:space="preserve">
     <value>I get the feeling she'll be fine.</value>
   </data>
   <data name="0021 (375.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>She's the type of person to boldly declare what they're going to do, after all.</value>
+    <value>She's the type to openly declare what she's going to do, after all.</value>
   </data>
   <data name="0022 (375.ja) MIKURU (みくる)" xml:space="preserve">
     <value>I suppose you're right. Then, shall I make some tea while we wait?</value>
@@ -125,7 +125,7 @@
     <value>I'd be very grateful.</value>
   </data>
   <data name="0024 (375.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>If I get to drink Asahina's brewed sweetness, I could wait as long as you like.</value>
+    <value>If I get to drink Asahina's brewed nectar, I could wait as long as need be.</value>
   </data>
   <data name="0026 (375.ja) MIKURU (みくる)" xml:space="preserve">
     <value>How is it?</value>
@@ -140,13 +140,13 @@
     <value>Ahh, why of course.</value>
   </data>
   <data name="0030 (375.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Even though it's hot tea, it seeps through my body better than a cold juice.</value>
+    <value>Even though it's hot tea, it seeps through my body better than cold juice would.</value>
   </data>
   <data name="0031 (375.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>While single-mindedly savoring the sweetness, there was an aggressive knock on the door.</value>
+    <value>While I single-mindedly savored the goodness, there was a violent knocking on the door.</value>
   </data>
   <data name="0032 (375.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Actually, maybe I should say it was kicked?</value>
+    <value>Actually, maybe it was more like kicking?</value>
   </data>
   <data name="0033 (375.ja) KYON (キョン)" xml:space="preserve">
     <value>What is it?</value>
@@ -164,46 +164,46 @@
     <value>When I opened the door, Haruhi fell in with a mountain of books.</value>
   </data>
   <data name="0038 (375.ja) KYON (キョン)" xml:space="preserve">
-    <value>That's the first thing you say? Aren't you going to at least thank me for opening the door?</value>
+    <value>That's the first thing you say? Aren't you going to at least thank me for letting you in?</value>
   </data>
   <data name="0039 (375.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>I don't worry about that trivial stuff. More importantly, I've got a hold of some material.</value>
+    <value>I don't care about that trivial stuff. More importantly, I got hold of some material.</value>
   </data>
   <data name="0040 (375.ja) KYON (キョン)" xml:space="preserve">
     <value>Material? You mean this mountain of books?</value>
   </data>
   <data name="0041 (375.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Yes. Modern history of the local area, and material related to North High.</value>
+    <value>Yeah. Recent history of the local area, and material related to North High.</value>
   </data>
   <data name="0042 (375.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>Wha… There's loads. We're going to search through these?</value>
+    <value>Wha… There's so many. Are we going to search through these?</value>
   </data>
   <data name="0043 (375.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Of course. Before examining the scene, you first must do a prior investigation.</value>
+    <value>Of course. Before examining the crime scene, you first need a preliminary investigation.</value>
   </data>
   <data name="0044 (375.ja) KYON (キョン)" xml:space="preserve">
-    <value>Hey now, I don't plan on taking supplementary history lessons in my summer holiday.</value>
+    <value>Hey now, I don't plan on taking supplementary history lessons during my summer holiday.</value>
   </data>
   <data name="0045 (375.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>This is way more fulfilling than supplementary lessons.</value>
   </data>
   <data name="0046 (375.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Usually, there are true stories that become the origin of legends, right?</value>
+    <value>You know how legends and folklore usually have their roots in true stories?</value>
   </data>
   <data name="0047 (375.ja) KYON (キョン)" xml:space="preserve">
-    <value>Is that how it is?</value>
+    <value>Do they?</value>
   </data>
   <data name="0048 (375.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>That's how it is. Therefore, we must first search from the ghost stories' source.</value>
+    <value>They do. That's why when you research ghost stories you need to start from the source.</value>
   </data>
   <data name="0049 (375.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>The history of the area, and incidents from North High and such.</value>
+    <value>The history of the area, or strange incidents about North High and stuff.</value>
   </data>
   <data name="0050 (375.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>So we'll divide it beween us and try to find stuff like that!</value>
+    <value>So we'll divide the work between us and look for clues like that!</value>
   </data>
   <data name="0051 (375.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>She then started shoving books at us with such vigor that we couldn't say no.</value>
+    <value>She started shoving books at all of us with such forcefulness that no one could object.</value>
   </data>
   <data name="0052 (375.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Well, I guess this is leagues better than walking around the school aimlessly.</value>

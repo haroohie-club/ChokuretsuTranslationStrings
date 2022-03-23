@@ -116,13 +116,13 @@
     <value>When the search icon on the upper left of the screen is off, tap at your member's feet.</value>
   </data>
   <data name="0019 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Doing so will select the center tile and the 8 surrounding tiles (nine tiles total)…</value>
+    <value>Doing so will select the center tile and the eight surrounding tiles (nine tiles total)…</value>
   </data>
   <data name="0020 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>…and perform an area search.</value>
   </data>
   <data name="0021 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Depending on the area search, you maybe able to find hidden singularities.</value>
+    <value>Depending on the area searched, you may be able to find hidden singularities.</value>
   </data>
   <data name="0022 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>However, you will not be able to materialize singularities with an area search.</value>
@@ -170,7 +170,7 @@
     <value>When you search, the marks near your feet indicate the odds of a singularity existing.</value>
   </data>
   <data name="0037 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>The "!" mark on a tile indicates that a singularity exists on one of…</value>
+    <value>The “!" mark on a tile indicates that a singularity exists on one of…</value>
   </data>
   <data name="0038 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>...the surrounding nine tiles that includes the tile itself.</value>
