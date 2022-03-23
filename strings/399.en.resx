@@ -257,201 +257,175 @@
     <value>For the time being, let's head to the music room as we planned originally.</value>
   </data>
   <data name="0071 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>おい、あんたコンピ研の……</value>
+    <value>Hey, aren't you from the Computer Socie…</value>
   </data>
   <data name="0072 (399.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>待ってください
-何か様子がおかしい</value>
+    <value>Hold on for a moment. Something seems strange about him.</value>
   </data>
   <data name="0073 (399.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>何かを抱えているな
-あれは……なんだ？</value>
+    <value>He's holding something. What is… that?</value>
   </data>
   <data name="0074 (399.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>箱のような物を廊下に設置しようと
-しているみたいですが</value>
+    <value>It looks like he's placing some sort of box in the corridor.</value>
   </data>
   <data name="0075 (399.ja) NAGATO (長門)" xml:space="preserve">
-    <value>オルゴール</value>
+    <value>Music box.</value>
   </data>
   <data name="0076 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>何だ？　あいつが持っている
-あれか？</value>
+    <value>What did you say? Is that the thing he's holding?</value>
   </data>
   <data name="0077 (399.ja) NAGATO (長門)" xml:space="preserve">
-    <value>そう</value>
+    <value>Yes.</value>
   </data>
   <data name="0078 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>とにかく、話を聞こう
-なあ、聞きたいことがあるんだが</value>
+    <value>Let's just try talking to him.
+Hey, mind if we ask you some questions?</value>
   </data>
   <data name="0079 (399.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>邪魔をするなっ！</value>
+    <value>Don't interrupt me—!</value>
   </data>
   <data name="0080 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>うおっ！　危ないじゃないか！</value>
+    <value>Wha—?! What's dangerous!</value>
   </data>
   <data name="0081 (399.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>気をつけてください！
-彼は正気ではありません！</value>
+    <value>Be careful! He's out of his mind!</value>
   </data>
   <data name="0082 (399.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>邪魔をするなら……</value>
+    <value>If you're gonna interrupt me…</value>
   </data>
   <data name="0083 (399.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>わああああああ！！</value>
+    <value>Waaaaaaah!!</value>
   </data>
   <data name="0084 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>お、おい！
-早まるな！</value>
+    <value>O-oi! Slow down!</value>
   </data>
   <data name="0085 (399.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>あ……</value>
+    <value>Ah…</value>
   </data>
   <data name="0087 (399.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>襲いかかったコンピ研の部員の
-額に長門が手をかざした瞬間</value>
+    <value>Nagato held her hand over the forehead of the club member as he attacked me…</value>
   </data>
   <data name="0088 (399.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>部員が気を失ったように床に
-くずおれた</value>
+    <value>…the moment she did, he fell to the floor as if losing consciousness.</value>
   </data>
   <data name="0089 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>長門、何をしたんだ？</value>
+    <value>What did you just do, Nagato?</value>
   </data>
   <data name="0090 (399.ja) NAGATO (長門)" xml:space="preserve">
-    <value>行動プログラムを消去した</value>
+    <value>I deleted the behavioral program.</value>
   </data>
   <data name="0091 (399.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>間一髪でした</value>
+    <value>That was a close one.</value>
   </data>
   <data name="0092 (399.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>彼は行動プログラムに支配された
-状態だったのですね</value>
+    <value>It appears he was being controlled by the behavioral program.</value>
   </data>
   <data name="0093 (399.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>あ、あれ？　僕はどうしてこんな
-ところに……？</value>
+    <value>H-huh? Why am I here…?</value>
   </data>
   <data name="0094 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>覚えてないのか？</value>
+    <value>You don't remember?</value>
   </data>
   <data name="0095 (399.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>わあっ、え、ＳＯＳ団！！</value>
+    <value>Wha…?! Huh…?! SOS Brigade?!</value>
   </data>
   <data name="0096 (399.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>部長からＳＯＳ団には関わるなって
-いえその、忙しいので失礼します！</value>
+    <value>Prez told me not to get involved with the SOS Brigade—I mean, I'm busy so I've got to go!</value>
   </data>
   <data name="0098 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>なんだありゃ</value>
+    <value>What's up with that?</value>
   </data>
   <data name="0099 (399.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>行動プログラムに支配されていた
-間の記憶はないようですね</value>
+    <value>It seems he has no memories of when he was under the control of the behavioral program.</value>
   </data>
   <data name="0100 (399.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>もっとも、彼にとってもその方が
-良かったのかも知れませんが</value>
+    <value>For his sake, I believe that most likely to be a good thing.</value>
   </data>
   <data name="0101 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>聞き込みは出来なくなっちまったか
-まあ仕方がない</value>
+    <value>I guess we were unable to interview him then. Well, what can you do.</value>
   </data>
   <data name="0102 (399.ja) NAGATO (長門)" xml:space="preserve">
-    <value>これ</value>
+    <value>Here.</value>
   </data>
   <data name="0103 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>なんだ？　ああ、あいつが持ってた
-オルゴールか</value>
+    <value>What's this? Ah, the music box he was holding, right?</value>
   </data>
   <data name="0104 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>あれ、音が鳴らないぞ……
-落とした拍子に壊れちまったかな</value>
+    <value>Huh, I won't make any noise… Maybe it broke when it was dropped?</value>
   </data>
   <data name="0105 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>あいつ、これをここに置こうと
-してたよな</value>
+    <value>He was trying to plant this thing here, right?</value>
   </data>
   <data name="0106 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>放置しておくのは危険なような
-気がする</value>
+    <value>I get the feeling it'd be dangerous to leave this here.</value>
   </data>
   <data name="0107 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>こいつは回収しておこう</value>
+    <value>I'll keep hold of it.</value>
   </data>
   <data name="0108 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>壊れてるんじゃ、どうしようも
-ない。その辺に置いておこう</value>
+    <value>There's not really much that can be done if it's broken. I'll leave it here.</value>
   </data>
   <data name="0109 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>何か落ちているな……
-あの部員の生徒手帳か？</value>
+    <value>There's something on the floor… That club member's student handbook?</value>
   </data>
   <data name="0110 (399.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>何も、そんなにＳＯＳ団を毛嫌いせ
-ずともいいと思うんですがね</value>
+    <value>I don't think there's any need for him to dislike the SOS Brigade as much as he does.</value>
   </data>
   <data name="0111 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>そりゃ無理ってもんだろう</value>
+    <value>Well, I don't think there's any hope if you want to amend that.</value>
   </data>
   <data name="0112 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>こいつは、あとで届けてやると
-するか……</value>
+    <value>I'll get this back to him later…</value>
   </data>
   <data name="0113 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>やっぱり、訳の分からん誰かが
-訳の分からんことをしようとしてる</value>
+    <value>In the end, some inexplicable thing is trying to do something inexplicable…</value>
   </data>
   <data name="0114 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>みたいだな</value>
+    <value>…it seems.</value>
   </data>
   <data name="0115 (399.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>そのようですね</value>
+    <value>It certainly seems that way.</value>
   </data>
   <data name="0116 (399.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>どうします？</value>
+    <value>What should we do?</value>
   </data>
   <data name="0117 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>どうしますもこうしますも、ハルヒ
-に知られる前にどうにかしなくちゃ</value>
+    <value>Whatever we do, we have to do it before Haruhi finds out.</value>
   </data>
   <data name="0118 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>ならんだろう</value>
+    <value>That's for sure.</value>
   </data>
   <data name="0119 (399.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>全くの同意見です
-僕たちは気が合いますね</value>
+    <value>I'm of the absolute same opinion. We really think alike.</value>
   </data>
   <data name="0120 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>楽しそうに言うんじゃない</value>
+    <value>Don't look so pleased when you say that…</value>
   </data>
   <data name="0121 (399.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>それでは一度、朝比奈さんたちと
-合流しましょう</value>
+    <value>For now, let's meet up with Miss Asahina and the others.</value>
   </data>
   <data name="0122 (399.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>何かつかんでいるかも知れません</value>
+    <value>They may have figured something out.</value>
   </data>
   <data name="0123 (399.ja) KYON (キョン)" xml:space="preserve">
-    <value>そうだな、そうしよう</value>
+    <value>Good point. Let's go then.</value>
   </data>
   <data name="0124 (399.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>長門を諭す</value>
+    <value>Warn Nagato</value>
   </data>
   <data name="0125 (399.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>古泉に文句を言う</value>
+    <value>Complain to Koizumi</value>
   </data>
   <data name="0126 (399.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>楽譜を拝借する</value>
+    <value>Borrow the sheet music</value>
   </data>
   <data name="0127 (399.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>やめておく</value>
+    <value>Leave it alone</value>
   </data>
   <data name="0128 (399.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>オルゴールを取る</value>
+    <value>Take the music box</value>
   </data>
   <data name="0129 (399.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>オルゴールはいらない</value>
+    <value>Don't need the music box</value>
   </data>
 </root>

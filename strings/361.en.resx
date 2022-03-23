@@ -494,7 +494,7 @@
     <value>Those guys seem to be staying over in their clubroom for the time being.</value>
   </data>
   <data name="0169 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Isn't that right? Koizumi.</value>
+    <value>Isn't that right, Koizumi?</value>
   </data>
   <data name="0170 (361.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>Quite. I've heard so too.</value>
@@ -503,7 +503,7 @@
     <value>When it comes to training camps, we did one first, so we win.</value>
   </data>
   <data name="0173 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>This is the first I've heard that the earlier a camp is carried out, the better it is.</value>
+    <value>This is the first I've heard that "the earlier, the better" applies to training camps.</value>
   </data>
   <data name="0174 (361.ja) KYON (キョン)" xml:space="preserve">
     <value>So the Computer Research Society is sleeping over, huh.</value>
@@ -536,7 +536,7 @@
     <value>It's my fault? If you have a complaint, tell it to Taniguchi. He made the call.</value>
   </data>
   <data name="0187 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>The computer club members are also at fault for having seen this unnatural phenomenon.</value>
+    <value>The computer club members are also at fault for having seen these unnatural phenomena.</value>
   </data>
   <data name="0189 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Sorry for butting in!</value>
@@ -584,7 +584,7 @@
     <value>It doesn't matter where.</value>
   </data>
   <data name="0213 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>For now, just tell us all the details candidly!</value>
+    <value>For now, just tell us everything you know!</value>
   </data>
   <data name="0214 (361.ja) CLUB_PRES (部長氏)" xml:space="preserve">
     <value>Uh… right, I get it.</value>
@@ -596,10 +596,10 @@
     <value>M-me.</value>
   </data>
   <data name="0215 (361.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>Either way, I'm sure you won't leave until I tell you everything.</value>
+    <value>Either way, I'm sure you won't leave until we do.</value>
   </data>
   <data name="0219 (361.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>Tell them everything. Then, we beg of you lot to leave immediately.</value>
+    <value>Tell them everything. Then, we beg you to leave immediately.</value>
   </data>
   <data name="0220 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>That's right. That seems to be the wisest method for us all mutually.</value>
@@ -614,19 +614,19 @@
     <value>It's time for inquiry mode.</value>
   </data>
   <data name="0225 (361.ja) INFO (インフォ)" xml:space="preserve">
-    <value>You can move Kyon by touching where you want to go with the stylus.</value>
+    <value>You can move Kyon by tapping where you want to go with the stylus.</value>
   </data>
   <data name="0226 (361.ja) INFO (インフォ)" xml:space="preserve">
     <value>You can listen to what the club members have to say by tapping them.</value>
   </data>
   <data name="0227 (361.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>Well done, Suzumiya.</value>
+    <value>Well done, Miss Suzumiya.</value>
   </data>
   <data name="0228 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Phew…</value>
   </data>
   <data name="0230 (361.ja) MIKURU (朝比奈)" xml:space="preserve">
-    <value>Yes, I'll do it straight away.</value>
+    <value>Yes, I'll do it right away!</value>
   </data>
   <data name="0231 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>After almost an hour of questioning, we returned to the literature clubroom.</value>
@@ -653,7 +653,7 @@
     <value>What don't you like?</value>
   </data>
   <data name="0244 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Now that you mention it, I feel like you've said something like that before.</value>
+    <value>Now that you mention it, I feel like you've mentioned something like that.</value>
   </data>
   <data name="0245 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>What the members of the Computer Research Society said doesn't fit at all.</value>
@@ -737,13 +737,13 @@
     <value>Thanks to that, I almost burned my lips on my tea.</value>
   </data>
   <data name="0280 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Found it! This! This!</value>
+    <value>Found it! Here it is!</value>
   </data>
   <data name="0281 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Haruhi pulled out a dust-covered bundle of paper.</value>
+    <value>Haruhi pulled out a dust-covered bundle of papers.</value>
   </data>
   <data name="0282 (361.ja) KYON (キョン)" xml:space="preserve">
-    <value>What on earth is that? Dubious documents that got stowed away in some university?</value>
+    <value>What on earth is that? Dubious documents that were stowed away in some university?</value>
   </data>
   <data name="0283 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Of course not. It's an old collection of writing from the literature club.</value>
@@ -770,7 +770,7 @@
     <value>On what basis can you make that claim? Please tell me.</value>
   </data>
   <data name="0294 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Once we've decided that, let's get straight to the investigation!</value>
+    <value>Now that we've all agreed on that, let's get straight to the investigation!</value>
   </data>
   <data name="0296 (361.ja) INFO (インフォ)" xml:space="preserve">
     <value>We will now explain the Haruhi Meter.</value>
@@ -794,8 +794,7 @@
     <value>As the meter goes right, Haruhi's attention is diverted toward miscellaneous information.</value>
   </data>
   <data name="0306 (361.ja) INFO (インフォ)" xml:space="preserve">
-    <value>Depending on future choices such as "Who do
-I do the action with" or "What do I choose"…</value>
+    <value>Depending on future choices such as "Who do I do the action with" or "What do I choose"…</value>
   </data>
   <data name="0307 (361.ja) INFO (インフォ)" xml:space="preserve">
     <value>…the way Kyon chooses to act will have an effect on the Haruhi Meter.</value>
@@ -828,13 +827,13 @@ I do the action with" or "What do I choose"…</value>
     <value>Haruhi stared at me, and grasped the teacup before her eyes…</value>
   </data>
   <data name="0321 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Glug, glug, glug, paaaah!</value>
+    <value>#Q01Glug, #W20#Q01glug, #Q01glug...#W20...#W30#SE004#Q01paaaah!</value>
   </data>
   <data name="0322 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>She drank it dry in one go. Not that I care, but aren't you hot?</value>
   </data>
   <data name="0325 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Have we investigated everyone sufficiently?</value>
+    <value>Have we sufficiently investigated everyone?</value>
   </data>
   <data name="0326 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Then go ask them! If you keep complaining the sun will go down!</value>
@@ -861,10 +860,10 @@ I do the action with" or "What do I choose"…</value>
     <value>I'm sure you're busy, but could I ask you about the unnatural phenomena?</value>
   </data>
   <data name="0340 (361.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>Even if I didn't want to, you lot aren't going to leave, right?</value>
+    <value>Even if I didn't want to, you guys aren't going to leave, right?</value>
   </data>
   <data name="0341 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Us lot, in other words Haruhi of course.</value>
+    <value>"You guys" meaning Haruhi, of course.</value>
   </data>
   <data name="0343 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Hm? In other words, the president didn't witness the unnatural phenomena himself?</value>
@@ -879,16 +878,16 @@ I do the action with" or "What do I choose"…</value>
     <value>Do you still need something?</value>
   </data>
   <data name="0349 (361.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>I would've already told you if there was.</value>
+    <value>I would've already told you if I had.</value>
   </data>
   <data name="0350 (361.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>We'd all like you to leave as soon as possbile please.</value>
+    <value>We'd all like you to leave as soon as possible please.</value>
   </data>
   <data name="0351 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Hiding something…? It doesn't really appear so.</value>
+    <value>Hiding something…? He doesn't really appear to be.</value>
   </data>
   <data name="0354 (361.ja) KYON (キョン)" xml:space="preserve">
-    <value>Is it true that you experienced some unnatural phenomenon?</value>
+    <value>Is it true that you experienced some unnatural phenomena?</value>
   </data>
   <data name="0355 (361.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>Y-yes… There's no mistaking it.</value>
@@ -921,7 +920,7 @@ I do the action with" or "What do I choose"…</value>
     <value>Of course I know that! But it was really there!</value>
   </data>
   <data name="0368 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Setting whether it's true or not aside, it's obviously seriously affected this guy.</value>
+    <value>Setting whether or not it's true aside, it's obviously seriously affected this guy.</value>
   </data>
   <data name="0372 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>I'll talk to him again when he's calmed down.</value>
@@ -981,7 +980,7 @@ I do the action with" or "What do I choose"…</value>
     <value>What is it? I'm busy right now, you know.</value>
   </data>
   <data name="0401 (361.ja) KYON (キョン)" xml:space="preserve">
-    <value>Just for a bit. I heard you lot encountered some unnatural phenomena…</value>
+    <value>Just for a bit. I heard you guys encountered some unnatural phenomena…</value>
   </data>
   <data name="0402 (361.ja) CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
     <value>Oh that…</value>
@@ -990,10 +989,10 @@ I do the action with" or "What do I choose"…</value>
     <value>The pool was… shining?</value>
   </data>
   <data name="0405 (361.ja) CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
-    <value>Yeah, I was just here absentmindedly.</value>
+    <value>Yeah, I was just there absentmindedly.</value>
   </data>
   <data name="0406 (361.ja) CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
-    <value>I didn't look from up close so I can't say concretely what it was though.</value>
+    <value>I didn't get a closer look so I can't say concretely what it was, though.</value>
   </data>
   <data name="0407 (361.ja) CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
     <value>It wasn't a normal light. I can say that for sure.</value>
@@ -1023,7 +1022,7 @@ I do the action with" or "What do I choose"…</value>
     <value>Uh… Y-yes…</value>
   </data>
   <data name="0422 (361.ja) CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
-    <value>Well asked!</value>
+    <value>Good question!</value>
   </data>
   <data name="0424 (361.ja) KYON (キョン)" xml:space="preserve">
     <value>Mirror? What are you talking about…?</value>
@@ -1035,19 +1034,19 @@ I do the action with" or "What do I choose"…</value>
     <value>Ah…</value>
   </data>
   <data name="0427 (361.ja) CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
-    <value>If you look at the mirror somewhere in the school at 2:22:22 AM…</value>
+    <value>If you look at this one mirror that's somewhere in the school at 2:22:22 AM…</value>
   </data>
   <data name="0429 (361.ja) KYON (キョン)" xml:space="preserve">
     <value>Huh…</value>
   </data>
   <data name="0430 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Instead of unnatural phenomena, isn't this just an urban legend?</value>
+    <value>This isn't so much an encounter with un- natural phenomena as it is an urban legend.</value>
   </data>
   <data name="0431 (361.ja) CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
     <value>So, I've been investigating the location of that mirror for a while…</value>
   </data>
   <data name="0432 (361.ja) CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
-    <value>But recently, I figured out it was the mirror in the entrance to the school.</value>
+    <value>But just the other day, I found out it was the mirror in the school entrance.</value>
   </data>
   <data name="0434 (361.ja) CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
     <value>Huh? What was it again? I heard it from someone, but…</value>
@@ -1068,7 +1067,7 @@ I do the action with" or "What do I choose"…</value>
     <value>That's fine, it's nothing. You can get back to your work without worrying about it.</value>
   </data>
   <data name="0442 (361.ja) CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
-    <value>Really? If there's anything you want to ask, please ask anything!</value>
+    <value>Really? If there's anything you want to hear about, please ask away!</value>
   </data>
   <data name="0443 (361.ja) KYON (キョン)" xml:space="preserve">
     <value>A-ah, understood. Thank you.</value>
@@ -1080,7 +1079,7 @@ I do the action with" or "What do I choose"…</value>
     <value>On the other hand, she's over there probably about to burst with anticipation, so…</value>
   </data>
   <data name="0448 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>I guess I'll go report to Haruhi.</value>
+    <value>I guess I'll go tell her what I've learned.</value>
   </data>
   <data name="0199 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Wasn't it supposed to be a witness investigation?</value>
@@ -1113,22 +1112,22 @@ I do the action with" or "What do I choose"…</value>
     <value>I'll warn you that you can't try to hide anything! Confess clearly and honestly!</value>
   </data>
   <data name="0210 (361.ja) KYON (キョン)" xml:space="preserve">
-    <value>We heard yesterday that you all witnessed some unnatural phenomenon.</value>
+    <value>We heard yesterday that you all witnessed some unnatural phenomena.</value>
   </data>
   <data name="0217 (361.ja) CLUB_PRES (部長氏)" xml:space="preserve">
     <value>Ugh… It was… Who was it who saw something strange?</value>
   </data>
   <data name="0223 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Thus, Haruhi's witness investigation, or rather questioning, began.</value>
+    <value>Thus, Haruhi's witness investigation, or rather interrogation, began.</value>
   </data>
   <data name="0229 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>That took a surprising amount of time, right? Mikuru, can you brew some tea?</value>
+    <value>That took a surprisingly long time, right? Mikuru, can you brew some tea?</value>
   </data>
   <data name="0232 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>As for the so-called unnatural phenomena, in total there were four things.</value>
   </data>
   <data name="0240 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Or whatever, this and that, nothing but questionable information. However…</value>
+    <value>Or whatever, this and that, nothing but dubious stories. However…</value>
   </data>
   <data name="0241 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>I really don't like it.</value>
@@ -1161,7 +1160,7 @@ I do the action with" or "What do I choose"…</value>
     <value>Ignoring my question, Haruhi single-mindedly flicked through the pages.</value>
   </data>
   <data name="0292 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>This surely must be about the "Class 1-10" that the Computer Research Society saw!</value>
+    <value>This surely must be about the class 1-10 that the Computer Research Society saw!</value>
   </data>
   <data name="0297 (361.ja) INFO (インフォ)" xml:space="preserve">
     <value>The meter at the top of the screen is called the "Haruhi Meter."</value>
@@ -1194,16 +1193,16 @@ I do the action with" or "What do I choose"…</value>
     <value>We did steal their computer on the first meeting after all.</value>
   </data>
   <data name="0342 (361.ja) CLUB_PRES (部長氏)" xml:space="preserve">
-    <value>Ask the person over there. I don't know any of the details.</value>
+    <value>Ask him over there. I don't know any of the details.</value>
   </data>
   <data name="0348 (361.ja) KYON (キョン)" xml:space="preserve">
-    <value>Even if you didn't witness anything, did you not notice anything strange at all?</value>
+    <value>Even if you didn't witness anything, did you notice anything strange at all?</value>
   </data>
   <data name="0357 (361.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>It was right about this time of day.</value>
   </data>
   <data name="0362 (361.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>In the beginning I thought so too, but… I saw it.</value>
+    <value>In the beginning I thought so too, but… then I saw it.</value>
   </data>
   <data name="0367 (361.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
     <value>Nobody believes me when I tell them! I'm going crazy!</value>
@@ -1212,31 +1211,31 @@ I do the action with" or "What do I choose"…</value>
     <value>It seems best to leave it here.</value>
   </data>
   <data name="0371 (361.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>Damn! Why does no one belive me!</value>
+    <value>Dammit! Why does no one believe me!</value>
   </data>
   <data name="0377 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Uh… I don't know by what, but at a glance he looks like he's being pursued.</value>
   </data>
   <data name="0381 (361.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>I-indeed I could hear it! The melody from the empty music room!</value>
+    <value>I-indeed, I could hear it! A melody from the empty music room!</value>
   </data>
   <data name="0389 (361.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>Y-yes. I have to record it… If I don't do it quickly, "that" won't finish…</value>
+    <value>Y-yes. I have to record it… If I don't do it quickly, it won't finish…</value>
   </data>
   <data name="0399 (361.ja) KYON (キョン)" xml:space="preserve">
     <value>Could I ask you a few questions?</value>
   </data>
   <data name="0403 (361.ja) CLUB_MEM_C (部員Ｃ)" xml:space="preserve">
-    <value>Simply put, in the middle of the night, around the pool I saw something shining.</value>
+    <value>Simply put, in the middle of the night, I saw a bright light coming from the pool.</value>
   </data>
   <data name="0409 (361.ja) KYON (キョン)" xml:space="preserve">
     <value>You seem to be quite calm. Very different from the other club members.</value>
   </data>
   <data name="0416 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>I can't get too in the way of his work…</value>
+    <value>I can't get in the way of his work too much…</value>
   </data>
   <data name="0419 (361.ja) KYON (キョン)" xml:space="preserve">
-    <value>Excuse me, but could I ask you some questions?</value>
+    <value>Excuse me, but could I ask you some questions--</value>
   </data>
   <data name="0423 (361.ja) CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
     <value>The truth is, I always thought that mirror was suspicious!</value>
@@ -1245,7 +1244,7 @@ I do the action with" or "What do I choose"…</value>
     <value>A duplicate of yourself comes out of the mir- ror and changes places with you! That story!</value>
   </data>
   <data name="0433 (361.ja) KYON (キョン)" xml:space="preserve">
-    <value>The entrance? How on earth did you figure that out?</value>
+    <value>The entrance? How on earth did you find that out?</value>
   </data>
   <data name="0439 (361.ja) CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
     <value>What's that? There's more you want to ask about? That's fine, ask away!</value>
