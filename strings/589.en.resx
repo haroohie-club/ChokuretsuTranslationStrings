@@ -59,145 +59,145 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (589.ja) GIRL (ANZ_ANZWIT00)" xml:space="preserve">
-    <value>早く</value>
+    <value>Hurry…</value>
   </data>
   <data name="0001 (589.ja) GIRL (ANZ_ANZWIT01)" xml:space="preserve">
-    <value>待って</value>
+    <value>Wait.</value>
   </data>
   <data name="0002 (589.ja) GIRL (ANZ_ANZWIT02)" xml:space="preserve">
-    <value>ずっと一緒に</value>
+    <value>Together forevermore...</value>
   </data>
   <data name="0003 (589.ja) GIRL (ANZ_CLR800)" xml:space="preserve">
-    <value>そんな、我々が…</value>
+    <value>No way... We…</value>
   </data>
   <data name="0004 (589.ja) GIRL (ANZ_GO00)" xml:space="preserve">
-    <value>ゴー</value>
+    <value>Go.</value>
   </data>
   <data name="0005 (589.ja) HARUHI (HRH_HRHWIT00)" xml:space="preserve">
-    <value>ほら、さっさと行くわよ</value>
+    <value>Come on, let's get going!</value>
   </data>
   <data name="0006 (589.ja) HARUHI (HRH_HRHWIT01)" xml:space="preserve">
-    <value>何してるの？</value>
+    <value>What are you doing?</value>
   </data>
   <data name="0007 (589.ja) HARUHI (HRH_HRHWIT02)" xml:space="preserve">
-    <value>ぐずぐずしない</value>
+    <value>No dawdling!</value>
   </data>
   <data name="0008 (589.ja) HARUHI (HRH_HRHWIT03)" xml:space="preserve">
-    <value>ちょっとキョン、どこなの？</value>
+    <value>Hey, Kyon, where are you?</value>
   </data>
   <data name="0009 (589.ja) HARUHI (HRH_HRHWIT04)" xml:space="preserve">
-    <value>ここにいるのは分かってるんだから</value>
+    <value>I know you're here somewhere!</value>
   </data>
   <data name="0010 (589.ja) HARUHI (HRH_HRHWIT05)" xml:space="preserve">
-    <value>こっちのほうかしら？</value>
+    <value>Over here, maybe?</value>
   </data>
   <data name="0011 (589.ja) KYON (KYN_ACD00)" xml:space="preserve">
-    <value>しまった！</value>
+    <value>Damn it!</value>
   </data>
   <data name="0012 (589.ja) KYON (KYN_BLK00)" xml:space="preserve">
-    <value>よし！やったぞ！</value>
+    <value>Nice, got it!</value>
   </data>
   <data name="0013 (589.ja) KYON (KYN_BLK1ST00)" xml:space="preserve">
-    <value>よし！次だ！</value>
+    <value>Nice, on to the next one!</value>
   </data>
   <data name="0014 (589.ja) KYON (KYN_BLKHLF00)" xml:space="preserve">
-    <value>まだまだだな</value>
+    <value>I've still got work to do, huh.</value>
   </data>
   <data name="0015 (589.ja) KYON (KYN_BLKLST00)" xml:space="preserve">
-    <value>ラストはどこだ！</value>
+    <value>Where's the last one?!</value>
   </data>
   <data name="0016 (589.ja) KYON (KYN_BLKOUT00)" xml:space="preserve">
-    <value>もう一息だ！</value>
+    <value>Just a little more!</value>
   </data>
   <data name="0017 (589.ja) KYON (KYN_CANTP00)" xml:space="preserve">
-    <value>いや、やめておこう</value>
+    <value>No, maybe not.</value>
   </data>
   <data name="0018 (589.ja) KYON (KYN_CHEK00)" xml:space="preserve">
-    <value>この辺か？</value>
+    <value>Over here?</value>
   </data>
   <data name="0019 (589.ja) KYON (KYN_CLR100)" xml:space="preserve">
-    <value>何とか間に合ったな</value>
+    <value>Looks like I somehow made it in time.</value>
   </data>
   <data name="0020 (589.ja) KYON (KYN_CLR200)" xml:space="preserve">
-    <value>これで元に戻れるのか？</value>
+    <value>Will this put things back to normal?</value>
   </data>
   <data name="0021 (589.ja) KYON (KYN_CLR300)" xml:space="preserve">
-    <value>はあ、終わったな</value>
+    <value>Phew, it's over.</value>
   </data>
   <data name="0022 (589.ja) KYON (KYN_CLR400)" xml:space="preserve">
-    <value>宇宙人に拉致されずに済んだな</value>
+    <value>Looks like I was able to avoid getting abducted by aliens.</value>
   </data>
   <data name="0023 (589.ja) KYON (KYN_CLR500)" xml:space="preserve">
-    <value>この木は元に戻るのか？</value>
+    <value>Is this tree gonna go back to normal?</value>
   </data>
   <data name="0024 (589.ja) KYON (KYN_CLR600)" xml:space="preserve">
-    <value>やれやれ、もう出てこないでくれよ</value>
+    <value>Give me a break and stop showing up, please.</value>
   </data>
   <data name="0025 (589.ja) KYON (KYN_CLR700)" xml:space="preserve">
-    <value>同じことを繰り返すのはしんどいな</value>
+    <value>Repeating the same thing is a pain.</value>
   </data>
   <data name="0026 (589.ja) KYON (KYN_CLR800)" xml:space="preserve">
-    <value>これで、最後だ</value>
+    <value>That's the last of it...</value>
   </data>
   <data name="0027 (589.ja) KYON (KYN_DETECT00)" xml:space="preserve">
-    <value>が、画鋲？</value>
+    <value>A d-drawing pin?</value>
   </data>
   <data name="0028 (589.ja) KYON (KYN_DETECT01)" xml:space="preserve">
-    <value>あったぞ！</value>
+    <value>Found one!</value>
   </data>
   <data name="0029 (589.ja) KYON (KYN_DETECT02)" xml:space="preserve">
-    <value>こんなものが？</value>
+    <value>This is...?</value>
   </data>
   <data name="0030 (589.ja) KYON (KYN_DETECT03)" xml:space="preserve">
-    <value>宇宙人？</value>
+    <value>An alien?</value>
   </data>
   <data name="0031 (589.ja) KYON (KYN_DETECT04)" xml:space="preserve">
-    <value>またこれか</value>
+    <value>This again, huh.</value>
   </data>
   <data name="0032 (589.ja) KYON (KYN_DETECT05)" xml:space="preserve">
-    <value>ん？これか？</value>
+    <value>Hm? Is this it?</value>
   </data>
   <data name="0033 (589.ja) KYON (KYN_DETECT06)" xml:space="preserve">
-    <value>これだよな</value>
+    <value>This is it, right.</value>
   </data>
   <data name="0034 (589.ja) KYON (KYN_DETECT07)" xml:space="preserve">
-    <value>見つけたぞ！</value>
+    <value>Found you!</value>
   </data>
   <data name="0035 (589.ja) KYON (KYN_FOUND00)" xml:space="preserve">
-    <value>あったぞ！</value>
+    <value>Found one!</value>
   </data>
   <data name="0036 (589.ja) KYON (KYN_FOUND01)" xml:space="preserve">
-    <value>見つけたぞ！</value>
+    <value>Found you!</value>
   </data>
   <data name="0037 (589.ja) KYON (KYN_FOUND02)" xml:space="preserve">
-    <value>ここか！</value>
+    <value>How about here?!</value>
   </data>
   <data name="0038 (589.ja) KYON (KYN_GO00)" xml:space="preserve">
-    <value>やるか</value>
+    <value>Let's do this.</value>
   </data>
   <data name="0039 (589.ja) KYON (KYN_HAZARD00)" xml:space="preserve">
-    <value>朝比奈さん、急いでください！</value>
+    <value>Asahina, please hurry!</value>
   </data>
   <data name="0040 (589.ja) KYON (KYN_HAZARD01)" xml:space="preserve">
-    <value>長門、急いでくれ！</value>
+    <value>Nagato, hurry!</value>
   </data>
   <data name="0041 (589.ja) KYON (KYN_HAZARD02)" xml:space="preserve">
-    <value>古泉！急げ！</value>
+    <value>Koizumi! Hurry!</value>
   </data>
   <data name="0042 (589.ja) KYON (KYN_KYNWIT00)" xml:space="preserve">
-    <value>いいから、ちっとは落ち着け</value>
+    <value>Just calm down a little, okay?</value>
   </data>
   <data name="0043 (589.ja) KYON (KYN_KYNWIT01)" xml:space="preserve">
-    <value>こらこら、走るな</value>
+    <value>Hey now, don't run.</value>
   </data>
   <data name="0044 (589.ja) KYON (KYN_KYNWIT02)" xml:space="preserve">
-    <value>頼むからおとなしくしてくれ</value>
+    <value>I'm begging you, just be sensible.</value>
   </data>
   <data name="0045 (589.ja) KYON (KYN_KYNWIT03)" xml:space="preserve">
-    <value>本物のほうがまだましだな</value>
+    <value>The real thing would still be better.</value>
   </data>
   <data name="0046 (589.ja) KYON (KYN_KYNWIT04)" xml:space="preserve">
-    <value>偽物でも十分迷惑だ</value>
+    <value>Even a fake is plenty annoying.</value>
   </data>
   <data name="0047 (589.ja) KYON (KYN_KYNWIT05)" xml:space="preserve">
     <value>くそ、おとなしくしろ！</value>
