@@ -640,217 +640,223 @@
   <data name="0193 (589.ja) MIKURU (MKR_START07)" xml:space="preserve">
     <value>暗いよぉ、こわいよぉ</value>
   </data>
-  <data name="0194 (589.ja) MIKURU (MKR_TMDEL00)" xml:space="preserve">
+  <data name="0194 (589.ja) MIKURU (MKR_TEC01)" xml:space="preserve">
+    <value>あ、ありましたぁ</value>
+  </data>
+  <data name="0195 (589.ja) MIKURU (MKR_TECEFF00)" xml:space="preserve">
+    <value>い、い、行きますぅ！</value>
+  </data>
+  <data name="0196 (589.ja) MIKURU (MKR_TMDEL00)" xml:space="preserve">
     <value>きゃ！</value>
   </data>
-  <data name="0195 (589.ja) MIKURU (MKR_TMINC00)" xml:space="preserve">
+  <data name="0197 (589.ja) MIKURU (MKR_TMINC00)" xml:space="preserve">
     <value>ああ、よかった～</value>
   </data>
-  <data name="0196 (589.ja) MIKURU (MKR_USEHRH00)" xml:space="preserve">
+  <data name="0198 (589.ja) MIKURU (MKR_USEHRH00)" xml:space="preserve">
     <value>え、えいぃ！</value>
   </data>
-  <data name="0197 (589.ja) MIKURU (MKR_USETP00)" xml:space="preserve">
+  <data name="0199 (589.ja) MIKURU (MKR_USETP00)" xml:space="preserve">
     <value>これでいいんですか？</value>
   </data>
-  <data name="0198 (589.ja) MIKURU (MKR_WAIT00)" xml:space="preserve">
+  <data name="0200 (589.ja) MIKURU (MKR_WAIT00)" xml:space="preserve">
     <value>ど、どうしましょう…</value>
   </data>
-  <data name="0199 (589.ja) MIKURU (MKR_WAIT01)" xml:space="preserve">
+  <data name="0201 (589.ja) MIKURU (MKR_WAIT01)" xml:space="preserve">
     <value>ほえぇ、見つかりませぇん</value>
   </data>
-  <data name="0200 (589.ja) MIKURU (MKR_WAIT02)" xml:space="preserve">
+  <data name="0202 (589.ja) MIKURU (MKR_WAIT02)" xml:space="preserve">
     <value>キョンくぅん！</value>
   </data>
-  <data name="0201 (589.ja) NAGATO (NGT_ACD00)" xml:space="preserve">
+  <data name="0203 (589.ja) NAGATO (NGT_ACD00)" xml:space="preserve">
     <value>耐えよう不能</value>
   </data>
-  <data name="0202 (589.ja) NAGATO (NGT_ACPT00)" xml:space="preserve">
+  <data name="0204 (589.ja) NAGATO (NGT_ACPT00)" xml:space="preserve">
     <value>わかった</value>
   </data>
-  <data name="0203 (589.ja) NAGATO (NGT_ACPTK00)" xml:space="preserve">
+  <data name="0205 (589.ja) NAGATO (NGT_ACPTK00)" xml:space="preserve">
     <value>了承した</value>
   </data>
-  <data name="0204 (589.ja) NAGATO (NGT_ACPTM00)" xml:space="preserve">
+  <data name="0206 (589.ja) NAGATO (NGT_ACPTM00)" xml:space="preserve">
     <value>了解</value>
   </data>
-  <data name="0205 (589.ja) NAGATO (NGT_BLK00)" xml:space="preserve">
+  <data name="0207 (589.ja) NAGATO (NGT_BLK00)" xml:space="preserve">
     <value>消滅を確認</value>
   </data>
-  <data name="0206 (589.ja) NAGATO (NGT_BLK1ST00)" xml:space="preserve">
+  <data name="0208 (589.ja) NAGATO (NGT_BLK1ST00)" xml:space="preserve">
     <value>一つ</value>
   </data>
-  <data name="0207 (589.ja) NAGATO (NGT_BLKHLF00)" xml:space="preserve">
+  <data name="0209 (589.ja) NAGATO (NGT_BLKHLF00)" xml:space="preserve">
     <value>作業を継続</value>
   </data>
-  <data name="0208 (589.ja) NAGATO (NGT_BLKLST00)" xml:space="preserve">
+  <data name="0210 (589.ja) NAGATO (NGT_BLKLST00)" xml:space="preserve">
     <value>残り、一つ</value>
   </data>
-  <data name="0209 (589.ja) NAGATO (NGT_BLKOUT00)" xml:space="preserve">
+  <data name="0211 (589.ja) NAGATO (NGT_BLKOUT00)" xml:space="preserve">
     <value>順調</value>
   </data>
-  <data name="0210 (589.ja) NAGATO (NGT_CANTP00)" xml:space="preserve">
+  <data name="0212 (589.ja) NAGATO (NGT_CANTP00)" xml:space="preserve">
     <value>中止、了解</value>
   </data>
-  <data name="0211 (589.ja) NAGATO (NGT_CHEK00)" xml:space="preserve">
+  <data name="0213 (589.ja) NAGATO (NGT_CHEK00)" xml:space="preserve">
     <value>探索中</value>
   </data>
-  <data name="0212 (589.ja) NAGATO (NGT_CLR100)" xml:space="preserve">
+  <data name="0214 (589.ja) NAGATO (NGT_CLR100)" xml:space="preserve">
     <value>終了</value>
   </data>
-  <data name="0213 (589.ja) NAGATO (NGT_CLR200)" xml:space="preserve">
+  <data name="0215 (589.ja) NAGATO (NGT_CLR200)" xml:space="preserve">
     <value>異空間からのシフトを確認</value>
   </data>
-  <data name="0214 (589.ja) NAGATO (NGT_CLR300)" xml:space="preserve">
+  <data name="0216 (589.ja) NAGATO (NGT_CLR300)" xml:space="preserve">
     <value>特異点の消滅を確認</value>
   </data>
-  <data name="0215 (589.ja) NAGATO (NGT_CLR400)" xml:space="preserve">
+  <data name="0217 (589.ja) NAGATO (NGT_CLR400)" xml:space="preserve">
     <value>すべて、正常化</value>
   </data>
-  <data name="0216 (589.ja) NAGATO (NGT_CLR500)" xml:space="preserve">
+  <data name="0218 (589.ja) NAGATO (NGT_CLR500)" xml:space="preserve">
     <value>情報生命体の活動停止を確認</value>
   </data>
-  <data name="0217 (589.ja) NAGATO (NGT_CLR600)" xml:space="preserve">
+  <data name="0219 (589.ja) NAGATO (NGT_CLR600)" xml:space="preserve">
     <value>コピーはすべて消滅した</value>
   </data>
-  <data name="0218 (589.ja) NAGATO (NGT_CLR700)" xml:space="preserve">
+  <data name="0220 (589.ja) NAGATO (NGT_CLR700)" xml:space="preserve">
     <value>処理、完了</value>
   </data>
-  <data name="0219 (589.ja) NAGATO (NGT_CLR800)" xml:space="preserve">
+  <data name="0221 (589.ja) NAGATO (NGT_CLR800)" xml:space="preserve">
     <value>最終処理に一考する</value>
   </data>
-  <data name="0220 (589.ja) NAGATO (NGT_DETECT00)" xml:space="preserve">
+  <data name="0222 (589.ja) NAGATO (NGT_DETECT00)" xml:space="preserve">
     <value>視覚情報は無意味</value>
   </data>
-  <data name="0221 (589.ja) NAGATO (NGT_DETECT01)" xml:space="preserve">
+  <data name="0223 (589.ja) NAGATO (NGT_DETECT01)" xml:space="preserve">
     <value>特異点を確認</value>
   </data>
-  <data name="0222 (589.ja) NAGATO (NGT_DETECT02)" xml:space="preserve">
+  <data name="0224 (589.ja) NAGATO (NGT_DETECT02)" xml:space="preserve">
     <value>見つけた</value>
   </data>
-  <data name="0223 (589.ja) NAGATO (NGT_DETECT03)" xml:space="preserve">
+  <data name="0225 (589.ja) NAGATO (NGT_DETECT03)" xml:space="preserve">
     <value>消去する</value>
   </data>
-  <data name="0224 (589.ja) NAGATO (NGT_DETECT04)" xml:space="preserve">
+  <data name="0226 (589.ja) NAGATO (NGT_DETECT04)" xml:space="preserve">
     <value>端末を発見</value>
   </data>
-  <data name="0225 (589.ja) NAGATO (NGT_DETECT05)" xml:space="preserve">
+  <data name="0227 (589.ja) NAGATO (NGT_DETECT05)" xml:space="preserve">
     <value>隠ぺいモード解除</value>
   </data>
-  <data name="0226 (589.ja) NAGATO (NGT_DETECT06)" xml:space="preserve">
+  <data name="0228 (589.ja) NAGATO (NGT_DETECT06)" xml:space="preserve">
     <value>これ</value>
   </data>
-  <data name="0227 (589.ja) NAGATO (NGT_DETECT07)" xml:space="preserve">
+  <data name="0229 (589.ja) NAGATO (NGT_DETECT07)" xml:space="preserve">
     <value>発見</value>
   </data>
-  <data name="0228 (589.ja) NAGATO (NGT_FOUND00)" xml:space="preserve">
+  <data name="0230 (589.ja) NAGATO (NGT_FOUND00)" xml:space="preserve">
     <value>発見</value>
   </data>
-  <data name="0229 (589.ja) NAGATO (NGT_FOUND01)" xml:space="preserve">
+  <data name="0231 (589.ja) NAGATO (NGT_FOUND01)" xml:space="preserve">
     <value>見つけた</value>
   </data>
-  <data name="0230 (589.ja) NAGATO (NGT_FOUND02)" xml:space="preserve">
+  <data name="0232 (589.ja) NAGATO (NGT_FOUND02)" xml:space="preserve">
     <value>ここ</value>
   </data>
-  <data name="0231 (589.ja) NAGATO (NGT_GO00)" xml:space="preserve">
+  <data name="0233 (589.ja) NAGATO (NGT_GO00)" xml:space="preserve">
     <value>開始</value>
   </data>
-  <data name="0232 (589.ja) NAGATO (NGT_HAZARD00)" xml:space="preserve">
+  <data name="0234 (589.ja) NAGATO (NGT_HAZARD00)" xml:space="preserve">
     <value>時間がない、急いで</value>
   </data>
-  <data name="0233 (589.ja) NAGATO (NGT_MOVE00)" xml:space="preserve">
+  <data name="0235 (589.ja) NAGATO (NGT_MOVE00)" xml:space="preserve">
     <value>こっち</value>
   </data>
-  <data name="0234 (589.ja) NAGATO (NGT_NGTWIT00)" xml:space="preserve">
+  <data name="0236 (589.ja) NAGATO (NGT_NGTWIT00)" xml:space="preserve">
     <value>ダメ</value>
   </data>
-  <data name="0235 (589.ja) NAGATO (NGT_NGTWIT01)" xml:space="preserve">
+  <data name="0237 (589.ja) NAGATO (NGT_NGTWIT01)" xml:space="preserve">
     <value>待って</value>
   </data>
-  <data name="0236 (589.ja) NAGATO (NGT_NGTWIT02)" xml:space="preserve">
+  <data name="0238 (589.ja) NAGATO (NGT_NGTWIT02)" xml:space="preserve">
     <value>行ってはいけない</value>
   </data>
-  <data name="0237 (589.ja) NAGATO (NGT_NGTWIT03)" xml:space="preserve">
+  <data name="0239 (589.ja) NAGATO (NGT_NGTWIT03)" xml:space="preserve">
     <value>停止を要求する</value>
   </data>
-  <data name="0238 (589.ja) NAGATO (NGT_NGTWIT04)" xml:space="preserve">
+  <data name="0240 (589.ja) NAGATO (NGT_NGTWIT04)" xml:space="preserve">
     <value>行ってはダメ</value>
   </data>
-  <data name="0239 (589.ja) NAGATO (NGT_NGTWIT05)" xml:space="preserve">
+  <data name="0241 (589.ja) NAGATO (NGT_NGTWIT05)" xml:space="preserve">
     <value>早く</value>
   </data>
-  <data name="0240 (589.ja) NAGATO (NGT_NGTWIT06)" xml:space="preserve">
+  <data name="0242 (589.ja) NAGATO (NGT_NGTWIT06)" xml:space="preserve">
     <value>ここは、あなたのいるべき場所ではない</value>
   </data>
-  <data name="0241 (589.ja) NAGATO (NGT_NGTWIT07)" xml:space="preserve">
+  <data name="0243 (589.ja) NAGATO (NGT_NGTWIT07)" xml:space="preserve">
     <value>行かせない</value>
   </data>
-  <data name="0242 (589.ja) NAGATO (NGT_NGTWIT08)" xml:space="preserve">
+  <data name="0244 (589.ja) NAGATO (NGT_NGTWIT08)" xml:space="preserve">
     <value>思い通りにはさせない</value>
   </data>
-  <data name="0243 (589.ja) NAGATO (NGT_OOPS00)" xml:space="preserve">
+  <data name="0245 (589.ja) NAGATO (NGT_OOPS00)" xml:space="preserve">
     <value>周辺に特異点は存在しない</value>
   </data>
-  <data name="0244 (589.ja) NAGATO (NGT_OVER00)" xml:space="preserve">
+  <data name="0246 (589.ja) NAGATO (NGT_OVER00)" xml:space="preserve">
     <value>涼宮ハルヒが到着した</value>
   </data>
-  <data name="0245 (589.ja) NAGATO (NGT_PCHEK00)" xml:space="preserve">
+  <data name="0247 (589.ja) NAGATO (NGT_PCHEK00)" xml:space="preserve">
     <value>探索個所を特定</value>
   </data>
-  <data name="0246 (589.ja) NAGATO (NGT_READY00)" xml:space="preserve">
+  <data name="0248 (589.ja) NAGATO (NGT_READY00)" xml:space="preserve">
     <value>行動</value>
   </data>
-  <data name="0247 (589.ja) NAGATO (NGT_REQ00)" xml:space="preserve">
+  <data name="0249 (589.ja) NAGATO (NGT_REQ00)" xml:space="preserve">
     <value>サポート</value>
   </data>
-  <data name="0248 (589.ja) NAGATO (NGT_REQ01)" xml:space="preserve">
+  <data name="0250 (589.ja) NAGATO (NGT_REQ01)" xml:space="preserve">
     <value>サポート</value>
   </data>
-  <data name="0249 (589.ja) NAGATO (NGT_START00)" xml:space="preserve">
+  <data name="0251 (589.ja) NAGATO (NGT_START00)" xml:space="preserve">
     <value>余裕はない。効率を重視</value>
   </data>
-  <data name="0250 (589.ja) NAGATO (NGT_START01)" xml:space="preserve">
+  <data name="0252 (589.ja) NAGATO (NGT_START01)" xml:space="preserve">
     <value>特異点消去開始</value>
   </data>
-  <data name="0251 (589.ja) NAGATO (NGT_START02)" xml:space="preserve">
+  <data name="0253 (589.ja) NAGATO (NGT_START02)" xml:space="preserve">
     <value>特異点の存在を感知</value>
   </data>
-  <data name="0252 (589.ja) NAGATO (NGT_START03)" xml:space="preserve">
+  <data name="0254 (589.ja) NAGATO (NGT_START03)" xml:space="preserve">
     <value>涼宮ハルヒ、接近中</value>
   </data>
-  <data name="0253 (589.ja) NAGATO (NGT_START04)" xml:space="preserve">
+  <data name="0255 (589.ja) NAGATO (NGT_START04)" xml:space="preserve">
     <value>警戒</value>
   </data>
-  <data name="0254 (589.ja) NAGATO (NGT_START05)" xml:space="preserve">
+  <data name="0256 (589.ja) NAGATO (NGT_START05)" xml:space="preserve">
     <value>開始</value>
   </data>
-  <data name="0255 (589.ja) NAGATO (NGT_START06)" xml:space="preserve">
+  <data name="0257 (589.ja) NAGATO (NGT_START06)" xml:space="preserve">
     <value>探索開始</value>
   </data>
-  <data name="0256 (589.ja) NAGATO (NGT_START07)" xml:space="preserve">
+  <data name="0258 (589.ja) NAGATO (NGT_START07)" xml:space="preserve">
     <value>任せて</value>
   </data>
-  <data name="0257 (589.ja) NAGATO (NGT_TEC00)" xml:space="preserve">
+  <data name="0259 (589.ja) NAGATO (NGT_TEC00)" xml:space="preserve">
     <value>完了した</value>
   </data>
-  <data name="0258 (589.ja) NAGATO (NGT_TMDEL00)" xml:space="preserve">
+  <data name="0260 (589.ja) NAGATO (NGT_TMDEL00)" xml:space="preserve">
     <value>状況、悪化</value>
   </data>
-  <data name="0259 (589.ja) NAGATO (NGT_TMINC00)" xml:space="preserve">
+  <data name="0261 (589.ja) NAGATO (NGT_TMINC00)" xml:space="preserve">
     <value>改善した</value>
   </data>
-  <data name="0260 (589.ja) NAGATO (NGT_USEHRH00)" xml:space="preserve">
+  <data name="0262 (589.ja) NAGATO (NGT_USEHRH00)" xml:space="preserve">
     <value>発動</value>
   </data>
-  <data name="0261 (589.ja) NAGATO (NGT_USETP00)" xml:space="preserve">
+  <data name="0263 (589.ja) NAGATO (NGT_USETP00)" xml:space="preserve">
     <value>これでいい？</value>
   </data>
-  <data name="0262 (589.ja) NAGATO (NGT_WAIT00)" xml:space="preserve">
+  <data name="0264 (589.ja) NAGATO (NGT_WAIT00)" xml:space="preserve">
     <value>作業停滞</value>
   </data>
-  <data name="0263 (589.ja) NAGATO (NGT_WAIT01)" xml:space="preserve">
+  <data name="0265 (589.ja) NAGATO (NGT_WAIT01)" xml:space="preserve">
     <value>負荷は増大している</value>
   </data>
-  <data name="0264 (589.ja) NAGATO (NGT_WAIT02)" xml:space="preserve">
+  <data name="0266 (589.ja) NAGATO (NGT_WAIT02)" xml:space="preserve">
     <value>無駄な時間はない</value>
   </data>
 </root>
