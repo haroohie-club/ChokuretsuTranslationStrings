@@ -410,13 +410,13 @@
     <value>Say that you have a box containing a cat, radium, and a poisonous gas.</value>
   </data>
   <data name="0128 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>The gas will only release in response to alpha particles, which are emitted by the radium.</value>
+    <value>The gas will only release in response to alpha particles, which may be emitted by the radium.</value>
   </data>
   <data name="0129 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>Then, after some time passes, you open the lid of the box.</value>
+    <value>The emission of said particles only occurs occasionally, however.</value>
   </data>
   <data name="0130 (387.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>Well, is the cat in the box dead or alive?</value>
+    <value>So then—some time passes, and you open the lid of the box. Is the cat dead or alive? </value>
   </data>
   <data name="0131 (387.ja) KYON (キョン)" xml:space="preserve">
     <value>If any of those particles have been emmitted it's dead, otherwise it's alive, right?</value>
