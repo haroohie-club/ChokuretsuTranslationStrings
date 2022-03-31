@@ -140,7 +140,7 @@
     <value>That's the last of it...</value>
   </data>
   <data name="0027 (589.ja) KYON (KYN_DETECT00)" xml:space="preserve">
-    <value>A d-drawing pin?</value>
+    <value>A th-thumbtack?</value>
   </data>
   <data name="0028 (589.ja) KYON (KYN_DETECT01)" xml:space="preserve">
     <value>Found one!</value>
@@ -200,307 +200,307 @@
     <value>Even a fake is plenty annoying.</value>
   </data>
   <data name="0047 (589.ja) KYON (KYN_KYNWIT05)" xml:space="preserve">
-    <value>くそ、おとなしくしろ！</value>
+    <value>Damn it, behave yourself!</value>
   </data>
   <data name="0048 (589.ja) KYON (KYN_MOVE00)" xml:space="preserve">
-    <value>こっちか？</value>
+    <value>Over here?</value>
   </data>
   <data name="0049 (589.ja) KYON (KYN_OVER00)" xml:space="preserve">
-    <value>なんてこった</value>
+    <value>What on earth...</value>
   </data>
   <data name="0050 (589.ja) KYON (KYN_OVER01)" xml:space="preserve">
-    <value>すみません、朝比奈さん</value>
+    <value>I'm sorry, Asahina...</value>
   </data>
   <data name="0051 (589.ja) KYON (KYN_OVER02)" xml:space="preserve">
-    <value>すまん、長門</value>
+    <value>Sorry, Nagato...</value>
   </data>
   <data name="0052 (589.ja) KYON (KYN_OVER03)" xml:space="preserve">
-    <value>すまん、小泉</value>
+    <value>Sorry, Koizumi...</value>
   </data>
   <data name="0053 (589.ja) KYON (KYN_PCHEK00)" xml:space="preserve">
-    <value>ここはどうだ！</value>
+    <value>How about here!</value>
   </data>
   <data name="0054 (589.ja) KYON (KYN_READY00)" xml:space="preserve">
-    <value>さてと</value>
+    <value>Here goes.</value>
   </data>
   <data name="0055 (589.ja) KYON (KYN_REQ00)" xml:space="preserve">
-    <value>朝比奈さん、お願いします！</value>
+    <value>Asahina, please!</value>
   </data>
   <data name="0056 (589.ja) KYON (KYN_REQ01)" xml:space="preserve">
-    <value>頼むぞ、長門！</value>
+    <value>I'm counting on you, Nagato!</value>
   </data>
   <data name="0057 (589.ja) KYON (KYN_REQ02)" xml:space="preserve">
-    <value>古泉！</value>
+    <value>Koizumi!</value>
   </data>
   <data name="0058 (589.ja) KYON (KYN_START00)" xml:space="preserve">
-    <value>時間がない、急ぐぞ！</value>
+    <value>There's no time--let's hurry!</value>
   </data>
   <data name="0059 (589.ja) KYON (KYN_START01)" xml:space="preserve">
-    <value>ま、何とかなりそうだな</value>
+    <value>Well, it looks like I can handle this.</value>
   </data>
   <data name="0060 (589.ja) KYON (KYN_START02)" xml:space="preserve">
-    <value>ハルヒが来る前に！</value>
+    <value>Let's get this done before Haruhi gets here!</value>
   </data>
   <data name="0061 (589.ja) KYON (KYN_START03)" xml:space="preserve">
-    <value>はあ、しょうがない</value>
+    <value>Hah, it can't be helped.</value>
   </data>
   <data name="0062 (589.ja) KYON (KYN_START04)" xml:space="preserve">
-    <value>さ、やるぞ！</value>
+    <value>Okay, let's do it!</value>
   </data>
   <data name="0063 (589.ja) KYON (KYN_START05)" xml:space="preserve">
-    <value>やれやれ</value>
+    <value>Good grief.</value>
   </data>
   <data name="0064 (589.ja) KYON (KYN_START06)" xml:space="preserve">
-    <value>どうすりゃいいんだ</value>
+    <value>What am I supposed to do?</value>
   </data>
   <data name="0065 (589.ja) KYON (KYN_START07)" xml:space="preserve">
-    <value>やるしかないか</value>
+    <value>I've got no choice, huh.</value>
   </data>
   <data name="0066 (589.ja) KYON (KYN_TMDEL00)" xml:space="preserve">
-    <value>まずいな、こりゃ</value>
+    <value>This isn't looking good...</value>
   </data>
   <data name="0067 (589.ja) KYON (KYN_TMINC00)" xml:space="preserve">
-    <value>はあ、うまくいったな</value>
+    <value>Hah, that went well.</value>
   </data>
   <data name="0068 (589.ja) KYON (KYN_USEHRH00)" xml:space="preserve">
-    <value>ここは一発！</value>
+    <value>Take one of these!</value>
   </data>
   <data name="0069 (589.ja) KYON (KYN_USETP00)" xml:space="preserve">
-    <value>これだ！</value>
+    <value>This is it!</value>
   </data>
   <data name="0070 (589.ja) KYON (KYN_WAIT00)" xml:space="preserve">
-    <value>ああ… どこだ？</value>
+    <value>Ah... Where are they?</value>
   </data>
   <data name="0071 (589.ja) KYON (KYN_WAIT01)" xml:space="preserve">
-    <value>急がないとな</value>
+    <value>I'd better hurry, huh.</value>
   </data>
   <data name="0072 (589.ja) KYON (KYN_WAIT02)" xml:space="preserve">
-    <value>どうする、時間がないぞ</value>
+    <value>What should I do? There's no time.</value>
   </data>
   <data name="0073 (589.ja) KOIZUMI (KZM_ACD00)" xml:space="preserve">
-    <value>これは、いけませんね</value>
+    <value>Oh dear, that's no good...</value>
   </data>
   <data name="0074 (589.ja) KOIZUMI (KZM_ACPT00)" xml:space="preserve">
-    <value>おまかせください</value>
+    <value>Do leave it to me.</value>
   </data>
   <data name="0075 (589.ja) KOIZUMI (KZM_ACPTM00)" xml:space="preserve">
-    <value>了解です</value>
+    <value>Understood.</value>
   </data>
   <data name="0076 (589.ja) KOIZUMI (KZM_ACPTN00)" xml:space="preserve">
-    <value>お手伝いしましょう</value>
+    <value>Let me lend you a hand.</value>
   </data>
   <data name="0077 (589.ja) KOIZUMI (KZM_BLK00)" xml:space="preserve">
-    <value>これでよいのでしょうか？</value>
+    <value>Has that settled things, I wonder?</value>
   </data>
   <data name="0078 (589.ja) KOIZUMI (KZM_BLK1ST00)" xml:space="preserve">
-    <value>一つ目ですね</value>
+    <value>That's the first one handled.</value>
   </data>
   <data name="0079 (589.ja) KOIZUMI (KZM_BLKHLF00)" xml:space="preserve">
-    <value>まだこれからですね</value>
+    <value>It's not over yet, I see.</value>
   </data>
   <data name="0080 (589.ja) KOIZUMI (KZM_BLKLST00)" xml:space="preserve">
-    <value>次で終わりです</value>
+    <value>The next one should be the last.</value>
   </data>
   <data name="0081 (589.ja) KOIZUMI (KZM_BLKOUT00)" xml:space="preserve">
-    <value>もう少しです</value>
+    <value>Just a little more.</value>
   </data>
   <data name="0082 (589.ja) KOIZUMI (KZM_CANTP00)" xml:space="preserve">
-    <value>おや、辞めるのですか？</value>
+    <value>Oh my, are you giving up?</value>
   </data>
   <data name="0083 (589.ja) KOIZUMI (KZM_CHEK00)" xml:space="preserve">
-    <value>この辺りでしょうか？</value>
+    <value>Could it be around this area?</value>
   </data>
   <data name="0084 (589.ja) KOIZUMI (KZM_CLR100)" xml:space="preserve">
-    <value>どうやら、終わったようですね</value>
+    <value>It looks like it's somehow over.</value>
   </data>
   <data name="0085 (589.ja) KOIZUMI (KZM_CLR200)" xml:space="preserve">
-    <value>元に戻れそうですね</value>
+    <value>It appears this'll put things back to normal.</value>
   </data>
   <data name="0086 (589.ja) KOIZUMI (KZM_CLR300)" xml:space="preserve">
-    <value>いや、大変でしたね</value>
+    <value>Oh my, that was tough.</value>
   </data>
   <data name="0087 (589.ja) KOIZUMI (KZM_CLR400)" xml:space="preserve">
-    <value>やれやれ、とんだ災難でした</value>
+    <value>Oh dear, what a disaster that was.</value>
   </data>
   <data name="0088 (589.ja) KOIZUMI (KZM_CLR500)" xml:space="preserve">
-    <value>今回も何とかなったようですね</value>
+    <value>Looks like we somehow succeeded yet again.</value>
   </data>
   <data name="0089 (589.ja) KOIZUMI (KZM_CLR600)" xml:space="preserve">
-    <value>我々の分身は消滅したようです</value>
+    <value>Looks like our duplicates have vanished.</value>
   </data>
   <data name="0090 (589.ja) KOIZUMI (KZM_CLR700)" xml:space="preserve">
-    <value>これで終わったのならよいのですが</value>
+    <value>I hope that's the end of it.</value>
   </data>
   <data name="0091 (589.ja) KOIZUMI (KZM_CLR800)" xml:space="preserve">
-    <value>すべて終わったようです</value>
+    <value>It looks like it's all over.</value>
   </data>
   <data name="0092 (589.ja) KOIZUMI (KZM_DETECT00)" xml:space="preserve">
-    <value>画鋲ですか？</value>
+    <value>Is that a thumbtack?</value>
   </data>
   <data name="0093 (589.ja) KOIZUMI (KZM_DETECT01)" xml:space="preserve">
-    <value>なかなか愉快な代物ですね</value>
+    <value>What a delightful little thing.</value>
   </data>
   <data name="0094 (589.ja) KOIZUMI (KZM_DETECT02)" xml:space="preserve">
-    <value>水晶ですか？</value>
+    <value>Is that a crystal?</value>
   </data>
   <data name="0095 (589.ja) KOIZUMI (KZM_DETECT03)" xml:space="preserve">
-    <value>おや、宇宙人ですか？</value>
+    <value>Oh my, is that an alien?</value>
   </data>
   <data name="0096 (589.ja) KOIZUMI (KZM_DETECT04)" xml:space="preserve">
-    <value>なるほど、そういうことですか</value>
+    <value>I see, so that's what it is.</value>
   </data>
   <data name="0097 (589.ja) KOIZUMI (KZM_DETECT05)" xml:space="preserve">
-    <value>ふん、なるほど</value>
+    <value>Hmm, I see.</value>
   </data>
   <data name="0098 (589.ja) KOIZUMI (KZM_DETECT06)" xml:space="preserve">
-    <value>これですか？</value>
+    <value>Could this be it?</value>
   </data>
   <data name="0099 (589.ja) KOIZUMI (KZM_DETECT07)" xml:space="preserve">
-    <value>見つけましたよ</value>
+    <value>I found it.</value>
   </data>
   <data name="0100 (589.ja) KOIZUMI (KZM_FOUND00)" xml:space="preserve">
-    <value>ありました</value>
+    <value>There it is.</value>
   </data>
   <data name="0101 (589.ja) KOIZUMI (KZM_FOUND01)" xml:space="preserve">
-    <value>見つけましたよ</value>
+    <value>I found it.</value>
   </data>
   <data name="0102 (589.ja) KOIZUMI (KZM_FOUND02)" xml:space="preserve">
-    <value>ここですね</value>
+    <value>It's here, right?</value>
   </data>
   <data name="0103 (589.ja) KOIZUMI (KZM_GO00)" xml:space="preserve">
-    <value>やりましか？</value>
+    <value>Shall I give it a go?</value>
   </data>
   <data name="0104 (589.ja) KOIZUMI (KZM_HAZARD00)" xml:space="preserve">
-    <value>急いでください、時間が迫っています</value>
+    <value>Please hurry, we're rather pressed for time.</value>
   </data>
   <data name="0105 (589.ja) KOIZUMI (KZM_KZMWIT00)" xml:space="preserve">
-    <value>涼宮さん、そうは慌てなくても</value>
+    <value>Miss Suzumiya, there's no need to rush like that.</value>
   </data>
   <data name="0106 (589.ja) KOIZUMI (KZM_KZMWIT01)" xml:space="preserve">
-    <value>焦っても仕方ありません</value>
+    <value>There's no point rushing.</value>
   </data>
   <data name="0107 (589.ja) KOIZUMI (KZM_KZMWIT02)" xml:space="preserve">
-    <value>お待ちください</value>
+    <value>Just a moment, please.</value>
   </data>
   <data name="0108 (589.ja) KOIZUMI (KZM_KZMWIT03)" xml:space="preserve">
-    <value>ここまでよく似ているとは</value>
+    <value>I didn't expect such a resemblance.</value>
   </data>
   <data name="0109 (589.ja) KOIZUMI (KZM_KZMWIT04)" xml:space="preserve">
-    <value>やれやれ、少し気が引けます</value>
+    <value>Oh my, I'm a little embarrassed.</value>
   </data>
   <data name="0110 (589.ja) KOIZUMI (KZM_KZMWIT05)" xml:space="preserve">
-    <value>僕にも立場があります。手加減しませんよ</value>
+    <value>I too have my place. I won't hold back.</value>
   </data>
   <data name="0111 (589.ja) KOIZUMI (KZM_KZMWIT06)" xml:space="preserve">
-    <value>行かせません</value>
+    <value>I won't let you go!</value>
   </data>
   <data name="0112 (589.ja) KOIZUMI (KZM_KZMWIT07)" xml:space="preserve">
-    <value>僕の能力が役に立ちますかね</value>
+    <value>I hope my abilities will help us.</value>
   </data>
   <data name="0113 (589.ja) KOIZUMI (KZM_KZMWIT08)" xml:space="preserve">
-    <value>何とか足止めしなくては</value>
+    <value>I have to slow her down somehow...</value>
   </data>
   <data name="0114 (589.ja) KOIZUMI (KZM_MOVE00)" xml:space="preserve">
-    <value>さて</value>
+    <value>Let's see.</value>
   </data>
   <data name="0115 (589.ja) KOIZUMI (KZM_OOPS00)" xml:space="preserve">
-    <value>まずは特異点を見つけてください</value>
+    <value>We should start by searching for singularities.</value>
   </data>
   <data name="0116 (589.ja) KOIZUMI (KZM_OVER00)" xml:space="preserve">
-    <value>申し訳ありません。僕の力不足です</value>
+    <value>I do beg my pardon--being of such little use.</value>
   </data>
   <data name="0117 (589.ja) KOIZUMI (KZM_PCHEK00)" xml:space="preserve">
-    <value>ここでしょうか？</value>
+    <value>Could it be here?</value>
   </data>
   <data name="0118 (589.ja) KOIZUMI (KZM_READY00)" xml:space="preserve">
-    <value>さて</value>
+    <value>Well then.</value>
   </data>
   <data name="0119 (589.ja) KOIZUMI (KZM_REQ00)" xml:space="preserve">
-    <value>朝比奈さん、お願いします</value>
+    <value>Miss Asahina, I need your help.</value>
   </data>
   <data name="0120 (589.ja) KOIZUMI (KZM_REQ01)" xml:space="preserve">
-    <value>長門さん、お願いします</value>
+    <value>Miss Nagato, I need your help.</value>
   </data>
   <data name="0121 (589.ja) KOIZUMI (KZM_START00)" xml:space="preserve">
-    <value>どうやら、事態は深刻のようです</value>
+    <value>It seems like things have gotten quite serious.</value>
   </data>
   <data name="0122 (589.ja) KOIZUMI (KZM_START01)" xml:space="preserve">
-    <value>皆さん、サポートをお願いします</value>
+    <value>Everyone, I need your help.</value>
   </data>
   <data name="0123 (589.ja) KOIZUMI (KZM_START02)" xml:space="preserve">
-    <value>さて、急がなければいけませんね</value>
+    <value>Well then, I'd better hurry.</value>
   </data>
   <data name="0124 (589.ja) KOIZUMI (KZM_START03)" xml:space="preserve">
-    <value>どこから行きましょうか</value>
+    <value>Where should I start?</value>
   </data>
   <data name="0125 (589.ja) KOIZUMI (KZM_START04)" xml:space="preserve">
-    <value>では、始めましょうか</value>
+    <value>Well then, shall we begin?</value>
   </data>
   <data name="0126 (589.ja) KOIZUMI (KZM_START05)" xml:space="preserve">
-    <value>さて、どうしたものか</value>
+    <value>Well then, what's going on here?</value>
   </data>
   <data name="0127 (589.ja) KOIZUMI (KZM_START06)" xml:space="preserve">
-    <value>特異点はどこに</value>
+    <value>Where are the singularities...?</value>
   </data>
   <data name="0128 (589.ja) KOIZUMI (KZM_START07)" xml:space="preserve">
-    <value>あまり時間がないようですね</value>
+    <value>It doesn't appear like we have much time.</value>
   </data>
   <data name="0129 (589.ja) KOIZUMI (KZM_TEC00)" xml:space="preserve">
-    <value>行きますよ</value>
+    <value>Here I go!</value>
   </data>
   <data name="0130 (589.ja) KOIZUMI (KZM_TECEFF00)" xml:space="preserve">
-    <value>威力は十分の一程度ですが</value>
+    <value>I can only use a tenth of my power, but here goes.</value>
   </data>
   <data name="0131 (589.ja) KOIZUMI (KZM_TMDEL00)" xml:space="preserve">
-    <value>まずいですね</value>
+    <value>This doesn't look good.</value>
   </data>
   <data name="0132 (589.ja) KOIZUMI (KZM_TMINC00)" xml:space="preserve">
-    <value>少し、時間が稼げました</value>
+    <value>Looks like we bought ourselves some time.</value>
   </data>
   <data name="0133 (589.ja) KOIZUMI (KZM_USEHRH00)" xml:space="preserve">
-    <value>行きますよ！</value>
+    <value>Here I go!</value>
   </data>
   <data name="0134 (589.ja) KOIZUMI (KZM_USETP00)" xml:space="preserve">
-    <value>これでいいのですか？</value>
+    <value>How about this?</value>
   </data>
   <data name="0135 (589.ja) KOIZUMI (KZM_WAIT00)" xml:space="preserve">
-    <value>見つかりませんね</value>
+    <value>I can't find anything.</value>
   </data>
   <data name="0136 (589.ja) KOIZUMI (KZM_WAIT01)" xml:space="preserve">
-    <value>早く、見つけなくては</value>
+    <value>I'd better hurry up and find them.</value>
   </data>
   <data name="0137 (589.ja) KOIZUMI (KZM_WAIT02)" xml:space="preserve">
-    <value>時間がありません</value>
+    <value>There's no time.</value>
   </data>
   <data name="0138 (589.ja) MIKURU (MKR_ACD00)" xml:space="preserve">
-    <value>きゃああああぁ！</value>
+    <value>Kyaaaaa!</value>
   </data>
   <data name="0139 (589.ja) MIKURU (MKR_ACPT00)" xml:space="preserve">
-    <value>はぁ、あたしですか？</value>
+    <value>You want me?</value>
   </data>
   <data name="0140 (589.ja) MIKURU (MKR_ACPTK00)" xml:space="preserve">
-    <value>は、はい！</value>
+    <value>O-okay!</value>
   </data>
   <data name="0141 (589.ja) MIKURU (MKR_ACPTN00)" xml:space="preserve">
-    <value>は、はい！分かりました</value>
+    <value>O-okay! Understood!</value>
   </data>
   <data name="0142 (589.ja) MIKURU (MKR_BLK00)" xml:space="preserve">
-    <value>やりました！</value>
+    <value>I did it!</value>
   </data>
   <data name="0143 (589.ja) MIKURU (MKR_BLK1ST00)" xml:space="preserve">
-    <value>やっと一つです</value>
+    <value>I finally got one.</value>
   </data>
   <data name="0144 (589.ja) MIKURU (MKR_BLKHLF00)" xml:space="preserve">
-    <value>あとどのくらいかな</value>
+    <value>I wonder how many are left?</value>
   </data>
   <data name="0145 (589.ja) MIKURU (MKR_BLKLST00)" xml:space="preserve">
-    <value>ま、まだあるんですか？</value>
+    <value>Th-there's more...?</value>
   </data>
   <data name="0146 (589.ja) MIKURU (MKR_BLKOUT00)" xml:space="preserve">
-    <value>が、頑張ります</value>
+    <value>I-I'll do my best.</value>
   </data>
   <data name="0147 (589.ja) MIKURU (MKR_CANTP00)" xml:space="preserve">
-    <value>辞めちゃうんですか？</value>
+    <value>Are you giving up?</value>
   </data>
   <data name="0148 (589.ja) MIKURU (MKR_CHEK00)" xml:space="preserve">
     <value>この辺ですか？</value>
