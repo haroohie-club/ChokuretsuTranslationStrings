@@ -503,103 +503,103 @@
     <value>Are you giving up?</value>
   </data>
   <data name="0148 (589.ja) MIKURU (MKR_CHEK00)" xml:space="preserve">
-    <value>この辺ですか？</value>
+    <value>Maybe here?</value>
   </data>
   <data name="0149 (589.ja) MIKURU (MKR_CLR100)" xml:space="preserve">
-    <value>やりました！</value>
+    <value>I did it!</value>
   </data>
   <data name="0150 (589.ja) MIKURU (MKR_CLR200)" xml:space="preserve">
-    <value>終わったんですか？</value>
+    <value>Is it over?</value>
   </data>
   <data name="0151 (589.ja) MIKURU (MKR_CLR300)" xml:space="preserve">
-    <value>間に合いました～</value>
+    <value>I made it~</value>
   </data>
   <data name="0152 (589.ja) MIKURU (MKR_CLR400)" xml:space="preserve">
-    <value>地球に帰れるんでしょうか</value>
+    <value>I hope we can get back to Earth.</value>
   </data>
   <data name="0153 (589.ja) MIKURU (MKR_CLR500)" xml:space="preserve">
-    <value>ほええぇ、もうダメです</value>
+    <value>Eeek, there's no hope...</value>
   </data>
   <data name="0154 (589.ja) MIKURU (MKR_CLR600)" xml:space="preserve">
-    <value>気持ち悪かったです</value>
+    <value>That was disgusting...</value>
   </data>
   <data name="0155 (589.ja) MIKURU (MKR_CLR700)" xml:space="preserve">
-    <value>やっと終わりました～</value>
+    <value>It's finally over~</value>
   </data>
   <data name="0156 (589.ja) MIKURU (MKR_CLR800)" xml:space="preserve">
-    <value>全部終わったんでしょうか</value>
+    <value>Is it all over?</value>
   </data>
   <data name="0157 (589.ja) MIKURU (MKR_DETECT00)" xml:space="preserve">
-    <value>えっと、画鋲？</value>
+    <value>Umm, a thumbtack?</value>
   </data>
   <data name="0158 (589.ja) MIKURU (MKR_DETECT01)" xml:space="preserve">
-    <value>音符、かわいい～</value>
+    <value>A music note, cute~</value>
   </data>
   <data name="0159 (589.ja) MIKURU (MKR_DETECT02)" xml:space="preserve">
-    <value>えっと、水晶？</value>
+    <value>Umm, a crystal?</value>
   </data>
   <data name="0160 (589.ja) MIKURU (MKR_DETECT03)" xml:space="preserve">
     <value>ほえぇ、めるめる</value>
   </data>
   <data name="0161 (589.ja) MIKURU (MKR_DETECT04)" xml:space="preserve">
-    <value>さ、触っても大丈夫ですよね？</value>
+    <value>I-it's okay to touch it, right?</value>
   </data>
   <data name="0162 (589.ja) MIKURU (MKR_DETECT05)" xml:space="preserve">
-    <value>こ、これって？</value>
+    <value>Th-this is...?</value>
   </data>
   <data name="0163 (589.ja) MIKURU (MKR_DETECT06)" xml:space="preserve">
-    <value>あったぁ！</value>
+    <value>There it is!</value>
   </data>
   <data name="0164 (589.ja) MIKURU (MKR_DETECT07)" xml:space="preserve">
-    <value>見つけたぁ！</value>
+    <value>Found one!</value>
   </data>
   <data name="0165 (589.ja) MIKURU (MKR_FOUND00)" xml:space="preserve">
-    <value>ありました！</value>
+    <value>There it is!</value>
   </data>
   <data name="0166 (589.ja) MIKURU (MKR_FOUND01)" xml:space="preserve">
-    <value>見つけました！</value>
+    <value>Found one!</value>
   </data>
   <data name="0167 (589.ja) MIKURU (MKR_FOUND02)" xml:space="preserve">
-    <value>やったぁ！</value>
+    <value>Did it!</value>
   </data>
   <data name="0168 (589.ja) MIKURU (MKR_GO00)" xml:space="preserve">
-    <value>頑張りますぅ！</value>
+    <value>I'll do my best!</value>
   </data>
   <data name="0169 (589.ja) MIKURU (MKR_HAZARD00)" xml:space="preserve">
-    <value>キョンくん、急いで！</value>
+    <value>Kyon, hurry!</value>
   </data>
   <data name="0170 (589.ja) MIKURU (MKR_MKRWIT00)" xml:space="preserve">
-    <value>涼宮さん、待ってください！</value>
+    <value>Suzumiya, please wait!</value>
   </data>
   <data name="0171 (589.ja) MIKURU (MKR_MKRWIT01)" xml:space="preserve">
-    <value>おいてかないでぇ！</value>
+    <value>Don't leave me!</value>
   </data>
   <data name="0172 (589.ja) MIKURU (MKR_MKRWIT02)" xml:space="preserve">
-    <value>すすずみやさ～ん！</value>
+    <value>S-Suzumiya!</value>
   </data>
   <data name="0173 (589.ja) MIKURU (MKR_MKRWIT03)" xml:space="preserve">
-    <value>ダメですぅ！</value>
+    <value>I can't!</value>
   </data>
   <data name="0174 (589.ja) MIKURU (MKR_MKRWIT04)" xml:space="preserve">
-    <value>待って涼宮さん！あ、違うんだった</value>
+    <value>Wait, Suzumiya! Ah, nevermind.</value>
   </data>
   <data name="0175 (589.ja) MIKURU (MKR_MKRWIT05)" xml:space="preserve">
-    <value>行っちゃだめですってばぁ</value>
+    <value>I'm telling you, you can't go...</value>
   </data>
   <data name="0176 (589.ja) MIKURU (MKR_MKRWIT06)" xml:space="preserve">
-    <value>い、いかせません！</value>
+    <value>I-I won't let you go!</value>
   </data>
   <data name="0177 (589.ja) MIKURU (MKR_MKRWIT07)" xml:space="preserve">
-    <value>ダメですぅ</value>
+    <value>I can't do it...</value>
   </data>
   <data name="0178 (589.ja) MIKURU (MKR_MKRWIT08)" xml:space="preserve">
-    <value>キョンくん、急いでぇ</value>
+    <value>Kyon, hurry!</value>
   </data>
   <data name="0179 (589.ja) MIKURU (MKR_MOVE00)" xml:space="preserve">
-    <value>ふ～ん</value>
+    <value>Hmmm...</value>
   </data>
   <data name="0180 (589.ja) MIKURU (MKR_OOPS00)" xml:space="preserve">
-    <value>ほえぇ、ダメでした</value>
+    <value>Eeeek... It didn't work.</value>
   </data>
   <data name="0181 (589.ja) MIKURU (MKR_OVER00)" xml:space="preserve">
     <value>ごめんなさい、キョンくん</value>
