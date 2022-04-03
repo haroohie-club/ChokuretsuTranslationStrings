@@ -125,7 +125,7 @@
     <value>Phew, it's over.</value>
   </data>
   <data name="0022 (589.ja) KYON (KYN_CLR400)" xml:space="preserve">
-    <value>Looks like I was able to avoid getting abducted by aliens.</value>
+    <value>Well, I was able to avoid getting abducted.</value>
   </data>
   <data name="0023 (589.ja) KYON (KYN_CLR500)" xml:space="preserve">
     <value>Is this tree gonna go back to normal?</value>
@@ -374,7 +374,7 @@
     <value>Please hurry, we're rather pressed for time.</value>
   </data>
   <data name="0105 (589.ja) KOIZUMI (KZM_KZMWIT00)" xml:space="preserve">
-    <value>Miss Suzumiya, there's no need to rush like that.</value>
+    <value>Miss Suzumiya, there's no need to rush.</value>
   </data>
   <data name="0106 (589.ja) KOIZUMI (KZM_KZMWIT01)" xml:space="preserve">
     <value>There's no point rushing.</value>
@@ -422,7 +422,7 @@
     <value>Miss Nagato, I need your help.</value>
   </data>
   <data name="0121 (589.ja) KOIZUMI (KZM_START00)" xml:space="preserve">
-    <value>It seems like things have gotten quite serious.</value>
+    <value>So things have gotten quite serious.</value>
   </data>
   <data name="0122 (589.ja) KOIZUMI (KZM_START01)" xml:space="preserve">
     <value>Everyone, I need your help.</value>
@@ -449,7 +449,7 @@
     <value>Here I go!</value>
   </data>
   <data name="0130 (589.ja) KOIZUMI (KZM_TECEFF00)" xml:space="preserve">
-    <value>I can only use a tenth of my power, but here goes.</value>
+    <value>I can only use a tenth of my power, but I'll try.</value>
   </data>
   <data name="0131 (589.ja) KOIZUMI (KZM_TMDEL00)" xml:space="preserve">
     <value>This doesn't look good.</value>
@@ -713,7 +713,7 @@
     <value>All normalized.</value>
   </data>
   <data name="0218 (589.ja) NAGATO (NGT_CLR500)" xml:space="preserve">
-    <value>Confirmed the termination of data lifeform activities.</value>
+    <value>End of data lifeform activities confirmed.</value>
   </data>
   <data name="0219 (589.ja) NAGATO (NGT_CLR600)" xml:space="preserve">
     <value>All copies have been eliminated.</value>
@@ -812,7 +812,7 @@
     <value>Support.</value>
   </data>
   <data name="0251 (589.ja) NAGATO (NGT_START00)" xml:space="preserve">
-    <value>There's no margin for error. Focusing on efficiency.</value>
+    <value>Errors not permitted. Focusing on efficiency.</value>
   </data>
   <data name="0252 (589.ja) NAGATO (NGT_START01)" xml:space="preserve">
     <value>Beginning singularity elimination.</value>
