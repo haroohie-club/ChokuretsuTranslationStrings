@@ -597,66 +597,59 @@ Watch out, Asahina!</value>
     <value>Y-yeah.</value>
   </data>
   <data name="0183 (404.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>I was a little flustered as Nagato pulled me up by my hand.</value>
+    <value>I was a little flustered as Nagato grabbed me by the hand.</value>
   </data>
   <data name="0184 (404.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>と、思いのほか力強く長門が俺を
-引き起こしてくれた</value>
+    <value>She then pulled me up with surprising force.</value>
   </data>
   <data name="0185 (404.ja) KYON (キョン)" xml:space="preserve">
-    <value>ありがとうな、長門</value>
+    <value>Thanks, Nagato.</value>
   </data>
   <data name="0186 (404.ja) NAGATO (長門)" xml:space="preserve">
-    <value>いい
-大したことはしていない</value>
+    <value>It's fine.
+It wasn't much.</value>
   </data>
   <data name="0187 (404.ja) KYON (キョン)" xml:space="preserve">
-    <value>いや、それでも……</value>
+    <value>Well, even so…</value>
   </data>
   <data name="0188 (404.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ほらほら、そんなことはどうでも
-いいから、早く立ちなさいって！</value>
+    <value>Look, who cares about that--just get up quickly!</value>
   </data>
   <data name="0189 (404.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>俺と長門の間に、ハルヒの奴が
-割って入ってくる</value>
+    <value>Haruhi burst in between me and Nagato.</value>
   </data>
   <data name="0190 (404.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>その辺にキョンがばらまいた本は
-責任持って片付けるのよ</value>
+    <value>You're responsible for tidying up all these books that you scattered all over the place.</value>
   </data>
   <data name="0191 (404.ja) KYON (キョン)" xml:space="preserve">
-    <value>俺の責任かよ！？</value>
+    <value>I'm responsible?!</value>
   </data>
   <data name="0192 (404.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>当たり前じゃない
-崩したのはキョンなんだから</value>
+    <value>Of course you are.
+You're the one who knocked them over.</value>
   </data>
   <data name="0193 (404.ja) KYON (キョン)" xml:space="preserve">
-    <value>納得いかん、納得いかんぞ……</value>
+    <value>This isn't right… This isn't right at all…</value>
   </data>
   <data name="0194 (404.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>俺はぶつぶつとぼやきながら本を
-片付けた</value>
+    <value>I was muttering to myself as I tidied up the books.</value>
   </data>
   <data name="0195 (404.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>結局その後の調査でも、それらしい
-情報を見付けることは出来なかった</value>
+    <value>In the end, we never found anything even in the proceeding investigation.</value>
   </data>
   <data name="0196 (404.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>まあ、元々存在しないのだから当た
-り前のことなのだが</value>
+    <value>Well, there was never anything to find in the first place, so it's only natural.</value>
   </data>
   <data name="0197 (404.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>朝比奈さんと相談しよう</value>
+    <value>Discuss with Asahina</value>
   </data>
   <data name="0198 (404.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>長門と相談しよう</value>
+    <value>Discuss with Nagato</value>
   </data>
   <data name="0199 (404.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>朝比奈さん</value>
+    <value>Asahina</value>
   </data>
   <data name="0200 (404.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>長門</value>
+    <value>Nagato</value>
   </data>
 </root>
