@@ -62,7 +62,7 @@
     <value>It's about yesterday at the café.</value>
   </data>
   <data name="0003 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Haruhi's ears perked up when she heard that dreaded phrase, "unnatural phenomenon."</value>
+    <value>Haruhi's ears perked up when she heard that dreaded phrase, "unnatural phenomena."</value>
   </data>
   <data name="0005 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>"Tomorrow morning, we'll meet at school! Bring whatever you need for staying the night!"</value>
@@ -107,7 +107,7 @@
     <value>Koizumi, I'll let you do the execution.</value>
   </data>
   <data name="0021 (361.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>It is an honor.</value>
+    <value>It would be an honor.</value>
   </data>
   <data name="0022 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>…You call that an honor?</value>
@@ -125,7 +125,7 @@
     <value>Since she ordered us to, I woke up early and began the stupidly long climb up to school.</value>
   </data>
   <data name="0013 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Don't you know our ancestor's great proverb, "hate the sin, not the sinner"?</value>
+    <value>Don't you know our ancestors' great proverb, "hate the sin, not the sinner"?</value>
   </data>
   <data name="0016 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Even though it's morning, I feel awful for making you wait in this rather harsh sunlight.</value>
@@ -149,7 +149,7 @@
     <value>I-is that so… Sounds good.</value>
   </data>
   <data name="0051 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Good grief… Everyone's as usual it seems.</value>
+    <value>Good grief… Everyone's as usual, it seems.</value>
   </data>
   <data name="0053 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>By the way, Kyon.</value>
@@ -383,13 +383,13 @@
     <value>Why am I still missing five points despite getting the correct answer? I need to know.</value>
   </data>
   <data name="0124 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>You'd naturally figure it out eventually if you considered the meaning of the SOS Brigade.</value>
+    <value>You'd figure it out eventually anyways just by considering the purpose of the SOS Brigade.</value>
   </data>
   <data name="0125 (361.ja) KYON (キョン)" xml:space="preserve">
-    <value>First of all, explain to me what this so-called meaning is.</value>
+    <value>First of all, explain to me what this so-called purpose is.</value>
   </data>
   <data name="0127 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>The meaning of the SOS Brigade is to search out the mysteries of our society.</value>
+    <value>The purpose of the SOS Brigade is to search out the mysteries of our society.</value>
   </data>
   <data name="0128 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
     <value>Then, we get to have fun with the aliens, time travelers, sliders, and espers that we find!</value>
@@ -401,7 +401,7 @@
     <value>Koizumi, who worships Haruhi like a god, and the group of espers he is a part of.</value>
   </data>
   <data name="0134 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Part of a group that calls themselves "the Agency."</value>
+    <value>Part of a group that calls themselves the "Agency."</value>
   </data>
   <data name="0136 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>For better or worse, she is herself unaware of this and can't consciously control it.</value>
@@ -764,7 +764,7 @@
     <value>Hm… "The Man-Eating Classroom"?</value>
   </data>
   <data name="0291 (361.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Right. The story of a classroom that once you enter, you can never return.</value>
+    <value>Right. The story of a classroom that once you enter, you can never leave.</value>
   </data>
   <data name="0293 (361.ja) KYON (キョン)" xml:space="preserve">
     <value>On what basis can you make that claim? Please tell me.</value>
@@ -896,7 +896,7 @@
     <value>Exactly what kind of thing?</value>
   </data>
   <data name="0358 (361.ja) CLUB_MEM_A (部員Ａ)" xml:space="preserve">
-    <value>As I was walking down the corridor I felt a strange uneasiness…</value>
+    <value>As I was walking down the corridor, I felt a strange uneasiness…</value>
   </data>
   <data name="0359 (361.ja) KYON (キョン)" xml:space="preserve">
     <value>Uneasiness?</value>
@@ -920,7 +920,7 @@
     <value>Of course I know that! But it was really there!</value>
   </data>
   <data name="0368 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Setting whether or not it's true aside, it's obviously seriously affected this guy.</value>
+    <value>Setting the statement's veracity aside, it's obviously seriously affected this guy.</value>
   </data>
   <data name="0372 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>I'll talk to him again when he's calmed down.</value>
@@ -941,7 +941,7 @@
     <value>I was told you encountered some paranormal activity.</value>
   </data>
   <data name="0382 (361.ja) KYON (キョン)" xml:space="preserve">
-    <value>You could hear… someone was playing the piano?</value>
+    <value>You could hear it… someone was playing the piano?</value>
   </data>
   <data name="0383 (361.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
     <value>I went to check straight away!</value>
@@ -1052,7 +1052,7 @@
     <value>Huh? What was it again? I heard it from someone, but…</value>
   </data>
   <data name="0435 (361.ja) CLUB_MEM_D (部員Ｄ)" xml:space="preserve">
-    <value>I completely forgot. But, I heard it form a very reliable source!</value>
+    <value>I completely forgot. But, I heard it from a very reliable source!</value>
   </data>
   <data name="0436 (361.ja) KYON (キョン)" xml:space="preserve">
     <value>R-right…</value>
@@ -1190,7 +1190,7 @@
     <value>Then, let's return to the clubroom and have a strategy meeting. We'll be very busy!</value>
   </data>
   <data name="0338 (361.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>We did steal their computer on the first meeting after all.</value>
+    <value>We did steal their computer the first time we met, after all.</value>
   </data>
   <data name="0342 (361.ja) CLUB_PRES (部長氏)" xml:space="preserve">
     <value>Ask him over there. I don't know any of the details.</value>

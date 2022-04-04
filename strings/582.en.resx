@@ -77,7 +77,7 @@
     <value>#P04...and then materialize and erase them.</value>
   </data>
   <data name="0006 (582.ja) INFO (インフォ)" xml:space="preserve">
-    <value>#P04On the bottom left of the screen, "Left" counts the total number of singularities.</value>
+    <value>#P04On the bottom left of the screen, "Left" counts the remaining number of singularities.</value>
   </data>
   <data name="0007 (582.ja) INFO (インフォ)" xml:space="preserve">
     <value>#P04Next to it is the "Goal" number, which counts...</value>
