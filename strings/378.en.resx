@@ -248,7 +248,7 @@
     <value>…Can't we use that to our advantage?</value>
   </data>
   <data name="0071 (378.ja) KYON (キョン)" xml:space="preserve">
-    <value>What do you mean, "that?"</value>
+    <value>What do you mean, "that"?</value>
   </data>
   <data name="0072 (378.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>The classroom's plate.</value>
@@ -260,10 +260,10 @@
     <value>Ah, that? But how would we use it?</value>
   </data>
   <data name="0075 (378.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>How about we take the plate off, and put up class 7's in place of it?</value>
+    <value>How about we take the plate off, and put up class 7's in its place?</value>
   </data>
   <data name="0076 (378.ja) KYON (キョン)" xml:space="preserve">
-    <value>What's the point?</value>
+    <value>To what end?</value>
   </data>
   <data name="0077 (378.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>Then class 8's plate where 7's should be, class 9's plate in class 8's spot…</value>
@@ -406,7 +406,7 @@ We're done already!</value>
     <value>Careful!</value>
   </data>
   <data name="0123 (378.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Thankfully, Koizumi somehow caught my shoulder, saving me from landing on my backside.</value>
+    <value>Thankfully, Koizumi somehow caught my shoul- der, saving me from landing on my backside.</value>
   </data>
   <data name="0124 (378.ja) KYON (キョン)" xml:space="preserve">
     <value>Sorry about that.</value>
@@ -490,15 +490,15 @@ We're done already!</value>
     <value>What does it look like?</value>
   </data>
   <data name="0152 (378.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>There wasn't a single odd thing. Nothing more than a regular corridor.</value>
+    <value>There wasn't a single odd thing. Nothing more than a regular hallway.</value>
   </data>
   <data name="0153 (378.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>Right… Then, in the end we didn't find anything at all.</value>
+    <value>Right… So in the end, we couldn't find anything at all.</value>
   </data>
   <data name="0154 (378.ja) INFO (CHOICE)" xml:space="preserve">
     <value>Quickly take it</value>
   </data>
   <data name="0155 (378.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Give up.</value>
+    <value>Give up</value>
   </data>
 </root>
