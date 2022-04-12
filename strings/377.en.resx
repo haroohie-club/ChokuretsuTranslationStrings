@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (377.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>In the end, we wound up with with quite the unbalanced lineup once again, huh…</value>
+    <value>In the end, we've ended up with quite the unbalanced lineup once again, huh…</value>
   </data>
   <data name="0001 (377.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Well, I can't deny that this group won't have trouble preventing Haruhi's rampage.</value>
@@ -389,7 +389,7 @@
     <value>U-um… Kyon…</value>
   </data>
   <data name="0119 (377.ja) KYON (キョン)" xml:space="preserve">
-    <value>Asahina, are you ok?! Haruhi's will handle the Computer Society's punishment—</value>
+    <value>Asahina, are you okay?! Haruhi's will handle the Computer Society's punishment—</value>
   </data>
   <data name="0120 (377.ja) MIKURU (朝比奈)" xml:space="preserve">
     <value>I'm crying because, um… I tripped in the hallway over there.</value>
@@ -434,7 +434,7 @@
     <value>The whirring of electronics filled the air as the computers booted up… or rather, restarted.</value>
   </data>
   <data name="0134 (377.ja) NAGATO (長門)" xml:space="preserve">
-    <value>The lost data will not restore.</value>
+    <value>Lost data cannot be recovered.</value>
   </data>
   <data name="0135 (377.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Well, a bunch of active computers were abruptly shut down after all…</value>
@@ -917,24 +917,24 @@ but for now we'll make a tactical retreat.</value>
     <value>Putting this plan on hold and returning to the clubroom is our best move.</value>
   </data>
   <data name="0305 (377.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>What a shame. If we had only 10 minutes more, we could've achieved our goal…</value>
+    <value>What a shame. If we had only ten minutes more, we could've achieved our goal…</value>
   </data>
   <data name="0306 (377.ja) KYON (キョン)" xml:space="preserve">
-    <value>Let's think of another move. For now, we'll hurry back.</value>
+    <value>Let's think up another move. For now, we should hurry back.</value>
   </data>
   <data name="0307 (377.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>Nothing we can do about it, I suppose.</value>
+    <value>I suppose it can't be helped.</value>
   </data>
   <data name="0308 (377.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Entrust Koizumi with it</value>
+    <value>Leave it to Koizumi</value>
   </data>
   <data name="0309 (377.ja) INFO (CHOICE)" xml:space="preserve">
     <value>Rely on Nagato</value>
   </data>
   <data name="0310 (377.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>At least take class 6</value>
+    <value>At least do class 6</value>
   </data>
   <data name="0311 (377.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Give up and head back to the clubroom</value>
+    <value>Give up and return to the clubroom</value>
   </data>
 </root>
