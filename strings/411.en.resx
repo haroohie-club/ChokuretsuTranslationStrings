@@ -396,81 +396,72 @@ I knew it~ I see, I see~</value>
     <value>I'm just worried about something.</value>
   </data>
   <data name="0128 (411.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>Ahh, worries--nice...
-Isn't youth wonderful...</value>
+    <value>Ahh, worries--isn't that lovely~
+What it's like to be youthful~</value>
   </data>
   <data name="0129 (411.ja) KYON (キョン)" xml:space="preserve">
-    <value>悩んでる方は、これでけっこう大変
-なんですよ</value>
+    <value>Speaking as the person with the worries--it doesn't feel so lovely to me.</value>
   </data>
   <data name="0130 (411.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>じゃあ、お姉さんがアドバイスして
-あげよう。いいかい、キョンくん</value>
+    <value>Then let big sis give you some advice, okay, Kyon?</value>
   </data>
   <data name="0131 (411.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>悩みなんてのは、小手先でごまか
-そうとしたってダメなのさ</value>
+    <value>You mustn't hide your worries in an attempt to please others.</value>
   </data>
   <data name="0132 (411.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>悩みの元から、どーんと絶っちゃわ
-ないとね！</value>
+    <value>You have to find the root of those worries and cut them off!</value>
   </data>
   <data name="0133 (411.ja) KYON (キョン)" xml:space="preserve">
-    <value>元から絶つ、ですか</value>
+    <value>Cut them from the root, you say?</value>
   </data>
   <data name="0134 (411.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>今回の事件の元……</value>
+    <value>The root of this situation…</value>
   </data>
   <data name="0135 (411.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>やはり音楽室へ乗り込まなければ
-問題は解決しないのか？</value>
+    <value>Maybe even without getting in the music room, the problem still won't be dealt with.</value>
   </data>
   <data name="0136 (411.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>図書室に用事があるんじゃ
-なかったのかい？</value>
+    <value>Didn't you have business in the library?</value>
   </data>
   <data name="0137 (411.ja) KYON (キョン)" xml:space="preserve">
-    <value>え、ああ、そうです</value>
+    <value>Oh yeah, that's right.</value>
   </data>
   <data name="0138 (411.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>図書室に着いたよ</value>
+    <value>Well we've arrived at the library now.</value>
   </data>
   <data name="0139 (411.ja) KYON (キョン)" xml:space="preserve">
-    <value>おわ、いつの間に</value>
+    <value>Wha... Since when did we...?</value>
   </data>
   <data name="0140 (411.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>話し込んでいる内に、図書室に
-着いてしまったようだ</value>
+    <value>Seems like we got here while we were talking.</value>
   </data>
   <data name="0141 (411.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>それじゃキョンくん
-大いにがんばりたまえよ</value>
+    <value>Well then, Kyon, give it your best effort out there!</value>
   </data>
   <data name="0142 (411.ja) TSURUYA (鶴屋)" xml:space="preserve">
-    <value>みくるも、がんばるんだよっ
-じゃあね！</value>
+    <value>You too, Mikuru, do your best--!
+See ya!</value>
   </data>
   <data name="0143 (411.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>鶴屋さんは行ってしまった</value>
+    <value>Tsuruya headed off.</value>
   </data>
   <data name="0144 (411.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>けれど、重要なアドバイスを
-残していってくれた</value>
+    <value>Though, she left me with some important advice.</value>
   </data>
   <data name="0145 (411.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>元から絶つ、か
-試してみる価値はありそうだな</value>
+    <value>Cut it off from the source, huh.
+Should be worth a shot at least.</value>
   </data>
   <data name="0146 (411.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ポスターを持っていく</value>
+    <value>Take the poster</value>
   </data>
   <data name="0147 (411.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ポスターをあきらめる</value>
+    <value>Give up on the poster plan</value>
   </data>
   <data name="0148 (411.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>可憐な花</value>
+    <value>Beautiful flower</value>
   </data>
   <data name="0149 (411.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>道ばたに咲く花</value>
+    <value>Flower that blooms on the roadside</value>
   </data>
 </root>

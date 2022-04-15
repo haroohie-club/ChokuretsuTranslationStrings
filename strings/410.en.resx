@@ -59,322 +59,272 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>古泉と共に職員室にカギを
-借りに行くことにした</value>
+    <value>I decided to go to the staff room with Koizumi to borrow the key.</value>
   </data>
   <data name="0001 (410.ja) KYON (キョン)" xml:space="preserve">
-    <value>ところで古泉、カギを借りられ
-たら後はどうするんだ？</value>
+    <value>By the way, Koizumi, what do you want to do once we've got the key?</value>
   </data>
   <data name="0002 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>真っ直ぐ音楽室へ向かいましょう</value>
+    <value>Let's head directly to the music room.</value>
   </data>
   <data name="0003 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>例の現象がどんなものか、涼宮さん
-が来る前に調べたいですからね</value>
+    <value>I'd like to investigate what kind of phenomena we're handling before Miss Suzumiya arrives.</value>
   </data>
   <data name="0004 (410.ja) KYON (キョン)" xml:space="preserve">
-    <value>それについては俺も賛成だが……</value>
+    <value>I guess I agree with you in that regard…</value>
   </data>
   <data name="0006 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>職員室の前まで来ると、運良く
-見知った顔を見つけた</value>
+    <value>Arriving outside the staff room, I was fortunate enough to be greeted by a familiar face.</value>
   </data>
   <data name="0007 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>さっそく、カギの件を打診してみた
-のだが……</value>
+    <value>I went straight in to approach him about the key, but…</value>
   </data>
   <data name="0008 (410.ja) OKABE (岡部)" xml:space="preserve">
-    <value>音楽室のカギだって？
-利用申請書は出してあるのか？</value>
+    <value>The key to the music room?
+Have you submitted a request form?</value>
   </data>
   <data name="0009 (410.ja) KYON (キョン)" xml:space="preserve">
-    <value>えっ</value>
+    <value>Eh--?</value>
   </data>
   <data name="0010 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>カギを貸して欲しいと告げると
-そんな問いが返ってきた</value>
+    <value>Telling him I wanted the key, all I got back was that question.</value>
   </data>
   <data name="0011 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>急にそんなことを言われても</value>
+    <value>Well, say that all you want...</value>
   </data>
   <data name="0012 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ハルヒの急な思いつきで借りる
-羽目になったんだから</value>
+    <value>...but, I'm only having to do this because Haruhi got the idea on a whim...</value>
   </data>
   <data name="0013 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>当然用意なんてしていない</value>
+    <value>Of course I don't have that document ready.</value>
   </data>
   <data name="0014 (410.ja) KYON (キョン)" xml:space="preserve">
-    <value>えぇと、それがまだ……</value>
+    <value>Umm, I haven't yet…</value>
   </data>
   <data name="0015 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>助けを求めて古泉の方を見ると</value>
+    <value>I turned to Koizumi in desperation...</value>
   </data>
   <data name="0016 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>いつもの笑みを顔に貼り付けたまま
-肩をすくめている</value>
+    <value>He shrugged his shoulders with the same smile as ever plastered on his face.</value>
   </data>
   <data name="0017 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>やっぱりと言っているかのようで
-なんだか腹立たしい</value>
+    <value>His body language says he knew this was coming. It's honestly really annoying.</value>
   </data>
   <data name="0019 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>事前に申請書を用意出来なかった
-ことについては申し訳ありません</value>
+    <value>My greatest apologies that we were unable to prepare a request form beforehand.</value>
   </data>
   <data name="0020 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ですが、僕たちは元々長時間利用
-する予定ではなかったものでして</value>
+    <value>However, we never intended to spend an extended period of time using the room.</value>
   </data>
   <data name="0021 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>他の部活が利用する前には去ります</value>
+    <value>We will have left prior to other clubs requiring its use.</value>
   </data>
   <data name="0022 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ですから、少しの間だけお貸し
-いただけないでしょうか？</value>
+    <value>It is for these reasons that I wonder if we couldn't borrow the room for a short period?</value>
   </data>
   <data name="0023 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そうそう、使うのはちょっとの間だ</value>
+    <value>That's right, we only need it for a little bit.</value>
   </data>
   <data name="0024 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>それに、いちいち書類で申請する
-ような事をするわけじゃない</value>
+    <value>And there's no way I'm filling out application forms for every little thing anyway.</value>
   </data>
   <data name="0025 (410.ja) OKABE (岡部)" xml:space="preserve">
-    <value>それはダメだ。規則だからな
-他の利用者もちゃんと提出している</value>
+    <value>I'm afraid I can't allow that. It's the rules. Others have properly submitted it.</value>
   </data>
   <data name="0026 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>くそっ、どうせ空いてる時間なんだ
-から、少しは融通を利かせてくれよ</value>
+    <value>Damn it... It's free right now anyway, so just be a little flexible...</value>
   </data>
   <data name="0028 (410.ja) KYON (キョン)" xml:space="preserve">
-    <value>#P06……古泉、ダメだとさ</value>
+    <value>#P06…Koizumi, he said no.</value>
   </data>
   <data name="0029 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>#P06困りましたね</value>
+    <value>#P06It's quite troubling.</value>
   </data>
   <data name="0030 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>古泉の教師ウケしそうな笑顔にも
-少しかげりが見えているか</value>
+    <value>I felt like I saw a cloud on Koizumi's smile that I thought teachers would be swept up by.</value>
   </data>
   <data name="0031 (410.ja) KYON (キョン)" xml:space="preserve">
-    <value>#P06なあ、古泉ダメならダメで
-いいんじゃないか？</value>
+    <value>#P06Hey, Koizumi, if he says no, then can't we just leave it at that?</value>
   </data>
   <data name="0032 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>#P06……と言いますと？</value>
+    <value>#P06…Go on?</value>
   </data>
   <data name="0033 (410.ja) KYON (キョン)" xml:space="preserve">
-    <value>#P06書類不備で借りられなかったと
-ハルヒにそのまま伝えるとか</value>
+    <value>Like, we could just tell Haruhi the truth that we couldn't because we didn't have the form.</value>
   </data>
   <data name="0034 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そうすれば音楽室の調査とやらを
-諦めるかもしれないだろ</value>
+    <value>If we do, she might just give up on investigating the music room.</value>
   </data>
   <data name="0035 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>#P06仮にそう伝えたとして、涼宮さんが
-素直に諦めないであろうことは</value>
+    <value>#P06Even supposing we did tell her so, I'm sure you know better than anyone...</value>
   </data>
   <data name="0036 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>#P06あなたが一番よくご存知なのでは？</value>
+    <value>#P06...that Miss Suzumiya would never give up on it so easily, right?</value>
   </data>
   <data name="0037 (410.ja) KYON (キョン)" xml:space="preserve">
-    <value>#P06う……</value>
+    <value>#P06Ugh…</value>
   </data>
   <data name="0038 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>わかってるさ</value>
+    <value>Yeah I know it.</value>
   </data>
   <data name="0039 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ハルヒが権力に屈してあきらめる
-なんてことがあるとは思えん</value>
+    <value>I would never expect Haruhi to yield to democracy.</value>
   </data>
   <data name="0040 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>#P06さて、僕としてはいつまでもここで
-押し問答をするつもりはありません</value>
+    <value>#P06Well then, I certainly have no intention of remaining here in this verbal tug-of-war.</value>
   </data>
   <data name="0041 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>#P06涼宮さんよりも早く、例の現象を
-究明しないといけませんからね</value>
+    <value>#P06We'd better investigate our phenomenon before Miss Suzumiya beats us to it.</value>
   </data>
   <data name="0042 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>とはいえ、頭の固い岡部教諭から
-どうやってカギを借りようか</value>
+    <value>Though, how should we even go about borrow- ing the key from such a stubborn Okabe.</value>
   </data>
   <data name="0044 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ダメ元でもう一度頼んでみるか</value>
+    <value>Maybe I should just try asking again. What's the worst that could happen?</value>
   </data>
   <data name="0045 (410.ja) KYON (キョン)" xml:space="preserve">
-    <value>先生、頼みますよ。今回だけなんで
-少しだけ音楽室を貸して下さい</value>
+    <value>Please, Okabe. Just this once, do you mind if we borrow the key for a short while?</value>
   </data>
   <data name="0046 (410.ja) OKABE (岡部)" xml:space="preserve">
-    <value>しかしだなぁ……</value>
+    <value>Well, you know…</value>
   </data>
   <data name="0047 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>少しだが、態度が軟化したんじゃ
-なかろうか……</value>
+    <value>He does seem to have softened his attitude, even if only a little.</value>
   </data>
   <data name="0048 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>先生、僕たちは今日を逃すと都合が
-つかないのです</value>
+    <value>Sir, if we are unable to use the room today, it would rather trouble us.</value>
   </data>
   <data name="0049 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>先生にご迷惑をおかけするような
-ことはしません</value>
+    <value>We of course won't cause you any trouble.</value>
   </data>
   <data name="0050 (410.ja) OKABE (岡部)" xml:space="preserve">
-    <value>……本当か？</value>
+    <value>…Are you sure?</value>
   </data>
   <data name="0051 (410.ja) KYON (キョン)" xml:space="preserve">
-    <value>も、もちろん</value>
+    <value>O-of course.</value>
   </data>
   <data name="0052 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そのご迷惑とやらが起きないように
-音楽室へ行くんだからな</value>
+    <value>I mean, we need to go to the music room in order to prevent that trouble.</value>
   </data>
   <data name="0053 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>今回だけ特別にお願いできないで
-しょうか？</value>
+    <value>Won't you make an exception for us just this once?</value>
   </data>
   <data name="0054 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>申請書が必要なことについては
-重々承知しましたので</value>
+    <value>We're fully aware that we needed a request form.</value>
   </data>
   <data name="0055 (410.ja) OKABE (岡部)" xml:space="preserve">
-    <value>……仕方ない、本当に今回だけだぞ</value>
+    <value>…Well, I guess I can't help it then. Just this once.</value>
   </data>
   <data name="0056 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ありがとうございます</value>
+    <value>Thank you so very much.</value>
   </data>
   <data name="0057 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>おおっ、なんとかなったぞ
-さすが古泉、口が上手いな</value>
+    <value>Wow, we somehow made that work.
+Nice one, Koizumi--what a skilled speaker.</value>
   </data>
   <data name="0058 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ええ、もちろんそうしますよ
-ありがとうございます</value>
+    <value>Yes, of course we will.
+Thank you ever so much.</value>
   </data>
   <data name="0059 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>善人スマイルを浮かべて古泉が
-教師からカギを受け取った</value>
+    <value>A wholesome smile formed on Koizumi's face as he received the key from the teacher.</value>
   </data>
   <data name="0060 (410.ja) KYON (キョン)" xml:space="preserve">
-    <value>……古泉、任せてもいいか？</value>
+    <value>…Koizumi, mind if I leave it to you?</value>
   </data>
   <data name="0061 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>古泉は俺とちがって口が
-上手いからな</value>
+    <value>Unlike me, Koizumi is an excellent speaker, after all.</value>
   </data>
   <data name="0062 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ええ、それはかまいませんよ</value>
+    <value>Why of course--that is no problem with me.</value>
   </data>
   <data name="0063 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>頷く古泉が妙に頼もしく思える</value>
+    <value>There was a strangely reliable air to Koizumi as he nodded at me.</value>
   </data>
   <data name="0064 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>先生、申請書さえ提出すれば
-いいということですよね？</value>
+    <value>Sir, am I correct in assuming that as long as we fill in a request form, that should suffice?</value>
   </data>
   <data name="0065 (410.ja) OKABE (岡部)" xml:space="preserve">
-    <value>ああ、そうだ</value>
+    <value>Yeah, that's right.</value>
   </data>
   <data name="0066 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>でしたら、後で提出ということで
-構わないでしょうか？</value>
+    <value>In that case, would you mind if we submit the form on a later occasion?</value>
   </data>
   <data name="0067 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>あいにく、僕たちは今日を逃すと
-新学期まで都合がつかなく</value>
+    <value>Unfortunately, if we miss the opportunity to visit the room today, it'll put us in a...</value>
   </data>
   <data name="0068 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>なってしまう状態でして</value>
+    <value>...tough spot until the start of the new term.</value>
   </data>
   <data name="0069 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>その点を考慮していただけると
-非常に助かるのですが</value>
+    <value>We would greatly appreciate it if you took this matter into consideration.</value>
   </data>
   <data name="0070 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>優等生面で丁寧に頼む古泉に
-先生は少し考えていたようだが</value>
+    <value>After Koizumi's request with his polite tea- cher's pet act, Okabe appeared to consider it.</value>
   </data>
   <data name="0071 (410.ja) OKABE (岡部)" xml:space="preserve">
-    <value>そうだな。そういうことなら
-特別に許可を出そう</value>
+    <value>I guess so. If that's how it is, I'll give you special permission.</value>
   </data>
   <data name="0072 (410.ja) OKABE (岡部)" xml:space="preserve">
-    <value>その代わり、後でこれを提出
-してくれればいい</value>
+    <value>In return, if you could hand this in to me later.</value>
   </data>
   <data name="0073 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>はい、わかりました
-ありがとうございます</value>
+    <value>Yes, understood.
+Thank you very much.</value>
   </data>
   <data name="0074 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>古泉は教師から音楽室のカギと
-申請書を受け取った</value>
+    <value>Koizumi received the key and a request form from the teacher.</value>
   </data>
   <data name="0076 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>さて、音楽室に向かいましょうか</value>
+    <value>Well then, shall we head to the music room?</value>
   </data>
   <data name="0077 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ウィンクをするな、気色悪いぞっ</value>
+    <value>Don't wink at me--it's gross.</value>
   </data>
   <data name="0078 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>だが、古泉の後押しでカギを
-借りられたことには感謝しておこう</value>
+    <value>Though, I should definitely be grateful for him being able to borrow the key.</value>
   </data>
   <data name="0080 (410.ja) KYON (キョン)" xml:space="preserve">
-    <value>まずい、さっきのでだいぶ時間を
-喰っちまったな</value>
+    <value>Damn it, we lost a lot of time on that.</value>
   </data>
   <data name="0081 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ハルヒが音楽室に行く前に
-先回りが出来ればいいんだが</value>
+    <value>It should be fine as long as we get to the music room before Haruhi.</value>
   </data>
   <data name="0082 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ええ、まずは張り込みをされている
-みなさんと合流しましょう</value>
+    <value>Indeed. We should first aim to group up with those on lookout.</value>
   </data>
   <data name="0083 (410.ja) KYON (キョン)" xml:space="preserve">
-    <value>ああ、それがいい</value>
+    <value>Yeah, I agree.</value>
   </data>
   <data name="0084 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>涼宮さんが戻る前に</value>
+    <value>Before Miss Suzumiya gets back...</value>
   </data>
   <data name="0085 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>せめて音楽室内の確認だけでも
-できればいいのですが</value>
+    <value>...I at least want to check the inside of the music room if I can.</value>
   </data>
   <data name="0086 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そうだな。だが俺はどうもいやな
-胸騒ぎがするんだが</value>
+    <value>That's fair--I am starting to get a bad feeling about this though.</value>
   </data>
   <data name="0087 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そう、ねらい澄ましたかのような</value>
+    <value>Right, there is one person who always turns up all of a sudden...</value>
   </data>
   <data name="0088 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>絶妙なタイミングで首を突っ込んで
-くるやつが約１名いるんだよな</value>
+    <value>...with such perfect timing that you can only imagine it was carefully coordinated.</value>
   </data>
   <data name="0089 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>噂をすればなんとやらって言うしな</value>
+    <value>Speak of the devil, or whatever.</value>
   </data>
   <data name="0090 (410.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>来ると思って身構えていた方が
-精神衛生上いいかもしれない</value>
+    <value>It's probably better for my mental health to assume they're coming and prepare myself.</value>
   </data>
   <data name="0091 (410.ja) KYON (キョン)" xml:space="preserve">
-    <value>……いや、それは考えすぎだな</value>
+    <value>…No, I'm overthinking it.</value>
   </data>
   <data name="0092 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>考えすぎとは、何のことでしょう？</value>
+    <value>What might you be overthinking?</value>
   </data>
   <data name="0093 (410.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>涼宮さんが予定より早く戻ってくる
-かもしれないということですか？</value>
+    <value>Perhaps that Miss Suzumiya might come back earlier than expected?</value>
   </data>
   <data name="0094 (410.ja) KYON (キョン)" xml:space="preserve">
     <value>あ、ああ……古泉もそう思うのか？</value>
