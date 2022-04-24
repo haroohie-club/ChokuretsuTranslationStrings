@@ -182,7 +182,7 @@
     <value>Nagato, hurry!</value>
   </data>
   <data name="0041 (589.ja) KYON (KYN_HAZARD02)" xml:space="preserve">
-    <value>Koizumi! Hurry!</value>
+    <value>Koizumi! Move it!</value>
   </data>
   <data name="0042 (589.ja) KYON (KYN_KYNWIT00)" xml:space="preserve">
     <value>Just calm down a little, okay?</value>
@@ -896,15 +896,15 @@
     <value>Orders confirmed.</value>
   </data>
   <data name="0279 (589.ja) KYON (KYN_GRAB00)" xml:space="preserve">
-    <value>どこに向かうか</value>
+    <value>Where should I head?</value>
   </data>
   <data name="0280 (589.ja) KOIZUMI (KZM_GRAB00)" xml:space="preserve">
-    <value>あなたの判断に従います</value>
+    <value>I shall abide by your judgement.</value>
   </data>
   <data name="0281 (589.ja) MIKURU (MKR_GRAB00)" xml:space="preserve">
-    <value>どこに行けばいいんですか？</value>
+    <value>Where would you like me to go?</value>
   </data>
   <data name="0282 (589.ja) NAGATO (NGT_GRAB00)" xml:space="preserve">
-    <value>指示を</value>
+    <value>Awaiting orders.</value>
   </data>
 </root>
