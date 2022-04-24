@@ -860,39 +860,51 @@
     <value>No time to waste.</value>
   </data>
   <data name="0267 (589.ja) KYON (KYN_RLS00)" xml:space="preserve">
-    <value>俺は、これかな</value>
+    <value>I'll go... here I guess.</value>
   </data>
   <data name="0268 (589.ja) KYON (KYN_RLSBD00)" xml:space="preserve">
-    <value>これはちょっと</value>
+    <value>I'm not sure about this...</value>
   </data>
   <data name="0269 (589.ja) KYON (KYN_SET00)" xml:space="preserve">
-    <value>よし、これで行こう！</value>
+    <value>Alright! Let's go with this!</value>
   </data>
   <data name="0270 (589.ja) KOIZUMI (KZM_RLS00)" xml:space="preserve">
-    <value>適切な判断かと</value>
+    <value>I have faith in your judgment.</value>
   </data>
   <data name="0271 (589.ja) KOIZUMI (KZM_RLSBD00)" xml:space="preserve">
-    <value>適切とは言い難いですね</value>
+    <value>I struggle to call this good judgement.</value>
   </data>
   <data name="0272 (589.ja) KOIZUMI (KZM_SET00)" xml:space="preserve">
-    <value>分かりました。行きましょう</value>
+    <value>Very well. Let us proceed.</value>
   </data>
   <data name="0273 (589.ja) MIKURU (MKR_RLS00)" xml:space="preserve">
-    <value>頑張ります！</value>
+    <value>I'll do my best!</value>
   </data>
   <data name="0274 (589.ja) MIKURU (MKR_RLSBD00)" xml:space="preserve">
-    <value>へぇ？これをやるんですか？</value>
+    <value>Really?! You want me here?!</value>
   </data>
   <data name="0275 (589.ja) MIKURU (MKR_SET00)" xml:space="preserve">
-    <value>頑張りましょう！</value>
+    <value>Let's try our best!</value>
   </data>
   <data name="0276 (589.ja) NAGATO (NGT_RLS00)" xml:space="preserve">
-    <value>了解</value>
+    <value>Understood.</value>
   </data>
   <data name="0277 (589.ja) NAGATO (NGT_RLSBD00)" xml:space="preserve">
-    <value>それが、あなたの指示なら</value>
+    <value>If that is your command...</value>
   </data>
   <data name="0278 (589.ja) NAGATO (NGT_SET00)" xml:space="preserve">
-    <value>指示を了解した</value>
+    <value>Orders confirmed.</value>
+  </data>
+  <data name="0279 (589.ja) KYON (KYN_GRAB00)" xml:space="preserve">
+    <value>どこに向かうか</value>
+  </data>
+  <data name="0280 (589.ja) KOIZUMI (KZM_GRAB00)" xml:space="preserve">
+    <value>あなたの判断に従います</value>
+  </data>
+  <data name="0281 (589.ja) MIKURU (MKR_GRAB00)" xml:space="preserve">
+    <value>どこに行けばいいんですか？</value>
+  </data>
+  <data name="0282 (589.ja) NAGATO (NGT_GRAB00)" xml:space="preserve">
+    <value>指示を</value>
   </data>
 </root>
