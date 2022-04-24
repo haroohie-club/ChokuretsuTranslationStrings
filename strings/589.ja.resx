@@ -895,4 +895,16 @@
   <data name="0278 (589.ja) NAGATO (NGT_SET00)" xml:space="preserve">
     <value>指示を了解した</value>
   </data>
+  <data name="0279 (589.ja) KYON (KYN_GRAB00)" xml:space="preserve">
+    <value>どこに向かうか</value>
+  </data>
+  <data name="0280 (589.ja) KOIZUMI (KZM_GRAB00)" xml:space="preserve">
+    <value>あなたの判断に従います</value>
+  </data>
+  <data name="0281 (589.ja) MIKURU (MKR_GRAB00)" xml:space="preserve">
+    <value>どこに行けばいいんですか？</value>
+  </data>
+  <data name="0282 (589.ja) NAGATO (NGT_GRAB00)" xml:space="preserve">
+    <value>指示を</value>
+  </data>
 </root>
