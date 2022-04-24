@@ -859,4 +859,40 @@
   <data name="0266 (589.ja) NAGATO (NGT_WAIT02)" xml:space="preserve">
     <value>No time to waste.</value>
   </data>
+  <data name="0267 (589.ja) KYON (KYN_RLS00)" xml:space="preserve">
+    <value>俺は、これかな</value>
+  </data>
+  <data name="0268 (589.ja) KYON (KYN_RLSBD00)" xml:space="preserve">
+    <value>これはちょっと</value>
+  </data>
+  <data name="0269 (589.ja) KYON (KYN_SET00)" xml:space="preserve">
+    <value>よし、これで行こう！</value>
+  </data>
+  <data name="0270 (589.ja) KOIZUMI (KZM_RLS00)" xml:space="preserve">
+    <value>適切な判断かと</value>
+  </data>
+  <data name="0271 (589.ja) KOIZUMI (KZM_RLSBD00)" xml:space="preserve">
+    <value>適切とは言い難いですね</value>
+  </data>
+  <data name="0272 (589.ja) KOIZUMI (KZM_SET00)" xml:space="preserve">
+    <value>分かりました。行きましょう</value>
+  </data>
+  <data name="0273 (589.ja) MIKURU (MKR_RLS00)" xml:space="preserve">
+    <value>頑張ります！</value>
+  </data>
+  <data name="0274 (589.ja) MIKURU (MKR_RLSBD00)" xml:space="preserve">
+    <value>へぇ？これをやるんですか？</value>
+  </data>
+  <data name="0275 (589.ja) MIKURU (MKR_SET00)" xml:space="preserve">
+    <value>頑張りましょう！</value>
+  </data>
+  <data name="0276 (589.ja) NAGATO (NGT_RLS00)" xml:space="preserve">
+    <value>了解</value>
+  </data>
+  <data name="0277 (589.ja) NAGATO (NGT_RLSBD00)" xml:space="preserve">
+    <value>それが、あなたの指示なら</value>
+  </data>
+  <data name="0278 (589.ja) NAGATO (NGT_SET00)" xml:space="preserve">
+    <value>指示を了解した</value>
+  </data>
 </root>
