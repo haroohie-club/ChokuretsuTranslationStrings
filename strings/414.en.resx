@@ -262,10 +262,10 @@ Just shut up and listen to me!</value>
     <value>I guess that means I can relax for the time being.</value>
   </data>
   <data name="0073 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>I do have concerns.</value>
+    <value>There is something that concerns me.</value>
   </data>
   <data name="0074 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>Concerns?</value>
+    <value>Something that concerns you?</value>
   </data>
   <data name="0075 (414.ja) KYON (キョン)" xml:space="preserve">
     <value>What do you mean by that?</value>
@@ -382,471 +382,414 @@ Just shut up and listen to me!</value>
     <value>How am I supposed to be calm?! Are you kidding?!</value>
   </data>
   <data name="0115 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>よっぽど腹にすえかねたのかハルヒ
-はピアノに向かって文句を言う</value>
+    <value>Directing her complaints at the piano, Haruhi seemed unable to suppress her anger.</value>
   </data>
   <data name="0116 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ちょっと！　どうなってるのよ！</value>
+    <value>Hey! What on earth is going on?!</value>
   </data>
   <data name="0117 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>クラシックでも流行の曲でも
-なんでもいいから弾きなさい！</value>
+    <value>I don't care if it's classical or pop or anything, just play something!</value>
   </data>
   <data name="0118 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>でないと、壊して薪にするわよ！</value>
+    <value>If you don't, I'll smash you up until you're nothing but chips of wood!</value>
   </data>
   <data name="0119 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ピアノ相手に脅しをかけてどうする</value>
+    <value>What exactly is she expecting to come out of threatening a piano?</value>
   </data>
   <data name="0120 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>って、こら！
-あんまりいじりまくるな</value>
+    <value>Look, hey!
+Don't mess around with it like that!</value>
   </data>
   <data name="0121 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>変なとこ触って、調律が狂ったら
-どうするんだ</value>
+    <value>What're you gonna do if you mess up the tuning touching it in weird places?</value>
   </data>
   <data name="0122 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>ピアノの調律って、かなり大変で
-金だって結構かかるって聞いたぞ</value>
+    <value>I heard tuning a piano is a big deal and even costs a lot of money.</value>
   </data>
   <data name="0123 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>……ふん、わかってるわよ</value>
+    <value>…Hmph, I get it--okay?</value>
   </data>
   <data name="0124 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>まったく、放っておくと何を
-しでかすか分かったもんじゃないな</value>
+    <value>Good grief--God knows what she'd end up doing if we left her on her own.</value>
   </data>
   <data name="0125 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>こうなったら、例の楽譜は
-何としても見つけてやるわ！</value>
+    <value>Since it's come to this, we're gonna find the sheet music I mentioned no matter what!</value>
   </data>
   <data name="0126 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>みんな、手伝いなさい！</value>
+    <value>You all need to help out!</value>
   </data>
   <data name="0127 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>やれやれ……</value>
+    <value>Good grief…</value>
   </data>
   <data name="0128 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ハルヒが納得するまで付き合って
-やらないわけにはいかないか</value>
+    <value>I guess we just have to go along with Haruhi until she eventually accepts it.</value>
   </data>
   <data name="0129 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>これは弱りましたね</value>
+    <value>This is rather troubling indeed.</value>
   </data>
   <data name="0130 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>ん……なにがだ</value>
+    <value>Hm... What is?</value>
   </data>
   <data name="0131 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>時間ですよ</value>
+    <value>The time.</value>
   </data>
   <data name="0132 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>実際に怪異が起るのは午後３時
-という話です</value>
+    <value>I'm talking about how the abnormal event actually occurs at 3 PM.</value>
   </data>
   <data name="0133 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>このまま音楽室にいては、本当に
-ピアノが鳴り出すかもしれません</value>
+    <value>If we remain in the music room like this, we may actually hear the piano start to play.</value>
   </data>
   <data name="0134 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>バカな、長門は大丈夫だと言って
-たぞ？</value>
+    <value>No way--Nagato said it was safe?</value>
   </data>
   <data name="0135 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>あの時、長門さんは何かを言いかけ
-ていました</value>
+    <value>At the time, Nagato was about to tell you something.</value>
   </data>
   <data name="0136 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>僕は、あれがなんだったのかが
-非常に気になります</value>
+    <value>I myself am greatly interested in what that may have been.</value>
   </data>
   <data name="0137 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>……わかった
-本人に聞いてみよう</value>
+    <value>…Got it.
+Well, let's ask the person in question.</value>
   </data>
   <data name="0139 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>長門、聞きたいことがあるんだが</value>
+    <value>Nagato, there's something we wanna ask...</value>
   </data>
   <data name="0140 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>なに？</value>
+    <value>What is it?</value>
   </data>
   <data name="0141 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>さっき言いかけてたことが
-あったよな？</value>
+    <value>You were about to say something earlier, right?</value>
   </data>
   <data name="0142 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>…………</value>
+    <value>……</value>
   </data>
   <data name="0143 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>あれは、なんだったんだ？</value>
+    <value>What was it?</value>
   </data>
   <data name="0145 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>何かが気になるとおっしゃって
-いましたよね</value>
+    <value>If I recall correctly, you stated that there was something that concerns you.</value>
   </data>
   <data name="0146 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>気になったのは、ここの空間のこと</value>
+    <value>What concerns me--is this space.</value>
   </data>
   <data name="0147 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>何も問題がないって言ってたよな</value>
+    <value>You said there weren't any problems, didn't you?</value>
   </data>
   <data name="0148 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>問題がないことが問題</value>
+    <value>The lack of problems is a problem.</value>
   </data>
   <data name="0149 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>……言葉遊びなら、ハルヒと
-やってほしいんだが</value>
+    <value>…If you wanna play a word game, do it with Haruhi instead...</value>
   </data>
   <data name="0150 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>現在、学校内の情報結合が通常より
-不安定になっている</value>
+    <value>At the present, the data links throughout the school are destabilizing more than usual.</value>
   </data>
   <data name="0151 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>それは聞いた</value>
+    <value>You've said that before.</value>
   </data>
   <data name="0152 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>おかげで、情報生命体だかなんだか
-ってのが集まってくるんだろ？</value>
+    <value>And thanks to that--the data lifeforms or whatever are gathering here, right?</value>
   </data>
   <data name="0153 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>でも、この音楽室はいつも通りで
-妙なことが起りそうもないと</value>
+    <value>But you said this music room is as normal, and nothing strange seems likely to happen.</value>
   </data>
   <data name="0154 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>いつも通り、という表現は
-正しくない</value>
+    <value>The expression "as normal" is not correct.</value>
   </data>
   <data name="0155 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>なに……？</value>
+    <value>What...?</value>
   </data>
   <data name="0156 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>情報結合は安定し、他の情報が
-介入する余地がない</value>
+    <value>The data links are stable, so there's no margin for other data to intervene.</value>
   </data>
   <data name="0157 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>この空間はきれいすぎる</value>
+    <value>This space is too clean.</value>
   </data>
   <data name="0158 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>きれいすぎ……る？</value>
+    <value>Too... clean?</value>
   </data>
   <data name="0161 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ちょっとそこの３人</value>
+    <value>Hey, you three.</value>
   </data>
   <data name="0162 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>あたし、いったん部室に戻るわ</value>
+    <value>I'm heading back to the clubroom.</value>
   </data>
   <data name="0163 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>ど、どうしたんだ急に</value>
+    <value>Wh-what's wrong--all of a sudden?</value>
   </data>
   <data name="0164 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>もう一回、調べ直してくるのよ</value>
+    <value>I'm gonna check the sources once more.</value>
   </data>
   <data name="0165 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ついでにコンピ研で話も
-聞いてくるわ</value>
+    <value>I'll ask the Computer Society while I'm at it.</value>
   </data>
   <data name="0166 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>このままじゃおさまりが
-つかないもの</value>
+    <value>We're never gonna reach a conclusion at this rate.</value>
   </data>
   <data name="0167 (414.ja) KYON_SIS (妹)" xml:space="preserve">
-    <value>あー、待ってハルにゃん</value>
+    <value>Ah, wait for me, Haru-nyan.</value>
   </data>
   <data name="0168 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>あ、おい、ハルヒ！</value>
+    <value>H-hey, Haruhi!</value>
   </data>
   <data name="0169 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ハルヒは勢いよく扉を開けて音楽室
-から出ていってしまう</value>
+    <value>Haruhi opened the door and headed out of the music room, showing no signs of stopping.</value>
   </data>
   <data name="0170 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>それにくっついて妹も出て行って
-しまった</value>
+    <value>My little sister tagged along with her.</value>
   </data>
   <data name="0171 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>ったく、もうちょっと考えてから
-行動してほしい</value>
+    <value>Good grief... I want to think about this a little before we take any action.</value>
   </data>
   <data name="0172 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>どうやら、涼宮さんの精神状態は
-あまりかんばしくないようです</value>
+    <value>It seems Miss Suzumiya's mental condition is less than favorable.</value>
   </data>
   <data name="0173 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>おまえの超能力は、ハルヒの機嫌も
-分かるのか？</value>
+    <value>Your ESP allows you to understand Haruhi's mood?</value>
   </data>
   <data name="0174 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>超能力ではありません
-単なる主観による感想です</value>
+    <value>It's not ESP, it's just my personal opinion.</value>
   </data>
   <data name="0175 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そりゃ、ハルヒをよく観察してる
-ことだな</value>
+    <value>You must be paying very close attention to her.</value>
   </data>
   <data name="0176 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>しかし、涼宮さんを音楽室から
-引き離せたのは運がよかったと</value>
+    <value>However, I do believe we are rather fortunate that Haruhi left the music room...</value>
   </data>
   <data name="0177 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>思います</value>
+    <value>...of her own volition.</value>
   </data>
   <data name="0178 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>それに、長門さんの言っていたこと
-も気になります</value>
+    <value>What Nagato said weighs greatly on my mind as well.</value>
   </data>
   <data name="0179 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>早くここを出ましょう</value>
+    <value>I suggest we leave here at once.</value>
   </data>
   <data name="0180 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>その意見には賛成だ</value>
+    <value>I agree with you on that.</value>
   </data>
   <data name="0181 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>ハルヒは誤魔化せたんだ
-後はどうとでもなるさ</value>
+    <value>We managed to trick Haruhi. I don't care what happens next.</value>
   </data>
   <data name="0182 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>となれば、まず我々にはしなければ
-ならないことがあります</value>
+    <value>In that case, there's one matter we must attend to first.</value>
   </data>
   <data name="0183 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>しなければならないこと？
-なんだ、それは</value>
+    <value>Something we have to attend to? What's that?</value>
   </data>
   <data name="0184 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>ここの後かたづけです</value>
+    <value>Tidying this room up.</value>
   </data>
   <data name="0185 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>どう？　楽譜は見つかった？</value>
+    <value>How's it going? Did you find the sheet music?</value>
   </data>
   <data name="0186 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>いや、まだだ</value>
+    <value>No, not yet.</value>
   </data>
   <data name="0187 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>ならこんなとこでしゃべってないで
-きりきり探しなさい！</value>
+    <value>Then stop chatting and search properly!</value>
   </data>
   <data name="0188 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>……同じ質問は２度しないわよ？</value>
+    <value>…I'm not gonna ask twice, okay?</value>
   </data>
   <data name="0189 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>う……</value>
+    <value>Ugh…</value>
   </data>
   <data name="0190 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>引き続き探してくる</value>
+    <value>I'll keep searching.</value>
   </data>
   <data name="0191 (414.ja) HARUHI (ハルヒ)" xml:space="preserve">
-    <value>そうしてちょうだい</value>
+    <value>You do that.</value>
   </data>
   <data name="0192 (414.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>キョンくん、何か見つかりました？</value>
+    <value>Kyon, have you found anything?</value>
   </data>
   <data name="0193 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>いえ、それが何も</value>
+    <value>No, nothing.</value>
   </data>
   <data name="0194 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そんな不安そうな顔をしなくても</value>
+    <value>You don't need to look so worried...</value>
   </data>
   <data name="0195 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>朝比奈さんの責任ではないのです
-から</value>
+    <value>It's not your responsibility, Asahina.</value>
   </data>
   <data name="0196 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>ともかく、もうしばらくがんばって
-みましょう</value>
+    <value>Let's just keep working at it for now.</value>
   </data>
   <data name="0197 (414.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>はい。そうですね</value>
+    <value>Yes, let's keep at it.</value>
   </data>
   <data name="0198 (414.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>うーん、ないなぁ……あっ！
-……ただのミスプリントみたいです</value>
+    <value>Hmm, not here... Oh--!
+...Looks like it's just a misprint...</value>
   </data>
   <data name="0199 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>どうやら一心不乱に探して
-いらっしゃるようだ</value>
+    <value>Looks like she's really trying her hardest to find it.</value>
   </data>
   <data name="0200 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そっとしておこう</value>
+    <value>I'll leave her to it.</value>
   </data>
   <data name="0202 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>何か見つかったか？</value>
+    <value>Have you found anything?</value>
   </data>
   <data name="0203 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>…………</value>
+    <value>……</value>
   </data>
   <data name="0204 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>長門は小さく首を横に振る</value>
+    <value>Nagato gave a tiny sideways shake of the head.</value>
   </data>
   <data name="0205 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>実際のところ、この部屋にそんな
-いわくつきの楽譜があるのかね</value>
+    <value>I wonder if there even is such sheet music in this room.</value>
   </data>
   <data name="0206 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>この部屋の中に、涼宮ハルヒが言う
-ような楽譜は存在しない</value>
+    <value>The sheet music Haruhi Suzumiya speaks of does not exist within this room.</value>
   </data>
   <data name="0207 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>やっぱりな</value>
+    <value>Figures, huh.</value>
   </data>
   <data name="0208 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>例の、異空間ってのはありそうか？</value>
+    <value>Do you think there's one of those abnormal spaces?</value>
   </data>
   <data name="0209 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>現時点では発生していない</value>
+    <value>None have been generated at the present.</value>
   </data>
   <data name="0210 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>そうか……</value>
+    <value>I see…</value>
   </data>
   <data name="0211 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ってことは、今度こそ本当に
-コンピ研の勘違いってことか</value>
+    <value>In other words, this time it really was just a misunderstanding from the Computer Society.</value>
   </data>
   <data name="0212 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>ありがとな、長門</value>
+    <value>Thanks, Nagato.</value>
   </data>
   <data name="0213 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>後は適当に探すフリでもしてれば
-いいからな</value>
+    <value>Just keep pretending to search or whatever and you're good.</value>
   </data>
   <data name="0214 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>…………</value>
+    <value>……</value>
   </data>
   <data name="0215 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>長門……？</value>
+    <value>Nagato...?</value>
   </data>
   <data name="0216 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>探すフリ</value>
+    <value>Pretending to search.</value>
   </data>
   <data name="0217 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>そ、そうか、邪魔して悪かった</value>
+    <value>R-right... Sorry for bothering you.</value>
   </data>
   <data name="0218 (414.ja) NAGATO (長門)" xml:space="preserve">
-    <value>いい</value>
+    <value>It's fine.</value>
   </data>
   <data name="0219 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>古泉、首尾はどうだ</value>
+    <value>Koizumi, how's it all going?</value>
   </data>
   <data name="0220 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>残念ながら楽譜はおろか、手がかり
-すら見つかりませんね</value>
+    <value>Unfortunately I'm yet to find a even a clue, let alone the sheet music.</value>
   </data>
   <data name="0221 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>まあ、そうだろうな</value>
+    <value>Well, I'm not sure what else I expected.</value>
   </data>
   <data name="0222 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>なにせ、ハルヒが適当に思いついた
-話なんだ</value>
+    <value>It is just something Haruhi came up with on her own, after all.</value>
   </data>
   <data name="0223 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>とはいえ、涼宮さんのことです</value>
+    <value>Though, this is Miss Suzumiya we're dealing with.</value>
   </data>
   <data name="0224 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>いつ何時、怪異を呼び起すやも
-しれません</value>
+    <value>We cannot predict when she may give rise to any oddities.</value>
   </data>
   <data name="0225 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>注意するにこしたことはない
-でしょう</value>
+    <value>It's best to err on the side of caution, don't you agree?</value>
   </data>
   <data name="0226 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>なら、ハルヒの監視はお前に
-任せたぞ</value>
+    <value>Keeping an eye on Haruhi is all up to you then.</value>
   </data>
   <data name="0227 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>普通の人間である俺には、怪異だ
-なんて荷が重すぎるからな</value>
+    <value>Such a topic as the supernatural is way too much for a normal human like me after all.</value>
   </data>
   <data name="0229 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>古泉、どうだ？</value>
+    <value>Koizumi, how's it going?</value>
   </data>
   <data name="0230 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>相変わらず、といったところです</value>
+    <value>I suppose one would say "as usual" in a situation like this.</value>
   </data>
   <data name="0231 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>そうか</value>
+    <value>Right...</value>
   </data>
   <data name="0232 (414.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>何か見つけたら、真っ先に
-お伝えしますよ</value>
+    <value>If I find anything, I'll let you know right away, of course.</value>
   </data>
   <data name="0233 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>ああ、頼む</value>
+    <value>Ah, thanks a lot.</value>
   </data>
   <data name="0235 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>こら、あんまり朝比奈さんに
-迷惑かけるんじゃないぞ</value>
+    <value>Hey, stop bothering Asahina.</value>
   </data>
   <data name="0236 (414.ja) KYON_SIS (妹)" xml:space="preserve">
-    <value>そんなことないもん</value>
+    <value>I'm not bothering her.</value>
   </data>
   <data name="0237 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>ああそうかい。ならおとなしく
-家に帰ってろ</value>
+    <value>Oh really? Then be a good little sister and go home.</value>
   </data>
   <data name="0238 (414.ja) KYON_SIS (妹)" xml:space="preserve">
-    <value>もう、キョンくんったら信じて
-くれないんだぁ</value>
+    <value>Geez, why won't you believe me, Kyon?</value>
   </data>
   <data name="0239 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>日々、その言動を見つめている兄と
-しては不安にならざるをえないんだ</value>
+    <value>As your brother who witnesses that conduct every day--I can't help it.</value>
   </data>
   <data name="0240 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>とにかく、朝比奈さんだって
-ヒマじゃないんだぞ</value>
+    <value>Either way, Asahina is busy at the moment.</value>
   </data>
   <data name="0241 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>あんまり無茶なこと言うなよ</value>
+    <value>So don't be unreasonable.</value>
   </data>
   <data name="0242 (414.ja) KYON_SIS (妹)" xml:space="preserve">
-    <value>はぁい</value>
+    <value>Okay...</value>
   </data>
   <data name="0243 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>なにやってんだ？</value>
+    <value>What are you doing?</value>
   </data>
   <data name="0244 (414.ja) KYON_SIS (妹)" xml:space="preserve">
-    <value>みくるちゃんのお手伝いだよ
-キョンくん</value>
+    <value>I'm helping Mikuru.</value>
   </data>
   <data name="0245 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>ほう、そりゃ感心だ</value>
+    <value>Wow, that's quite impressive.</value>
   </data>
   <data name="0246 (414.ja) KYON_SIS (妹)" xml:space="preserve">
-    <value>そうだよ、だから邪魔しないでー</value>
+    <value>It is, so don't interrupt me.</value>
   </data>
   <data name="0247 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>むぅ……</value>
+    <value>Grr…</value>
   </data>
   <data name="0248 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>逆に怒られてしまった</value>
+    <value>Now she's the one scolding me.</value>
   </data>
   <data name="0250 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>これが音楽室で唯一のピアノか</value>
+    <value>So this is the only piano in the music room, huh.</value>
   </data>
   <data name="0251 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>見たところ、なんの変哲もない
-これが独りでに鳴り出すとはな</value>
+    <value>Just looking at it, it seems perfectly normal. There's no way it'd play on its own.</value>
   </data>
   <data name="0252 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>まったく、バカバカしい</value>
+    <value>Good grief, how absurd.</value>
   </data>
   <data name="0253 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>やはり、ピアノに異常は
-見あたらないようだ</value>
+    <value>As expected, there's nothing strange to be found on the piano.</value>
   </data>
   <data name="0254 (414.ja) KYON (キョン)" xml:space="preserve">
-    <value>ん……？</value>
+    <value>Hm...?</value>
   </data>
   <data name="0255 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>鍵盤の一つに何か書いてあるな</value>
+    <value>There's something written on one of the keys.</value>
   </data>
   <data name="0256 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>『ド』</value>
+    <value>"Do."</value>
   </data>
   <data name="0257 (414.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>……誰だ、こんなの書いたやつは</value>
+    <value>…Who would've written this?</value>
   </data>
   <data name="0260 (414.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ハルヒについて</value>
+    <value>About Haruhi</value>
   </data>
 </root>
