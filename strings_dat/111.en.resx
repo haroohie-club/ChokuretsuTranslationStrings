@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,229 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0001 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The Usual Cadence</value>
+  </data>
+  <data name="0003 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Max Relax</value>
+  </data>
+  <data name="0004 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Super Straightforward Action</value>
+  </data>
+  <data name="0005 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The Honest Truth</value>
+  </data>
+  <data name="0006 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Thus I Look Like an Idiot</value>
+  </data>
+  <data name="0007 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Tension</value>
+  </data>
+  <data name="0008 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The Start of the Mystery</value>
+  </data>
+  <data name="0009 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The Passion of Her</value>
+  </data>
+  <data name="0010 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Unending Futility</value>
+  </data>
+  <data name="0011 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>White Day Dream</value>
+  </data>
+  <data name="0012 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The Unfinished Sonata</value>
+  </data>
+  <data name="0014 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The Fate of Hardship</value>
+  </data>
+  <data name="0016 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The Final Cleanup</value>
+  </data>
+  <data name="0017 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Barely</value>
+  </data>
+  <data name="0019 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>You Can't Do It</value>
+  </data>
+  <data name="0018 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>You Can Do It</value>
+  </data>
+  <data name="0015 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>It’s Not My Fault</value>
+  </data>
+  <data name="0020 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The head-turner turns up late.</value>
+  </data>
+  <data name="0021 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The same old pretty face.</value>
+  </data>
+  <data name="0023 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The same old audacious face.</value>
+  </data>
+  <data name="0025 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Violent explosion.</value>
+  </data>
+  <data name="0026 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>"Shiatsu" is written as "finger pressure therapy."</value>
+  </data>
+  <data name="0028 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>A thing that exists which shouldn’t.</value>
+  </data>
+  <data name="0029 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Here I go.</value>
+  </data>
+  <data name="0030 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>How to use your feet.</value>
+  </data>
+  <data name="0031 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Orthodox reaction.</value>
+  </data>
+  <data name="0032 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Suggestions for sleep study.</value>
+  </data>
+  <data name="0033 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The reason for the tears is…</value>
+  </data>
+  <data name="0034 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Acceleration and braking.</value>
+  </data>
+  <data name="0036 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>What're you doing??</value>
+  </data>
+  <data name="0037 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Hello there.</value>
+  </data>
+  <data name="0038 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Welcome.</value>
+  </data>
+  <data name="0040 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Do you have a moment?</value>
+  </data>
+  <data name="0041 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Say “aaaaah.”</value>
+  </data>
+  <data name="0042 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>It’s somewhere over here now.</value>
+  </data>
+  <data name="0044 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Decisiveness is also high level.</value>
+  </data>
+  <data name="0045 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Master of reading at an angle.</value>
+  </data>
+  <data name="0046 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Wicked insight.</value>
+  </data>
+  <data name="0047 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The fish I caught was huge.</value>
+  </data>
+  <data name="0048 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Gentle esper boy.</value>
+  </data>
+  <data name="0050 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The listening party.</value>
+  </data>
+  <data name="0051 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Full of tension.</value>
+  </data>
+  <data name="0052 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>This is what you call "guaranteed."</value>
+  </data>
+  <data name="0053 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>I'm so happy it's scary. Pt. 1</value>
+  </data>
+  <data name="0054 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The girl who knows the difference.</value>
+  </data>
+  <data name="0055 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>FLOWERS</value>
+  </data>
+  <data name="0056 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Enchanting wink.</value>
+  </data>
+  <data name="0058 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>It's cryptic.</value>
+  </data>
+  <data name="0059 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>I'll play a lil' something.</value>
+  </data>
+  <data name="0060 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Wanted! Flashy ghost story!</value>
+  </data>
+  <data name="0061 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Somewhat pleasant.</value>
+  </data>
+  <data name="0062 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>God knows if it'll come true.</value>
+  </data>
+  <data name="0063 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>This too is uniform.</value>
+  </data>
+  <data name="0064 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Introduction to survival.</value>
+  </data>
+  <data name="0065 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Ultra head chef.</value>
+  </data>
+  <data name="0066 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Miss, is it like this?</value>
+  </data>
+  <data name="0068 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Installation.</value>
+  </data>
+  <data name="0069 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>I'm so glad I'm a brigade member.</value>
+  </data>
+  <data name="0070 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Thanks to the cleaning lady.</value>
+  </data>
+  <data name="0071 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Barbeque party under the stars.</value>
+  </data>
+  <data name="0073 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Lovely sister... Heavy sister…</value>
+  </data>
+  <data name="0074 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Silent flattery.</value>
+  </data>
+  <data name="0000 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Today's another wonderful day!</value>
+  </data>
+  <data name="0002 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The Peace Here Right Now</value>
+  </data>
+  <data name="0013 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Quietly, Secretly</value>
+  </data>
+  <data name="0022 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The same old serious face.</value>
+  </data>
+  <data name="0024 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Debriefing at the meeting place.</value>
+  </data>
+  <data name="0027 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Is there a floor over there?</value>
+  </data>
+  <data name="0035 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>What're you doing?</value>
+  </data>
+  <data name="0043 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>High level explosiveness.</value>
+  </data>
+  <data name="0049 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>Gentle esper ball.</value>
+  </data>
+  <data name="0039 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>This is the man-eating classroom!</value>
+  </data>
+  <data name="0057 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>They're like a mouse and cheese.</value>
+  </data>
+  <data name="0067 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>The ultimate skewer.</value>
+  </data>
+  <data name="0072 (dat_111.ja) INFO (INFO)" xml:space="preserve">
+    <value>This was also "guaranteed."</value>
+  </data>
 </root>

@@ -907,4 +907,16 @@
   <data name="0282 (589.ja) NAGATO (NGT_GRAB00)" xml:space="preserve">
     <value>Awaiting orders.</value>
   </data>
+  <data name="0283 (589.ja) HARUHI (HRH_FIX00)" xml:space="preserve">
+    <value>あたしに命令しないで！</value>
+  </data>
+  <data name="0284 (589.ja) KOIZUMI (KZM_FIX00)" xml:space="preserve">
+    <value>申し訳ありません。そちらを手伝い出来ません</value>
+  </data>
+  <data name="0285 (589.ja) MIKURU (MKR_FIX00)" xml:space="preserve">
+    <value>すみません、禁則事項です</value>
+  </data>
+  <data name="0286 (589.ja) NAGATO (NGT_FIX00)" xml:space="preserve">
+    <value>最優先。変更を拒否</value>
+  </data>
 </root>
