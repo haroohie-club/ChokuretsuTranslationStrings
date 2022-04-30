@@ -911,12 +911,12 @@
     <value>Don't give me orders!</value>
   </data>
   <data name="0284 (589.ja) KOIZUMI (KZM_FIX00)" xml:space="preserve">
-    <value>申し訳ありません。そちらを手伝い出来ません</value>
+    <value>My sincerest apologies. I can't help with that.</value>
   </data>
   <data name="0285 (589.ja) MIKURU (MKR_FIX00)" xml:space="preserve">
-    <value>すみません、禁則事項です</value>
+    <value>I'm sorry, that's classified...</value>
   </data>
   <data name="0286 (589.ja) NAGATO (NGT_FIX00)" xml:space="preserve">
-    <value>最優先。変更を拒否</value>
+    <value>Priority optimized--Alterations rejected.</value>
   </data>
 </root>
