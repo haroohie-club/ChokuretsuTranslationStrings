@@ -59,101 +59,85 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="0000 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そんなわけで、朝比奈さんと食材の
-買い出しに出かけることになった</value>
+    <value>With things arranged as such, I ended up going out shopping with Asahina.</value>
   </data>
   <data name="0001 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ゴタゴタとしたややこしい合宿に
-一服の清涼剤といったところか</value>
+    <value>I guess it's a breath of fresh air amidst the messy and complicated summer camp.</value>
   </data>
   <data name="0002 (426.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>えっと、バーベキューってどんな
-ものを焼くのがいいんでしょう？</value>
+    <value>Umm, what sort of things are best for a barbeque?</value>
   </data>
   <data name="0003 (426.ja) KYON (キョン)" xml:space="preserve">
-    <value>そうですね、焼いて食えるものなら
-なんでもいいんじゃないですか</value>
+    <value>Let's see... Isn't anything fine as long as you can cook it?</value>
   </data>
   <data name="0004 (426.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>うーん、なにがいいのかな……</value>
+    <value>Hmm, I wonder what we should go for…</value>
   </data>
   <data name="0005 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>朝比奈さんは歩きながらもあれこれ
-考えておられるご様子だ</value>
+    <value>Asahina appeared to be considering all sorts of things as we walked.</value>
   </data>
   <data name="0006 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ここはひとつアイデアを出した方が
-いいかも知れないな</value>
+    <value>Maybe it'd be best to make a suggestion.</value>
   </data>
   <data name="0007 (426.ja) KYON (キョン)" xml:space="preserve">
-    <value>定番だと、トウモロコシなんて
-どうです？</value>
+    <value>How about corn on the cob, considering it's a staple?</value>
   </data>
   <data name="0008 (426.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>あっ、キョンくん
-それはおいしそうですね</value>
+    <value>Ah, Kyon, that sounds delicious!</value>
   </data>
   <data name="0009 (426.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>そういうどっしりしたお野菜も
-いいかもしれませんね</value>
+    <value>That sort of more substantial vegetable is probably a good idea as well.</value>
   </data>
   <data name="0010 (426.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>他には何がいいかなぁ……</value>
+    <value>I wonder what else…</value>
   </data>
   <data name="0011 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>朝比奈さんはトウモロコシから
-買うものを連想していらっしゃる</value>
+    <value>Asahina was thinking of what to buy next after corn.</value>
   </data>
   <data name="0012 (426.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>#P05“レシピ”#P00をメモにしましょう</value>
+    <value>I'll write a note of the “#P05recipe#P00.”</value>
   </data>
   <data name="0013 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>朝比奈さんの#P05“レシピ”#P01か</value>
+    <value>Asahina's “#P05recipe#P01,” huh.</value>
   </data>
   <data name="0014 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>そいつは役に立ちそうな気がするな</value>
+    <value>I get the feeling that's gonna come in handy.</value>
   </data>
   <data name="0016 (426.ja) KYON (キョン)" xml:space="preserve">
-    <value>ヤキモチなんてどうです？</value>
+    <value>What about roasted rice cakes?</value>
   </data>
   <data name="0017 (426.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>あはは、キョンくんったら</value>
+    <value>Ahaha, silly Kyon.</value>
   </data>
   <data name="0018 (426.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>それはワンちゃんも食べないですよ</value>
+    <value>Not even a dog would eat that.</value>
   </data>
   <data name="0019 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>朝比奈さんは俺の冗談にウケて
-おられるようだが……</value>
+    <value>Asahina seemed to find my joke funny, but…</value>
   </data>
   <data name="0020 (426.ja) KYON (キョン)" xml:space="preserve">
-    <value>朝比奈さん、犬も食わないのは
-夫婦ゲンカじゃなかったですか？</value>
+    <value>Asahina, wasn't it a marital quarrel that dogs won't eat?</value>
   </data>
   <data name="0021 (426.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>え？　あ、あれ？　間違えちゃい
-ました？　は、恥ずかしい……</value>
+    <value>Huh? Wh-what? Was I wrong? Th-that's embarrassing…</value>
   </data>
   <data name="0022 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>朝比奈さんが恥ずかしがる様子は
-どんな#P05“ツッコミ”#P01より素敵です</value>
+    <value>Seeing Asahina looking embarrassed is more wonderful than any kind of "#P05retort#P01."</value>
   </data>
   <data name="0023 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>この恥じらう様子も、ハルヒの言う
-ところの萌え要素なんだろうな</value>
+    <value>I guess this is that element of moe that Haruhi said about.</value>
   </data>
   <data name="0025 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>ふたりで歩いているうちに
-青果店に到着した</value>
+    <value>While the two of us were walking, we arrived at a greengrocer.</value>
   </data>
   <data name="0026 (426.ja) GROCER (八百屋)" xml:space="preserve">
-    <value>いらっしゃい！</value>
+    <value>Welcome!</value>
   </data>
   <data name="0027 (426.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>すみません、見せて下さいな</value>
+    <value>Excuse us, do you mind if we look around?</value>
   </data>
   <data name="0028 (426.ja) GROCER (八百屋)" xml:space="preserve">
-    <value>どうぞごゆっくり！</value>
+    <value>Go ahead!</value>
   </data>
   <data name="0029 (426.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>店のオヤジさんはやたらに威勢よく
