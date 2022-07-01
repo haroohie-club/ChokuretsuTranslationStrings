@@ -221,7 +221,7 @@
     <value>I know they've been staying overnight, but he's walking as if he hasn't slept for days.</value>
   </data>
   <data name="0055 (393.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>He keeps drifting in different directions as he moves, looking unsteady on his feet.</value>
+    <value>He keeps drifting in different directions as he moves, looking around aimlessly.</value>
   </data>
   <data name="0056 (393.ja) KYON (キョン)" xml:space="preserve">
     <value>…What on earth is he doing?</value>
@@ -290,25 +290,25 @@
     <value>Just wait a second!</value>
   </data>
   <data name="0078 (393.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>You should listen to it too…!</value>
+    <value>You should listen too…!</value>
   </data>
   <data name="0079 (393.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>He wants me to listen to it?</value>
   </data>
   <data name="0080 (393.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>This guy—who is clearly acting out of his mind—wants to open the lid of the music box.</value>
+    <value>This guy—who is clearly not in his right mind—wants to open the lid of the music box.</value>
   </data>
   <data name="0081 (393.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>In other words—I mustn't let him open it at any cost, right?</value>
+    <value>In that case—I probably shouldn't let him open it at any cost.</value>
   </data>
   <data name="0082 (393.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>I twisted my body to get it out of his reach.</value>
+    <value>I twisted my body to try and get it out of his reach.</value>
   </data>
   <data name="0083 (393.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>His hand hit the music box and it fell to the floor.</value>
+    <value>But his hand hit the music box, knocking it to the floor.</value>
   </data>
   <data name="0084 (393.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>The impact as it hit the floor opened the lid, but it didn't make any noise.</value>
+    <value>The impact from falling caused the lid to open, but it didn't start producing sound.</value>
   </data>
   <data name="0085 (393.ja) KYON (キョン)" xml:space="preserve">
     <value>Hm? Is it broken?</value>
@@ -326,10 +326,10 @@
     <value>…What's going on here?</value>
   </data>
   <data name="0090 (393.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>I took a cautious look over the broken music box and the club member on the floor.</value>
+    <value>I gave a cautious look at the broken music box and the club member on the floor.</value>
   </data>
   <data name="0091 (393.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>Ug… Uhhhh.</value>
+    <value>Ugh… Uhhhh.</value>
   </data>
   <data name="0092 (393.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>Looks like he's come to his senses.</value>
@@ -338,7 +338,7 @@
     <value>Huh…? Where am I? How did I end up here?</value>
   </data>
   <data name="0094 (393.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Seeing him look around and tilt his head—is it okay to trust him?</value>
+    <value>He tilted his head and searched his surroundings—is it okay to trust him?</value>
   </data>
   <data name="0095 (393.ja) KYON (キョン)" xml:space="preserve">
     <value>…Oi.</value>
@@ -359,10 +359,10 @@
     <value>What about that sheet music?</value>
   </data>
   <data name="0101 (393.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>Sheet music? This sheet music scattered around? I don't know…</value>
+    <value>Sheet music? This paper scattered around? I don't know…</value>
   </data>
   <data name="0102 (393.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Seems genuine. He wasn't conscious during that memory transcription Nagato said about?</value>
+    <value>Seems genuine. So he wasn't conscious during that memory transcription Nagato spoke of?</value>
   </data>
   <data name="0103 (393.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>In other words—he was being controlled by a data lifeform or whatever, right?</value>
@@ -371,10 +371,10 @@
     <value>Uhh, hmm—I can't remember…</value>
   </data>
   <data name="0105 (393.ja) KYON (キョン)" xml:space="preserve">
-    <value>The other members told me you went to go to the music room to get a sample.</value>
+    <value>The other members told me you were going to the music room to get an audio sample.</value>
   </data>
   <data name="0106 (393.ja) CLUB_MEM_B (部員Ｂ)" xml:space="preserve">
-    <value>R-really…</value>
+    <value>R-really…?</value>
   </data>
   <data name="0107 (393.ja) KYON (キョン)" xml:space="preserve">
     <value>You were moving unconsciously, right? You should get some proper sleep.</value>
@@ -386,7 +386,7 @@
     <value>He gave an honest nod and walked off.</value>
   </data>
   <data name="0110 (393.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>I gathered all the pages of sheet music that were scattered around the corridor.</value>
+    <value>I gathered up all the pages of sheet music that were scattered around the hallway.</value>
   </data>
   <data name="0111 (393.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>A music box and sheet music, huh? I'd better show these to Nagato.</value>
