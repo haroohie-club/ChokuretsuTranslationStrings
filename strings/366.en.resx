@@ -539,21 +539,21 @@
     <value>I don't have any reason to chat with this guy.</value>
   </data>
   <data name="0177 (366.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Continue asking regardless.</value>
+    <value>Continue asking regardless</value>
   </data>
   <data name="0178 (366.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Look away.</value>
+    <value>Look away</value>
   </data>
   <data name="0179 (366.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Close your eyes.</value>
+    <value>Close your eyes</value>
   </data>
   <data name="0180 (366.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>Agree.</value>
+    <value>Agree</value>
   </data>
   <data name="0181 (366.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>So, say it out loud.</value>
+    <value>Say it out loud</value>
   </data>
   <data name="0182 (366.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>So, just think it in your mind.</value>
+    <value>Just think it in your mind</value>
   </data>
 </root>
