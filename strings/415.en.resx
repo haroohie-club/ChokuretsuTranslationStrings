@@ -65,7 +65,7 @@
     <value>Damn Haruhi, always leaving a mess for no reason.</value>
   </data>
   <data name="0002 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>…………</value>
+    <value>……</value>
   </data>
   <data name="0003 (415.ja) KYON (キョン)" xml:space="preserve">
     <value>Koizumi, what's wrong?</value>
@@ -74,7 +74,7 @@
     <value>The time, It's exactly 3 o'clock.</value>
   </data>
   <data name="0005 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>ah, it is…</value>
+    <value>Ah, it is…</value>
   </data>
   <data name="0006 (415.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>According to the Computer Society's findings, a ghost should be appearing any time now.</value>
@@ -92,13 +92,13 @@
     <value>In other words, one could suddenly appear in front of Haruhi.</value>
   </data>
   <data name="0012 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>Exactly.</value>
+    <value>Precisely.</value>
   </data>
   <data name="0013 (415.ja) KYON (キョン)" xml:space="preserve">
     <value>Then we have to keep her away from here at all costs.</value>
   </data>
   <data name="0014 (415.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>You're right. We have to hurry up and find Suzumiya
+    <value>Y-you're right. If we don't hurry up and find Suzumiya—
 </value>
   </data>
   <data name="0017 (415.ja) KYON (キョン)" xml:space="preserve">
@@ -108,16 +108,16 @@
     <value>Didn't she say she was heading to the Computer Society?</value>
   </data>
   <data name="0019 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>I'll try the clubroom.</value>
+    <value>In any case, let's head back to the clubroom.</value>
   </data>
   <data name="0021 (415.ja) NAGATO (長門)" xml:space="preserve">
-    <value>...wait</value>
+    <value>...Wait.</value>
   </data>
   <data name="0022 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>huh, what's up Nagato?</value>
+    <value>Huh—what's up, Nagato?</value>
   </data>
   <data name="0023 (415.ja) NAGATO (長門)" xml:space="preserve">
-    <value>It's begun.</value>
+    <value>It has begun.</value>
   </data>
   <data name="0024 (415.ja) KYON (キョン)" xml:space="preserve">
     <value>What has?</value>
@@ -126,25 +126,25 @@
     <value>That melody!?</value>
   </data>
   <data name="0026 (415.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Walking down the hallway the sound reached our ears.</value>
+    <value>As we walked down the hallway, the sound of that melody reached our ears.</value>
   </data>
   <data name="0027 (415.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Without a doubt, it was from the music room.</value>
+    <value>Without a doubt, it was originating from the place we just were: The music room.</value>
   </data>
   <data name="0028 (415.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>It's as if it waited for us to leave.</value>
+    <value>It's almost as if it was waiting for us to leave.</value>
   </data>
   <data name="0030 (415.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>Eek...Kyo, Kyon!?</value>
+    <value>Eek... Ky-Kyon!?</value>
   </data>
   <data name="0031 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>Asahina it's ok, calm down.</value>
+    <value>Asahina, please calm down.</value>
   </data>
   <data name="0032 (415.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>I- I'm fine...more importantly, that piano sound…</value>
+    <value>I-I'm fine... but, that piano sound…</value>
   </data>
   <data name="0033 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>Yeh, I know.</value>
+    <value>Yeah, I know.</value>
   </data>
   <data name="0034 (415.ja) MONOLOGUE (モノロ)" xml:space="preserve">
     <value>We were the ones that knew best, no one was in that clubroom.</value>
@@ -195,16 +195,16 @@
     <value>The music room we were just in a while ago had completely changed.</value>
   </data>
   <data name="0053 (415.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>It had been truly transformed into an "abnormal space".</value>
+    <value>It had truly been transformed into an "abnormal space".</value>
   </data>
   <data name="0054 (415.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>In the room that had become so unrecognisable,</value>
+    <value>In the room that had become so unrecognizable…</value>
   </data>
   <data name="0055 (415.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>There was a piano playing on its own.</value>
+    <value>…there was a piano playing on its own.</value>
   </data>
   <data name="0057 (415.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>Eeeek!? Kyo, Kyon.</value>
+    <value>Eeeek!? Ky-Kyon…</value>
   </data>
   <data name="0058 (415.ja) KYON (キョン)" xml:space="preserve">
     <value>It's ok.</value>
@@ -222,83 +222,72 @@
     <value>I did.</value>
   </data>
   <data name="0064 (415.ja) NAGATO (長門)" xml:space="preserve">
-    <value>But it's perfectly possible that the configuration information was interfered with.</value>
+    <value>That is why the structural information can be easily altered by external interference.</value>
   </data>
   <data name="0065 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>I see, it's that kind of thing huh...</value>
+    <value>I see, it's that kind of thing, huh?</value>
   </data>
   <data name="0066 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>What are you talking about!? Stop agreeing with him for no reason.</value>
+    <value>What do you mean? Whatever you two realized, don't leave us out of it.</value>
   </data>
   <data name="0067 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>たとえば、絵を描く場合
-我々は白紙の上に描こうとします</value>
+    <value>For example, when we paint a picture, we do so on a blank sheet of paper.</value>
   </data>
   <data name="0068 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>なぜでしょう？</value>
+    <value>Why might that be?</value>
   </data>
   <data name="0069 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>その方が自由に描けるからだろう
-ゴチャゴチャしてたら描きにくい</value>
+    <value>It's easier to paint freely that way, right? If the page is all messy it's hard to do anything.</value>
   </data>
   <data name="0070 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>つまりはそういうことです</value>
+    <value>In essence, that is what we mean.</value>
   </data>
   <data name="0071 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>音楽室が正常な空間だったのは
-つまりはそのためです</value>
+    <value>The perfectly normal space of the music room serves as a nice canvas to that end.</value>
   </data>
   <data name="0072 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>言ってみれば、空間が白紙にされて
-いたのですよ。誰かの意図的にです</value>
+    <value>In other words, that room can be used as a blank sheet of paper. That is somebody's goal.</value>
   </data>
   <data name="0073 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>じゃあ、俺らはその誰かの不興を
-買ったってことか</value>
+    <value>In that case, won't we be getting on that somebody's bad side?</value>
   </data>
   <data name="0074 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>その可能性は否定できません</value>
+    <value>That possibility cannot be ruled out.</value>
   </data>
   <data name="0076 (415.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>ど、どうしましょうっ</value>
+    <value>Wh-what should we do…?</value>
   </data>
   <data name="0077 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>お前の超能力でぱぱーっとなんとか
-できんのか？</value>
+    <value>Can't you pull off something with your psychic abilities?</value>
   </data>
   <data name="0078 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>一気に潰しては空間に悪影響が出る
-……の、でしたよね？</value>
+    <value>Destroying it all at once would have a negative impact on this space… wouldn't it?</value>
   </data>
   <data name="0079 (415.ja) NAGATO (長門)" xml:space="preserve">
-    <value>そう</value>
+    <value>Yes.</value>
   </data>
   <data name="0080 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>そうだった……</value>
+    <value>So that's how it is…</value>
   </data>
   <data name="0082 (415.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>あ、あの……それよりも</value>
+    <value>U-um… More importantly…</value>
   </data>
   <data name="0083 (415.ja) MIKURU (みくる)" xml:space="preserve">
-    <value>涼宮さんが戻ってきたら、どうしま
-しょう……</value>
+    <value>What should we do when Suzumiya returns…?</value>
   </data>
   <data name="0084 (415.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>確かに、それは差し迫った問題だ</value>
+    <value>Indeed, that's quite the pressing matter.</value>
   </data>
   <data name="0085 (415.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>また、誰かを足止めに派遣するしか
-なさそうだな</value>
+    <value>Guess we have no choice but send someone to keep her away again.</value>
   </data>
   <data name="0087 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>その間にこの異空間を処理する
-しかありませんね</value>
+    <value>In the meantime, we'll just have to deal with this abnormal space.</value>
   </data>
   <data name="0088 (415.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>まったく、次から次へと面倒な
-ことが起こりやがる……</value>
+    <value>It really is just one bother after the next…</value>
   </data>
   <data name="0089 (415.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>ハルヒについて</value>
+    <value>About Haruhi.</value>
   </data>
 </root>
