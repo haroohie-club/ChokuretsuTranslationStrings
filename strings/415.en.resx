@@ -209,13 +209,13 @@
     <value>It's okay.</value>
   </data>
   <data name="0059 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>For now, it seems to just be playing music.</value>
+    <value>For now, it only seems to be playing music.</value>
   </data>
   <data name="0060 (415.ja) MONOLOGUE (モノロ)" xml:space="preserve">
-    <value>Or so I said. No matter how you look at it this isn't ok, is it?!</value>
+    <value>I tried to seem calm by saying such things, but there's no way this is okay.</value>
   </data>
   <data name="0061 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>Nagato, I thought you said the music room was normal.</value>
+    <value>Nagato, didn't you say the music room was normal?</value>
   </data>
   <data name="0063 (415.ja) NAGATO (長門)" xml:space="preserve">
     <value>I did.</value>
@@ -224,7 +224,7 @@
     <value>That is why the structural information can be easily altered by external interference.</value>
   </data>
   <data name="0065 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>I see, it's that kind of thing, huh?</value>
+    <value>I see, so that's how it works.</value>
   </data>
   <data name="0066 (415.ja) KYON (キョン)" xml:space="preserve">
     <value>What do you mean? Whatever you two realized, don't leave us out of it.</value>
@@ -242,22 +242,22 @@
     <value>In essence, that is what we mean.</value>
   </data>
   <data name="0071 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>The perfectly normal space of the music room serves as a nice canvas to that end.</value>
+    <value>The perfectly normal space of the music room serves as a nice canvas, to that end.</value>
   </data>
   <data name="0072 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>In other words, that room can be used as a blank sheet of paper. That is somebody's goal.</value>
+    <value>In other words, the space was cleaned into a blank sheet. Someone did so intentionally.</value>
   </data>
   <data name="0073 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>In that case, won't we be getting on that somebody's bad side?</value>
+    <value>So, are you saying we got on that someone's bad side?</value>
   </data>
   <data name="0074 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
-    <value>That possibility cannot be ruled out.</value>
+    <value>The possibility cannot be ruled out.</value>
   </data>
   <data name="0076 (415.ja) MIKURU (みくる)" xml:space="preserve">
     <value>Wh-what should we do…?</value>
   </data>
   <data name="0077 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>Can't you pull off something with your psychic abilities?</value>
+    <value>Can't you quickly pull something off with your psychic abilities?</value>
   </data>
   <data name="0078 (415.ja) KOIZUMI (古泉)" xml:space="preserve">
     <value>Destroying it all at once would have a negative impact on this space… wouldn't it?</value>
@@ -266,7 +266,7 @@
     <value>Yes.</value>
   </data>
   <data name="0080 (415.ja) KYON (キョン)" xml:space="preserve">
-    <value>So that's how it is…</value>
+    <value>Ah, right…</value>
   </data>
   <data name="0082 (415.ja) MIKURU (みくる)" xml:space="preserve">
     <value>U-um… More importantly…</value>
@@ -287,6 +287,6 @@
     <value>It really is just one bother after the next…</value>
   </data>
   <data name="0089 (415.ja) INFO (CHOICE)" xml:space="preserve">
-    <value>About Haruhi.</value>
+    <value>About Haruhi</value>
   </data>
 </root>
